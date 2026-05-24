@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-05-25T07:36:23.521175+09:00",
-  "label": "07:36",
+  "timestamp": "2026-05-25T07:47:18.665505+09:00",
+  "label": "07:47",
   "items": [
     {
       "keyword": "코스피",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "\"부자될 마지막 기회?\"…'59만전자·400만닉스'의 유혹 [월급쟁이 희노애락]",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260524162656290"
+      }
+    },
+    {
+      "keyword": "금",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "채권 금리 뛰자 매력 ‘뚝’… 金 ETF서 한 달 새 1200억원 유출 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/stock/stock_general/2026/05/24/TB56AYA46VGM7EIIU2JB2M3LLU/"
       }
     },
     {
@@ -28,18 +38,18 @@
       "traffic": 500,
       "news": {
         "title": "\"첫 끼는 오후 2시\"…전지현의 놀라운 '웰빙 루틴'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026052241447"
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260525071817855"
       }
     },
     {
-      "keyword": "미운 우리 새끼",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "임영웅",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "김종민 \"똑똑한 아이 낳게 해달라\" 소원에…'파묘' 무속인이 내놓은 깜짝 답변 ('미우새') [순간포착]",
+        "title": "'흑백' 남도형 성우, 23일 '전참시' 매니저와 결혼..임영웅→침착맨 ★잔치 하객 [스타이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260525064515429"
+        "url": "https://v.daum.net/v/20260524013217323"
       }
     },
     {
@@ -63,6 +73,16 @@
       }
     },
     {
+      "keyword": "박은빈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'원더풀스' 초능력 아니라 희귀병 같은데…보험금 주나요?[영화in보험산책]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260523080159798"
+      }
+    },
+    {
       "keyword": "스타뉴스",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -80,26 +100,6 @@
         "title": "[롤랑가로스] 148위의 무명 선수가 톱10을 잡았다! 와일드카드 받고 출전한 바사바레디, 7번 시드 프리츠 제압하고 대회 첫 이변",
         "source": "테니스코리아",
         "url": "https://www.tennis.co.kr/news/articleView.html?idxno=52783"
-      }
-    },
-    {
-      "keyword": "thứ hạng của man city gặp aston villa",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Video bóng đá Man City - Aston Villa: Kết buồn ngày chia tay HLV Guardiola (Ngoại hạng Anh)",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/video-bong-da-man-city-aston-villa-ket-buon-ngay-chia-tay-hlv-guardiola-ngoai-hang-anh-c48a1764500.html"
-      }
-    },
-    {
-      "keyword": "villarreal vs atlético madrid",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Villarreal vs Atlético de Madrid, 02:00, 25 de mayo de 2026, jornada 38 de La Liga",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/es/villarreal-vs-atletico-madrid-02-00-ngay-25-05-2026-vong-38-la-liga"
       }
     }
   ]

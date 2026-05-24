@@ -838,5 +838,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T07:47:18.665505+09:00",
+    "label": "07:47",
+    "items": [
+      {
+        "keyword": "코스피",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"부자될 마지막 기회?\"…'59만전자·400만닉스'의 유혹 [월급쟁이 희노애락]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524162656290"
+        }
+      },
+      {
+        "keyword": "금",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "채권 금리 뛰자 매력 ‘뚝’… 金 ETF서 한 달 새 1200억원 유출 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/05/24/TB56AYA46VGM7EIIU2JB2M3LLU/"
+        }
+      },
+      {
+        "keyword": "3기 신도시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'3기 신도시 최대' 광명시흥 16년만 보상평가 완료…내년 착공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260523039100003"
+        }
+      },
+      {
+        "keyword": "전지현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"첫 끼는 오후 2시\"…전지현의 놀라운 '웰빙 루틴'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525071817855"
+        }
+      },
+      {
+        "keyword": "임영웅",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'흑백' 남도형 성우, 23일 '전참시' 매니저와 결혼..임영웅→침착맨 ★잔치 하객 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524013217323"
+        }
+      },
+      {
+        "keyword": "이예원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박현경 이어 이다연 ‘女골프 50억 클럽’ 올해만 벌써 2명 가입…다음은 ‘김수지 vs 이예원’ 경쟁 [오태식의 골프이야기]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20047782"
+        }
+      },
+      {
+        "keyword": "불교",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이 대통령 “하나 된 힘으로 국민과 나라 위기 극복”…3대 종단 모두 찾아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525062930210"
+        }
+      },
+      {
+        "keyword": "박은빈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'원더풀스' 초능력 아니라 희귀병 같은데…보험금 주나요?[영화in보험산책]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260523080159798"
+        }
+      },
+      {
+        "keyword": "스타뉴스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "최준희, 결혼식 불청객에 분노 \"진상 짓에 밥 야무지게 먹고 갔다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/05/23/2026052312503133653"
+        }
+      },
+      {
+        "keyword": "테일러 프리츠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[롤랑가로스] 148위의 무명 선수가 톱10을 잡았다! 와일드카드 받고 출전한 바사바레디, 7번 시드 프리츠 제압하고 대회 첫 이변",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=52783"
+        }
+      }
+    ]
   }
 ]
