@@ -1156,5 +1156,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T08:51:50.613318+09:00",
+    "label": "08:51",
+    "items": [
+      {
+        "keyword": "금",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "채권 금리 뛰자 매력 ‘뚝’… 金 ETF서 한 달 새 1200억원 유출 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/05/24/TB56AYA46VGM7EIIU2JB2M3LLU/"
+        }
+      },
+      {
+        "keyword": "한화솔루션",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "유증 삼수 한화솔루션...투자자 설득 총력전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260522180014164"
+        }
+      },
+      {
+        "keyword": "로스앤젤레스 fc",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "월드컵 코앞 손흥민 '득점 가뭄' 끝낼까…전반기 최종전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YtYO41Sr1f"
+        }
+      },
+      {
+        "keyword": "옥순이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'최종 승리자' 23기 옥순, 미스터 강과 결혼 앞두더니…거울 셀카 한 장에 터진 설렘",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026052461334"
+        }
+      },
+      {
+        "keyword": "취사병 전설이 되다",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'취사병' 박지훈, 선입견은 깨고 기대는 충족시키는 '넥스트 전설' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/05/25/2026052507157277589"
+        }
+      },
+      {
+        "keyword": "수학여행",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "수련회·수학여행 지역 격차…대구·제주·경남 실시율 90% 넘어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260522092800530"
+        }
+      },
+      {
+        "keyword": "코너 맥그리거",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'44세' 한국인과 연습이라니…'레전드' 맥그리거의 UFC 대비 스파링에 팬들 실망→대체 왜?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525010105309"
+        }
+      },
+      {
+        "keyword": "임영웅",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'흑백' 남도형 성우, 23일 '전참시' 매니저와 결혼..임영웅→침착맨 ★잔치 하객 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524013217323"
+        }
+      },
+      {
+        "keyword": "김시우",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김시우, PGA 투어 더CJ컵서 3타차 준우승‥클라크는 역전 우승",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6825005_36946.html"
+        }
+      },
+      {
+        "keyword": "변동성",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[인터뷰] 롤러코스터 탄 세계 증시…“조정은 필연적, 변동성을 수익으로 바꾸려면”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524194117481"
+        }
+      }
+    ]
   }
 ]
