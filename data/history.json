@@ -520,5 +520,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T05:42:32.632309+09:00",
+    "label": "05:42",
+    "items": [
+      {
+        "keyword": "노바크 조코비치",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"몸이 허락하지 않았다\"...조코비치 고백, 프랑스오픈 직전까지 출전도 불투명했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260523162953588"
+        }
+      },
+      {
+        "keyword": "비야레알 대 아틀레티코",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "비야레알 대 아틀레티코 마드리드, 2026년 5월 25일 02:00, 라 리가 38라운드",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/villarreal-vs-atletico-madrid-02-00-ngay-25-05-2026-vong-38-la-liga"
+        }
+      },
+      {
+        "keyword": "로버트슨",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"故 조타 사망 이후, 축구에 관심이 없었다\" 리버풀 전설, 솔직 고백...'챔피언→5위' 충격파 너무 컸다 \"다시는 그런 일 없길\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/y9SZNjRflT"
+        }
+      },
+      {
+        "keyword": "tsmc",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "TSMC Employees Threaten Strike Over Bonus Cuts, Mirroring Samsung",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/05/25/N5WCO3GLGFA7LAD6BMG7GCAJXA/"
+        }
+      },
+      {
+        "keyword": "키이우",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "러, 키이우 대규모 공습···젤렌스키 “오레시니크 사용 가능성” 경고하기도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524161253016"
+        }
+      },
+      {
+        "keyword": "한혜진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한혜진, 출연료 4000만원씩 받고 불면증…\"너무 좋은데, 도둑 들까 걱정\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524220338049"
+        }
+      },
+      {
+        "keyword": "세리에",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "토리노 vs 유벤투스 경기 예측 - 세리에 A: 5월 25일 오전 1시 45분, 극적인 토리노 더비",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-torino-vs-juventus-serie-a-derby-thanh-turin-kich-tinh-luc-01h45-ngay-25-5"
+        }
+      },
+      {
+        "keyword": "알라바",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2년 연속 라리가 득점왕에도 웃지 못한 음바페! 레알 마드리드, 시즌 최종전 승리→굿바이 카르바할",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yV5JN0WImS"
+        }
+      },
+      {
+        "keyword": "serie a",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "#♐️$^+=>(DIRETTA):: Catanzaro Monza In Diretta Streaming Tv",
+          "source": "Oiv.int",
+          "url": "https://www.oiv.int/sites/default/files/webform/registration_form/_sid_/video-catanzaro-monza-tv-524d54f-5das48.html"
+        }
+      },
+      {
+        "keyword": "아스널 fc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "20년 만에 챔스 우승 도전 아스널 vs 2연속 우승 노리는 파리 생제르맹",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524070304195"
+        }
+      }
+    ]
   }
 ]
