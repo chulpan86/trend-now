@@ -1,41 +1,21 @@
 {
-  "timestamp": "2026-05-25T05:42:32.632309+09:00",
-  "label": "05:42",
+  "timestamp": "2026-05-25T06:45:48.060138+09:00",
+  "label": "06:45",
   "items": [
     {
-      "keyword": "노바크 조코비치",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "조상우",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "\"몸이 허락하지 않았다\"...조코비치 고백, 프랑스오픈 직전까지 출전도 불투명했다",
+        "title": "\"괴로웠다\" 부진 털어낸 타이거즈 1위 투수, 마침내 해냈다…최연소 150SV 달성→'돌부처' 오승환 기록 갈아치웠다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260523162953588"
-      }
-    },
-    {
-      "keyword": "비야레알 대 아틀레티코",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "비야레알 대 아틀레티코 마드리드, 2026년 5월 25일 02:00, 라 리가 38라운드",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/villarreal-vs-atletico-madrid-02-00-ngay-25-05-2026-vong-38-la-liga"
-      }
-    },
-    {
-      "keyword": "로버트슨",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"故 조타 사망 이후, 축구에 관심이 없었다\" 리버풀 전설, 솔직 고백...'챔피언→5위' 충격파 너무 컸다 \"다시는 그런 일 없길\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/y9SZNjRflT"
+        "url": "https://v.daum.net/v/uwoSbIjJHl"
       }
     },
     {
       "keyword": "tsmc",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "TSMC Employees Threaten Strike Over Bonus Cuts, Mirroring Samsung",
         "source": "조선일보",
@@ -43,63 +23,83 @@
       }
     },
     {
-      "keyword": "키이우",
+      "keyword": "골프",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“아내가 부른 10만원 대리기사, 7억짜리 ‘한국오픈 신화’ 됐다”…양지호, 한국오픈 사상 최초 ‘예선 통과자 우승’ 대기록",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260524222115188"
+      }
+    },
+    {
+      "keyword": "신동",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "진짜 신동 맞아? 37kg 감량에 콧대까지 살아있네! 취미도 고급 \"장비 풀세트\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260525000017762"
+      }
+    },
+    {
+      "keyword": "미사일",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "러, ‘극초음속 미사일’로 맹폭…불바다 된 우크라 “이런 밤은 처음”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605242105015"
+      }
+    },
+    {
+      "keyword": "미운 우리 새끼",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "러, 키이우 대규모 공습···젤렌스키 “오레시니크 사용 가능성” 경고하기도",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260524161253016"
+        "title": "미운 우리 새끼 : 허경환, 이규한 이상형과 비슷하게 만들어진 AI 사진에 황당! (ft. 장황한 이상형)",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC479619842"
       }
     },
     {
-      "keyword": "한혜진",
+      "keyword": "조세",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한혜진, 출연료 4000만원씩 받고 불면증…\"너무 좋은데, 도둑 들까 걱정\"",
+        "title": "놀랍다, ‘이 업종’…근로자 평균 월급 1000만원 육박, 올해 더 오른다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260524220338049"
+        "url": "https://v.daum.net/v/20260517095115497"
       }
     },
     {
-      "keyword": "세리에",
+      "keyword": "내셔널스 대 브레이브스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "토리노 vs 유벤투스 경기 예측 - 세리에 A: 5월 25일 오전 1시 45분, 극적인 토리노 더비",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-torino-vs-juventus-serie-a-derby-thanh-turin-kich-tinh-luc-01h45-ngay-25-5"
+        "title": "'김하성 결장' MLB 애틀랜타, 워싱턴에 0-2 패배…5연승 무산",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/fgmh8tvmt1"
       }
     },
     {
-      "keyword": "알라바",
+      "keyword": "사회 보장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "2년 연속 라리가 득점왕에도 웃지 못한 음바페! 레알 마드리드, 시즌 최종전 승리→굿바이 카르바할",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yV5JN0WImS"
+        "title": "울산 울주군, 제6기 지역사회보장계획 수립 TF 회의",
+        "source": "울산신문",
+        "url": "https://www.ulsanpress.net/news/articleView.html?idxno=575501"
       }
     },
     {
-      "keyword": "serie a",
+      "keyword": "pga",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "#♐️$^+=>(DIRETTA):: Catanzaro Monza In Diretta Streaming Tv",
-        "source": "Oiv.int",
-        "url": "https://www.oiv.int/sites/default/files/webform/registration_form/_sid_/video-catanzaro-monza-tv-524d54f-5das48.html"
-      }
-    },
-    {
-      "keyword": "아스널 fc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "20년 만에 챔스 우승 도전 아스널 vs 2연속 우승 노리는 파리 생제르맹",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260524070304195"
+        "title": "\"Damage on the Trophy\": Aaron Rai Reveals Why PGA Championship Trophy Never Arrived",
+        "source": "https://www.dailyclubgolf.com/",
+        "url": "https://www.dailyclubgolf.com/news/damage-on-the-trophy-aaron-rai-reveals-why-pga-championship-trophy-never-arrived/"
       }
     }
   ]

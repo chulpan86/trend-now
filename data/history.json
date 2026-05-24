@@ -626,5 +626,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T06:45:48.060138+09:00",
+    "label": "06:45",
+    "items": [
+      {
+        "keyword": "조상우",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"괴로웠다\" 부진 털어낸 타이거즈 1위 투수, 마침내 해냈다…최연소 150SV 달성→'돌부처' 오승환 기록 갈아치웠다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uwoSbIjJHl"
+        }
+      },
+      {
+        "keyword": "tsmc",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "TSMC Employees Threaten Strike Over Bonus Cuts, Mirroring Samsung",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/05/25/N5WCO3GLGFA7LAD6BMG7GCAJXA/"
+        }
+      },
+      {
+        "keyword": "골프",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“아내가 부른 10만원 대리기사, 7억짜리 ‘한국오픈 신화’ 됐다”…양지호, 한국오픈 사상 최초 ‘예선 통과자 우승’ 대기록",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524222115188"
+        }
+      },
+      {
+        "keyword": "신동",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "진짜 신동 맞아? 37kg 감량에 콧대까지 살아있네! 취미도 고급 \"장비 풀세트\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525000017762"
+        }
+      },
+      {
+        "keyword": "미사일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "러, ‘극초음속 미사일’로 맹폭…불바다 된 우크라 “이런 밤은 처음”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605242105015"
+        }
+      },
+      {
+        "keyword": "미운 우리 새끼",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "미운 우리 새끼 : 허경환, 이규한 이상형과 비슷하게 만들어진 AI 사진에 황당! (ft. 장황한 이상형)",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC479619842"
+        }
+      },
+      {
+        "keyword": "조세",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "놀랍다, ‘이 업종’…근로자 평균 월급 1000만원 육박, 올해 더 오른다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260517095115497"
+        }
+      },
+      {
+        "keyword": "내셔널스 대 브레이브스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'김하성 결장' MLB 애틀랜타, 워싱턴에 0-2 패배…5연승 무산",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fgmh8tvmt1"
+        }
+      },
+      {
+        "keyword": "사회 보장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "울산 울주군, 제6기 지역사회보장계획 수립 TF 회의",
+          "source": "울산신문",
+          "url": "https://www.ulsanpress.net/news/articleView.html?idxno=575501"
+        }
+      },
+      {
+        "keyword": "pga",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"Damage on the Trophy\": Aaron Rai Reveals Why PGA Championship Trophy Never Arrived",
+          "source": "https://www.dailyclubgolf.com/",
+          "url": "https://www.dailyclubgolf.com/news/damage-on-the-trophy-aaron-rai-reveals-why-pga-championship-trophy-never-arrived/"
+        }
+      }
+    ]
   }
 ]
