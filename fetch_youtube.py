@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-한국 유튜브 인기 영상 수집기 (2단계)
+한국 유튜브 인기 영상 수집기 (카테고리별)
 
-- YouTube Data API v3 의 mostPopular 차트(regionCode=KR)에서 인기 영상 상위 N개를 가져온다.
-- 결과를 data/youtube.json 에 저장한다 (최신 상태만, 누적 아님).
-- API 키는 환경변수 YOUTUBE_API_KEY 에서 읽는다 → GitHub Secrets에 넣어두면 코드/화면에 노출되지 않음.
+- YouTube Data API v3 의 mostPopular 차트(regionCode=KR)를 카테고리별로 가져온다.
+- '전체'는 카테고리 지정 없이, 나머지는 videoCategoryId 로 필터링.
+- 결과를 data/youtube.json 에 카테고리별로 묶어 저장한다 (최신 상태만).
+- API 키는 환경변수 YOUTUBE_API_KEY 에서 읽는다 → GitHub Secrets에 넣어두면 노출 안 됨.
 
-할당량: videos.list 한 번 호출 = 1유닛. 1시간마다 호출해도 하루 24유닛 → 무료 한도(10,000) 대비 무시 가능.
+할당량: videos.list 호출당 1유닛. 카테고리 6개를 1시간마다 불러도 하루 144유닛
+→ 무료 한도(10,000) 대비 무시 가능.
 표준 라이브러리만 사용.
 """
 
@@ -24,13 +26,23 @@ YOUTUBE_PATH = os.path.join(DATA_DIR, "youtube.json")
 
 API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 
-# 가져올 영상 수
+# 카테고리당 가져올 영상 수
 TOP_N = 10
-# 한국 인기 영상 차트
 API_URL = "https://www.googleapis.com/youtube/v3/videos"
 
+# 화면 탭 순서대로. key=화면에 쓸 id, label=탭 이름, cat=유튜브 카테고리ID(None=전체)
+# 유튜브 표준 카테고리ID: 뉴스/정치=25, 엔터테인먼트=24, 스포츠=17, 음악=10, 게임=20
+CATEGORIES = [
+    {"key": "all",    "label": "전체",   "cat": None},
+    {"key": "news",   "label": "뉴스",   "cat": "25"},
+    {"key": "enter",  "label": "엔터",   "cat": "24"},
+    {"key": "sports", "label": "스포츠", "cat": "17"},
+    {"key": "music",  "label": "음악",   "cat": "10"},
+    {"key": "game",   "label": "게임",   "cat": "20"},
+]
 
-def fetch_popular():
+
+def fetch_popular(category_id=None):
     params = {
         "part": "snippet,statistics",
         "chart": "mostPopular",
@@ -38,6 +50,8 @@ def fetch_popular():
         "maxResults": str(TOP_N),
         "key": API_KEY,
     }
+    if category_id:
+        params["videoCategoryId"] = category_id
     url = API_URL + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"Accept": "application/json"})
     with urllib.request.urlopen(req, timeout=30) as resp:
@@ -62,7 +76,6 @@ def parse(data):
         st = v.get("statistics", {})
         vid = v.get("id", "")
         thumbs = sn.get("thumbnails", {})
-        # 중간 화질 썸네일 우선, 없으면 기본
         thumb = (thumbs.get("medium") or thumbs.get("default") or {}).get("url", "")
         views = int(st.get("viewCount", 0)) if st.get("viewCount") else 0
         items.append({
@@ -83,30 +96,40 @@ def main():
     if not API_KEY:
         print("[fetch_youtube] YOUTUBE_API_KEY 없음 — 건너뜀 "
               "(Secrets 미설정 시 정상). 영상 카드는 비표시됩니다.", file=sys.stderr)
-        # 키가 없어도 전체 워크플로우가 죽지 않도록 0으로 정상 종료
         return 0
 
-    try:
-        data = fetch_popular()
-        items = parse(data)
-    except Exception as e:  # noqa: BLE001
-        print(f"[fetch_youtube] 수집 실패: {e}", file=sys.stderr)
-        # 실패해도 기존 youtube.json 보존하고 종료 (워크플로우는 통과)
-        return 0
+    categories_out = []
+    total = 0
+    for c in CATEGORIES:
+        try:
+            data = fetch_popular(c["cat"])
+            items = parse(data)
+        except Exception as e:  # noqa: BLE001
+            # 특정 카테고리가 실패해도 나머지는 계속 진행
+            print(f"[fetch_youtube] '{c['label']}' 수집 실패: {e}", file=sys.stderr)
+            items = []
+        categories_out.append({
+            "key": c["key"],
+            "label": c["label"],
+            "items": items,
+        })
+        total += len(items)
+        print(f"[fetch_youtube]   {c['label']}: {len(items)}건")
 
-    if not items:
-        print("[fetch_youtube] 영상 0건 — 응답 구조 확인 필요", file=sys.stderr)
+    if total == 0:
+        print("[fetch_youtube] 전체 0건 — 키 또는 응답 확인 필요. 기존 파일 보존.", file=sys.stderr)
         return 0
 
     payload = {
         "timestamp": now.isoformat(),
         "label": now.strftime("%H:%M"),
-        "items": items,
+        "categories": categories_out,
     }
     with open(YOUTUBE_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"[fetch_youtube] {now.strftime('%Y-%m-%d %H:%M')} KST · 인기 영상 {len(items)}건 수집")
+    print(f"[fetch_youtube] {now.strftime('%Y-%m-%d %H:%M')} KST · "
+          f"카테고리 {len(categories_out)}개 · 총 {total}건 수집")
     return 0
 
 
