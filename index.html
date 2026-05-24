@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>지금 뜨는 키워드</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  :root {
+    --toss-blue: #3182F6;
+    --toss-red: #F04452;
+    --bg: #F2F4F6;
+    --card: #FFFFFF;
+    --text: #191F28;
+    --text-2: #4E5968;
+    --text-3: #8B95A1;
+    --line: #E5E8EB;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17171C;
+      --card: #232328;
+      --text: #F2F4F6;
+      --text-2: #B0B8C1;
+      --text-3: #6B7684;
+      --line: #2E2E35;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Malgun Gothic", sans-serif;
+    background: var(--bg); color: var(--text);
+    line-height: 1.5; padding: 20px 16px 40px;
+  }
+  .wrap { max-width: 480px; margin: 0 auto; }
+
+  .top { display: flex; align-items: center; justify-content: space-between; padding: 4px 4px 18px; }
+  .top .date { font-size: 13px; color: var(--text-3); margin-bottom: 3px; }
+  .top h1 { font-size: 21px; font-weight: 700; letter-spacing: -0.5px; }
+  .refresh {
+    width: 40px; height: 40px; border-radius: 50%; background: var(--card);
+    border: none; cursor: pointer; display: flex; align-items: center; justify-content: center;
+    color: var(--text-2); font-size: 18px;
+  }
+  .refresh:active { transform: scale(0.94); }
+
+  .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 10px; }
+  .stat { background: var(--card); border-radius: 16px; padding: 16px; }
+  .stat .label { font-size: 13px; color: var(--text-2); margin-bottom: 8px; }
+  .stat .num { font-size: 26px; font-weight: 700; letter-spacing: -0.5px; }
+  .stat .num .unit { font-size: 15px; color: var(--text-3); font-weight: 400; }
+
+  .card { background: var(--card); border-radius: 16px; margin-bottom: 10px; }
+  .card.pad { padding: 18px 16px; }
+
+  .tabs { display: flex; gap: 8px; padding: 14px 16px 4px; }
+  .tab {
+    font-size: 13px; padding: 7px 16px; border-radius: 999px; border: none; cursor: pointer;
+    background: var(--bg); color: var(--text-2); font-weight: 500;
+  }
+  .tab.on { background: var(--toss-blue); color: #fff; }
+
+  .kw-list { padding: 4px 16px 8px; }
+  .kw {
+    display: flex; align-items: center; gap: 12px; padding: 12px 0;
+    border-bottom: 1px solid var(--line); cursor: pointer; text-decoration: none; color: inherit;
+  }
+  .kw:last-child { border-bottom: none; }
+  .kw:active { opacity: 0.6; }
+  .kw .rank { font-size: 16px; font-weight: 700; color: var(--toss-blue); width: 18px; letter-spacing: -0.5px; flex-shrink: 0; }
+  .kw .body { flex: 1; min-width: 0; }
+  .kw .word { font-size: 15px; font-weight: 500; letter-spacing: -0.3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .kw .news { font-size: 12px; color: var(--text-3); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .kw .meta { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+  .kw .hrs { font-size: 12px; color: var(--text-3); }
+  .badge-new { font-size: 11px; font-weight: 700; color: var(--toss-blue); background: rgba(49,130,246,0.1); padding: 2px 8px; border-radius: 999px; }
+  .delta-up { font-size: 13px; color: var(--toss-red); font-weight: 700; }
+  .delta-down { font-size: 13px; color: var(--toss-blue); font-weight: 700; }
+  .delta-same { font-size: 13px; color: var(--text-3); }
+
+  .sec-title { font-size: 15px; font-weight: 700; margin-bottom: 2px; }
+  .sec-sub { font-size: 13px; color: var(--text-2); margin-bottom: 14px; }
+
+  .chart-box { position: relative; width: 100%; height: 210px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 12px; font-size: 12px; color: var(--text-2); }
+  .legend span { display: flex; align-items: center; gap: 5px; }
+  .legend .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+
+  .empty { text-align: center; padding: 40px 20px; color: var(--text-3); }
+  .empty .big { font-size: 15px; color: var(--text-2); margin-bottom: 6px; font-weight: 500; }
+  .empty .small { font-size: 13px; line-height: 1.7; }
+
+  .foot { font-size: 11px; color: var(--text-3); text-align: center; margin-top: 16px; line-height: 1.6; }
+  .foot a { color: var(--text-3); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <div>
+      <div class="date" id="date">불러오는 중…</div>
+      <h1>지금 뜨는 키워드</h1>
+    </div>
+    <button class="refresh" id="refresh" aria-label="새로고침">&#x21bb;</button>
+  </div>
+
+  <div class="stats">
+    <div class="stat">
+      <div class="label">신규 진입</div>
+      <div class="num" id="stat-new">–<span class="unit">개</span></div>
+    </div>
+    <div class="stat">
+      <div class="label">3시간+ 유지</div>
+      <div class="num" id="stat-stay">–<span class="unit">개</span></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="tabs">
+      <button class="tab on">지금</button>
+    </div>
+    <div class="kw-list" id="kw-list">
+      <div class="empty"><div class="small">불러오는 중…</div></div>
+    </div>
+  </div>
+
+  <div class="card pad">
+    <div class="sec-title">시간별 흐름</div>
+    <div class="sec-sub">최근 6시간, 키워드가 언제 떴다 빠졌는지</div>
+    <div class="chart-box">
+      <canvas id="flowChart" role="img" aria-label="주요 키워드의 시간대별 순위 변화 그래프"></canvas>
+    </div>
+    <div class="legend" id="legend"></div>
+  </div>
+
+  <div class="foot">
+    데이터: 구글 트렌드 (한국) · 1시간마다 자동 갱신<br>
+    <span id="updated"></span>
+  </div>
+
+</div>
+
+<script>
+const COLORS = ["#3182F6", "#00C2B3", "#8B95A1", "#F2994A", "#9B51E0"];
+
+function hoursAgo(iso, nowMs) {
+  const t = new Date(iso).getTime();
+  return Math.max(0, Math.round((nowMs - t) / 3600000));
+}
+
+async function loadJSON(path) {
+  const res = await fetch(path + "?t=" + Date.now());
+  if (!res.ok) throw new Error(path + " 없음");
+  return res.json();
+}
+
+function showEmpty() {
+  document.getElementById("date").textContent = "데이터 준비 중";
+  document.getElementById("kw-list").innerHTML =
+    '<div class="empty">' +
+    '<div class="big">아직 수집된 데이터가 없어요</div>' +
+    '<div class="small">GitHub Actions가 처음 한 번 돌면<br>여기에 키워드가 채워집니다.<br>' +
+    'Actions 탭에서 워크플로우를 수동 실행해보세요.</div></div>';
+}
+
+function renderList(latest, history, nowMs) {
+  // 직전 스냅샷(약 1시간 전)에서의 키워드 순위 → 변동 계산용
+  const prev = history.length >= 2 ? history[history.length - 2] : null;
+  const prevRank = {};
+  if (prev) prev.items.forEach((it, i) => { prevRank[it.keyword] = i + 1; });
+
+  // 각 키워드가 몇 개 스냅샷 연속 등장했는지 → 유지 시간 추정
+  const appearCount = {};
+  history.forEach(snap => {
+    const seen = new Set();
+    snap.items.forEach(it => { if (!seen.has(it.keyword)) { seen.add(it.keyword); appearCount[it.keyword] = (appearCount[it.keyword] || 0) + 1; } });
+  });
+
+  let newCount = 0, stayCount = 0;
+  const rows = latest.items.map((it, i) => {
+    const rank = i + 1;
+    const pr = prevRank[it.keyword];
+    let deltaHtml;
+    if (pr === undefined) { deltaHtml = '<span class="badge-new">NEW</span>'; newCount++; }
+    else if (rank < pr) deltaHtml = '<span class="delta-up">&#9650;</span>';
+    else if (rank > pr) deltaHtml = '<span class="delta-down">&#9660;</span>';
+    else deltaHtml = '<span class="delta-same">&ndash;</span>';
+
+    const hrs = appearCount[it.keyword] || 1;
+    if (hrs >= 3) stayCount++;
+
+    const newsTitle = it.news && it.news.title ? it.news.title : "";
+    const newsSrc = it.news && it.news.source ? it.news.source : "";
+    const href = it.news && it.news.url ? it.news.url : ("https://search.naver.com/search.naver?query=" + encodeURIComponent(it.keyword));
+    const newsLine = newsTitle ? (newsTitle + (newsSrc ? " · " + newsSrc : "")) : "관련 뉴스 보기";
+
+    return '<a class="kw" href="' + href + '" target="_blank" rel="noopener">' +
+      '<span class="rank">' + rank + '</span>' +
+      '<span class="body"><span class="word">' + escapeHtml(it.keyword) + '</span>' +
+      '<span class="news">' + escapeHtml(newsLine) + '</span></span>' +
+      '<span class="meta"><span class="hrs">' + hrs + '시간</span>' + deltaHtml + '</span></a>';
+  });
+
+  document.getElementById("kw-list").innerHTML = rows.join("");
+  document.getElementById("stat-new").innerHTML = newCount + '<span class="unit">개</span>';
+  document.getElementById("stat-stay").innerHTML = stayCount + '<span class="unit">개</span>';
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+}
+
+function renderChart(history) {
+  // 최근 7개 스냅샷(약 6시간)만 사용
+  const recent = history.slice(-7);
+  const labels = recent.map(s => s.label);
+
+  // 가장 최신 스냅샷의 상위 3개 키워드를 추적 대상으로
+  const latest = recent[recent.length - 1];
+  const tracked = latest.items.slice(0, 3).map(it => it.keyword);
+
+  const datasets = tracked.map((kw, idx) => {
+    const data = recent.map(snap => {
+      const pos = snap.items.findIndex(it => it.keyword === kw);
+      return pos === -1 ? null : pos + 1;
+    });
+    return {
+      label: kw, data, borderColor: COLORS[idx], backgroundColor: COLORS[idx],
+      fill: false, tension: 0.4, borderWidth: 2.5, pointRadius: 3, pointHoverRadius: 5, spanGaps: true
+    };
+  });
+
+  const isDark = matchMedia("(prefers-color-scheme: dark)").matches;
+  const axisColor = isDark ? "#6B7684" : "#8B95A1";
+  const gridColor = isDark ? "rgba(110,118,132,0.15)" : "rgba(139,149,161,0.15)";
+
+  new Chart(document.getElementById("flowChart"), {
+    type: "line",
+    data: { labels, datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: {
+        y: { reverse: true, min: 1, max: 10, ticks: { stepSize: 1, callback: v => v + "위", font: { size: 11 }, color: axisColor }, grid: { color: gridColor }, border: { display: false } },
+        x: { ticks: { font: { size: 11 }, color: axisColor, maxRotation: 0 }, grid: { display: false }, border: { display: false } }
+      },
+      plugins: { legend: { display: false } }
+    }
+  });
+
+  document.getElementById("legend").innerHTML = tracked.map((kw, i) =>
+    '<span><span class="dot" style="background:' + COLORS[i] + '"></span>' + escapeHtml(kw) + '</span>'
+  ).join("");
+}
+
+async function init() {
+  try {
+    const [latest, history] = await Promise.all([
+      loadJSON("data/latest.json"),
+      loadJSON("data/history.json"),
+    ]);
+    const nowMs = Date.now();
+
+    const d = new Date(latest.timestamp);
+    const days = ["일","월","화","수","목","금","토"];
+    document.getElementById("date").textContent =
+      d.getFullYear() + "." + String(d.getMonth()+1).padStart(2,"0") + "." +
+      String(d.getDate()).padStart(2,"0") + " " + days[d.getDay()] + " " + latest.label;
+    document.getElementById("updated").textContent = "마지막 갱신 " + latest.label;
+
+    renderList(latest, history, nowMs);
+    renderChart(history);
+  } catch (e) {
+    console.warn(e);
+    showEmpty();
+  }
+}
+
+document.getElementById("refresh").addEventListener("click", () => location.reload());
+init();
+</script>
+</body>
+</html>
