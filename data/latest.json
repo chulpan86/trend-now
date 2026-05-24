@@ -1,11 +1,31 @@
 {
-  "timestamp": "2026-05-25T02:52:41.721703+09:00",
-  "label": "02:52",
+  "timestamp": "2026-05-25T04:02:00.884387+09:00",
+  "label": "04:02",
   "items": [
     {
-      "keyword": "리버풀",
+      "keyword": "로버트슨",
       "traffic_raw": "1000+",
       "traffic": 1000,
+      "news": {
+        "title": "\"故 조타 사망 이후, 축구에 관심이 없었다\" 리버풀 전설, 솔직 고백...'챔피언→5위' 충격파 너무 컸다 \"다시는 그런 일 없길\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/y9SZNjRflT"
+      }
+    },
+    {
+      "keyword": "최시훈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "최시훈, 에일리 시험관 주사 놓다 큰 실수 \"담당의도 놀라\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260524_0003642603"
+      }
+    },
+    {
+      "keyword": "살라",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "살라의 리버풀 마지막이 이렇게 끝나나... 슬롯 저격에 레전드들 폭발",
         "source": "Daum",
@@ -13,13 +33,13 @@
       }
     },
     {
-      "keyword": "재건축",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "sk스퀘어",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "삼성물산, 압구정4구역 재건축 시공사로 선정",
+        "title": "고수들은 다 담았다…\"400만원 간다\" SK하닉 질주에 덩달아 급등한 SK스퀘어",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260525014444586"
+        "url": "https://v.daum.net/v/20260523162700528"
       }
     },
     {
@@ -33,23 +53,43 @@
       }
     },
     {
-      "keyword": "최시훈",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "아스널 fc",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "\"주사 잘못 놨다\" 최시훈 자책…에일리, 시험관 2차 이식 앞두고 또 눈물",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260524224020312"
+        "title": "아스널의 영입 대상인 알렉스 스콧: 아르테타 감독의 미드필드진을 완성할 솔루션.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/arsenal-nham-chieu-mo-alex-scott-giai-phap-hoan-thien-hang-tien-ve-cua-arteta"
       }
     },
     {
-      "keyword": "맨유 브라이튼",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "세리에",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "브루노는 어시스트왕으로 시즌을 마무리했다.",
+        "title": "토리노 vs 유벤투스 경기 예측 - 세리에 A: 5월 25일 오전 1시 45분, 극적인 토리노 더비",
         "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/bruno-khep-lai-mua-giai-voi-ngoi-vua-kien-tao"
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-torino-vs-juventus-serie-a-derby-thanh-turin-kich-tinh-luc-01h45-ngay-25-5"
+      }
+    },
+    {
+      "keyword": "ngoại hạng anh",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Bruno Fernandes thắng giải cầu thủ hay nhất Ngoại hạng Anh",
+        "source": "VnExpress",
+        "url": "https://vnexpress.net/bruno-fernandes-thang-giai-cau-thu-hay-nhat-ngoai-hang-anh-5077435.html"
+      }
+    },
+    {
+      "keyword": "베르나르두 실바",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "그리즈만 후계자는 이강인 아니었다...ATM, 베르나르두 실바 영입 초읽기",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/3LGS6hcnyZ"
       }
     },
     {
@@ -57,46 +97,10 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "West Ham 3-0 Leeds - Hammers relegated despite final-day win",
+        "title": "West Ham United vs Leeds United: Premier League preview, team news, stats & head-to-head",
         "source": "BBC",
         "url": "https://www.bbc.com/sport/football/live/c70vr05gwelt"
       }
-    },
-    {
-      "keyword": "sk스퀘어",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "고수들은 다 담았다…\"400만원 간다\" SK하닉 질주에 덩달아 급등한 SK스퀘어",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260523162700528"
-      }
-    },
-    {
-      "keyword": "crystal palace đấu với arsenal",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Nhận định bóng đá Crystal Palace vs Arsenal, 22h00 ngày 24/5: Tâm thế ở trời Âu",
-        "source": "BongdaPlus",
-        "url": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-crystal-palace-vs-arsenal-22h00-ngay-24-5-tam-the-o-troi-au-5054962605.html"
-      }
-    },
-    {
-      "keyword": "lpl",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "LPL 2026: 14 Pre-signed players announced ahead of draft",
-        "source": "Newswire",
-        "url": "https://www.newswire.lk/2026/05/23/lpl-2026-14-pre-signed-players-announced-ahead-of-draft/"
-      }
-    },
-    {
-      "keyword": "2002 월드컵",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }

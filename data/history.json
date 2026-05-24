@@ -414,5 +414,111 @@
         "news": null
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T04:02:00.884387+09:00",
+    "label": "04:02",
+    "items": [
+      {
+        "keyword": "로버트슨",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"故 조타 사망 이후, 축구에 관심이 없었다\" 리버풀 전설, 솔직 고백...'챔피언→5위' 충격파 너무 컸다 \"다시는 그런 일 없길\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/y9SZNjRflT"
+        }
+      },
+      {
+        "keyword": "최시훈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "최시훈, 에일리 시험관 주사 놓다 큰 실수 \"담당의도 놀라\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260524_0003642603"
+        }
+      },
+      {
+        "keyword": "살라",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "살라의 리버풀 마지막이 이렇게 끝나나... 슬롯 저격에 레전드들 폭발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7IJYqsael2"
+        }
+      },
+      {
+        "keyword": "sk스퀘어",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "고수들은 다 담았다…\"400만원 간다\" SK하닉 질주에 덩달아 급등한 SK스퀘어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260523162700528"
+        }
+      },
+      {
+        "keyword": "챔스 결승",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이강인 뛰는 PSG 챔스 결승인데... 영국 총리 “무료로 보게 해달라”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9Iy09ONdCB"
+        }
+      },
+      {
+        "keyword": "아스널 fc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "아스널의 영입 대상인 알렉스 스콧: 아르테타 감독의 미드필드진을 완성할 솔루션.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/arsenal-nham-chieu-mo-alex-scott-giai-phap-hoan-thien-hang-tien-ve-cua-arteta"
+        }
+      },
+      {
+        "keyword": "세리에",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "토리노 vs 유벤투스 경기 예측 - 세리에 A: 5월 25일 오전 1시 45분, 극적인 토리노 더비",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-torino-vs-juventus-serie-a-derby-thanh-turin-kich-tinh-luc-01h45-ngay-25-5"
+        }
+      },
+      {
+        "keyword": "ngoại hạng anh",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Bruno Fernandes thắng giải cầu thủ hay nhất Ngoại hạng Anh",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/bruno-fernandes-thang-giai-cau-thu-hay-nhat-ngoai-hang-anh-5077435.html"
+        }
+      },
+      {
+        "keyword": "베르나르두 실바",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "그리즈만 후계자는 이강인 아니었다...ATM, 베르나르두 실바 영입 초읽기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3LGS6hcnyZ"
+        }
+      },
+      {
+        "keyword": "west ham vs leeds",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "West Ham United vs Leeds United: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c70vr05gwelt"
+        }
+      }
+    ]
   }
 ]
