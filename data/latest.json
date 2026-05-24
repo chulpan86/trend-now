@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-25T07:50:33.738177+09:00",
-  "label": "07:50",
+  "timestamp": "2026-05-25T08:07:53.894198+09:00",
+  "label": "08:07",
   "items": [
     {
       "keyword": "코스피",
@@ -24,8 +24,8 @@
     },
     {
       "keyword": "3기 신도시",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "'3기 신도시 최대' 광명시흥 16년만 보상평가 완료…내년 착공",
         "source": "연합뉴스",
@@ -33,13 +33,33 @@
       }
     },
     {
-      "keyword": "전지현",
+      "keyword": "옥순이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"첫 끼는 오후 2시\"…전지현의 놀라운 '웰빙 루틴'",
+        "title": "'최종 승리자' 23기 옥순, 미스터 강과 결혼 앞두더니…거울 셀카 한 장에 터진 설렘",
+        "source": "텐아시아",
+        "url": "https://www.tenasia.co.kr/article/2026052461334"
+      }
+    },
+    {
+      "keyword": "이예원",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "박현경 이어 이다연 ‘女골프 50억 클럽’ 올해만 벌써 2명 가입…다음은 ‘김수지 vs 이예원’ 경쟁 [오태식의 골프이야기]",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20047782"
+      }
+    },
+    {
+      "keyword": "관광객",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"다이소·올영 못 사니까\"…증권가가 찍은 '대타' 수혜주",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260525071817855"
+        "url": "https://v.daum.net/v/20260525060204817"
       }
     },
     {
@@ -53,33 +73,23 @@
       }
     },
     {
-      "keyword": "이예원",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "박현경 이어 이다연 ‘女골프 50억 클럽’ 올해만 벌써 2명 가입…다음은 ‘김수지 vs 이예원’ 경쟁 [오태식의 골프이야기]",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20047782"
-      }
-    },
-    {
-      "keyword": "불교",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이 대통령 “하나 된 힘으로 국민과 나라 위기 극복”…3대 종단 모두 찾아",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260525062930210"
-      }
-    },
-    {
       "keyword": "박은빈",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "'원더풀스' 초능력 아니라 희귀병 같은데…보험금 주나요?[영화in보험산책]",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260523080159798"
+      }
+    },
+    {
+      "keyword": "변동성",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[인터뷰] 롤러코스터 탄 세계 증시…“조정은 필연적, 변동성을 수익으로 바꾸려면”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260524194117481"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "최준희, 결혼식 불청객에 분노 \"진상 짓에 밥 야무지게 먹고 갔다\" - 머니투데이",
         "source": "머니투데이",
         "url": "https://www.mt.co.kr/society/2026/05/23/2026052312503133653"
-      }
-    },
-    {
-      "keyword": "테일러 프리츠",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[롤랑가로스] 148위의 무명 선수가 톱10을 잡았다! 와일드카드 받고 출전한 바사바레디, 7번 시드 프리츠 제압하고 대회 첫 이변",
-        "source": "테니스코리아",
-        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=52783"
       }
     }
   ]

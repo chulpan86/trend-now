@@ -1050,5 +1050,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T08:07:53.894198+09:00",
+    "label": "08:07",
+    "items": [
+      {
+        "keyword": "코스피",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"부자될 마지막 기회?\"…'59만전자·400만닉스'의 유혹 [월급쟁이 희노애락]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524162656290"
+        }
+      },
+      {
+        "keyword": "금",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "채권 금리 뛰자 매력 ‘뚝’… 金 ETF서 한 달 새 1200억원 유출 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/05/24/TB56AYA46VGM7EIIU2JB2M3LLU/"
+        }
+      },
+      {
+        "keyword": "3기 신도시",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'3기 신도시 최대' 광명시흥 16년만 보상평가 완료…내년 착공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260523039100003"
+        }
+      },
+      {
+        "keyword": "옥순이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'최종 승리자' 23기 옥순, 미스터 강과 결혼 앞두더니…거울 셀카 한 장에 터진 설렘",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026052461334"
+        }
+      },
+      {
+        "keyword": "이예원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "박현경 이어 이다연 ‘女골프 50억 클럽’ 올해만 벌써 2명 가입…다음은 ‘김수지 vs 이예원’ 경쟁 [오태식의 골프이야기]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20047782"
+        }
+      },
+      {
+        "keyword": "관광객",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"다이소·올영 못 사니까\"…증권가가 찍은 '대타' 수혜주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525060204817"
+        }
+      },
+      {
+        "keyword": "임영웅",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'흑백' 남도형 성우, 23일 '전참시' 매니저와 결혼..임영웅→침착맨 ★잔치 하객 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524013217323"
+        }
+      },
+      {
+        "keyword": "박은빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'원더풀스' 초능력 아니라 희귀병 같은데…보험금 주나요?[영화in보험산책]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260523080159798"
+        }
+      },
+      {
+        "keyword": "변동성",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[인터뷰] 롤러코스터 탄 세계 증시…“조정은 필연적, 변동성을 수익으로 바꾸려면”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524194117481"
+        }
+      },
+      {
+        "keyword": "스타뉴스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "최준희, 결혼식 불청객에 분노 \"진상 짓에 밥 야무지게 먹고 갔다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/05/23/2026052312503133653"
+        }
+      }
+    ]
   }
 ]
