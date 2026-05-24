@@ -39,6 +39,7 @@ CATEGORIES = [
     {"key": "sports", "label": "스포츠", "cat": "17"},
     {"key": "music",  "label": "음악",   "cat": "10"},
     {"key": "game",   "label": "게임",   "cat": "20"},
+    {"key": "edu",    "label": "교육",   "cat": "27"},
 ]
 
 
