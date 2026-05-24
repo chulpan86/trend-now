@@ -28,6 +28,13 @@ jobs:
       - name: 트렌드 수집 실행
         run: python fetch_trends.py
 
+      - name: 유튜브 인기 영상 수집 실행
+        # YOUTUBE_API_KEY Secret을 환경변수로 전달.
+        # Secret이 없으면 스크립트가 알아서 건너뛰므로 이 단계는 항상 통과한다.
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python fetch_youtube.py
+
       - name: 변경분 커밋 & 푸시
         run: |
           git config user.name "trend-bot"
