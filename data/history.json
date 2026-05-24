@@ -206,5 +206,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T01:52:04.081120+09:00",
+    "label": "01:52",
+    "items": [
+      {
+        "keyword": "epl",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "West Ham v Leeds, Champions League battle, Arsenal to lift trophy and Guardiola’s goodbye: Premier League finale – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/may/24/west-ham-leeds-champions-league-arsenal-trophy-pep-guardiola-goodbye-premier-league-finale-live"
+        }
+      },
+      {
+        "keyword": "pl",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Obywatel Ukrainy opuszcza Polskę po rajdzie nad Moskim Okiem. Nowe fakty",
+          "source": "Wiadomości Onet",
+          "url": "https://wiadomosci.onet.pl/krakow/skandal-nad-morskim-okiem-ukrainski-influencer-wyjechal-z-polski/lwkqcn2"
+        }
+      },
+      {
+        "keyword": "모자무싸",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "한선화, 박해준에 적극 관심…솔직과 담담 오가는 열연에 호평(‘모자무싸’)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524170620127"
+        }
+      },
+      {
+        "keyword": "웨스트햄 리즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "웨스트햄 대 리즈, 2026년 5월 24일 22:00, 프리미어 리그 38라운드",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/west-ham-vs-leeds-22-00-ngay-24-05-2026-vong-38-premier-league"
+        }
+      },
+      {
+        "keyword": "ดูบอลสด",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "กวาร์ดิโอลา เตรียมอำลาตำแหน่งกุนซือซิตี้ หลังสร้างยุคทองตลอดทศวรรษที่ผ่านมา",
+          "source": "Manchester City FC",
+          "url": "https://th.mancity.com/news/mens/pep-guardiola-official-announcement-63915041"
+        }
+      },
+      {
+        "keyword": "스포츠",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[ST포토] 서교림 '캐디와 함께'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260524n07716?mid=n0100"
+        }
+      },
+      {
+        "keyword": "fotmob",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Why Casemiro is not playing for Manchester United in final game vs Brighton",
+          "source": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/05/24/casemiro-not-playing-manchester-united-final-game-vs-brighton-28484253/"
+        }
+      },
+      {
+        "keyword": "중계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KOVO, 6월 2일 임시 이사회 개최…SOOP 회원 가입 승인할 듯",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7TWsDgQ9pM"
+        }
+      },
+      {
+        "keyword": "티비",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Colbert’s Sudden Return to Late Night? It Happened on Public Access.",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html"
+        }
+      },
+      {
+        "keyword": "헐크",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "The Infernal Hulk #7 Preview: X-Men Face Mind Control in Living City",
+          "source": "Bleeding Cool News",
+          "url": "https://bleedingcool.com/comics/the-infernal-hulk-7-preview-x-men-face-mind-control-in-living-city/"
+        }
+      }
+    ]
   }
 ]
