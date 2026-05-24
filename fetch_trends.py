@@ -29,8 +29,9 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 HISTORY_PATH = os.path.join(DATA_DIR, "history.json")
 LATEST_PATH = os.path.join(DATA_DIR, "latest.json")
 
-# 흐름 그래프에 의미가 있으려면 너무 오래된 기록은 버린다(최근 24시간만 유지)
-RETENTION_HOURS = 24
+# 흐름/누적 계산을 위해 최근 기록을 보관한다.
+# '오늘' 탭이 자정 직후에도 끊기지 않도록 하루보다 넉넉하게 36시간 유지.
+RETENTION_HOURS = 36
 # 한 스냅샷에서 보관할 상위 키워드 수
 TOP_N = 10
 
