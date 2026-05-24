@@ -312,5 +312,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T02:52:41.721703+09:00",
+    "label": "02:52",
+    "items": [
+      {
+        "keyword": "리버풀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "살라의 리버풀 마지막이 이렇게 끝나나... 슬롯 저격에 레전드들 폭발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7IJYqsael2"
+        }
+      },
+      {
+        "keyword": "재건축",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성물산, 압구정4구역 재건축 시공사로 선정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525014444586"
+        }
+      },
+      {
+        "keyword": "챔스 결승",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이강인 뛰는 PSG 챔스 결승인데... 영국 총리 “무료로 보게 해달라”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9Iy09ONdCB"
+        }
+      },
+      {
+        "keyword": "최시훈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"주사 잘못 놨다\" 최시훈 자책…에일리, 시험관 2차 이식 앞두고 또 눈물",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524224020312"
+        }
+      },
+      {
+        "keyword": "맨유 브라이튼",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "브루노는 어시스트왕으로 시즌을 마무리했다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bruno-khep-lai-mua-giai-voi-ngoi-vua-kien-tao"
+        }
+      },
+      {
+        "keyword": "west ham vs leeds",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "West Ham 3-0 Leeds - Hammers relegated despite final-day win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c70vr05gwelt"
+        }
+      },
+      {
+        "keyword": "sk스퀘어",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고수들은 다 담았다…\"400만원 간다\" SK하닉 질주에 덩달아 급등한 SK스퀘어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260523162700528"
+        }
+      },
+      {
+        "keyword": "crystal palace đấu với arsenal",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Nhận định bóng đá Crystal Palace vs Arsenal, 22h00 ngày 24/5: Tâm thế ở trời Âu",
+          "source": "BongdaPlus",
+          "url": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-crystal-palace-vs-arsenal-22h00-ngay-24-5-tam-the-o-troi-au-5054962605.html"
+        }
+      },
+      {
+        "keyword": "lpl",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "LPL 2026: 14 Pre-signed players announced ahead of draft",
+          "source": "Newswire",
+          "url": "https://www.newswire.lk/2026/05/23/lpl-2026-14-pre-signed-players-announced-ahead-of-draft/"
+        }
+      },
+      {
+        "keyword": "2002 월드컵",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]
