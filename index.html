@@ -88,6 +88,11 @@
   .empty .big { font-size: 15px; color: var(--text-2); margin-bottom: 6px; font-weight: 500; }
   .empty .small { font-size: 13px; line-height: 1.7; }
 
+  .yt-tabs { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 12px; margin-bottom: 4px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+  .yt-tabs::-webkit-scrollbar { display: none; }
+  .yt-tab { font-size: 13px; padding: 6px 14px; border-radius: 999px; border: none; cursor: pointer; background: var(--bg); color: var(--text-2); font-weight: 500; white-space: nowrap; flex: 0 0 auto; }
+  .yt-tab.on { background: var(--toss-blue); color: #fff; }
+
   .yt { display: flex; align-items: center; gap: 12px; padding: 10px 0; text-decoration: none; color: inherit; }
   .yt:active { opacity: 0.6; }
   .yt .thumb { width: 76px; height: 46px; border-radius: 10px; background: var(--bg); flex-shrink: 0; object-fit: cover; display: flex; align-items: center; justify-content: center; color: var(--text-3); font-size: 16px; }
@@ -137,6 +142,7 @@
   <div class="card pad" id="yt-card">
     <div class="sec-title">인기 영상</div>
     <div class="sec-sub">지금 한국 유튜브에서 많이 보는 영상</div>
+    <div class="yt-tabs" id="yt-tabs"></div>
     <div id="yt-list">
       <div class="yt-hint">불러오는 중…</div>
     </div>
@@ -320,25 +326,63 @@ function setTab(tab) {
   render();
 }
 
+// 영상 한 칸 HTML
+function ytRowHtml(v, i) {
+  const thumb = v.thumbnail
+    ? '<img class="thumb" src="' + escapeHtml(v.thumbnail) + '" alt="" loading="lazy">'
+    : '<span class="thumb">&#9654;</span>';
+  const meta = (v.channel ? escapeHtml(v.channel) : "") +
+    (v.views_text ? " · 조회 " + escapeHtml(v.views_text) : "");
+  return '<a class="yt" href="' + (v.url || "#") + '" target="_blank" rel="noopener">' +
+    '<span class="yt-rank">' + (i + 1) + '</span>' +
+    thumb +
+    '<span class="info"><span class="t">' + escapeHtml(v.title) + '</span>' +
+    '<span class="c">' + meta + '</span></span></a>';
+}
+
+function renderYtCategory(cats, key) {
+  const list = document.getElementById("yt-list");
+  const cat = cats.find(c => c.key === key) || cats[0];
+  const items = (cat.items || []).slice(0, 10);
+  if (items.length === 0) {
+    list.innerHTML = '<div class="yt-hint">이 카테고리는 지금 표시할 영상이 없어요.</div>';
+  } else {
+    list.innerHTML = items.map(ytRowHtml).join("");
+  }
+  document.querySelectorAll(".yt-tab").forEach(b =>
+    b.classList.toggle("on", b.dataset.cat === cat.key));
+}
+
 async function loadYoutube() {
   const card = document.getElementById("yt-card");
+  const tabsEl = document.getElementById("yt-tabs");
   const list = document.getElementById("yt-list");
   try {
     const yt = await loadJSON("data/youtube.json");
-    if (!yt.items || yt.items.length === 0) { card.style.display = "none"; return; }
 
-    list.innerHTML = yt.items.slice(0, 10).map((v, i) => {
-      const thumb = v.thumbnail
-        ? '<img class="thumb" src="' + escapeHtml(v.thumbnail) + '" alt="" loading="lazy">'
-        : '<span class="thumb">&#9654;</span>';
-      const meta = (v.channel ? escapeHtml(v.channel) : "") +
-        (v.views_text ? " · 조회 " + escapeHtml(v.views_text) : "");
-      return '<a class="yt" href="' + (v.url || "#") + '" target="_blank" rel="noopener">' +
-        '<span class="yt-rank">' + (i + 1) + '</span>' +
-        thumb +
-        '<span class="info"><span class="t">' + escapeHtml(v.title) + '</span>' +
-        '<span class="c">' + meta + '</span></span></a>';
-    }).join("");
+    // 새 구조(categories) — 카테고리 탭 표시
+    if (yt.categories && yt.categories.length > 0) {
+      // 영상이 하나라도 있는 카테고리만 탭으로
+      const cats = yt.categories.filter(c => (c.items || []).length > 0);
+      if (cats.length === 0) { card.style.display = "none"; return; }
+
+      tabsEl.innerHTML = cats.map(c =>
+        '<button class="yt-tab" data-cat="' + c.key + '">' + escapeHtml(c.label) + '</button>'
+      ).join("");
+      tabsEl.querySelectorAll(".yt-tab").forEach(b =>
+        b.addEventListener("click", () => renderYtCategory(cats, b.dataset.cat)));
+      renderYtCategory(cats, cats[0].key);
+      return;
+    }
+
+    // 구 구조(items) 호환 — 탭 없이 단일 목록
+    if (yt.items && yt.items.length > 0) {
+      tabsEl.style.display = "none";
+      list.innerHTML = yt.items.slice(0, 10).map(ytRowHtml).join("");
+      return;
+    }
+
+    card.style.display = "none";
   } catch (e) {
     console.warn(e);
     card.style.display = "none";
