@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-26T01:59:26.509415+09:00",
-  "label": "01:59",
+  "timestamp": "2026-05-26T03:26:20.403385+09:00",
+  "label": "03:26",
   "items": [
     {
       "keyword": "어선",
@@ -13,13 +13,33 @@
       }
     },
     {
+      "keyword": "알 테오 젠",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "한올·알테오젠發 훈풍…기술수출 기대 커진다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202605257402i"
+      }
+    },
+    {
+      "keyword": "무엇이든 물어보살",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'물어보살' 49세 학원장 결혼 고민 \"이상형 공승연..외모 안 봐\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260525212705201"
+      }
+    },
+    {
       "keyword": "신세계그룹",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"로고 지우고, 스티커 붙이고\"‥'흔적 지우기' 확산",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825094_37004.html"
+        "title": "카톡 선물 ‘인기 1위’ 스벅의 추락…불매가 깨부순 ‘7년 왕좌’",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12299750"
       }
     },
     {
@@ -40,26 +60,6 @@
         "title": "내일부턴 폭우? 심상찮은 올여름…'슈퍼 엘니뇨' 온다",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260525204103533"
-      }
-    },
-    {
-      "keyword": "시바이누코인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "시바이누, 하락 채널 하단 진입…지지선 방어 여부에 쏠린 눈",
-        "source": "디지털투데이",
-        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=668729"
-      }
-    },
-    {
-      "keyword": "무엇이든 물어보살",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'물어보살' 49세 학원장 결혼 고민 \"이상형 공승연..외모 안 봐\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260525212705201"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "A Poem for Memorial Day",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/25/briefing/a-poem-for-memorial-day.html"
+        "title": "Six American heroes everyone should know this Memorial Day, from Delta Force to a WWII bomber crew",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/outkick-culture/six-american-heroes-everyone-know-memorial-day-delta-force-wwii-bomber-crew"
       }
     }
   ]
