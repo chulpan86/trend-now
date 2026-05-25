@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-05-25T20:43:26.862460+09:00",
-  "label": "20:43",
+  "timestamp": "2026-05-25T23:34:29.303735+09:00",
+  "label": "23:34",
   "items": [
     {
-      "keyword": "사고",
+      "keyword": "자외선 차단제",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "순천∼완주고속도로서 교통사고 잇따라…8명 부상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260525183503800"
+        "title": "‘이 선크림 있으면 버리세요’…효과없고 안전문제 있는 美 시판 제품 80%",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11591082"
       }
     },
     {
-      "keyword": "금양",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'24만 개미 피눈물' 금양, 증시 퇴출…주주들은 손해배상청구 검토",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=01538326645452528&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "모자 무싸",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "무가치함과 싸워 이뤄낸 성장…'모자무싸' 5%대 시청률로 종영",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260525120908286?f=p"
-      }
-    },
-    {
-      "keyword": "카카오모빌리티",
+      "keyword": "다시보기",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "논란 싣고 달리던 '카카오 T블루' 결국 스톱",
+        "title": "'국무회의 애청자' 진우스님에 李대통령 \"국민 삶에 영향 커 고민 깊어\"",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4416513"
+      }
+    },
+    {
+      "keyword": "티비",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Allegations of rape on ‘Married at First Sight UK’ rattle the reality-TV industry",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/united-kingdom/allegations-rape-married-first-sight-uk-rattle-reality-tv-industry-rcna346075"
+      }
+    },
+    {
+      "keyword": "전주시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "미래 관광사업 내세웠지만… 전주 케이블카 추진 장기 답보",
+        "source": "전북도민일보",
+        "url": "https://www.domin.co.kr/news/articleView.html?idxno=1556466"
+      }
+    },
+    {
+      "keyword": "한국은행 기준금리",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"금리수준 2.75% 최다 예상… 연내 2차례 인상 가능성\" [신현송 첫 금통위]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260525182004562"
+      }
+    },
+    {
+      "keyword": "이규혁",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "손담비♥이규혁, 곤히 잠든 딸 옆에서 노상 치맥…찐 부부 일상",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/enter_general/2026/05/24/MMYDEOBRMRTGMYRRGU4GGYTDGU/"
+      }
+    },
+    {
+      "keyword": "산청군",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "경남 산청 돼지축사 화재로 6억 원 재산피해",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8569557"
+      }
+    },
+    {
+      "keyword": "엘링 홀란드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "트로피 20개 남기고 떠났다... 과르디올라, 마지막 경기 패배에도 에티하드 기립박수",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260525081218390"
+      }
+    },
+    {
+      "keyword": "시바이누코인",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "시바이누, 하락 채널 하단 진입…지지선 방어 여부에 쏠린 눈",
+        "source": "디지털투데이",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=668729"
+      }
+    },
+    {
+      "keyword": "수원 삼성 블루윙즈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "에버랜드 캐릭터 '레시'… K리그 수원삼성에 입단했네",
         "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/it/12057103"
-      }
-    },
-    {
-      "keyword": "방공",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "2026년 세계에서 가장 강력한 방공 시스템을 비교해 보겠습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/so-sanh-nhung-he-thong-phong-khong-manh-nhat-the-gioi-nam-2026"
-      }
-    },
-    {
-      "keyword": "미래에셋",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "착수 후 폭발했는데 환호성…스페이스X 스타십, 실패했는데 왜?[노컷브이]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260524174200013"
-      }
-    },
-    {
-      "keyword": "저비용 항공사",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“유류세 올랐다는데, 잘 모르겠네?”…LCC가 일본 노선에 목매는 이유",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260525133901548"
-      }
-    },
-    {
-      "keyword": "신봉선",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'45세 미혼' 신봉선 \"결혼해서 아이들 라이드 하고 있을 줄…뜻대로 안 돼\" (영업비밀)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260525142316521"
-      }
-    },
-    {
-      "keyword": "한영 박군 이혼설",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"잘살고 있는데, 이제 할 만큼 했다\"…이혼·별거설에 입 연 한영 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/05/25/2026052514580434763"
-      }
-    },
-    {
-      "keyword": "하트시그널",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[선공개] “오늘 데이트는 몇 %?” 기분 좋은 바람과 함께 서로의 속도에 맞춰 한 발짝 더 다가가는 규리&서원",
-        "source": "채널A",
-        "url": "https://ichannela.com/program/clip/000000530908.do"
+        "url": "https://www.mk.co.kr/news/culture/12056927"
       }
     }
   ]
