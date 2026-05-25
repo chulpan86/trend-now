@@ -1686,5 +1686,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-26T01:59:26.509415+09:00",
+    "label": "01:59",
+    "items": [
+      {
+        "keyword": "어선",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“배 띄우면 적자” “출항 자체가 도박”…1000만 어민 울리는 ‘삼중고’는",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525170158997"
+        }
+      },
+      {
+        "keyword": "신세계그룹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"로고 지우고, 스티커 붙이고\"‥'흔적 지우기' 확산",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825094_37004.html"
+        }
+      },
+      {
+        "keyword": "라도 윤보미",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "윤은혜, 윤보미♥라도 결혼식 찾았다…하객룩 정석 \"예쁘게 행복하게\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/23/MVRDCOBVGBRGCMJTHA4TKNLCGE/"
+        }
+      },
+      {
+        "keyword": "엘니뇨",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "내일부턴 폭우? 심상찮은 올여름…'슈퍼 엘니뇨' 온다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525204103533"
+        }
+      },
+      {
+        "keyword": "시바이누코인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "시바이누, 하락 채널 하단 진입…지지선 방어 여부에 쏠린 눈",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=668729"
+        }
+      },
+      {
+        "keyword": "무엇이든 물어보살",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'물어보살' 49세 학원장 결혼 고민 \"이상형 공승연..외모 안 봐\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525212705201"
+        }
+      },
+      {
+        "keyword": "아베 신노스케",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'日 열도 대충격' 아베 감독, 딸 목조르고 폭행→현행범 체포…요미우리 구단 홈페이지+SNS 폐쇄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526000553374?t=m&x_mn=6a14723efbddf26a833cbd3d"
+        }
+      },
+      {
+        "keyword": "미장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[취재수첩] ETF 500조 시대, 소외된 운용사들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525001557023"
+        }
+      },
+      {
+        "keyword": "위버스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[잇슈 컬처] 르세라핌 정규 2집 발표…추억의 히트곡 ‘마카레나’ 삽입",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525072004863"
+        }
+      },
+      {
+        "keyword": "memorial day",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "A Poem for Memorial Day",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/05/25/briefing/a-poem-for-memorial-day.html"
+        }
+      }
+    ]
   }
 ]
