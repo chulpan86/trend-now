@@ -1474,5 +1474,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T20:43:26.862460+09:00",
+    "label": "20:43",
+    "items": [
+      {
+        "keyword": "사고",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "순천∼완주고속도로서 교통사고 잇따라…8명 부상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525183503800"
+        }
+      },
+      {
+        "keyword": "금양",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'24만 개미 피눈물' 금양, 증시 퇴출…주주들은 손해배상청구 검토",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01538326645452528&mediaCodeNo=257"
+        }
+      },
+      {
+        "keyword": "모자 무싸",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "무가치함과 싸워 이뤄낸 성장…'모자무싸' 5%대 시청률로 종영",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525120908286?f=p"
+        }
+      },
+      {
+        "keyword": "카카오모빌리티",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "논란 싣고 달리던 '카카오 T블루' 결국 스톱",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/it/12057103"
+        }
+      },
+      {
+        "keyword": "방공",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "2026년 세계에서 가장 강력한 방공 시스템을 비교해 보겠습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/so-sanh-nhung-he-thong-phong-khong-manh-nhat-the-gioi-nam-2026"
+        }
+      },
+      {
+        "keyword": "미래에셋",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "착수 후 폭발했는데 환호성…스페이스X 스타십, 실패했는데 왜?[노컷브이]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524174200013"
+        }
+      },
+      {
+        "keyword": "저비용 항공사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“유류세 올랐다는데, 잘 모르겠네?”…LCC가 일본 노선에 목매는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525133901548"
+        }
+      },
+      {
+        "keyword": "신봉선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'45세 미혼' 신봉선 \"결혼해서 아이들 라이드 하고 있을 줄…뜻대로 안 돼\" (영업비밀)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525142316521"
+        }
+      },
+      {
+        "keyword": "한영 박군 이혼설",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"잘살고 있는데, 이제 할 만큼 했다\"…이혼·별거설에 입 연 한영 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/05/25/2026052514580434763"
+        }
+      },
+      {
+        "keyword": "하트시그널",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[선공개] “오늘 데이트는 몇 %?” 기분 좋은 바람과 함께 서로의 속도에 맞춰 한 발짝 더 다가가는 규리&서원",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000530908.do"
+        }
+      }
+    ]
   }
 ]
