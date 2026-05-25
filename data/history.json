@@ -1368,5 +1368,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-25T16:03:16.018036+09:00",
+    "label": "16:03",
+    "items": [
+      {
+        "keyword": "농구",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "웸반야마, 이번엔 하프라인 버저비터…NBA 서부 결승 원점으로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260525034600007"
+        }
+      },
+      {
+        "keyword": "memorial day 2026",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Memorial Day events in southeast Minnesota and northern Iowa",
+          "source": "kaaltv.com",
+          "url": "https://www.kaaltv.com/news/local-news/memorial-day-events-in-southeast-minnesota-and-northern-iowa/"
+        }
+      },
+      {
+        "keyword": "이경실",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이경실 “내 은인은 선우용여”…성대모사까지 웃음 폭발(말자쇼)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525082904564"
+        }
+      },
+      {
+        "keyword": "배지현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "위대한 투수 류현진, 한미통산 200승 달성",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525095819956"
+        }
+      },
+      {
+        "keyword": "유로파이터",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "유로파이터, '저비용 대드론+초고속 컴퓨팅' 무장… KF-21 중동 수출 압박",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/05/202605250840277834fbbec65dfb_1"
+        }
+      },
+      {
+        "keyword": "김소영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김소영♥오상진 8살 딸, 갓난아기 동생에 최애 인형까지 내주는 K-장녀",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/05/24/G4YDAMBSGQZTENRWMJRGMYRYHA/"
+        }
+      },
+      {
+        "keyword": "야마모토 요시노부",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "1893년 이후 최장, 다저스 구단 역사 바꿨다…12명의 투수, 38이닝 무실점 합작",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525102738670"
+        }
+      },
+      {
+        "keyword": "오늘의 운세 5월 25일",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[오늘의 운세] 5월 25일 월요일 (음력 4월 9일) 띠별 운세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525000135774?f=p"
+        }
+      },
+      {
+        "keyword": "김장훈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"뭐 피우냐, 돈 줘봐\" 62세 김장훈, 고3 담배 심부름에 '깜짝 조언' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/05/25/2026052421575010180"
+        }
+      },
+      {
+        "keyword": "마이클 캐릭",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'좋았던 흐름 그대로 간다' 캐릭 '사단', 전부 맨유와 함께...\"장기 프로젝트 함께\" [공식발표]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260524114553155"
+        }
+      }
+    ]
   }
 ]
