@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-05-26T03:26:20.403385+09:00",
-  "label": "03:26",
+  "timestamp": "2026-05-26T05:19:15.301602+09:00",
+  "label": "05:19",
   "items": [
+    {
+      "keyword": "시체",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'재구속 압박' 전광훈, 6주 만에 집회 불참…유튜브서 \"선거 뒤에는 마음대로\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/4PNkotvm0m?f=p"
+      }
+    },
+    {
+      "keyword": "신세계그룹",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "위기의 신세계 그룹…정용진 회장 내일(26일) 대국민사과",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8569453"
+      }
+    },
     {
       "keyword": "어선",
       "traffic_raw": "500+",
@@ -10,6 +30,16 @@
         "title": "“배 띄우면 적자” “출항 자체가 도박”…1000만 어민 울리는 ‘삼중고’는",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260525170158997"
+      }
+    },
+    {
+      "keyword": "엘니뇨",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "내일부턴 폭우? 심상찮은 올여름…'슈퍼 엘니뇨' 온다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260525204103533"
       }
     },
     {
@@ -33,16 +63,6 @@
       }
     },
     {
-      "keyword": "신세계그룹",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "카톡 선물 ‘인기 1위’ 스벅의 추락…불매가 깨부순 ‘7년 왕좌’",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12299750"
-      }
-    },
-    {
       "keyword": "라도 윤보미",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -53,23 +73,13 @@
       }
     },
     {
-      "keyword": "엘니뇨",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "내일부턴 폭우? 심상찮은 올여름…'슈퍼 엘니뇨' 온다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260525204103533"
-      }
-    },
-    {
       "keyword": "아베 신노스케",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'日 열도 대충격' 아베 감독, 딸 목조르고 폭행→현행범 체포…요미우리 구단 홈페이지+SNS 폐쇄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260526000553374?t=m&x_mn=6a14723efbddf26a833cbd3d"
+        "title": "[속보] \"아빠가 내 목을 졸랐다\"…일본이 충격에 빠졌다→'日 요미우리' 아베 감독, 18세 딸 폭행 혐의 '현행범 체포'+딸이 직접 신고",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260525n16639"
       }
     },
     {
@@ -77,9 +87,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[취재수첩] ETF 500조 시대, 소외된 운용사들",
+        "title": "‘요즘도 예금하는 사람 있어?’ 너도나도 ETF…갈수록 돈이 몰린다[투자360]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260525001557023"
+        "url": "https://v.daum.net/v/8q3prmgRX4"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "[잇슈 컬처] 르세라핌 정규 2집 발표…추억의 히트곡 ‘마카레나’ 삽입",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260525072004863"
-      }
-    },
-    {
-      "keyword": "memorial day",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Six American heroes everyone should know this Memorial Day, from Delta Force to a WWII bomber crew",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/outkick-culture/six-american-heroes-everyone-know-memorial-day-delta-force-wwii-bomber-crew"
       }
     }
   ]
