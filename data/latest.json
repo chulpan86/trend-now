@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-05-27T02:21:18.166014+09:00",
-  "label": "02:21",
+  "timestamp": "2026-05-27T04:55:57.018109+09:00",
+  "label": "04:55",
   "items": [
+    {
+      "keyword": "원룸 주택",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "도생·원룸·오피스텔 '영끌' 공급… 전세난 잡기 총력전 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/estate/2026/05/27/2026052620055596826"
+      }
+    },
+    {
+      "keyword": "심형탁",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'심형탁 子' 생후 16개월차 하루, 농부로 변신 [슈돌]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260526135817314"
+      }
+    },
     {
       "keyword": "제니",
       "traffic_raw": "2000+",
@@ -13,23 +33,23 @@
       }
     },
     {
-      "keyword": "심형탁",
+      "keyword": "이진숙",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'심형탁 子' 생후 16개월차 하루, 농부로 변신 [슈돌]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260526135817314"
+        "title": "‘윤석열 방통위’ 이진숙·김태규, 국힘 우세 지역서 접전…“윤 어게인 탓”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1260531.html"
       }
     },
     {
-      "keyword": "원룸 주택",
+      "keyword": "김태규",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“지식센터-상가, 오피스텔로 전환”… 非아파트 공급 확대 나서",
+        "title": "민심 요동치는 '보수 텃밭' 울산 남구갑",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260527003220611"
+        "url": "https://v.daum.net/v/20260525173018613"
       }
     },
     {
@@ -43,39 +63,13 @@
       }
     },
     {
-      "keyword": "임진왜란",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "한영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "동상이몽2_너는 내 운명 : 박군×한영, 2년 동안 쉼 없이 남몰래 준비했던 시험관 시술",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC479643248"
-      }
-    },
-    {
-      "keyword": "007",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "007 First Light GeForce Game Ready Driver Released",
-        "source": "NVIDIA",
-        "url": "https://www.nvidia.com/en-us/geforce/news/007-first-light-geforce-game-ready-driver/"
-      }
-    },
-    {
-      "keyword": "유정복",
+      "keyword": "보행자",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "손화정 영종구청장 후보 \"인천공항 운영사 통합 반대\" 정책협약 참석",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260526191415155"
+        "title": "보행자가 횡단보도 벗어났다고 운전자 불기소…헌재 “처분 취소해야”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605261400001"
       }
     },
     {
@@ -89,13 +83,23 @@
       }
     },
     {
+      "keyword": "유정복",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "손화정 영종구청장 후보 \"인천공항 운영사 통합 반대\" 정책협약 참석",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260526191415155"
+      }
+    },
+    {
       "keyword": "mu stock",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Micron hits $1 trillion market cap for the first time as stock surges 18%",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html"
+        "title": "Micron briefly tops $1 trillion in market cap as UBS sees company becoming an AI giant",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/micron-briefly-tops-1-trillion-in-market-cap-as-ubs-sees-company-becoming-an-ai-giant-134443670.html"
       }
     }
   ]
