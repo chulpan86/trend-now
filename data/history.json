@@ -2216,5 +2216,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-26T11:40:31.672487+09:00",
+    "label": "11:40",
+    "items": [
+      {
+        "keyword": "기뢰",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "미군, 호르무즈 인근 이란남부서 공격 단행‥\"자위권 차원\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6825194_36925.html"
+        }
+      },
+      {
+        "keyword": "조갑경",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "홍서범·조갑경 아들 '손배소' 항소심, 곧 결론 나온다…내달 선고 예정 [엑's 이슈]",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2152430"
+        }
+      },
+      {
+        "keyword": "두산에너빌리티 주가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"오늘 밤 이후 판 바뀐다…두산에너빌리티, 14만원 직행 시간문제\" (JW인베스트 곽유정 대표)",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/vod/3049068"
+        }
+      },
+      {
+        "keyword": "한화오션 주가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[포토타임] 한·캐나다 해군, 바닷물 합쳤다…도산안창호함·대전함 입항 환영식",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526104110977"
+        }
+      },
+      {
+        "keyword": "한미반도체 주가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한미반도체, 영업이익 88% 폭락 '어닝 쇼크'...3분기 연속 역성장",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=56775"
+        }
+      },
+      {
+        "keyword": "피스피스스튜디오",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'마르디 메크르디' 피스피스스튜디오, 일반공모 돌입",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01863046645452856"
+        }
+      },
+      {
+        "keyword": "청약",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "4월 전국 1순위 청약경쟁률 6.70대 1…10개월째 한자릿수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526094803340"
+        }
+      },
+      {
+        "keyword": "etf",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "XRP-Abflüsse auf Börsen steigen um 300 %, reicht das für eine Kurswende?",
+          "source": "BeInCrypto",
+          "url": "https://de.beincrypto.com/xrp-kurs-kaufsdruck-baerisches-muster-analyse/"
+        }
+      },
+      {
+        "keyword": "주성엔지니어링 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "잭팟 터뜨린 K반도체…실적호조 양자컴 '들썩'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026052574061"
+        }
+      },
+      {
+        "keyword": "에코프로 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"엔비디아 수혜 반도체 아닌 2차전지…에코프로, 전고점 뚫고 무섭게 오른다\" (JW인베스트 곽유정 대표)",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/vod/3049072"
+        }
+      }
+    ]
   }
 ]
