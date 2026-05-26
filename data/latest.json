@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-05-26T15:38:26.350030+09:00",
-  "label": "15:38",
+  "timestamp": "2026-05-26T22:47:51.570240+09:00",
+  "label": "22:47",
   "items": [
     {
-      "keyword": "고성국",
+      "keyword": "샘 올 트먼",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "고성국 “박근혜, ‘배신자 한동훈 척결’ 호소해야”…부산 북갑 지원 촉구",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1260377.html"
+        "title": "AI로 가장 먼저 대체될 직업은?…업종별 AI 대체 기상도 나왔다",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11591124"
       }
     },
     {
-      "keyword": "코너 맥그리거",
+      "keyword": "신민아",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "돌아온 맥그리거, UFC와 계약 연장 거부",
+        "title": "'스릴러퀸 도전' 신민아 \"안 보일 때 쫓기는 공포 흥미로웠죠\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260526083317998"
+        "url": "https://v.daum.net/v/20260526134913949"
       }
     },
     {
-      "keyword": "채무",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“빚을 왜 갚아요? 알아서 다 해주는데”…은행 채무조정 4배로 껑충",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12057168"
-      }
-    },
-    {
-      "keyword": "앤드류 로버트슨",
+      "keyword": "김연경",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Liverpool legend could make shock move as big-money offer made",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/liverpool-legend-could-shock-move-054000885.html"
+        "title": "[공식]'신인감독 김연경', 내달 팬미팅 연다…김연경→원더독스 선수단 함께 참석",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/26/MU2DIODEHEZTQYRXGZSWCMZSMY/"
       }
     },
     {
-      "keyword": "슈퍼카",
+      "keyword": "슈퍼맨이 돌아왔다",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“법인 슈퍼카 탈 땐 좋았지?”…세무조사 예고한 국세청 [잇슈 키워드]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8569631"
+        "title": "'심형탁 子' 생후 16개월차 하루, 농부로 변신 [슈돌]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260526135817314"
       }
     },
     {
-      "keyword": "홍수",
+      "keyword": "이현중",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이현중, 나가사키 창단 첫 B.리그 우승 앞장…PO MVP 수상(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/XsoQ6oPKZb"
+      }
+    },
+    {
+      "keyword": "정인",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "이주빈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "中 충칭 기록적 폭우 강타…11명 사망·11명 실종",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260526_0003643654"
+        "title": "이주빈, 'C+V' 수준의 학창시절 미모 눈길..\"중학생때부터 학비 벌어\" [순간포착]",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260526060807685"
       }
     },
     {
-      "keyword": "삼화콘덴서",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "훈련",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "특징주, 삼화전기-페라이트 테마 상승세에 6.04% ↑",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1093414?type=theme"
+        "title": "연천군시설관리공단, 어린이교통랜드 민관 합동 소방훈련 실시",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260526580179"
       }
     },
     {
-      "keyword": "불",
+      "keyword": "마이크론",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "아산 주택 앞마당서 80대 불에 타 숨진채 발견…경찰 수사",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260525195754990"
+        "title": "마이크론, HBM4 램프업 순항…\"내년 HBM4E 양산\"",
+        "source": "디일렉",
+        "url": "https://www.thelec.kr/news/articleView.html?idxno=57103"
       }
     },
     {
-      "keyword": "중앙선거관리위원회",
+      "keyword": "hanwha vs nc",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "종이 공보물 대량 발송 여전⋯“시대 변화 못 따라가” 지적도",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260526143909449"
-      }
-    },
-    {
-      "keyword": "재정",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "한국지방재정공제회·한국관광공사 “지방소멸대응기금 관광사업 컨설팅을 위한 MOU 체결”",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11591174"
+        "title": "Park Joon-young Returns as KBO's First Farm System Starter",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/05/26/HTJWZDJWMZF2JFUQLB4XYLBZ2Q/"
       }
     }
   ]
