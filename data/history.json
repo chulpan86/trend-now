@@ -1262,5 +1262,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-27T06:29:51.230841+09:00",
+    "label": "06:29",
+    "items": [
+      {
+        "keyword": "sk하이닉스",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"오후 3시를 주목하라\"…삼전닉스 레버리지가 바꿀 풍경",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260527050307954"
+        }
+      },
+      {
+        "keyword": "신호등",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "스쿨존 교통사고 예방 총력…차량-보행자 분리·불법주정차 단속 강화",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965085"
+        }
+      },
+      {
+        "keyword": "염경엽",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"충분히 경고 줬다\"고 했던 함덕주, 재정비 마치고 1군 복귀…'3연승 도전' LG 선발 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526165115393"
+        }
+      },
+      {
+        "keyword": "육군",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"제발 멈춰달라\" 외침에도 강제 팔굽혀펴기…병사 근육 녹아 입원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526181218207"
+        }
+      },
+      {
+        "keyword": "유영찬",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"터질 게 터진 것 같다\" 문동주-유영찬 후배들 부상 안타까운 KIA 스타출신 투수, 150km가 평범…'광속구 시대'가 부른 그림자",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526174105868"
+        }
+      },
+      {
+        "keyword": "kg모빌리티",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KGM, 가정의 달 맞아 임직원 가족 300명 초청…노경 소통으로 ‘한마음’",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03266886645452856"
+        }
+      },
+      {
+        "keyword": "첫 번째 남자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'첫 번째 남자' 오현경, 정소영 내쫓으려다 역으로 당했다 \"너도 당해봐야\"",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/506269"
+        }
+      },
+      {
+        "keyword": "조세 무리뉴",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "초비상 '123억원 → 264억원' 레알, 하루아침에 돈 더 낸다…\"무리뉴 감독 바이아웃, 오늘 넘기면 2배로\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526093338525"
+        }
+      },
+      {
+        "keyword": "로베르토 데 제르비",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'손흥민 고별전에서 사실상 시즌 아웃, 강등권 경쟁에 답답' 매디슨…\"데 제르비가 참사 막았다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526041203501"
+        }
+      },
+      {
+        "keyword": "석유",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "석유관리원, The안심결과서비스로 소비자 권익보호 앞장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260526_0003644392"
+        }
+      }
+    ]
   }
 ]
