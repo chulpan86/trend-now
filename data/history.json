@@ -1,421 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24T23:48:13.282022+09:00",
-    "label": "23:48",
-    "items": [
-      {
-        "keyword": "수익",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "신청자 10만 명 넘었다…\"삼전닉스서 2배 수익\" 뭐길래",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524204209140"
-        }
-      },
-      {
-        "keyword": "배영만",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'사랑꾼' 배영만 \"日 예비 며느리 약사, 아들 경제적 지원하기로\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524143813971"
-        }
-      },
-      {
-        "keyword": "수표",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'두리번 두리번' 폰만 만지작…지켜보던 은행원 보이스피싱 '촉'[영상]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524085900662"
-        }
-      },
-      {
-        "keyword": "편의점",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"필요한 만큼만\"⋯실속형 소용량 상품 '대세'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260524n03268"
-        }
-      },
-      {
-        "keyword": "알렉산더 즈베레프",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"몸이 허락하지 않았다\"...조코비치 고백, 프랑스오픈 직전까지 출전도 불투명했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260523162953588"
-        }
-      },
-      {
-        "keyword": "이규한",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘2년전 결별’ 이규한 “통통한 아나운서상 좋아해” (‘미우새’)",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12056731"
-        }
-      },
-      {
-        "keyword": "jtbc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "한국기행",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한국기행 ‘억’ 소리 나는 그녀들 5부…산나물로 연매출 252억!",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1137740"
-        }
-      },
-      {
-        "keyword": "러시아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "러, ‘극초음속 미사일’로 맹폭…불바다 된 우크라 “이런 밤은 처음”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524210918492"
-        }
-      },
-      {
-        "keyword": "늑구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'탈출 늑대' 늑구의 9일…방민호 교수 \"늑구가 남긴 질문은 '이것'\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524080215055"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-05-25T00:55:00.878749+09:00",
-    "label": "00:55",
-    "items": [
-      {
-        "keyword": "rajasthan royals vs mumbai indians standings",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Ball by Ball Commentary & Live Score - MI vs RR, 69th Match",
-          "source": "ESPNcricinfo",
-          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/mumbai-indians-vs-rajasthan-royals-69th-match-1529312/ball-by-ball-commentary"
-        }
-      },
-      {
-        "keyword": "맨유",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[오피셜] 역대급 경사! 맨체스터 유나이티드 '중원의 심장' 2관왕 석권, 'EPL 올해의 선수상' 수상...\"동료들의 도움 덕분\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9cqye7XSw5"
-        }
-      },
-      {
-        "keyword": "man city vs aston villa",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Manchester City vs Aston Villa: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c4g74g26683t"
-        }
-      },
-      {
-        "keyword": "spurs vs everton",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Tottenham Hotspur vs Everton: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c5y7qyg03v7t"
-        }
-      },
-      {
-        "keyword": "ไบรตัน พบ แมนยู",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "ถ่ายทอดสด 'ไบรท์ตัน พบ แมนยู'ดูบอลสด พรีเมียร์ลีกนัดสุดท้าย 22.00 น.",
-          "source": "thansettakij",
-          "url": "https://www.thansettakij.com/sport/659786"
-        }
-      },
-      {
-        "keyword": "brighton đấu với man utd",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Trực tiếp bóng đá Brighton - MU: Dorgu - Mbeumo lập công, Fernandes có kiến tạo thứ 21 (Ngoại hạng Anh)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-brighton-mu-fernandes-san-ky-luc-moi-thoi-dai-ngoai-hang-anh-c48a1764427.html"
-        }
-      },
-      {
-        "keyword": "sunderland vs chelsea",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Confirmed Chelsea line up vs Sunderland | News | Official Site",
-          "source": "Chelsea official site",
-          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-sunderland-may-26"
-        }
-      },
-      {
-        "keyword": "보아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "보아, 몰라보게 달라졌네…SM 떠나 금발 변신, '갸루 언니' 비주얼",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524150248602"
-        }
-      },
-      {
-        "keyword": "liverpool vs brentford",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Confirmed Liverpool line-up v Brentford",
-          "source": "Liverpool FC",
-          "url": "https://www.liverpoolfc.com/news/confirmed-liverpool-line-v-brentford-7"
-        }
-      },
-      {
-        "keyword": "한선화",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한선화, 박해준에 적극 관심…솔직과 담담 오가는 열연에 호평(‘모자무싸’)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524170620127"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-05-25T01:52:04.081120+09:00",
-    "label": "01:52",
-    "items": [
-      {
-        "keyword": "epl",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "West Ham v Leeds, Champions League battle, Arsenal to lift trophy and Guardiola’s goodbye: Premier League finale – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/may/24/west-ham-leeds-champions-league-arsenal-trophy-pep-guardiola-goodbye-premier-league-finale-live"
-        }
-      },
-      {
-        "keyword": "pl",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Obywatel Ukrainy opuszcza Polskę po rajdzie nad Moskim Okiem. Nowe fakty",
-          "source": "Wiadomości Onet",
-          "url": "https://wiadomosci.onet.pl/krakow/skandal-nad-morskim-okiem-ukrainski-influencer-wyjechal-z-polski/lwkqcn2"
-        }
-      },
-      {
-        "keyword": "모자무싸",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한선화, 박해준에 적극 관심…솔직과 담담 오가는 열연에 호평(‘모자무싸’)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524170620127"
-        }
-      },
-      {
-        "keyword": "웨스트햄 리즈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "웨스트햄 대 리즈, 2026년 5월 24일 22:00, 프리미어 리그 38라운드",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/west-ham-vs-leeds-22-00-ngay-24-05-2026-vong-38-premier-league"
-        }
-      },
-      {
-        "keyword": "ดูบอลสด",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "กวาร์ดิโอลา เตรียมอำลาตำแหน่งกุนซือซิตี้ หลังสร้างยุคทองตลอดทศวรรษที่ผ่านมา",
-          "source": "Manchester City FC",
-          "url": "https://th.mancity.com/news/mens/pep-guardiola-official-announcement-63915041"
-        }
-      },
-      {
-        "keyword": "스포츠",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[ST포토] 서교림 '캐디와 함께'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260524n07716?mid=n0100"
-        }
-      },
-      {
-        "keyword": "fotmob",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Why Casemiro is not playing for Manchester United in final game vs Brighton",
-          "source": "Metro.co.uk",
-          "url": "https://metro.co.uk/2026/05/24/casemiro-not-playing-manchester-united-final-game-vs-brighton-28484253/"
-        }
-      },
-      {
-        "keyword": "중계",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "KOVO, 6월 2일 임시 이사회 개최…SOOP 회원 가입 승인할 듯",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7TWsDgQ9pM"
-        }
-      },
-      {
-        "keyword": "티비",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Colbert’s Sudden Return to Late Night? It Happened on Public Access.",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html"
-        }
-      },
-      {
-        "keyword": "헐크",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "The Infernal Hulk #7 Preview: X-Men Face Mind Control in Living City",
-          "source": "Bleeding Cool News",
-          "url": "https://bleedingcool.com/comics/the-infernal-hulk-7-preview-x-men-face-mind-control-in-living-city/"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-05-25T02:52:41.721703+09:00",
-    "label": "02:52",
-    "items": [
-      {
-        "keyword": "리버풀",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "살라의 리버풀 마지막이 이렇게 끝나나... 슬롯 저격에 레전드들 폭발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7IJYqsael2"
-        }
-      },
-      {
-        "keyword": "재건축",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "삼성물산, 압구정4구역 재건축 시공사로 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260525014444586"
-        }
-      },
-      {
-        "keyword": "챔스 결승",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이강인 뛰는 PSG 챔스 결승인데... 영국 총리 “무료로 보게 해달라”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9Iy09ONdCB"
-        }
-      },
-      {
-        "keyword": "최시훈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"주사 잘못 놨다\" 최시훈 자책…에일리, 시험관 2차 이식 앞두고 또 눈물",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260524224020312"
-        }
-      },
-      {
-        "keyword": "맨유 브라이튼",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "브루노는 어시스트왕으로 시즌을 마무리했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/bruno-khep-lai-mua-giai-voi-ngoi-vua-kien-tao"
-        }
-      },
-      {
-        "keyword": "west ham vs leeds",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "West Ham 3-0 Leeds - Hammers relegated despite final-day win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c70vr05gwelt"
-        }
-      },
-      {
-        "keyword": "sk스퀘어",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "고수들은 다 담았다…\"400만원 간다\" SK하닉 질주에 덩달아 급등한 SK스퀘어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260523162700528"
-        }
-      },
-      {
-        "keyword": "crystal palace đấu với arsenal",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Nhận định bóng đá Crystal Palace vs Arsenal, 22h00 ngày 24/5: Tâm thế ở trời Âu",
-          "source": "BongdaPlus",
-          "url": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-crystal-palace-vs-arsenal-22h00-ngay-24-5-tam-the-o-troi-au-5054962605.html"
-        }
-      },
-      {
-        "keyword": "lpl",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "LPL 2026: 14 Pre-signed players announced ahead of draft",
-          "source": "Newswire",
-          "url": "https://www.newswire.lk/2026/05/23/lpl-2026-14-pre-signed-players-announced-ahead-of-draft/"
-        }
-      },
-      {
-        "keyword": "2002 월드컵",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-05-25T04:02:00.884387+09:00",
     "label": "04:02",
     "items": [
@@ -2319,6 +1903,112 @@
           "title": "\"엔비디아 수혜 반도체 아닌 2차전지…에코프로, 전고점 뚫고 무섭게 오른다\" (JW인베스트 곽유정 대표)",
           "source": "서울경제",
           "url": "https://www.sedaily.com/vod/3049072"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-26T15:38:26.350030+09:00",
+    "label": "15:38",
+    "items": [
+      {
+        "keyword": "고성국",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "고성국 “박근혜, ‘배신자 한동훈 척결’ 호소해야”…부산 북갑 지원 촉구",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1260377.html"
+        }
+      },
+      {
+        "keyword": "코너 맥그리거",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "돌아온 맥그리거, UFC와 계약 연장 거부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526083317998"
+        }
+      },
+      {
+        "keyword": "채무",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“빚을 왜 갚아요? 알아서 다 해주는데”…은행 채무조정 4배로 껑충",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12057168"
+        }
+      },
+      {
+        "keyword": "앤드류 로버트슨",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Liverpool legend could make shock move as big-money offer made",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/liverpool-legend-could-shock-move-054000885.html"
+        }
+      },
+      {
+        "keyword": "슈퍼카",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“법인 슈퍼카 탈 땐 좋았지?”…세무조사 예고한 국세청 [잇슈 키워드]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8569631"
+        }
+      },
+      {
+        "keyword": "홍수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "中 충칭 기록적 폭우 강타…11명 사망·11명 실종",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260526_0003643654"
+        }
+      },
+      {
+        "keyword": "삼화콘덴서",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "특징주, 삼화전기-페라이트 테마 상승세에 6.04% ↑",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1093414?type=theme"
+        }
+      },
+      {
+        "keyword": "불",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "아산 주택 앞마당서 80대 불에 타 숨진채 발견…경찰 수사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525195754990"
+        }
+      },
+      {
+        "keyword": "중앙선거관리위원회",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "종이 공보물 대량 발송 여전⋯“시대 변화 못 따라가” 지적도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526143909449"
+        }
+      },
+      {
+        "keyword": "재정",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한국지방재정공제회·한국관광공사 “지방소멸대응기금 관광사업 컨설팅을 위한 MOU 체결”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11591174"
         }
       }
     ]
