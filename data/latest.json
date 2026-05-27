@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-05-28T06:59:06.122529+09:00",
-  "label": "06:59",
+  "timestamp": "2026-05-28T08:18:39.725168+09:00",
+  "label": "08:18",
   "items": [
     {
-      "keyword": "운세",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "날씨",
+      "traffic_raw": "100000+",
+      "traffic": 100000,
       "news": {
-        "title": "[오늘의 운세] 5월 28일 목요일 (음력 4월 12일) 띠별 운세",
+        "title": "사흘째 아침 출근길 비… 오후부턴 최고 30도 초여름 더위 [오늘날씨]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260528000131021"
+        "url": "https://v.daum.net/v/20260528071052541"
       }
     },
     {
-      "keyword": "김성수",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김민재",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'신랑수업2' 김성수, 박소윤 집 첫 방문에 침실까지…1박 플러팅",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/6179043"
-      }
-    },
-    {
-      "keyword": "면허",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "도봉운전면허시험장, 도봉산 둘레길 플로깅 실시",
-        "source": "시사프리신문",
-        "url": "http://www.sisanews.org/articles/224297880167"
-      }
-    },
-    {
-      "keyword": "한화 이글스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "방수포 덮여있지만, 비는 사라졌다...'KBO 최초' 육성 신화의 두 번째 선발 등판 볼 수 있나 [오!쎈 창원]",
+        "title": "“나 믿고 한국 수비수 영입해” 직접 구단주 설득까지 했던 ‘김민재 은사’ 재회 꿈꾼다 “수비진 보강 해결책으로 KIM 고려”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260527142703193"
+        "url": "https://v.daum.net/v/20260527163055896"
       }
     },
     {
-      "keyword": "박승규",
+      "keyword": "weather",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Wind advisory for Las Vegas; strong gusts expected",
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/weather-news/articles/wind-advisory-las-vegas-strong-141215791.html"
+      }
+    },
+    {
+      "keyword": "프랑스 오픈",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "삼성 박승규 역전 투런포 한 방에 SSG 속절없이 8연패",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8571524"
+        "title": "남자 테니스 세계 1위 신네르, 프랑스오픈 첫판 가볍게 승리",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260527093109653"
       }
     },
     {
-      "keyword": "문원",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'42.9kg' 신지 \"문원과 결혼 후 정신적 스트레스\"...김종민도 우려 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/05/28/2026052722473583868"
-      }
-    },
-    {
-      "keyword": "김경문",
+      "keyword": "로버트슨",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[엠빅뉴스] “이 괴물아!!” 중계엔 짤린 200승 대기록 축하 현장!",
+        "title": "'가까스로 잔류' 토트넘, 대대적인 리빌딩 돌입...스톤스+로버트슨+브라이튼 핵심 영입 추진",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260525162811290"
+        "url": "https://v.daum.net/v/20260527112953006"
       }
     },
     {
-      "keyword": "서희건설",
+      "keyword": "퓨리오사ai",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "서희건설, 주식거래 재개 '지역주택조합 1080억 중도금' 보증",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Z4wCgkJ6Ca?f=m"
+        "title": "韓 AI 반도체에 손 내민 브로드컴…퓨리오사AI와 계약",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260527235545"
       }
     },
     {
-      "keyword": "뷰익",
+      "keyword": "청년미래적금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "韓 상륙하는 '뷰익'…유려한 곡선이 그리는 탁월한 질주",
+        "title": "“월 50만원 넣으면 2255만원?”…6월 나오는 ‘청년미래적금’ 가입 전 봐야 할 것",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260526160354187"
+        "url": "https://v.daum.net/v/20260528053848032"
       }
     },
     {
-      "keyword": "김용빈",
+      "keyword": "iren",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "IREN Secures Blackwell Firepower To Feed Booming AI Cloud Demand",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/iren-secures-blackwell-firepower-feed-092933311.html"
+      }
+    },
+    {
+      "keyword": "엘제이",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김용빈, 팬 3천 명과 체육대회…'미스터트롯3' 우승자의 남다른 팬 사랑",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260527105726280"
+        "title": "신정환 향해 \"너는 내가 죽인다, XX야\"...엘제이 공개 저격, 무슨 일? - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/05/27/2026052722195513409"
+      }
+    },
+    {
+      "keyword": "에코프로비엠",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"엔비디아 수혜 반도체 아닌 2차전지…에코프로, 전고점 뚫고 무섭게 오른다\" (JW인베스트 곽유정 대표)",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/vod/3049072"
       }
     }
   ]
