@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-05-27T15:54:54.543670+09:00",
-  "label": "15:54",
+  "timestamp": "2026-05-27T19:49:17.540873+09:00",
+  "label": "19:49",
   "items": [
     {
-      "keyword": "lg",
+      "keyword": "노태문",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "Two Injured in Stabbing at LG Electronics Magok Center... Subcontractor Employee Urgently Apprehended",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/en/article/2026052713325284469"
+        "title": "삼성전자, 21조 규모 추정 성과급용 자사주 매입 곧 나선다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/05/27/2026052716262736893"
       }
     },
     {
-      "keyword": "마곡",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "LG전자 협력사 직원, 본사 직원 찔러... 용의자 긴급 체포",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/05/27/J6RGSLIXM5FBVJ3LLUWB6Z5YSY/"
-      }
-    },
-    {
-      "keyword": "마동석",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "'범죄도시5' 캐스팅 확정, 마동석X김재영 24일 크랭크인[공식]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260527081315971"
-      }
-    },
-    {
-      "keyword": "연합뉴스",
+      "keyword": "정국",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": null
+      "news": {
+        "title": "[단독] BTS 정국 살던 청담동 빌라 전세금 60억 원, 빅히트 2년째 회수 못 해",
+        "source": "비즈한국",
+        "url": "https://www.bizhankook.com/bk/article/32364"
+      }
     },
     {
-      "keyword": "모델",
+      "keyword": "우승",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "한국 태권도, 아시아선수권 겨루기 남자 종합우승·여자 준우승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260527139500007"
+      }
+    },
+    {
+      "keyword": "tgv",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "신라면세점, 홍보모델로 배우 이준호 선정",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260527029400030"
+        "title": "Rhône. TGV bloqué sans climatisation : elle reçoit 200 € d’amende pour avoir ouvert une issue de secours",
+        "source": "Le Progrès",
+        "url": "https://www.leprogres.fr/transport/2026/05/26/tgv-bloque-sans-climatisation-elle-recoit-200-d-amende-pour-avoir-ouvert-une-issue-de-secours"
       }
     },
     {
-      "keyword": "지진",
+      "keyword": "플레이스테이션",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "일본 지바현 ″규모 8.5 앞바다 강진 땐 지바현서 5만 7천 명 사망″",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260526180506jW9"
+        "title": "플레이스테이션, 6월 10일까지 'Days of Play 2026' 프로모션 진행",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260527001030"
       }
     },
     {
-      "keyword": "김종인",
+      "keyword": "하남시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신동욱 “박근혜 탄핵 정당했나”…지원 유세에 보수 결집 의미 부여",
-        "source": "조선일보",
-        "url": "http://weekly.chosun.com/news/articleView.html?idxno=51907"
+        "title": "울진국유림관리소, 봄철 산불조심기간 드론감시단 운영으로 산불예방 총력대응",
+        "source": "대한민국 정책브리핑",
+        "url": "https://m.korea.kr/news/pressReleaseView.do?newsId=156763507&pWise=mSub&pWiseSub=C10"
       }
     },
     {
-      "keyword": "박해수",
+      "keyword": "로젠",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'허수아비' 제작진 \"응징 못 한 이춘재 사건, 피해자 위로했길\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260527098000005"
+        "title": "택배노조, 로젠택배지점협의회와 첫 단체협약 체결",
+        "source": "물류신문",
+        "url": "https://www.klnews.co.kr/news/articleView.html?idxno=321239"
       }
     },
     {
-      "keyword": "순천대학교",
+      "keyword": "지민",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한양대 ERICA '2026 전공페스티벌' 성료... 학생 맞춤형 진로 설계 지원",
-        "source": "베리타스알파",
-        "url": "https://www.veritas-a.com/news/articleView.html?idxno=611998"
+        "title": "이 대통령, 부산 BTS 공연 ‘바가지 숙소’ 질타 “온 동네 민폐···업체 명단 공개해야”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605271609001"
       }
     },
     {
-      "keyword": "tiger 미국우주테크",
+      "keyword": "심우정",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "스페이스X 상장 카운트다운…우주 ETF로 뭉칫돈",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260527144603190"
+        "title": "공수처, '외교부 특혜채용 의혹' 심우정 딸 수사의뢰‥심 전 총장 본인은 무혐의",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6825543_36918.html"
+      }
+    },
+    {
+      "keyword": "전라도",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"전라도 갈 땐 여권 대신 숟가락\"…H홈쇼핑 지역 비하 논란",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12299962"
       }
     }
   ]
