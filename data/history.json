@@ -1152,5 +1152,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-28T06:59:06.122529+09:00",
+    "label": "06:59",
+    "items": [
+      {
+        "keyword": "운세",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[오늘의 운세] 5월 28일 목요일 (음력 4월 12일) 띠별 운세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528000131021"
+        }
+      },
+      {
+        "keyword": "김성수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'신랑수업2' 김성수, 박소윤 집 첫 방문에 침실까지…1박 플러팅",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6179043"
+        }
+      },
+      {
+        "keyword": "면허",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "도봉운전면허시험장, 도봉산 둘레길 플로깅 실시",
+          "source": "시사프리신문",
+          "url": "http://www.sisanews.org/articles/224297880167"
+        }
+      },
+      {
+        "keyword": "한화 이글스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "방수포 덮여있지만, 비는 사라졌다...'KBO 최초' 육성 신화의 두 번째 선발 등판 볼 수 있나 [오!쎈 창원]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260527142703193"
+        }
+      },
+      {
+        "keyword": "박승규",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성 박승규 역전 투런포 한 방에 SSG 속절없이 8연패",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8571524"
+        }
+      },
+      {
+        "keyword": "문원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'42.9kg' 신지 \"문원과 결혼 후 정신적 스트레스\"...김종민도 우려 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/05/28/2026052722473583868"
+        }
+      },
+      {
+        "keyword": "김경문",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[엠빅뉴스] “이 괴물아!!” 중계엔 짤린 200승 대기록 축하 현장!",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260525162811290"
+        }
+      },
+      {
+        "keyword": "서희건설",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서희건설, 주식거래 재개 '지역주택조합 1080억 중도금' 보증",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Z4wCgkJ6Ca?f=m"
+        }
+      },
+      {
+        "keyword": "뷰익",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "韓 상륙하는 '뷰익'…유려한 곡선이 그리는 탁월한 질주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260526160354187"
+        }
+      },
+      {
+        "keyword": "김용빈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김용빈, 팬 3천 명과 체육대회…'미스터트롯3' 우승자의 남다른 팬 사랑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260527105726280"
+        }
+      }
+    ]
   }
 ]
