@@ -1262,5 +1262,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-29T07:26:52.549806+09:00",
+    "label": "07:26",
+    "items": [
+      {
+        "keyword": "신지",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "'42.9kg' 신지 \"문원과 결혼 후 정신적 스트레스\"...김종민도 우려 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/05/28/2026052722473583868"
+        }
+      },
+      {
+        "keyword": "현대자동차",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "두산에너빌리티",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "두산에너빌리티, 英 롤스로이스 SMR 핵심 파트너 선정",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=368539"
+        }
+      },
+      {
+        "keyword": "말자쇼",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "성인영화 배우 민도윤, '말자쇼' 깜짝 등장한 까닭[오늘TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3vBu9MKpTl"
+        }
+      },
+      {
+        "keyword": "신한은행",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "시중은행, 예금토큰 지급 시스템 '프로젝트 아고라' 검증 참여",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260528108900002"
+        }
+      },
+      {
+        "keyword": "나스닥 100",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "ETF 아버지의 美 증시 전략 \"가진 주식 다 팔아 나스닥 100 사라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/05/27/VACNFSHCPNBTXHACINPRB4CHIE/"
+        }
+      },
+      {
+        "keyword": "필라델피아 반도체 지수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“삼성전자, SK하이닉스 실적 우상향의 끝 예단 어려워… 2025년 기점으로 급변”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529070311937"
+        }
+      },
+      {
+        "keyword": "tqqq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "TQQQ’s 3x Promise Quietly Cost Holders 81 Percent in 2022 While the Nasdaq Fell Just 33 Percent",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/options/articles/tqqq-3x-promise-quietly-cost-140002126.html"
+        }
+      },
+      {
+        "keyword": "달 탐사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[월드 이슈] 달기지 건설 경쟁…미·중 누가 먼저 웃을까?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528153805046"
+        }
+      },
+      {
+        "keyword": "서울시 교육감",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "단일화 '진흙탕 싸움'에 결국 8파전 치른다…'동성애 교육' 논란까지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529070143858"
+        }
+      }
+    ]
   }
 ]

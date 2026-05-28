@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-05-29T05:12:04.465529+09:00",
-  "label": "05:12",
+  "timestamp": "2026-05-29T07:26:52.549806+09:00",
+  "label": "07:26",
   "items": [
     {
-      "keyword": "통화 정책",
+      "keyword": "신지",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "'42.9kg' 신지 \"문원과 결혼 후 정신적 스트레스\"...김종민도 우려 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/05/28/2026052722473583868"
+      }
+    },
+    {
+      "keyword": "현대자동차",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "두산에너빌리티",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "기준금리 2차례 올려 3% 가능성… 물가안정 도움, 대출이자 늘듯",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260529043349722"
+        "title": "두산에너빌리티, 英 롤스로이스 SMR 핵심 파트너 선정",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=368539"
       }
     },
     {
-      "keyword": "도시",
+      "keyword": "말자쇼",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[6·3아산]오세현 \"시민 삶의 질 높이는 행복도시 실현\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260528_0003647487"
+        "title": "성인영화 배우 민도윤, '말자쇼' 깜짝 등장한 까닭[오늘TV]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/3vBu9MKpTl"
       }
     },
     {
-      "keyword": "충전소",
+      "keyword": "신한은행",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[특파원 시선] 하노이 '전기오토바이 시대' 언제쯤 올까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260523070915262"
-      }
-    },
-    {
-      "keyword": "ls전선",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"LS전선 도면부터 설비까지 유출\"…대한전선 임직원 송치",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528173652018"
-      }
-    },
-    {
-      "keyword": "김선빈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "KIA, '호랑이 기운'으로 거침없이 6연승…황동하 시즌 5승째",
+        "title": "시중은행, 예금토큰 지급 시스템 '프로젝트 아고라' 검증 참여",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260528186200007"
+        "url": "https://www.yna.co.kr/view/AKR20260528108900002"
       }
     },
     {
-      "keyword": "opus 4.8",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "나스닥 100",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Introducing Claude Opus 4.8",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/news/claude-opus-4-8"
-      }
-    },
-    {
-      "keyword": "이준",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "생활고 고백한 이준, 왜 거짓말했나..\"성공했다고 보여주고싶었다\"",
+        "title": "ETF 아버지의 美 증시 전략 \"가진 주식 다 팔아 나스닥 100 사라\"",
         "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/MI2TEZLEHFSGENLEMY4TCMDFGI/"
+        "url": "https://www.chosun.com/economy/money/2026/05/27/VACNFSHCPNBTXHACINPRB4CHIE/"
       }
     },
     {
-      "keyword": "연금복권720+",
+      "keyword": "필라델피아 반도체 지수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "연금복권 720 317회 당첨결과, 1등 2명·2등 8명·보너스 10명(당첨 번호 통계)",
-        "source": "톱스타뉴스",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16074108"
+        "title": "“삼성전자, SK하이닉스 실적 우상향의 끝 예단 어려워… 2025년 기점으로 급변”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260529070311937"
       }
     },
     {
-      "keyword": "agi",
+      "keyword": "tqqq",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "RSI is the new AGI — and it’s just as hard to pin down",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/"
+        "title": "TQQQ’s 3x Promise Quietly Cost Holders 81 Percent in 2022 While the Nasdaq Fell Just 33 Percent",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/options/articles/tqqq-3x-promise-quietly-cost-140002126.html"
       }
     },
     {
-      "keyword": "nc",
+      "keyword": "달 탐사",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Rankings Spotlight: Brady Holmes",
-        "source": "Prep Baseball Report",
-        "url": "https://www.prepbaseballreport.com/news/NC/rankings-spotlight--brady-holmes"
+        "title": "[월드 이슈] 달기지 건설 경쟁…미·중 누가 먼저 웃을까?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528153805046"
+      }
+    },
+    {
+      "keyword": "서울시 교육감",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "단일화 '진흙탕 싸움'에 결국 8파전 치른다…'동성애 교육' 논란까지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260529070143858"
       }
     }
   ]
