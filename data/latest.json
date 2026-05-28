@@ -1,97 +1,105 @@
 {
-  "timestamp": "2026-05-28T15:43:37.192750+09:00",
-  "label": "15:43",
+  "timestamp": "2026-05-28T19:45:05.742371+09:00",
+  "label": "19:45",
   "items": [
     {
-      "keyword": "선거법",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "[단독] ‘李대통령 선거법 사건 무죄 취지 파기환송’ 대법관 고발, 검찰 4년 만에 각하[세상&]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528094714767"
-      }
-    },
-    {
-      "keyword": "정유라",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "정유라 “‘10년 수감 엄마 ‘하지 마비’ 위기…병원 좀 보내주세요”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6mcZIUGhts"
-      }
-    },
-    {
-      "keyword": "엘 제이 신정환",
+      "keyword": "임우재",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "엘제이, 선배 신정환 공개 저격 \"넌 인간 아냐\"…격분 속 전처 이선정도 언급",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/celebrity-topic/6179617"
+        "title": "'노인 감금' 임우재 前삼성전기 고문 항소심서도 징역형 구형",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528192201829"
       }
     },
     {
-      "keyword": "국민 연금 리 밸런싱",
+      "keyword": "수익률",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "국민연금 오늘 국내주식 비중 결정‥\"팔자니 충격, 안 팔자니 부담\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6825803_36918.html"
+        "title": "“배당만 38조 잭팟” 삼전·기아 주주들 돈방석 앉았다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528155153699"
       }
     },
     {
-      "keyword": "무명전설",
+      "keyword": "삼성역",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'비타민수' 박민수, '무명전설' 최고 아웃풋…\"성장 계기 됐다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528134617958"
+        "title": "[참고] 국토부·서울시·국가철도공단, 5.28일 GTX 삼성역 보강방안 적정성 용역 착수보고회 개최",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156763968&pWise=main&pWiseMain=L5"
       }
     },
     {
-      "keyword": "퓨리오사 ai",
+      "keyword": "민생회복 소비쿠폰",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "韓 AI 반도체에 손 내민 브로드컴…퓨리오사AI와 계약",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260527235545"
+        "title": "'민생회복 소비쿠폰'부터 '그냥드림'까지…민생 최우선 1년",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965115"
       }
     },
     {
-      "keyword": "강민경",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "참외",
+      "keyword": "증바람",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "참외 속에서 나온 이쑤시개…“이게 왜 들어가있지?”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528152800366"
+        "title": "리그 오브 레전드 26.11 패치 노트",
+        "source": "League of Legends",
+        "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-11-notes/"
       }
     },
     {
-      "keyword": "테슬라 사이버캡",
+      "keyword": "오유진",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
+      "news": {
+        "title": "'아기호랑이' 김태연, 토탈셋과 전속계약…오유진·이수연과 한지붕",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528150212754"
+      }
     },
     {
-      "keyword": "연우",
+      "keyword": "농약",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'파리 잡으려고'…마을주민들 음식에 농약 넣은 60대 법정구속",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528142807459"
+      }
+    },
+    {
+      "keyword": "강의구",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'사후 계엄선포문' 강의구 전 부속실장 1심 징역 1년6개월‥법정구속",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6825901_36918.html"
+      }
+    },
+    {
+      "keyword": "우쿠두 복합화력 발전소",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "한전, 괌 우쿠두 가스복합화력 발전소 준공…“에너지 영토 넓혔다”",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=368559"
+      }
+    },
+    {
+      "keyword": "pce",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한지현, 예능 '무쇠소녀단3' 新멤버 확정 [공식]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260521105515852?f=p"
+        "title": "S&P 500 futures decline as Wall Street awaits key April inflation reading: Live updates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html"
       }
     }
   ]
