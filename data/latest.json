@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-28T23:29:02.923102+09:00",
-  "label": "23:29",
+  "timestamp": "2026-05-29T02:56:34.029915+09:00",
+  "label": "02:56",
   "items": [
     {
-      "keyword": "서울시장 토론",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "김정철",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
         "title": "[MBC여론조사] '서울·대구' 접전‥부산 전재수 오차 범위 밖 우세",
         "source": "MBC 뉴스",
@@ -13,93 +13,93 @@
       }
     },
     {
-      "keyword": "주주",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "lg 유플러스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "“공부 안 시켜줘 감사”…삼전 고졸 직원의 ‘6억 성과급’ 자랑에 내부 ‘부글’",
+        "title": "‘암호 같은 요금제’ 이제 그만…LG유플, 18종으로 확 줄인다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260528201500051"
+        "url": "https://v.daum.net/v/20260529000427727"
       }
     },
     {
-      "keyword": "lck",
+      "keyword": "한정수",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "AI 활용한 ‘탱크데이’ 밈 확산…연이은 사과에도 ‘극우’ 상징된 스타벅스",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605280600041"
+      }
+    },
+    {
+      "keyword": "강미나",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[단독] 강미나, 아이오아이 콘서트 리허설 깜짝 방문…의리 빛났다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528190016265?f=p"
+      }
+    },
+    {
+      "keyword": "통화 정책",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Keria = \"In Game 2, we knew our team composition was better\"",
-        "source": "Inven Global",
-        "url": "https://www.invenglobal.com/articles/22310/keria-in-game-2-we-knew-our-team-composition-was-better"
+        "title": "한은 \"갈 길 비교적 명확\" 금리 2번 인상?‥코스피는 개미 덕에 8천 사수",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825996_37004.html"
       }
     },
     {
-      "keyword": "요니 치리노스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "프로야구 LG 치리노스, 시즌 두 번째로 1군 엔트리 말소",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528172205326"
-      }
-    },
-    {
-      "keyword": "독촉",
+      "keyword": "ls전선",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "정부가 나서 ‘약탈적 금융’ 손 본다",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202605282058015"
-      }
-    },
-    {
-      "keyword": "후안 마누엘 세룬돌로",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "시너 이긴 후안 마누엘 세룬돌로는 누구?",
-        "source": "테니스피플",
-        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=18599"
-      }
-    },
-    {
-      "keyword": "박순천",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'전원일기' 박순천, 아들 공개…알고 보니 '슈퍼밴드' 디폴 \"母 슈퍼우먼\" [특종세상]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260528n38114"
-      }
-    },
-    {
-      "keyword": "도란",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"컨디션 관리, 선수들이 알아서 잘해'...선수들 대견한 '톰' 임재현 T1 대행",
+        "title": "‘LS전선 해저케이블 기술 유출’ 대한전선 임직원 등 13명 검찰 송치",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260528143715104"
+        "url": "https://v.daum.net/v/20260528181715844"
       }
     },
     {
-      "keyword": "유죄",
+      "keyword": "충전소",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[자동차] 현대차, 충전소에서 신형 '싼타페 EREV' 포착…하이브리드·전기차 경계 허문다",
+        "source": "굿모닝베트남미디어",
+        "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=81921"
+      }
+    },
+    {
+      "keyword": "이준",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'요즘 대세' 이준, 웃음과 열정 사이",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528174608470"
+      }
+    },
+    {
+      "keyword": "연금복권720+",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "연금복권 720 317회 당첨결과, 1등 2명·2등 8명·보너스 10명(당첨 번호 통계)",
+        "source": "톱스타뉴스",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16074108"
+      }
+    },
+    {
+      "keyword": "nc",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'농지법 위반' 혐의 강병삼 전 제주시장 1심 무죄→2심 벌금형",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260528066500056"
-      }
-    },
-    {
-      "keyword": "황동하",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "황동하 6이닝 무실점 ‘5승’…KIA 6연승 질주",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528221022517"
+        "title": "Heavy rainfall puts a dent in drought conditions across the Carolinas",
+        "source": "WYFF News 4",
+        "url": "https://www.wyff4.com/article/heavy-rain-eases-drought-in-the-carolinas/71425511"
       }
     }
   ]
