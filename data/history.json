@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T02:21:18.166014+09:00",
-    "label": "02:21",
-    "items": [
-      {
-        "keyword": "제니",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "미소 짓는 제니",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260526_0021297246"
-        }
-      },
-      {
-        "keyword": "심형탁",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'심형탁 子' 생후 16개월차 하루, 농부로 변신 [슈돌]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526135817314"
-        }
-      },
-      {
-        "keyword": "원룸 주택",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“지식센터-상가, 오피스텔로 전환”… 非아파트 공급 확대 나서",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260527003220611"
-        }
-      },
-      {
-        "keyword": "이창용",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이창용 전 한국은행 총재 … 17년만에 서울대 복귀 유력",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526193900651"
-        }
-      },
-      {
-        "keyword": "임진왜란",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "한영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "동상이몽2_너는 내 운명 : 박군×한영, 2년 동안 쉼 없이 남몰래 준비했던 시험관 시술",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC479643248"
-        }
-      },
-      {
-        "keyword": "007",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "007 First Light GeForce Game Ready Driver Released",
-          "source": "NVIDIA",
-          "url": "https://www.nvidia.com/en-us/geforce/news/007-first-light-geforce-game-ready-driver/"
-        }
-      },
-      {
-        "keyword": "유정복",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "손화정 영종구청장 후보 \"인천공항 운영사 통합 반대\" 정책협약 참석",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526191415155"
-        }
-      },
-      {
-        "keyword": "이승헌",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'ERA 2.08' 기록 중인데 갑자기 사라졌다…롯데 1R 투수, 4년 만에 1군 콜업 기회 찾아오나?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526072154614"
-        }
-      },
-      {
-        "keyword": "mu stock",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Micron hits $1 trillion market cap for the first time as stock surges 18%",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-05-27T04:55:57.018109+09:00",
     "label": "04:55",
     "items": [
@@ -1365,6 +1263,104 @@
           "title": "노타, 엔비디아 파트너 행사 초청…피지컬AI 협력 주목",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260527152700017"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-28T15:43:37.192750+09:00",
+    "label": "15:43",
+    "items": [
+      {
+        "keyword": "선거법",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[단독] ‘李대통령 선거법 사건 무죄 취지 파기환송’ 대법관 고발, 검찰 4년 만에 각하[세상&]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528094714767"
+        }
+      },
+      {
+        "keyword": "정유라",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "정유라 “‘10년 수감 엄마 ‘하지 마비’ 위기…병원 좀 보내주세요”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6mcZIUGhts"
+        }
+      },
+      {
+        "keyword": "엘 제이 신정환",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "엘제이, 선배 신정환 공개 저격 \"넌 인간 아냐\"…격분 속 전처 이선정도 언급",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6179617"
+        }
+      },
+      {
+        "keyword": "국민 연금 리 밸런싱",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "국민연금 오늘 국내주식 비중 결정‥\"팔자니 충격, 안 팔자니 부담\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6825803_36918.html"
+        }
+      },
+      {
+        "keyword": "무명전설",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'비타민수' 박민수, '무명전설' 최고 아웃풋…\"성장 계기 됐다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528134617958"
+        }
+      },
+      {
+        "keyword": "퓨리오사 ai",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "韓 AI 반도체에 손 내민 브로드컴…퓨리오사AI와 계약",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260527235545"
+        }
+      },
+      {
+        "keyword": "강민경",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "참외",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "참외 속에서 나온 이쑤시개…“이게 왜 들어가있지?”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528152800366"
+        }
+      },
+      {
+        "keyword": "테슬라 사이버캡",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "연우",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한지현, 예능 '무쇠소녀단3' 新멤버 확정 [공식]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260521105515852?f=p"
         }
       }
     ]
