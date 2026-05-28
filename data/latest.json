@@ -1,55 +1,35 @@
 {
-  "timestamp": "2026-05-29T02:56:34.029915+09:00",
-  "label": "02:56",
+  "timestamp": "2026-05-29T05:12:04.465529+09:00",
+  "label": "05:12",
   "items": [
-    {
-      "keyword": "김정철",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "[MBC여론조사] '서울·대구' 접전‥부산 전재수 오차 범위 밖 우세",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html"
-      }
-    },
-    {
-      "keyword": "lg 유플러스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘암호 같은 요금제’ 이제 그만…LG유플, 18종으로 확 줄인다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260529000427727"
-      }
-    },
-    {
-      "keyword": "한정수",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "AI 활용한 ‘탱크데이’ 밈 확산…연이은 사과에도 ‘극우’ 상징된 스타벅스",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202605280600041"
-      }
-    },
-    {
-      "keyword": "강미나",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[단독] 강미나, 아이오아이 콘서트 리허설 깜짝 방문…의리 빛났다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528190016265?f=p"
-      }
-    },
     {
       "keyword": "통화 정책",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한은 \"갈 길 비교적 명확\" 금리 2번 인상?‥코스피는 개미 덕에 8천 사수",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825996_37004.html"
+        "title": "기준금리 2차례 올려 3% 가능성… 물가안정 도움, 대출이자 늘듯",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260529043349722"
+      }
+    },
+    {
+      "keyword": "도시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[6·3아산]오세현 \"시민 삶의 질 높이는 행복도시 실현\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260528_0003647487"
+      }
+    },
+    {
+      "keyword": "충전소",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[특파원 시선] 하노이 '전기오토바이 시대' 언제쯤 올까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260523070915262"
       }
     },
     {
@@ -57,19 +37,29 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘LS전선 해저케이블 기술 유출’ 대한전선 임직원 등 13명 검찰 송치",
+        "title": "\"LS전선 도면부터 설비까지 유출\"…대한전선 임직원 송치",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260528181715844"
+        "url": "https://v.daum.net/v/20260528173652018"
       }
     },
     {
-      "keyword": "충전소",
+      "keyword": "김선빈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[자동차] 현대차, 충전소에서 신형 '싼타페 EREV' 포착…하이브리드·전기차 경계 허문다",
-        "source": "굿모닝베트남미디어",
-        "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=81921"
+        "title": "KIA, '호랑이 기운'으로 거침없이 6연승…황동하 시즌 5승째",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260528186200007"
+      }
+    },
+    {
+      "keyword": "opus 4.8",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Introducing Claude Opus 4.8",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8"
       }
     },
     {
@@ -77,9 +67,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'요즘 대세' 이준, 웃음과 열정 사이",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528174608470"
+        "title": "생활고 고백한 이준, 왜 거짓말했나..\"성공했다고 보여주고싶었다\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/MI2TEZLEHFSGENLEMY4TCMDFGI/"
       }
     },
     {
@@ -93,13 +83,23 @@
       }
     },
     {
+      "keyword": "agi",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "RSI is the new AGI — and it’s just as hard to pin down",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/"
+      }
+    },
+    {
       "keyword": "nc",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Heavy rainfall puts a dent in drought conditions across the Carolinas",
-        "source": "WYFF News 4",
-        "url": "https://www.wyff4.com/article/heavy-rain-eases-drought-in-the-carolinas/71425511"
+        "title": "Rankings Spotlight: Brady Holmes",
+        "source": "Prep Baseball Report",
+        "url": "https://www.prepbaseballreport.com/news/NC/rankings-spotlight--brady-holmes"
       }
     }
   ]
