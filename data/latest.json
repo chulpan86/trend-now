@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-05-28T19:45:05.742371+09:00",
-  "label": "19:45",
+  "timestamp": "2026-05-28T23:29:02.923102+09:00",
+  "label": "23:29",
   "items": [
     {
-      "keyword": "임우재",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "서울시장 토론",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'노인 감금' 임우재 前삼성전기 고문 항소심서도 징역형 구형",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528192201829"
+        "title": "[MBC여론조사] '서울·대구' 접전‥부산 전재수 오차 범위 밖 우세",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html"
       }
     },
     {
-      "keyword": "수익률",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "주주",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“배당만 38조 잭팟” 삼전·기아 주주들 돈방석 앉았다",
+        "title": "“공부 안 시켜줘 감사”…삼전 고졸 직원의 ‘6억 성과급’ 자랑에 내부 ‘부글’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260528155153699"
+        "url": "https://v.daum.net/v/20260528201500051"
       }
     },
     {
-      "keyword": "삼성역",
+      "keyword": "lck",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[참고] 국토부·서울시·국가철도공단, 5.28일 GTX 삼성역 보강방안 적정성 용역 착수보고회 개최",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156763968&pWise=main&pWiseMain=L5"
+        "title": "Keria = \"In Game 2, we knew our team composition was better\"",
+        "source": "Inven Global",
+        "url": "https://www.invenglobal.com/articles/22310/keria-in-game-2-we-knew-our-team-composition-was-better"
       }
     },
     {
-      "keyword": "민생회복 소비쿠폰",
+      "keyword": "요니 치리노스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'민생회복 소비쿠폰'부터 '그냥드림'까지…민생 최우선 1년",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965115"
+        "title": "프로야구 LG 치리노스, 시즌 두 번째로 1군 엔트리 말소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528172205326"
       }
     },
     {
-      "keyword": "증바람",
+      "keyword": "독촉",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "리그 오브 레전드 26.11 패치 노트",
-        "source": "League of Legends",
-        "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-11-notes/"
+        "title": "정부가 나서 ‘약탈적 금융’ 손 본다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605282058015"
       }
     },
     {
-      "keyword": "오유진",
+      "keyword": "후안 마누엘 세룬돌로",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'아기호랑이' 김태연, 토탈셋과 전속계약…오유진·이수연과 한지붕",
+        "title": "시너 이긴 후안 마누엘 세룬돌로는 누구?",
+        "source": "테니스피플",
+        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=18599"
+      }
+    },
+    {
+      "keyword": "박순천",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'전원일기' 박순천, 아들 공개…알고 보니 '슈퍼밴드' 디폴 \"母 슈퍼우먼\" [특종세상]",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260528n38114"
+      }
+    },
+    {
+      "keyword": "도란",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"컨디션 관리, 선수들이 알아서 잘해'...선수들 대견한 '톰' 임재현 T1 대행",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260528150212754"
+        "url": "https://v.daum.net/v/20260528143715104"
       }
     },
     {
-      "keyword": "농약",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'파리 잡으려고'…마을주민들 음식에 농약 넣은 60대 법정구속",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260528142807459"
-      }
-    },
-    {
-      "keyword": "강의구",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'사후 계엄선포문' 강의구 전 부속실장 1심 징역 1년6개월‥법정구속",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6825901_36918.html"
-      }
-    },
-    {
-      "keyword": "우쿠두 복합화력 발전소",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한전, 괌 우쿠두 가스복합화력 발전소 준공…“에너지 영토 넓혔다”",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=368559"
-      }
-    },
-    {
-      "keyword": "pce",
+      "keyword": "유죄",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "S&P 500 futures decline as Wall Street awaits key April inflation reading: Live updates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html"
+        "title": "'농지법 위반' 혐의 강병삼 전 제주시장 1심 무죄→2심 벌금형",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260528066500056"
+      }
+    },
+    {
+      "keyword": "황동하",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "황동하 6이닝 무실점 ‘5승’…KIA 6연승 질주",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528221022517"
       }
     }
   ]

@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T08:01:19.666807+09:00",
-    "label": "08:01",
-    "items": [
-      {
-        "keyword": "날씨",
-        "traffic_raw": "500000+",
-        "traffic": 500000,
-        "news": {
-          "title": "[날씨] 전국 흐리고 약한 비…서울 한낮 24도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260527063309320"
-        }
-      },
-      {
-        "keyword": "weather",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Weather alert for strong thunderstorms in Washington and Tyrrell counties early Tuesday evening",
-          "source": "Raleigh News & Observer",
-          "url": "https://www.newsobserver.com/news/weather-news/article315898955.html"
-        }
-      },
-      {
-        "keyword": "자동차",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "중국, 저가형 전기차로 유럽 장악…프리미엄 시장까지 '정조준'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526162300464"
-        }
-      },
-      {
-        "keyword": "휴림로봇",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "휴림로봇, 일반공모 유상증자 결정...타법인 증권취득에 10억 원",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/global-filings/article-93CH-1959599"
-        }
-      },
-      {
-        "keyword": "정민찬",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "스벅 인증에 뮤지컬 하차..정민찬 발레단 감독 \"죽일 놈으로 몰고 가\"[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526163504307"
-        }
-      },
-      {
-        "keyword": "이코노미스트",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[팩트체크] 스타벅스 카드 '60% 이상 써야 환불' 규정 어디서 왔나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260527063210290"
-        }
-      },
-      {
-        "keyword": "hlb생명과학",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "HLB생명과학R&D, AI 신약 개발 정부 과제 참여",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526143850415"
-        }
-      },
-      {
-        "keyword": "강일 리버 파크 장기 전세",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“20년 살았으니 분양 전환해달라”…장기전세주택 입주민들 요구에 ‘냉담’ - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/05/26/O4S4MB2GQFG2BOAC73S2QCUPHM/"
-        }
-      },
-      {
-        "keyword": "제주시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "제주시 대표 누리집…정보 재구성·서비스 전면 배치",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=838098"
-        }
-      },
-      {
-        "keyword": "이동 통신",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "통신3사, 5G·LTE 통합요금제 띄운다…요금제 격변 '속도'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526114900700"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-05-27T11:31:34.067028+09:00",
     "label": "11:31",
     "items": [
@@ -1255,6 +1149,112 @@
           "title": "S&P 500 futures decline as Wall Street awaits key April inflation reading: Live updates",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-28T23:29:02.923102+09:00",
+    "label": "23:29",
+    "items": [
+      {
+        "keyword": "서울시장 토론",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[MBC여론조사] '서울·대구' 접전‥부산 전재수 오차 범위 밖 우세",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html"
+        }
+      },
+      {
+        "keyword": "주주",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“공부 안 시켜줘 감사”…삼전 고졸 직원의 ‘6억 성과급’ 자랑에 내부 ‘부글’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528201500051"
+        }
+      },
+      {
+        "keyword": "lck",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Keria = \"In Game 2, we knew our team composition was better\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/22310/keria-in-game-2-we-knew-our-team-composition-was-better"
+        }
+      },
+      {
+        "keyword": "요니 치리노스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "프로야구 LG 치리노스, 시즌 두 번째로 1군 엔트리 말소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528172205326"
+        }
+      },
+      {
+        "keyword": "독촉",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "정부가 나서 ‘약탈적 금융’ 손 본다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605282058015"
+        }
+      },
+      {
+        "keyword": "후안 마누엘 세룬돌로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "시너 이긴 후안 마누엘 세룬돌로는 누구?",
+          "source": "테니스피플",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=18599"
+        }
+      },
+      {
+        "keyword": "박순천",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'전원일기' 박순천, 아들 공개…알고 보니 '슈퍼밴드' 디폴 \"母 슈퍼우먼\" [특종세상]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260528n38114"
+        }
+      },
+      {
+        "keyword": "도란",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"컨디션 관리, 선수들이 알아서 잘해'...선수들 대견한 '톰' 임재현 T1 대행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528143715104"
+        }
+      },
+      {
+        "keyword": "유죄",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'농지법 위반' 혐의 강병삼 전 제주시장 1심 무죄→2심 벌금형",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260528066500056"
+        }
+      },
+      {
+        "keyword": "황동하",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "황동하 6이닝 무실점 ‘5승’…KIA 6연승 질주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528221022517"
         }
       }
     ]
