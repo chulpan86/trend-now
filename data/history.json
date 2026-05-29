@@ -1144,5 +1144,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-30T06:44:51.248110+09:00",
+    "label": "06:44",
+    "items": [
+      {
+        "keyword": "이강인",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "챔피언스리그 결승 뛰고 바로 미국행...이강인, 영광과 걱정 동시에 안고 합류한다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530000018071"
+        }
+      },
+      {
+        "keyword": "현대자동차",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "금속노조 \"한국타이어 '실질적 사용자' 인정…하청 교섭 응해야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529173306122"
+        }
+      },
+      {
+        "keyword": "당구",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "PBA, 직영 팀리그 제10구단 로스터 확정…이승진·히다 등 합류",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529103509665"
+        }
+      },
+      {
+        "keyword": "서울특별시",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "해남군, 골목형상점가 10곳 돌파…기준 완화 등 문턱 낮춰",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260529132700054"
+        }
+      },
+      {
+        "keyword": "복권",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"과몰입은 안돼요\"…복권위·동행복권, 부산서 건전문화 캠페인",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260529_0003648625"
+        }
+      },
+      {
+        "keyword": "헤럴드",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“어제 괜히 팔았다” “이런 날 올 줄 몰랐다” 불과 하루사이 20% 폭등…난리 난 국민포털",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529214117469"
+        }
+      },
+      {
+        "keyword": "김태형",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[엠빅뉴스] 6-1에서 6-8 역전당한 롯데...환장 모먼트...",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528134603948"
+        }
+      },
+      {
+        "keyword": "대한광통신",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[특징주] '급등' 광통신주, 차익실현에 두자릿수 하락 마감(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7Ft6YgQ9Y2?f=p"
+        }
+      },
+      {
+        "keyword": "알렉산더 즈베레프",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "즈베레프에게 그랜드슬램 우승 기회가 왔다",
+          "source": "테니스피플",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=18607"
+        }
+      },
+      {
+        "keyword": "박미선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "박미선, 방송 중 확진 전화… \"16번 항암, 다시 하라면 못할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2RJpOegRAn"
+        }
+      }
+    ]
   }
 ]
