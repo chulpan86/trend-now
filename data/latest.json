@@ -1,65 +1,35 @@
 {
-  "timestamp": "2026-05-30T01:36:21.552836+09:00",
-  "label": "01:36",
+  "timestamp": "2026-05-30T04:27:22.149053+09:00",
+  "label": "04:27",
   "items": [
     {
-      "keyword": "최지수",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "신상 출시 편 스토 랑",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'나혼산' 최지수 \"혼자 산 지 3년 차…요일별 청소 계획\"",
+        "title": "손태진 아빠, 유창한 영어 프리토킹…\"45년 해외 생활\" (편스토랑)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260529234137929"
+        "url": "https://v.daum.net/v/20260529220315768"
       }
     },
     {
-      "keyword": "조코비치",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "조코비치, 프랑스오픈 3회전 진출 후 마이클 잭슨 변신?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260529054853628"
-      }
-    },
-    {
-      "keyword": "위원장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“정청래, 전북에 그만 오시길”…민주 익산갑 위원장, 鄭에 일침",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260529180307136"
-      }
-    },
-    {
-      "keyword": "프로당구협회",
+      "keyword": "pba 팀리그",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
         "title": "'공포의 외인 구단?' PBA 팀 리그 10구단 선수 구성 완료, 우승 경험자만 4명",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6524575"
+      }
+    },
+    {
+      "keyword": "모두가 자신의 무가치함과 싸우고 있다",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[서병기의 문화인사이트]'모자무싸'고혜진 역 강말금, 이 시대 최고의 조력자!",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260529092700121"
-      }
-    },
-    {
-      "keyword": "박민식",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[여론조사]② ‘북구갑’ 하정우 33%·박민식 15%·한동훈 39%…경남은 김경수 우세",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8572669"
-      }
-    },
-    {
-      "keyword": "rr vs gt",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Ground Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
-        "source": "ESPNcricinfo",
-        "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-rajasthan-royals-qualifier-2-1535464/live-cricket-score"
+        "url": "https://v.daum.net/v/20260530010218885"
       }
     },
     {
@@ -73,33 +43,63 @@
       }
     },
     {
-      "keyword": "뉴질랜드",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "원이",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "총리마저 나라 버렸다…매년 인구 1%씩 떠난다는 ‘왕년의 천국’",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/world/12061537"
-      }
-    },
-    {
-      "keyword": "트리피어",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"트리피어 사고 황희찬은 판다\" 울버햄튼, 홈그로운 채우려 '가성비 갑' 영입 추진... '황소 원하는' 풀럼·라치오 \"오히려 좋아\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/05/30/2026052922242684343"
-      }
-    },
-    {
-      "keyword": "사우디 아라비아",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "사우디 중세 순례길서 1200년 전 금·은·보석 무더기 발굴",
+        "title": "[TF초점] '거제 야호'로 터진 잠재력…리센느, 대중 속으로",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260529102800287"
+        "url": "https://v.daum.net/v/20260530000221158"
+      }
+    },
+    {
+      "keyword": "지드래곤",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "지드래곤, '미성년 교제 허위' 김수현 관련글 '좋아요'→취소 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/05/28/2026052821541445256"
+      }
+    },
+    {
+      "keyword": "도박",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[단독] '통일교 도박 수사무마 의혹' 김도형 전 강원경찰청장 등 4명 압수수색",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6826250_36918.html"
+      }
+    },
+    {
+      "keyword": "만달로리안",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "스타워즈와 협업해 ‘전기로-고로 기술’ 대중에 알린다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/zBPpZVpXpL"
+      }
+    },
+    {
+      "keyword": "artificial intelligence news",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Loblaw's Digital Chief on AI's Impact",
+        "source": "StartupHub.ai",
+        "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/loblaw-s-digital-chief-on-ai-s-impact"
+      }
+    },
+    {
+      "keyword": "roland garros",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "EN DIRECT, Roland-Garros 2026 : Joao Fonseca s’offre Novak Djokovic, Ruud mené deux manches à zéro par Paul, Mensik et De Jong éliminent 2 têtes de série",
+        "source": "Le Monde.fr",
+        "url": "https://www.lemonde.fr/sport/live/2026/05/29/en-direct-roland-garros-2026-djokovic-mene-face-a-fonseca-swiatek-rejoint-kostyuk-en-8-muchova-eliminee-andreeva-et-rublev-qualifies_6694707_3242.html"
       }
     }
   ]

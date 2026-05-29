@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28T15:43:37.192750+09:00",
-    "label": "15:43",
-    "items": [
-      {
-        "keyword": "선거법",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[단독] ‘李대통령 선거법 사건 무죄 취지 파기환송’ 대법관 고발, 검찰 4년 만에 각하[세상&]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528094714767"
-        }
-      },
-      {
-        "keyword": "정유라",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "정유라 “‘10년 수감 엄마 ‘하지 마비’ 위기…병원 좀 보내주세요”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6mcZIUGhts"
-        }
-      },
-      {
-        "keyword": "엘 제이 신정환",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "엘제이, 선배 신정환 공개 저격 \"넌 인간 아냐\"…격분 속 전처 이선정도 언급",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6179617"
-        }
-      },
-      {
-        "keyword": "국민 연금 리 밸런싱",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "국민연금 오늘 국내주식 비중 결정‥\"팔자니 충격, 안 팔자니 부담\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6825803_36918.html"
-        }
-      },
-      {
-        "keyword": "무명전설",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'비타민수' 박민수, '무명전설' 최고 아웃풋…\"성장 계기 됐다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528134617958"
-        }
-      },
-      {
-        "keyword": "퓨리오사 ai",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "韓 AI 반도체에 손 내민 브로드컴…퓨리오사AI와 계약",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260527235545"
-        }
-      },
-      {
-        "keyword": "강민경",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "참외",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "참외 속에서 나온 이쑤시개…“이게 왜 들어가있지?”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528152800366"
-        }
-      },
-      {
-        "keyword": "테슬라 사이버캡",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "연우",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한지현, 예능 '무쇠소녀단3' 新멤버 확정 [공식]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260521105515852?f=p"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-05-28T19:45:05.742371+09:00",
     "label": "19:45",
     "items": [
@@ -1133,6 +1035,112 @@
           "title": "사우디 중세 순례길서 1200년 전 금·은·보석 무더기 발굴",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260529102800287"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-30T04:27:22.149053+09:00",
+    "label": "04:27",
+    "items": [
+      {
+        "keyword": "신상 출시 편 스토 랑",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "손태진 아빠, 유창한 영어 프리토킹…\"45년 해외 생활\" (편스토랑)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529220315768"
+        }
+      },
+      {
+        "keyword": "pba 팀리그",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'공포의 외인 구단?' PBA 팀 리그 10구단 선수 구성 완료, 우승 경험자만 4명",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6524575"
+        }
+      },
+      {
+        "keyword": "모두가 자신의 무가치함과 싸우고 있다",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[서병기의 문화인사이트]'모자무싸'고혜진 역 강말금, 이 시대 최고의 조력자!",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530010218885"
+        }
+      },
+      {
+        "keyword": "압구정 현대아파트",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "유명 아이돌, 압구정 현대아파트 89억원 현금 매입",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260529_0003649733"
+        }
+      },
+      {
+        "keyword": "원이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[TF초점] '거제 야호'로 터진 잠재력…리센느, 대중 속으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530000221158"
+        }
+      },
+      {
+        "keyword": "지드래곤",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "지드래곤, '미성년 교제 허위' 김수현 관련글 '좋아요'→취소 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/05/28/2026052821541445256"
+        }
+      },
+      {
+        "keyword": "도박",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[단독] '통일교 도박 수사무마 의혹' 김도형 전 강원경찰청장 등 4명 압수수색",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6826250_36918.html"
+        }
+      },
+      {
+        "keyword": "만달로리안",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "스타워즈와 협업해 ‘전기로-고로 기술’ 대중에 알린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zBPpZVpXpL"
+        }
+      },
+      {
+        "keyword": "artificial intelligence news",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Loblaw's Digital Chief on AI's Impact",
+          "source": "StartupHub.ai",
+          "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/loblaw-s-digital-chief-on-ai-s-impact"
+        }
+      },
+      {
+        "keyword": "roland garros",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "EN DIRECT, Roland-Garros 2026 : Joao Fonseca s’offre Novak Djokovic, Ruud mené deux manches à zéro par Paul, Mensik et De Jong éliminent 2 têtes de série",
+          "source": "Le Monde.fr",
+          "url": "https://www.lemonde.fr/sport/live/2026/05/29/en-direct-roland-garros-2026-djokovic-mene-face-a-fonseca-swiatek-rejoint-kostyuk-en-8-muchova-eliminee-andreeva-et-rublev-qualifies_6694707_3242.html"
         }
       }
     ]
