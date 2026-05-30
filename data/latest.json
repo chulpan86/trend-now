@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-05-30T08:03:33.238353+09:00",
-  "label": "08:03",
+  "timestamp": "2026-05-30T11:06:41.539056+09:00",
+  "label": "11:06",
   "items": [
     {
-      "keyword": "운세",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "면허",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[오늘의 운세] 2026년 5월 30일 토요일(음력 4월 14일/일진: 갑진(甲辰)/띠별·생년월일 운세)",
-        "source": "중부일보",
-        "url": "https://www.joongboo.com/news/articleView.html?idxno=363725160"
-      }
-    },
-    {
-      "keyword": "지예은",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'일잘러' 없는 '유재석캠프' 답답…\"혼란은 의도, 제작진 원망 없었다\" [N인터뷰]",
+        "title": "민주 “면허 반납시 택시 바우처” 국힘 “70세 이상 시내버스 무료”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/ZFPgcUGh1x"
+        "url": "https://v.daum.net/v/7YmWC0WIFv"
       }
     },
     {
-      "keyword": "나는 solo, 그 후 사랑은 계속된다",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "유선호",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "두번째 나는 솔로 X 짝 대통합! 사랑 찾으러 온 짝의 여자들, 솔로 민박 입장!ㅣ사랑은 계속된다 EP.167ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
-        "source": "m.programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000630884?div=entersectionmain_clip"
+        "title": "'1박2일' 딘딘, 막내 유선호 하차에 눈물 펑펑 \"넌 최고의 막내\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530095538197"
       }
     },
     {
-      "keyword": "다우 존스 산업평균지수",
+      "keyword": "적금",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'청년미래적금' 금리 공시됐다... 최대 연 19.4%",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/3CJ2GR9UUz"
+      }
+    },
+    {
+      "keyword": "이호선",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“뇌썩음 현상 나타난다”…이호선이 경고한 노후 망치는 최악의 취미 ‘1가지’",
+        "source": "위키트리",
+        "url": "https://www.wikitree.co.kr/articles/1138174"
+      }
+    },
+    {
+      "keyword": "탁구",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "AI·중동휴전 겹호재… 뉴욕증시, 3대 지수 사상 최고치 ‘역대급 질주’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260530053537219"
+        "title": "탁구 아시안게임 대표 확정…박규현·박가현 선발전 우승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260529174000007"
       }
     },
     {
-      "keyword": "schd",
+      "keyword": "이숭용",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'5월 17일 이후 10연패' 이숭용 SSG 감독에게 '선배' 염갈량이 위로를 건네다 [IS 이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530030402348"
+      }
+    },
+    {
+      "keyword": "kt",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "뉴시스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "SCHD’s $71.6 Billion Portfolio Delivers 20% Gains Plus 3.3% Yield This Year",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/05/28/schds-71-6-billion-portfolio-delivers-20-gains-plus-3-3-yield-this-year/"
+        "title": "이번주 국회에는 무슨 일이? [뉴시스국회토pic]",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260528_0003646771"
       }
     },
     {
-      "keyword": "첫 번째 남자",
+      "keyword": "ac 밀란",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "오현경, 친아들 앞에서 굴욕…무릎 꿇고 사죄 \"죽을죄를 지었다\" ('첫번째남자') [종합]",
+        "title": "포체티노, 월드컵 앞두고 AC밀란 접촉설에 \"미국 대표팀에 전념\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260529195424747?f=p"
+        "url": "https://v.daum.net/v/20260529094712096"
       }
     },
     {
-      "keyword": "낙선운동",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "총선과정 '후보자 사퇴' 촉구하며 허위사실 공표한 목사…집유 확정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260529120225666"
-      }
-    },
-    {
-      "keyword": "광주시장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "스타벅스 ‘518 탱크데이’ 후폭풍, 협력업체까지 피해 확산 우려",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260529220255750"
-      }
-    },
-    {
-      "keyword": "이승환",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이승환, 빨간 티셔츠 입고 사전 투표 인증샷 공개 [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5T1zGwLxT2"
-      }
-    },
-    {
-      "keyword": "시가총액",
+      "keyword": "천연가스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "삼성전자, 세계 첫 ‘7세대 HBM4E’ 샘플 공급… “AI칩 주도권 탈환”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20260530/134019687/2"
+        "title": "이란, 호르무즈에 또 미사일 발사…“무단 통항 경고”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260529215318599"
       }
     }
   ]

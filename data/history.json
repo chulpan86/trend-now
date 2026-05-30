@@ -1250,5 +1250,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-30T11:06:41.539056+09:00",
+    "label": "11:06",
+    "items": [
+      {
+        "keyword": "면허",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "민주 “면허 반납시 택시 바우처” 국힘 “70세 이상 시내버스 무료”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7YmWC0WIFv"
+        }
+      },
+      {
+        "keyword": "유선호",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'1박2일' 딘딘, 막내 유선호 하차에 눈물 펑펑 \"넌 최고의 막내\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530095538197"
+        }
+      },
+      {
+        "keyword": "적금",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'청년미래적금' 금리 공시됐다... 최대 연 19.4%",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3CJ2GR9UUz"
+        }
+      },
+      {
+        "keyword": "이호선",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“뇌썩음 현상 나타난다”…이호선이 경고한 노후 망치는 최악의 취미 ‘1가지’",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1138174"
+        }
+      },
+      {
+        "keyword": "탁구",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "탁구 아시안게임 대표 확정…박규현·박가현 선발전 우승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260529174000007"
+        }
+      },
+      {
+        "keyword": "이숭용",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'5월 17일 이후 10연패' 이숭용 SSG 감독에게 '선배' 염갈량이 위로를 건네다 [IS 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530030402348"
+        }
+      },
+      {
+        "keyword": "kt",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "뉴시스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이번주 국회에는 무슨 일이? [뉴시스국회토pic]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260528_0003646771"
+        }
+      },
+      {
+        "keyword": "ac 밀란",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "포체티노, 월드컵 앞두고 AC밀란 접촉설에 \"미국 대표팀에 전념\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529094712096"
+        }
+      },
+      {
+        "keyword": "천연가스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이란, 호르무즈에 또 미사일 발사…“무단 통항 경고”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529215318599"
+        }
+      }
+    ]
   }
 ]
