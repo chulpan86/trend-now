@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-05-31T05:44:17.181833+09:00",
-  "label": "05:44",
+  "timestamp": "2026-05-31T06:51:51.703567+09:00",
+  "label": "06:51",
   "items": [
     {
       "keyword": "재보궐선거",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "6·3 사전투표율 역대 최고치‥마감 2시간 전 역대 지선 기록 갈아치워",
+        "title": "사전투표율 역대 최고에도 최종 53~55% 전망‥'미결정층'이 변수",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6826439_37004.html"
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6826443_37004.html"
       }
     },
     {
@@ -19,7 +19,27 @@
       "news": {
         "title": "다비드 라야와 그의 5부 리그에서 챔피언스 리그 결승까지 이어진 기적적인 여정.",
         "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/david-raya-va-ky-tich-tu-giai-hang-5-den-chung-ket-champions-league"
+        "url": "https://www.vietnam.vn/ko/david-raya-va-hanh-trinh-ky-dieu-tu-giai-hang-5-den-chung-ket-champions-league"
+      }
+    },
+    {
+      "keyword": "국민연금공단",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“둘이서 月120만원으로 어떻게 사나요”…국민연금 받는 부부들 ‘한숨’ 쉬는 이유가",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20050038"
+      }
+    },
+    {
+      "keyword": "오이",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "오이는 냉장고 넣으면 안 된다?… 의외로 상온 보관이 적합한 채소들",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530101115432"
       }
     },
     {
@@ -29,13 +49,33 @@
       "news": null
     },
     {
-      "keyword": "오이",
+      "keyword": "김선태",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "오이는 냉장고 넣으면 안 된다?… 의외로 상온 보관이 적합한 채소들",
+        "title": "아픈 딸 둔 아빠에게 ‘2500원 중고차’ 넘긴 김선태…트렁크에 ‘깜짝 선물’까지",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260530101115432"
+        "url": "https://v.daum.net/v/20260530170553156"
+      }
+    },
+    {
+      "keyword": "이특",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "슈퍼주니어 이특, 포르쉐 신차 교통사고…\"목·허리 통증 심해\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260530060500005"
+      }
+    },
+    {
+      "keyword": "이찬원",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'트롯돌' 이찬원, 오늘(30일) '익산 원광새마을금고와 함께하는 열린음악회' 출연..기대 UP",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530060116543"
       }
     },
     {
@@ -57,42 +97,6 @@
         "source": "Daum",
         "url": "https://v.daum.net/v/20260528124909429?f=p"
       }
-    },
-    {
-      "keyword": "메시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "월드컵 이모저모-메시 2회 연속 우승, 통산 최다골 도전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260529220619797"
-      }
-    },
-    {
-      "keyword": "마일스 루이스스켈리",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "마일스 루이스-스켈리가 아스널 미드필드의 '마스터'로 거듭나기까지의 여정.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/myles-lewis-skelly-va-hanh-trinh-tro-thanh-ong-chu-trung-tuyen-cua-arsenal"
-      }
-    },
-    {
-      "keyword": "欧冠",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "虽然李康仁不在场，但巴黎队守住了欧洲冠军宝座。31日(韩国时间)，PSG在匈牙利布达佩斯的普斯卡斯体育场举行的与阿森纳队的2025-26UEFA冠军联赛决赛中，在点球大战结束后以4比3(1比1)获胜",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/cn/sports/12061969"
-      }
-    },
-    {
-      "keyword": "감스트",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }
