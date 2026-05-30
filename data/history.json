@@ -1560,5 +1560,103 @@
         "news": null
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-31T05:44:17.181833+09:00",
+    "label": "05:44",
+    "items": [
+      {
+        "keyword": "재보궐선거",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "6·3 사전투표율 역대 최고치‥마감 2시간 전 역대 지선 기록 갈아치워",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6826439_37004.html"
+        }
+      },
+      {
+        "keyword": "라야",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "다비드 라야와 그의 5부 리그에서 챔피언스 리그 결승까지 이어진 기적적인 여정.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/david-raya-va-ky-tich-tu-giai-hang-5-den-chung-ket-champions-league"
+        }
+      },
+      {
+        "keyword": "심정지",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "오이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "오이는 냉장고 넣으면 안 된다?… 의외로 상온 보관이 적합한 채소들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530101115432"
+        }
+      },
+      {
+        "keyword": "하무스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘공식 입장’ 이강인(25·아틀레티코 마드리드) 종결, ATM “관련 이적설 100% 거짓말” NFS 선언",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202605300101003"
+        }
+      },
+      {
+        "keyword": "요케레스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"요케레스? 우승 이끌었지만 아스날이 불만족.. 앙리 같은 선수 원해\" 잉글랜드 전설의 냉정 평가",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528124909429?f=p"
+        }
+      },
+      {
+        "keyword": "메시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "월드컵 이모저모-메시 2회 연속 우승, 통산 최다골 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529220619797"
+        }
+      },
+      {
+        "keyword": "마일스 루이스스켈리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "마일스 루이스-스켈리가 아스널 미드필드의 '마스터'로 거듭나기까지의 여정.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/myles-lewis-skelly-va-hanh-trinh-tro-thanh-ong-chu-trung-tuyen-cua-arsenal"
+        }
+      },
+      {
+        "keyword": "欧冠",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "虽然李康仁不在场，但巴黎队守住了欧洲冠军宝座。31日(韩国时间)，PSG在匈牙利布达佩斯的普斯卡斯体育场举行的与阿森纳队的2025-26UEFA冠军联赛决赛中，在点球大战结束后以4比3(1比1)获胜",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/cn/sports/12061969"
+        }
+      },
+      {
+        "keyword": "감스트",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]
