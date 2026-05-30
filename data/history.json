@@ -1658,5 +1658,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-31T07:48:12.116243+09:00",
+    "label": "07:48",
+    "items": [
+      {
+        "keyword": "음식",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“한국 음식의 신세계” 외국인 감탄했다…1년 만에 핫플 된 이곳",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531070206823"
+        }
+      },
+      {
+        "keyword": "습관",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "갑자기 체력·근력 쭉쭉 빠지더라니…몇 살부터? 확 늙는 나이 따로 있었다",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260530000036"
+        }
+      },
+      {
+        "keyword": "lg 트윈스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "오지환 ·오스틴 홈런 합창…LG, KIA 잡고 35일 만에 1위 탈환",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530194754221"
+        }
+      },
+      {
+        "keyword": "전세권",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'보증금 지키자 했는데'···서울 전세권설정등기 9% 감소, 강남·서초 쏠림 심화",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260528n08358"
+        }
+      },
+      {
+        "keyword": "안병훈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "부산에 반한 LIV 골프 선수들 \"해운대에서 조깅\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zudo82Q9Ye"
+        }
+      },
+      {
+        "keyword": "이의리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이범호 결단 내렸다. '2이닝 6실점' 이의리 하루만에 2군행...홍민규도 1군 말소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530153105002"
+        }
+      },
+      {
+        "keyword": "김선태",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "아픈 딸 둔 아빠에게 ‘2500원 중고차’ 넘긴 김선태…트렁크에 ‘깜짝 선물’까지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530170553156"
+        }
+      },
+      {
+        "keyword": "전지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"2차전지 랠리 지금부터 시작\" 삼전닉스 쉬면 무섭게 오른다?[부꾸미] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/05/28/2026052717043413391"
+        }
+      },
+      {
+        "keyword": "포스코",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "하나증권 \"美 배터리 탈중국화…포스코퓨처엠 등 국내기업 수혜\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260529066800008"
+        }
+      },
+      {
+        "keyword": "송승기",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "얼마나 마음고생 심했길래…LG 5선발, 인터뷰 도중 눈물 쏟다. 5월 ERA 9.72→무실점 승리→1위 이끌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530212316467?f=p"
+        }
+      }
+    ]
   }
 ]
