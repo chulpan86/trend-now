@@ -1764,5 +1764,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-31T08:52:56.798186+09:00",
+    "label": "08:52",
+    "items": [
+      {
+        "keyword": "kg모빌리티",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "KGM, 인천서 '3S 복합 대리점' 첫선…판매·정비·부품 원스톱 제공",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528095911394"
+        }
+      },
+      {
+        "keyword": "빵",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'드디어 영접했네요'…빵덕후들도 쇼핑백에 쓸어 담았다는데 [박수림의 요즘 여기]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202605296715g"
+        }
+      },
+      {
+        "keyword": "lg 트윈스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "홈런 또 홈런→3G 연속 2홈런→35일 만에 1위 탈환...염갈량 웃다 “타격코치가 마음고생 심했다. 장타력 기대한다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531042315690"
+        }
+      },
+      {
+        "keyword": "안병훈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'탁구 전설' 안재형 \"아들 안병훈, 한국 대표하고자 LIV행\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HJToOEIktf"
+        }
+      },
+      {
+        "keyword": "전세권",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'보증금 지키자 했는데'···서울 전세권설정등기 9% 감소, 강남·서초 쏠림 심화",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260528n08358"
+        }
+      },
+      {
+        "keyword": "전지",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"2차전지 랠리 지금부터 시작\" 삼전닉스 쉬면 무섭게 오른다?[부꾸미] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/05/28/2026052717043413391"
+        }
+      },
+      {
+        "keyword": "라오스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'침수' 라오스 동굴서 생존 확인된 5명 모두 구조(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530201702612"
+        }
+      },
+      {
+        "keyword": "차지연",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "차지연 \"트로트는 새로운 도전...저만의 색깔로 노래\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0106_202605310245101549"
+        }
+      },
+      {
+        "keyword": "이민우",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'새신랑' 이민우, 가족 공개하고 더 밝아진 미소…\"이젠 행복하길\" 응원 폭발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530154217132"
+        }
+      },
+      {
+        "keyword": "주거",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "올해 수도권 매입임대 3천200가구…9만가구 목표 '불투명'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531065903754"
+        }
+      }
+    ]
   }
 ]
