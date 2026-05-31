@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-05-31T11:32:49.167022+09:00",
-  "label": "11:32",
+  "timestamp": "2026-05-31T15:50:21.856873+09:00",
+  "label": "15:50",
   "items": [
     {
-      "keyword": "한국 대 트리니다드 토바고",
-      "traffic_raw": "100000+",
-      "traffic": 100000,
+      "keyword": "이정후",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "손흥민 골 침묵 깼다... 트리니다드토바고전 전반 2골",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/05/31/ZS6MYFRM5ZGA5PX6N2MCVVOSPE/"
+        "title": "이정후 또 멀티 히트로 7경기 연속안타…팀은 5연패 수렁",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260531028900007"
       }
     },
     {
-      "keyword": "nba",
+      "keyword": "잠수함",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "NBA playoffs 2026: Live updates from Spurs-Thunder Game 7",
-        "source": "ESPN",
-        "url": "https://www.espn.com/nba/story/_/id/48906594/oklahoma-city-thunder-san-antonio-spurs-game-7-nba-playoffs-2026-live-updates"
+        "title": "한국 방산 기세에 깜짝…獨·노르웨이, 캐나다 잠수함 수주에 ‘생산 순번’ 양보 승부수",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Global-Biz/2026/05/202605310636122049e8b8a793f7_1"
       }
     },
     {
-      "keyword": "맞벌이",
+      "keyword": "울산 웨일즈",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"둘이 합쳐 월 800 버는데 왜 마이너스야?\"… 맞벌이 부부들의 '가짜 소득' 잔혹사 [얼마면 돼]",
+        "title": "롯데 데뷔전 3안타→음주운전→방출→징계 끝→울산 웨일즈 입단…마침내 부산 팬들에 고개 숙였다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260531090349137"
+        "url": "https://v.daum.net/v/20260531061603616"
       }
     },
     {
-      "keyword": "이채영",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "원자력",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "아이브 리즈, 호수처럼 깊은 눈망울에 '풍덩;… 비현실적인 베이비돌 비주얼",
+        "title": "한수원, 신한울4호기 원자로건물 공사 착수",
+        "source": "일렉트릭파워",
+        "url": "https://www.epj.co.kr/news/articleView.html?idxno=38673"
+      }
+    },
+    {
+      "keyword": "대구광역시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "대구시, '대구 여성창업스타전' 참가자 모집",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260531000038"
+      }
+    },
+    {
+      "keyword": "추신수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"실패 견디는 힘, 경쟁력\"…애견인 추신수-김재원, 호남대 토크콘서트",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260530100450354"
+        "url": "https://v.daum.net/v/20260528195538546"
       }
     },
     {
-      "keyword": "제시카",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "신세계百, 영국 하이주얼리 브랜드 '제시카 맥코맥' 팝업",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260529146300030"
-      }
-    },
-    {
-      "keyword": "목포시",
+      "keyword": "회의",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[속보]목포 조선소서 화재 발생…대응 1단계 발령",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11592345"
+        "title": "[전북] 여름철 집중호우 대비 산사태 취약지역 현장 점검",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0115_202605281653110733"
       }
     },
     {
-      "keyword": "gs건설",
+      "keyword": "폭발",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "GS건설, 수도권 도시정비 2건 수주…올해 누적 5조원 돌파(종합)",
+        "title": "지진도 폭발도 아니었다…美동북부 떨게 한 굉음의 정체",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20260531/134022015/1"
+      }
+    },
+    {
+      "keyword": "이정",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "SSG 최정, 열흘 만에 1군 복귀…10연패 중인 팀 구할까",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260530049151003"
+        "url": "https://www.yna.co.kr/view/AKR20260530043200007"
       }
     },
     {
-      "keyword": "tvn",
+      "keyword": "이주명",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Dzień Dobry TVN w niedzielę. Teresa Rosati z mężem wspominają, jak się poznali",
-        "source": "Dzień Dobry TVN",
-        "url": "https://dziendobry.tvn.pl/gorace-tematy/dzien-dobry-tvn-co-bedzie-w-programie-w-niedziele-31-maja-st9073813"
-      }
-    },
-    {
-      "keyword": "피파랭킹",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“아르헨티나 아니었다”…골드만삭스가 꼽은 월드컵 우승 후보 1순위",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202605301030011"
-      }
-    },
-    {
-      "keyword": "엄태웅",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“아가씨인 줄 알았어” 엄정화, 조카 지온 양 미모에 감탄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260530135601659"
+        "title": "[포토] BTOB 민혁, 격정 피니시 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/05/30/2026053017081555576"
       }
     }
   ]
