@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30T15:15:27.274372+09:00",
-    "label": "15:15",
-    "items": [
-      {
-        "keyword": "대기업",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[글로컬] 헌법 공부 끝나니 이번엔 초과이윤 논쟁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260530081006020"
-        }
-      },
-      {
-        "keyword": "서인영",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"브라 안 하셨냐\"...서인영, 속 비치는 드레스 룩에 제작진 '당황' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/05/30/2026053010544954671"
-        }
-      },
-      {
-        "keyword": "지상렬",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "지상렬, ♥신보람 열애 후폭풍?…‘살림남’ 퇴출 위기",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260530/134020423/1"
-        }
-      },
-      {
-        "keyword": "화재",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "기숙사에 불 질러 16명 사망…케냐 여학생 8명 체포",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260530093532xI6"
-        }
-      },
-      {
-        "keyword": "고양이",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“우리집 반려묘인데”…택배 왔다가 고양이 데려간 美배송기사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260530/134020518/1"
-        }
-      },
-      {
-        "keyword": "마사회",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한국마사회, 명마 캐릭터 굿즈 인기몰이… 말박물관서 주말 한정 팝업 운영",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260530580098"
-        }
-      },
-      {
-        "keyword": "박준영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"쫄면 아무 것도 못하잖아요\"…’韓 최초’ 불꽃처럼 타오르는 육성 신화, 당차게 선발진 꿰찼다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260530060119547"
-        }
-      },
-      {
-        "keyword": "돼지고기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“돼지고기마저 끊었다”…中 소비절벽에 양돈농가 ‘비명’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260530090120457"
-        }
-      },
-      {
-        "keyword": "국민연금 제도 확대",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "용인반도체클러스터",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "삼성·SK ‘용인 반도체 클러스터’ 공사까지 멈추나…레미콘 운반비 갈등, 6월 총파업 [중기+]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260530073154565"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-05-30T18:09:10.874686+09:00",
     "label": "18:09",
     "items": [
@@ -2059,6 +1957,108 @@
           "title": "삼성SDI 전고체 배터리 전용 시설 'S라인' 2027년 상용화 목표로 속도 낸다",
           "source": "엠투데이",
           "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=544516"
+        }
+      },
+      {
+        "keyword": "고용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "6월에 '실업급여·고용장려금' 등 부정수급 집중 신고받는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531120256895"
+        }
+      },
+      {
+        "keyword": "베스킨라빈스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-01T04:11:28.592987+09:00",
+    "label": "04:11",
+    "items": [
+      {
+        "keyword": "김민석",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12062286"
+        }
+      },
+      {
+        "keyword": "이기택",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이용진 \"'1박 2일' 고정 합류, 유재석·하하 덕분\" (놀뭐)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530184817339"
+        }
+      },
+      {
+        "keyword": "박준금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'미우새' 박준금, 탁재훈과 뜻밖의 인연…\"탁재훈 집에서 자고 간 적 있다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531214100804"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "XSMN 1/6 - Kết quả xổ số miền Nam hôm nay 1/6/2026 - Trực tiếp xổ số hôm nay ngày 1 tháng 6",
+          "source": "thethaovanhoa.vn",
+          "url": "https://thethaovanhoa.vn/xsmn-1-6-ket-qua-xo-so-mien-nam-hom-nay-1-6-2026-truc-tiep-xo-so-hom-nay-ngay-1-thang-6-20260531061248192.htm"
+        }
+      },
+      {
+        "keyword": "재벌집 막내아들",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'신입사원 강회장' 손현주, 이준영 얼굴로 긴급 기자회견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531171901814"
+        }
+      },
+      {
+        "keyword": "싱가포르 오픈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "안세영, 싱가포르 오픈 정상 ... 올해만 벌써 5번째 우승컵",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/05/31/HPR3DJPESJCUXD7XPBF6DCDF3M/"
+        }
+      },
+      {
+        "keyword": "농작물",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "농촌 ‘인심’에 기댄 꼴불견···농작물 ‘이삭줍기’도 적당히",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605311548001"
+        }
+      },
+      {
+        "keyword": "1박2일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'1박2일' 유선호, 마지막 촬영서 멤버들 편지에 감동…\"평생 함께할 형들\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531210250454"
         }
       },
       {
