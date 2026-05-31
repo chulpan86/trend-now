@@ -2078,5 +2078,107 @@
         "news": null
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-01T05:49:02.281093+09:00",
+    "label": "05:49",
+    "items": [
+      {
+        "keyword": "김민석",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12062286"
+        }
+      },
+      {
+        "keyword": "이기택",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이용진 \"'1박 2일' 고정 합류, 유재석·하하 덕분\" (놀뭐)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530184817339"
+        }
+      },
+      {
+        "keyword": "박준금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'미우새' 박준금, 탁재훈과 뜻밖의 인연…\"탁재훈 집에서 자고 간 적 있다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531214100804"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "XSMN 1/6 - Kết quả xổ số miền Nam hôm nay 1/6/2026 - Trực tiếp xổ số hôm nay ngày 1 tháng 6",
+          "source": "thethaovanhoa.vn",
+          "url": "https://thethaovanhoa.vn/xsmn-1-6-ket-qua-xo-so-mien-nam-hom-nay-1-6-2026-truc-tiep-xo-so-hom-nay-ngay-1-thang-6-20260531061248192.htm"
+        }
+      },
+      {
+        "keyword": "싱가포르 오픈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "안세영, 두통 이기고 대역전극… 싱가포르 오픈 우승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8KG1MEIkux"
+        }
+      },
+      {
+        "keyword": "농작물",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "농촌 ‘인심’에 기댄 꼴불견···농작물 ‘이삭줍기’도 적당히",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605311548001"
+        }
+      },
+      {
+        "keyword": "1박2일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "딘딘, 3년 반 함께한 유선호 하차에 눈물 \"지금처럼 계속 빛나길\" [1박2일][★밤TView]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531203217073"
+        }
+      },
+      {
+        "keyword": "삼성sdi",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼성SDI 전고체 배터리 전용 시설 'S라인' 2027년 상용화 목표로 속도 낸다",
+          "source": "엠투데이",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=544516"
+        }
+      },
+      {
+        "keyword": "고용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "6월에 '실업급여·고용장려금' 등 부정수급 집중 신고받는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531120256895"
+        }
+      },
+      {
+        "keyword": "베스킨라빈스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-01T04:11:28.592987+09:00",
-  "label": "04:11",
+  "timestamp": "2026-06-01T05:49:02.281093+09:00",
+  "label": "05:49",
   "items": [
     {
       "keyword": "김민석",
@@ -43,23 +43,13 @@
       }
     },
     {
-      "keyword": "재벌집 막내아들",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'신입사원 강회장' 손현주, 이준영 얼굴로 긴급 기자회견",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260531171901814"
-      }
-    },
-    {
       "keyword": "싱가포르 오픈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "안세영, 싱가포르 오픈 정상 ... 올해만 벌써 5번째 우승컵",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/05/31/HPR3DJPESJCUXD7XPBF6DCDF3M/"
+        "title": "안세영, 두통 이기고 대역전극… 싱가포르 오픈 우승",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/8KG1MEIkux"
       }
     },
     {
@@ -77,9 +67,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'1박2일' 유선호, 마지막 촬영서 멤버들 편지에 감동…\"평생 함께할 형들\"",
+        "title": "딘딘, 3년 반 함께한 유선호 하차에 눈물 \"지금처럼 계속 빛나길\" [1박2일][★밤TView]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260531210250454"
+        "url": "https://v.daum.net/v/20260531203217073"
+      }
+    },
+    {
+      "keyword": "삼성sdi",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "삼성SDI 전고체 배터리 전용 시설 'S라인' 2027년 상용화 목표로 속도 낸다",
+        "source": "엠투데이",
+        "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=544516"
       }
     },
     {
