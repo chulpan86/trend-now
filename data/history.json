@@ -1772,5 +1772,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-31T22:14:29.428601+09:00",
+    "label": "22:14",
+    "items": [
+      {
+        "keyword": "김민석",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12062286"
+        }
+      },
+      {
+        "keyword": "이기택",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "유재석, '1박 2일' 고정 꿰찬 이용진에 \"요즘 고정 귀해\" 공개 응원[놀뭐]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530185954500"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Kết quả xổ số hôm nay, 31-5: Xổ số miền Nam - Tiền Giang, Kiên Giang, Lâm Đồng",
+          "source": "CafeF",
+          "url": "https://cafef.vn/ket-qua-xo-so-hom-nay-31-5-xo-so-mien-nam-tien-giang-kien-giang-lam-dong-188260531160528325.chn"
+        }
+      },
+      {
+        "keyword": "싱가포르 오픈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "안세영, 싱가포르 오픈 정상 ... 올해만 벌써 5번째 우승컵",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/05/31/HPR3DJPESJCUXD7XPBF6DCDF3M/"
+        }
+      },
+      {
+        "keyword": "백화점",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "백화점 천장 '와르르'‥150여 명 긴급 대피",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6826556_37004.html"
+        }
+      },
+      {
+        "keyword": "일본 아이슬란드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "일본 축구, 북중미 월드컵 출정식서 아이슬란드에 1-0 승리",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260531055200007"
+        }
+      },
+      {
+        "keyword": "1박2일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'1박2일' 이준, 고된 노동 후 오히려 '적자'…\"나는 거의 어미새\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531205737387"
+        }
+      },
+      {
+        "keyword": "삼성sdi",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼성SDI 전고체 배터리 전용 시설 'S라인' 2027년 상용화 목표로 속도 낸다",
+          "source": "엠투데이",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=544516"
+        }
+      },
+      {
+        "keyword": "고용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "6월에 '실업급여·고용장려금' 등 부정수급 집중 신고받는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531120256895"
+        }
+      },
+      {
+        "keyword": "베스킨라빈스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]
