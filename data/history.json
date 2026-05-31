@@ -2180,5 +2180,107 @@
         "news": null
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-01T07:49:58.398587+09:00",
+    "label": "07:49",
+    "items": [
+      {
+        "keyword": "김민석",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김 총리, ‘6·3 지선’ 후 사임 가능성…관가, 연쇄 개각여부 최대 관심사[세종백블]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531235908833"
+        }
+      },
+      {
+        "keyword": "박준금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[다시보기] 미운 우리 새끼 497회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/vod/52018/22000630896"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Nhiều người ở TPHCM, Tây Ninh, An Giang, Vĩnh Long trúng độc đắc xổ số miền Nam",
+          "source": "Chuyển động Thị trường",
+          "url": "https://chuyendongthitruong.vn/nhieu-nguoi-o-tphcm-tay-ninh-an-giang-vinh-long-trung-doc-dac-xo-so-mien-nam-320818.html"
+        }
+      },
+      {
+        "keyword": "프로야구순위",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘오스틴 결승포’ LG, “단독 1위 넘보지마!”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8574510"
+        }
+      },
+      {
+        "keyword": "싱가포르 오픈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "안세영, 싱가포르오픈 우승…야마구치에 대역전승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20260601000001365?section=gallery/index"
+        }
+      },
+      {
+        "keyword": "농작물",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "농촌 ‘인심’에 기댄 꼴불견···농작물 ‘이삭줍기’도 적당히",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605311548001"
+        }
+      },
+      {
+        "keyword": "1박2일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "딘딘, 유선호 보내며 오열 \"넌 우리에게 찾아온 선물\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260531_0003650893"
+        }
+      },
+      {
+        "keyword": "이준영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'신입사원 강회장' 손현주, 이준영 얼굴로 긴급 기자회견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531171901814?f=p"
+        }
+      },
+      {
+        "keyword": "고용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'사상 최고' 뉴욕증시 분수령 고용보고서…\"과열 신호 경계\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601070219169"
+        }
+      },
+      {
+        "keyword": "베스킨라빈스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]
