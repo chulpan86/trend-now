@@ -1,45 +1,35 @@
 {
-  "timestamp": "2026-06-01T18:12:34.384077+09:00",
-  "label": "18:12",
+  "timestamp": "2026-06-02T00:48:09.591295+09:00",
+  "label": "00:48",
   "items": [
     {
       "keyword": "네이버 주가",
       "traffic_raw": "20000+",
       "traffic": 20000,
       "news": {
-        "title": "‘다음주에 만나면 주가 오른다’…젠슨황 방한 소식에 들썩",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11592347"
+        "title": "방한 임박 젠슨 황…이번엔 성수서 '삼겹살 소맥' 회동한다(종합2보)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260601072152017"
       }
     },
     {
-      "keyword": "한화에어로스페이스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "캐시워크 정답",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "대전 한화에어로스페이스 폭발 사고‥5명 사망",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6826755_36974.html"
+        "title": "11번가 월간십일절 캐시워크 돈 버는 퀴즈, 정답은?",
+        "source": "아주경제",
+        "url": "https://www.ajunews.com/view/20260601205736529"
       }
     },
     {
-      "keyword": "게임",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "sxmb",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "카카오게임즈, '찾아가는 프렌즈게임 랜드'로 지역 아동·청소년 500명과 만났다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260601162753455"
-      }
-    },
-    {
-      "keyword": "국립중앙박물관",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "국립중앙박물관 \"6월 매주 수요일 '큐레이터와의 대화' 운영\"",
-        "source": "파이낸셜뉴스",
-        "url": "https://www.fnnews.com/news/202606011442501381"
+        "title": "Xổ số miền Nam ngày 1 tháng 6: Người trúng số đài TP.HCM nhận chuyển khoản",
+        "source": "Báo Thanh Niên",
+        "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-1-thang-6-nguoi-trung-so-dai-tphcm-nhan-chuyen-khoan-185260601161637132.htm"
       }
     },
     {
@@ -47,9 +37,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "KBO Unveils May Scene-Stealer Finalists with Standout Performances",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/06/01/CKH6ST5J2VFPHPHU26UYZG3RTM/"
+        "title": "Landers looking to snap 12-game slide in KBO during 6-game home stand",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20260601002600315"
       }
     },
     {
@@ -57,19 +47,39 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260601062753064"
+        "title": "SK하이닉스 반도체 생산 공장 화재‥유독 가스 누출 11명 이송",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6826831_37004.html"
       }
     },
     {
-      "keyword": "국가유산",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "모스탄",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "지난해 고궁 관람객 역대 최다…국가유산청, “K-유산 가치 극대화할 것”",
+        "title": "‘이 대통령 명예훼손 혐의’ 모스 탄 출국정지 신청···경찰 “출석 불응 등 도주 우려”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606011654001"
+      }
+    },
+    {
+      "keyword": "kbo 올스타 투표",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'잠실구장 마지막 올스타전' 나설 베스트12 후보 120명 발표",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260601140822227"
+        "url": "https://v.daum.net/v/20260601180700261"
+      }
+    },
+    {
+      "keyword": "ตรวจหวย",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "ตรวจหวย 1 มิถุนายน 2569 ผลสลากกินแบ่งรัฐบาล หวย 1/6/69",
+        "source": "Sanook.com",
+        "url": "https://www.sanook.com/news/9891818/"
       }
     },
     {
@@ -83,23 +93,13 @@
       }
     },
     {
-      "keyword": "classroom",
+      "keyword": "서대문형무소",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "The Best of Miami Started in a public school classroom",
-        "source": "Miami's Community News",
-        "url": "https://communitynewspapers.com/pinecrest-tribune/the-best-of-miami-started-in-a-public-school-classroom-2/"
-      }
-    },
-    {
-      "keyword": "경복궁",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "BTS는 왜 경복궁서 컴백했을까? 해설사 \"광화문부터 들어와야 진짜가 보인다\"",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260601n27490"
+        "title": "독립의지 품은 서대문형무소 삶 재조명",
+        "source": "경남매일",
+        "url": "https://www.gnmaeil.com/news/articleView.html?idxno=587624"
       }
     }
   ]
