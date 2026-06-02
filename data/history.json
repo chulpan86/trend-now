@@ -948,5 +948,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-03T08:27:28.700822+09:00",
+    "label": "08:27",
+    "items": [
+      {
+        "keyword": "성시경",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김준수, 사생팬 일화 공개 \"숙소 침입 김재중에 키스\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260602_0003653010"
+        }
+      },
+      {
+        "keyword": "배우",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "송일국, '삼둥이' 근황 공개 \"둘째 민국이 작곡·디제잉 공부\" ('컬투쇼')[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/HBRDCYJQMZRTSNZVGVQTEY3GGU/"
+        }
+      },
+      {
+        "keyword": "멕시코",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "멕시코·캐나다 \"북미자유무역협정 16년 연장 제안\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260603034804707"
+        }
+      },
+      {
+        "keyword": "기금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]‘약탈 금융’ 질타에 줄줄이···상록수·KB스타 10만명 장기연체채권, 새도약기금에 매각된다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606021724001"
+        }
+      },
+      {
+        "keyword": "휴머노이드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "엔비디아 '휴머노이드 동맹'에 韓 기업 누가 합류할까",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417872"
+        }
+      },
+      {
+        "keyword": "네이마르",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“네이마르도 예외없다…출전시간 두고 비니시우스-하피냐와 경쟁해야” 브라질 감독의 경고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601212706257"
+        }
+      },
+      {
+        "keyword": "전북특별자치도",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "광주시, 고유가·물가 대응 추경 3천814억 편성",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602140101507"
+        }
+      },
+      {
+        "keyword": "오늘의 운세",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[오늘의 운세] 6월 3일 수요일 (음력 4월 18일 戊申)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/06/02/V5MFEON6IVDE3AFD44JDVNWHG4/"
+        }
+      },
+      {
+        "keyword": "tsla",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Tesla Sales Momentum Accelerates, Says JPMorgan (TSLA)",
+          "source": "GuruFocus",
+          "url": "https://www.gurufocus.com/news/8897206/tesla-sales-momentum-accelerates-says-jpmorgan-tsla"
+        }
+      },
+      {
+        "keyword": "만평",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[화보] 제9회 전국동시지방선거 거소투표 실시",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363727008"
+        }
+      }
+    ]
   }
 ]
