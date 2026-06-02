@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01T18:12:34.384077+09:00",
-    "label": "18:12",
-    "items": [
-      {
-        "keyword": "네이버 주가",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "‘다음주에 만나면 주가 오른다’…젠슨황 방한 소식에 들썩",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11592347"
-        }
-      },
-      {
-        "keyword": "한화에어로스페이스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "대전 한화에어로스페이스 폭발 사고‥5명 사망",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6826755_36974.html"
-        }
-      },
-      {
-        "keyword": "게임",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "카카오게임즈, '찾아가는 프렌즈게임 랜드'로 지역 아동·청소년 500명과 만났다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260601162753455"
-        }
-      },
-      {
-        "keyword": "국립중앙박물관",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "국립중앙박물관 \"6월 매주 수요일 '큐레이터와의 대화' 운영\"",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202606011442501381"
-        }
-      },
-      {
-        "keyword": "kbo",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "KBO Unveils May Scene-Stealer Finalists with Standout Performances",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/01/CKH6ST5J2VFPHPHU26UYZG3RTM/"
-        }
-      },
-      {
-        "keyword": "하이닉스 화재",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260601062753064"
-        }
-      },
-      {
-        "keyword": "국가유산",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "지난해 고궁 관람객 역대 최다…국가유산청, “K-유산 가치 극대화할 것”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260601140822227"
-        }
-      },
-      {
-        "keyword": "경제총조사",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "전주시, 3만8천여개 사업체 대상 '경제총조사' 실시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260601072400055"
-        }
-      },
-      {
-        "keyword": "classroom",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "The Best of Miami Started in a public school classroom",
-          "source": "Miami's Community News",
-          "url": "https://communitynewspapers.com/pinecrest-tribune/the-best-of-miami-started-in-a-public-school-classroom-2/"
-        }
-      },
-      {
-        "keyword": "경복궁",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "BTS는 왜 경복궁서 컴백했을까? 해설사 \"광화문부터 들어와야 진짜가 보인다\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260601n27490"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-02T00:48:09.591295+09:00",
     "label": "00:48",
     "items": [
@@ -945,6 +839,112 @@
           "title": "News - First F-35Bs receive key TR-3 upgrade at FRC East",
           "source": "DVIDS",
           "url": "https://www.dvidshub.net/news/566589/first-f-35bs-receive-key-tr-3-upgrade-frc-east"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-03T06:41:31.461947+09:00",
+    "label": "06:41",
+    "items": [
+      {
+        "keyword": "이정후",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "‘활화산’ 이정후, 또 안타→9G 연속 안타 행진 ‘팀은 2-16 대패’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602203907357"
+        }
+      },
+      {
+        "keyword": "mc몽",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "‘MC몽과 불륜설’ 차가원 회장 “제가 입 열면 엔터판 뒤집어질 수” - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/05/31/2026053114260077518"
+        }
+      },
+      {
+        "keyword": "건강",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“나빠진 신장, 생각·생활습관 바꾸면 치유될 수 있다” [건강한겨레]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1261494.html"
+        }
+      },
+      {
+        "keyword": "자전거",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "자전거 타던 초등생 시내버스 부딪힌 뒤 깔려 숨져",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602173116521"
+        }
+      },
+      {
+        "keyword": "정국",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "방탄소년단 정국, 한밤중 주거 침입 사생에 주먹질..\"박제한다\" [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602200315580"
+        }
+      },
+      {
+        "keyword": "수박",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "여름 입맛부터 주방 위생까지…유통가, ‘계절 소비’ 선점 경쟁",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260603054852439"
+        }
+      },
+      {
+        "keyword": "테니스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "코스튜크, 클레이코트 여왕 시비옹테크 격파…프랑스오픈 8강행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zcZTBdae5j?f=p"
+        }
+      },
+      {
+        "keyword": "두산",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "벤자민, 6⅓이닝 9K 무실점…두산, 한화 꺾고 상위권 호시탐탐",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260602165700007"
+        }
+      },
+      {
+        "keyword": "상장지수 펀드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"ETF? 삼성·미래만 있는 건 아니다\" 특화상품으로 시장공략 나선 중소 운용사들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602161829855"
+        }
+      },
+      {
+        "keyword": "현대모비스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"아틀라스 1대 팔면 28%가 현대모비스 몫\" 목표가 120만원↑ …LG엔솔, EV 점유율 하락에 목표주가 추락 [株토피아]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602111739792"
         }
       }
     ]

@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-03T03:32:14.748204+09:00",
-  "label": "03:32",
+  "timestamp": "2026-06-03T06:41:31.461947+09:00",
+  "label": "06:41",
   "items": [
     {
-      "keyword": "크로아티아 대 벨기에",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "이정후",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "Croatia vs Belgium: Friendlies stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cn4pn8v02l7t"
+        "title": "‘활화산’ 이정후, 또 안타→9G 연속 안타 행진 ‘팀은 2-16 대패’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260602203907357"
       }
     },
     {
-      "keyword": "시어머니",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "mc몽",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“아이 하원에 저녁 차리는 시모, 밥도 같이 먹어 불편” 워킹맘 하소연에 와글",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260602/134036789/2"
+        "title": "‘MC몽과 불륜설’ 차가원 회장 “제가 입 열면 엔터판 뒤집어질 수” - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/05/31/2026053114260077518"
       }
     },
     {
-      "keyword": "참이슬",
+      "keyword": "건강",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“나빠진 신장, 생각·생활습관 바꾸면 치유될 수 있다” [건강한겨레]",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1261494.html"
+      }
+    },
+    {
+      "keyword": "자전거",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "자전거 타던 초등생 시내버스 부딪힌 뒤 깔려 숨져",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260602173116521"
+      }
+    },
+    {
+      "keyword": "정국",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "하이트진로, '참이슬 후레쉬' 알코올 도수 16→15.7도 조정",
+        "title": "방탄소년단 정국, 한밤중 주거 침입 사생에 주먹질..\"박제한다\" [스타이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260602183955647"
+        "url": "https://v.daum.net/v/20260602200315580"
       }
     },
     {
-      "keyword": "양민혁",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "수박",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "양민혁 토트넘 데뷔 또또또 무산? 올여름도 흐지부지 되나…감독 3번 교체→'英 2부 4호 임대설'",
+        "title": "여름 입맛부터 주방 위생까지…유통가, ‘계절 소비’ 선점 경쟁",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260601171617860"
+        "url": "https://v.daum.net/v/20260603054852439"
       }
     },
     {
-      "keyword": "netflix",
+      "keyword": "테니스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Netflix’s New Releases Coming in June 2026",
-        "source": "The Hollywood Reporter",
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-june-2026-new-releases-movies-tv-1236610298/"
-      }
-    },
-    {
-      "keyword": "돌싱n모솔",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "코인판",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "비트코인 ‘영끌 매수’ 스트래티지, 사상 첫 매도…‘사면초가’ 빠진 암호화폐",
+        "title": "코스튜크, 클레이코트 여왕 시비옹테크 격파…프랑스오픈 8강행",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260602172357256"
+        "url": "https://v.daum.net/v/zcZTBdae5j?f=p"
       }
     },
     {
-      "keyword": "진태현",
+      "keyword": "두산",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "박시은·진태현 딸 생겼다…국대 꿈꾸는 마라토너",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260601_0003652166"
+        "title": "벤자민, 6⅓이닝 9K 무실점…두산, 한화 꺾고 상위권 호시탐탐",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260602165700007"
       }
     },
     {
-      "keyword": "카카오엔터테인먼트",
+      "keyword": "상장지수 펀드",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "최예나, '베리즈' 공식 커뮤니티 오픈..‘지구미’와 밀착 소통",
+        "title": "\"ETF? 삼성·미래만 있는 건 아니다\" 특화상품으로 시장공략 나선 중소 운용사들",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260602105017430"
+        "url": "https://v.daum.net/v/20260602161829855"
       }
     },
     {
-      "keyword": "록히드 마틴 f-35 라이트닝 ii",
+      "keyword": "현대모비스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "News - First F-35Bs receive key TR-3 upgrade at FRC East",
-        "source": "DVIDS",
-        "url": "https://www.dvidshub.net/news/566589/first-f-35bs-receive-key-tr-3-upgrade-frc-east"
+        "title": "\"아틀라스 1대 팔면 28%가 현대모비스 몫\" 목표가 120만원↑ …LG엔솔, EV 점유율 하락에 목표주가 추락 [株토피아]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260602111739792"
       }
     }
   ]
