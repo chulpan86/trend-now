@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-06-02T07:55:56.937603+09:00",
-  "label": "07:55",
+  "timestamp": "2026-06-02T09:07:59.079985+09:00",
+  "label": "09:07",
   "items": [
     {
-      "keyword": "한화에어로스페이스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "네이버 주가",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "한화에어로스페이스 공장 폭발 5명 사망…오늘 합동 감식",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260602061355571"
+        "title": "젠슨 황 “한국 로보틱스 투자 검토…GTC 서울 개최도 고려”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606012214001"
       }
     },
     {
@@ -27,9 +27,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Xổ số miền Nam ngày 1 tháng 6: Người trúng số đài TP.HCM nhận chuyển khoản",
-        "source": "Báo Thanh Niên",
-        "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-1-thang-6-nguoi-trung-so-dai-tphcm-nhan-chuyen-khoan-185260601161637132.htm"
+        "title": "XSMB 1/6. Kết quả xổ số Miền Bắc hôm nay Thứ hai ngày 01/06/2026. Dự đoán kết quả xổ số",
+        "source": "thethaovanhoa.vn",
+        "url": "https://thethaovanhoa.vn/xsmb-ket-qua-xo-so-mien-bac-hom-nay-thu-hai-ngay-01062026.htm"
       }
     },
     {
@@ -47,9 +47,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'국민주' 하이닉스 HBM 공장서‥수천 명 대피",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6826870_36989.html"
+        "title": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260601062753064"
       }
     },
     {
@@ -78,7 +78,7 @@
       "traffic": 100,
       "news": {
         "title": "ตรวจหวย 1 มิถุนายน 2569 ผลสลากกินแบ่งรัฐบาล หวย 1/6/69",
-        "source": "Sanook",
+        "source": "Sanook.com",
         "url": "https://www.sanook.com/news/9891818/"
       }
     },
