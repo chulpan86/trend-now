@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-02T14:23:19.215719+09:00",
-  "label": "14:23",
+  "timestamp": "2026-06-02T19:03:54.450736+09:00",
+  "label": "19:03",
   "items": [
     {
-      "keyword": "lg이노텍",
+      "keyword": "젠슨 황",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "젠슨 황, 한국 기업에 던진 의미심장한 예고? [현장영상]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8575888"
+      }
+    },
+    {
+      "keyword": "한화 대 두산",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "\"쫄지 않아요\" 득점권 피안타율 0.083 비결... '한화 육성 신화' 박준영, 오늘(2일) 두산전 3번째 시험대 오른다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260602132308214"
+      }
+    },
+    {
+      "keyword": "롯데 대 kia",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "\"목표가 65만원→185만원\" 기술격차 확 줄인 반도체 기판 후발주자[클릭 e종목]",
+        "title": "'와' 리그 유일 3할 포수가 올스타 탈락하나! 장타율 4위-국대 안방마님이 한 팀에 몰리다니 \"안 돼도 팬분들이 항상 응원해주셔서\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260602060700508"
+        "url": "https://v.daum.net/v/20260602053308003"
       }
     },
     {
-      "keyword": "한강 벨트",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "nc 대 삼성",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“평당 1억 언제적 얘기? 이제는 2억”…신고가 거래에 한강벨트 부동산 ‘후끈’",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/12063800"
-      }
-    },
-    {
-      "keyword": "농구",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "일본프로농구 정복한 이현중, 아시아무대에 만족은 없다 “NBA 가고 싶은 욕망 더 커져”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/xFORB1u5hv"
-      }
-    },
-    {
-      "keyword": "이삭토스트 포켓몬",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"뮤츠 배지 10만원\"…이삭토스트 포켓몬 배지 '웃돈' 대란",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/industry/distribution/6184088"
-      }
-    },
-    {
-      "keyword": "교장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'교장 갑질·비하·고성에 교사 정신과 치료'…전북교육청 감사",
+        "title": "'천적' 삼성 잡을 NC 승부수, 3년 만에 돌아온 거포 오장한",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260601103200055"
+        "url": "https://www.yna.co.kr/view/AKR20260602149800007"
       }
     },
     {
-      "keyword": "롯데건설",
+      "keyword": "키움 대 ssg",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "8연패 키움, 선발-불펜 보직 또 개편…설종진 감독 \"하영민 마무리, 내 판단 실수\" [오!쎈 인천]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/06/02/ME2DSYLCGRRDMZRSGY2GMNRUME/"
+      }
+    },
+    {
+      "keyword": "배구",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "프로배구 새 식구 SOOP, 40대 구단주·단장 선임",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260602089800007"
+      }
+    },
+    {
+      "keyword": "이영표",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "월드컵은 KBS! 이영표·전현무·남현종 최강 중계진에 첨단 AI 분석까지",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8576041"
+      }
+    },
+    {
+      "keyword": "지커 7x",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독]‘전국 매출 1위’ 홈플러스 매장, 49층 주상복합으로…롯데건설 1.5조 PF 조달 성공",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/12063816"
+        "title": "'지커 7X 5299만원' 견적표 유출에…지커코리아 \"본사와 최종 가격 조율 중\"",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=341673"
       }
     },
     {
-      "keyword": "로베르트 레반도프스키",
+      "keyword": "투표 시간",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'39세' 수아레스, 월드컵 못 간다...비엘사의 결단, 26인 최종명단 발표 [공식발표]",
+        "title": "이광재, 무박 72시간 막판 유세 \"투표하면 하남 미래 바뀐다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/politics/2026/06/02/2026060215480660892"
+      }
+    },
+    {
+      "keyword": "안산시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "서귀포시, 하반기 공공일자리사업 참여자 546명 모집",
         "source": "Daum",
-        "url": "https://v.daum.net/v/q10m1EIkTi?f=p"
-      }
-    },
-    {
-      "keyword": "구글 유상 증자",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "구글, 120조 원 초대형 유상증자…반도체 랠리에 돌발 변수 [글로벌마켓 A/S]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260602085940704"
-      }
-    },
-    {
-      "keyword": "한강버스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "서울시 돈으로 한강버스 손실 135억 메우기 재추진",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/administration/1261493.html"
-      }
-    },
-    {
-      "keyword": "배달",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘무보험 오토바이 배달’ 3일부터 전면 금지…플랫폼 계약도 해지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260602072335565"
+        "url": "https://v.daum.net/v/20260602140110519"
       }
     }
   ]
