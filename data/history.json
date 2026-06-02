@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01T12:41:35.493314+09:00",
-    "label": "12:41",
-    "items": [
-      {
-        "keyword": "게임",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Emotional Victor Wembanyama leads Spurs back to NBA Finals",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/story/_/id/48926783/emotional-victor-wembanyama-leads-spurs-back-nba-finals"
-        }
-      },
-      {
-        "keyword": "한화에어로스페이스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[속보] 대전 한화에어로스페이스 사업장 폭발 추정 화재‥\"진화 중\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6826686_36918.html"
-        }
-      },
-      {
-        "keyword": "국립중앙박물관",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "국립중앙박물관, 6월 매주 수요일 '큐레이터와의 대화' 운영",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02299286645477456&mediaCodeNo=257"
-        }
-      },
-      {
-        "keyword": "국가유산",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "K-고궁 관람객, 4월까지 545만명…최대였던 지난해 '1781만명'도 넘어선다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260601105905705"
-        }
-      },
-      {
-        "keyword": "기상청 날씨누리",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[930 날씨] 6월의 시작, 낮 더위 계속…오전에 제주도부터 비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260601100436955"
-        }
-      },
-      {
-        "keyword": "크리스티나",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'크리스티나 남편' 김현준 \"母 결혼 반대, 둘이 알콩달콩 살자고\" [아침마당]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260601095315374"
-        }
-      },
-      {
-        "keyword": "lg전자 주가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"젠슨 황 방한 핵심은 소버린 AI·데이터센터\"…인프라 관련株 급등",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417701"
-        }
-      },
-      {
-        "keyword": "대구은행",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전국금융산업노동조합 iM뱅크대구은행지부, 자립준비청년 지원 후원금 1000만 원 전달",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260531131022276"
-        }
-      },
-      {
-        "keyword": "classroom",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "The book fueling a movement against screens in schools",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/us/articles/book-fueling-movement-against-screens-110000599.html"
-        }
-      },
-      {
-        "keyword": "경복궁",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "경복궁 무료, 예술의전당 공연 5000원.. 65세 이상 문화 혜택 총정리",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/startup_story/2026/05/30/A4LHD6EKMNAIJPUN3WCWPXPKYM/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-01T18:12:34.384077+09:00",
     "label": "18:12",
     "items": [
@@ -949,6 +843,108 @@
           "title": "What's next for KSI and the Sidemen?",
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/c93xz8w1j3ko"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-03T03:32:14.748204+09:00",
+    "label": "03:32",
+    "items": [
+      {
+        "keyword": "크로아티아 대 벨기에",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Croatia vs Belgium: Friendlies stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cn4pn8v02l7t"
+        }
+      },
+      {
+        "keyword": "시어머니",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“아이 하원에 저녁 차리는 시모, 밥도 같이 먹어 불편” 워킹맘 하소연에 와글",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260602/134036789/2"
+        }
+      },
+      {
+        "keyword": "참이슬",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "하이트진로, '참이슬 후레쉬' 알코올 도수 16→15.7도 조정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602183955647"
+        }
+      },
+      {
+        "keyword": "양민혁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "양민혁 토트넘 데뷔 또또또 무산? 올여름도 흐지부지 되나…감독 3번 교체→'英 2부 4호 임대설'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601171617860"
+        }
+      },
+      {
+        "keyword": "netflix",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Netflix’s New Releases Coming in June 2026",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-june-2026-new-releases-movies-tv-1236610298/"
+        }
+      },
+      {
+        "keyword": "돌싱n모솔",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "코인판",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "비트코인 ‘영끌 매수’ 스트래티지, 사상 첫 매도…‘사면초가’ 빠진 암호화폐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602172357256"
+        }
+      },
+      {
+        "keyword": "진태현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박시은·진태현 딸 생겼다…국대 꿈꾸는 마라토너",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260601_0003652166"
+        }
+      },
+      {
+        "keyword": "카카오엔터테인먼트",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "최예나, '베리즈' 공식 커뮤니티 오픈..‘지구미’와 밀착 소통",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602105017430"
+        }
+      },
+      {
+        "keyword": "록히드 마틴 f-35 라이트닝 ii",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "News - First F-35Bs receive key TR-3 upgrade at FRC East",
+          "source": "DVIDS",
+          "url": "https://www.dvidshub.net/news/566589/first-f-35bs-receive-key-tr-3-upgrade-frc-east"
         }
       }
     ]
