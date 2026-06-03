@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-06-03T11:48:28.080201+09:00",
-  "label": "11:48",
+  "timestamp": "2026-06-03T17:07:11.897144+09:00",
+  "label": "17:07",
   "items": [
     {
-      "keyword": "sk실트론",
+      "keyword": "티빙",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "티빙 \"회원 ID·이름·전화번호 등 정보 유출\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0102_202606030949074604"
+      }
+    },
+    {
+      "keyword": "푸바 오",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[단독] 최태원 “SK실트론 매각, 실무진이 결정” - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/it-science/ict/2026/06/03/URWBKYYWFBB7JNW4U6DG5R5IFE/"
+        "title": "\"에버랜드 또 난리나겠네\"…'푸바오 동생' 쌍둥이 판다, 언니보다 일찍 중국 돌아가나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260603095901324"
       }
     },
     {
-      "keyword": "구속영장",
+      "keyword": "롯데 자이언츠",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "롯데, 김상진 투수 코치·전준우 등 6명 1군 엔트리서 제외",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/6BhrtJNd7q"
+      }
+    },
+    {
+      "keyword": "환율",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[속보]‘김수현 명예훼손’ 김세의 구속적부심 기각···구속 유지",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606022008001"
+        "title": "달러 수요 급증… ‘환율 1500원 시대’ 일상화 되나",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/06/03/J7QI2IY3LZD5VGBC53JQ3PPGAM/"
       }
     },
     {
-      "keyword": "갓오브워 라우페이",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "갓 오브 워 라우페이 심층 분석 – 산타모니카 스튜디오가 말하는 페이, 리본, 그리고 큐브의 이야기",
-        "source": "IGN Korea",
-        "url": "https://kr.ign.com/god-of-war-8/14866/gas-obeu-weo-raupei-simceung-bunseog-santamonika-seutyudioga-malhaneun-pei-ribon-geurigo-kyubeuyi-iy"
-      }
-    },
-    {
-      "keyword": "은행원",
+      "keyword": "kbo 올스타전",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"5억 받고 나갈래요\" MZ은행원도 줄섰다…2500명 희망퇴직 러시",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260602_0003654129"
-      }
-    },
-    {
-      "keyword": "김영배",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "오세훈 \"서울시장, 실험해 볼 자리 아냐...노련한 베테랑만 감당\"",
-        "source": "YTN",
-        "url": "https://m.ytn.co.kr/news_view.php?key=202606030958311190&s_mcd=0101"
-      }
-    },
-    {
-      "keyword": "산림청",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"산사태 현장, 하늘에서 본다\"··· 드론 활용 피해조사 합동훈련 실시",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764933&pWise=sub&pWiseSub=C2"
-      }
-    },
-    {
-      "keyword": "이숭용",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "필승조 문승원마저 부상…고민 커지는 '12연패' SSG",
+        "title": "프로야구 올스타 팬 투표, 착오로 3일 0시부터 다시 시작",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260602181358987"
+        "url": "https://v.daum.net/v/20260602145757318"
       }
     },
     {
-      "keyword": "선거인명부",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "아이온큐",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[6·3 지방선거] \"시민과 약속 지켜달라\" 부산 투표소 대기 줄",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260603020100051"
+        "title": "아이온큐 CEO 단독 인터뷰…양자컴퓨터, 산업·안보 판도 바꿀 것",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260602195517918"
       }
     },
     {
-      "keyword": "정의당",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "스타뉴스",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "정의당 경기도당, 노동자·성소수자 목소리 '기호 16번' 지지 호소",
+        "title": "'나솔 31기' 옥순, '걸스토크' 단톡방 공개…\"순자 따돌린 적 없다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/06/03/2026060315523568324"
+      }
+    },
+    {
+      "keyword": "임라라",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘슈돌’ 임라라, 심정지 위기 살린 구급대원과 눈물의 재회…“쌍둥이 보게 해준 은인”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260602210011824"
+        "url": "https://v.daum.net/v/p4mWEDCEsq"
       }
     },
     {
-      "keyword": "한국아파트신문",
+      "keyword": "남극 기지",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "곪아터진 남극기지 \"흉기난동 외 폭언·폭행·성희롱 신고도 다수\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260603101210681"
+      }
+    },
+    {
+      "keyword": "골드만삭스",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "골드만삭스 “1만2000간다” 전문가 “반도체 끝 아냐”···낙관론 커진 국내 증시, 지금 타도 될까",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606031511021"
+      }
     }
   ]
 }
