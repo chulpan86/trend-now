@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02T19:03:54.450736+09:00",
-    "label": "19:03",
-    "items": [
-      {
-        "keyword": "젠슨 황",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "젠슨 황, 한국 기업에 던진 의미심장한 예고? [현장영상]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8575888"
-        }
-      },
-      {
-        "keyword": "한화 대 두산",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "\"쫄지 않아요\" 득점권 피안타율 0.083 비결... '한화 육성 신화' 박준영, 오늘(2일) 두산전 3번째 시험대 오른다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602132308214"
-        }
-      },
-      {
-        "keyword": "롯데 대 kia",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'와' 리그 유일 3할 포수가 올스타 탈락하나! 장타율 4위-국대 안방마님이 한 팀에 몰리다니 \"안 돼도 팬분들이 항상 응원해주셔서\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602053308003"
-        }
-      },
-      {
-        "keyword": "nc 대 삼성",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'천적' 삼성 잡을 NC 승부수, 3년 만에 돌아온 거포 오장한",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260602149800007"
-        }
-      },
-      {
-        "keyword": "키움 대 ssg",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "8연패 키움, 선발-불펜 보직 또 개편…설종진 감독 \"하영민 마무리, 내 판단 실수\" [오!쎈 인천]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/06/02/ME2DSYLCGRRDMZRSGY2GMNRUME/"
-        }
-      },
-      {
-        "keyword": "배구",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "프로배구 새 식구 SOOP, 40대 구단주·단장 선임",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260602089800007"
-        }
-      },
-      {
-        "keyword": "이영표",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "월드컵은 KBS! 이영표·전현무·남현종 최강 중계진에 첨단 AI 분석까지",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8576041"
-        }
-      },
-      {
-        "keyword": "지커 7x",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'지커 7X 5299만원' 견적표 유출에…지커코리아 \"본사와 최종 가격 조율 중\"",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=341673"
-        }
-      },
-      {
-        "keyword": "투표 시간",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이광재, 무박 72시간 막판 유세 \"투표하면 하남 미래 바뀐다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/06/02/2026060215480660892"
-        }
-      },
-      {
-        "keyword": "안산시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "서귀포시, 하반기 공공일자리사업 참여자 546명 모집",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602140110519"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-02T23:44:03.402480+09:00",
     "label": "23:44",
     "items": [
@@ -1047,6 +941,112 @@
           "title": "Jennie Makes Chart History With A Rare Top 10 Smash",
           "source": "Forbes",
           "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/03/jennie-makes-chart-history-with-a-rare-top-10-smash/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-04T08:26:41.530605+09:00",
+    "label": "08:26",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "예년 수준 더위 이어지는 가운데 전국 소나기…'우박' 주의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604081156056"
+        }
+      },
+      {
+        "keyword": "weather",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "Weather Extra: Assessing rain, heat potentials",
+          "source": "WSAZ",
+          "url": "https://www.wsaz.com/2026/06/03/weather-extra-assessing-rain-heat-potentials/"
+        }
+      },
+      {
+        "keyword": "김태현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "미열에 쉬던 김태현도 가세…26인 태극전사 처음으로 전원 훈련",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260603018600007"
+        }
+      },
+      {
+        "keyword": "대전 교육감",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "미디어대전 모바일 사이트, 대전시교육감에 오석진 후보 당선 확실",
+          "source": "교차로저널",
+          "url": "http://www.mediadj.kr/news/articleView.html?idxno=54054"
+        }
+      },
+      {
+        "keyword": "남편",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한다감 \"50살 전 셋째까지 욕심…기네스북 도전\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060407185020653"
+        }
+      },
+      {
+        "keyword": "김해시장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘노무현의 고향’ 김해, 민주당 품으로…정영두 후보 당선",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20051585"
+        }
+      },
+      {
+        "keyword": "rgti",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Rigetti Computing CTO David Rivas sells $12.68m in NASDAQ:RGTI stock",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/insider-trading-news/rigetti-computing-cto-david-rivas-sells-1268m-in-nasdaqrgti-stock-93CH-4720244"
+        }
+      },
+      {
+        "keyword": "오산시장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[6·3 지선] 조용호 오산시장 당선인 \"5대 가치로 오산 미래 열 것\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260604026800061"
+        }
+      },
+      {
+        "keyword": "김포시장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이기형 김포시장 당선인 “시민 신뢰, 김포대도약 성과로 보답하겠다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604004602201"
+        }
+      },
+      {
+        "keyword": "천안시장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[인터뷰] 장기수 천안시장 당선인 \"천안 대전환 시작\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604062604891"
         }
       }
     ]

@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-04T06:42:05.434289+09:00",
-  "label": "06:42",
+  "timestamp": "2026-06-04T08:26:41.530605+09:00",
+  "label": "08:26",
   "items": [
     {
-      "keyword": "손혜원",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "날씨",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
       "news": {
-        "title": "[6.3 지선] '국회의원에서 기초의원으로'…손혜원 당선",
+        "title": "예년 수준 더위 이어지는 가운데 전국 소나기…'우박' 주의",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604081156056"
+      }
+    },
+    {
+      "keyword": "weather",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "Weather Extra: Assessing rain, heat potentials",
+        "source": "WSAZ",
+        "url": "https://www.wsaz.com/2026/06/03/weather-extra-assessing-rain-heat-potentials/"
+      }
+    },
+    {
+      "keyword": "김태현",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "미열에 쉬던 김태현도 가세…26인 태극전사 처음으로 전원 훈련",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260604020900054"
+        "url": "https://www.yna.co.kr/view/AKR20260603018600007"
       }
     },
     {
-      "keyword": "브로드컴",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "대전 교육감",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "브로드컴, 강력한 수요 입증…호실적에도 시간외↓",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02184486645478440"
+        "title": "미디어대전 모바일 사이트, 대전시교육감에 오석진 후보 당선 확실",
+        "source": "교차로저널",
+        "url": "http://www.mediadj.kr/news/articleView.html?idxno=54054"
       }
     },
     {
-      "keyword": "31 기 옥순 인스 타",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "남편",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "\"언니, 사과받을 마음 없는 거로 알게\"…'나솔 31기' 옥순 단톡방 공개 - 머니투데이",
+        "title": "한다감 \"50살 전 셋째까지 욕심…기네스북 도전\" - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/06/03/2026060315523568324"
+        "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060407185020653"
       }
     },
     {
-      "keyword": "양민혁",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“손흥민 경고 현실됐다” 양민혁, 토트넘 미래 더 어두워졌다... 英 냉정 평가",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260604005753395"
-      }
-    },
-    {
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“홍명보호, 고지대 대비 가장 철저하다” 체코·남아공과 다르다! 한국만의 월드컵 준비에 멕시코 긴장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260603155916147"
-      }
-    },
-    {
-      "keyword": "박민수",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"아픈 만큼 성숙해졌다\"…박민수, 심리적 압박·기대의 무게 이겨낸 '무명전설' [mhn★심화인터뷰②]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260603070057664"
-      }
-    },
-    {
-      "keyword": "안유진",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "안유진, 침대 위에서 뽐낸 청순미…귀여움까지 장착 [N샷]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260601155804992"
-      }
-    },
-    {
-      "keyword": "원주시장",
+      "keyword": "김해시장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[6·3 지선] 구자열 원주시장 당선인, 리턴매치서 설욕",
+        "title": "‘노무현의 고향’ 김해, 민주당 품으로…정영두 후보 당선",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20051585"
+      }
+    },
+    {
+      "keyword": "rgti",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Rigetti Computing CTO David Rivas sells $12.68m in NASDAQ:RGTI stock",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/insider-trading-news/rigetti-computing-cto-david-rivas-sells-1268m-in-nasdaqrgti-stock-93CH-4720244"
+      }
+    },
+    {
+      "keyword": "오산시장",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[6·3 지선] 조용호 오산시장 당선인 \"5대 가치로 오산 미래 열 것\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260604010700062"
+        "url": "https://www.yna.co.kr/view/AKR20260604026800061"
       }
     },
     {
-      "keyword": "권영국",
+      "keyword": "김포시장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "권영국 “진보정치의 꿈 이어가겠다”···서울시장 선거 소회",
+        "title": "이기형 김포시장 당선인 “시민 신뢰, 김포대도약 성과로 보답하겠다”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260603203316784"
+        "url": "https://v.daum.net/v/20260604004602201"
       }
     },
     {
-      "keyword": "blackpink",
+      "keyword": "천안시장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Jennie Makes Chart History With A Rare Top 10 Smash",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/03/jennie-makes-chart-history-with-a-rare-top-10-smash/"
+        "title": "[인터뷰] 장기수 천안시장 당선인 \"천안 대전환 시작\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604062604891"
       }
     }
   ]
