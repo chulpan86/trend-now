@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-06-03T08:27:28.700822+09:00",
-  "label": "08:27",
+  "timestamp": "2026-06-03T11:48:28.080201+09:00",
+  "label": "11:48",
   "items": [
     {
-      "keyword": "성시경",
+      "keyword": "sk실트론",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "김준수, 사생팬 일화 공개 \"숙소 침입 김재중에 키스\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260602_0003653010"
+        "title": "[단독] 최태원 “SK실트론 매각, 실무진이 결정” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/it-science/ict/2026/06/03/URWBKYYWFBB7JNW4U6DG5R5IFE/"
       }
     },
     {
-      "keyword": "배우",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "구속영장",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "송일국, '삼둥이' 근황 공개 \"둘째 민국이 작곡·디제잉 공부\" ('컬투쇼')[순간포착]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/HBRDCYJQMZRTSNZVGVQTEY3GGU/"
-      }
-    },
-    {
-      "keyword": "멕시코",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "멕시코·캐나다 \"북미자유무역협정 16년 연장 제안\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260603034804707"
-      }
-    },
-    {
-      "keyword": "기금",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독]‘약탈 금융’ 질타에 줄줄이···상록수·KB스타 10만명 장기연체채권, 새도약기금에 매각된다",
+        "title": "[속보]‘김수현 명예훼손’ 김세의 구속적부심 기각···구속 유지",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606021724001"
+        "url": "https://www.khan.co.kr/article/202606022008001"
       }
     },
     {
-      "keyword": "휴머노이드",
+      "keyword": "갓오브워 라우페이",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "갓 오브 워 라우페이 심층 분석 – 산타모니카 스튜디오가 말하는 페이, 리본, 그리고 큐브의 이야기",
+        "source": "IGN Korea",
+        "url": "https://kr.ign.com/god-of-war-8/14866/gas-obeu-weo-raupei-simceung-bunseog-santamonika-seutyudioga-malhaneun-pei-ribon-geurigo-kyubeuyi-iy"
+      }
+    },
+    {
+      "keyword": "은행원",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"5억 받고 나갈래요\" MZ은행원도 줄섰다…2500명 희망퇴직 러시",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260602_0003654129"
+      }
+    },
+    {
+      "keyword": "김영배",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "엔비디아 '휴머노이드 동맹'에 韓 기업 누가 합류할까",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417872"
+        "title": "오세훈 \"서울시장, 실험해 볼 자리 아냐...노련한 베테랑만 감당\"",
+        "source": "YTN",
+        "url": "https://m.ytn.co.kr/news_view.php?key=202606030958311190&s_mcd=0101"
       }
     },
     {
-      "keyword": "네이마르",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "산림청",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“네이마르도 예외없다…출전시간 두고 비니시우스-하피냐와 경쟁해야” 브라질 감독의 경고",
+        "title": "\"산사태 현장, 하늘에서 본다\"··· 드론 활용 피해조사 합동훈련 실시",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764933&pWise=sub&pWiseSub=C2"
+      }
+    },
+    {
+      "keyword": "이숭용",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "필승조 문승원마저 부상…고민 커지는 '12연패' SSG",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260601212706257"
+        "url": "https://v.daum.net/v/20260602181358987"
       }
     },
     {
-      "keyword": "전북특별자치도",
+      "keyword": "선거인명부",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "광주시, 고유가·물가 대응 추경 3천814억 편성",
+        "title": "[6·3 지방선거] \"시민과 약속 지켜달라\" 부산 투표소 대기 줄",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260603020100051"
+      }
+    },
+    {
+      "keyword": "정의당",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "정의당 경기도당, 노동자·성소수자 목소리 '기호 16번' 지지 호소",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260602140101507"
+        "url": "https://v.daum.net/v/20260602210011824"
       }
     },
     {
-      "keyword": "오늘의 운세",
+      "keyword": "한국아파트신문",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "[오늘의 운세] 6월 3일 수요일 (음력 4월 18일 戊申)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/06/02/V5MFEON6IVDE3AFD44JDVNWHG4/"
-      }
-    },
-    {
-      "keyword": "tsla",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Tesla Sales Momentum Accelerates, Says JPMorgan (TSLA)",
-        "source": "GuruFocus",
-        "url": "https://www.gurufocus.com/news/8897206/tesla-sales-momentum-accelerates-says-jpmorgan-tsla"
-      }
-    },
-    {
-      "keyword": "만평",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[화보] 제9회 전국동시지방선거 거소투표 실시",
-        "source": "중부일보",
-        "url": "https://www.joongboo.com/news/articleView.html?idxno=363727008"
-      }
+      "news": null
     }
   ]
 }
