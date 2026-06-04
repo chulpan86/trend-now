@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-04T08:26:41.530605+09:00",
-  "label": "08:26",
+  "timestamp": "2026-06-04T11:43:49.293286+09:00",
+  "label": "11:43",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "신용 한",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "예년 수준 더위 이어지는 가운데 전국 소나기…'우박' 주의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260604081156056"
+        "title": "신용한 충북지사 당선인, 윤석열 캠프 출신…‘명태균 폭로’ 이후 정치적 변신 성공",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606040031005"
       }
     },
     {
-      "keyword": "weather",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "임지연",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Weather Extra: Assessing rain, heat potentials",
-        "source": "WSAZ",
-        "url": "https://www.wsaz.com/2026/06/03/weather-extra-assessing-rain-heat-potentials/"
+        "title": "임지연, 수영복 입고 뽐낸 가녀린 몸매…청순美까지 [DA★]",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260603/134041396/1"
       }
     },
     {
-      "keyword": "김태현",
+      "keyword": "평가원",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "충북교육청, 2027학년도 수능 첫 가늠자... 6월 모의평가 실시 : 네이버 블로그",
+        "source": "Naver Blog",
+        "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224303861981&redirect=Dlog"
+      }
+    },
+    {
+      "keyword": "한미반도체 주가",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "미열에 쉬던 김태현도 가세…26인 태극전사 처음으로 전원 훈련",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260603018600007"
+        "title": "'TC본더' 강자 한미반도체, 2분기 실적 반등 가능할까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260603143003234"
       }
     },
     {
-      "keyword": "대전 교육감",
+      "keyword": "tbs",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "미디어대전 모바일 사이트, 대전시교육감에 오석진 후보 당선 확실",
-        "source": "교차로저널",
-        "url": "http://www.mediadj.kr/news/articleView.html?idxno=54054"
+        "title": "7月19日(日)21:00より、「TBSチャンネル1 最新ドラマ・音楽・映画」にて、『j-hope Tour ’HOPE ON THE STAGE’ in JAPAN 京セラドーム大阪 全曲ノーカット版』テレビ初独占放送決定！",
+        "source": "TBSテレビ",
+        "url": "https://www.tbs.co.jp/tbs-ch/information/2026_0603_1200.html"
       }
     },
     {
-      "keyword": "남편",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "브래드 피트",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "tvn",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "한다감 \"50살 전 셋째까지 욕심…기네스북 도전\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060407185020653"
+        "title": "Gigantyczna fuzja pod lupą Brukseli. Decyzja do 7 lipca",
+        "source": "Business Insider Polska",
+        "url": "https://businessinsider.com.pl/biznes/fuzja-gigantow-czeka-na-zgode-ue-waza-sie-losy-walasciciela-tvn/92kmkdx"
       }
     },
     {
-      "keyword": "김해시장",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "대한광통신 주가",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "‘노무현의 고향’ 김해, 민주당 품으로…정영두 후보 당선",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20051585"
+        "title": "대한광통신, AI 인프라 기대감 속 변동성 확대...4일 주가는",
+        "source": "CBC뉴스",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=579130"
       }
     },
     {
-      "keyword": "rgti",
+      "keyword": "서울시의원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Rigetti Computing CTO David Rivas sells $12.68m in NASDAQ:RGTI stock",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/insider-trading-news/rigetti-computing-cto-david-rivas-sells-1268m-in-nasdaqrgti-stock-93CH-4720244"
-      }
-    },
-    {
-      "keyword": "오산시장",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[6·3 지선] 조용호 오산시장 당선인 \"5대 가치로 오산 미래 열 것\"",
+        "title": "지역 주민 돈 빌리고 잠적 의혹…방송인 출신 前서울시의원 송치",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260604026800061"
+        "url": "https://www.yna.co.kr/view/AKR20260603052400004"
       }
     },
     {
-      "keyword": "김포시장",
+      "keyword": "성유리",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이기형 김포시장 당선인 “시민 신뢰, 김포대도약 성과로 보답하겠다”",
+        "title": "\"이제 곧 셋째 맘이 된다니\"..성유리, 출산 앞둔 이문정과 행복한 시간",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260604004602201"
-      }
-    },
-    {
-      "keyword": "천안시장",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[인터뷰] 장기수 천안시장 당선인 \"천안 대전환 시작\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260604062604891"
+        "url": "https://v.daum.net/v/20260604015305627"
       }
     }
   ]
