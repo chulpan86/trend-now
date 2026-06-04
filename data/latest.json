@@ -1,101 +1,101 @@
 {
-  "timestamp": "2026-06-04T11:43:49.293286+09:00",
-  "label": "11:43",
+  "timestamp": "2026-06-04T16:15:49.739367+09:00",
+  "label": "16:15",
   "items": [
     {
-      "keyword": "신용 한",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "박정수",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "신용한 충북지사 당선인, 윤석열 캠프 출신…‘명태균 폭로’ 이후 정치적 변신 성공",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606040031005"
-      }
-    },
-    {
-      "keyword": "임지연",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "임지연, 수영복 입고 뽐낸 가녀린 몸매…청순美까지 [DA★]",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260603/134041396/1"
-      }
-    },
-    {
-      "keyword": "평가원",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "충북교육청, 2027학년도 수능 첫 가늠자... 6월 모의평가 실시 : 네이버 블로그",
-        "source": "Naver Blog",
-        "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224303861981&redirect=Dlog"
-      }
-    },
-    {
-      "keyword": "한미반도체 주가",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'TC본더' 강자 한미반도체, 2분기 실적 반등 가능할까",
+        "title": "“삼성전자, 몇억 벌 수 있었는데”…박정수, 주식 투자 실패담 고백",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260603143003234"
+        "url": "https://v.daum.net/v/20260604113901989"
       }
     },
     {
-      "keyword": "tbs",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "정몽구",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "7月19日(日)21:00より、「TBSチャンネル1 最新ドラマ・音楽・映画」にて、『j-hope Tour ’HOPE ON THE STAGE’ in JAPAN 京セラドーム大阪 全曲ノーカット版』テレビ初独占放送決定！",
-        "source": "TBSテレビ",
-        "url": "https://www.tbs.co.jp/tbs-ch/information/2026_0603_1200.html"
+        "title": "\"부장 된지 한달도 안됐는데요\"…정몽구 회장, \"이제부터 이사 해\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/06/04/27TR3B333ZHYXKTOYD53PFMP6I/"
       }
     },
     {
-      "keyword": "브래드 피트",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "전희철",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'아빠 판박이' 우지원 딸, 미스코리아 본선 진출… \"70주년 무대 영광\"",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026060217210003918"
+      }
+    },
+    {
+      "keyword": "은현장",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "은현장, 김수현 측 사과에 화답…\"지금은 힘 합쳐야\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260603_0003655057"
+      }
+    },
+    {
+      "keyword": "정명근",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[화성 24시] 정명근, 화성시장 재선 성공…“180만 특례시 향한 백년대계 준비”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604134115475"
+      }
+    },
+    {
+      "keyword": "정찰기",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": null
     },
     {
-      "keyword": "tvn",
+      "keyword": "국회의원 의석수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Gigantyczna fuzja pod lupą Brukseli. Decyzja do 7 lipca",
-        "source": "Business Insider Polska",
-        "url": "https://businessinsider.com.pl/biznes/fuzja-gigantow-czeka-na-zgode-ue-waza-sie-losy-walasciciela-tvn/92kmkdx"
+        "title": "한동훈 웃고, 조국 울고...민주, 재보선은 판정패",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0101_202606040804401679"
       }
     },
     {
-      "keyword": "대한광통신 주가",
+      "keyword": "일기예보",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "대한광통신, AI 인프라 기대감 속 변동성 확대...4일 주가는",
-        "source": "CBC뉴스",
-        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=579130"
+        "title": "[생활/날씨] 호치민시·남부 지역, 6일까지 집중호우 지속 전망",
+        "source": "굿모닝베트남미디어",
+        "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=82050"
       }
     },
     {
-      "keyword": "서울시의원",
+      "keyword": "산드로 토날리",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "지역 주민 돈 빌리고 잠적 의혹…방송인 출신 前서울시의원 송치",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260603052400004"
+        "title": "맨체스터 유나이티드 파격 결단! 2050억 MF 영입 포기한다…\"엄청난 몸값에 부담 느껴\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260604n00155"
       }
     },
     {
-      "keyword": "성유리",
+      "keyword": "워렌 버핏",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"이제 곧 셋째 맘이 된다니\"..성유리, 출산 앞둔 이문정과 행복한 시간",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260604015305627"
+        "title": "주주들에게 보낸 서한에서 워렌 버핏이 어떻게 '승리'했는지 밝혀졌다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/thu-gui-co-dong-tiet-lo-cach-warren-buffett-thang-doi"
       }
     }
   ]
