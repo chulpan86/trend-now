@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-06-05T01:44:37.163444+09:00",
-  "label": "01:44",
+  "timestamp": "2026-06-05T04:13:08.534185+09:00",
+  "label": "04:13",
   "items": [
     {
       "keyword": "젠슨 황 방한",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "젠슨 황, 세부 방한 일정 공개…“5일 오후 1시 김포공항 도착”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605001916156"
+        "title": "젠슨 황 내일 전용기로 입국‥나흘간 뭐하나, 삼겹살에 시구까지",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6827833_37004.html"
       }
     },
     {
@@ -23,13 +23,33 @@
       }
     },
     {
-      "keyword": "녹색당",
+      "keyword": "영화",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "초유의 10선 탄생…40년간 시의원 \"또 하려니 두려워\"",
+        "title": "고레에다 감독 \"한국에 특별한 애정…안 보이는 것도 봐주시길\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260604185700005"
+      }
+    },
+    {
+      "keyword": "퀀티넘",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "양자컴퓨팅 대장주 노리는 퀀티넘…IPO 흥행, 오늘 밤 나스닥 상장 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/06/04/2026060412294629682"
+      }
+    },
+    {
+      "keyword": "마야 흐발린스카",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "114위 예선통과자 흐발린스카, 프랑스오픈 4강…역대 2번째 이변",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260604143036556"
+        "url": "https://v.daum.net/v/20260603214419471?f=p"
       }
     },
     {
@@ -53,23 +73,13 @@
       }
     },
     {
-      "keyword": "유엔 안보리 상임이사국",
+      "keyword": "닌텐도 스위치",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "독일 안보리 이사국 탈락 수모…이스라엘 편들다 미움 샀나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260604181106964"
-      }
-    },
-    {
-      "keyword": "마야 흐발린스카",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "114위 예선통과자 흐발린스카, 프랑스오픈 4강…역대 2번째 이변",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260603214419471?f=p"
+        "title": "007 First Light Debuts on the Japanese Charts, Switch 2 Sells 32K",
+        "source": "VGChartz",
+        "url": "https://www.vgchartz.com/article/468037/007-first-light-debuts-on-the-japanese-charts-switch-2-sells-32k/"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Aryna Sabalenka’s quest for mastery of clay and grass courts takes another turn",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/athletic/7330378/2026/06/03/aryna-sabalenka-tennis-clay-grass-french-open-wimbledon/"
-      }
-    },
-    {
-      "keyword": "닌텐도 스위치",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu"
+        "title": "No. 1 Sabalenka is out -- who will win the French Open title?",
+        "source": "ESPN",
+        "url": "https://www.espn.com/tennis/story/_/id/48956620/aryna-sabalenka-french-open-upset-diana-shnaider"
       }
     }
   ]
