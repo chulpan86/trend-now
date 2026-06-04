@@ -1156,5 +1156,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-05T08:01:22.350396+09:00",
+    "label": "08:01",
+    "items": [
+      {
+        "keyword": "정성호",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“한·일전 진 꼴”…李대통령, 후임 총리 강훈식·한성숙·정성호 고심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605050237159"
+        }
+      },
+      {
+        "keyword": "홈플러스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "홈플러스, ‘영업 중단’ 37개 점포 결국 폐점 결정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605063912552"
+        }
+      },
+      {
+        "keyword": "캐나다",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "강훈식 비서실장, 한-캐나다 에너지 자원 공급망 협력 포럼 참석",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260604190900013"
+        }
+      },
+      {
+        "keyword": "일본 축구 국가대표팀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "어느새 ‘아시아 최강’ 된 일본, 이번엔 ‘단판 승부’도 웃을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604201617527"
+        }
+      },
+      {
+        "keyword": "킬리안 음바페",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "6044명 중 6043등...음바페, 상위 20개 리그 모든 선수 중 수비 지표 '꼴찌'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604145504732"
+        }
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "India VIX Falls to 15.88; Volatility Remains Range-Bound",
+          "source": "HDFC Sky",
+          "url": "https://hdfcsky.com/news/india-vix-closes-at-15-88-as-volatility-cools-amid-cautious-market-positioning"
+        }
+      },
+      {
+        "keyword": "spain vs iraq",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Preview: Spain vs Iraq - prediction, team news, lineups",
+          "source": "Sports Mole",
+          "url": "https://www.sportsmole.co.uk/football/spain/preview/spain-vs-iraq-prediction-team-news-lineups_598538.html"
+        }
+      },
+      {
+        "keyword": "전주시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[기초비례 당선인 명단] 전북",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260604065900055"
+        }
+      },
+      {
+        "keyword": "로스앤젤레스 다저스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"네 가족 죽었으면 좋겠어\", 이정후 동료 이렇게 고통받고 있었다…악성 DM 테러 고백",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260602091317276?f=p"
+        }
+      },
+      {
+        "keyword": "메이저 리그 베이스볼",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "산체스, MLB 좌투수 최장 이닝 연속 무실점 신기록",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Vgyo672u0a"
+        }
+      }
+    ]
   }
 ]
