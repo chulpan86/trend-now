@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-04T16:15:49.739367+09:00",
-  "label": "16:15",
+  "timestamp": "2026-06-04T19:54:52.078423+09:00",
+  "label": "19:54",
   "items": [
     {
-      "keyword": "박정수",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "유가증권",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“삼성전자, 몇억 벌 수 있었는데”…박정수, 주식 투자 실패담 고백",
+        "title": "\"겁없는 개미, 다 받아내\" 외인 7조 매도폭탄 '방어'...빚투 눈덩이 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/06/04/2026060415132873302"
+      }
+    },
+    {
+      "keyword": "nol 티켓",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'여름 대표 공연' 싸이흠뻑쇼, 2026 예매 돌입",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260604113901989"
+        "url": "https://v.daum.net/v/20260604150452199"
       }
     },
     {
-      "keyword": "정몽구",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"부장 된지 한달도 안됐는데요\"…정몽구 회장, \"이제부터 이사 해\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/06/04/27TR3B333ZHYXKTOYD53PFMP6I/"
-      }
-    },
-    {
-      "keyword": "전희철",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'아빠 판박이' 우지원 딸, 미스코리아 본선 진출… \"70주년 무대 영광\"",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026060217210003918"
-      }
-    },
-    {
-      "keyword": "은현장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "은현장, 김수현 측 사과에 화답…\"지금은 힘 합쳐야\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260603_0003655057"
-      }
-    },
-    {
-      "keyword": "정명근",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[화성 24시] 정명근, 화성시장 재선 성공…“180만 특례시 향한 백년대계 준비”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260604134115475"
-      }
-    },
-    {
-      "keyword": "정찰기",
+      "keyword": "시라카와",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "'KIA와 1.5억 계약' KBO 경력직 日 투수 마침내 선발 출격…\"마음껏 던져봐\" [광주 현장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604163505337"
+      }
     },
     {
-      "keyword": "국회의원 의석수",
+      "keyword": "이현중",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "농구 국가대표 에이스 이현중, NBA 샌안토니오 서머리그 참가",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260604111000007"
+      }
+    },
+    {
+      "keyword": "신부",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한동훈 웃고, 조국 울고...민주, 재보선은 판정패",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0101_202606040804401679"
+        "title": "\"UFO는 마귀 장난\"…美가톨릭, 선넘은 해석에 구마사제 해임",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260604104500009"
       }
     },
     {
-      "keyword": "일기예보",
+      "keyword": "윤보미",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[생활/날씨] 호치민시·남부 지역, 6일까지 집중호우 지속 전망",
-        "source": "굿모닝베트남미디어",
-        "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=82050"
+        "title": "윤보미, ♥라도와 결혼 후 일상 전했다..“내가 사랑하는 시간” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/06/04/HE3DOY3CMNSTQMBYMM2WKZBUGI/"
       }
     },
     {
-      "keyword": "산드로 토날리",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "전현무계획",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "맨체스터 유나이티드 파격 결단! 2050억 MF 영입 포기한다…\"엄청난 몸값에 부담 느껴\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260604n00155"
+        "title": "\"몸이 괴물됐다\"…'전현무계획3' 이시언, 곽튜브도 놀란 '테토남' 된 비결",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604091404048"
       }
     },
     {
-      "keyword": "워렌 버핏",
+      "keyword": "퀀 티넘",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "양자컴퓨팅 대장주 노리는 퀀티넘…IPO 흥행, 오늘 밤 나스닥 상장 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/06/04/2026060412294629682"
+      }
+    },
+    {
+      "keyword": "정이한",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "주주들에게 보낸 서한에서 워렌 버핏이 어떻게 '승리'했는지 밝혀졌다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/thu-gui-co-dong-tiet-lo-cach-warren-buffett-thang-doi"
+        "title": "정이한 개혁신당 후보, '기호 4번' 의미 담아 4시 44분 투표 완료",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260603173853041"
+      }
+    },
+    {
+      "keyword": "미스트롯 포유",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘미스트롯 포유’ 이소나, 장윤정 선물 새 노래 첫 선",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604085218161"
       }
     }
   ]
