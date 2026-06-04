@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03T11:48:28.080201+09:00",
-    "label": "11:48",
-    "items": [
-      {
-        "keyword": "sk실트론",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 최태원 “SK실트론 매각, 실무진이 결정” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/06/03/URWBKYYWFBB7JNW4U6DG5R5IFE/"
-        }
-      },
-      {
-        "keyword": "구속영장",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보]‘김수현 명예훼손’ 김세의 구속적부심 기각···구속 유지",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606022008001"
-        }
-      },
-      {
-        "keyword": "갓오브워 라우페이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "갓 오브 워 라우페이 심층 분석 – 산타모니카 스튜디오가 말하는 페이, 리본, 그리고 큐브의 이야기",
-          "source": "IGN Korea",
-          "url": "https://kr.ign.com/god-of-war-8/14866/gas-obeu-weo-raupei-simceung-bunseog-santamonika-seutyudioga-malhaneun-pei-ribon-geurigo-kyubeuyi-iy"
-        }
-      },
-      {
-        "keyword": "은행원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"5억 받고 나갈래요\" MZ은행원도 줄섰다…2500명 희망퇴직 러시",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260602_0003654129"
-        }
-      },
-      {
-        "keyword": "김영배",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "오세훈 \"서울시장, 실험해 볼 자리 아냐...노련한 베테랑만 감당\"",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202606030958311190&s_mcd=0101"
-        }
-      },
-      {
-        "keyword": "산림청",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"산사태 현장, 하늘에서 본다\"··· 드론 활용 피해조사 합동훈련 실시",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764933&pWise=sub&pWiseSub=C2"
-        }
-      },
-      {
-        "keyword": "이숭용",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "필승조 문승원마저 부상…고민 커지는 '12연패' SSG",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602181358987"
-        }
-      },
-      {
-        "keyword": "선거인명부",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[6·3 지방선거] \"시민과 약속 지켜달라\" 부산 투표소 대기 줄",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260603020100051"
-        }
-      },
-      {
-        "keyword": "정의당",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "정의당 경기도당, 노동자·성소수자 목소리 '기호 16번' 지지 호소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602210011824"
-        }
-      },
-      {
-        "keyword": "한국아파트신문",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-03T17:07:11.897144+09:00",
     "label": "17:07",
     "items": [
@@ -1043,6 +941,112 @@
           "title": "Battling Australia force series decider as questions grow for Pakistan",
           "source": "ESPNcricinfo",
           "url": "https://www.espncricinfo.com/series/australia-in-pakistan-2026-1535643/pakistan-vs-australia-3rd-odi-1535647/match-preview"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-05T01:44:37.163444+09:00",
+    "label": "01:44",
+    "items": [
+      {
+        "keyword": "젠슨 황 방한",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "젠슨 황, 세부 방한 일정 공개…“5일 오후 1시 김포공항 도착”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605001916156"
+        }
+      },
+      {
+        "keyword": "공매도",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'불장' 환호 뒤에 \"곧 떨어진다\" 22조 베팅…공매도 몰린 종목은? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/06/04/2026060416293667659"
+        }
+      },
+      {
+        "keyword": "녹색당",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "초유의 10선 탄생…40년간 시의원 \"또 하려니 두려워\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604143036556"
+        }
+      },
+      {
+        "keyword": "이상민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이상민, 파격 합격 선언에 부상 치료비 약속까지 했다(‘232 프로젝트’)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604111515708?f=p"
+        }
+      },
+      {
+        "keyword": "이더리움",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "비트마인, 연 9.5% 우선주 발행해 자금조달…'스트래티지 따라하기'",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418293"
+        }
+      },
+      {
+        "keyword": "유엔 안보리 상임이사국",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "독일 안보리 이사국 탈락 수모…이스라엘 편들다 미움 샀나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604181106964"
+        }
+      },
+      {
+        "keyword": "마야 흐발린스카",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "114위 예선통과자 흐발린스카, 프랑스오픈 4강…역대 2번째 이변",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260603214419471?f=p"
+        }
+      },
+      {
+        "keyword": "한수민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘박명수 아내’ 한수민, 환자에게 명품 H사 가방 선물 받아… “19년 인연”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260603231901762"
+        }
+      },
+      {
+        "keyword": "디아나 슈나이더",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Aryna Sabalenka’s quest for mastery of clay and grass courts takes another turn",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7330378/2026/06/03/aryna-sabalenka-tennis-clay-grass-french-open-wimbledon/"
+        }
+      },
+      {
+        "keyword": "닌텐도 스위치",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu"
         }
       }
     ]
