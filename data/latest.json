@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-05T08:01:22.350396+09:00",
-  "label": "08:01",
+  "timestamp": "2026-06-05T11:30:20.856434+09:00",
+  "label": "11:30",
   "items": [
     {
-      "keyword": "정성호",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "여자 메이저 골프 대회",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "“한·일전 진 꼴”…李대통령, 후임 총리 강훈식·한성숙·정성호 고심",
+        "title": "'US여자오픈=한국여자오픈'…태극낭자가 만든 명장면",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260605050237159"
+        "url": "https://v.daum.net/v/20260604170137463"
       }
     },
     {
-      "keyword": "홈플러스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "엔화",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "홈플러스, ‘영업 중단’ 37개 점포 결국 폐점 결정",
+        "title": "엔 환율, 1달 만에 다시 160엔…日 112조원 개입 효과 사라졌다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260605063912552"
+        "url": "https://v.daum.net/v/20260604163031109"
       }
     },
     {
-      "keyword": "캐나다",
+      "keyword": "잠실 투표소",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "노태악 중앙선관위원장, '투표용지 사태' 이틀 만에 대국민사과(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605110738630"
+      }
+    },
+    {
+      "keyword": "달러 환율",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "강훈식 비서실장, 한-캐나다 에너지 자원 공급망 협력 포럼 참석",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260604190900013"
+        "title": "[속보] '환율 1540원' 넘고 '천스닥' 붕괴…금융시장 공포 확산",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260605580071"
       }
     },
     {
-      "keyword": "일본 축구 국가대표팀",
+      "keyword": "브로드컴 실적",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "어느새 ‘아시아 최강’ 된 일본, 이번엔 ‘단판 승부’도 웃을까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260604201617527"
+        "title": "심상치 않은 美 반도체 투매…삼전닉스 투자 전략은?",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606058662i"
       }
     },
     {
-      "keyword": "킬리안 음바페",
+      "keyword": "lpga",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "6044명 중 6043등...음바페, 상위 20개 리그 모든 선수 중 수비 지표 '꼴찌'",
+        "title": "How to Watch the 2026 U.S. Women's Open presented by Ally",
+        "source": "LPGA",
+        "url": "https://www.lpga.com/news/2026/how-to-watch-the-2026-us-womens-open-presented-by-ally"
+      }
+    },
+    {
+      "keyword": "태극기",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "호국보훈의 달 맞아 다양한 추모 행사 개최",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8577883"
+      }
+    },
+    {
+      "keyword": "에이치엘비",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "신속통합기획",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'헌정사상 첫 5선' 오세훈 서울시장, 풀어야 할 과제 '둘'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260604145504732"
+        "url": "https://v.daum.net/v/20260605074817594"
       }
     },
     {
-      "keyword": "vix",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "India VIX Falls to 15.88; Volatility Remains Range-Bound",
-        "source": "HDFC Sky",
-        "url": "https://hdfcsky.com/news/india-vix-closes-at-15-88-as-volatility-cools-amid-cautious-market-positioning"
-      }
-    },
-    {
-      "keyword": "spain vs iraq",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Preview: Spain vs Iraq - prediction, team news, lineups",
-        "source": "Sports Mole",
-        "url": "https://www.sportsmole.co.uk/football/spain/preview/spain-vs-iraq-prediction-team-news-lineups_598538.html"
-      }
-    },
-    {
-      "keyword": "전주시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[기초비례 당선인 명단] 전북",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260604065900055"
-      }
-    },
-    {
-      "keyword": "로스앤젤레스 다저스",
+      "keyword": "브로드컴 실적발표",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"네 가족 죽었으면 좋겠어\", 이정후 동료 이렇게 고통받고 있었다…악성 DM 테러 고백",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260602091317276?f=p"
-      }
-    },
-    {
-      "keyword": "메이저 리그 베이스볼",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "산체스, MLB 좌투수 최장 이닝 연속 무실점 신기록",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Vgyo672u0a"
+        "title": "마이크론 테크놀로지 주식, 오늘 급락한 이유는?",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-93CH-1972779"
       }
     }
   ]
