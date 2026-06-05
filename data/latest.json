@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-05T11:30:20.856434+09:00",
-  "label": "11:30",
+  "timestamp": "2026-06-05T15:58:26.180753+09:00",
+  "label": "15:58",
   "items": [
     {
-      "keyword": "여자 메이저 골프 대회",
+      "keyword": "삼성",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "삼성전자, 8일부터 구매 고객에 20% 온누리상품권 환급...‘5조원 사회 기여’ 일환",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/06/05/IOLKTQRLJBHYNKXIYIJCSC3O5Q/"
+      }
+    },
+    {
+      "keyword": "새마을 금고",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'US여자오픈=한국여자오픈'…태극낭자가 만든 명장면",
+        "title": "\"주식 하겠다며 예금 깨는 어르신들\"…새마을금고, '투자 교육' 강화 시동",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260604170137463"
+        "url": "https://v.daum.net/v/20260605133901864"
       }
     },
     {
-      "keyword": "엔화",
+      "keyword": "운전",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "엔 환율, 1달 만에 다시 160엔…日 112조원 개입 효과 사라졌다",
+        "title": "고속도로 사망자 69% 급증…\"졸음·부주의 사고 늘어\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260604163031109"
+        "url": "https://v.daum.net/v/20260605135703415"
       }
     },
     {
-      "keyword": "잠실 투표소",
+      "keyword": "송언석",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "노태악 중앙선관위원장, '투표용지 사태' 이틀 만에 대국민사과(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605110738630"
+        "title": "[속보]“비굴함이 가슴에 맺혀”…눈물 보인 송언석, 원내대표 사퇴",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260605/134056094/2"
       }
     },
     {
-      "keyword": "달러 환율",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[속보] '환율 1540원' 넘고 '천스닥' 붕괴…금융시장 공포 확산",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260605580071"
-      }
-    },
-    {
-      "keyword": "브로드컴 실적",
+      "keyword": "셀트리온",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "심상치 않은 美 반도체 투매…삼전닉스 투자 전략은?",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202606058662i"
+        "title": "셀트리온, 자사주 매입 등 총 2천700억원 주식 취득 추진",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418482"
       }
     },
     {
-      "keyword": "lpga",
+      "keyword": "도지원",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "How to Watch the 2026 U.S. Women's Open presented by Ally",
-        "source": "LPGA",
-        "url": "https://www.lpga.com/news/2026/how-to-watch-the-2026-us-womens-open-presented-by-ally"
-      }
-    },
-    {
-      "keyword": "태극기",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "호국보훈의 달 맞아 다양한 추모 행사 개최",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8577883"
-      }
-    },
-    {
-      "keyword": "에이치엘비",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "신속통합기획",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'헌정사상 첫 5선' 오세훈 서울시장, 풀어야 할 과제 '둘'",
+        "title": "'미우새' 60세 도지원 \"캥거루족…나도 친언니도 결혼 안 해\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260605074817594"
+        "url": "https://v.daum.net/v/20260605105056913"
       }
     },
     {
-      "keyword": "브로드컴 실적발표",
+      "keyword": "물류신문",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "영업용 화물 번호판, 지금이 마지막 고점일까",
+        "source": "물류신문",
+        "url": "https://www.klnews.co.kr/news/articleView.html?idxno=321371"
+      }
+    },
+    {
+      "keyword": "롯데온",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "롯데온, 여름 뷰티 수요 잡는다…선케어·수분케어 할인전",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260603_0003654712"
+      }
+    },
+    {
+      "keyword": "주병기",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "마이크론 테크놀로지 주식, 오늘 급락한 이유는?",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/stock-market-news/article-93CH-1972779"
+        "title": "주병기 공정위원장 “내란 일으켜도 상관없는 맹신인가?”···지선 결과 비판 논란",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606051444021"
+      }
+    },
+    {
+      "keyword": "kbo 올스타전",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "와 '두산 10명→LG 7명→KIA 5명→삼성 2명' KBO 올스타전 실시간 1위라니... 팬 투표 휩쓰나 '화력 대단하네'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604050618493"
       }
     }
   ]
