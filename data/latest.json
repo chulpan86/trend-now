@@ -1,45 +1,55 @@
 {
-  "timestamp": "2026-06-06T03:54:02.108516+09:00",
-  "label": "03:54",
+  "timestamp": "2026-06-06T05:45:15.305152+09:00",
+  "label": "05:45",
   "items": [
+    {
+      "keyword": "더 시즌즈",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "조정석 맞아? 과거 자료화면에 \"언제 이걸 다…\" 당황, 독특한 헤어스타일 눈길 (고막남친)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606005116751"
+      }
+    },
     {
       "keyword": "6월 6일",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[오늘의 운세] 6월 5일 금요일 (음력 4월 20일) 띠별 운세",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260601580497"
+        "title": "[오늘의 운세] 2026년 6월 5일 (음 4월 20일)",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260605.99099001386"
       }
     },
     {
-      "keyword": "나스닥",
+      "keyword": "레알 마드리드 cf",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "심상치 않은 美 반도체 투매…삼전닉스 투자 전략은?",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202606058662i"
-      }
-    },
-    {
-      "keyword": "효민",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "효민, 티아라 쓰고 베트남 생일파티 \"하고픈 거 다 해\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260605_0003658016"
+        "title": "맨시티 공식발표, ‘레알 마드리드 홀란드 영입’ 주장에 “초상권 무단 사용…법적 대응 검토”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605112617567"
       }
     },
     {
       "keyword": "트렌드",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "패션 플랫폼 무신사 본사 인력 절반이 엔지니어인 까닭은",
+        "source": "뉴데일리",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/04/2026060400117.html"
+      }
+    },
+    {
+      "keyword": "비트코인 시세",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "무신사, 'AI 트렌드 큐레이션' 도입…\"검색 대신 AI가 제안\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260603085105612"
+        "title": "비트코인 한때 6만달러선 무너져…트럼프 2기 당선 후 처음",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260606003900091"
       }
     },
     {
@@ -53,53 +63,39 @@
       }
     },
     {
-      "keyword": "마커스 래시퍼드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Transfer rumors, news: Arsenal, Chelsea eye move for Rashford",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/48944857/transfer-rumors-news-barcelona-turn-kane-alvarez-deal-falls-through"
-      }
-    },
-    {
-      "keyword": "올리세",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "맨시티 공식발표, ‘레알 마드리드 홀란드 영입’ 주장에 “초상권 무단 사용…법적 대응 검토”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605112617567"
-      }
-    },
-    {
-      "keyword": "박경혜",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'나혼산' 박경혜, 유창한 영어 구사에 깜짝…\"1년 과외\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606000501382"
-      }
-    },
-    {
-      "keyword": "ioi",
+      "keyword": "고현정",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "I.O.I 'LOOP Bangkok Concert Departure!' [★Video]",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/en/music/2026/06/05/2026060516270613463"
+        "title": "고현정, 정재형과 심야 회동 포착···다정 셀카까지 \"웃다 헤어졌다\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/enter_general/2026/06/05/MYZGIMLCHE2WCMJUMIZGIYTGGY/"
       }
     },
     {
-      "keyword": "김부장",
+      "keyword": "하원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'김부장' 주상욱·손나은, 갈등과 미스터리의 주축",
+        "title": "트럼프, ‘전쟁 권한 제한’ 결의안 통과에 분노…쿠바 대통령에 제재 부과",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260604101709383"
+        "url": "https://v.daum.net/v/20260605193019456"
+      }
+    },
+    {
+      "keyword": "마카오 축구 국가대표팀",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "현충일 대체공휴일",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "6월은 연휴 없는 달…제헌절→광복절 2026년 하반기 법정공휴일·연휴 보니?",
+        "source": "TopStarNews",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16080458"
       }
     }
   ]
