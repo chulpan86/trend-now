@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-06T05:45:15.305152+09:00",
-  "label": "05:45",
+  "timestamp": "2026-06-06T07:08:58.305752+09:00",
+  "label": "07:08",
   "items": [
     {
-      "keyword": "더 시즌즈",
+      "keyword": "오세훈",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "조정석 맞아? 과거 자료화면에 \"언제 이걸 다…\" 당황, 독특한 헤어스타일 눈길 (고막남친)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606005116751"
+        "title": "텃밭에서도 구청장에 밀린 정원오…오세훈 역전승 만든 서울 ‘교차 투표’",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12301679"
       }
     },
     {
-      "keyword": "6월 6일",
+      "keyword": "tsmc",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[오늘의 운세] 2026년 6월 5일 (음 4월 20일)",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260605.99099001386"
+        "title": "TSMC Chairman: \"Semiconductor Supply to Fall Short for Years Due to AI Demand\"",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/en/article/2026060415111013517"
       }
     },
     {
-      "keyword": "레알 마드리드 cf",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "맨시티 공식발표, ‘레알 마드리드 홀란드 영입’ 주장에 “초상권 무단 사용…법적 대응 검토”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605112617567"
-      }
-    },
-    {
-      "keyword": "트렌드",
+      "keyword": "검찰",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "패션 플랫폼 무신사 본사 인력 절반이 엔지니어인 까닭은",
-        "source": "뉴데일리",
-        "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/04/2026060400117.html"
-      }
-    },
-    {
-      "keyword": "비트코인 시세",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "비트코인 한때 6만달러선 무너져…트럼프 2기 당선 후 처음",
+        "title": "서울남부지검, 관봉권 띠지 폐기 의혹 '셀프 무혐의'(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260606003900091"
+        "url": "https://www.yna.co.kr/view/AKR20260605151452004"
       }
     },
     {
-      "keyword": "고재영",
+      "keyword": "첫 번째 남자",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이효정, 오현경 친딸 인정하는 척 연기…정소영 정체 의심 시작(첫번째남자)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605195054775"
+      }
+    },
+    {
+      "keyword": "탁재훈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"혼자가 제일 좋다고 세뇌당해\"…'47세' 채연, 결혼 못 한 이유? 탁재훈 지분 주장 [RE:뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604165916357"
+      }
+    },
+    {
+      "keyword": "vix",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"친중·좌파·공산주의자 아냐\"…146만 유튜버, 화들짝 해명한 이유 - 머니투데이",
+        "title": "India VIX Closes Near 15.78 After Intraday Swing Ahead of RBI Policy As Volatility Eases from Day High",
+        "source": "HDFC Sky",
+        "url": "https://hdfcsky.com/news/india-vix-closes-near-15-78-after-intraday-swing-ahead-of-rbi-policy-as-volatility-eases-from-day-high-on-june-5-2026"
+      }
+    },
+    {
+      "keyword": "이경규",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이경규, 미국 비자 거절…28년만 '월드컵 원정응원' 못하나 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/06/04/2026060411523848837"
+        "url": "https://www.mt.co.kr/entertainment/2026/06/05/2026060517470426341"
       }
     },
     {
-      "keyword": "고현정",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "김가영",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "고현정, 정재형과 심야 회동 포착···다정 셀카까지 \"웃다 헤어졌다\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/enter_general/2026/06/05/MYZGIMLCHE2WCMJUMIZGIYTGGY/"
-      }
-    },
-    {
-      "keyword": "하원",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "트럼프, ‘전쟁 권한 제한’ 결의안 통과에 분노…쿠바 대통령에 제재 부과",
+        "title": "'당구 여제' 김가영, LPBA 역대 3위 애버리지로 32강 안착",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260605193019456"
+        "url": "https://v.daum.net/v/20260605090007398?f=p"
       }
     },
     {
-      "keyword": "마카오 축구 국가대표팀",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "현충일 대체공휴일",
+      "keyword": "qqq",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "6월은 연휴 없는 달…제헌절→광복절 2026년 하반기 법정공휴일·연휴 보니?",
-        "source": "TopStarNews",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16080458"
+        "title": "Why is Invesco QQQ stock sliding today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-stock-sliding-today-93CH-4728742"
+      }
+    },
+    {
+      "keyword": "서승재",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'韓 세계 1위' 서승재-김원호, 대만 쌍둥이 형제 '34분 만에' 2-0 완파…인도네시아 오픈 남자복식 4강행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/up5y3b8Bto"
       }
     }
   ]

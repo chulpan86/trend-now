@@ -1364,5 +1364,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-06T07:08:58.305752+09:00",
+    "label": "07:08",
+    "items": [
+      {
+        "keyword": "오세훈",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "텃밭에서도 구청장에 밀린 정원오…오세훈 역전승 만든 서울 ‘교차 투표’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12301679"
+        }
+      },
+      {
+        "keyword": "tsmc",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "TSMC Chairman: \"Semiconductor Supply to Fall Short for Years Due to AI Demand\"",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026060415111013517"
+        }
+      },
+      {
+        "keyword": "검찰",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "서울남부지검, 관봉권 띠지 폐기 의혹 '셀프 무혐의'(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260605151452004"
+        }
+      },
+      {
+        "keyword": "첫 번째 남자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이효정, 오현경 친딸 인정하는 척 연기…정소영 정체 의심 시작(첫번째남자)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605195054775"
+        }
+      },
+      {
+        "keyword": "탁재훈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"혼자가 제일 좋다고 세뇌당해\"…'47세' 채연, 결혼 못 한 이유? 탁재훈 지분 주장 [RE:뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604165916357"
+        }
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "India VIX Closes Near 15.78 After Intraday Swing Ahead of RBI Policy As Volatility Eases from Day High",
+          "source": "HDFC Sky",
+          "url": "https://hdfcsky.com/news/india-vix-closes-near-15-78-after-intraday-swing-ahead-of-rbi-policy-as-volatility-eases-from-day-high-on-june-5-2026"
+        }
+      },
+      {
+        "keyword": "이경규",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이경규, 미국 비자 거절…28년만 '월드컵 원정응원' 못하나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/05/2026060517470426341"
+        }
+      },
+      {
+        "keyword": "김가영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'당구 여제' 김가영, LPBA 역대 3위 애버리지로 32강 안착",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605090007398?f=p"
+        }
+      },
+      {
+        "keyword": "qqq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Why is Invesco QQQ stock sliding today?",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-stock-sliding-today-93CH-4728742"
+        }
+      },
+      {
+        "keyword": "서승재",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'韓 세계 1위' 서승재-김원호, 대만 쌍둥이 형제 '34분 만에' 2-0 완파…인도네시아 오픈 남자복식 4강행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/up5y3b8Bto"
+        }
+      }
+    ]
   }
 ]
