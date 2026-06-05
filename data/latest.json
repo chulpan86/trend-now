@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-05T22:48:14.000746+09:00",
-  "label": "22:48",
+  "timestamp": "2026-06-06T01:25:22.415383+09:00",
+  "label": "01:25",
   "items": [
     {
-      "keyword": "총경",
+      "keyword": "아이오아이",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "조정석, 신곡 무대 첫 공개 “거미 만나고 이런 느낌 받아”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605142620755"
+      }
+    },
+    {
+      "keyword": "6월 6일",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[오늘의 운세] 6월 5일 금요일 (음력 4월 20일) 띠별 운세",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260601580497"
+      }
+    },
+    {
+      "keyword": "나스닥",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "경찰청, 총경 448명 인사…'총경회의' 출신 전진 배치",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260605135700004"
+        "title": "심상치 않은 美 반도체 투매…삼전닉스 투자 전략은?",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606058662i"
       }
     },
     {
-      "keyword": "서대구역",
+      "keyword": "효민",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[6·3 지선] 국민의힘 권오상, 대구 서구청장 당선 확정",
+        "title": "효민, 티아라 쓰고 베트남 생일파티 \"하고픈 거 다 해\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260605_0003658016"
+      }
+    },
+    {
+      "keyword": "전주 한옥마을",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "전주시, 야간관광 콘텐츠 '심야극장' 본격 운영",
         "source": "Daum",
-        "url": "https://v.daum.net/v/Z1z1EokLGI"
+        "url": "https://v.daum.net/v/20260605123251591"
       }
     },
     {
-      "keyword": "로버트슨",
+      "keyword": "올리세",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"초비상!\" 토트넘 영입전 '빨간불'…첼시-리버풀 관심 '7000만 파운드' 브라이턴 스타 '입찰 실패'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/06/05/MYYDMYZUGZQTKNLGGI2DQMJTMQ/"
+        "title": "맨시티 공식발표, ‘레알 마드리드 홀란드 영입’ 주장에 “초상권 무단 사용…법적 대응 검토”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605112617567"
       }
     },
     {
-      "keyword": "티빙 개인 정보",
+      "keyword": "박경혜",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독]티빙 해킹범 DB 침입 확인…\"단순 개인정보 유출 아냐\"",
+        "title": "'나혼산' 박경혜, 유창한 영어 구사에 깜짝…\"1년 과외\"",
         "source": "뉴스1",
-        "url": "https://www.news1.kr/it-science/security-hacking/6188554"
+        "url": "https://www.news1.kr/entertain/broadcast-tv/6189190"
       }
     },
     {
-      "keyword": "거제",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "경남 거제·진주, ‘3선 시장’...거제 변광용, 진주 조규일 당선",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1Fv9D9PKyo"
-      }
-    },
-    {
-      "keyword": "비례대표제",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "모건 깁스화이트",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "What is Morgan Gibbs White doing after his England disappointment? Britney De Villiers shares the answer",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/sports/international-sports/beyond-the-game/what-is-morgan-gibbs-white-doing-after-his-england-disappointment-britney-de-villiers-shares-the-answer/articleshow/131518635.cms"
-      }
-    },
-    {
-      "keyword": "k리그2",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "K리그2 수원, 임대 골키퍼 김준홍 완전 영입",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260604199300007"
-      }
-    },
-    {
-      "keyword": "하트시그널 김지민",
+      "keyword": "ioi",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'하시4' 김지민, 2천만원 시계 몰래 산 ♥남친에 서운 \"사는 과정 공유 안 해\"",
+        "title": "I.O.I 'LOOP Bangkok Concert Departure!' [★Video]",
         "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/star/2026/06/05/2026060509585657182"
+        "url": "https://www.starnewskorea.com/en/music/2026/06/05/2026060516270613463"
       }
     },
     {
-      "keyword": "케이",
+      "keyword": "김부장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Most K-12 teachers say AI's impact on education will eclipse the internet or computers",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/05/nx-s1-5779757/school-ai-education-students-teachers-poll-critical-thinking"
+        "title": "'김부장' 주상욱·손나은, 갈등과 미스터리의 주축",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604101709383"
+      }
+    },
+    {
+      "keyword": "세계의 주인",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[잇슈 컬처] ‘왕사남’·‘어쩔수가없다’ 중국 영화제 초청…일본 영화는 자취 감춰",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605070120831"
       }
     }
   ]
