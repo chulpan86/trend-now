@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-06-06T01:25:22.415383+09:00",
-  "label": "01:25",
+  "timestamp": "2026-06-06T03:54:02.108516+09:00",
+  "label": "03:54",
   "items": [
-    {
-      "keyword": "아이오아이",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "조정석, 신곡 무대 첫 공개 “거미 만나고 이런 느낌 받아”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605142620755"
-      }
-    },
     {
       "keyword": "6월 6일",
       "traffic_raw": "2000+",
@@ -43,13 +33,33 @@
       }
     },
     {
-      "keyword": "전주 한옥마을",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "트렌드",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "전주시, 야간관광 콘텐츠 '심야극장' 본격 운영",
+        "title": "무신사, 'AI 트렌드 큐레이션' 도입…\"검색 대신 AI가 제안\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260605123251591"
+        "url": "https://v.daum.net/v/20260603085105612"
+      }
+    },
+    {
+      "keyword": "고재영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"친중·좌파·공산주의자 아냐\"…146만 유튜버, 화들짝 해명한 이유 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/06/04/2026060411523848837"
+      }
+    },
+    {
+      "keyword": "마커스 래시퍼드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Transfer rumors, news: Arsenal, Chelsea eye move for Rashford",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/48944857/transfer-rumors-news-barcelona-turn-kane-alvarez-deal-falls-through"
       }
     },
     {
@@ -68,8 +78,8 @@
       "traffic": 200,
       "news": {
         "title": "'나혼산' 박경혜, 유창한 영어 구사에 깜짝…\"1년 과외\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/6189190"
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606000501382"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "'김부장' 주상욱·손나은, 갈등과 미스터리의 주축",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260604101709383"
-      }
-    },
-    {
-      "keyword": "세계의 주인",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[잇슈 컬처] ‘왕사남’·‘어쩔수가없다’ 중국 영화제 초청…일본 영화는 자취 감춰",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605070120831"
       }
     }
   ]

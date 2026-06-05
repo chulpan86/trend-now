@@ -1258,5 +1258,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-06T03:54:02.108516+09:00",
+    "label": "03:54",
+    "items": [
+      {
+        "keyword": "6월 6일",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[오늘의 운세] 6월 5일 금요일 (음력 4월 20일) 띠별 운세",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260601580497"
+        }
+      },
+      {
+        "keyword": "나스닥",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "심상치 않은 美 반도체 투매…삼전닉스 투자 전략은?",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202606058662i"
+        }
+      },
+      {
+        "keyword": "효민",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "효민, 티아라 쓰고 베트남 생일파티 \"하고픈 거 다 해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260605_0003658016"
+        }
+      },
+      {
+        "keyword": "트렌드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "무신사, 'AI 트렌드 큐레이션' 도입…\"검색 대신 AI가 제안\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260603085105612"
+        }
+      },
+      {
+        "keyword": "고재영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"친중·좌파·공산주의자 아냐\"…146만 유튜버, 화들짝 해명한 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/06/04/2026060411523848837"
+        }
+      },
+      {
+        "keyword": "마커스 래시퍼드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Transfer rumors, news: Arsenal, Chelsea eye move for Rashford",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/48944857/transfer-rumors-news-barcelona-turn-kane-alvarez-deal-falls-through"
+        }
+      },
+      {
+        "keyword": "올리세",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "맨시티 공식발표, ‘레알 마드리드 홀란드 영입’ 주장에 “초상권 무단 사용…법적 대응 검토”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605112617567"
+        }
+      },
+      {
+        "keyword": "박경혜",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'나혼산' 박경혜, 유창한 영어 구사에 깜짝…\"1년 과외\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606000501382"
+        }
+      },
+      {
+        "keyword": "ioi",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "I.O.I 'LOOP Bangkok Concert Departure!' [★Video]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/music/2026/06/05/2026060516270613463"
+        }
+      },
+      {
+        "keyword": "김부장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'김부장' 주상욱·손나은, 갈등과 미스터리의 주축",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604101709383"
+        }
+      }
+    ]
   }
 ]
