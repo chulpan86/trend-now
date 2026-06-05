@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04T08:26:41.530605+09:00",
-    "label": "08:26",
-    "items": [
-      {
-        "keyword": "날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "예년 수준 더위 이어지는 가운데 전국 소나기…'우박' 주의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604081156056"
-        }
-      },
-      {
-        "keyword": "weather",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "Weather Extra: Assessing rain, heat potentials",
-          "source": "WSAZ",
-          "url": "https://www.wsaz.com/2026/06/03/weather-extra-assessing-rain-heat-potentials/"
-        }
-      },
-      {
-        "keyword": "김태현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "미열에 쉬던 김태현도 가세…26인 태극전사 처음으로 전원 훈련",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260603018600007"
-        }
-      },
-      {
-        "keyword": "대전 교육감",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "미디어대전 모바일 사이트, 대전시교육감에 오석진 후보 당선 확실",
-          "source": "교차로저널",
-          "url": "http://www.mediadj.kr/news/articleView.html?idxno=54054"
-        }
-      },
-      {
-        "keyword": "남편",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한다감 \"50살 전 셋째까지 욕심…기네스북 도전\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060407185020653"
-        }
-      },
-      {
-        "keyword": "김해시장",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘노무현의 고향’ 김해, 민주당 품으로…정영두 후보 당선",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20051585"
-        }
-      },
-      {
-        "keyword": "rgti",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Rigetti Computing CTO David Rivas sells $12.68m in NASDAQ:RGTI stock",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/insider-trading-news/rigetti-computing-cto-david-rivas-sells-1268m-in-nasdaqrgti-stock-93CH-4720244"
-        }
-      },
-      {
-        "keyword": "오산시장",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[6·3 지선] 조용호 오산시장 당선인 \"5대 가치로 오산 미래 열 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260604026800061"
-        }
-      },
-      {
-        "keyword": "김포시장",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이기형 김포시장 당선인 “시민 신뢰, 김포대도약 성과로 보답하겠다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604004602201"
-        }
-      },
-      {
-        "keyword": "천안시장",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[인터뷰] 장기수 천안시장 당선인 \"천안 대전환 시작\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604062604891"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-04T11:43:49.293286+09:00",
     "label": "11:43",
     "items": [
@@ -1255,6 +1149,108 @@
           "title": "[테크스냅] SKB '서울국제환경영화제' B tv 특집관",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260605049900017"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-05T22:48:14.000746+09:00",
+    "label": "22:48",
+    "items": [
+      {
+        "keyword": "총경",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "경찰청, 총경 448명 인사…'총경회의' 출신 전진 배치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260605135700004"
+        }
+      },
+      {
+        "keyword": "서대구역",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[6·3 지선] 국민의힘 권오상, 대구 서구청장 당선 확정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Z1z1EokLGI"
+        }
+      },
+      {
+        "keyword": "로버트슨",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"초비상!\" 토트넘 영입전 '빨간불'…첼시-리버풀 관심 '7000만 파운드' 브라이턴 스타 '입찰 실패'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/06/05/MYYDMYZUGZQTKNLGGI2DQMJTMQ/"
+        }
+      },
+      {
+        "keyword": "티빙 개인 정보",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]티빙 해킹범 DB 침입 확인…\"단순 개인정보 유출 아냐\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/security-hacking/6188554"
+        }
+      },
+      {
+        "keyword": "거제",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경남 거제·진주, ‘3선 시장’...거제 변광용, 진주 조규일 당선",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1Fv9D9PKyo"
+        }
+      },
+      {
+        "keyword": "비례대표제",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "모건 깁스화이트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "What is Morgan Gibbs White doing after his England disappointment? Britney De Villiers shares the answer",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/beyond-the-game/what-is-morgan-gibbs-white-doing-after-his-england-disappointment-britney-de-villiers-shares-the-answer/articleshow/131518635.cms"
+        }
+      },
+      {
+        "keyword": "k리그2",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "K리그2 수원, 임대 골키퍼 김준홍 완전 영입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260604199300007"
+        }
+      },
+      {
+        "keyword": "하트시그널 김지민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'하시4' 김지민, 2천만원 시계 몰래 산 ♥남친에 서운 \"사는 과정 공유 안 해\"",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/06/05/2026060509585657182"
+        }
+      },
+      {
+        "keyword": "케이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Most K-12 teachers say AI's impact on education will eclipse the internet or computers",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/06/05/nx-s1-5779757/school-ai-education-students-teachers-poll-critical-thinking"
         }
       }
     ]

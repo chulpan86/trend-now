@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-05T19:46:41.300696+09:00",
-  "label": "19:46",
+  "timestamp": "2026-06-05T22:48:14.000746+09:00",
+  "label": "22:48",
   "items": [
     {
-      "keyword": "lg",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "(LEAD) Nvidia's Jensen Huang sees robotics as next major sector for S. Korea",
-        "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20260605007551320?section=k-biz/index"
-      }
-    },
-    {
-      "keyword": "참교육 드라마",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"복싱한 진기주, 표지훈 때리다가…\" 김무열이 전한 '참교육'[현장EN:]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605173000657"
-      }
-    },
-    {
-      "keyword": "키움 대 두산",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "한화가 왜 버렸냐고 했는데, 4⅓이닝 7실점 충격 난조→또 2군행 통보받다 “초반 피칭 내용 안 보여” [오!쎈 잠실] - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/baseball/2026/06/05/GA3DIZDCMZSDIZLBGY3TSZBZMQ/"
-      }
-    },
-    {
-      "keyword": "kt 대 ssg",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'672일 만의 4안타' SSG 최정 \"연패 기간 오히려 멘털 강해져\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260604198900007"
-      }
-    },
-    {
-      "keyword": "부산 대 충남 아산 fc",
+      "keyword": "총경",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "충남아산이 믿고 키운 2007년생 '뉴 에이스' 박시후, K리그 준프로→유럽 루트 이어받나 '포르투갈 리그 러브콜'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/06/04/MU3GGMTFMFRTMMTFHEYDSNTDGM/"
+        "title": "경찰청, 총경 448명 인사…'총경회의' 출신 전진 배치",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260605135700004"
       }
     },
     {
-      "keyword": "혜은이",
+      "keyword": "서대구역",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"전부 다 잃었지만\"…혜은이, 故 김자옥도 말린 결혼 강행→두 차례 이혼 끝 '진짜 속내' [RE:뷰]",
+        "title": "[6·3 지선] 국민의힘 권오상, 대구 서구청장 당선 확정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260605121153242"
+        "url": "https://v.daum.net/v/Z1z1EokLGI"
       }
     },
     {
-      "keyword": "최화정",
+      "keyword": "로버트슨",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "65세 최화정, 10년 전 원피스도 거뜬…\"뒤태 나오지?\" 세월 비껴간 미모",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605123504660"
+        "title": "\"초비상!\" 토트넘 영입전 '빨간불'…첼시-리버풀 관심 '7000만 파운드' 브라이턴 스타 '입찰 실패'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/06/05/MYYDMYZUGZQTKNLGGI2DQMJTMQ/"
       }
     },
     {
-      "keyword": "주한 미국 대사",
+      "keyword": "티빙 개인 정보",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이재명 정부가 반미?‥전 주한미대사들 \"동의 못 해\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6827975_36967.html"
+        "title": "[단독]티빙 해킹범 DB 침입 확인…\"단순 개인정보 유출 아냐\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/it-science/security-hacking/6188554"
       }
     },
     {
-      "keyword": "젠슨황 시구",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "거제",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "두산베어스 시구하는 젠슨 황…그가 두산그룹을 선택한 이유",
+        "title": "경남 거제·진주, ‘3선 시장’...거제 변광용, 진주 조규일 당선",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260605101738595"
+        "url": "https://v.daum.net/v/1Fv9D9PKyo"
       }
     },
     {
-      "keyword": "갈소원",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "비례대표제",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "모건 깁스화이트",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[테크스냅] SKB '서울국제환경영화제' B tv 특집관",
+        "title": "What is Morgan Gibbs White doing after his England disappointment? Britney De Villiers shares the answer",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/international-sports/beyond-the-game/what-is-morgan-gibbs-white-doing-after-his-england-disappointment-britney-de-villiers-shares-the-answer/articleshow/131518635.cms"
+      }
+    },
+    {
+      "keyword": "k리그2",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "K리그2 수원, 임대 골키퍼 김준홍 완전 영입",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260605049900017"
+        "url": "https://www.yna.co.kr/view/AKR20260604199300007"
+      }
+    },
+    {
+      "keyword": "하트시그널 김지민",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'하시4' 김지민, 2천만원 시계 몰래 산 ♥남친에 서운 \"사는 과정 공유 안 해\"",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/star/2026/06/05/2026060509585657182"
+      }
+    },
+    {
+      "keyword": "케이",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Most K-12 teachers say AI's impact on education will eclipse the internet or computers",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/06/05/nx-s1-5779757/school-ai-education-students-teachers-poll-critical-thinking"
       }
     }
   ]
