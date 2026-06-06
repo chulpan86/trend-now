@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05T11:30:20.856434+09:00",
-    "label": "11:30",
-    "items": [
-      {
-        "keyword": "여자 메이저 골프 대회",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'US여자오픈=한국여자오픈'…태극낭자가 만든 명장면",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604170137463"
-        }
-      },
-      {
-        "keyword": "엔화",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "엔 환율, 1달 만에 다시 160엔…日 112조원 개입 효과 사라졌다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604163031109"
-        }
-      },
-      {
-        "keyword": "잠실 투표소",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "노태악 중앙선관위원장, '투표용지 사태' 이틀 만에 대국민사과(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605110738630"
-        }
-      },
-      {
-        "keyword": "달러 환율",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보] '환율 1540원' 넘고 '천스닥' 붕괴…금융시장 공포 확산",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260605580071"
-        }
-      },
-      {
-        "keyword": "브로드컴 실적",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "심상치 않은 美 반도체 투매…삼전닉스 투자 전략은?",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202606058662i"
-        }
-      },
-      {
-        "keyword": "lpga",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "How to Watch the 2026 U.S. Women's Open presented by Ally",
-          "source": "LPGA",
-          "url": "https://www.lpga.com/news/2026/how-to-watch-the-2026-us-womens-open-presented-by-ally"
-        }
-      },
-      {
-        "keyword": "태극기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "호국보훈의 달 맞아 다양한 추모 행사 개최",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8577883"
-        }
-      },
-      {
-        "keyword": "에이치엘비",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "신속통합기획",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'헌정사상 첫 5선' 오세훈 서울시장, 풀어야 할 과제 '둘'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605074817594"
-        }
-      },
-      {
-        "keyword": "브로드컴 실적발표",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "마이크론 테크놀로지 주식, 오늘 급락한 이유는?",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-1972779"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-05T15:58:26.180753+09:00",
     "label": "15:58",
     "items": [
@@ -1459,6 +1357,112 @@
           "title": "5선 오세훈 ‘명태균 리스크’는 여전···6개월 만에 시장직 잃을 수도",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202606051638001"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-07T00:05:59.413001+09:00",
+    "label": "00:05",
+    "items": [
+      {
+        "keyword": "시가총액",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606153501349"
+        }
+      },
+      {
+        "keyword": "성동구청장.",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606172901962"
+        }
+      },
+      {
+        "keyword": "결혼식",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "축의금 18만원 냈는데 식은 햄버거가 전부…\"결혼식서 장사하냐\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606120802420"
+        }
+      },
+      {
+        "keyword": "최욱",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[풀영상] 2026 지방선거 충북 개표방송 - 2차",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231"
+        }
+      },
+      {
+        "keyword": "양민혁",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "손흥민 엄중 경고 \"여기 양민혁 같은 선수 많다\" 끝내 현실로…EPL 데뷔 기약 없다→\"YANG 1군 진입? 아직 부족해, 임대 가능성\" 유력지 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606150153999"
+        }
+      },
+      {
+        "keyword": "두코바니",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "체코 원전 韓보조금 의혹 털었다…두코바니 사업 정상궤도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606181251502"
+        }
+      },
+      {
+        "keyword": "상장지수펀드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "스페이스X 올라탈 ‘원픽 ETF’…단타야? 장투야? 전략 짜줬다 [스페이스X 카운트다운⑤]",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25433276"
+        }
+      },
+      {
+        "keyword": "마야 흐발린스카",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"호텔비 상금 타서 나중에 낼게요\" 세계 114위, 프랑스오픈 결승 갔다...라두카누급 기적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606124957788"
+        }
+      },
+      {
+        "keyword": "국립 발레단 단장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "국립발레단장에 李 사람? 단원들이 들고 일어났다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/performance-arts/2026/06/06/K2M2X3V32FF3LOCWHUCMB4LBOA/"
+        }
+      },
+      {
+        "keyword": "lpl",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Bin fined nearly €20,000 for failing to greet fans",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/articles/bin-fined-nearly-eur20-000-for-refusing-to-greet-fans/en"
         }
       }
     ]

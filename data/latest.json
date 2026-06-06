@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-06T22:08:07.472689+09:00",
-  "label": "22:08",
+  "timestamp": "2026-06-07T00:05:59.413001+09:00",
+  "label": "00:05",
   "items": [
     {
-      "keyword": "내일 날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "시가총액",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "[날씨] 내일 중부·남부 비…전국 하늘 '흐림'",
+        "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260606210011363"
+        "url": "https://v.daum.net/v/20260606153501349"
       }
     },
     {
-      "keyword": "thời tiết ngày mai",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "성동구청장.",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "Dự báo thời tiết tỉnh An Giang ngày 29/05/2026",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/du-bao-thoi-tiet-tinh-an-giang-ngay-29-05-2026"
+        "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606172901962"
       }
     },
     {
-      "keyword": "강동구",
+      "keyword": "결혼식",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "축의금 18만원 냈는데 식은 햄버거가 전부…\"결혼식서 장사하냐\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606120802420"
+      }
+    },
+    {
+      "keyword": "최욱",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "李대통령, 강동구 전통시장 '깜짝방문'…상인들 \"내일도 오시라\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260606039100001"
+        "title": "[풀영상] 2026 지방선거 충북 개표방송 - 2차",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231"
       }
     },
     {
-      "keyword": "cuaca besok",
+      "keyword": "양민혁",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Prakiraan Cuaca Sulsel 7 Juni 2026, Waspada Angin Kencang di Wilayah Selatan",
-        "source": "RRI.co.id",
-        "url": "https://rri.co.id/makassar/regional/2473536/prakiraan-cuaca-sulsel-7-juni-2026-waspada-angin-kencang-di-wilayah-selatan"
-      }
-    },
-    {
-      "keyword": "로또 1227 회 당첨 번호",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "1227회 로또 1등 11명…당첨금 각 26억7천만원(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260606048300002"
-      }
-    },
-    {
-      "keyword": "수원삼성",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'일류첸코 극장골' 수원, 화성에 2-1 짜릿한 역전승... '차두리호' 화성, 9경기 만에 패배 [화성 현장리뷰] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/06/06/2026060617535797403"
-      }
-    },
-    {
-      "keyword": "다영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "불교",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "호국영령 기리는 '태고종 영산재'…무형유산 가치도 재조명",
-        "source": "BBS불교방송",
-        "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4087695"
-      }
-    },
-    {
-      "keyword": "권상우",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"싸운거 아냐\"..권상우·17살 꽃미남 子, 말 한마디 안하는 어색한 관계",
+        "title": "손흥민 엄중 경고 \"여기 양민혁 같은 선수 많다\" 끝내 현실로…EPL 데뷔 기약 없다→\"YANG 1군 진입? 아직 부족해, 임대 가능성\" 유력지 전망",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260606142422606"
+        "url": "https://v.daum.net/v/20260606150153999"
       }
     },
     {
-      "keyword": "명태균",
+      "keyword": "두코바니",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "체코 원전 韓보조금 의혹 털었다…두코바니 사업 정상궤도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606181251502"
+      }
+    },
+    {
+      "keyword": "상장지수펀드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "스페이스X 올라탈 ‘원픽 ETF’…단타야? 장투야? 전략 짜줬다 [스페이스X 카운트다운⑤]",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25433276"
+      }
+    },
+    {
+      "keyword": "마야 흐발린스카",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"호텔비 상금 타서 나중에 낼게요\" 세계 114위, 프랑스오픈 결승 갔다...라두카누급 기적",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606124957788"
+      }
+    },
+    {
+      "keyword": "국립 발레단 단장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "5선 오세훈 ‘명태균 리스크’는 여전···6개월 만에 시장직 잃을 수도",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606051638001"
+        "title": "국립발레단장에 李 사람? 단원들이 들고 일어났다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/performance-arts/2026/06/06/K2M2X3V32FF3LOCWHUCMB4LBOA/"
+      }
+    },
+    {
+      "keyword": "lpl",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Bin fined nearly €20,000 for failing to greet fans",
+        "source": "Sheep Esports",
+        "url": "https://www.sheepesports.com/articles/bin-fined-nearly-eur20-000-for-refusing-to-greet-fans/en"
       }
     }
   ]
