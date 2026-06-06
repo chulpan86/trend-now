@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-07T00:05:59.413001+09:00",
-  "label": "00:05",
+  "timestamp": "2026-06-07T01:59:16.014932+09:00",
+  "label": "01:59",
   "items": [
     {
       "keyword": "시가총액",
@@ -13,73 +13,83 @@
       }
     },
     {
-      "keyword": "성동구청장.",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606172901962"
-      }
-    },
-    {
-      "keyword": "결혼식",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "축의금 18만원 냈는데 식은 햄버거가 전부…\"결혼식서 장사하냐\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606120802420"
-      }
-    },
-    {
-      "keyword": "최욱",
+      "keyword": "김지원",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[풀영상] 2026 지방선거 충북 개표방송 - 2차",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231"
+        "title": "파격 단발 근황..김지원, 긴머리 싹둑 잘랐다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605181316077"
       }
     },
     {
-      "keyword": "양민혁",
+      "keyword": "모스 탄",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "손흥민 엄중 경고 \"여기 양민혁 같은 선수 많다\" 끝내 현실로…EPL 데뷔 기약 없다→\"YANG 1군 진입? 아직 부족해, 임대 가능성\" 유력지 전망",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606150153999"
+        "title": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/society_general/1262225.html"
       }
     },
     {
-      "keyword": "두코바니",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "김광진",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "체코 원전 韓보조금 의혹 털었다…두코바니 사업 정상궤도",
+        "title": "김광진, 닮은꼴 스타 라인업 \"이광수→빽가 닮았다고\" [전참시][별별TV]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260606181251502"
+        "url": "https://v.daum.net/v/20260606233916956"
       }
     },
     {
-      "keyword": "상장지수펀드",
+      "keyword": "f1",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "스페이스X 올라탈 ‘원픽 ETF’…단타야? 장투야? 전략 짜줬다 [스페이스X 카운트다운⑤]",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/article/25433276"
+        "title": "F1 qualifying LIVE: Monaco Grand Prix 2026 times, results, radio & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/formula1/live/c7vq3v8zgpjt"
       }
     },
     {
-      "keyword": "마야 흐발린스카",
+      "keyword": "케빈 더 브라위너",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"호텔비 상금 타서 나중에 낼게요\" 세계 114위, 프랑스오픈 결승 갔다...라두카누급 기적",
+        "title": "'손흥민 득점왕 은사' 콘테, 나폴리와 결별 확정...KDB 작심발언 \"떠나서 기쁘다, 팀에 남을 필요 없는 사람\" [공식발표]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260606124957788"
+        "url": "https://v.daum.net/v/20260605133909874"
+      }
+    },
+    {
+      "keyword": "우크라이나 대통령",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"北도움 없이는 못 버텨\"…푸틴 긁은 젤렌스키, 내부분열 노렸나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606180155325"
+      }
+    },
+    {
+      "keyword": "모나코 그랑프리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "1000번째 GP 기념일에 먹구름...맥라렌, 모나코 연습주행서 고전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/6n5kPegREW"
+      }
+    },
+    {
+      "keyword": "서울지하철",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"밤새 놀던 서울, 달라졌다\"…자정 넘어 지하철 타는 사람 왜 줄었나 봤더니",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605101500458"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "국립발레단장에 李 사람? 단원들이 들고 일어났다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/culture-life/performance-arts/2026/06/06/K2M2X3V32FF3LOCWHUCMB4LBOA/"
-      }
-    },
-    {
-      "keyword": "lpl",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Bin fined nearly €20,000 for failing to greet fans",
-        "source": "Sheep Esports",
-        "url": "https://www.sheepesports.com/articles/bin-fined-nearly-eur20-000-for-refusing-to-greet-fans/en"
+        "title": "국립발레단장 인선 논란에 문체부 장관 \"허황된 뜬소문\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260607005101391"
       }
     }
   ]
