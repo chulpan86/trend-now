@@ -1572,5 +1572,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-07T03:07:35.466077+09:00",
+    "label": "03:07",
+    "items": [
+      {
+        "keyword": "시가총액",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606153501349"
+        }
+      },
+      {
+        "keyword": "김지원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "파격 단발 근황..김지원, 긴머리 싹둑 잘랐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605181316077"
+        }
+      },
+      {
+        "keyword": "모스 탄",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1262225.html"
+        }
+      },
+      {
+        "keyword": "김광진",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김광진, 닮은꼴 스타 라인업 \"이광수→빽가 닮았다고\" [전참시][별별TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606233916956"
+        }
+      },
+      {
+        "keyword": "하트시그널5",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘하시5’ 이 한 장에 담겼다, 8인의 러브라인",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606060822003"
+        }
+      },
+      {
+        "keyword": "우크라이나 대통령",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"北도움 없이는 못 버텨\"…푸틴 긁은 젤렌스키, 내부분열 노렸나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606180155325"
+        }
+      },
+      {
+        "keyword": "f1",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "F1 qualifying LIVE: Monaco Grand Prix 2026 times, results, radio & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/formula1/live/c7vq3v8zgpjt"
+        }
+      },
+      {
+        "keyword": "서울지하철",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"밤새 놀던 서울, 달라졌다\"…자정 넘어 지하철 타는 사람 왜 줄었나 봤더니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605101500458"
+        }
+      },
+      {
+        "keyword": "케빈 더 브라위너",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'손흥민 득점왕 은사' 콘테, 나폴리와 결별 확정...KDB 작심발언 \"떠나서 기쁘다, 팀에 남을 필요 없는 사람\" [공식발표]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605133909874"
+        }
+      },
+      {
+        "keyword": "모나코 그랑프리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "1000번째 GP 기념일에 먹구름...맥라렌, 모나코 연습주행서 고전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6n5kPegREW"
+        }
+      }
+    ]
   }
 ]

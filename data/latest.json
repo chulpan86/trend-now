@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-07T01:59:16.014932+09:00",
-  "label": "01:59",
+  "timestamp": "2026-06-07T03:07:35.466077+09:00",
+  "label": "03:07",
   "items": [
     {
       "keyword": "시가총액",
@@ -43,6 +43,26 @@
       }
     },
     {
+      "keyword": "하트시그널5",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘하시5’ 이 한 장에 담겼다, 8인의 러브라인",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202606060822003"
+      }
+    },
+    {
+      "keyword": "우크라이나 대통령",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"北도움 없이는 못 버텨\"…푸틴 긁은 젤렌스키, 내부분열 노렸나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606180155325"
+      }
+    },
+    {
       "keyword": "f1",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -50,6 +70,16 @@
         "title": "F1 qualifying LIVE: Monaco Grand Prix 2026 times, results, radio & updates",
         "source": "BBC",
         "url": "https://www.bbc.com/sport/formula1/live/c7vq3v8zgpjt"
+      }
+    },
+    {
+      "keyword": "서울지하철",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"밤새 놀던 서울, 달라졌다\"…자정 넘어 지하철 타는 사람 왜 줄었나 봤더니",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605101500458"
       }
     },
     {
@@ -63,16 +93,6 @@
       }
     },
     {
-      "keyword": "우크라이나 대통령",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"北도움 없이는 못 버텨\"…푸틴 긁은 젤렌스키, 내부분열 노렸나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606180155325"
-      }
-    },
-    {
       "keyword": "모나코 그랑프리",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -80,26 +100,6 @@
         "title": "1000번째 GP 기념일에 먹구름...맥라렌, 모나코 연습주행서 고전",
         "source": "Daum",
         "url": "https://v.daum.net/v/6n5kPegREW"
-      }
-    },
-    {
-      "keyword": "서울지하철",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"밤새 놀던 서울, 달라졌다\"…자정 넘어 지하철 타는 사람 왜 줄었나 봤더니",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605101500458"
-      }
-    },
-    {
-      "keyword": "국립 발레단 단장",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "국립발레단장 인선 논란에 문체부 장관 \"허황된 뜬소문\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260607005101391"
       }
     }
   ]
