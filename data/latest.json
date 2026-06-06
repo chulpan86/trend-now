@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-06T15:46:48.918816+09:00",
-  "label": "15:46",
+  "timestamp": "2026-06-06T18:18:24.158272+09:00",
+  "label": "18:18",
   "items": [
     {
-      "keyword": "연합뉴스",
+      "keyword": "코스피",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "김용범 \"코스피 8000·환율 1550원 낯선 과제들\"",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418601"
+      }
+    },
+    {
+      "keyword": "왕즈이",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "김용 \"지선 결과, 역사적 퇴행…지도부가 전략 실패 책임져야\"",
+        "title": "韓 배드민턴 돌풍 멈췄다…'日 안세영' 야마구치 벽 높았다→세계 26위 심유진, 인도네시아오픈 4강전서 완패, 세계 2·9위 잡고도 결승행 좌절",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260606153302342"
+        "url": "https://v.daum.net/v/20260606145115884"
       }
     },
     {
-      "keyword": "고윤정",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "고윤정, 꾸밈없는 일상도 화보…유럽 여행 근황 공개 [MD★스타]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6pvPNZpXsL"
-      }
+      "keyword": "포스트 말론",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
-      "keyword": "경찰서",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "폐점 홈플러스 건물이 경찰서로…수원영통서 11월 임시청사 이전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zqTVrjrN5Z"
-      }
-    },
-    {
-      "keyword": "스페이스x 청약",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“테슬라 놓친 투자자들 몰렸다”…스페이스X, 상장 전부터 광풍[주형연의 에구MONEY]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606063115340"
-      }
-    },
-    {
-      "keyword": "박준현",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "학폭 의혹에도, “아시안게임 대표팀 뽑아줬으면” 감독 왜 158km 박준현 홍보 나섰나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZNEeRlGhSf"
-      }
-    },
-    {
-      "keyword": "백상아리",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "카페 수조에 멸종위기종 백상아리가…“보호하려 사왔다가 방류”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260606/134060822/2"
-      }
-    },
-    {
-      "keyword": "u.s. 여자 오픈 챔피언십",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "전인지 2라운드 1타차 3위...새 스윙으로 11년만의 US여자오픈 우승 도전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/FA8yJEIk5S"
-      }
-    },
-    {
-      "keyword": "한국은행",
+      "keyword": "조현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한은 부총재보에 이지호·김제현 국장…신현송 첫 인사",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260605102400002"
+        "title": "피단, 高大 특강 “韓과 국제체제 수호 공조”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606014702015"
       }
     },
     {
-      "keyword": "전력",
+      "keyword": "바르셀로나 리버풀 레전드 매치",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "李대통령, 환경의 날 맞아 국민 기후행동 참여 당부",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=368791"
+        "title": "'리버풀의 심장' 제라드, 감독 겸 선수로 서울서 직접 뛴다! '이니에스타 출격' 바르사 레전드와 격돌[오!쎈 현장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606173417022"
       }
     },
     {
-      "keyword": "mls 올스타전",
+      "keyword": "대한민국의 국회의장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "손흥민, 한국 선수 역대 두 번째로 'MLS 올스타 XI' 선정",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260606012000007"
+        "title": "국회, 오늘 22대 후반기 의장단 선출…의장 후보 조정식",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/BpIP5K6b7B?f=p"
+      }
+    },
+    {
+      "keyword": "고소영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "고소영 \"새언니에게 친오빠 뺏긴 기분\"…질투심 솔직 고백 (고소영)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605162153889"
+      }
+    },
+    {
+      "keyword": "amd",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Intel, AMD, Micron shares trim losses after Broadcom results spark semiconductor sector sell-off",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/article/intel-amd-micron-shares-trim-losses-after-broadcom-results-spark-semiconductor-sector-sell-off-130128361.html"
+      }
+    },
+    {
+      "keyword": "군함",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“전투기·군함 줄일테니 공백 메우라” 美 유럽사령관, 나토 동맹국에 통보",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605004708498"
+      }
+    },
+    {
+      "keyword": "rtm",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Unifi TV To Broadcast All 104 FIFA World Cup 2026 Matches Live",
+        "source": "Bernama",
+        "url": "https://bernama.com/en/general/news.php?id=2565326"
       }
     }
   ]
