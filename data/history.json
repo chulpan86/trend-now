@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05T06:23:46.874407+09:00",
-    "label": "06:23",
-    "items": [
-      {
-        "keyword": "배구",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김세진 전 감독, SOOP 여자배구단 지휘봉",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/48pnnEIktu"
-        }
-      },
-      {
-        "keyword": "한국형 차기 구축함",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "법원, KDDX 보안감점 연장금지 가처분 신청 이르면 이번주 판단",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604180052597"
-        }
-      },
-      {
-        "keyword": "lg그룹",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"젠슨 황 믿고 들어갔는데\"⋯방한 기대주 줄줄이 급락, 개미들 '패닉'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604171649081"
-        }
-      },
-      {
-        "keyword": "시청률",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'광역단체장' 지역별 1위 후보…개표 결과는 [국민의선택]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604040608392?f=p"
-        }
-      },
-      {
-        "keyword": "알렉스 퍼거슨",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘英 독점 보도’→맨유 ‘파격 결단’ 퍼거슨 감독 시절에도 뛰었던 40살 골키퍼와 재계약 “2027년 6월까지 동행”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604203452007"
-        }
-      },
-      {
-        "keyword": "fifa 월드컵 2026",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "첫 48개국 월드컵 다시 한번 ‘대~한민국’",
-          "source": "K-공감",
-          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12603000000&section_id=&content=NC002&code_cd=0105000000&nPage=1&b_list=9&news_id=4e6775c8-9311-4ba5-bf08-da4e0d7603ca"
-        }
-      },
-      {
-        "keyword": "노소영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "노소영 '아트센터 나비'…SK 건물 떠나 재개관",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260603002300038"
-        }
-      },
-      {
-        "keyword": "김혜수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'48세' 김혜수, 지금 레깅스가 문제가 아닙니다…노출 없어도 독보적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7QIlMK6bWL"
-        }
-      },
-      {
-        "keyword": "박용선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "포항시장 당선인 첫 행보, 포스코 회장과 면담…\"협력 강화\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604155103294"
-        }
-      },
-      {
-        "keyword": "최흥집",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[6·3 지선] 국힘 강원도당 \"도민 선택 받들고 견제·균형 책임 다하겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260604169200062"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-05T08:01:22.350396+09:00",
-    "label": "08:01",
-    "items": [
-      {
-        "keyword": "정성호",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“한·일전 진 꼴”…李대통령, 후임 총리 강훈식·한성숙·정성호 고심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605050237159"
-        }
-      },
-      {
-        "keyword": "홈플러스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "홈플러스, ‘영업 중단’ 37개 점포 결국 폐점 결정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605063912552"
-        }
-      },
-      {
-        "keyword": "캐나다",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "강훈식 비서실장, 한-캐나다 에너지 자원 공급망 협력 포럼 참석",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260604190900013"
-        }
-      },
-      {
-        "keyword": "일본 축구 국가대표팀",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "어느새 ‘아시아 최강’ 된 일본, 이번엔 ‘단판 승부’도 웃을까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604201617527"
-        }
-      },
-      {
-        "keyword": "킬리안 음바페",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "6044명 중 6043등...음바페, 상위 20개 리그 모든 선수 중 수비 지표 '꼴찌'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604145504732"
-        }
-      },
-      {
-        "keyword": "vix",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "India VIX Falls to 15.88; Volatility Remains Range-Bound",
-          "source": "HDFC Sky",
-          "url": "https://hdfcsky.com/news/india-vix-closes-at-15-88-as-volatility-cools-amid-cautious-market-positioning"
-        }
-      },
-      {
-        "keyword": "spain vs iraq",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Preview: Spain vs Iraq - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/spain/preview/spain-vs-iraq-prediction-team-news-lineups_598538.html"
-        }
-      },
-      {
-        "keyword": "전주시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[기초비례 당선인 명단] 전북",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260604065900055"
-        }
-      },
-      {
-        "keyword": "로스앤젤레스 다저스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"네 가족 죽었으면 좋겠어\", 이정후 동료 이렇게 고통받고 있었다…악성 DM 테러 고백",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602091317276?f=p"
-        }
-      },
-      {
-        "keyword": "메이저 리그 베이스볼",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "산체스, MLB 좌투수 최장 이닝 연속 무실점 신기록",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Vgyo672u0a"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-05T11:30:20.856434+09:00",
     "label": "11:30",
     "items": [
@@ -1463,6 +1251,112 @@
           "title": "Unifi TV To Broadcast All 104 FIFA World Cup 2026 Matches Live",
           "source": "Bernama",
           "url": "https://bernama.com/en/general/news.php?id=2565326"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-06T20:16:52.392685+09:00",
+    "label": "20:16",
+    "items": [
+      {
+        "keyword": "놀리토",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "첫 골의 주인공은 클라위버르트",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260606_0021310618"
+        }
+      },
+      {
+        "keyword": "김규리",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김규리 자택 강도미수범, 알고 보니 서동주 스토킹·주거침입 피고인",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6189302"
+        }
+      },
+      {
+        "keyword": "반도체 메모리",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'베라 루빈 쇼크'에 흔들린 삼전닉스…\"노이즈일 뿐, 더 사라\" 이유는",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418585"
+        }
+      },
+      {
+        "keyword": "성동구청장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606172901962"
+        }
+      },
+      {
+        "keyword": "아이유",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“잠실 스벅 선결제해달라”…투표용지 부족 사태에 아이유 SNS ‘불똥’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606193107291"
+        }
+      },
+      {
+        "keyword": "임병욱",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'임병욱 뿔났다' 최민석 145km 직구에 맞고 분노 표출…두산-키움 벤치클리어링 발생",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=820897"
+        }
+      },
+      {
+        "keyword": "모스탄",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[속보] 젠슨 황 \"협력사·고객사에 감사 전하고 싶어 한국 방문\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260605080100017"
+        }
+      },
+      {
+        "keyword": "유노윤호",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'놀뭐' 곽범, 허경환 개그 수업 회상…\"이런 사람한테 배웠다니\" 폭소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606190852075"
+        }
+      },
+      {
+        "keyword": "거미",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Cho Jung-seok, Affectionate Husband Certified: \"♥Meeting Gummy Made My Once-Ordinary Life Better\" [The Seasons][Byeolbyeol TV]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/broadcast-show/2026/06/05/2026060523182142303"
+        }
+      },
+      {
+        "keyword": "박정민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "빠더너스 픽 '너바나 더 밴드' 캐나다 스크린어워즈 6관왕",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605072303172"
         }
       }
     ]

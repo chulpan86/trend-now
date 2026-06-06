@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-06T18:18:24.158272+09:00",
-  "label": "18:18",
+  "timestamp": "2026-06-06T20:16:52.392685+09:00",
+  "label": "20:16",
   "items": [
     {
-      "keyword": "코스피",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "놀리토",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "김용범 \"코스피 8000·환율 1550원 낯선 과제들\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418601"
+        "title": "첫 골의 주인공은 클라위버르트",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260606_0021310618"
       }
     },
     {
-      "keyword": "왕즈이",
+      "keyword": "김규리",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "韓 배드민턴 돌풍 멈췄다…'日 안세영' 야마구치 벽 높았다→세계 26위 심유진, 인도네시아오픈 4강전서 완패, 세계 2·9위 잡고도 결승행 좌절",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606145115884"
+        "title": "김규리 자택 강도미수범, 알고 보니 서동주 스토킹·주거침입 피고인",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6189302"
       }
     },
     {
-      "keyword": "포스트 말론",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "반도체 메모리",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'베라 루빈 쇼크'에 흔들린 삼전닉스…\"노이즈일 뿐, 더 사라\" 이유는",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418585"
+      }
     },
     {
-      "keyword": "조현",
+      "keyword": "성동구청장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606172901962"
+      }
+    },
+    {
+      "keyword": "아이유",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“잠실 스벅 선결제해달라”…투표용지 부족 사태에 아이유 SNS ‘불똥’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606193107291"
+      }
+    },
+    {
+      "keyword": "임병욱",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'임병욱 뿔났다' 최민석 145km 직구에 맞고 분노 표출…두산-키움 벤치클리어링 발생",
+        "source": "SPOTV NEWS",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=820897"
+      }
+    },
+    {
+      "keyword": "모스탄",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "피단, 高大 특강 “韓과 국제체제 수호 공조”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606014702015"
+        "title": "[속보] 젠슨 황 \"협력사·고객사에 감사 전하고 싶어 한국 방문\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260605080100017"
       }
     },
     {
-      "keyword": "바르셀로나 리버풀 레전드 매치",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'리버풀의 심장' 제라드, 감독 겸 선수로 서울서 직접 뛴다! '이니에스타 출격' 바르사 레전드와 격돌[오!쎈 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606173417022"
-      }
-    },
-    {
-      "keyword": "대한민국의 국회의장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "국회, 오늘 22대 후반기 의장단 선출…의장 후보 조정식",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BpIP5K6b7B?f=p"
-      }
-    },
-    {
-      "keyword": "고소영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "고소영 \"새언니에게 친오빠 뺏긴 기분\"…질투심 솔직 고백 (고소영)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605162153889"
-      }
-    },
-    {
-      "keyword": "amd",
+      "keyword": "유노윤호",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Intel, AMD, Micron shares trim losses after Broadcom results spark semiconductor sector sell-off",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/article/intel-amd-micron-shares-trim-losses-after-broadcom-results-spark-semiconductor-sector-sell-off-130128361.html"
-      }
-    },
-    {
-      "keyword": "군함",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“전투기·군함 줄일테니 공백 메우라” 美 유럽사령관, 나토 동맹국에 통보",
+        "title": "'놀뭐' 곽범, 허경환 개그 수업 회상…\"이런 사람한테 배웠다니\" 폭소",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260605004708498"
+        "url": "https://v.daum.net/v/20260606190852075"
       }
     },
     {
-      "keyword": "rtm",
+      "keyword": "거미",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Unifi TV To Broadcast All 104 FIFA World Cup 2026 Matches Live",
-        "source": "Bernama",
-        "url": "https://bernama.com/en/general/news.php?id=2565326"
+        "title": "Cho Jung-seok, Affectionate Husband Certified: \"♥Meeting Gummy Made My Once-Ordinary Life Better\" [The Seasons][Byeolbyeol TV]",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/en/broadcast-show/2026/06/05/2026060523182142303"
+      }
+    },
+    {
+      "keyword": "박정민",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "빠더너스 픽 '너바나 더 밴드' 캐나다 스크린어워즈 6관왕",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260605072303172"
       }
     }
   ]
