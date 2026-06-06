@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05T19:46:41.300696+09:00",
-    "label": "19:46",
-    "items": [
-      {
-        "keyword": "lg",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "(LEAD) Nvidia's Jensen Huang sees robotics as next major sector for S. Korea",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260605007551320?section=k-biz/index"
-        }
-      },
-      {
-        "keyword": "참교육 드라마",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"복싱한 진기주, 표지훈 때리다가…\" 김무열이 전한 '참교육'[현장EN:]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605173000657"
-        }
-      },
-      {
-        "keyword": "키움 대 두산",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "한화가 왜 버렸냐고 했는데, 4⅓이닝 7실점 충격 난조→또 2군행 통보받다 “초반 피칭 내용 안 보여” [오!쎈 잠실] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/06/05/GA3DIZDCMZSDIZLBGY3TSZBZMQ/"
-        }
-      },
-      {
-        "keyword": "kt 대 ssg",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'672일 만의 4안타' SSG 최정 \"연패 기간 오히려 멘털 강해져\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260604198900007"
-        }
-      },
-      {
-        "keyword": "부산 대 충남 아산 fc",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "충남아산이 믿고 키운 2007년생 '뉴 에이스' 박시후, K리그 준프로→유럽 루트 이어받나 '포르투갈 리그 러브콜'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/06/04/MU3GGMTFMFRTMMTFHEYDSNTDGM/"
-        }
-      },
-      {
-        "keyword": "혜은이",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"전부 다 잃었지만\"…혜은이, 故 김자옥도 말린 결혼 강행→두 차례 이혼 끝 '진짜 속내' [RE:뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605121153242"
-        }
-      },
-      {
-        "keyword": "최화정",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "65세 최화정, 10년 전 원피스도 거뜬…\"뒤태 나오지?\" 세월 비껴간 미모",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605123504660"
-        }
-      },
-      {
-        "keyword": "주한 미국 대사",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이재명 정부가 반미?‥전 주한미대사들 \"동의 못 해\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6827975_36967.html"
-        }
-      },
-      {
-        "keyword": "젠슨황 시구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "두산베어스 시구하는 젠슨 황…그가 두산그룹을 선택한 이유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605101738595"
-        }
-      },
-      {
-        "keyword": "갈소원",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[테크스냅] SKB '서울국제환경영화제' B tv 특집관",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260605049900017"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-05T22:48:14.000746+09:00",
     "label": "22:48",
     "items": [
@@ -1781,6 +1675,112 @@
           "title": "조재호·산체스·최성원, 프로당구 2차 투어 64강 안착",
           "source": "Daum",
           "url": "https://v.daum.net/v/VTmeAwhDt3"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-07T07:58:19.389057+09:00",
+    "label": "07:58",
+    "items": [
+      {
+        "keyword": "sk하이닉스",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/41bBGqfzYK"
+        }
+      },
+      {
+        "keyword": "이정후",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "이정후, MLB 컵스전서 2안타…14경기 연속 안타 행진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260607073004755"
+        }
+      },
+      {
+        "keyword": "광주광역시",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "충북도 '71회 현충일 추념식' 거행…6월 보훈행사 다채",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606184954923"
+        }
+      },
+      {
+        "keyword": "박서진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "11kg 찐 박서진, 악플 쏟아졌다..시청 거부까지 “이젠 그냥 성형남.. 보기 싫어”(살림남2)[순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/UFL23ijJSG"
+        }
+      },
+      {
+        "keyword": "암호화폐",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 3억 2688만 달러 청산",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/366704"
+        }
+      },
+      {
+        "keyword": "유 퀴즈 온 더 블럭",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "젠슨 황 방한 뒤엔 장녀 있었다…총수 회동도 직접 챙겨",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260607063507247"
+        }
+      },
+      {
+        "keyword": "차상현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "AVC네이션스컵 나선 차상현호, 키르기스스탄 꺾고 상쾌한 첫 걸음",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/15rIOqfzy7"
+        }
+      },
+      {
+        "keyword": "기성용",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘기성용♥’ 한혜진, 딸 옆에 서도 언니 소리 듣겠네···45세 맞아? 놀라운 근황",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/06/01/HBSTGYRVGI4GCYZSHBRDSOBRMI/"
+        }
+      },
+      {
+        "keyword": "육군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "국방부, 올 전반기 장성급 인사…“국방 역량 공고히 할 우수자 선발”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605194309617"
+        }
+      },
+      {
+        "keyword": "경제성장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "베트남, FDI 집행액 98억달러로 5년 내 최고..한국 신규허가 등록자본금 2위 국가로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604154658116"
         }
       }
     ]

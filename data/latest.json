@@ -1,11 +1,41 @@
 {
-  "timestamp": "2026-06-07T06:56:40.935662+09:00",
-  "label": "06:56",
+  "timestamp": "2026-06-07T07:58:19.389057+09:00",
+  "label": "07:58",
   "items": [
     {
+      "keyword": "sk하이닉스",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/41bBGqfzYK"
+      }
+    },
+    {
+      "keyword": "이정후",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "이정후, MLB 컵스전서 2안타…14경기 연속 안타 행진",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260607073004755"
+      }
+    },
+    {
+      "keyword": "광주광역시",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "충북도 '71회 현충일 추념식' 거행…6월 보훈행사 다채",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606184954923"
+      }
+    },
+    {
       "keyword": "박서진",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "11kg 찐 박서진, 악플 쏟아졌다..시청 거부까지 “이젠 그냥 성형남.. 보기 싫어”(살림남2)[순간포착]",
         "source": "Daum",
@@ -13,93 +43,63 @@
       }
     },
     {
-      "keyword": "저축",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "KB·하나저축은행 ‘부동산 부실’에 휘청…신한·우리는 흑자 사수 [재계톡톡]",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/all/12066771"
-      }
-    },
-    {
-      "keyword": "이진숙",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'배지' 단 이진숙, 의원선서 후 첫 마디… \"국회에 안 좋은 기억\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/UH1CTW1yG2"
-      }
-    },
-    {
-      "keyword": "크리스티아누 호날두",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'펠레의 실수로 시작된 전설'...메시와 호날두, 축구 역사 바꾼 20년의 경쟁",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yvbHOSHlvd"
-      }
-    },
-    {
-      "keyword": "이정효",
+      "keyword": "암호화폐",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'대표팀 7명 차출' 이정효 \"없으면 없는 대로, 잘 훈련하고 잘 준비했다\" [화성 현장]",
+        "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 3억 2688만 달러 청산",
+        "source": "토큰포스트",
+        "url": "https://www.tokenpost.kr/news/cryptocurrency/366704"
+      }
+    },
+    {
+      "keyword": "유 퀴즈 온 더 블럭",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "젠슨 황 방한 뒤엔 장녀 있었다…총수 회동도 직접 챙겨",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260606193220307"
+        "url": "https://v.daum.net/v/20260607063507247"
       }
     },
     {
-      "keyword": "기상",
+      "keyword": "차상현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“비 안 내려도 장마철” 교과서 장마는 잊어라…정의 재정립",
+        "title": "AVC네이션스컵 나선 차상현호, 키르기스스탄 꺾고 상쾌한 첫 걸음",
         "source": "Daum",
-        "url": "https://v.daum.net/v/3SRI4nAi72"
+        "url": "https://v.daum.net/v/15rIOqfzy7"
       }
     },
     {
-      "keyword": "사과",
+      "keyword": "기성용",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "사과 평면형 재배 ‘속도’…노동력 줄이고 생산성 높여",
-        "source": "농민신문",
-        "url": "https://www.nongmin.com/article/20260605500568"
+        "title": "‘기성용♥’ 한혜진, 딸 옆에 서도 언니 소리 듣겠네···45세 맞아? 놀라운 근황",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/enter_general/2026/06/01/HBSTGYRVGI4GCYZSHBRDSOBRMI/"
       }
     },
     {
-      "keyword": "가격",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[비즈톡톡] 이제 선거도 끝났으니… 가격 인상 카드 만지작 거리는 식품업계 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/distribution/channel/2026/06/08/S6K6UMGYLBGNJIFQ62N3PIHNYI/"
-      }
-    },
-    {
-      "keyword": "서울신문",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"잠실로 오세요\"…현충일 청년들 \"재선거, 우리가 외친다\"",
-        "source": "데일리안",
-        "url": "https://www.dailian.co.kr/news/view/1653092/?sc=rss"
-      }
-    },
-    {
-      "keyword": "프로당구 협회",
+      "keyword": "육군",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "조재호·산체스·최성원, 프로당구 2차 투어 64강 안착",
+        "title": "국방부, 올 전반기 장성급 인사…“국방 역량 공고히 할 우수자 선발”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/VTmeAwhDt3"
+        "url": "https://v.daum.net/v/20260605194309617"
+      }
+    },
+    {
+      "keyword": "경제성장",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "베트남, FDI 집행액 98억달러로 5년 내 최고..한국 신규허가 등록자본금 2위 국가로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604154658116"
       }
     }
   ]
