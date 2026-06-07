@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T03:54:02.108516+09:00",
-    "label": "03:54",
-    "items": [
-      {
-        "keyword": "6월 6일",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[오늘의 운세] 6월 5일 금요일 (음력 4월 20일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260601580497"
-        }
-      },
-      {
-        "keyword": "나스닥",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "심상치 않은 美 반도체 투매…삼전닉스 투자 전략은?",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202606058662i"
-        }
-      },
-      {
-        "keyword": "효민",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "효민, 티아라 쓰고 베트남 생일파티 \"하고픈 거 다 해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260605_0003658016"
-        }
-      },
-      {
-        "keyword": "트렌드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "무신사, 'AI 트렌드 큐레이션' 도입…\"검색 대신 AI가 제안\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260603085105612"
-        }
-      },
-      {
-        "keyword": "고재영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"친중·좌파·공산주의자 아냐\"…146만 유튜버, 화들짝 해명한 이유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/06/04/2026060411523848837"
-        }
-      },
-      {
-        "keyword": "마커스 래시퍼드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Transfer rumors, news: Arsenal, Chelsea eye move for Rashford",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/48944857/transfer-rumors-news-barcelona-turn-kane-alvarez-deal-falls-through"
-        }
-      },
-      {
-        "keyword": "올리세",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "맨시티 공식발표, ‘레알 마드리드 홀란드 영입’ 주장에 “초상권 무단 사용…법적 대응 검토”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605112617567"
-        }
-      },
-      {
-        "keyword": "박경혜",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'나혼산' 박경혜, 유창한 영어 구사에 깜짝…\"1년 과외\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606000501382"
-        }
-      },
-      {
-        "keyword": "ioi",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "I.O.I 'LOOP Bangkok Concert Departure!' [★Video]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/music/2026/06/05/2026060516270613463"
-        }
-      },
-      {
-        "keyword": "김부장",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'김부장' 주상욱·손나은, 갈등과 미스터리의 주축",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604101709383"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-06T05:45:15.305152+09:00",
     "label": "05:45",
     "items": [
@@ -1785,6 +1679,112 @@
           "title": "아버지가 된 UFC 前 챔피언! 벨랄, 11위 봉핌과 맞대결→\"언제나 챔피언 벨트가 나의 목표\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/Gcs0TB4qsO"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-07T17:44:26.222200+09:00",
+    "label": "17:44",
+    "items": [
+      {
+        "keyword": "삼성 전자 온누리 상품권",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "삼성전자 “국민과 함께 성과 나누겠다”···8일부터 ‘감사 페스티벌’ 구매액 20% 온누리상품권 제공",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606051559001"
+        }
+      },
+      {
+        "keyword": "다이소몰",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "여름에 이거 없이 못 사는데…\"다이소서는 5000원\" 소비자 우르르",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260607n04644"
+        }
+      },
+      {
+        "keyword": "유정복",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[속보]장동혁, 투표용지 사태 재선거 요구…“사전투표도 없애야” 대통령 회담 요구",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11593727"
+        }
+      },
+      {
+        "keyword": "파트릭 클라위버르트",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "인사하는 이니에스타",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260606_0021310725"
+        }
+      },
+      {
+        "keyword": "원태인",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "아시안게임 야구대표팀 명단 공개 임박…류지현 감독의 선택은",
+          "source": "일요신문",
+          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=511289"
+        }
+      },
+      {
+        "keyword": "넬리 코다",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "세계 1위 잡고 우승?…김세영·전인지, 코르다와 최종 승부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/floJ5IyOI0"
+        }
+      },
+      {
+        "keyword": "검은 월요일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "코스피 '검은 월요일' 온다…\"떨어지는 칼날 잡지마라\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418591"
+        }
+      },
+      {
+        "keyword": "lg 트윈스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'대도' 박해민 시계는 거꾸로 간다! KBO 최초 '13년 연속 20도루' 카운트다운! '-3' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/06/07/2026060716532276884"
+        }
+      },
+      {
+        "keyword": "서교림 프로",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'지난해 신인왕' 서교림, KLPGA 투어 셀트리온 퀸즈 마스터즈 우승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HBy5kRoM0E"
+        }
+      },
+      {
+        "keyword": "보험회사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "내년 자본 규제 비상…보험사 채권 발행 1년새 82% '뚝'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260607120302466"
         }
       }
     ]
