@@ -1,31 +1,41 @@
 {
-  "timestamp": "2026-06-08T04:06:21.051384+09:00",
-  "label": "04:06",
+  "timestamp": "2026-06-08T06:00:33.643281+09:00",
+  "label": "06:00",
   "items": [
     {
-      "keyword": "알렉산더 즈베레프",
+      "keyword": "고기압",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
+      "news": {
+        "title": "전국 흐리고 곳곳 소나기…천둥·번개 주의",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260608052407037"
+      }
+    },
+    {
+      "keyword": "파이리츠 대 브레이브스",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "김하성, 3경기 만에 출전해 무안타…타율 1할 밑으로 추락",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260607104901769"
+      }
+    },
+    {
+      "keyword": "박보영",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'3전4기' 츠베레프 vs '신성' 코볼리…프랑스오픈 결승 격돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606081204371?f=p"
+        "title": "박보영, 투표용지 사태 ‘댓글 테러’에 “타격 없다”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20260607/134065191/2"
       }
     },
     {
-      "keyword": "서울 이랜드 fc 대 충북 청주 fc 순위",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'가르시아 극장골' 충북청주, 서울E 잡고 14경기 만에 시즌 첫 승",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/78c3pMLxtL"
-      }
-    },
-    {
-      "keyword": "상장지수 펀드",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "상장지수펀드",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "‘올 주식시장 최대 대어’ 스페이스X 청약에 234조 몰렸다···“목표 금액 2배”",
         "source": "경향신문",
@@ -33,73 +43,63 @@
       }
     },
     {
-      "keyword": "roland garros",
+      "keyword": "kf-21 보라매",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "F-22부터 KF-21까지… 전투 항공기의 모든 것! / 임상민 한국항공대학교 겸임교수, 방위사업청 전문관",
+        "source": "YTN 사이언스",
+        "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=1679&key=202606040903187977"
+      }
+    },
+    {
+      "keyword": "소이현",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "［39회 예고］네가 성미랑 사귀었어? [사랑을 처방해 드립니다] | KBS 방송",
+        "source": "대한민국 대표 공영미디어 KBS",
+        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026089369-01-000_20260607_SC0001&program_code=T2025-0419&program_id=PS-2026089369-01-000&section_code=03&broadcast_complete_yn=N&section_id=26875"
+      }
+    },
+    {
+      "keyword": "손예진",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "손예진, 폭풍 성장한 아들 공개…아빠 닮아 길쭉한 팔·다리 '눈길' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/06/07/2026060720343031733"
+      }
+    },
+    {
+      "keyword": "7월 17일",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "제헌절 18년 만에 공휴일 부활… 올해 7월 첫 '3일 황금연휴' 열린다",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3602017"
+      }
+    },
+    {
+      "keyword": "손현보",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Roland-Garros 2026 : Alexander Zverev remporte en cinq sets le premier Grand Chelem de sa carrière en battant Flavio Cobolli en finale",
-        "source": "franceinfo",
-        "url": "https://www.franceinfo.fr/roland-garros/roland-garros-2026-alexander-zverev-remporte-en-cinq-sets-le-premier-grand-chelem-de-sa-carriere-en-battant-flavio-cobolli-en-finale_8049167.html"
-      }
-    },
-    {
-      "keyword": "이주명",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "설마 또 ‘꿈’은 아니겠지…사이다 ‘강회장’, 올 주말 최고시청률 달성",
+        "title": "美국무부 인사들 손현보 교회 방문… 차별금지법 등 논의",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260607125317102"
+        "url": "https://v.daum.net/v/20260608004954547"
       }
     },
     {
-      "keyword": "강예원",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "남겨진 부채 '11억' 그 이상? 강예원, 부친상 그 후 '눈물' ('미우새')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260607235049868"
-      }
-    },
-    {
-      "keyword": "차준환",
+      "keyword": "주차장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "아역배우 출신 피겨스타 차준환, 시트콤 출연 검토 중",
+        "title": "용인 아파트 주차장서 차량 역과사고…20대 운전자, 밟고 지나가",
         "source": "Daum",
-        "url": "https://v.daum.net/v/G1V28pb0Zn"
-      }
-    },
-    {
-      "keyword": "cbdc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "The Philippines Went Majority-Digital Without A Super-App Or A CBDC",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/zennonkapron/2026/06/07/the-philippines-went-majority-digital-without-a-super-app-or-a-cbdc/"
-      }
-    },
-    {
-      "keyword": "cpi",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Stocks reel from a coming rate hike — and brace for a huge IPO: What to watch this week",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/stocks-reel-from-a-coming-rate-hike--and-brace-for-a-huge-ipo-what-to-watch-this-week-114019489.html"
-      }
-    },
-    {
-      "keyword": "최용수",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "손종원 vs 권성준 '쌀딩크' 박항서 감독 위한 베트남 요리!",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260607103221508"
+        "url": "https://v.daum.net/v/20260607144817850"
       }
     }
   ]
