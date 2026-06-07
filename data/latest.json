@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-08T00:18:14.027539+09:00",
-  "label": "00:18",
+  "timestamp": "2026-06-08T02:05:21.579509+09:00",
+  "label": "02:05",
   "items": [
     {
       "keyword": "알렉산더 즈베레프",
@@ -10,16 +10,6 @@
         "title": "'3전4기' 츠베레프 vs '신성' 코볼리…프랑스오픈 결승 격돌",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260606081204371?f=p"
-      }
-    },
-    {
-      "keyword": "f1",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "F1 Monaco GP LIVE: Race updates, results, stream, highlights from sixth round of 2026 Formula 1 season in Monte Carlo",
-        "source": "Sky Sports",
-        "url": "https://www.skysports.com/f1/live-blog/12433/13550466/f1-monaco-gp-live-race-updates-results-stream-highlights-from-sixth-round-of-2026-formula-1-season-in-monte-carlo"
       }
     },
     {
@@ -37,9 +27,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[만물상] 우주를 파는 기업",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/opinion/manmulsang/2026/06/07/R6PYJJK2DJB63PPDT3TVFXZ5KQ/"
+        "title": "스페이스X 상장 카운트다운… 국내 첫날 청약 완판",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260607/134065169/2"
       }
     },
     {
@@ -53,13 +43,43 @@
       }
     },
     {
+      "keyword": "roland garros",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Cobolli - Zverev : la finale en direct",
+        "source": "Roland-Garros 2026",
+        "url": "https://www.rolandgarros.com/fr-fr/article/edition-2026-flavio-cobolli-alexander-zverev-direct-live-finale-messieurs"
+      }
+    },
+    {
+      "keyword": "이주명",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "설마 또 ‘꿈’은 아니겠지…사이다 ‘강회장’, 올 주말 최고시청률 달성",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260607125317102"
+      }
+    },
+    {
       "keyword": "강예원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "미운 우리 새끼 : [6월 14일 예고] “도와주세요” 강예원, 돌아가신 아버지가 남긴 부채에 눈물",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC479796792"
+        "title": "남겨진 부채 '11억' 그 이상? 강예원, 부친상 그 후 '눈물' ('미우새')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260607235049868"
+      }
+    },
+    {
+      "keyword": "cbdc",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "The Philippines Went Majority-Digital Without A Super-App Or A CBDC",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/zennonkapron/2026/06/07/the-philippines-went-majority-digital-without-a-super-app-or-a-cbdc/"
       }
     },
     {
@@ -80,26 +100,6 @@
         "title": "손종원 vs 권성준 '쌀딩크' 박항서 감독 위한 베트남 요리!",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260607103221508"
-      }
-    },
-    {
-      "keyword": "김준호",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "미운 우리 새끼 : 김준호, ‘최고령 임산부’ 한다감이 준비해 준 속옷×사탕 선물에 감동",
-        "source": "programs.sbs.co.kr",
-        "url": "http://programs.sbs.co.kr/enter/woori/clip/52019/OC479796753"
-      }
-    },
-    {
-      "keyword": "강회장",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "설마 또 ‘꿈’은 아니겠지…사이다 ‘강회장’, 올 주말 최고시청률 달성",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260607125317102"
       }
     }
   ]
