@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-07T20:00:46.444517+09:00",
-  "label": "20:00",
+  "timestamp": "2026-06-07T22:21:34.837158+09:00",
+  "label": "22:21",
   "items": [
     {
-      "keyword": "자동차",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "투자",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "도요타 \"수소엔진 개발, 협업으로 속도…현대차와 기술 공유 가능\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260607091051183"
+        "title": "'비트코인' 공격 투자 즐기던 40대 의사…'이렇게 바꿨다'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606059838i"
       }
     },
     {
-      "keyword": "이기택",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "kbo",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "이용진, 7년 전 ‘1박2일’ 정규직 되자마자 시즌 종영 ‘비운의 멤버’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606161154839"
+        "title": "Nvidia CEO throws first pitch at baseball game before another Kkanbu gathering",
+        "source": "aju press",
+        "url": "https://www.ajupress.com/view/20260607180514322"
       }
     },
     {
-      "keyword": "avc컵 여자 배구 대회",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "프로야구 순위",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'박여름 12점' 한국 여자배구, AVC컵 첫 경기 키르기스스탄 완파",
+        "title": "'김도영 치면 나도 친다' LG 오스틴, 130m 홈런 터졌다...나란히 홈런 공동 선두",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260607084555693"
+        "url": "https://v.daum.net/v/BbMeOokLCo"
       }
     },
     {
-      "keyword": "서울e 대 청주",
+      "keyword": "바이낸스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "연구: 하이퍼리퀴드가 가격 발견 허브로서 바이낸스를 대체하기까지 얼마나 남았을까요?",
+        "source": "PANews",
+        "url": "https://www.panewslab.com/ko/articles/019e9ba9-4c61-7265-99cc-281a23a2772e"
+      }
+    },
+    {
+      "keyword": "월드컵 일정",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "OTT로 옮겨간 스포츠 중계…보편적 시청권 다시 쟁점",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/78BxfRoM1h"
+      }
+    },
+    {
+      "keyword": "한화",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'8회 극적 동점→연장 클러치 실책' 롯데 충격적 4연패, 김태형 '감독 800승' 또 미뤄졌다... 한화 3연승 신바람 [부산 현장리뷰] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/06/07/2026060718511219047"
+      }
+    },
+    {
+      "keyword": "모나코 그랑프리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[SPO 현장] '10무' 루이 퀸타 감독 휴식기전 승리 노린다...\"준비한 것 잘 보여준다면\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260607191052700"
+        "title": "키미 안토넬리 모나코 그랑프리 폴포지션 획득",
+        "source": "레이스위크",
+        "url": "https://raceweek.co.kr/?p=37949"
       }
     },
     {
-      "keyword": "딘딘",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"데프콘은 신, 십자가 짊어졌다\" 딘딘, '예능 래퍼'의 설움 토로 ('딘딘은 딘딘') [순간포착]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260607072417720"
-      }
-    },
-    {
-      "keyword": "김용현",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이하상 “잠실 청년이 김용현 전 장관 자랑스럽다 말해”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1262267.html"
-      }
-    },
-    {
-      "keyword": "김원준",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'열린음악회' 출연진 라인업 씨야·현진영 등",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260607161715745"
-      }
-    },
-    {
-      "keyword": "이주화",
+      "keyword": "약사",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"치매 엄마, 내가 버린 것 아닌데\"…'국민 악녀' 이주화, 피눈물 나는 간병기 [특종세상]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260605091101811"
+        "title": "서울시약, 국제심포지엄 호평…참가자 84% \"유익했다\"",
+        "source": "약사공론",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=536282"
       }
     },
     {
-      "keyword": "박승수",
+      "keyword": "최정",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'韓 특급 유망주' 박승수 어떡하나, EPL 데뷔 가능성 다시 줄어들 위기...뉴캐슬 강력한 경쟁자 영입 예고, 2003년생 라리가 윙어 협상 착수",
-        "source": "스포츠조선",
-        "url": "https://www.sportschosun.com/football/2026-06-07/202606070100040250002451"
+        "title": "삼미 18연패·태평양 15연패… SSG가 소환한 인천 야구 잔혹사 [구도(球都), 인천]",
+        "source": "경인일보",
+        "url": "https://www.kyeongin.com/article/1765108"
       }
     },
     {
-      "keyword": "황준서",
+      "keyword": "최준용",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "어떻게 잡은 39일 만의 선발 기회인데, 황준서 2이닝 2실점 강판...불펜 조기 투입은 실패, 4-4 동점 됐다 [오!쎈 부산]",
+        "title": "전한길, 투표용지 부족 사태 \"부정선거 증거…李대통령 하야 요구\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/2prrsLcnSJ"
+        "url": "https://v.daum.net/v/20260607145602040"
       }
     }
   ]
