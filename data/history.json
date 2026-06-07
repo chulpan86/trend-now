@@ -1784,5 +1784,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-07T09:03:10.422044+09:00",
+    "label": "09:03",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "500000+",
+        "traffic": 500000,
+        "news": {
+          "title": "전국 곳곳 비…오전 남부지방 시작해 밤에는 중부지방에서 내려",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260607003600034"
+        }
+      },
+      {
+        "keyword": "참교육",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "김무열 ‘참교육’, 원작 논란 잠재웠다…글로벌 5위 출발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260607071850660"
+        }
+      },
+      {
+        "keyword": "서우림",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "여배우 남편 불륜현장 급습한 선우용여…\"밀치고 상간녀 데려가\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/04/2026060417510294750"
+        }
+      },
+      {
+        "keyword": "김하성",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"성적이 우선, 김하성 몸값 신경 안쓴다\"...300억 매몰비용도 각오, 이대로 벤치에 수납되나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BdTEY9PKyv"
+        }
+      },
+      {
+        "keyword": "피트 헤그세스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "美국방, 이란戰 와중 ‘가족 동반 ’프랑스 출장…“경호 부담 가중”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260607065559330"
+        }
+      },
+      {
+        "keyword": "장성급 장교",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "육군 윤한일·해군 조충호·공군 박흥재 중장 진급",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605212300503"
+        }
+      },
+      {
+        "keyword": "배준호",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'韓 차세대 스타' 배준호 이적설에 구단 레전드가 직접 나섰다…\"스토크는 그를 팔아선 안 돼, 떠나면 슬프고 화날 것\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260606n09285"
+        }
+      },
+      {
+        "keyword": "미국 항공 우주국",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "ISS 공기누출로 우주비행사들 2시간 동안 대피",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260606002700091"
+        }
+      },
+      {
+        "keyword": "부산날씨",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "부산·울산·경남, 낮 최고 25~29도…내일은 비",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260606011300051"
+        }
+      },
+      {
+        "keyword": "동맹",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "靑, '李정부 강경좌파' 지칭한 WSJ에 반박 기고…\"한미동맹 굳건\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418602"
+        }
+      }
+    ]
   }
 ]
