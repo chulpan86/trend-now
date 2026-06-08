@@ -1,45 +1,95 @@
 {
-  "timestamp": "2026-06-09T02:22:49.105531+09:00",
-  "label": "02:22",
+  "timestamp": "2026-06-09T05:01:12.328992+09:00",
+  "label": "05:01",
   "items": [
     {
-      "keyword": "골드만삭스",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "오마이 뉴스",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "‘1만2000피 간다’던 골드만삭스, 이번 급락에…“다시 고점 경신할 것, 기술적 조정” 아태 주식전략가 평가",
+        "title": "국힘 '397억' 반환하나…'허위사실 공표' 윤에 징역 2년 구형",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260608190648065"
+        "url": "https://v.daum.net/v/20260608200457302"
       }
     },
     {
-      "keyword": "신태용",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "wwdc 2026",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "‘이청용 골프사건 갈등’ 신태용 감독, 인도네시아 명문팀 페르시자 지휘봉 잡았다",
+        "title": "Apple WWDC 2026: The 7 biggest announcements",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27"
+      }
+    },
+    {
+      "keyword": "롤",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "고동빈 “포기 모르는 선수들이 따낸 원주행 티켓”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/GecsgSHlTG"
+        "url": "https://v.daum.net/v/85IRlu9UT1"
       }
     },
     {
-      "keyword": "송이",
+      "keyword": "김민하",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "현충탑에 참배하는 권오을 장관과 강호동 농협중앙회장",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260605100600013"
-      }
-    },
-    {
-      "keyword": "포천시",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[포천소식]'2026년 포천 글로벌 페스티벌' 14일 개최 등",
+        "title": "9㎏ 감량 김민하, 꾸민 듯 안 꾸민 듯 거울샷 공개",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260608_0003660896"
+        "url": "https://www.newsis.com/view/NISX20260608_0003660807"
+      }
+    },
+    {
+      "keyword": "시청률",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이준영 '신입사원 강회장', 3.7%→8.2% 시청률 상승세",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2yAxkQiPoV"
+      }
+    },
+    {
+      "keyword": "네덜란드 대 우즈베키스탄",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "2026년 6월 9일 네덜란드와 우즈베키스탄의 친선 경기 프리뷰 및 생중계입니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-truc-tiep-ha-lan-vs-uzbekistan-giai-giao-huu-quoc-te-ngay-9-6-2026"
+      }
+    },
+    {
+      "keyword": "리그오브레전드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "LoL 베인을 잇는 악마 사냥꾼, 신규 챔피언 '로크' 트레일러 공개",
+        "source": "인벤",
+        "url": "https://www.inven.co.kr/webzine/news/?news=317286"
+      }
+    },
+    {
+      "keyword": "이승환",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이승환, 윤서인에 5천만원 손배소…“사생활 비하, 표현의 자유 아냐”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/society_general/1262487.html"
+      }
+    },
+    {
+      "keyword": "네타냐후",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "네타냐후 “이란 공습 당분간 중단… 공격 재개시 강경 대응”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260609035336412"
       }
     },
     {
@@ -47,59 +97,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Netherlands vs Uzbekistan Live Stream: How to Watch Men's International Soccer Friendlies in Canada",
-        "source": "Fubo",
-        "url": "https://www.fubo.tv/news/canada/netherlands-vs-uzbekistan-live-stream-how-to-watch-mens-international-soccer-friendlies-in-canada/"
-      }
-    },
-    {
-      "keyword": "렉서스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "렉서스 GX·UX 2593대 리콜… \"디지털 계기판 오류로 안전 경고등 안 뜰 수도\"",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/06/2026060707261259602bd56fbc3c_1"
-      }
-    },
-    {
-      "keyword": "설운도",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'가요무대' 최유나, 짙은 여운 남긴 '아내의 노래' 무대 [TV캡처]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260608n37053"
-      }
-    },
-    {
-      "keyword": "네타냐후",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "트럼프 말도 이젠 소용 없다‥이란·이스라엘 사실상 전쟁 재개",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6828662_37004.html"
-      }
-    },
-    {
-      "keyword": "유학생",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "中 유학생 90만 시대…세계 대학들 인재 쟁탈전",
-        "source": "인터내셔널포커스",
-        "url": "https://www.dspdaily.com/news/view.php?no=26568"
-      }
-    },
-    {
-      "keyword": "강기정",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "부산 남구, 제71회 현충일 추념 헌화 행사 추진",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260608.99099002054"
+        "title": "How to watch today's Netherlands vs Uzbekistan Friendly game: Live stream, TV channel, and start time",
+        "source": "Goal.com",
+        "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-netherlands-v-uzbekistan/blt66fbe9c3e446dfcf"
       }
     }
   ]
