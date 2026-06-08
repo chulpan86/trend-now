@@ -1,323 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07T01:59:16.014932+09:00",
-    "label": "01:59",
-    "items": [
-      {
-        "keyword": "시가총액",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606153501349"
-        }
-      },
-      {
-        "keyword": "김지원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "파격 단발 근황..김지원, 긴머리 싹둑 잘랐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605181316077"
-        }
-      },
-      {
-        "keyword": "모스 탄",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1262225.html"
-        }
-      },
-      {
-        "keyword": "김광진",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김광진, 닮은꼴 스타 라인업 \"이광수→빽가 닮았다고\" [전참시][별별TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606233916956"
-        }
-      },
-      {
-        "keyword": "f1",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "F1 qualifying LIVE: Monaco Grand Prix 2026 times, results, radio & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/formula1/live/c7vq3v8zgpjt"
-        }
-      },
-      {
-        "keyword": "케빈 더 브라위너",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'손흥민 득점왕 은사' 콘테, 나폴리와 결별 확정...KDB 작심발언 \"떠나서 기쁘다, 팀에 남을 필요 없는 사람\" [공식발표]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605133909874"
-        }
-      },
-      {
-        "keyword": "우크라이나 대통령",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"北도움 없이는 못 버텨\"…푸틴 긁은 젤렌스키, 내부분열 노렸나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606180155325"
-        }
-      },
-      {
-        "keyword": "모나코 그랑프리",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "1000번째 GP 기념일에 먹구름...맥라렌, 모나코 연습주행서 고전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6n5kPegREW"
-        }
-      },
-      {
-        "keyword": "서울지하철",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"밤새 놀던 서울, 달라졌다\"…자정 넘어 지하철 타는 사람 왜 줄었나 봤더니",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605101500458"
-        }
-      },
-      {
-        "keyword": "국립 발레단 단장",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "국립발레단장 인선 논란에 문체부 장관 \"허황된 뜬소문\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260607005101391"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-07T03:07:35.466077+09:00",
-    "label": "03:07",
-    "items": [
-      {
-        "keyword": "시가총액",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606153501349"
-        }
-      },
-      {
-        "keyword": "김지원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "파격 단발 근황..김지원, 긴머리 싹둑 잘랐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605181316077"
-        }
-      },
-      {
-        "keyword": "모스 탄",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1262225.html"
-        }
-      },
-      {
-        "keyword": "김광진",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김광진, 닮은꼴 스타 라인업 \"이광수→빽가 닮았다고\" [전참시][별별TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606233916956"
-        }
-      },
-      {
-        "keyword": "하트시그널5",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘하시5’ 이 한 장에 담겼다, 8인의 러브라인",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202606060822003"
-        }
-      },
-      {
-        "keyword": "우크라이나 대통령",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"北도움 없이는 못 버텨\"…푸틴 긁은 젤렌스키, 내부분열 노렸나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606180155325"
-        }
-      },
-      {
-        "keyword": "f1",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "F1 qualifying LIVE: Monaco Grand Prix 2026 times, results, radio & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/formula1/live/c7vq3v8zgpjt"
-        }
-      },
-      {
-        "keyword": "서울지하철",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"밤새 놀던 서울, 달라졌다\"…자정 넘어 지하철 타는 사람 왜 줄었나 봤더니",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605101500458"
-        }
-      },
-      {
-        "keyword": "케빈 더 브라위너",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'손흥민 득점왕 은사' 콘테, 나폴리와 결별 확정...KDB 작심발언 \"떠나서 기쁘다, 팀에 남을 필요 없는 사람\" [공식발표]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605133909874"
-        }
-      },
-      {
-        "keyword": "모나코 그랑프리",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "1000번째 GP 기념일에 먹구름...맥라렌, 모나코 연습주행서 고전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6n5kPegREW"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-07T05:04:09.210769+09:00",
-    "label": "05:04",
-    "items": [
-      {
-        "keyword": "모스 탄",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘개표소 시위’ 찾은 모스 탄 “부정선거 배후에 중국” 황당 주장",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1262225.html"
-        }
-      },
-      {
-        "keyword": "김지원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "파격 단발 근황..김지원, 긴머리 싹둑 잘랐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605181316077"
-        }
-      },
-      {
-        "keyword": "두코 바니",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "체코 원전 韓보조금 의혹 털었다…두코바니 사업 정상궤도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606181251502"
-        }
-      },
-      {
-        "keyword": "하트시그널5",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘하시5’ 이 한 장에 담겼다, 8인의 러브라인",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202606060822003"
-        }
-      },
-      {
-        "keyword": "우크라이나 대통령",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"北도움 없이는 못 버텨\"…푸틴 긁은 젤렌스키, 내부분열 노렸나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ZKpxJrlw1r"
-        }
-      },
-      {
-        "keyword": "portugal vs chile",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Primer tiempo terminado: Portugal y Chile empatan sin goles en Lisboa",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/es/noticias/primer-tiempo-terminado-portugal-y-chile-empatan-sin-goles-en-lisboa-42974691"
-        }
-      },
-      {
-        "keyword": "김동현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'넷째 임신' 김동현 아내, 자궁파열·산후출혈 고위험 산모 \"자궁 뗄수도\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606170703679"
-        }
-      },
-      {
-        "keyword": "f1",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Antonelli seizes pole in thrilling Monaco Qualifying",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/antonelli-seizes-brilliant-pole-in-thrilling-monaco-qualifying-ahead-of-verstappen-and-hamilton.7lWc3kpARKr1Qnle1f8X3P"
-        }
-      },
-      {
-        "keyword": "포르투갈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "뻔한 패키지 대신 취향 여행…여행업계, 소도시·크루즈·스포츠 선점 경쟁",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260605075057062"
-        }
-      },
-      {
-        "keyword": "모나코 그랑프리",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'F1 챔프 후보' 안토넬리 두고 벌써 신경전...\"페라리 이적설 사실무근\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VMOlrDCEIs"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-07T06:56:40.935662+09:00",
     "label": "06:56",
     "items": [
@@ -1797,6 +1479,112 @@
           "title": "폐업 '이효리 제주 카페' 서울서 재오픈?...이상순 \"자리 보는 중\" - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/06/08/2026060805290374108"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-08T18:17:40.764753+09:00",
+    "label": "18:17",
+    "items": [
+      {
+        "keyword": "최혁진",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'희대요시' 합성사진 들었던 최혁진 복당 신청에 민주당 시끌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260608155603130"
+        }
+      },
+      {
+        "keyword": "정용진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘스벅 사태’ 후폭풍, 책임 경영 나서나···정용진 회장, 핵심 계열사 이마트·신세계프라퍼티 대표이사 맡는다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606081422001"
+        }
+      },
+      {
+        "keyword": "박지연",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"쌍욕 날리며 잘 봤습니다\" 김희철, '참교육' 박지연 역대급 빌런 연기 '극찬'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260608163722249"
+        }
+      },
+      {
+        "keyword": "국민연금공단",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "국민연금, 장애예술인 작품전 개최…\"본부가 미술관으로 변신\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260608_0003660604"
+        }
+      },
+      {
+        "keyword": "신봉선",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"20년 전 6만원 선이었는데\"…신봉선, 안 팔고 모은 금값 '폭등'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260608_0003659505"
+        }
+      },
+      {
+        "keyword": "이하늘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] \"기자들은 결국 이하늘을 쓸 것\"...재판 앞둔 이하늘, 2024년 녹취 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260608111658406"
+        }
+      },
+      {
+        "keyword": "삼성자산운용",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'삼전·닉스' 다음은 '현대차'…피지컬AI 업고 ETF 시장 달군다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260608114335206"
+        }
+      },
+      {
+        "keyword": "한미약품",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "플랫폼도 후보물질도… “K바이오 상반기 기술수출 13조”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260608005315562"
+        }
+      },
+      {
+        "keyword": "현정화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'女 탁구 전설도 진땀' 현정화 감독, 하마터면 동호인에 질 뻔? 강릉세계마스터즈대회 열전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QSOHBkOcIf"
+        }
+      },
+      {
+        "keyword": "푸조",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[시승기] ‘1199cc 엔진 맞아?’⋯ 타보고 더 놀란 ‘푸조 하이브리드’의 정체",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260607500338"
         }
       }
     ]
