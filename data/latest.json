@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-09T08:57:11.599851+09:00",
-  "label": "08:57",
+  "timestamp": "2026-06-09T11:46:00.731118+09:00",
+  "label": "11:46",
   "items": [
     {
-      "keyword": "오십 프로",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "시어머니",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "4화 만에 시청률 6% 돌파…'천만' 배우 조합→입소문 타고 승승장구 중인 韓 드라마 ('오십프로')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260608203146868"
+        "title": "\"남편이랑 온갖 스킨십 했는데\"…아기방 CCTV 6개월간 몰래 본 시어머니",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6191371"
       }
     },
     {
-      "keyword": "대전광역시",
+      "keyword": "thaiticketmajor",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "knicks",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "(동정) 대전광역시교육감",
-        "source": "대전투데이",
-        "url": "http://www.daejeontoday.com/news/articleView.html?idxno=737453"
+        "title": "Trump loudly booed at Madison Square Garden before Knicks-Spurs NBA finals game",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/08/trump-booed-knicks-spurs-madison-square-garden.html"
       }
     },
     {
-      "keyword": "브래드 피트",
+      "keyword": "서울국제도서전",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "올해 서울국제도서전이 더 기대되는 이유 4",
+        "source": "에스콰이어 코리아",
+        "url": "https://www.esquirekorea.co.kr/article/1904019"
+      }
+    },
+    {
+      "keyword": "맘스터치",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "63세 브래드 피트, 29세 연하 여친과 공개 데이트…다정 포옹 [N해외연예]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/uQMrgSHlHy"
-      }
-    },
-    {
-      "keyword": "추가경정예산",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "경북도·대구시, 경제 회복 방점 추경 1조7729억 편성",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609084849209"
-      }
-    },
-    {
-      "keyword": "발전",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "북 \"북중 정상, 주권·안전·발전 이익 고수 견해 일치\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609072401219"
-      }
-    },
-    {
-      "keyword": "cpi",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Inflation could top 4% this week. The bond market wants Fed Chair Warsh to prove he’ll fight it.",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/inflation-could-top-4-this-week-the-bond-market-wants-fed-chair-warsh-to-prove-hell-fight-it-fbb6b04b"
-      }
-    },
-    {
-      "keyword": "올리세",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[월드컵] 프랑스, 북아일랜드에 3-1 승리…올리세 해트트릭",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/t17p21u5XF"
-      }
-    },
-    {
-      "keyword": "intc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Google and Nvidia Consider Intel as Backup Chip Manufacturer",
-        "source": "The Information",
-        "url": "https://www.theinformation.com/articles/google-nvidia-consider-intel-backup-chip-manufacturer"
-      }
-    },
-    {
-      "keyword": "밀양시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "밀양시, '한 달 여행하기' 등 체류형 관광객 유치 총력",
+        "title": "\"직장인 무도키즈 모여라\" 맘스터치, 무한도전 '무한상사 세트' 출시",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260608_0003660470"
+        "url": "https://www.newsis.com/view/NISX20260609_0003661485"
       }
     },
     {
-      "keyword": "mrvl",
+      "keyword": "교직원공제회",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "인생 3막 준비 돕는다…사학연금, 퇴직 교직원 대상 제주 연수",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260608153605112"
+      }
+    },
+    {
+      "keyword": "사직야구장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[뭐라노]야구장 재건축 실종사건 시즌 2는 바라지 않는다",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260609.99099002209"
+      }
+    },
+    {
+      "keyword": "국립생태원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Marvell is joining the S&P 500 — but history says the early bump comes with a big catch: Chart of the Day",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/marvell-is-joining-the-sp-500--but-history-says-the-early-bump-comes-with-a-big-catch-chart-of-the-day-174839173.html"
+        "title": "“하늘다람쥐와 노래하며 배워요” 영양군, 어린이 환경교육 뮤지컬 첫 개최",
+        "source": "스트레이트뉴스",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=304321"
+      }
+    },
+    {
+      "keyword": "국가유산청",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "한 달여 남은 부산 세계유산위…파리서 준비 상황·계획 발표",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260609100526660"
+      }
+    },
+    {
+      "keyword": "디지털배움터",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "경기도서관, 세대별 맞춤형 'AI 창작챌린지' 운영",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/article/2026060908441728114"
       }
     }
   ]
