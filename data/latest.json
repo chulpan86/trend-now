@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-09T22:37:25.268889+09:00",
-  "label": "22:37",
+  "timestamp": "2026-06-10T01:25:36.010464+09:00",
+  "label": "01:25",
   "items": [
     {
-      "keyword": "투표함",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "법원, 잠실 투표용지 보관상자 등 증거보전 결정···10일 현장검증",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606091801001"
-      }
-    },
-    {
-      "keyword": "서울 날씨",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[날씨] 대구·경북 내일 최고 30도 안팎…자외선 지수 ‘매우 높음’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609202609256"
-      }
-    },
-    {
-      "keyword": "신용보증재단중앙회",
+      "keyword": "소상공인연합회",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "지역신보재단, 재보증 예산 '조속 추경' 목소리",
+        "title": "소상공인, 국회 앞에서 '일하는 사람 기본법' 반대 집회",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260609080900030"
+      }
+    },
+    {
+      "keyword": "성유리",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'남편 리스크' 성유리, 청순 버렸다…시크+고혹 아우라",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260609202504239"
+        "url": "https://v.daum.net/v/20260609151149828"
       }
     },
     {
-      "keyword": "박정현",
+      "keyword": "gta6",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "허태정 대전 인수위 가동…\"민선 8기 문제 살펴\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609200835878"
+        "title": "GTA 6 LIVE: Physical game box 'spotted' on store shelves",
+        "source": "Indy100",
+        "url": "https://www.indy100.com/gaming/gta-6-preorders-release-dater-trailer"
       }
     },
     {
-      "keyword": "박현주",
+      "keyword": "롯데백화점 인천점",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "박현주, 스페이스X '무한신뢰'… \"성장 잠재력 커 장기보유할 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609200602818"
+        "title": "시몬스, 판교 현대백화점 팝업 열고 프리미엄 침대 시장 공략",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260608214915"
       }
     },
     {
-      "keyword": "양도",
+      "keyword": "한국경제tv",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"한국 보유세 낮다\" 李 대통령 발언에…부동산 시장 '술렁' [돈앤톡]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026060835476"
+        "title": "서울 관악구 신안산선 공사 현장에서 30대 하청 노동자 추락사",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8582219"
       }
     },
     {
-      "keyword": "f-35a",
+      "keyword": "관악구",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Poland Deploys First F-35A Husarz Fighters to Strengthen NATO Eastern Flank Air Defense",
-        "source": "Army Recognition",
-        "url": "https://armyrecognition.com/news/aerospace-news/2026/poland-deploys-first-f-35a-husarz-fighters-to-strengthen-nato-eastern-flank-air-defense"
+        "title": "관악구, 사당역 6번출구 '남현예술정원' 새 단장",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260609117600004"
       }
     },
     {
-      "keyword": "จีน พบ ไทย",
+      "keyword": "덴비",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[Here’s Way To Watch] ทีมชาติไทย ปะทะ จีน Thailand national team vs. China ถ่ายทอดสดทางช่องทีวี",
-        "source": "和歌山大学",
-        "url": "https://web.wakayama-u.ac.jp/vtour/?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJsb2FkcGFubygnaHR0cHM6Ly9zcG9ydHNtYXgucHJvL3ZtYy8nKTsiPjwva3JwYW5vPg==&id=video-thailand-national-team-vs-china-liv-str-edcijqa"
+        "title": "Final piece of 'iconic' Denby Pottery signed by designer",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cx2vljzw5ego"
       }
     },
     {
-      "keyword": "시진핑",
+      "keyword": "시국선언",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] \"선관위 회의록 공개 거부\"…근거로 든 ‘방탄 판례’ 입수",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12302332"
+      }
+    },
+    {
+      "keyword": "조훈",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "북 ‘안러경중’ 과시…‘한국 패싱’ 노골화",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609214525616"
+        "title": "동상이몽2_너는 내 운명 : 조훈×윤혜정, 커플 댄스 추며 결혼식 등장",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC479828013"
       }
     },
     {
-      "keyword": "lig 디펜스&에어로스페이스",
+      "keyword": "행복주택",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "인도네시아 한국산 '천궁-II' 도입하나..LIG넥스원에 구매의향서 발급",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609145438838"
+        "title": "신혼부부 공공임대주택 입주 기준 완화…특별공급 기회는 확대",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966196"
       }
     }
   ]
