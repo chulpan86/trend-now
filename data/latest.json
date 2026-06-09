@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-10T04:07:26.390056+09:00",
-  "label": "04:07",
+  "timestamp": "2026-06-10T06:30:29.669133+09:00",
+  "label": "06:30",
   "items": [
     {
-      "keyword": "나스닥",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "김가영",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "뉴욕증시, 미-이란 종전 기대감·기술주 강세에 상승 출발",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260609174000009"
-      }
-    },
-    {
-      "keyword": "린",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'이수와 이혼' 린, 화장실 바닥서 식사 해명 \"공황 올 거 같아서\" - 머니투데이",
+        "title": "장가연 '또' 우승자 격파-'상금 10억 도전' 김가영, 나란히 8강행... 강동궁-김준태 32강서 격돌 [PBA] - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/06/09/2026060916100970302"
+        "url": "https://www.mt.co.kr/sports/2026/06/08/2026060809173679502"
       }
     },
     {
-      "keyword": "코스피 야간선물",
+      "keyword": "아파트",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“나가면 지옥, 최대한 붙어있자”…오피스텔 세입자도 갱신권 더 썼다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260610060605209"
+      }
+    },
+    {
+      "keyword": "김두겸",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "상승장에 수십조 팔아치우던 외국인 폭락장에선 ‘관망’ 왜?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/G3QCJ771Ge"
+        "title": "송파 51%, 옹진은 100%… ‘엿장수 투표용지’",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/politics_general/2026/06/10/YPKSG4NCQFEQTN3FAPQDME3PKE/"
       }
     },
     {
-      "keyword": "jtbc",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "오버워치",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "임영웅",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "중앙대 가상융합대학, 美 텍사스대 댈러스와 ‘오버워치’ 친선경기…북미 상위랭커팀에 0대2 석패",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11594341"
+        "title": "임영웅, 반려견 시월이와 전한 여름 감성…'산골총각 영웅' 포스터 공개",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260609164730564"
       }
     },
     {
-      "keyword": "유미",
+      "keyword": "노동자",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "장윤정, 유미에게 신곡 준 이유",
-        "source": "톱클래스",
-        "url": "http://topclass.chosun.com/news/articleView.html?idxno=36382"
+        "title": "배달기사 등 최저임금 적용에…\"자영업자라 불가\" vs \"근거충분\"(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260609133551530"
       }
     },
     {
-      "keyword": "전쟁",
+      "keyword": "정성호",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "트럼프 \"강력한 합의할 것…이란 핵무기 불허\"",
+        "title": "'청람회' 국보법 조작사건 피의자들, 45년만에 무혐의 처분",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260609136200063"
+      }
+    },
+    {
+      "keyword": "qqq",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "SpaceX IPO begins June 12 and could join the Nasdaq-100 index tracked by QQQ within 15 trading days",
+        "source": "eciks.org",
+        "url": "https://eciks.org/7803-24831-qqq-spacex-ipo-nasdaq-100-june-2026"
+      }
+    },
+    {
+      "keyword": "avc컵 여자 배구 대회",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "여자배구대표팀, 필리핀 꺾고 AVC컵 3연승…강소휘 19득점",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260609210847047"
+        "url": "https://v.daum.net/v/4rWoQKKptT"
       }
     },
     {
-      "keyword": "트럼프",
+      "keyword": "성호전자",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이스라엘, 레바논 또 공습…이란과 상호 '공격 중단' 하루만",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419147"
+        "title": "[특징주] 성호전자, 체질 개선·호실적 전망…두자릿수↑",
+        "source": "에너지경제신문",
+        "url": "https://m.ekn.kr/view.php?key=20260609027181708"
       }
     },
     {
-      "keyword": "본사",
+      "keyword": "경상남도",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "스타벅스 '탱크데이' 후폭풍에 제휴카드 직격탄…우리카드 발급 88% '뚝'",
+        "title": "경남, 이달 ‘도지사 직통 핫라인’ 개통",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260609173521676"
-      }
-    },
-    {
-      "keyword": "nasdaq",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Stocks tumble, with Nasdaq shedding more than 1% as chip comeback fizzles: Live updates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html"
+        "url": "https://v.daum.net/v/20260610043358969"
       }
     }
   ]
