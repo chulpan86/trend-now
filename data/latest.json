@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-09T15:40:20.880125+09:00",
-  "label": "15:40",
+  "timestamp": "2026-06-09T19:28:04.840685+09:00",
+  "label": "19:28",
   "items": [
     {
-      "keyword": "사기",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "이재용",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "전북 원룸 4곳서 노쇼사기 ‘비밀기지’ 운영…휴대전화 303대·유심 1969개 압수",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609131336045"
+        "title": "\"솔직히 놀랐다\"…이재용 결단에 삼성 임원들도 '감탄'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606095339g"
       }
     },
     {
-      "keyword": "김효주",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "이준석",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "LPGA 다우 챔피언십 11일 개막…임진희·이소미 타이틀 방어전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VrcvM00HHN"
-      }
-    },
-    {
-      "keyword": "유아교사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "독감 확진 받고도 출근하다 숨진 20대 유치원 교사 ‘직무상 재해 인정’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606082308001"
-      }
-    },
-    {
-      "keyword": "k패스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "K-패스 환급 조건 & 카드 정보 업데이트 가이드",
-        "source": "시빅뉴스",
-        "url": "https://www.civicnews.com/news/articleView.html?idxno=39965"
-      }
-    },
-    {
-      "keyword": "삼육대학교",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "삼육대 김일옥·박철주 교수, '스승의 날' 유공자로 교육부장관 표창",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260608_0003660713"
-      }
-    },
-    {
-      "keyword": "bangladesh vs australia",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Confident Bangladesh pose Australia a fresh challenge after 15-year wait for an ODI series",
-        "source": "ESPNcricinfo",
-        "url": "https://www.espncricinfo.com/series/australia-in-bangladesh-2026-1532475/bangladesh-vs-australia-1st-odi-1532480/match-preview"
-      }
-    },
-    {
-      "keyword": "지리산",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "지리산 등산 나선 60대 이틀 만에 계곡서 숨진 채 발견",
+        "title": "이준석 \"국민의힘 오늘부로 윤어게인 정당…황교안과 일체화\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260609052700052"
+        "url": "https://www.yna.co.kr/view/AKR20260609079500001"
       }
     },
     {
-      "keyword": "배용준",
+      "keyword": "kia 타이거즈",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "KIA 배부르네! \"슈퍼스타 도영이 형 곁이라 큰 복\"…'07년생' 신인 외야수, 멀티히트보다 '3삼진' 곱씹었다 [광주 인터뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260608221500369"
+      }
+    },
+    {
+      "keyword": "유조선",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "원유 200만 배럴 유조선 내일 도착...호르무즈 탈출 20일 만",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12302294"
+      }
+    },
+    {
+      "keyword": "u.s. 여자 오픈 챔피언십",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "김세영, 여자골프 세계랭킹 톱10 진입…전인지는 43위",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260609055707932"
+      }
+    },
+    {
+      "keyword": "국민 총소득",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "지난해 1인당 국민총소득 3만6963달러... 대만·일본에 추월당했다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/06/09/POT6XVHEM5AKJJIWJ2NVTY25CQ/"
+      }
+    },
+    {
+      "keyword": "대한체육회",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "배용준·박수진, 근황 전해졌다…자녀들과 싱가포르 공항서 포착",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260609_0003661334"
+        "title": "[단독] 경기장 봉쇄에 발 묶인 아시안게임 선수들…대한체육회 측 호소에 \"신분증 검사·짐 수색\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12302261"
       }
     },
     {
-      "keyword": "솔로지옥 5",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "lg전자",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "톰 '더 글로우', 올리브영 미국서 실시간 랭킹 1위…북미 시장 순항 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/future/2026/06/08/2026060811114561770"
+        "title": "LG그룹株, 엔비디아 회동에도 약세…LG전자 8% 급락[이런국장 저런주식]",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20053016"
       }
     },
     {
-      "keyword": "jung hoo lee",
+      "keyword": "에어컨",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Lee Jung-hoo's 16-Game Streak Propels Him to MLB Batting Co-2nd",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/06/09/TERIGFNFPVDXZMS7O6VXDC63F4/"
+        "title": "[속보]땡볕에 에어컨 실외기 설치하던 2명 추락…모두 숨져",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11594365"
+      }
+    },
+    {
+      "keyword": "닌텐도 다이렉트",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "하반기 신작 총출동, 닌텐도 다이렉트 9일 밤 11시 방송",
+        "source": "게임메카",
+        "url": "https://www.gamemeca.com/view.php?gid=1776256"
       }
     }
   ]
