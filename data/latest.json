@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-09T11:46:00.731118+09:00",
-  "label": "11:46",
+  "timestamp": "2026-06-09T15:40:20.880125+09:00",
+  "label": "15:40",
   "items": [
     {
-      "keyword": "시어머니",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "사기",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "\"남편이랑 온갖 스킨십 했는데\"…아기방 CCTV 6개월간 몰래 본 시어머니",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6191371"
+        "title": "전북 원룸 4곳서 노쇼사기 ‘비밀기지’ 운영…휴대전화 303대·유심 1969개 압수",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260609131336045"
       }
     },
     {
-      "keyword": "thaiticketmajor",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "knicks",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "김효주",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "Trump loudly booed at Madison Square Garden before Knicks-Spurs NBA finals game",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/08/trump-booed-knicks-spurs-madison-square-garden.html"
+        "title": "LPGA 다우 챔피언십 11일 개막…임진희·이소미 타이틀 방어전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VrcvM00HHN"
       }
     },
     {
-      "keyword": "서울국제도서전",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "유아교사",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "올해 서울국제도서전이 더 기대되는 이유 4",
-        "source": "에스콰이어 코리아",
-        "url": "https://www.esquirekorea.co.kr/article/1904019"
+        "title": "독감 확진 받고도 출근하다 숨진 20대 유치원 교사 ‘직무상 재해 인정’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606082308001"
       }
     },
     {
-      "keyword": "맘스터치",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "k패스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"직장인 무도키즈 모여라\" 맘스터치, 무한도전 '무한상사 세트' 출시",
+        "title": "K-패스 환급 조건 & 카드 정보 업데이트 가이드",
+        "source": "시빅뉴스",
+        "url": "https://www.civicnews.com/news/articleView.html?idxno=39965"
+      }
+    },
+    {
+      "keyword": "삼육대학교",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "삼육대 김일옥·박철주 교수, '스승의 날' 유공자로 교육부장관 표창",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260609_0003661485"
+        "url": "https://www.newsis.com/view/NISX20260608_0003660713"
       }
     },
     {
-      "keyword": "교직원공제회",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "bangladesh vs australia",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "인생 3막 준비 돕는다…사학연금, 퇴직 교직원 대상 제주 연수",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260608153605112"
+        "title": "Confident Bangladesh pose Australia a fresh challenge after 15-year wait for an ODI series",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/australia-in-bangladesh-2026-1532475/bangladesh-vs-australia-1st-odi-1532480/match-preview"
       }
     },
     {
-      "keyword": "사직야구장",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "지리산",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[뭐라노]야구장 재건축 실종사건 시즌 2는 바라지 않는다",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260609.99099002209"
+        "title": "지리산 등산 나선 60대 이틀 만에 계곡서 숨진 채 발견",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260609052700052"
       }
     },
     {
-      "keyword": "국립생태원",
+      "keyword": "배용준",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "배용준·박수진, 근황 전해졌다…자녀들과 싱가포르 공항서 포착",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260609_0003661334"
+      }
+    },
+    {
+      "keyword": "솔로지옥 5",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“하늘다람쥐와 노래하며 배워요” 영양군, 어린이 환경교육 뮤지컬 첫 개최",
-        "source": "스트레이트뉴스",
-        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=304321"
+        "title": "톰 '더 글로우', 올리브영 미국서 실시간 랭킹 1위…북미 시장 순항 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/future/2026/06/08/2026060811114561770"
       }
     },
     {
-      "keyword": "국가유산청",
+      "keyword": "jung hoo lee",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한 달여 남은 부산 세계유산위…파리서 준비 상황·계획 발표",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609100526660"
-      }
-    },
-    {
-      "keyword": "디지털배움터",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "경기도서관, 세대별 맞춤형 'AI 창작챌린지' 운영",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026060908441728114"
+        "title": "Lee Jung-hoo's 16-Game Streak Propels Him to MLB Batting Co-2nd",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/06/09/TERIGFNFPVDXZMS7O6VXDC63F4/"
       }
     }
   ]
