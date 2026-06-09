@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-10T06:30:29.669133+09:00",
-  "label": "06:30",
+  "timestamp": "2026-06-10T08:10:50.771292+09:00",
+  "label": "08:10",
   "items": [
     {
-      "keyword": "김가영",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "축구",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "장가연 '또' 우승자 격파-'상금 10억 도전' 김가영, 나란히 8강행... 강동궁-김준태 32강서 격돌 [PBA] - 머니투데이",
+        "title": "[월드컵] 체코전 D-2 홍명보호, 빗장 걸고 세트피스 집중 훈련",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260610007300007"
+      }
+    },
+    {
+      "keyword": "옷",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘극단의 시대’의 옷 입기 [유레카]",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/opinion/column/1262511.html"
+      }
+    },
+    {
+      "keyword": "차상현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "여자배구대표팀, 필리핀 꺾고 AVC컵 3연승…강소휘 19득점",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260609154500007"
+      }
+    },
+    {
+      "keyword": "홍진영",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "신지♥문원 결혼식 '눈물바다'…빽가 \"네 뒤에 우리 있다\" 오열 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/06/08/2026060809173679502"
+        "url": "https://www.mt.co.kr/entertainment/2026/06/10/2026060923292995287"
       }
     },
     {
-      "keyword": "아파트",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“나가면 지옥, 최대한 붙어있자”…오피스텔 세입자도 갱신권 더 썼다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260610060605209"
-      }
-    },
-    {
-      "keyword": "김두겸",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "송파 51%, 옹진은 100%… ‘엿장수 투표용지’",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/politics_general/2026/06/10/YPKSG4NCQFEQTN3FAPQDME3PKE/"
-      }
-    },
-    {
-      "keyword": "임영웅",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "임영웅, 반려견 시월이와 전한 여름 감성…'산골총각 영웅' 포스터 공개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260609164730564"
-      }
-    },
-    {
-      "keyword": "노동자",
+      "keyword": "영양소",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "배달기사 등 최저임금 적용에…\"자영업자라 불가\" vs \"근거충분\"(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260609133551530"
-      }
-    },
-    {
-      "keyword": "정성호",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'청람회' 국보법 조작사건 피의자들, 45년만에 무혐의 처분",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260609136200063"
-      }
-    },
-    {
-      "keyword": "qqq",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "SpaceX IPO begins June 12 and could join the Nasdaq-100 index tracked by QQQ within 15 trading days",
-        "source": "eciks.org",
-        "url": "https://eciks.org/7803-24831-qqq-spacex-ipo-nasdaq-100-june-2026"
-      }
-    },
-    {
-      "keyword": "avc컵 여자 배구 대회",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "여자배구대표팀, 필리핀 꺾고 AVC컵 3연승…강소휘 19득점",
+        "title": "한여름에도 부족해지기 쉬운 영양소…달걀보다 ‘비타민D’가 많은 식품 6가지",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4rWoQKKptT"
+        "url": "https://v.daum.net/v/20260607120138323"
       }
     },
     {
-      "keyword": "성호전자",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "schd",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[특징주] 성호전자, 체질 개선·호실적 전망…두자릿수↑",
-        "source": "에너지경제신문",
-        "url": "https://m.ekn.kr/view.php?key=20260609027181708"
+        "title": "The Case for Holding SCHD in Your Roth IRA",
+        "source": "AOL.com",
+        "url": "https://www.aol.com/articles/case-holding-schd-roth-ira-135508858.html"
       }
     },
     {
-      "keyword": "경상남도",
+      "keyword": "aapl",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "UBS reiterates Apple stock neutral rating, keeps $296 target",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-apple-stock-neutral-rating-keeps-296-target-93CH-4733354"
+      }
+    },
+    {
+      "keyword": "tsla",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "경남, 이달 ‘도지사 직통 핫라인’ 개통",
+        "title": "Wolfe Research reiterates Peerperform on Tesla stock amid catalysts",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-peerperform-on-tesla-stock-amid-catalysts-93CH-4732467"
+      }
+    },
+    {
+      "keyword": "소비",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "고양시, 10∼14일 원당·일산시장서 온누리상품권 환급행사",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260610043358969"
+        "url": "https://v.daum.net/v/20260609142401443"
+      }
+    },
+    {
+      "keyword": "중앙일보",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[이진영 칼럼]李의 조작 기소 ‘오물’ 털어내기",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Opinion/article/all/20260609/134079420/2"
       }
     }
   ]

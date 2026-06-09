@@ -1262,5 +1262,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-10T08:10:50.771292+09:00",
+    "label": "08:10",
+    "items": [
+      {
+        "keyword": "축구",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[월드컵] 체코전 D-2 홍명보호, 빗장 걸고 세트피스 집중 훈련",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260610007300007"
+        }
+      },
+      {
+        "keyword": "옷",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘극단의 시대’의 옷 입기 [유레카]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1262511.html"
+        }
+      },
+      {
+        "keyword": "차상현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "여자배구대표팀, 필리핀 꺾고 AVC컵 3연승…강소휘 19득점",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260609154500007"
+        }
+      },
+      {
+        "keyword": "홍진영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "신지♥문원 결혼식 '눈물바다'…빽가 \"네 뒤에 우리 있다\" 오열 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/10/2026060923292995287"
+        }
+      },
+      {
+        "keyword": "영양소",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한여름에도 부족해지기 쉬운 영양소…달걀보다 ‘비타민D’가 많은 식품 6가지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260607120138323"
+        }
+      },
+      {
+        "keyword": "schd",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "The Case for Holding SCHD in Your Roth IRA",
+          "source": "AOL.com",
+          "url": "https://www.aol.com/articles/case-holding-schd-roth-ira-135508858.html"
+        }
+      },
+      {
+        "keyword": "aapl",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "UBS reiterates Apple stock neutral rating, keeps $296 target",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-apple-stock-neutral-rating-keeps-296-target-93CH-4733354"
+        }
+      },
+      {
+        "keyword": "tsla",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Wolfe Research reiterates Peerperform on Tesla stock amid catalysts",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-peerperform-on-tesla-stock-amid-catalysts-93CH-4732467"
+        }
+      },
+      {
+        "keyword": "소비",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고양시, 10∼14일 원당·일산시장서 온누리상품권 환급행사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609142401443"
+        }
+      },
+      {
+        "keyword": "중앙일보",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[이진영 칼럼]李의 조작 기소 ‘오물’ 털어내기",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260609/134079420/2"
+        }
+      }
+    ]
   }
 ]
