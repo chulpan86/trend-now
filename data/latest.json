@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-10T01:25:36.010464+09:00",
-  "label": "01:25",
+  "timestamp": "2026-06-10T04:07:26.390056+09:00",
+  "label": "04:07",
   "items": [
     {
-      "keyword": "소상공인연합회",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "나스닥",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "소상공인, 국회 앞에서 '일하는 사람 기본법' 반대 집회",
+        "title": "뉴욕증시, 미-이란 종전 기대감·기술주 강세에 상승 출발",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260609080900030"
+        "url": "https://www.yna.co.kr/view/AKR20260609174000009"
       }
     },
     {
-      "keyword": "성유리",
+      "keyword": "린",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'남편 리스크' 성유리, 청순 버렸다…시크+고혹 아우라",
+        "title": "'이수와 이혼' 린, 화장실 바닥서 식사 해명 \"공황 올 거 같아서\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/06/09/2026060916100970302"
+      }
+    },
+    {
+      "keyword": "코스피 야간선물",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "상승장에 수십조 팔아치우던 외국인 폭락장에선 ‘관망’ 왜?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260609151149828"
+        "url": "https://v.daum.net/v/G3QCJ771Ge"
       }
     },
     {
-      "keyword": "gta6",
+      "keyword": "jtbc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "오버워치",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "GTA 6 LIVE: Physical game box 'spotted' on store shelves",
-        "source": "Indy100",
-        "url": "https://www.indy100.com/gaming/gta-6-preorders-release-dater-trailer"
+        "title": "중앙대 가상융합대학, 美 텍사스대 댈러스와 ‘오버워치’ 친선경기…북미 상위랭커팀에 0대2 석패",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11594341"
       }
     },
     {
-      "keyword": "롯데백화점 인천점",
+      "keyword": "유미",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "시몬스, 판교 현대백화점 팝업 열고 프리미엄 침대 시장 공략",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260608214915"
+        "title": "장윤정, 유미에게 신곡 준 이유",
+        "source": "톱클래스",
+        "url": "http://topclass.chosun.com/news/articleView.html?idxno=36382"
       }
     },
     {
-      "keyword": "한국경제tv",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "서울 관악구 신안산선 공사 현장에서 30대 하청 노동자 추락사",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8582219"
-      }
-    },
-    {
-      "keyword": "관악구",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "관악구, 사당역 6번출구 '남현예술정원' 새 단장",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260609117600004"
-      }
-    },
-    {
-      "keyword": "덴비",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Final piece of 'iconic' Denby Pottery signed by designer",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cx2vljzw5ego"
-      }
-    },
-    {
-      "keyword": "시국선언",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독] \"선관위 회의록 공개 거부\"…근거로 든 ‘방탄 판례’ 입수",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12302332"
-      }
-    },
-    {
-      "keyword": "조훈",
+      "keyword": "전쟁",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "동상이몽2_너는 내 운명 : 조훈×윤혜정, 커플 댄스 추며 결혼식 등장",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC479828013"
+        "title": "트럼프 \"강력한 합의할 것…이란 핵무기 불허\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260609210847047"
       }
     },
     {
-      "keyword": "행복주택",
+      "keyword": "트럼프",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "신혼부부 공공임대주택 입주 기준 완화…특별공급 기회는 확대",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148966196"
+        "title": "이스라엘, 레바논 또 공습…이란과 상호 '공격 중단' 하루만",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419147"
+      }
+    },
+    {
+      "keyword": "본사",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "스타벅스 '탱크데이' 후폭풍에 제휴카드 직격탄…우리카드 발급 88% '뚝'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260609173521676"
+      }
+    },
+    {
+      "keyword": "nasdaq",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Stocks tumble, with Nasdaq shedding more than 1% as chip comeback fizzles: Live updates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html"
       }
     }
   ]

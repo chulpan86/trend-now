@@ -1160,5 +1160,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-10T04:07:26.390056+09:00",
+    "label": "04:07",
+    "items": [
+      {
+        "keyword": "나스닥",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "뉴욕증시, 미-이란 종전 기대감·기술주 강세에 상승 출발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260609174000009"
+        }
+      },
+      {
+        "keyword": "린",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'이수와 이혼' 린, 화장실 바닥서 식사 해명 \"공황 올 거 같아서\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/09/2026060916100970302"
+        }
+      },
+      {
+        "keyword": "코스피 야간선물",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "상승장에 수십조 팔아치우던 외국인 폭락장에선 ‘관망’ 왜?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/G3QCJ771Ge"
+        }
+      },
+      {
+        "keyword": "jtbc",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "오버워치",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "중앙대 가상융합대학, 美 텍사스대 댈러스와 ‘오버워치’ 친선경기…북미 상위랭커팀에 0대2 석패",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11594341"
+        }
+      },
+      {
+        "keyword": "유미",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "장윤정, 유미에게 신곡 준 이유",
+          "source": "톱클래스",
+          "url": "http://topclass.chosun.com/news/articleView.html?idxno=36382"
+        }
+      },
+      {
+        "keyword": "전쟁",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "트럼프 \"강력한 합의할 것…이란 핵무기 불허\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609210847047"
+        }
+      },
+      {
+        "keyword": "트럼프",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이스라엘, 레바논 또 공습…이란과 상호 '공격 중단' 하루만",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419147"
+        }
+      },
+      {
+        "keyword": "본사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "스타벅스 '탱크데이' 후폭풍에 제휴카드 직격탄…우리카드 발급 88% '뚝'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609173521676"
+        }
+      },
+      {
+        "keyword": "nasdaq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Stocks tumble, with Nasdaq shedding more than 1% as chip comeback fizzles: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html"
+        }
+      }
+    ]
   }
 ]
