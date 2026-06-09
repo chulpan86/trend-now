@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08T07:54:13.966377+09:00",
-    "label": "07:54",
-    "items": [
-      {
-        "keyword": "날씨",
-        "traffic_raw": "100000+",
-        "traffic": 100000,
-        "news": {
-          "title": "[출근길 날씨] 흐리고 더위 주춤…동쪽 소나기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260608064957513"
-        }
-      },
-      {
-        "keyword": "전인지",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김세영 공동 선두·전인지 3위…코르다와 우승 경쟁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/89tHiCWIus"
-        }
-      },
-      {
-        "keyword": "제헌절",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "제헌절 18년 만에 공휴일 부활… 올해 7월 첫 '3일 황금연휴' 열린다",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3602017"
-        }
-      },
-      {
-        "keyword": "보스턴다이내믹스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘라보나 킥’까지 성공한 아틀라스···어떻게 훈련했나 봤더니",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606050850001"
-        }
-      },
-      {
-        "keyword": "셀트리온",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[급등락주 짚어보기] 코스피 대원제약 '유일 상한가'...코스닥은 로봇·OLED 등 4개사 랠리",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260605172607505"
-        }
-      },
-      {
-        "keyword": "고윤정",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전지현 맞서 고윤정 내세웠다...‘얼굴’ 놓고 경쟁 벌이는 애슬레저 1·2위 기업",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260607190000517"
-        }
-      },
-      {
-        "keyword": "불",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "안산 공장 화재 11개 동으로 확산…소방 대응 1단계 햐향",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260608064405433"
-        }
-      },
-      {
-        "keyword": "부산날씨",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "부산·울산·경남, 낮 최고 25~29도…내일은 비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260606011300051"
-        }
-      },
-      {
-        "keyword": "고소영",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "건물 자랑에 비싼 과일 발언까지…고소영, 뒤늦게 '구독자 10만' [엑's 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606162953049"
-        }
-      },
-      {
-        "keyword": "오늘의 운세",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[오늘의 운세] 6월 8일 월요일 (음력 4월 23일 癸丑)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/06/07/NSJCWJPHPVD7NNJNH5OQAHO6LM/"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-08T08:59:09.723627+09:00",
-    "label": "08:59",
-    "items": [
-      {
-        "keyword": "us 여자 오픈",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "김세영 공동 선두·전인지 3위…코르다와 우승 경쟁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/89tHiCWIus"
-        }
-      },
-      {
-        "keyword": "교사",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[기고]아이들은 교실 밖에서 더 크게 자란다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20052583"
-        }
-      },
-      {
-        "keyword": "제39보병사단",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "육군 제39보병사단 소대장들 \"전역보다 임무 완수\"",
-          "source": "경남일보",
-          "url": "https://www.gnnews.co.kr/news/articleView.html?idxno=638453"
-        }
-      },
-      {
-        "keyword": "경상남도",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "경남도, 정부 '첨단제조로봇 실증사업' 공모에 11개 과제 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260607111004222"
-        }
-      },
-      {
-        "keyword": "미국 해군",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“J-20이 스텔스라고? 中, 후회할 것” 美공군 소령의 지적 [밀리터리 브리핑]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260608050200644"
-        }
-      },
-      {
-        "keyword": "제이콥 미시오로브스키",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Brewers' Misiorowski throws 103.7 mph pitch to set starter record",
-          "source": "ESPN",
-          "url": "https://www.espn.com/mlb/story/_/id/48988921/brewers-misiorowski-throws-1037-mph-pitch-set-starter-record"
-        }
-      },
-      {
-        "keyword": "금시세",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "싹싹 모아 팔았는데 '휴~'…오른만큼 떨어졌다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260607n00019"
-        }
-      },
-      {
-        "keyword": "엘링 홀란드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "노르웨이는 모로코와 1-1로 비겼다. 엘링 홀란드는 북아프리카 팀의 견고한 수비에 속수무책이었다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/na-uy-hoa-morocco-1-1-khi-erling-haaland-bat-luc-truoc-hang-thu-thep-cua-dai-dien-bac-phi"
-        }
-      },
-      {
-        "keyword": "코인니스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘금리 인상 공포’에 비트코인 16% 급락…스페이스X IPO도 부담[가상자산 나침반]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/804ZBX0HT9"
-        }
-      },
-      {
-        "keyword": "경기도교육감",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "안민석 경기도교육감 당선자 “학교내 휴대전화 사용 막겠다”",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1765153"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-08T13:09:59.898147+09:00",
     "label": "13:09",
     "items": [
@@ -1263,6 +1051,112 @@
           "title": "하반기 신작 총출동, 닌텐도 다이렉트 9일 밤 11시 방송",
           "source": "게임메카",
           "url": "https://www.gamemeca.com/view.php?gid=1776256"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-09T22:37:25.268889+09:00",
+    "label": "22:37",
+    "items": [
+      {
+        "keyword": "투표함",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "법원, 잠실 투표용지 보관상자 등 증거보전 결정···10일 현장검증",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606091801001"
+        }
+      },
+      {
+        "keyword": "서울 날씨",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[날씨] 대구·경북 내일 최고 30도 안팎…자외선 지수 ‘매우 높음’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609202609256"
+        }
+      },
+      {
+        "keyword": "신용보증재단중앙회",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "지역신보재단, 재보증 예산 '조속 추경' 목소리",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609202504239"
+        }
+      },
+      {
+        "keyword": "박정현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "허태정 대전 인수위 가동…\"민선 8기 문제 살펴\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609200835878"
+        }
+      },
+      {
+        "keyword": "박현주",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박현주, 스페이스X '무한신뢰'… \"성장 잠재력 커 장기보유할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609200602818"
+        }
+      },
+      {
+        "keyword": "양도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"한국 보유세 낮다\" 李 대통령 발언에…부동산 시장 '술렁' [돈앤톡]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026060835476"
+        }
+      },
+      {
+        "keyword": "f-35a",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Poland Deploys First F-35A Husarz Fighters to Strengthen NATO Eastern Flank Air Defense",
+          "source": "Army Recognition",
+          "url": "https://armyrecognition.com/news/aerospace-news/2026/poland-deploys-first-f-35a-husarz-fighters-to-strengthen-nato-eastern-flank-air-defense"
+        }
+      },
+      {
+        "keyword": "จีน พบ ไทย",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[Here’s Way To Watch] ทีมชาติไทย ปะทะ จีน Thailand national team vs. China ถ่ายทอดสดทางช่องทีวี",
+          "source": "和歌山大学",
+          "url": "https://web.wakayama-u.ac.jp/vtour/?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJsb2FkcGFubygnaHR0cHM6Ly9zcG9ydHNtYXgucHJvL3ZtYy8nKTsiPjwva3JwYW5vPg==&id=video-thailand-national-team-vs-china-liv-str-edcijqa"
+        }
+      },
+      {
+        "keyword": "시진핑",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "북 ‘안러경중’ 과시…‘한국 패싱’ 노골화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609214525616"
+        }
+      },
+      {
+        "keyword": "lig 디펜스&에어로스페이스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "인도네시아 한국산 '천궁-II' 도입하나..LIG넥스원에 구매의향서 발급",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609145438838"
         }
       }
     ]
