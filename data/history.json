@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09T05:01:12.328992+09:00",
-    "label": "05:01",
-    "items": [
-      {
-        "keyword": "오마이 뉴스",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "국힘 '397억' 반환하나…'허위사실 공표' 윤에 징역 2년 구형",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260608200457302"
-        }
-      },
-      {
-        "keyword": "wwdc 2026",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Apple WWDC 2026: The 7 biggest announcements",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27"
-        }
-      },
-      {
-        "keyword": "롤",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "고동빈 “포기 모르는 선수들이 따낸 원주행 티켓”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/85IRlu9UT1"
-        }
-      },
-      {
-        "keyword": "김민하",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "9㎏ 감량 김민하, 꾸민 듯 안 꾸민 듯 거울샷 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260608_0003660807"
-        }
-      },
-      {
-        "keyword": "시청률",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이준영 '신입사원 강회장', 3.7%→8.2% 시청률 상승세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2yAxkQiPoV"
-        }
-      },
-      {
-        "keyword": "네덜란드 대 우즈베키스탄",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "2026년 6월 9일 네덜란드와 우즈베키스탄의 친선 경기 프리뷰 및 생중계입니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-truc-tiep-ha-lan-vs-uzbekistan-giai-giao-huu-quoc-te-ngay-9-6-2026"
-        }
-      },
-      {
-        "keyword": "리그오브레전드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "LoL 베인을 잇는 악마 사냥꾼, 신규 챔피언 '로크' 트레일러 공개",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317286"
-        }
-      },
-      {
-        "keyword": "이승환",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이승환, 윤서인에 5천만원 손배소…“사생활 비하, 표현의 자유 아냐”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1262487.html"
-        }
-      },
-      {
-        "keyword": "네타냐후",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "네타냐후 “이란 공습 당분간 중단… 공격 재개시 강경 대응”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260609035336412"
-        }
-      },
-      {
-        "keyword": "netherlands vs usa",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "How to watch today's Netherlands vs Uzbekistan Friendly game: Live stream, TV channel, and start time",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-netherlands-v-uzbekistan/blt66fbe9c3e446dfcf"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-09T07:23:11.491868+09:00",
-    "label": "07:23",
-    "items": [
-      {
-        "keyword": "한국경제",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"한국, 세계 경제의 승자로 떠올라\"…외신이 꼽은 이유는",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260608194548953"
-        }
-      },
-      {
-        "keyword": "배드민턴",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "안세영 상금 논란 또 터졌다…\"GOAT 안세영, 2연속 우승하고 고작 18만 달러?\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zaW8wdae56"
-        }
-      },
-      {
-        "keyword": "킬리안 음바페",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"내 안의 악마가 깰 것 같아\" 음바페, 월드컵 '다시보기' 절대 거부한 이유... \"메시와 결승전 절대 안 봐\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/06/08/2026060723263537128"
-        }
-      },
-      {
-        "keyword": "김현욱",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'꼴찌 추락 위기' 롯데 자이언츠, 5일 만에 투수 코치 재교체",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260608175149753"
-        }
-      },
-      {
-        "keyword": "ionq",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "IonQ Stock Is Surging Monday: What's Driving The Action?",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53064695/ionq-stock-is-surging-monday-whats-driving-the-action"
-        }
-      },
-      {
-        "keyword": "조세 무리뉴",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "무리뉴가 원했다…레알, M.페르난데스 영입 레이스 합류",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/b0j4SaDgrr"
-        }
-      },
-      {
-        "keyword": "mu",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Why Micron Stock Is Rising After Rival SK Hynix’s Fresh Deal with Nvidia",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-c9446e61"
-        }
-      },
-      {
-        "keyword": "tqqq",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Invesco QQQ Trust ETF (QQQ) Rebounds from Last Week’s Slump; What’s Fueling the Rise?",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/invesco-qqq-trust-etf-qqq-rebounds-from-last-weeks-slump-whats-fueling-the-rise"
-        }
-      },
-      {
-        "keyword": "wi vs sl",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "WI vs SL 2026, WI vs SL 3rd ODI Match Preview - WI look to level series in rainy Kingston",
-          "source": "ESPNcricinfo",
-          "url": "https://www.espncricinfo.com/series/sri-lanka-in-west-indies-2026-1538292/west-indies-vs-sri-lanka-3rd-odi-1538306/match-preview"
-        }
-      },
-      {
-        "keyword": "vix",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Chartstopper: June 5, 2026",
-          "source": "Nasdaq",
-          "url": "https://www.nasdaq.com/articles/chartstopper-june-5-2026"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-09T08:57:11.599851+09:00",
     "label": "08:57",
     "items": [
@@ -1361,6 +1149,112 @@
           "title": "한투증권, 울산석유화학공업단지 노조협의회 퇴직연금 협약",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260610_0003663579"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T19:56:31.279390+09:00",
+    "label": "19:56",
+    "items": [
+      {
+        "keyword": "명태균",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "추경호 내란재판 17일로 또 연기…오세훈 재판은 10일 예정대로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260609147500004"
+        }
+      },
+      {
+        "keyword": "김서현",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"조회수 때문인가\" 김태완, 김서현 향한 비난에 일침 \"단정 짓고 소비하지 말자\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260609013049030"
+        }
+      },
+      {
+        "keyword": "경포해변",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "강릉 경포해변으로 밀려온 멸치 떼 대량 발견···“재난 징조 아닌 자연 현상”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606101125011"
+        }
+      },
+      {
+        "keyword": "시라카와",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“시라카와는 귀여운 후배죠”…자극받은 토다? 후배와 동반 성장 다짐 [SD 베이스볼 피플]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610053649676"
+        }
+      },
+      {
+        "keyword": "세리나 윌리엄스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "윌리엄스, 4년 만의 복귀전 승리…HSBC 챔피언십 복식 8강 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610145901034"
+        }
+      },
+      {
+        "keyword": "오픈ai",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "오픈AI, 5000억달러 AI 데이터센터 추진…엔비디아, 지급보증 검토",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610170321290"
+        }
+      },
+      {
+        "keyword": "홍콩",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "홍콩, 지난해 11월 대형화재 관련 개인 7명과 기업 2곳 기소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260610_0003664233"
+        }
+      },
+      {
+        "keyword": "교보생명",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'개미' 베르나르 베르베르가 한국 독자와 만난다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610144205076"
+        }
+      },
+      {
+        "keyword": "물류",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "CJ대한통운, 'B2B 출하' 기능 추가…대규모 출고 서비스 고도화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260610045200030"
+        }
+      },
+      {
+        "keyword": "한화세미텍",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한화세미텍, 하이닉스에 하이브리드 본딩 통합시스템 공급",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=57884"
         }
       }
     ]
