@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09T15:40:20.880125+09:00",
-    "label": "15:40",
-    "items": [
-      {
-        "keyword": "사기",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "전북 원룸 4곳서 노쇼사기 ‘비밀기지’ 운영…휴대전화 303대·유심 1969개 압수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260609131336045"
-        }
-      },
-      {
-        "keyword": "김효주",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "LPGA 다우 챔피언십 11일 개막…임진희·이소미 타이틀 방어전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VrcvM00HHN"
-        }
-      },
-      {
-        "keyword": "유아교사",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "독감 확진 받고도 출근하다 숨진 20대 유치원 교사 ‘직무상 재해 인정’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606082308001"
-        }
-      },
-      {
-        "keyword": "k패스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "K-패스 환급 조건 & 카드 정보 업데이트 가이드",
-          "source": "시빅뉴스",
-          "url": "https://www.civicnews.com/news/articleView.html?idxno=39965"
-        }
-      },
-      {
-        "keyword": "삼육대학교",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "삼육대 김일옥·박철주 교수, '스승의 날' 유공자로 교육부장관 표창",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260608_0003660713"
-        }
-      },
-      {
-        "keyword": "bangladesh vs australia",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Confident Bangladesh pose Australia a fresh challenge after 15-year wait for an ODI series",
-          "source": "ESPNcricinfo",
-          "url": "https://www.espncricinfo.com/series/australia-in-bangladesh-2026-1532475/bangladesh-vs-australia-1st-odi-1532480/match-preview"
-        }
-      },
-      {
-        "keyword": "지리산",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "지리산 등산 나선 60대 이틀 만에 계곡서 숨진 채 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260609052700052"
-        }
-      },
-      {
-        "keyword": "배용준",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "배용준·박수진, 근황 전해졌다…자녀들과 싱가포르 공항서 포착",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260609_0003661334"
-        }
-      },
-      {
-        "keyword": "솔로지옥 5",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "톰 '더 글로우', 올리브영 미국서 실시간 랭킹 1위…북미 시장 순항 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/future/2026/06/08/2026060811114561770"
-        }
-      },
-      {
-        "keyword": "jung hoo lee",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Lee Jung-hoo's 16-Game Streak Propels Him to MLB Batting Co-2nd",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/09/TERIGFNFPVDXZMS7O6VXDC63F4/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-09T19:28:04.840685+09:00",
     "label": "19:28",
     "items": [
@@ -1256,6 +1150,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T05:11:48.717772+09:00",
+    "label": "05:11",
+    "items": [
+      {
+        "keyword": "모스 탄",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“이재명 소년원 출신” 주장 모스 탄, 출금 유지한 판사 고발…재판부 기피 신청도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610122721405"
+        }
+      },
+      {
+        "keyword": "대통령",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘정청래 패싱, 명심은 김민석’ 말 나오자···청와대 “순방 환송, 정치적 해석 적절치 않아”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606101737001"
+        }
+      },
+      {
+        "keyword": "미래에셋",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"300억대 주식, 언제 팔죠?\"…행복한 고민에 빠진 스페이스X 직원들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610175637614"
+        }
+      },
+      {
+        "keyword": "노키아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성에 밀려 추락한 패배자…'젠슨 황도 1조 베팅' 대반전",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026061090811"
+        }
+      },
+      {
+        "keyword": "헤지펀드",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "하락 방어 움직임 커졌다…“코스피 추가 하락 경고등”",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05300486645480408"
+        }
+      },
+      {
+        "keyword": "한국 대 체코",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "슈퍼컴퓨터의 선택은 ‘홍명보호’…한국 42.9% vs 체코 31.3%",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610220406445"
+        }
+      },
+      {
+        "keyword": "디카페인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“디카페인 마셨더니 기억력이?”…디카페인 커피의 효과 [이슈픽]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8582935"
+        }
+      },
+      {
+        "keyword": "송파구선거관리위원회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "송파경찰서장 사의‥서울청 공안차장 '잠실 개표소' 현장 지휘",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6828960_36918.html"
+        }
+      },
+      {
+        "keyword": "우크라이나",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "우크라, 크림반도 석유 시설 집중 공격…러시아, “연료 공급 차질”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610041204784"
+        }
+      },
+      {
+        "keyword": "김원훈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "컴포즈커피, 김원훈과 함께 컵빙 할인 프로모션",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260609109900013"
+        }
       }
     ]
   }

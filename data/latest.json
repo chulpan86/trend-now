@@ -1,31 +1,51 @@
 {
-  "timestamp": "2026-06-11T02:51:19.054922+09:00",
-  "label": "02:51",
+  "timestamp": "2026-06-11T05:11:48.717772+09:00",
+  "label": "05:11",
   "items": [
     {
-      "keyword": "미래에셋",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "모스 탄",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "\"현금 긁어모아라\" 위험한 베팅…'9천피' 발목 잡은 스페이스X [분석+]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026061072136"
+        "title": "“이재명 소년원 출신” 주장 모스 탄, 출금 유지한 판사 고발…재판부 기피 신청도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260610122721405"
       }
     },
     {
-      "keyword": "트럼프",
+      "keyword": "대통령",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘정청래 패싱, 명심은 김민석’ 말 나오자···청와대 “순방 환송, 정치적 해석 적절치 않아”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606101737001"
+      }
+    },
+    {
+      "keyword": "미래에셋",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"300억대 주식, 언제 팔죠?\"…행복한 고민에 빠진 스페이스X 직원들",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260610175637614"
+      }
+    },
+    {
+      "keyword": "노키아",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "트럼프 \"오늘 더 강하게 공격하겠다\"…이란 \"굳게 맞설 것\"(종합2보)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611022247887"
+        "title": "삼성에 밀려 추락한 패배자…'젠슨 황도 1조 베팅' 대반전",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026061090811"
       }
     },
     {
       "keyword": "헤지펀드",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "하락 방어 움직임 커졌다…“코스피 추가 하락 경고등”",
         "source": "마켓인",
@@ -33,23 +53,33 @@
       }
     },
     {
-      "keyword": "극한 직업",
+      "keyword": "한국 대 체코",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'살롱드립' 진선규·공명 \"'극한직업' 팀 매년 만나\"…'남편들'로 재회",
+        "title": "슈퍼컴퓨터의 선택은 ‘홍명보호’…한국 42.9% vs 체코 31.3%",
         "source": "Daum",
-        "url": "https://v.daum.net/v/7GgDCkkLtB"
+        "url": "https://v.daum.net/v/20260610220406445"
       }
     },
     {
-      "keyword": "훌리안 알바레스",
+      "keyword": "디카페인",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "레알 마드리드, 아르벨로아 감독과 계약 해지…모리뉴 영입 확정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260610094053871"
+        "title": "“디카페인 마셨더니 기억력이?”…디카페인 커피의 효과 [이슈픽]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8582935"
+      }
+    },
+    {
+      "keyword": "송파구선거관리위원회",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "송파경찰서장 사의‥서울청 공안차장 '잠실 개표소' 현장 지휘",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6828960_36918.html"
       }
     },
     {
@@ -71,32 +101,6 @@
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/PYH20260609109900013"
       }
-    },
-    {
-      "keyword": "월드컵 개막전",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "역대급 월드컵 하루 앞으로…한국, 체코와 운명의 첫판",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12302527"
-      }
-    },
-    {
-      "keyword": "연료전지",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "현대차그룹, 중국 '국제수소에너지 대회' 참가…외자기업 유일 '선도기업' 활동",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=368914"
-      }
-    },
-    {
-      "keyword": "다영",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }
