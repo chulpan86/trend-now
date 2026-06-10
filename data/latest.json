@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-06-10T23:19:48.386169+09:00",
-  "label": "23:19",
+  "timestamp": "2026-06-11T02:51:19.054922+09:00",
+  "label": "02:51",
   "items": [
     {
-      "keyword": "미국 cpi 발표",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "미래에셋",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "美물가 다시 고개 드나…5월 CPI, 4%대 전망",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419271"
-      }
-    },
-    {
-      "keyword": "weather tomorrow",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Chicago, IL weather forecast: Chance for severe storms Wednesday and Thursday",
-        "source": "ABC7 Chicago",
-        "url": "https://abc7chicago.com/post/chicago-il-weather-forecast-chance-severe-storms-wednesday-thursday/19268385/"
-      }
-    },
-    {
-      "keyword": "hd현대일렉트릭",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"앞으로 35% 더 오른다고?\"…투자고수, 1등주 집중 매수",
+        "title": "\"현금 긁어모아라\" 위험한 베팅…'9천피' 발목 잡은 스페이스X [분석+]",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202606107803i"
+        "url": "https://www.hankyung.com/article/2026061072136"
       }
     },
     {
-      "keyword": "오라클 실적발표",
+      "keyword": "트럼프",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "오라클, 실적 발표 앞두고 주가 하락",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419189"
-      }
-    },
-    {
-      "keyword": "전유성",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'유퀴즈' 김신영, 요요의 아이콘…\"살찌고 호감 상 돼\"",
+        "title": "트럼프 \"오늘 더 강하게 공격하겠다\"…이란 \"굳게 맞설 것\"(종합2보)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260610212321688"
+        "url": "https://v.daum.net/v/20260611022247887"
       }
     },
     {
-      "keyword": "fomc",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "헤지펀드",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Fed to hold rates this year, cut calls fade as war inflation persists, economists say: Reuters poll",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09/"
+        "title": "하락 방어 움직임 커졌다…“코스피 추가 하락 경고등”",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05300486645480408"
       }
     },
     {
-      "keyword": "gemini 1076 error",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "극한 직업",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Is Google Gemini down for you? Here's the latest on the potential outage — plus a workaround",
-        "source": "TechRadar",
-        "url": "https://www.techradar.com/news/live/gemini-down-june-2026"
-      }
-    },
-    {
-      "keyword": "문가영",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "문가영, 새벽 3시 운동 인증..완벽 드레스핏 비결 공개",
+        "title": "'살롱드립' 진선규·공명 \"'극한직업' 팀 매년 만나\"…'남편들'로 재회",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260610182136478"
+        "url": "https://v.daum.net/v/7GgDCkkLtB"
       }
     },
     {
-      "keyword": "investing",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "훌리안 알바레스",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/"
-      }
-    },
-    {
-      "keyword": "유퀴즈",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'유퀴즈' 젠슨황, 90년대 용산전자상가 영업에 회식도…\"韓 늘 특별하게 느껴져\"",
+        "title": "레알 마드리드, 아르벨로아 감독과 계약 해지…모리뉴 영입 확정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260610223721884"
+        "url": "https://v.daum.net/v/20260610094053871"
       }
+    },
+    {
+      "keyword": "우크라이나",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "우크라, 크림반도 석유 시설 집중 공격…러시아, “연료 공급 차질”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260610041204784"
+      }
+    },
+    {
+      "keyword": "김원훈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "컴포즈커피, 김원훈과 함께 컵빙 할인 프로모션",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260609109900013"
+      }
+    },
+    {
+      "keyword": "월드컵 개막전",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "역대급 월드컵 하루 앞으로…한국, 체코와 운명의 첫판",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12302527"
+      }
+    },
+    {
+      "keyword": "연료전지",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "현대차그룹, 중국 '국제수소에너지 대회' 참가…외자기업 유일 '선도기업' 활동",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=368914"
+      }
+    },
+    {
+      "keyword": "다영",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }
