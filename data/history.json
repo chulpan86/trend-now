@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09T08:57:11.599851+09:00",
-    "label": "08:57",
-    "items": [
-      {
-        "keyword": "오십 프로",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "4화 만에 시청률 6% 돌파…'천만' 배우 조합→입소문 타고 승승장구 중인 韓 드라마 ('오십프로')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260608203146868"
-        }
-      },
-      {
-        "keyword": "대전광역시",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "(동정) 대전광역시교육감",
-          "source": "대전투데이",
-          "url": "http://www.daejeontoday.com/news/articleView.html?idxno=737453"
-        }
-      },
-      {
-        "keyword": "브래드 피트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "63세 브래드 피트, 29세 연하 여친과 공개 데이트…다정 포옹 [N해외연예]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uQMrgSHlHy"
-        }
-      },
-      {
-        "keyword": "추가경정예산",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "경북도·대구시, 경제 회복 방점 추경 1조7729억 편성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260609084849209"
-        }
-      },
-      {
-        "keyword": "발전",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "북 \"북중 정상, 주권·안전·발전 이익 고수 견해 일치\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260609072401219"
-        }
-      },
-      {
-        "keyword": "cpi",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Inflation could top 4% this week. The bond market wants Fed Chair Warsh to prove he’ll fight it.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/inflation-could-top-4-this-week-the-bond-market-wants-fed-chair-warsh-to-prove-hell-fight-it-fbb6b04b"
-        }
-      },
-      {
-        "keyword": "올리세",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[월드컵] 프랑스, 북아일랜드에 3-1 승리…올리세 해트트릭",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/t17p21u5XF"
-        }
-      },
-      {
-        "keyword": "intc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Google and Nvidia Consider Intel as Backup Chip Manufacturer",
-          "source": "The Information",
-          "url": "https://www.theinformation.com/articles/google-nvidia-consider-intel-backup-chip-manufacturer"
-        }
-      },
-      {
-        "keyword": "밀양시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "밀양시, '한 달 여행하기' 등 체류형 관광객 유치 총력",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260608_0003660470"
-        }
-      },
-      {
-        "keyword": "mrvl",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Marvell is joining the S&P 500 — but history says the early bump comes with a big catch: Chart of the Day",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/marvell-is-joining-the-sp-500--but-history-says-the-early-bump-comes-with-a-big-catch-chart-of-the-day-174839173.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-09T11:46:00.731118+09:00",
     "label": "11:46",
     "items": [
@@ -1255,6 +1149,112 @@
           "title": "한화세미텍, 하이닉스에 하이브리드 본딩 통합시스템 공급",
           "source": "디일렉",
           "url": "https://www.thelec.kr/news/articleView.html?idxno=57884"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-10T23:19:48.386169+09:00",
+    "label": "23:19",
+    "items": [
+      {
+        "keyword": "미국 cpi 발표",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "美물가 다시 고개 드나…5월 CPI, 4%대 전망",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419271"
+        }
+      },
+      {
+        "keyword": "weather tomorrow",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Chicago, IL weather forecast: Chance for severe storms Wednesday and Thursday",
+          "source": "ABC7 Chicago",
+          "url": "https://abc7chicago.com/post/chicago-il-weather-forecast-chance-severe-storms-wednesday-thursday/19268385/"
+        }
+      },
+      {
+        "keyword": "hd현대일렉트릭",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"앞으로 35% 더 오른다고?\"…투자고수, 1등주 집중 매수",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202606107803i"
+        }
+      },
+      {
+        "keyword": "오라클 실적발표",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "오라클, 실적 발표 앞두고 주가 하락",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419189"
+        }
+      },
+      {
+        "keyword": "전유성",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'유퀴즈' 김신영, 요요의 아이콘…\"살찌고 호감 상 돼\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610212321688"
+        }
+      },
+      {
+        "keyword": "fomc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Fed to hold rates this year, cut calls fade as war inflation persists, economists say: Reuters poll",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09/"
+        }
+      },
+      {
+        "keyword": "gemini 1076 error",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Is Google Gemini down for you? Here's the latest on the potential outage — plus a workaround",
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/news/live/gemini-down-june-2026"
+        }
+      },
+      {
+        "keyword": "문가영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "문가영, 새벽 3시 운동 인증..완벽 드레스핏 비결 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610182136478"
+        }
+      },
+      {
+        "keyword": "investing",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/"
+        }
+      },
+      {
+        "keyword": "유퀴즈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'유퀴즈' 젠슨황, 90년대 용산전자상가 영업에 회식도…\"韓 늘 특별하게 느껴져\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610223721884"
         }
       }
     ]
