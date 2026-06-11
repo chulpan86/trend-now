@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-11T14:21:14.003109+09:00",
-  "label": "14:21",
+  "timestamp": "2026-06-11T19:05:59.914547+09:00",
+  "label": "19:05",
   "items": [
     {
-      "keyword": "우재준",
+      "keyword": "윤동희",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "\"지도부 사퇴\" \"철없는 소리\"... 국힘 최고위원끼리 난타전",
+        "title": "아시안게임 야구대표팀 명단 발표‥김도영·노시환 포함",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/sports/article/6829452_36946.html"
+      }
+    },
+    {
+      "keyword": "레버리지",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘삼전닉스’ 레버리지, “방구석 도박장” 볼멘소리도···당국은 리스크 주시",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606111717001"
+      }
+    },
+    {
+      "keyword": "장인화",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "장인화號 '8000억' 승부수…포스코인터, 美 가스전 투자",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606110508i"
+      }
+    },
+    {
+      "keyword": "박재범",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "박재범, 롱샷 팬들과 '들러리' 지적에 설전 \"내가 회사 사장…멤버들 존중\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6194691"
+      }
+    },
+    {
+      "keyword": "kddx",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Hanwha Ocean Secures KDDX Contract, Edges HD Hyundai Heavy Industries by 0.5 Points",
         "source": "조선일보",
-        "url": "https://www.chosun.com/politics/politics_general/2026/06/11/2ZPEWEYZM5FWLEFK32POB3MVWQ/"
+        "url": "https://www.chosun.com/english/industry-en/2026/06/11/GWYUB5MUOZAOFGFSJWZHW5N3GM/"
       }
     },
     {
-      "keyword": "kf-21 보라매",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "KAI \"美 F-22 기술 탈취해 KF-21 개발? 사실 무근\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/YX68rccnHW"
-      }
-    },
-    {
-      "keyword": "선박",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "트럼프 \"토마호크 49발로 이란 공습‥합의 안 하면 내일 박살\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6829389_36925.html"
-      }
-    },
-    {
-      "keyword": "kia 타이거즈",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "한화→KIA 트레이드 후 '울컥', 홈런포 무려 633일만 '잊고 있던' 거포 마침내 잠재력 만개하나... 심지어 시즌 첫 선발 경기서 넘겨버리다니",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611054500232"
-      }
-    },
-    {
-      "keyword": "권순일",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "5년 만에 '공소기각' 권순일, 이제야 복장 터진 듯‥ [현장영상]",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6829415_36918.html"
-      }
-    },
-    {
-      "keyword": "sk텔레콤",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[테크스냅] SKT,'에어' 요금제 혜택 전면 확대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611095755624"
-      }
-    },
-    {
-      "keyword": "최성 안",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "AI 데이터센터, 바다 위로…K조선 새 먹거리 된 플로팅 데이터센터",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/XHJNR66bCA"
-      }
-    },
-    {
-      "keyword": "볼보 es90",
+      "keyword": "붉은사막",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "볼보, 전기 플래그십 'ES90' 사전계약…7천만원대부터",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260611091930"
+        "title": "‘붉은사막’ 누적 판매 6백만 장 돌파…미국 연간 판매량 2위",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8584019"
       }
     },
     {
-      "keyword": "슬기",
+      "keyword": "김영옥",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'슬기 사촌동생' 수키진 사망 비보 \"갑작스러운 사고\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260611_0003665127"
+        "title": "\"환영 보여\"…김영옥, 남편상 후 심경 고백 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/06/11/2026061109200412267"
       }
     },
     {
-      "keyword": "giá vàng hôm nay",
+      "keyword": "삼성반도체",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"인생 바친 내 기술, 1년만에 빼앗겨\" 회사가 낭떠러지로 떨어졌다 [中企 기술탈취 그 후]①",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026061110082262719"
+      }
+    },
+    {
+      "keyword": "홍장원",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "홍장원 전 국정원 1차장, 종합특검 두 번째 조사 출석",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6829386_36918.html"
+      }
+    },
+    {
+      "keyword": "제주특별자치도",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Giá vàng hôm nay ngày 11/6: Giá vàng thế giới lao dốc, về dưới 4.100 USD",
-        "source": "VnExpress",
-        "url": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-ve-duoi-4-100-usd-5084324.html"
+        "title": "제주특별자치도 통장협의회 임원진 회의 개최",
+        "source": "삼다일보",
+        "url": "https://www.samdailbo.com/news/articleView.html?idxno=265869"
       }
     }
   ]
