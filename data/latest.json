@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-11T09:08:43.770055+09:00",
-  "label": "09:08",
+  "timestamp": "2026-06-11T14:21:14.003109+09:00",
+  "label": "14:21",
   "items": [
     {
-      "keyword": "이정후",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "우재준",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "이정후, 또 쳤다… 18경기 연속 안타에 9회 대역전극 발판",
+        "title": "\"지도부 사퇴\" \"철없는 소리\"... 국힘 최고위원끼리 난타전",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-baseball/2026/06/11/UAVPPYRWU5ASVDYLWTTCB2PD6M/"
+        "url": "https://www.chosun.com/politics/politics_general/2026/06/11/2ZPEWEYZM5FWLEFK32POB3MVWQ/"
       }
     },
     {
-      "keyword": "weather",
+      "keyword": "kf-21 보라매",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "KAI \"美 F-22 기술 탈취해 KF-21 개발? 사실 무근\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/YX68rccnHW"
+      }
+    },
+    {
+      "keyword": "선박",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Licensable video: US: Dust Storms and Strong Wind Gusts Sweep Central and Western New Mexico",
-        "source": "Reuters Connect",
-        "url": "https://www.reutersconnect.com/item/us-dust-storms-and-strong-wind-gusts-sweep-central-and-western-new-mexico/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDExNDUwMQ"
+        "title": "트럼프 \"토마호크 49발로 이란 공습‥합의 안 하면 내일 박살\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6829389_36925.html"
       }
     },
     {
-      "keyword": "민희진",
+      "keyword": "kia 타이거즈",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "한화→KIA 트레이드 후 '울컥', 홈런포 무려 633일만 '잊고 있던' 거포 마침내 잠재력 만개하나... 심지어 시즌 첫 선발 경기서 넘겨버리다니",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260611054500232"
+      }
+    },
+    {
+      "keyword": "권순일",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "5년 만에 '공소기각' 권순일, 이제야 복장 터진 듯‥ [현장영상]",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6829415_36918.html"
+      }
+    },
+    {
+      "keyword": "sk텔레콤",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "430억→330억..어도어vs다니엘·민희진 소송 오늘(11일) 2차 변론",
+        "title": "[테크스냅] SKT,'에어' 요금제 혜택 전면 확대",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260611061202020"
+        "url": "https://v.daum.net/v/20260611095755624"
       }
     },
     {
-      "keyword": "셀트리온",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "중기부, 제약사 19곳과 협업할 바이오 스타트업 모집",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260610120204770"
-      }
-    },
-    {
-      "keyword": "송성문",
+      "keyword": "최성 안",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "샌디에이고 송성문, 3경기 연속 안타…타율 2할 회복",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8583667"
-      }
-    },
-    {
-      "keyword": "2026 월드컵",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[문화연예 플러스] 샤키라, 2026 북중미 월드컵 개막식 무대",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6829023_37012.html"
-      }
-    },
-    {
-      "keyword": "cristiano ronaldo",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'This France team don't compare to 1998' World Cup winner hails first French champions",
-        "source": "DAZN",
-        "url": "https://www.dazn.com/en-US/news/soccer/fifa-world-cup-frank-leboeuf-1998-didier-deschamps/2whdev5f3pgk1kmr52cr67k1n"
-      }
-    },
-    {
-      "keyword": "england vs costa rica",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'A taste of what can happen' - Thomas Tuchel sees upside of delayed England friendly and warns it's 'no excuse' for slip-up against Croatia",
-        "source": "Goal.com",
-        "url": "https://www.goal.com/en/lists/thomas-tuchel-sees-upside-to-delayed-friendly-ahead-of-croatia-clash/blt54df3811b6570c52"
-      }
-    },
-    {
-      "keyword": "netherlands vs canada",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "CAN vs NED, 112th Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
-        "source": "Cricbuzz",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/159932/can-vs-ned-112th-match-icc-cricket-world-cup-league-two-2023-27"
-      }
-    },
-    {
-      "keyword": "주차",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“선 하나 그었을 뿐인데”…‘수직 주차선’ 호평",
+        "title": "AI 데이터센터, 바다 위로…K조선 새 먹거리 된 플로팅 데이터센터",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260608221255339?f=p"
+        "url": "https://v.daum.net/v/XHJNR66bCA"
+      }
+    },
+    {
+      "keyword": "볼보 es90",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "볼보, 전기 플래그십 'ES90' 사전계약…7천만원대부터",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260611091930"
+      }
+    },
+    {
+      "keyword": "슬기",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'슬기 사촌동생' 수키진 사망 비보 \"갑작스러운 사고\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260611_0003665127"
+      }
+    },
+    {
+      "keyword": "giá vàng hôm nay",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Giá vàng hôm nay ngày 11/6: Giá vàng thế giới lao dốc, về dưới 4.100 USD",
+        "source": "VnExpress",
+        "url": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-ve-duoi-4-100-usd-5084324.html"
       }
     }
   ]
