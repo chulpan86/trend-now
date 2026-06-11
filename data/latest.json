@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-12T03:05:08.760818+09:00",
-  "label": "03:05",
+  "timestamp": "2026-06-12T06:12:21.987997+09:00",
+  "label": "06:12",
   "items": [
     {
-      "keyword": "기아 pv5",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "멕시코 대 남아공",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "\"화물차 왜 샀냐\" 화냈는데…2500만원 짜리 기아 PV5, 캠핑족 뒤집어 놨다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/W5cJC33GD9"
+        "title": "[월드컵] 멕시코시티서 40년만에 열린 개막식…다문화로 축포 쐈다(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260612006851087"
       }
     },
     {
-      "keyword": "김고은",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "멕시코 축구 국가대표팀",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "'도깨비' 공유·이동욱·김고은·유인나, 10년 만에 꺼낸 속마음 \"서로가 있어 버텼다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611144402779"
+        "title": "훈련하는 손흥민-이재성",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260611053700013"
       }
     },
     {
-      "keyword": "조니소말리",
+      "keyword": "자동차",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "현대차·기아, 안전한 살균 조명 '원자외선' 차량용으로 개발",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=368966"
+      }
+    },
+    {
+      "keyword": "여성 소방관",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "숨진 여성 소방관…“노래방 가자” 갑질 피해 논란(종합)",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260611_0003666019"
+      }
+    },
+    {
+      "keyword": "fifa 월드컵 2026",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "혐한 유튜버 소말리 “美서 먹던 장애약 못먹은 점 참작을”",
+        "title": "태극기·붉은악마...북중미 월드컵 개막 임박, 패션업계도 '월드컵' 바람",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=342313"
+      }
+    },
+    {
+      "keyword": "스포츠중계",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "라울 히메네스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[월드컵] '황희찬 소속팀' 울버햄프턴, 에드워즈 감독 경질",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260611163936488"
+        "url": "https://v.daum.net/v/20260611182853881"
       }
     },
     {
-      "keyword": "2026 年 fifa 世界杯",
+      "keyword": "fifa world cup 2026™",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "演唱奈飞动画片《K-POP守护者》主题曲的歌手李在(35岁)将登上北中美世界杯开幕舞台。10日(当地时间)，国际足联(FIFA)表示，李在和安德烈•波切利将于11日在墨西哥墨西哥城举行的世界杯开幕式上..",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/cn/world/12071566"
+        "title": "How to Watch the 2026 FIFA World Cup: Full Schedule, Dates for Every Match",
+        "source": "FOX Sports",
+        "url": "https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match"
       }
     },
     {
-      "keyword": "이상화",
+      "keyword": "숲",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "강남 “등근육 보고 결혼 예감”…이상화, 여전한 ‘국대급’ 뒤태 공개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611211848450"
+        "title": "시원한 나무그늘 아래 휴식",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260610n24114?mid=n1101"
       }
     },
     {
-      "keyword": "주권",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "남양주시장 당선인 인수위 출범…국토부에 교통망 건의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611163050090"
-      }
-    },
-    {
-      "keyword": "чемпионат мира по футболу fifa –2026",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "LIVE в 21:35 | ЧМ-2026 по футболу откроется матчем между Мексикой и ЮАР",
-        "source": "ERR",
-        "url": "https://rus.err.ee/1610052544/live-v-21-35-chm-2026-po-futbolu-otkroetsja-matchem-mezhdu-meksikoj-i-juar"
-      }
-    },
-    {
-      "keyword": "fifa world cup 2026 start date",
+      "keyword": "조선",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "The World Cup of more: There's never been a tournament like this one",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/49020473/2026-fifa-world-cup-more-never-tournament-infantino-trump"
-      }
-    },
-    {
-      "keyword": "소야",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "마이티 마우스, 오늘(11일) '엠카' 출격..피프티피프티 스페셜 게스트",
+        "title": "한국선급 \"세계 해사업계 시대적 전환점 맞아…AI 전환 가속\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260611095940686"
-      }
-    },
-    {
-      "keyword": "2026 國際足總世界盃",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "歐洲射手競相角逐世界杯金靴獎| 東亞日報",
-        "source": "동아일보",
-        "url": "https://www.donga.com/tw/article/all/20260610/6261613/1"
+        "url": "https://v.daum.net/v/YlzFQkkLlw"
       }
     }
   ]
