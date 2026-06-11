@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10T08:10:50.771292+09:00",
-    "label": "08:10",
-    "items": [
-      {
-        "keyword": "축구",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[월드컵] 체코전 D-2 홍명보호, 빗장 걸고 세트피스 집중 훈련",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260610007300007"
-        }
-      },
-      {
-        "keyword": "옷",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘극단의 시대’의 옷 입기 [유레카]",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/opinion/column/1262511.html"
-        }
-      },
-      {
-        "keyword": "차상현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "여자배구대표팀, 필리핀 꺾고 AVC컵 3연승…강소휘 19득점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260609154500007"
-        }
-      },
-      {
-        "keyword": "홍진영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "신지♥문원 결혼식 '눈물바다'…빽가 \"네 뒤에 우리 있다\" 오열 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/06/10/2026060923292995287"
-        }
-      },
-      {
-        "keyword": "영양소",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한여름에도 부족해지기 쉬운 영양소…달걀보다 ‘비타민D’가 많은 식품 6가지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260607120138323"
-        }
-      },
-      {
-        "keyword": "schd",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "The Case for Holding SCHD in Your Roth IRA",
-          "source": "AOL.com",
-          "url": "https://www.aol.com/articles/case-holding-schd-roth-ira-135508858.html"
-        }
-      },
-      {
-        "keyword": "aapl",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "UBS reiterates Apple stock neutral rating, keeps $296 target",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-apple-stock-neutral-rating-keeps-296-target-93CH-4733354"
-        }
-      },
-      {
-        "keyword": "tsla",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Wolfe Research reiterates Peerperform on Tesla stock amid catalysts",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-reiterates-peerperform-on-tesla-stock-amid-catalysts-93CH-4732467"
-        }
-      },
-      {
-        "keyword": "소비",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "고양시, 10∼14일 원당·일산시장서 온누리상품권 환급행사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260609142401443"
-        }
-      },
-      {
-        "keyword": "중앙일보",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[이진영 칼럼]李의 조작 기소 ‘오물’ 털어내기",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260609/134079420/2"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-10T11:30:52.037482+09:00",
     "label": "11:30",
     "items": [
@@ -1153,6 +1047,112 @@
           "title": "제주특별자치도 통장협의회 임원진 회의 개최",
           "source": "삼다일보",
           "url": "https://www.samdailbo.com/news/articleView.html?idxno=265869"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-11T23:30:15.182816+09:00",
+    "label": "23:30",
+    "items": [
+      {
+        "keyword": "2026 fifa 월드컵",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "달아 오르는 월드컵 열기",
+          "source": "경북매일",
+          "url": "https://www.kbmaeil.com/article/20260611500381"
+        }
+      },
+      {
+        "keyword": "최저임금",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "택배·배달기사 최저임금 적용 불발…찬성 11표·반대 15표 부결(종합2보)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611200353589"
+        }
+      },
+      {
+        "keyword": "레인보우로보틱스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 검찰, 삼성전자 본사 추가 압수수색…“로봇사 주식 선행매매 의혹”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611170901805"
+        }
+      },
+      {
+        "keyword": "아트센터나비",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "불확실의 꽃",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611172305386"
+        }
+      },
+      {
+        "keyword": "아크레인저 블랙",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[게임 업데이트] 승리의 여신: 니케-세븐나이츠 리버스-리니지2 레볼루션",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260611500977"
+        }
+      },
+      {
+        "keyword": "알테오젠",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "알테오젠 8% 급등…바이오 업종 동반 강세[핫종목]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611113951393"
+        }
+      },
+      {
+        "keyword": "ecb",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Europe Raises Interest Rates as War Stokes Inflation",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/11/business/european-central-bank-inflation-interest-rates.html"
+        }
+      },
+      {
+        "keyword": "북한이탈주민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대전경찰청, 북한이탈주민 대상 범죄예방 교육·문화 체험행사 개최",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3606260"
+        }
+      },
+      {
+        "keyword": "이용찬",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[AI프리뷰] 11일 부산 롯데-두산전, 두산 타카다 KBO 데뷔전서 기대투 보여주나",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260611000750"
+        }
+      },
+      {
+        "keyword": "김태효",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 종합특검, ‘계엄 옹호 메시지’ 신원식·김태효 구속영장 청구 검토",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1263131.html"
         }
       }
     ]
