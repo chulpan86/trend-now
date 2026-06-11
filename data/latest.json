@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-12T06:12:21.987997+09:00",
-  "label": "06:12",
+  "timestamp": "2026-06-12T08:14:16.949793+09:00",
+  "label": "08:14",
   "items": [
     {
-      "keyword": "멕시코 대 남아공",
+      "keyword": "sk하이닉스",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "[월드컵] 멕시코시티서 40년만에 열린 개막식…다문화로 축포 쐈다(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260612006851087"
+        "title": "SK하이닉스 美 증시 데뷔 임박…'마이크론 할인' 벗어날까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/6V16errNva"
       }
     },
     {
-      "keyword": "멕시코 축구 국가대표팀",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "훈련하는 손흥민-이재성",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260611053700013"
-      }
-    },
-    {
-      "keyword": "자동차",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "현대차·기아, 안전한 살균 조명 '원자외선' 차량용으로 개발",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=368966"
-      }
-    },
-    {
-      "keyword": "여성 소방관",
+      "keyword": "박승규",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "숨진 여성 소방관…“노래방 가자” 갑질 피해 논란(종합)",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260611_0003666019"
-      }
-    },
-    {
-      "keyword": "fifa 월드컵 2026",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "태극기·붉은악마...북중미 월드컵 개막 임박, 패션업계도 '월드컵' 바람",
-        "source": "녹색경제신문",
-        "url": "https://www.greened.kr/news/articleView.html?idxno=342313"
-      }
-    },
-    {
-      "keyword": "스포츠중계",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "라울 히메네스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[월드컵] '황희찬 소속팀' 울버햄프턴, 에드워즈 감독 경질",
+        "title": "아뿔싸! ‘예비역’ 50억 FA 보상선수 왜 이러나, 볼넷-볼넷-적시타-적시타-적시타 강판…ERA 16.88 실화냐",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260611182853881"
+        "url": "https://v.daum.net/v/20260612054203397"
       }
     },
     {
-      "keyword": "fifa world cup 2026™",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "아틀레티코 마드리드",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "How to Watch the 2026 FIFA World Cup: Full Schedule, Dates for Every Match",
-        "source": "FOX Sports",
-        "url": "https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match"
+        "title": "체코전 앞둔 이강인, \"아틀레티코 마드리드 이적 합의\" 기다리던 소식 전해졌다…西 매체 \"구단 간 협상 진전 이뤄\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612014834255"
       }
     },
     {
-      "keyword": "숲",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "김봉곤",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "시원한 나무그늘 아래 휴식",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260610n24114?mid=n1101"
+        "title": "김봉곤 훈장, 서울 아파트 생활…\"두 딸 뒷바라지 위해 이사\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260611_0003666277"
       }
     },
     {
-      "keyword": "조선",
+      "keyword": "혼인",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“결혼이 불이익 되지 않도록” 청년부부 혜택 넓힌다",
+        "source": "K-공감",
+        "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12603000000&section_id=&content=NC002&code_cd=0105000000&nPage=2&b_list=9&news_id=bad7c1df-518d-4159-ab6f-485bd1c0cb5b"
+      }
+    },
+    {
+      "keyword": "김민석",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김민석 총리 \"투표함까지 폐기됐다면 선관위 해체론 나올 수밖에\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612055123445"
+      }
+    },
+    {
+      "keyword": "최화정",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'63세' 최화정, 허리 사이즈 XS···10년째 유지 중인 놀라운 몸무게('최화정 유튜브')[종합]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VG7oZ99Ulb"
+      }
+    },
+    {
+      "keyword": "선원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한국선급 \"세계 해사업계 시대적 전환점 맞아…AI 전환 가속\"",
+        "title": "미국, 이란 해상봉쇄 작전 첫 인명피해…인도 선원 3명 숨져",
         "source": "Daum",
-        "url": "https://v.daum.net/v/YlzFQkkLlw"
+        "url": "https://v.daum.net/v/20260611200104480"
+      }
+    },
+    {
+      "keyword": "면세점",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "호텔신라, 인천공항에 1천억원대 소송…\"면세점 철수 위약금 과중\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260611108500030"
+      }
+    },
+    {
+      "keyword": "금시세",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"그때 팔았어야\" 금값 25% 폭락.. 장중 20만 원 선 무너져",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612022257521"
       }
     }
   ]
