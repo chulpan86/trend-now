@@ -1148,5 +1148,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-13T06:24:03.667871+09:00",
+    "label": "06:24",
+    "items": [
+      {
+        "keyword": "농지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "송미령 농식품부 장관, 농지 전수조사 추진 상황 현장 점검",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260611190500013"
+        }
+      },
+      {
+        "keyword": "trực tiếp bóng đá hôm nay",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "(World Cup) Ngược dòng hạ CH Séc 2-1, Hàn Quốc đi được nửa chặng đường vào vòng 32 đội",
+          "source": "연합뉴스",
+          "url": "https://vi.yna.co.kr/view/AVI20260612000700880?section=news"
+        }
+      },
+      {
+        "keyword": "bet365",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "World Cup Daily LIVE: Canada tie; USMNT pregame; Haaland at Stanley Cup",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49032307/world-cup-daily-live-usmnt-canada-opening-games"
+        }
+      },
+      {
+        "keyword": "정의선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "엔비디아 'AI 연합군' 된 韓 기업들…역할 따라 투자가치도 서열화",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/06/10/2026061080110.html"
+        }
+      },
+      {
+        "keyword": "베트남",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "N웹툰이 추적해 베트남 공안이 잡았다…문체부, 공조수사의 새역사 쓰다(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612224048744"
+        }
+      },
+      {
+        "keyword": "정성호",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[오늘과 내일/장택동]수사기관 견제할 마지막 장치 ‘전건 송치’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260612/134103753/2"
+        }
+      },
+      {
+        "keyword": "리노공업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'코스닥 8위' 리노공업 이채윤 대표, 시총 약 10% 물량 블록딜…\"할인율 12%\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419763"
+        }
+      },
+      {
+        "keyword": "김숙",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“샤워하고 나오니 낯선 남성이…” 한혜진, 홍천 별장 무단침입 피해",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612162701524"
+        }
+      },
+      {
+        "keyword": "양해각서",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[속보]이란 매체 “‘14일 제네바 종전 합의’ 보도, 완전 사실무근”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606122248001"
+        }
+      },
+      {
+        "keyword": "미스트롯 포유",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[TV조선] 전국 신동 자랑 특집",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611004050298"
+        }
+      }
+    ]
   }
 ]
