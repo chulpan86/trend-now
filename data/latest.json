@@ -1,101 +1,101 @@
 {
-  "timestamp": "2026-06-12T16:13:05.711968+09:00",
-  "label": "16:13",
+  "timestamp": "2026-06-12T20:35:17.907804+09:00",
+  "label": "20:35",
   "items": [
     {
-      "keyword": "나경원",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "나경원 “내가 서울시장이면 당장 재선거”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260612140136083"
-      }
-    },
-    {
-      "keyword": "전준우",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "2-20 대패 25피안타 전준우·유강남·노진혁 뛰었지만 롯데, 2군 NC전 '무슨일이고'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260612095432540"
-      }
-    },
-    {
-      "keyword": "mlb",
+      "keyword": "리센느",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "The Draft is one month away! Check out our latest mock",
-        "source": "MLB.com",
-        "url": "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11"
-      }
-    },
-    {
-      "keyword": "하워드 러 트닉",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "日 투자금 105조원으로 美 원전 짓는다…트럼프 “SMR 세계 주도”",
+        "title": "'거제 야호'로 재역주행 리센느 \"잊히지 않는 특별한 향기 되길\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612125503746"
+        "url": "https://v.daum.net/v/20260612070158737"
       }
     },
     {
-      "keyword": "유전자",
+      "keyword": "땅콩버터",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“180cm·서울대 갈 아기 원해요” 오타 지우 듯 DNA 교정 성공…‘맞춤형 아기’ 시대 올까",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20054798"
+        "title": "옳곡, 콘텐츠 커머스로 소비자 공략 확대",
+        "source": "스트레이트뉴스",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=304675"
       }
     },
     {
-      "keyword": "유치원 교원",
+      "keyword": "데이비드 호크니",
       "traffic_raw": "500+",
       "traffic": 500,
+      "news": {
+        "title": "[속보] 현대미술 거장 데이비드 호크니 별세…향년 88세",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606121905001"
+      }
+    },
+    {
+      "keyword": "기피",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "윤석열·김용현 내란재판부 기피신청 최종 기각…재판 재개될 듯(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612161053017"
+      }
+    },
+    {
+      "keyword": "천궁-2",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "UAE, 韓에 수송기 투입해 '천궁-Ⅱ' 포대 조기 수송",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260612097800504"
+      }
+    },
+    {
+      "keyword": "비행기",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "흐물거리는 날개 가진 비행기… 난기류 만나도 끄떡없대요",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/kid/kid_science/2026/06/09/HY36ZJRZOZGRRLR5P5CV6FLR5Y/"
+      }
+    },
+    {
+      "keyword": "t1",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": null
     },
     {
-      "keyword": "연기금",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"하락장 오히려 좋다\"…연기금, 삼전닉스 1조 순매수",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419611"
-      }
-    },
-    {
-      "keyword": "사나",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[현장포토] \"눈빛이 멜로다\"...제이, 한도초과 훈훈미",
-        "source": "디스패치",
-        "url": "https://www.dispatch.co.kr/2343946"
-      }
-    },
-    {
-      "keyword": "캐시워크 정답",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "소휘 캐시워크 돈 버는 퀴즈, 정답은?",
-        "source": "아주경제",
-        "url": "https://www.ajunews.com/view/20260612080250485"
-      }
-    },
-    {
-      "keyword": "단양군",
+      "keyword": "브래드 갈링하우스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "장미향으로 가득찬 특별한 밤… 단양군, 13일 ‘장미길의 향연’ 개최",
+        "title": "비트소, 리플과 협력 확장…XRP 렛저에 페소 연동 스테이블코인 MXNB 출시",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260612n03924"
+      }
+    },
+    {
+      "keyword": "bts",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "(LEAD) BTS to launch Busan shows for 'Arirang' world tour",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20260612004951315"
+      }
+    },
+    {
+      "keyword": "저격수",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "해병대사령관배 저격수 경연대회…육군 701특공연대 1위",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260611093022219"
+        "url": "https://v.daum.net/v/20260612174537036"
       }
     }
   ]
