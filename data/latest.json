@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-06-12T23:35:08.714900+09:00",
-  "label": "23:35",
+  "timestamp": "2026-06-13T02:31:21.239893+09:00",
+  "label": "02:31",
   "items": [
     {
-      "keyword": "식중독",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "천궁2",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "‘샐러드 도시락’ 먹었는데 식중독…원인은 ‘이 채소’였다",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606121700001"
+        "title": "‘천궁-II’ 모시러 왔다…대구 공군기지서 UAE 수송기 포착",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260612/134102881/2"
       }
     },
     {
-      "keyword": "lck",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "육아",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "LCK Teams Vie for Two MSI Berths in Wonju",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/06/11/AIVCHZWCWRDQRD2VS2X247AO2U/"
-      }
-    },
-    {
-      "keyword": "토스증권",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "2030 잡은 토스증권, 이번엔 4050 연금 고객 노린다",
+        "title": "배용준, 이례적 '안경 쓴 톱배우'→백발의 아빠..근황도 레전드 [핫피플]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612083749581"
+        "url": "https://v.daum.net/v/20260611180603159"
       }
     },
     {
-      "keyword": "김대현",
+      "keyword": "한학자",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'17안타' 롯데, 선두 LG에 16-5 대승…'서건창 끝내기' 키움, 한화 제압(종합)",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260612_0003667704"
+        "title": "통일교 한학자 \"김건희에 선물 안 줬다\"…'권성동 1억'도 부인",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260612147400004"
       }
     },
     {
-      "keyword": "bts come over",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "BTS to release new digital single 'Come Over'",
-        "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20260612001400315"
-      }
-    },
-    {
-      "keyword": "조민아",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "서인영, 조민아와 갈등 봉합…쥬얼리 11년 만에 무대",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260612_0003667708"
-      }
-    },
-    {
-      "keyword": "서울 경전철 강북횡단선",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘집앞 10분 전철역’ 서울 3차 철도망 계획···“희망고문 않겠다” 자신하는 까닭은",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606111625001"
-      }
-    },
-    {
-      "keyword": "박정훈",
+      "keyword": "문채원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "법원, ‘박정훈 구속영장’ 작성한 군 검사들 무죄···국회 불출석만 벌금형",
+        "title": "'6월 결혼' 문채원, 취향 뭐길래? 억울 해명…동묘서 패션 정정 [어저께V]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612162002306"
+        "url": "https://v.daum.net/v/20260612081536056"
       }
     },
     {
-      "keyword": "신세계",
+      "keyword": "바이낸스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "톤코인, 바이낸스서 GRAM으로 바뀐다…거래·입출금도 순차 전환",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260612n32268"
+      }
+    },
+    {
+      "keyword": "대한민국 교육부",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "신세계그룹, 사모펀드 보유 SSG닷컴 지분 전량 인수",
-        "source": "동아비즈니스리뷰 | DBR",
-        "url": "https://dbr.donga.com/kfocus/view/article_no/2890"
+        "title": "[단독] 교육부, ‘현금 살포’ 교육청 예산 최대 100억 삭감 검토",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612020901388"
       }
     },
     {
-      "keyword": "서울사이버대학교",
+      "keyword": "주한 미군",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "[주한미군 환경오염] ④ 주한미군기지는 ‘소리 없는 살인마’",
+        "source": "자주시보",
+        "url": "http://www.jajusibo.com/70346"
+      }
+    },
+    {
+      "keyword": "한진만",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "삼성전자 노조, 한진만 파운드리 사업부장에 공식 사과 요구",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20055289"
+      }
+    },
+    {
+      "keyword": "성동일",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "발명가 공대생 된 성동일 아들…“아빠가 대학축제 와서 춤춰”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20260612/134103648/2"
+      }
+    },
+    {
+      "keyword": "고준희",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "고준희, 민소매 드레스 차림으로 9등신 비율 자랑…요정 미모 [N샷]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612084921872"
+      }
     }
   ]
 }
