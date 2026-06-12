@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10T23:19:48.386169+09:00",
-    "label": "23:19",
-    "items": [
-      {
-        "keyword": "미국 cpi 발표",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "美물가 다시 고개 드나…5월 CPI, 4%대 전망",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419271"
-        }
-      },
-      {
-        "keyword": "weather tomorrow",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Chicago, IL weather forecast: Chance for severe storms Wednesday and Thursday",
-          "source": "ABC7 Chicago",
-          "url": "https://abc7chicago.com/post/chicago-il-weather-forecast-chance-severe-storms-wednesday-thursday/19268385/"
-        }
-      },
-      {
-        "keyword": "hd현대일렉트릭",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"앞으로 35% 더 오른다고?\"…투자고수, 1등주 집중 매수",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202606107803i"
-        }
-      },
-      {
-        "keyword": "오라클 실적발표",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "오라클, 실적 발표 앞두고 주가 하락",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419189"
-        }
-      },
-      {
-        "keyword": "전유성",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'유퀴즈' 김신영, 요요의 아이콘…\"살찌고 호감 상 돼\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260610212321688"
-        }
-      },
-      {
-        "keyword": "fomc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Fed to hold rates this year, cut calls fade as war inflation persists, economists say: Reuters poll",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09/"
-        }
-      },
-      {
-        "keyword": "gemini 1076 error",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Is Google Gemini down for you? Here's the latest on the potential outage — plus a workaround",
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/news/live/gemini-down-june-2026"
-        }
-      },
-      {
-        "keyword": "문가영",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "문가영, 새벽 3시 운동 인증..완벽 드레스핏 비결 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260610182136478"
-        }
-      },
-      {
-        "keyword": "investing",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/"
-        }
-      },
-      {
-        "keyword": "유퀴즈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'유퀴즈' 젠슨황, 90년대 용산전자상가 영업에 회식도…\"韓 늘 특별하게 느껴져\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260610223721884"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-11T02:51:19.054922+09:00",
     "label": "02:51",
     "items": [
@@ -1153,6 +1047,112 @@
           "title": "\"그때 팔았어야\" 금값 25% 폭락.. 장중 20만 원 선 무너져",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260612022257521"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-12T11:36:22.752767+09:00",
+    "label": "11:36",
+    "items": [
+      {
+        "keyword": "sbs",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "[Graphic News] World Cup by the numbers",
+          "source": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10769123"
+        }
+      },
+      {
+        "keyword": "south korea vs czechia",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "South Korea vs Czech Republic LIVE: FIFA World Cup 2026 Group A - score, radio commentary, text updates & stats",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ckg0vvrg70vt"
+        }
+      },
+      {
+        "keyword": "이기혁",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘왼발 수비수’ 김태현 부상으로 조별리그 출전 불발···깜짝 발탁 이기혁 스리백 활용하나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612074701440"
+        }
+      },
+      {
+        "keyword": "웨이브",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"사랑에 성별이 중요할까\"…웨이브 새 연프, '스탠바이미'의 과감한 질문",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0117_202606101558161299"
+        }
+      },
+      {
+        "keyword": "황인범",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이태호부터 황인범까지 대전 출신의 월드컵 영웅들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611224332324"
+        }
+      },
+      {
+        "keyword": "김승규",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "훈련하는 김승규",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260611_0021316043"
+        }
+      },
+      {
+        "keyword": "옌스 카스트로프",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'나주의 외손자' 옌스 카스트로프, 월드컵 활약 기대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260611140600054"
+        }
+      },
+      {
+        "keyword": "맘스터치",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "소맥은 캔으로, 무한상사는 버거로…이번 주 신제품·프로모션 [쿠킹]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611080135014"
+        }
+      },
+      {
+        "keyword": "중앙일보 오늘의 운세",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "오늘의 운세 6월 11일(음력 4월 26일)",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=838753"
+        }
+      },
+      {
+        "keyword": "이세영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "가슴 성형 이세영 \"필러 부작용으로 가슴 4개 됐다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260612_0003666321"
         }
       }
     ]

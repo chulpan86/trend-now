@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-12T08:14:16.949793+09:00",
-  "label": "08:14",
+  "timestamp": "2026-06-12T11:36:22.752767+09:00",
+  "label": "11:36",
   "items": [
     {
-      "keyword": "sk하이닉스",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "sbs",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "SK하이닉스 美 증시 데뷔 임박…'마이크론 할인' 벗어날까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6V16errNva"
+        "title": "[Graphic News] World Cup by the numbers",
+        "source": "The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10769123"
       }
     },
     {
-      "keyword": "박승규",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "south korea vs czechia",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "아뿔싸! ‘예비역’ 50억 FA 보상선수 왜 이러나, 볼넷-볼넷-적시타-적시타-적시타 강판…ERA 16.88 실화냐",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260612054203397"
+        "title": "South Korea vs Czech Republic LIVE: FIFA World Cup 2026 Group A - score, radio commentary, text updates & stats",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/ckg0vvrg70vt"
       }
     },
     {
-      "keyword": "아틀레티코 마드리드",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "이기혁",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "체코전 앞둔 이강인, \"아틀레티코 마드리드 이적 합의\" 기다리던 소식 전해졌다…西 매체 \"구단 간 협상 진전 이뤄\"",
+        "title": "‘왼발 수비수’ 김태현 부상으로 조별리그 출전 불발···깜짝 발탁 이기혁 스리백 활용하나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612014834255"
+        "url": "https://v.daum.net/v/20260612074701440"
       }
     },
     {
-      "keyword": "김봉곤",
+      "keyword": "웨이브",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "김봉곤 훈장, 서울 아파트 생활…\"두 딸 뒷바라지 위해 이사\"",
+        "title": "\"사랑에 성별이 중요할까\"…웨이브 새 연프, '스탠바이미'의 과감한 질문",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_sn/0117_202606101558161299"
+      }
+    },
+    {
+      "keyword": "황인범",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이태호부터 황인범까지 대전 출신의 월드컵 영웅들",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260611224332324"
+      }
+    },
+    {
+      "keyword": "김승규",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "훈련하는 김승규",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260611_0003666277"
+        "url": "https://www.newsis.com/view/NISI20260611_0021316043"
       }
     },
     {
-      "keyword": "혼인",
+      "keyword": "옌스 카스트로프",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“결혼이 불이익 되지 않도록” 청년부부 혜택 넓힌다",
-        "source": "K-공감",
-        "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12603000000&section_id=&content=NC002&code_cd=0105000000&nPage=2&b_list=9&news_id=bad7c1df-518d-4159-ab6f-485bd1c0cb5b"
-      }
-    },
-    {
-      "keyword": "김민석",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "김민석 총리 \"투표함까지 폐기됐다면 선관위 해체론 나올 수밖에\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260612055123445"
-      }
-    },
-    {
-      "keyword": "최화정",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'63세' 최화정, 허리 사이즈 XS···10년째 유지 중인 놀라운 몸무게('최화정 유튜브')[종합]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VG7oZ99Ulb"
-      }
-    },
-    {
-      "keyword": "선원",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "미국, 이란 해상봉쇄 작전 첫 인명피해…인도 선원 3명 숨져",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611200104480"
-      }
-    },
-    {
-      "keyword": "면세점",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "호텔신라, 인천공항에 1천억원대 소송…\"면세점 철수 위약금 과중\"",
+        "title": "'나주의 외손자' 옌스 카스트로프, 월드컵 활약 기대",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260611108500030"
+        "url": "https://www.yna.co.kr/view/AKR20260611140600054"
       }
     },
     {
-      "keyword": "금시세",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "맘스터치",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "\"그때 팔았어야\" 금값 25% 폭락.. 장중 20만 원 선 무너져",
+        "title": "소맥은 캔으로, 무한상사는 버거로…이번 주 신제품·프로모션 [쿠킹]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612022257521"
+        "url": "https://v.daum.net/v/20260611080135014"
+      }
+    },
+    {
+      "keyword": "중앙일보 오늘의 운세",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "오늘의 운세 6월 11일(음력 4월 26일)",
+        "source": "제민일보",
+        "url": "https://www.jemin.com/news/articleView.html?idxno=838753"
+      }
+    },
+    {
+      "keyword": "이세영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "가슴 성형 이세영 \"필러 부작용으로 가슴 4개 됐다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260612_0003666321"
       }
     }
   ]
