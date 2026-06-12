@@ -1042,5 +1042,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-13T04:53:17.038096+09:00",
+    "label": "04:53",
+    "items": [
+      {
+        "keyword": "보스니아",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국적은 캐나다, 뿌리는 아니다…캐나다가 경험하는 ‘멀티 월드컵’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612144406749"
+        }
+      },
+      {
+        "keyword": "육아",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "51세 엄마의 늦둥이 임신, 축복일까…26세 딸의 복잡한 심경 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/06/12/2026061213530448228"
+        }
+      },
+      {
+        "keyword": "문채원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'6월 결혼' 문채원, 취향 뭐길래? 억울 해명…동묘서 패션 정정 [어저께V]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612081536056"
+        }
+      },
+      {
+        "keyword": "맥도날드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“월드컵도 할인보다 굿즈”…유통업계, 가격 대신 팬덤을 파는 이유",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=342440"
+        }
+      },
+      {
+        "keyword": "샌디스크 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "샌디스크, 메모리 반도체 섹터 낙폭 과대·저가 매수세 유입…주가 급등",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01397286645481064"
+        }
+      },
+      {
+        "keyword": "테슬라 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "스페이스X IPO 앞두고 프리마켓서↑",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06002406645481064"
+        }
+      },
+      {
+        "keyword": "tradingview",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "AXT surges following report on possible InP constraints",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4603000-axt-surges-following-report-on-possible-inp-constraints"
+        }
+      },
+      {
+        "keyword": "대한민국 교육부",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "비만예측·구강관리에 AI…영유아 건강증진사업 우수사례 시상",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1102405"
+        }
+      },
+      {
+        "keyword": "주한 미군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[주한미군 환경오염] ④ 주한미군기지는 ‘소리 없는 살인마’",
+          "source": "자주시보",
+          "url": "http://www.jajusibo.com/70346"
+        }
+      },
+      {
+        "keyword": "한진만",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "삼성전자 노조, 한진만 파운드리 사업부장에 공식 사과 요구",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20055289"
+        }
+      }
+    ]
   }
 ]
