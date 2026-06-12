@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11T02:51:19.054922+09:00",
-    "label": "02:51",
-    "items": [
-      {
-        "keyword": "미래에셋",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"현금 긁어모아라\" 위험한 베팅…'9천피' 발목 잡은 스페이스X [분석+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026061072136"
-        }
-      },
-      {
-        "keyword": "트럼프",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "트럼프 \"오늘 더 강하게 공격하겠다\"…이란 \"굳게 맞설 것\"(종합2보)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611022247887"
-        }
-      },
-      {
-        "keyword": "헤지펀드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "하락 방어 움직임 커졌다…“코스피 추가 하락 경고등”",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05300486645480408"
-        }
-      },
-      {
-        "keyword": "극한 직업",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'살롱드립' 진선규·공명 \"'극한직업' 팀 매년 만나\"…'남편들'로 재회",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7GgDCkkLtB"
-        }
-      },
-      {
-        "keyword": "훌리안 알바레스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "레알 마드리드, 아르벨로아 감독과 계약 해지…모리뉴 영입 확정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260610094053871"
-        }
-      },
-      {
-        "keyword": "우크라이나",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "우크라, 크림반도 석유 시설 집중 공격…러시아, “연료 공급 차질”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260610041204784"
-        }
-      },
-      {
-        "keyword": "김원훈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "컴포즈커피, 김원훈과 함께 컵빙 할인 프로모션",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260609109900013"
-        }
-      },
-      {
-        "keyword": "월드컵 개막전",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "역대급 월드컵 하루 앞으로…한국, 체코와 운명의 첫판",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12302527"
-        }
-      },
-      {
-        "keyword": "연료전지",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "현대차그룹, 중국 '국제수소에너지 대회' 참가…외자기업 유일 '선도기업' 활동",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=368914"
-        }
-      },
-      {
-        "keyword": "다영",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-11T05:11:48.717772+09:00",
     "label": "05:11",
     "items": [
@@ -1153,6 +1051,108 @@
           "title": "가슴 성형 이세영 \"필러 부작용으로 가슴 4개 됐다\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260612_0003666321"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-12T16:13:05.711968+09:00",
+    "label": "16:13",
+    "items": [
+      {
+        "keyword": "나경원",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "나경원 “내가 서울시장이면 당장 재선거”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612140136083"
+        }
+      },
+      {
+        "keyword": "전준우",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "2-20 대패 25피안타 전준우·유강남·노진혁 뛰었지만 롯데, 2군 NC전 '무슨일이고'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612095432540"
+        }
+      },
+      {
+        "keyword": "mlb",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "The Draft is one month away! Check out our latest mock",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11"
+        }
+      },
+      {
+        "keyword": "하워드 러 트닉",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "日 투자금 105조원으로 美 원전 짓는다…트럼프 “SMR 세계 주도”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612125503746"
+        }
+      },
+      {
+        "keyword": "유전자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“180cm·서울대 갈 아기 원해요” 오타 지우 듯 DNA 교정 성공…‘맞춤형 아기’ 시대 올까",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20054798"
+        }
+      },
+      {
+        "keyword": "유치원 교원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "연기금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"하락장 오히려 좋다\"…연기금, 삼전닉스 1조 순매수",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419611"
+        }
+      },
+      {
+        "keyword": "사나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[현장포토] \"눈빛이 멜로다\"...제이, 한도초과 훈훈미",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2343946"
+        }
+      },
+      {
+        "keyword": "캐시워크 정답",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "소휘 캐시워크 돈 버는 퀴즈, 정답은?",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260612080250485"
+        }
+      },
+      {
+        "keyword": "단양군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "장미향으로 가득찬 특별한 밤… 단양군, 13일 ‘장미길의 향연’ 개최",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611093022219"
         }
       }
     ]

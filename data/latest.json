@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-12T11:36:22.752767+09:00",
-  "label": "11:36",
+  "timestamp": "2026-06-12T16:13:05.711968+09:00",
+  "label": "16:13",
   "items": [
     {
-      "keyword": "sbs",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "[Graphic News] World Cup by the numbers",
-        "source": "The Korea Herald",
-        "url": "https://www.koreaherald.com/article/10769123"
-      }
-    },
-    {
-      "keyword": "south korea vs czechia",
+      "keyword": "나경원",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "South Korea vs Czech Republic LIVE: FIFA World Cup 2026 Group A - score, radio commentary, text updates & stats",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/ckg0vvrg70vt"
+        "title": "나경원 “내가 서울시장이면 당장 재선거”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612140136083"
       }
     },
     {
-      "keyword": "이기혁",
+      "keyword": "전준우",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘왼발 수비수’ 김태현 부상으로 조별리그 출전 불발···깜짝 발탁 이기혁 스리백 활용하나",
+        "title": "2-20 대패 25피안타 전준우·유강남·노진혁 뛰었지만 롯데, 2군 NC전 '무슨일이고'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612074701440"
+        "url": "https://v.daum.net/v/20260612095432540"
       }
     },
     {
-      "keyword": "웨이브",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "mlb",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"사랑에 성별이 중요할까\"…웨이브 새 연프, '스탠바이미'의 과감한 질문",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_sn/0117_202606101558161299"
+        "title": "The Draft is one month away! Check out our latest mock",
+        "source": "MLB.com",
+        "url": "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11"
       }
     },
     {
-      "keyword": "황인범",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "하워드 러 트닉",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "이태호부터 황인범까지 대전 출신의 월드컵 영웅들",
+        "title": "日 투자금 105조원으로 美 원전 짓는다…트럼프 “SMR 세계 주도”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260611224332324"
+        "url": "https://v.daum.net/v/20260612125503746"
       }
     },
     {
-      "keyword": "김승규",
+      "keyword": "유전자",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "훈련하는 김승규",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260611_0021316043"
+        "title": "“180cm·서울대 갈 아기 원해요” 오타 지우 듯 DNA 교정 성공…‘맞춤형 아기’ 시대 올까",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20054798"
       }
     },
     {
-      "keyword": "옌스 카스트로프",
+      "keyword": "유치원 교원",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "'나주의 외손자' 옌스 카스트로프, 월드컵 활약 기대",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260611140600054"
-      }
+      "news": null
     },
     {
-      "keyword": "맘스터치",
+      "keyword": "연기금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "소맥은 캔으로, 무한상사는 버거로…이번 주 신제품·프로모션 [쿠킹]",
+        "title": "\"하락장 오히려 좋다\"…연기금, 삼전닉스 1조 순매수",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419611"
+      }
+    },
+    {
+      "keyword": "사나",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[현장포토] \"눈빛이 멜로다\"...제이, 한도초과 훈훈미",
+        "source": "디스패치",
+        "url": "https://www.dispatch.co.kr/2343946"
+      }
+    },
+    {
+      "keyword": "캐시워크 정답",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "소휘 캐시워크 돈 버는 퀴즈, 정답은?",
+        "source": "아주경제",
+        "url": "https://www.ajunews.com/view/20260612080250485"
+      }
+    },
+    {
+      "keyword": "단양군",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "장미향으로 가득찬 특별한 밤… 단양군, 13일 ‘장미길의 향연’ 개최",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260611080135014"
-      }
-    },
-    {
-      "keyword": "중앙일보 오늘의 운세",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "오늘의 운세 6월 11일(음력 4월 26일)",
-        "source": "제민일보",
-        "url": "https://www.jemin.com/news/articleView.html?idxno=838753"
-      }
-    },
-    {
-      "keyword": "이세영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "가슴 성형 이세영 \"필러 부작용으로 가슴 4개 됐다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260612_0003666321"
+        "url": "https://v.daum.net/v/20260611093022219"
       }
     }
   ]
