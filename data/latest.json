@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-13T08:07:46.372366+09:00",
-  "label": "08:07",
+  "timestamp": "2026-06-13T11:29:22.674862+09:00",
+  "label": "11:29",
   "items": [
     {
-      "keyword": "kia 타이거즈",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "한혜진",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "KIA 아데를린, 개인사정으로 연장 계약 고사…12일 경기 후 퇴단",
+        "title": "\"샤워하러 나왔더니 낯선 사람이\"…한혜진, 홍천 별장 무단 침입 피해 토로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260613092522183"
+      }
+    },
+    {
+      "keyword": "대한민국 소방 청장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "李대통령, 김승룡 소방청장 사표 수리…감찰 3주만(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260612143100007"
+        "url": "https://www.yna.co.kr/view/AKR20260612161651530"
       }
     },
     {
-      "keyword": "주식",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "usa vs paraguay",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "\"삼전, 가장 싼 주식인데 안 샀다고?\"…4조 굴리는 큰손의 일침",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202606122194i"
+        "title": "3-0. Estados Unidos gana en el primer tiempo con el gol más rápido y doblete de Balogun",
+        "source": "HolaNews",
+        "url": "https://holanews.com/3-0-estados-unidos-gana-en-el-primer-tiempo-con-el-gol-mas-rapido-y-doblete-de-balogun/"
       }
     },
     {
-      "keyword": "금",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "초음속 여객기",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "리사",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "고점 찍고 6개월 만에 '뚝'…안전자산 금값도 흔들",
+        "title": "블핑 리사, 월드컵 LA 개막식 당당 무대…그라운드서 존재감으로 압도",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612071204948"
+        "url": "https://v.daum.net/v/20260613094121383"
       }
     },
     {
-      "keyword": "송혜교",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "송혜교, 클로즈업도 굴욕 없다…44세 믿기 힘든 무결점 비주얼",
+        "title": "'2026 아세안컵 준비' 김상식 베트남 감독, 대표팀 '보석' 발견...선발 경쟁 '후끈'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612060347811"
+        "url": "https://v.daum.net/v/5WnlADDgyc"
       }
     },
     {
-      "keyword": "재건축",
+      "keyword": "김용빈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "압구정동 84% 휩쓸었다…오세훈 당선 좌우한 ‘재건축 지도’ [안장원의 부동산 노트]",
+        "title": "[TV조선] 댄스 음악 역사 쓴 박남정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260613070204457"
+        "url": "https://v.daum.net/v/20260612004102931"
       }
     },
     {
-      "keyword": "schd",
+      "keyword": "에르메스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "How $400,000 in SCHD Multiplies Into a $50,000 Annual Dividend Stream Over 15 Years",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/400-000-schd-multiplies-50-125039917.html"
+        "title": "에르메스 ‘미스터리 앳 더 그룸즈’와 보테가 베네타 리움 전시, 놀이와 예술로 확장되는 럭셔리 하우스의 세계",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612070202742"
       }
     },
     {
-      "keyword": "엘니뇨",
+      "keyword": "에릭 라우어",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"1950년 이후 가장 큰 것 온다\" 섬뜩한 경고…이미 시작된 이변",
+        "title": "이쯤 되면 KIA에 수수료 줘야 할 판… 한국서 왕대접 이후 달라졌다, FA 대박 터지나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612172635401"
+        "url": "https://v.daum.net/v/xIhWIyyOSF"
       }
     },
     {
-      "keyword": "가온전선",
+      "keyword": "재벌",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "가온전선, AI 데이터센터용 신제품 ‘케이블버스’ 북미 인증 획득",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=369029"
-      }
-    },
-    {
-      "keyword": "vix",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "India VIX slumps to five-month low as easing global risks lift market sentiment",
-        "source": "Moneycontrol.com",
-        "url": "https://www.moneycontrol.com/news/business/markets/india-vix-slumps-to-five-month-low-as-easing-global-risks-lift-market-sentiment-13948294.html"
-      }
-    },
-    {
-      "keyword": "piala dunia fifa 2026",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Jadwal Piala Dunia 2026: Pertandingan Lengkap Fase Grup hingga Final",
-        "source": "detikcom",
-        "url": "https://www.detik.com/sulsel/sepakbola/d-8529938/jadwal-piala-dunia-2026-pertandingan-lengkap-fase-grup-hingga-final"
+        "title": "\"무너지지 않는 몸과 마음이 당신의 핵심 전략 자산… 운동하라, 재벌 회장처럼\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/weekend/2026/06/13/WUUNUX5PMFGLJOA66ROOAHPAL4/"
       }
     }
   ]

@@ -1254,5 +1254,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-13T11:29:22.674862+09:00",
+    "label": "11:29",
+    "items": [
+      {
+        "keyword": "한혜진",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"샤워하러 나왔더니 낯선 사람이\"…한혜진, 홍천 별장 무단 침입 피해 토로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613092522183"
+        }
+      },
+      {
+        "keyword": "대한민국 소방 청장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "李대통령, 김승룡 소방청장 사표 수리…감찰 3주만(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260612161651530"
+        }
+      },
+      {
+        "keyword": "usa vs paraguay",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "3-0. Estados Unidos gana en el primer tiempo con el gol más rápido y doblete de Balogun",
+          "source": "HolaNews",
+          "url": "https://holanews.com/3-0-estados-unidos-gana-en-el-primer-tiempo-con-el-gol-mas-rapido-y-doblete-de-balogun/"
+        }
+      },
+      {
+        "keyword": "초음속 여객기",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "리사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "블핑 리사, 월드컵 LA 개막식 당당 무대…그라운드서 존재감으로 압도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613094121383"
+        }
+      },
+      {
+        "keyword": "베트남 축구 국가대표팀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'2026 아세안컵 준비' 김상식 베트남 감독, 대표팀 '보석' 발견...선발 경쟁 '후끈'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5WnlADDgyc"
+        }
+      },
+      {
+        "keyword": "김용빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[TV조선] 댄스 음악 역사 쓴 박남정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612004102931"
+        }
+      },
+      {
+        "keyword": "에르메스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "에르메스 ‘미스터리 앳 더 그룸즈’와 보테가 베네타 리움 전시, 놀이와 예술로 확장되는 럭셔리 하우스의 세계",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612070202742"
+        }
+      },
+      {
+        "keyword": "에릭 라우어",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이쯤 되면 KIA에 수수료 줘야 할 판… 한국서 왕대접 이후 달라졌다, FA 대박 터지나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xIhWIyyOSF"
+        }
+      },
+      {
+        "keyword": "재벌",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"무너지지 않는 몸과 마음이 당신의 핵심 전략 자산… 운동하라, 재벌 회장처럼\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/weekend/2026/06/13/WUUNUX5PMFGLJOA66ROOAHPAL4/"
+        }
+      }
+    ]
   }
 ]
