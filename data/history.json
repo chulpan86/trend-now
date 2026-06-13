@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12T06:12:21.987997+09:00",
-    "label": "06:12",
-    "items": [
-      {
-        "keyword": "멕시코 대 남아공",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[월드컵] 멕시코시티서 40년만에 열린 개막식…다문화로 축포 쐈다(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260612006851087"
-        }
-      },
-      {
-        "keyword": "멕시코 축구 국가대표팀",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "훈련하는 손흥민-이재성",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260611053700013"
-        }
-      },
-      {
-        "keyword": "자동차",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "현대차·기아, 안전한 살균 조명 '원자외선' 차량용으로 개발",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=368966"
-        }
-      },
-      {
-        "keyword": "여성 소방관",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "숨진 여성 소방관…“노래방 가자” 갑질 피해 논란(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260611_0003666019"
-        }
-      },
-      {
-        "keyword": "fifa 월드컵 2026",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "태극기·붉은악마...북중미 월드컵 개막 임박, 패션업계도 '월드컵' 바람",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=342313"
-        }
-      },
-      {
-        "keyword": "스포츠중계",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "라울 히메네스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[월드컵] '황희찬 소속팀' 울버햄프턴, 에드워즈 감독 경질",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611182853881"
-        }
-      },
-      {
-        "keyword": "fifa world cup 2026™",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "How to Watch the 2026 FIFA World Cup: Full Schedule, Dates for Every Match",
-          "source": "FOX Sports",
-          "url": "https://www.foxsports.com/stories/soccer/how-watch-2026-fifa-world-cup-full-schedule-dates-every-match"
-        }
-      },
-      {
-        "keyword": "숲",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "시원한 나무그늘 아래 휴식",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260610n24114?mid=n1101"
-        }
-      },
-      {
-        "keyword": "조선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한국선급 \"세계 해사업계 시대적 전환점 맞아…AI 전환 가속\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YlzFQkkLlw"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-12T08:14:16.949793+09:00",
     "label": "08:14",
     "items": [
@@ -1243,6 +1141,112 @@
           "title": "‘36세’ 강소라, 카리나로 파격 변신…크롭티 입고 자신감",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260612180202533"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-13T18:51:03.082642+09:00",
+    "label": "18:51",
+    "items": [
+      {
+        "keyword": "이준석",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“간첩이 너무 많아서”…尹 30년 선고에 변호사가 눈물 흘린 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613155500007"
+        }
+      },
+      {
+        "keyword": "삼성전기",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "삼성전기 9% 급등 198만원 회복…LG이노텍 8% 강세[핫종목]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612093902811"
+        }
+      },
+      {
+        "keyword": "기상",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "올해 '슈퍼 엘니뇨' 온다…\"1950년 이후 가장 강력 예상\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260612118200009"
+        }
+      },
+      {
+        "keyword": "롯데그룹",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "위기설 시달리던 롯데의 '완벽한 부활'",
+          "source": "한경매거진&북",
+          "url": "https://magazine.hankyung.com/business/article/202606109097b"
+        }
+      },
+      {
+        "keyword": "강재준",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "강재준, -33kg 요요 원상복귀...\"인생 최고 몸무게\" 절친 정호영 폭로 [순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613115403338"
+        }
+      },
+      {
+        "keyword": "무명전설",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "조연에 머물렀던 가수들, 드디어 주인공 된다…'무명전설' 콘서트 D-1",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612180603654"
+        }
+      },
+      {
+        "keyword": "india vs afghanistan",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "India vs Afghanistan 1st ODI Live Streaming And Live Telecast: When And Where To Watch",
+          "source": "NDTV Sports",
+          "url": "https://sports.ndtv.com/india-vs-afghanistan-2026/india-vs-afghanistan-1st-odi-live-streaming-and-live-telecast-when-and-where-to-watch-11630668"
+        }
+      },
+      {
+        "keyword": "장승조",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'멋진 신세계' 조선 회귀 위기 임지연, 허남준에 이별 통보 '눈물'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613132747347"
+        }
+      },
+      {
+        "keyword": "매매",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[속보] 李대통령, ‘주식 선행매매 언론인’에 자수 권고...“주가조작 패가망신”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613164835532"
+        }
+      },
+      {
+        "keyword": "황대인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "멕시코 구단까지 설득해 KIA행→10홈런 31타점 강렬한 동행, 스스로 마침표 \"최선 다한 선수로 기억해달라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613061048859"
         }
       }
     ]

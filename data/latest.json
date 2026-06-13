@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-13T15:49:11.451748+09:00",
-  "label": "15:49",
+  "timestamp": "2026-06-13T18:51:03.082642+09:00",
+  "label": "18:51",
   "items": [
     {
-      "keyword": "최불암",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "“퇴원하면 막걸리 한잔”…‘국민 아버지’ 최불암 찾은 최휘영 장관",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613130602168"
-      }
-    },
-    {
-      "keyword": "이정후",
+      "keyword": "이준석",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "한국인 메이저리거 최장 연속 안타 ‘18경기’로 마감···이정후, 컵스전 3타수 무안타",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606131426001"
+        "title": "“간첩이 너무 많아서”…尹 30년 선고에 변호사가 눈물 흘린 이유",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260613155500007"
       }
     },
     {
-      "keyword": "외국인",
+      "keyword": "삼성전기",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "삼성전기 9% 급등 198만원 회복…LG이노텍 8% 강세[핫종목]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260612093902811"
+      }
+    },
+    {
+      "keyword": "기상",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "하정우 \"언제든 AI 차단될 수 있다…AI 주권 확보해야\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613133725451"
+        "title": "올해 '슈퍼 엘니뇨' 온다…\"1950년 이후 가장 강력 예상\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260612118200009"
       }
     },
     {
-      "keyword": "밀워키 브루어스",
+      "keyword": "롯데그룹",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "위기설 시달리던 롯데의 '완벽한 부활'",
+        "source": "한경매거진&북",
+        "url": "https://magazine.hankyung.com/business/article/202606109097b"
+      }
+    },
+    {
+      "keyword": "강재준",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "미저라우스키, 168.2㎞… MLB 선발투수 최고 구속 신기록",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-baseball/2026/06/13/UPHSXWVR4VDUHCMNTNN5CP7NS4/"
-      }
-    },
-    {
-      "keyword": "arirang",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[NOTICE] BTS WORLD TOUR ‘ARIRANG’ IN BUS",
-        "source": "Weverse",
-        "url": "https://weverse.io/bts/notice/36697"
-      }
-    },
-    {
-      "keyword": "조성환",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"낭떠러지 끝에 선 순간, 마지막 기회\"…조성환, '무명전설' 간절함의 힘 [mhn★심화인터뷰②]",
+        "title": "강재준, -33kg 요요 원상복귀...\"인생 최고 몸무게\" 절친 정호영 폭로 [순간포착]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260613070053371"
+        "url": "https://v.daum.net/v/20260613115403338"
       }
     },
     {
-      "keyword": "이한 범",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "무명전설",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'韓 수비에 이런 보물이 있었나' 이한범, 월드컵서 시크 지우자 리버풀·첼시 등 PL 5개 구단 관심 폭발",
+        "title": "조연에 머물렀던 가수들, 드디어 주인공 된다…'무명전설' 콘서트 D-1",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260613112736024"
+        "url": "https://v.daum.net/v/20260612180603654"
       }
     },
     {
-      "keyword": "원자력 잠수함",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "박규영",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "india vs afghanistan",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'시상식인 줄' 박규영-이다희, 과감한 백리스로 뒤태 대결",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260612080208731?f=p"
+        "title": "India vs Afghanistan 1st ODI Live Streaming And Live Telecast: When And Where To Watch",
+        "source": "NDTV Sports",
+        "url": "https://sports.ndtv.com/india-vs-afghanistan-2026/india-vs-afghanistan-1st-odi-live-streaming-and-live-telecast-when-and-where-to-watch-11630668"
       }
     },
     {
-      "keyword": "강소라",
+      "keyword": "장승조",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'멋진 신세계' 조선 회귀 위기 임지연, 허남준에 이별 통보 '눈물'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260613132747347"
+      }
+    },
+    {
+      "keyword": "매매",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘36세’ 강소라, 카리나로 파격 변신…크롭티 입고 자신감",
+        "title": "[속보] 李대통령, ‘주식 선행매매 언론인’에 자수 권고...“주가조작 패가망신”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260612180202533"
+        "url": "https://v.daum.net/v/20260613164835532"
+      }
+    },
+    {
+      "keyword": "황대인",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "멕시코 구단까지 설득해 KIA행→10홈런 31타점 강렬한 동행, 스스로 마침표 \"최선 다한 선수로 기억해달라\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260613061048859"
       }
     }
   ]
