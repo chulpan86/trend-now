@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-14T06:02:33.150208+09:00",
-  "label": "06:02",
+  "timestamp": "2026-06-14T07:54:11.642632+09:00",
+  "label": "07:54",
   "items": [
     {
-      "keyword": "대한민국",
+      "keyword": "날씨",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
+      "news": {
+        "title": "전국 흐리고 곳곳 소나기…돌풍·천둥번개·우박 주의",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614052847628"
+      }
+    },
+    {
+      "keyword": "브라질 대 모로코",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "‘삼바 군단’ 브라질 vs ‘돌풍’ 모로코, 내일 ‘빅매치’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260613214749842"
+      }
+    },
+    {
+      "keyword": "두산에너빌리티",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"두산에너빌리티, 가스 발전 기자재 수주 본격화 전망\"-키움",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026061195946"
+      }
+    },
+    {
+      "keyword": "복권",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "로또 1228회 당첨번호 26억, '경기·서울 희비 갈렸다'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614070147579"
+      }
+    },
+    {
+      "keyword": "weather",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Denver weather: Much cooler Sunday, but hot and dry next week",
+        "source": "KDVR",
+        "url": "https://kdvr.com/weather/weather-forecast/denver-weather-much-cooler-sunday-but-hot-and-dry-next-week/"
+      }
+    },
+    {
+      "keyword": "avc컵 여자 배구 대회",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "전통시장에서 열린 월드컵 응원전",
+        "title": "여자배구대표팀, 난적 베트남 꺾고 AVC컵 결승행…대만과 재대결",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260612080400053"
+        "url": "https://www.yna.co.kr/view/AKR20260613052100007"
       }
     },
     {
-      "keyword": "열차",
+      "keyword": "김세의",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "KTX도 대용량 배터리 반입 금지…실효성은 '글쎄'",
+        "title": "김세의 구속에 오열한 은현장 \"1년 안에 나왔으면\"…폭탄 발언 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/06/12/2026061209455289760"
+      }
+    },
+    {
+      "keyword": "손아섭",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "한화가 기다리는 필승조의 귀환…김서현 2G 연속 무실점, 강재민 ERA 1.17 [오!쎈 퓨처스] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/06/14/202606140611773818O"
+      }
+    },
+    {
+      "keyword": "골프",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] 선관위 직원, '참정권 침해' 집회 내려다보며 연이틀 '스윙' 연습",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614050637554"
+        "url": "https://v.daum.net/v/20260613200707702"
       }
     },
     {
-      "keyword": "f1",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "음악회",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "STRATEGY GUIDE: What are the options for the Barcelona-Catalunya GP?",
-        "source": "Formula 1",
-        "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-options-for-the-barcelona-catalunya-gp.30bhEEhYsL9XuuPBDleZ3Z"
-      }
-    },
-    {
-      "keyword": "스위스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘4년 전 치욕’을 씻으려는 카타르, 스위스 상대로 이변 연출하나[북중미 프리뷰XB조]",
+        "title": "[동정] 오세훈 시장, '서울시향 강변음악회' 관람",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614011101953"
-      }
-    },
-    {
-      "keyword": "일기예보",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[영상] 2026년 6월 14일 오늘 밤과 내일 날씨 예보: 베트남 북부와 중부 지역은 계속해서 무더운 날씨가 예상되며, 저녁에는 천둥번개가 칠 가능성이 있으니 주의하십시오.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-14-6-2026-bac-bo-va-trung-bo-tiep-dien-nang-nong-chieu-toi-de-phong-mua-dong"
-      }
-    },
-    {
-      "keyword": "민중민주당",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "경찰, 민중민주당 간부들 구속영장 신청…16일 영장심사",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613170301720"
-      }
-    },
-    {
-      "keyword": "카타르 스위스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Switzerland’s Breel Embolo converts penalty kick, taking lead over Qatar | 2026 FIFA World Cup",
-        "source": "FOX Sports",
-        "url": "https://www.foxsports.com/watch/fmc-nrog6paloxyoanz6"
-      }
-    },
-    {
-      "keyword": "발롱도르",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"레알 마드리드? 하나도 안 감사합니다\" ATM, 이례적 공개 조롱...\"훌리안 2637억 제안 거절당했다\" 기습 발표에 화났다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611093301362"
-      }
-    },
-    {
-      "keyword": "사랑을 처방해 드립니다",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "진정성 통했다…종영 한 달 앞두고 시청률 14.1%→'1위' 찍고 민심 평정한 韓 드라마 ('사처방')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613151701581"
-      }
-    },
-    {
-      "keyword": "정채연",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "청하, 시신경 문제 고백..“인상 써서 오해 많이 받기도” (‘전참시’)[순간포착]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613235301600"
+        "url": "https://v.daum.net/v/20260613205142157"
       }
     }
   ]
