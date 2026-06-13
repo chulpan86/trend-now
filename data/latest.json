@@ -1,61 +1,91 @@
 {
-  "timestamp": "2026-06-14T00:25:43.685554+09:00",
-  "label": "00:25",
+  "timestamp": "2026-06-14T02:11:27.925972+09:00",
+  "label": "02:11",
   "items": [
     {
-      "keyword": "르망24",
+      "keyword": "기생충",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“제네시스에 속았다”…첫 출전에 의미 뒀다더니, 페라리보다 빨랐다 [카슐랭]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613070001347"
-      }
-    },
-    {
-      "keyword": "기생충",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“덜 익힌 돼지고기 먹었는데”…뇌에서 기생충 발견된 50대 남성, 무슨 일? [헬시타임]",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20055383"
+        "title": "'이것' 자주 먹던 30대 농부, 점점 마르더니…변에서 기생충 다량 발견",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260613n11130"
       }
     },
     {
       "keyword": "한국 영화",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": null
     },
     {
-      "keyword": "강회장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "f1",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[TF초점] '신입사원 강회장' 이준영, 시청률 상승 곡선 이끈 힘",
+        "title": "Russell storms to pole in Barcelona as Leclerc crashes out",
+        "source": "Formula 1",
+        "url": "https://www.formula1.com/en/latest/article/russell-storms-to-barcelona-catalunya-gp-pole-ahead-of-hamilton-and-antonelli-as-leclerc-crashes-out.5TO9HsowvlMjmFJBPVP3qv"
+      }
+    },
+    {
+      "keyword": "그릴즈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "제니 치아에서 반짝이는 장미?…치아 패션 아이템 ‘그릴즈’ 화제",
         "source": "Daum",
-        "url": "https://v.daum.net/v/8bvGJNNdc2?f=p"
+        "url": "https://v.daum.net/v/20260613072736803"
       }
     },
     {
-      "keyword": "wec",
+      "keyword": "발롱도르",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "FIA WEC reveals nine-round 2027 calendar as series expands",
-        "source": "FIA WEC",
-        "url": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598"
+        "title": "\"레알 마드리드? 하나도 안 감사합니다\" ATM, 이례적 공개 조롱...\"훌리안 2637억 제안 거절당했다\" 기습 발표에 화났다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260611093301362"
       }
     },
     {
-      "keyword": "afg vs ind",
+      "keyword": "열차",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Ball by Ball Commentary & Live Score - IND vs AFG, 1st ODI",
-        "source": "ESPNcricinfo",
-        "url": "https://www.espncricinfo.com/series/afghanistan-in-india-2026-1527147/india-vs-afghanistan-1st-odi-1527151/ball-by-ball-commentary"
+        "title": "KTX, 경부고속선 지천역~대구역 구간 비상정차…코레일 \"원인 조사 예정\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/local/daegu-gyeongbuk/6196496"
+      }
+    },
+    {
+      "keyword": "정채연",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "청하, 시신경 문제 고백..“인상 써서 오해 많이 받기도” (‘전참시’)[순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260613235301600"
+      }
+    },
+    {
+      "keyword": "초안산",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "수국꽃 활짝 '초안산수국동산' 찍고, 눈이 시원해지는 '노원우이마루'까지",
+        "source": "서울특별시",
+        "url": "https://mediahub.seoul.go.kr/archives/2018389"
+      }
+    },
+    {
+      "keyword": "ioi",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "I.O.I's enduring friendship shines on MBC variety show",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/kpop-culture-en/2026/06/13/MOFPVB4XOBCLTAQXXAMBPDZGF4/"
       }
     },
     {
@@ -63,39 +93,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "강릉역 이용해 단오장 찾은 관람객에 '장자마리 인형 키링' 증정",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6532521"
-      }
-    },
-    {
-      "keyword": "이안",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "하츠투하츠 이안, 모태솔로 아니었다 “2년 오래 만났어요” 발언에 은지원 발끈(살림남)",
-        "source": "뉴스엔",
-        "url": "https://m.newsen.com/news_view.php?uid=202606132126532110"
-      }
-    },
-    {
-      "keyword": "김용임",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김용임, 80평 강남 초호화 저택 공개...'자동문에 편백욕조까지' (살림남)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613223202221"
-      }
-    },
-    {
-      "keyword": "홀란드",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "홀란의 여유? 노르웨이 동료들과 아이스하키 스탠리컵 관람",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260612203901014"
+        "title": "이탈리아 대표는 DIFF에서 자신들이 \"전 챔피언\"이라는 자격을 재확인했습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/dai-dien-den-tu-y-khang-dinh-dang-cap-cuu-vuong-tai-diff"
       }
     }
   ]
