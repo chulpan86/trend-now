@@ -1246,5 +1246,111 @@
         "news": null
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-13T22:25:40.432130+09:00",
+    "label": "22:25",
+    "items": [
+      {
+        "keyword": "내일 날씨",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "[날씨] 불볕더위 기승…일요일엔 곳곳 '소나기'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613205404171"
+        }
+      },
+      {
+        "keyword": "afghanistan vs india",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Ball by Ball Commentary & Live Score - IND vs AFG, 1st ODI",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/afghanistan-in-india-2026-1527147/india-vs-afghanistan-1st-odi-1527151/ball-by-ball-commentary"
+        }
+      },
+      {
+        "keyword": "교장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[위근우의 리플레이]넷플릭스 ‘참교육’, 고작 체벌 옹호를 위해 거룩한 척은 하지 맙시다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606130600001"
+        }
+      },
+      {
+        "keyword": "공효진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "공효진·신민아, 러블리 대명사의 29년 우정…시간 멈춘 '흑백 투샷'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612172136248"
+        }
+      },
+      {
+        "keyword": "로또1228회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "로또 1등 27억씩 11명…자동 선택 '10곳' 명당은 어디?",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6196490"
+        }
+      },
+      {
+        "keyword": "토마스 투헬",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'英의 이강인 때리기' 이슈 메이커 토마스 투헬 감독 결국 뜻 접었다…이전 감독 금지 조치 번복",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/06/12/GM3TIMBZHA3TANZRGMZDOZTEGQ/"
+        }
+      },
+      {
+        "keyword": "재활용",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경찰 \"인천 훼손 시신 발 크기 210㎜…무릎 아래 길이 41㎝\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260612133500065"
+        }
+      },
+      {
+        "keyword": "월디페",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "주류·음료업계, 국내 최대 EDM 축제 '월디페'서 Z세대 공략",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260612034100030"
+        }
+      },
+      {
+        "keyword": "박항서",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'불후' 박항서, 직접 등판해 대표팀 응원 \"2002년 함성 못잊어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613151651579"
+        }
+      },
+      {
+        "keyword": "추성훈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "추성훈, 졸업한 딸 추사랑에 절절한 마음 “아빠는 언제나 네 편”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613173500162"
+        }
+      }
+    ]
   }
 ]
