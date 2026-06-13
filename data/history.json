@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12T16:13:05.711968+09:00",
-    "label": "16:13",
-    "items": [
-      {
-        "keyword": "나경원",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "나경원 “내가 서울시장이면 당장 재선거”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260612140136083"
-        }
-      },
-      {
-        "keyword": "전준우",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "2-20 대패 25피안타 전준우·유강남·노진혁 뛰었지만 롯데, 2군 NC전 '무슨일이고'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260612095432540"
-        }
-      },
-      {
-        "keyword": "mlb",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "The Draft is one month away! Check out our latest mock",
-          "source": "MLB.com",
-          "url": "https://www.mlb.com/news/mlb-pipeline-2026-mock-draft-june-11"
-        }
-      },
-      {
-        "keyword": "하워드 러 트닉",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "日 투자금 105조원으로 美 원전 짓는다…트럼프 “SMR 세계 주도”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260612125503746"
-        }
-      },
-      {
-        "keyword": "유전자",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“180cm·서울대 갈 아기 원해요” 오타 지우 듯 DNA 교정 성공…‘맞춤형 아기’ 시대 올까",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20054798"
-        }
-      },
-      {
-        "keyword": "유치원 교원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "연기금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"하락장 오히려 좋다\"…연기금, 삼전닉스 1조 순매수",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419611"
-        }
-      },
-      {
-        "keyword": "사나",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[현장포토] \"눈빛이 멜로다\"...제이, 한도초과 훈훈미",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2343946"
-        }
-      },
-      {
-        "keyword": "캐시워크 정답",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "소휘 캐시워크 돈 버는 퀴즈, 정답은?",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260612080250485"
-        }
-      },
-      {
-        "keyword": "단양군",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "장미향으로 가득찬 특별한 밤… 단양군, 13일 ‘장미길의 향연’ 개최",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611093022219"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-12T20:35:17.907804+09:00",
     "label": "20:35",
     "items": [
@@ -1553,6 +1451,112 @@
           "title": "일본과 이탈리아가 2026년 파리 국제영화제(DIFF)의 \"문화\" 부문에서 두각을 나타냅니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/nhat-ban-va-italia-thang-hoa-trong-dem-thi-van-hoa-tai-diff-2026"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-14T06:02:33.150208+09:00",
+    "label": "06:02",
+    "items": [
+      {
+        "keyword": "대한민국",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "전통시장에서 열린 월드컵 응원전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260612080400053"
+        }
+      },
+      {
+        "keyword": "열차",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "KTX도 대용량 배터리 반입 금지…실효성은 '글쎄'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614050637554"
+        }
+      },
+      {
+        "keyword": "f1",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "STRATEGY GUIDE: What are the options for the Barcelona-Catalunya GP?",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-options-for-the-barcelona-catalunya-gp.30bhEEhYsL9XuuPBDleZ3Z"
+        }
+      },
+      {
+        "keyword": "스위스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘4년 전 치욕’을 씻으려는 카타르, 스위스 상대로 이변 연출하나[북중미 프리뷰XB조]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614011101953"
+        }
+      },
+      {
+        "keyword": "일기예보",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[영상] 2026년 6월 14일 오늘 밤과 내일 날씨 예보: 베트남 북부와 중부 지역은 계속해서 무더운 날씨가 예상되며, 저녁에는 천둥번개가 칠 가능성이 있으니 주의하십시오.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-14-6-2026-bac-bo-va-trung-bo-tiep-dien-nang-nong-chieu-toi-de-phong-mua-dong"
+        }
+      },
+      {
+        "keyword": "민중민주당",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경찰, 민중민주당 간부들 구속영장 신청…16일 영장심사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613170301720"
+        }
+      },
+      {
+        "keyword": "카타르 스위스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Switzerland’s Breel Embolo converts penalty kick, taking lead over Qatar | 2026 FIFA World Cup",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/watch/fmc-nrog6paloxyoanz6"
+        }
+      },
+      {
+        "keyword": "발롱도르",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"레알 마드리드? 하나도 안 감사합니다\" ATM, 이례적 공개 조롱...\"훌리안 2637억 제안 거절당했다\" 기습 발표에 화났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611093301362"
+        }
+      },
+      {
+        "keyword": "사랑을 처방해 드립니다",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "진정성 통했다…종영 한 달 앞두고 시청률 14.1%→'1위' 찍고 민심 평정한 韓 드라마 ('사처방')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613151701581"
+        }
+      },
+      {
+        "keyword": "정채연",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "청하, 시신경 문제 고백..“인상 써서 오해 많이 받기도” (‘전참시’)[순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613235301600"
         }
       }
     ]
