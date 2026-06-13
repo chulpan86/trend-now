@@ -1450,5 +1450,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-14T04:07:43.478496+09:00",
+    "label": "04:07",
+    "items": [
+      {
+        "keyword": "기생충",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'이것' 자주 먹던 30대 농부, 점점 마르더니…변에서 기생충 다량 발견",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260613n11130"
+        }
+      },
+      {
+        "keyword": "한국 영화",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "500만 눈앞 '군체'…신작 공세 속 극장가 판도 흔들릴까",
+          "source": "경북도민일보",
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=708333"
+        }
+      },
+      {
+        "keyword": "열차",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "경남·대구 주민 가덕도신공항 쉽게 간다… 진주·동대구역 개량",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260610.99099002666"
+        }
+      },
+      {
+        "keyword": "f1",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Russell storms to pole in Barcelona as Leclerc crashes out",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/russell-storms-to-barcelona-catalunya-gp-pole-ahead-of-hamilton-and-antonelli-as-leclerc-crashes-out.5TO9HsowvlMjmFJBPVP3qv"
+        }
+      },
+      {
+        "keyword": "그릴즈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "제니 치아에서 반짝이는 장미?…치아 패션 아이템 ‘그릴즈’ 화제",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613072736803"
+        }
+      },
+      {
+        "keyword": "발롱도르",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"레알 마드리드? 하나도 안 감사합니다\" ATM, 이례적 공개 조롱...\"훌리안 2637억 제안 거절당했다\" 기습 발표에 화났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611093301362"
+        }
+      },
+      {
+        "keyword": "정채연",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아이오아이 청하, 시신경 문제 고백 \"인상 써서 오해받아\" [전참시][★밤TView]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614005449896"
+        }
+      },
+      {
+        "keyword": "초안산",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "수국꽃 활짝 '초안산수국동산' 찍고, 눈이 시원해지는 '노원우이마루'까지",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2018389"
+        }
+      },
+      {
+        "keyword": "ioi",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "I.O.I's enduring friendship shines on MBC variety show",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/06/13/MOFPVB4XOBCLTAQXXAMBPDZGF4/"
+        }
+      },
+      {
+        "keyword": "불꽃놀이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "일본과 이탈리아가 2026년 파리 국제영화제(DIFF)의 \"문화\" 부문에서 두각을 나타냅니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhat-ban-va-italia-thang-hoa-trong-dem-thi-van-hoa-tai-diff-2026"
+        }
+      }
+    ]
   }
 ]
