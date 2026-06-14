@@ -1572,5 +1572,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-15T02:08:35.541036+09:00",
+    "label": "02:08",
+    "items": [
+      {
+        "keyword": "이준영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'신입사원 강회장' 이준영·이주명·이성욱, 태하그룹 견제…특급 팀플레이",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614191648930?f=p"
+        }
+      },
+      {
+        "keyword": "미군",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'일요일 서명' 무산될 듯‥이란 \"며칠 내 가능\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6830091_37004.html"
+        }
+      },
+      {
+        "keyword": "태연",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "태연, '골때녀' 합류?..축구 폼에 방송국 '간절' \"합격문자 드립니다 제발\" ('태연 오피셜') [순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614201046675"
+        }
+      },
+      {
+        "keyword": "페라리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대통령 순방 이번에도 동행한 이재용…페라리와는 무슨 인연?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XZF8iYYCvC"
+        }
+      },
+      {
+        "keyword": "주유소",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정유사·주유소 모두 ‘비명’…“소비억제효과도 이미 한계점”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20055521"
+        }
+      },
+      {
+        "keyword": "루이스 해밀턴",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "APTOPIX Spain F1 GP Auto Racing",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260613n02158"
+        }
+      },
+      {
+        "keyword": "박인희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘Song큐멘터리 백투더뮤직 시즌2’ 박인희, 이해인 수녀와의 60년 우정부터 명곡 ‘모닥불’ 탄생 비화도 공개",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606141834003"
+        }
+      },
+      {
+        "keyword": "현대로템",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "현대로템 임원진, 자사주 16억 규모 매입…\"책임 경영 실천\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260612173149597"
+        }
+      },
+      {
+        "keyword": "손태영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "택시비가 40만원도 감수.. 손태영, 아들에 \"비행기 값이라 생각\" 쏘쿨",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614203300057"
+        }
+      },
+      {
+        "keyword": "jtbc 실시간",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[영상] 오늘의 월드컵",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8585779"
+        }
+      }
+    ]
   }
 ]

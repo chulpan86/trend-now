@@ -1,35 +1,15 @@
 {
-  "timestamp": "2026-06-15T00:42:33.624083+09:00",
-  "label": "00:42",
+  "timestamp": "2026-06-15T02:08:35.541036+09:00",
+  "label": "02:08",
   "items": [
     {
-      "keyword": "f1",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Barcelona-Catalunya Grand Prix: Lewis Hamilton takes first victory for Ferrari; Mercedes couldn't find answers",
-        "source": "ESPN",
-        "url": "https://www.espn.com/f1/story/_/id/49028350/barcelona-catalunya-grand-prix-formula-1-barcelona-catalunya-grand-prix-lewis-hamilton-wins-first-race-ferrari-mercedes-find-answers"
-      }
-    },
-    {
-      "keyword": "혜리",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "혜리, 춤추다 어깨끈이 뚝…대형 노출사고 막은 '프로' 면모 [핫피플]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260614113301673"
-      }
-    },
-    {
-      "keyword": "제네시스 마그마 레이싱",
+      "keyword": "이준영",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "제네시스, '르망24' 첫도전 13위로 완주…역경 이긴 기적의 레이스(종합)",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=03066806645481720&mediaCodeNo=257"
+        "title": "'신입사원 강회장' 이준영·이주명·이성욱, 태하그룹 견제…특급 팀플레이",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614191648930?f=p"
       }
     },
     {
@@ -43,13 +23,33 @@
       }
     },
     {
-      "keyword": "박인희",
+      "keyword": "태연",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘Song큐멘터리 백투더뮤직 시즌2’ 박인희, 이해인 수녀와의 60년 우정부터 명곡 ‘모닥불’ 탄생 비화도 공개",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202606141834003"
+        "title": "태연, '골때녀' 합류?..축구 폼에 방송국 '간절' \"합격문자 드립니다 제발\" ('태연 오피셜') [순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614201046675"
+      }
+    },
+    {
+      "keyword": "페라리",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대통령 순방 이번에도 동행한 이재용…페라리와는 무슨 인연?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/XZF8iYYCvC"
+      }
+    },
+    {
+      "keyword": "주유소",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "정유사·주유소 모두 ‘비명’…“소비억제효과도 이미 한계점”",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20055521"
       }
     },
     {
@@ -63,6 +63,16 @@
       }
     },
     {
+      "keyword": "박인희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘Song큐멘터리 백투더뮤직 시즌2’ 박인희, 이해인 수녀와의 60년 우정부터 명곡 ‘모닥불’ 탄생 비화도 공개",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202606141834003"
+      }
+    },
+    {
       "keyword": "현대로템",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -70,16 +80,6 @@
         "title": "현대로템 임원진, 자사주 16억 규모 매입…\"책임 경영 실천\"",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260612173149597"
-      }
-    },
-    {
-      "keyword": "강회장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'신입사원 강회장' 전혜진, 父 손현주 살해 시도..진구 \"내 눈으로 봤다\" 폭로",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260614235501675"
       }
     },
     {
@@ -99,7 +99,7 @@
       "news": {
         "title": "[영상] 오늘의 월드컵",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8585577"
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8585779"
       }
     }
   ]
