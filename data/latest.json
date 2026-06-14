@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-14T13:00:03.927527+09:00",
-  "label": "13:00",
+  "timestamp": "2026-06-14T17:17:57.574251+09:00",
+  "label": "17:17",
   "items": [
     {
-      "keyword": "nba",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "tsmc",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "The Knicks are NBA champions, and Jalen Brunson has secured his place in New York sports lore.",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nba/live/knicks-vs-spurs-score-live-updates-where-to-watch-game-5-victor-wembanyama-jalen-brunson-stats-box-score-223000949.html"
+        "title": "Do China’s export curbs on tungsten threaten Japan’s AI chip supply chain?",
+        "source": "South China Morning Post",
+        "url": "https://www.scmp.com/economy/global-economy/article/3356921/do-chinas-export-curbs-tungsten-threaten-japans-ai-chip-supply-chain"
       }
     },
     {
-      "keyword": "한화오션",
+      "keyword": "하정우",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"골목골목 배운다\" 수첩 들고 다시 구포시장으로…하정우 깜짝 근황 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/politics/2026/06/14/2026061413455619850"
+      }
+    },
+    {
+      "keyword": "재건축",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "삼성물산, 6천500억원 규모 방배신삼호 재건축 시공사 선정",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614094856637"
+      }
+    },
+    {
+      "keyword": "예금",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "거제시 “KDDX 사업자 한화 사실상 낙점에 환영”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8585615"
+        "title": "은행 예금금리 다시 3%대로…머니무브에도 정기예금은 증가세",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614113900753"
       }
     },
     {
-      "keyword": "김효주",
+      "keyword": "변우혁",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "김효주·최혜진, LPGA 다우 챔피언십 3R 단독 선두…우승 보인다",
+        "title": "“(김)도영이한테 부담이 덜 되겠죠” 변우혁은 한 방으로 말해야 한다…외인타자 없는 KIA가 사는법",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614075939143"
+        "url": "https://v.daum.net/v/20260613220147965"
       }
     },
     {
-      "keyword": "재혼",
+      "keyword": "우박",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "휴일 오후 덮친 호우주의보... 서울·경기 밤까지 강한 소나기",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/transport-environment/2026/06/14/UA42PT3ONBEHFCK2CSUSPQR2BE/"
+      }
+    },
+    {
+      "keyword": "t1 젠지",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"첫 결혼식도 갔는데, 재혼에 와 달라는 직장 동료…꼭 가야 하나요\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/women-family/6195964"
-      }
-    },
-    {
-      "keyword": "영종도",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "인천 영종도~옹진 신도, 차로 3분이면 건넌다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/regional/2026/06/12/NGW6WM6UH5ENFFMHT4O5WZTME4/"
-      }
-    },
-    {
-      "keyword": "샌안토니오 스퍼스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"그래도 믿는다\" 치명적 실수 디애런 팍스. SAS 미치 존슨 감독 \"SNS에서 난 212번 해고, 팍스는 72번 트레이드. 팍스는 여전히 우리 메인 가드\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/basketball/2026/06/14/GQYTOMZSGAZWMNBZMJRDOOBTGI/"
-      }
-    },
-    {
-      "keyword": "인플레이션",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "대체로 예상치 부합했던 美물가지표…이제는 케빈 워시 입 주목",
+        "title": "젠지, KT 꺾고 로드 투 MSI 최종전 진출…T1과 맞대결",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614072654869"
+        "url": "https://v.daum.net/v/WVHMhOOcSu"
       }
     },
     {
-      "keyword": "haiti vs scotland",
+      "keyword": "대전 날씨",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'They said it was a must-win... we won' - Scotland beat Haiti for first World Cup victory in 36 years",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c4gy7dxk0xwt"
+        "title": "대전·세종·충남 맑다가 밤부터 구름…낮 최고 27∼32도",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260613011300063"
       }
     },
     {
-      "keyword": "haiti",
+      "keyword": "신생아",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Haiti 0-1 Scotland: World Cup 2026 – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/live/2026/jun/14/haiti-v-scotland-world-cup-2026-live?page=with:block-6a2e11208f08b3c2b5d2eb06"
+        "title": "신혼부부 아니어도 신생아 특공 가능해진다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/real_estate/2026/06/14/SGE4WNOJVVBGDECUDN5W6GH6QQ/"
       }
     },
     {
-      "keyword": "영국",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "아스널 fc",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "“10분 안에 입장 안 내면 끝”…영국 정치 삼킨 스마트폰",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613164205472?f=p"
+        "title": "'오현규, 조만간 볼 수 있겠다' 새 감독 영입한 베식타시, 아스널 '잉여전력' 윙어 트로사르 영입 접촉 中..'이적료 2000만유로 준비했다'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/06/13/MMYDOYRTMFQWCNLEG5TDKMBRGQ/"
       }
     }
   ]
