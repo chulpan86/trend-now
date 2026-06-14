@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12T23:35:08.714900+09:00",
-    "label": "23:35",
-    "items": [
-      {
-        "keyword": "식중독",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘샐러드 도시락’ 먹었는데 식중독…원인은 ‘이 채소’였다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606121700001"
-        }
-      },
-      {
-        "keyword": "lck",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "LCK Teams Vie for Two MSI Berths in Wonju",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/11/AIVCHZWCWRDQRD2VS2X247AO2U/"
-        }
-      },
-      {
-        "keyword": "토스증권",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "2030 잡은 토스증권, 이번엔 4050 연금 고객 노린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260612083749581"
-        }
-      },
-      {
-        "keyword": "김대현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'17안타' 롯데, 선두 LG에 16-5 대승…'서건창 끝내기' 키움, 한화 제압(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260612_0003667704"
-        }
-      },
-      {
-        "keyword": "bts come over",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "BTS to release new digital single 'Come Over'",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260612001400315"
-        }
-      },
-      {
-        "keyword": "조민아",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "서인영, 조민아와 갈등 봉합…쥬얼리 11년 만에 무대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260612_0003667708"
-        }
-      },
-      {
-        "keyword": "서울 경전철 강북횡단선",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘집앞 10분 전철역’ 서울 3차 철도망 계획···“희망고문 않겠다” 자신하는 까닭은",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606111625001"
-        }
-      },
-      {
-        "keyword": "박정훈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "법원, ‘박정훈 구속영장’ 작성한 군 검사들 무죄···국회 불출석만 벌금형",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260612162002306"
-        }
-      },
-      {
-        "keyword": "신세계",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "신세계그룹, 사모펀드 보유 SSG닷컴 지분 전량 인수",
-          "source": "동아비즈니스리뷰 | DBR",
-          "url": "https://dbr.donga.com/kfocus/view/article_no/2890"
-        }
-      },
-      {
-        "keyword": "서울사이버대학교",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-13T02:31:21.239893+09:00",
     "label": "02:31",
     "items": [
@@ -1667,6 +1565,112 @@
           "title": "The World Cup Could Be the Biggest Sports Gambling Event Ever",
           "source": "The New York Times",
           "url": "https://www.nytimes.com/2026/06/12/business/world-cup-gambling.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-14T13:00:03.927527+09:00",
+    "label": "13:00",
+    "items": [
+      {
+        "keyword": "nba",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "The Knicks are NBA champions, and Jalen Brunson has secured his place in New York sports lore.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/live/knicks-vs-spurs-score-live-updates-where-to-watch-game-5-victor-wembanyama-jalen-brunson-stats-box-score-223000949.html"
+        }
+      },
+      {
+        "keyword": "한화오션",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "거제시 “KDDX 사업자 한화 사실상 낙점에 환영”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8585615"
+        }
+      },
+      {
+        "keyword": "김효주",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김효주·최혜진, LPGA 다우 챔피언십 3R 단독 선두…우승 보인다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614075939143"
+        }
+      },
+      {
+        "keyword": "재혼",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"첫 결혼식도 갔는데, 재혼에 와 달라는 직장 동료…꼭 가야 하나요\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/women-family/6195964"
+        }
+      },
+      {
+        "keyword": "영종도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "인천 영종도~옹진 신도, 차로 3분이면 건넌다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/06/12/NGW6WM6UH5ENFFMHT4O5WZTME4/"
+        }
+      },
+      {
+        "keyword": "샌안토니오 스퍼스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"그래도 믿는다\" 치명적 실수 디애런 팍스. SAS 미치 존슨 감독 \"SNS에서 난 212번 해고, 팍스는 72번 트레이드. 팍스는 여전히 우리 메인 가드\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/06/14/GQYTOMZSGAZWMNBZMJRDOOBTGI/"
+        }
+      },
+      {
+        "keyword": "인플레이션",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대체로 예상치 부합했던 美물가지표…이제는 케빈 워시 입 주목",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614072654869"
+        }
+      },
+      {
+        "keyword": "haiti vs scotland",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'They said it was a must-win... we won' - Scotland beat Haiti for first World Cup victory in 36 years",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c4gy7dxk0xwt"
+        }
+      },
+      {
+        "keyword": "haiti",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Haiti 0-1 Scotland: World Cup 2026 – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jun/14/haiti-v-scotland-world-cup-2026-live?page=with:block-6a2e11208f08b3c2b5d2eb06"
+        }
+      },
+      {
+        "keyword": "영국",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“10분 안에 입장 안 내면 끝”…영국 정치 삼킨 스마트폰",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260613164205472?f=p"
         }
       }
     ]

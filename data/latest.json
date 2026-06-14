@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-14T08:58:18.411231+09:00",
-  "label": "08:58",
+  "timestamp": "2026-06-14T13:00:03.927527+09:00",
+  "label": "13:00",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "500000+",
-      "traffic": 500000,
+      "keyword": "nba",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "전국 흐리고 곳곳 소나기…돌풍·천둥번개·우박 주의",
+        "title": "The Knicks are NBA champions, and Jalen Brunson has secured his place in New York sports lore.",
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nba/live/knicks-vs-spurs-score-live-updates-where-to-watch-game-5-victor-wembanyama-jalen-brunson-stats-box-score-223000949.html"
+      }
+    },
+    {
+      "keyword": "한화오션",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "거제시 “KDDX 사업자 한화 사실상 낙점에 환영”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8585615"
+      }
+    },
+    {
+      "keyword": "김효주",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "김효주·최혜진, LPGA 다우 챔피언십 3R 단독 선두…우승 보인다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614052847628"
+        "url": "https://v.daum.net/v/20260614075939143"
       }
     },
     {
-      "keyword": "김민재",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "재혼",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "해외 매체도 '깜짝' 놀랐다! 김민재 왜 손흥민한테?...경기 후 보인 리스펙 행동에 극찬 세례",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613104948429"
+        "title": "\"첫 결혼식도 갔는데, 재혼에 와 달라는 직장 동료…꼭 가야 하나요\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/women-family/6195964"
       }
     },
     {
-      "keyword": "weather",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "영종도",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Tornadoes, thunderstorms and sweltering heat hit American communities",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/video/tornadoes-thunderstorms-sweltering-heat-hit-american-communities/"
+        "title": "인천 영종도~옹진 신도, 차로 3분이면 건넌다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/regional/2026/06/12/NGW6WM6UH5ENFFMHT4O5WZTME4/"
       }
     },
     {
-      "keyword": "아유브 부아디",
+      "keyword": "샌안토니오 스퍼스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'22년 만의 우승' 아스널 미쳤다!…2007년생 초신성 MF 영입전서 PSG 상대 승리 자신",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260614n00825"
+        "title": "\"그래도 믿는다\" 치명적 실수 디애런 팍스. SAS 미치 존슨 감독 \"SNS에서 난 212번 해고, 팍스는 72번 트레이드. 팍스는 여전히 우리 메인 가드\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/basketball/2026/06/14/GQYTOMZSGAZWMNBZMJRDOOBTGI/"
       }
     },
     {
-      "keyword": "케이티 페리",
+      "keyword": "인플레이션",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "World Cup kicks off in the US with performances from Katy Perry, Future and Tyla",
+        "title": "대체로 예상치 부합했던 美물가지표…이제는 케빈 워시 입 주목",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614072654869"
+      }
+    },
+    {
+      "keyword": "haiti vs scotland",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'They said it was a must-win... we won' - Scotland beat Haiti for first World Cup victory in 36 years",
         "source": "BBC",
-        "url": "https://www.bbc.com/news/articles/c4g9g9xy9y7o"
+        "url": "https://www.bbc.com/sport/football/live/c4gy7dxk0xwt"
       }
     },
     {
-      "keyword": "fifa world cup",
+      "keyword": "haiti",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Qatar vs Switzerland LIVE: FIFA World Cup 2026 Group B score, commentary, updates & stats",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c4gy0jy8dglt"
+        "title": "Haiti 0-1 Scotland: World Cup 2026 – live",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/live/2026/jun/14/haiti-v-scotland-world-cup-2026-live?page=with:block-6a2e11208f08b3c2b5d2eb06"
       }
     },
     {
-      "keyword": "이희준",
+      "keyword": "영국",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이희준·이혜정, 각방 고백에 야노시호 \"저희도 각방 써요\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260613_0003667980"
-      }
-    },
-    {
-      "keyword": "비니시우스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“개인상 필요 없다” 브라질 에이스 비니시우스의 다짐···“6번째 월드컵 우승 꼭 이루고 싶어”",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/sports/12073461"
-      }
-    },
-    {
-      "keyword": "음악회",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[동정] 오세훈 시장, '서울시향 강변음악회' 관람",
+        "title": "“10분 안에 입장 안 내면 끝”…영국 정치 삼킨 스마트폰",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260613205142157"
-      }
-    },
-    {
-      "keyword": "livescore",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "The World Cup Could Be the Biggest Sports Gambling Event Ever",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/12/business/world-cup-gambling.html"
+        "url": "https://v.daum.net/v/20260613164205472?f=p"
       }
     }
   ]
