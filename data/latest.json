@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-14T17:17:57.574251+09:00",
-  "label": "17:17",
+  "timestamp": "2026-06-14T20:22:59.772820+09:00",
+  "label": "20:22",
   "items": [
     {
-      "keyword": "tsmc",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "집중호우",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "Do China’s export curbs on tungsten threaten Japan’s AI chip supply chain?",
-        "source": "South China Morning Post",
-        "url": "https://www.scmp.com/economy/global-economy/article/3356921/do-chinas-export-curbs-tungsten-threaten-japans-ai-chip-supply-chain"
+        "title": "[제보] “아우, 아파. 지금 우박이…” 돌풍·천둥번개·우박 주의",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8585785"
       }
     },
     {
-      "keyword": "하정우",
+      "keyword": "딕 아드보카트",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"골목골목 배운다\" 수첩 들고 다시 구포시장으로…하정우 깜짝 근황 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/politics/2026/06/14/2026061413455619850"
-      }
-    },
-    {
-      "keyword": "재건축",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "삼성물산, 6천500억원 규모 방배신삼호 재건축 시공사 선정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260614094856637"
-      }
-    },
-    {
-      "keyword": "예금",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "은행 예금금리 다시 3%대로…머니무브에도 정기예금은 증가세",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260614113900753"
-      }
-    },
-    {
-      "keyword": "변우혁",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“(김)도영이한테 부담이 덜 되겠죠” 변우혁은 한 방으로 말해야 한다…외인타자 없는 KIA가 사는법",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613220147965"
-      }
-    },
-    {
-      "keyword": "우박",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "휴일 오후 덮친 호우주의보... 서울·경기 밤까지 강한 소나기",
+        "title": "[단독] 한국 이끌었던 아드보카트 \"한국의 훌륭한 시작, 진심으로 축하해\"",
         "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/06/14/UA42PT3ONBEHFCK2CSUSPQR2BE/"
+        "url": "https://www.chosun.com/sports/sports_special/2026/06/14/5HS44HH3IZDZZJWYVQ4AQD3H5Q/"
       }
     },
     {
-      "keyword": "t1 젠지",
+      "keyword": "무신사",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[르포] 중국서 자라, 유니클로와 당당히 경쟁하는 ‘K패션’ 무신사",
+        "source": "남다른디테일",
+        "url": "https://namdi.co.kr/?p=26456"
+      }
+    },
+    {
+      "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[가상자산 나침반] 물가 충격 넘긴 비트코인…이번 주 ‘워시의 첫 FOMC’가 방향 가른다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614122802706"
+      }
+    },
+    {
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "삼성전자, 원 UI 9 적용 갤럭시폰 확대 전망",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Global-Biz/2026/06/2026061123533141519a1f309431_1"
+      }
+    },
+    {
+      "keyword": "데이비드 베컴",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "젠지, KT 꺾고 로드 투 MSI 최종전 진출…T1과 맞대결",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WVHMhOOcSu"
-      }
-    },
-    {
-      "keyword": "대전 날씨",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "대전·세종·충남 맑다가 밤부터 구름…낮 최고 27∼32도",
+        "title": "베컴, 美 로스앤젤레스 '할리우드 명예의 거리' 입성",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260613011300063"
+        "url": "https://www.yna.co.kr/view/IPT20260614000002365?section=gallery/index"
       }
     },
     {
-      "keyword": "신생아",
+      "keyword": "2028",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "New 2028 Poll Shows Kamala Harris Leading Gavin Newsom by Double Digits",
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/new-2028-poll-shows-kamala-harris-leading-gavin-newsom-by-double-digits-12067998"
+      }
+    },
+    {
+      "keyword": "투기",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신혼부부 아니어도 신생아 특공 가능해진다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/real_estate/2026/06/14/SGE4WNOJVVBGDECUDN5W6GH6QQ/"
+        "title": "'왝더독' 현실화되나…삼전·닉스 2배 상장 후 증시 변동성 확대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614105209853"
       }
     },
     {
-      "keyword": "아스널 fc",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "사나",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'오현규, 조만간 볼 수 있겠다' 새 감독 영입한 베식타시, 아스널 '잉여전력' 윙어 트로사르 영입 접촉 中..'이적료 2000만유로 준비했다'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/06/13/MMYDOYRTMFQWCNLEG5TDKMBRGQ/"
+        "title": "[포토] 정해인 '로맨틱 프린스'",
+        "source": "싱글리스트",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=745075"
+      }
+    },
+    {
+      "keyword": "통영시장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "낙선한 천영기 통영시장 임기 말 30만 원 민생지원금 지급 무산",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260614.99099003702"
       }
     }
   ]
