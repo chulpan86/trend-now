@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14T13:00:03.927527+09:00",
-    "label": "13:00",
-    "items": [
-      {
-        "keyword": "nba",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "The Knicks are NBA champions, and Jalen Brunson has secured his place in New York sports lore.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/live/knicks-vs-spurs-score-live-updates-where-to-watch-game-5-victor-wembanyama-jalen-brunson-stats-box-score-223000949.html"
-        }
-      },
-      {
-        "keyword": "한화오션",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "거제시 “KDDX 사업자 한화 사실상 낙점에 환영”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8585615"
-        }
-      },
-      {
-        "keyword": "김효주",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김효주·최혜진, LPGA 다우 챔피언십 3R 단독 선두…우승 보인다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260614075939143"
-        }
-      },
-      {
-        "keyword": "재혼",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"첫 결혼식도 갔는데, 재혼에 와 달라는 직장 동료…꼭 가야 하나요\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/women-family/6195964"
-        }
-      },
-      {
-        "keyword": "영종도",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "인천 영종도~옹진 신도, 차로 3분이면 건넌다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/regional/2026/06/12/NGW6WM6UH5ENFFMHT4O5WZTME4/"
-        }
-      },
-      {
-        "keyword": "샌안토니오 스퍼스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"그래도 믿는다\" 치명적 실수 디애런 팍스. SAS 미치 존슨 감독 \"SNS에서 난 212번 해고, 팍스는 72번 트레이드. 팍스는 여전히 우리 메인 가드\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/06/14/GQYTOMZSGAZWMNBZMJRDOOBTGI/"
-        }
-      },
-      {
-        "keyword": "인플레이션",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대체로 예상치 부합했던 美물가지표…이제는 케빈 워시 입 주목",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260614072654869"
-        }
-      },
-      {
-        "keyword": "haiti vs scotland",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'They said it was a must-win... we won' - Scotland beat Haiti for first World Cup victory in 36 years",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c4gy7dxk0xwt"
-        }
-      },
-      {
-        "keyword": "haiti",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Haiti 0-1 Scotland: World Cup 2026 – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/jun/14/haiti-v-scotland-world-cup-2026-live?page=with:block-6a2e11208f08b3c2b5d2eb06"
-        }
-      },
-      {
-        "keyword": "영국",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“10분 안에 입장 안 내면 끝”…영국 정치 삼킨 스마트폰",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260613164205472?f=p"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-14T17:17:57.574251+09:00",
     "label": "17:17",
     "items": [
@@ -1267,6 +1161,112 @@
           "title": "“취객이 빠졌다”…망설임 없이 뛰어든 자갈치 아저씨 [아살세]",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260615145701198"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-16T02:58:18.784217+09:00",
+    "label": "02:58",
+    "items": [
+      {
+        "keyword": "조현아",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "조현아, 성시경과 '핑크빛' 터졌다…\"인터뷰서 이상형 고백해\" ('더 시즌즈')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260615114557382"
+        }
+      },
+      {
+        "keyword": "울산바위",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "강원 산악사고 잇따라…1명 숨지고 4명 구조 작업",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8585793"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시s26",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "갤럭시S26 125만원→50만원 ‘뚝’…뜻밖의 기회에 비수기 버티는 이통사들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260615193301948"
+        }
+      },
+      {
+        "keyword": "spain vs cabo verde",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Spain vs Cape Verde LIVE: FIFA World Cup Group H score, commentary, updates & stats",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cr7xnk3eygxt"
+        }
+      },
+      {
+        "keyword": "건설업",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[진단 : 美-이란 MOU 맺어도 연내 중동전쟁 이전 유가 회복 요원]",
+          "source": "에너지플랫폼뉴스",
+          "url": "http://www.e-platform.net/news/articleView.html?idxno=102981"
+        }
+      },
+      {
+        "keyword": "리플",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "리플(XRP), 지금 큰 그림이 바뀌고 있습니다 — 중동 평화·ETF·두바이가 함께 그리는 2026년의 판도",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/joosikstudy/coinschool/contents/260615154502653kp"
+        }
+      },
+      {
+        "keyword": "장교",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘방첩사 전신’ 기무사 퇴출 군인 62%, 3년 내 전역…이번엔?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260615215338464"
+        }
+      },
+      {
+        "keyword": "서유석",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'가요무대' 15일 송가인·김다현 등 출연진 라인업 공개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3609066"
+        }
+      },
+      {
+        "keyword": "초등교사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "지인들 속여 빌린 3000만원 해외주식 등에 탕진한 초등교사···징역 6개월",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606151723001"
+        }
+      },
+      {
+        "keyword": "아모림",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "맨체스터 유나이티드 역대 최악의 감독 반 년 만에 새 직장 찾았다…'챔스 진출 실패' AC 밀란 감독 후보로 부상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614203521092?f=p"
         }
       }
     ]
