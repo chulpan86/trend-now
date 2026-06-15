@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-15T15:14:06.191425+09:00",
-  "label": "15:14",
+  "timestamp": "2026-06-15T21:57:34.315146+09:00",
+  "label": "21:57",
   "items": [
     {
-      "keyword": "구속영장",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "삼성",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "경찰, 연예기획사 대표 차가원 구속영장…300억원 사기 혐의",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260615085700004"
-      }
-    },
-    {
-      "keyword": "아이유",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "아이유, 의리 지켰다…경호원 결혼식서 '블루밍' 축가 열창 [핫피플]",
+        "title": "\"대기업이 국산칩 써줘야\"…삼성·Arm 뭉친 AI반도체 연합군",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260615091336773"
+        "url": "https://v.daum.net/v/20260615181500210"
       }
     },
     {
-      "keyword": "사전 투표",
+      "keyword": "한동희",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "개혁신당, 서울시장 포함 선거 18건에 '선별적 재선거' 소청",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260615086500001"
-      }
-    },
-    {
-      "keyword": "한윤 서",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "41세 한윤서, 예비신랑과 몸싸움 후 고향집行…엄마 밥상 앞 오열 ('조선의 사랑꾼')",
+        "title": "롯데 유강남 진짜 어떡하나, FA 계약 끝나는데 '2일' 만에 1군 말소…야구 없는 월요일 6인 2군행",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260615081701805"
+        "url": "https://v.daum.net/v/20260615181231152"
       }
     },
     {
-      "keyword": "통영시",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "이찬원",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "낙선 통영시장 임기 말 351억 민생지원금 시의회 보이콧에 제동",
+        "title": "'톡파원 25시' 이찬원 \"진짜 대박\"…일본 유후인 '프라이빗 온천'의 정체는?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614213112644"
+        "url": "https://v.daum.net/v/20260615095355958"
       }
     },
     {
-      "keyword": "이주",
+      "keyword": "창원시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신분 없는 27년, “매순간 무서웠다”…미등록 이주민의 ‘희망 꺾인 삶’",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1263522.html"
+        "title": "창원시장 당선인 “마산해양신도시 새 그림 그릴 것”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260615211942101"
       }
     },
     {
-      "keyword": "영일대 해수욕장",
+      "keyword": "교도소",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "포항 영일대 밤바다 뒤흔든 메탈락…대상은 ‘커서’",
-        "source": "경북일보",
-        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075379"
+        "title": "교도소에서도 시끄러운 장대호…교도소장이 우편 개봉했다고 소송 냈다가 패소",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260615.99099004064"
       }
     },
     {
-      "keyword": "허경민",
+      "keyword": "부산터널",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[굿모닝위즈·64] 주연 허경민, 조연 오윤석·권동진",
-        "source": "경인일보",
-        "url": "https://www.kyeongin.com/article/1765529"
+        "title": "부산터널 상행선 전면 교통 통제, 22일~8월28일까지",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260615_0003668629"
       }
     },
     {
-      "keyword": "맥그리거",
+      "keyword": "서울우유",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"흰우유 안 마신다\"…서울우유, 매출 2조 지키고도 웃지 못하는 이유",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260615144432508"
+      }
+    },
+    {
+      "keyword": "가상화폐",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "업비트 거래소에서 금일 가장 주목 받는 가상화폐는…",
+        "source": "경향게임스",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305381"
+      }
+    },
+    {
+      "keyword": "케이씨텍",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "야구계 화타가 어쩌다…오타니·안우진 수술한 명의, 맥그리거 약물 처방 논란에 \"완전히 깨끗하다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613163832423"
+        "title": "케이씨텍, SK하이닉스 초임계 세정 장비 뚫었다",
+        "source": "디일렉",
+        "url": "https://www.thelec.kr/news/articleView.html?idxno=58108"
       }
     },
     {
-      "keyword": "엘지트윈스",
+      "keyword": "자갈치시장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“리오스 빼고 모두 등판 가능하다” 왜 '2이닝 30구' 41세 베테랑, '5아웃 세이브' 마무리 2연투 문제없다 했을까",
+        "title": "“취객이 빠졌다”…망설임 없이 뛰어든 자갈치 아저씨 [아살세]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614171204635"
+        "url": "https://v.daum.net/v/20260615145701198"
       }
     }
   ]
