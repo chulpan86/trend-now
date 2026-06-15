@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14T17:17:57.574251+09:00",
-    "label": "17:17",
-    "items": [
-      {
-        "keyword": "tsmc",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "Do China’s export curbs on tungsten threaten Japan’s AI chip supply chain?",
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/economy/global-economy/article/3356921/do-chinas-export-curbs-tungsten-threaten-japans-ai-chip-supply-chain"
-        }
-      },
-      {
-        "keyword": "하정우",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"골목골목 배운다\" 수첩 들고 다시 구포시장으로…하정우 깜짝 근황 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/06/14/2026061413455619850"
-        }
-      },
-      {
-        "keyword": "재건축",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "삼성물산, 6천500억원 규모 방배신삼호 재건축 시공사 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260614094856637"
-        }
-      },
-      {
-        "keyword": "예금",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "은행 예금금리 다시 3%대로…머니무브에도 정기예금은 증가세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260614113900753"
-        }
-      },
-      {
-        "keyword": "변우혁",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“(김)도영이한테 부담이 덜 되겠죠” 변우혁은 한 방으로 말해야 한다…외인타자 없는 KIA가 사는법",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260613220147965"
-        }
-      },
-      {
-        "keyword": "우박",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "휴일 오후 덮친 호우주의보... 서울·경기 밤까지 강한 소나기",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/06/14/UA42PT3ONBEHFCK2CSUSPQR2BE/"
-        }
-      },
-      {
-        "keyword": "t1 젠지",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "젠지, KT 꺾고 로드 투 MSI 최종전 진출…T1과 맞대결",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WVHMhOOcSu"
-        }
-      },
-      {
-        "keyword": "대전 날씨",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대전·세종·충남 맑다가 밤부터 구름…낮 최고 27∼32도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260613011300063"
-        }
-      },
-      {
-        "keyword": "신생아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "신혼부부 아니어도 신생아 특공 가능해진다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/real_estate/2026/06/14/SGE4WNOJVVBGDECUDN5W6GH6QQ/"
-        }
-      },
-      {
-        "keyword": "아스널 fc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'오현규, 조만간 볼 수 있겠다' 새 감독 영입한 베식타시, 아스널 '잉여전력' 윙어 트로사르 영입 접촉 中..'이적료 2000만유로 준비했다'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/06/13/MMYDOYRTMFQWCNLEG5TDKMBRGQ/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-14T20:22:59.772820+09:00",
     "label": "20:22",
     "items": [
@@ -1267,6 +1161,112 @@
           "title": "맨체스터 유나이티드 역대 최악의 감독 반 년 만에 새 직장 찾았다…'챔스 진출 실패' AC 밀란 감독 후보로 부상",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260614203521092?f=p"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-16T05:45:30.774849+09:00",
+    "label": "05:45",
+    "items": [
+      {
+        "keyword": "해협",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "트럼프 \"호르무즈 통행료없어…제재 완화, 이란 행동에 달려\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616035049790"
+        }
+      },
+      {
+        "keyword": "재선거",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국민의힘, 긴급 최고위서 \"서울 등 6곳 재선거 소청\" 의결... 당내 반발 불 보듯",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026061518100004417"
+        }
+      },
+      {
+        "keyword": "벨기에 대 이집트",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘패스 예술가’ 더브라위너냐…‘골의 제왕’ 살라흐냐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614202701929"
+        }
+      },
+      {
+        "keyword": "키",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "경찰 \"인천서 발견된 신체 일부 키 160cm 이상 성인 추정\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6830349_36918.html"
+        }
+      },
+      {
+        "keyword": "tây ban nha",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Video bóng đá Tây Ban Nha - Cape Verde: \"Địa chấn\" đầu tiên (World Cup)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/world-cup-2026/video-bong-da-tay-ban-nha-cape-verde-nguoi-nhen-xuat-than-world-cup-c860a1770441.html"
+        }
+      },
+      {
+        "keyword": "이엘리야",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'36세' 이엘리야, 어딘가 변한 얼굴…살이 쏙 빠진 '뼈말라' 근황",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614112249492"
+        }
+      },
+      {
+        "keyword": "도쿠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "아내의 출산으로 인해 제레미 도쿠는 전용기를 타고 벨기에 국가대표팀을 떠나 영국으로 돌아갔다는 소문이 사실인가요?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/vo-sinh-con-jeremy-doku-len-chuyen-co-roi-dt-bi-de-ve-anh"
+        }
+      },
+      {
+        "keyword": "고우림",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고우림 \"아내 김연아, 감기도 안 걸려…신체 기능 평범 그 이상\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260615_0003670118"
+        }
+      },
+      {
+        "keyword": "페란 토레스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "PSG 러브콜? 얼음장처럼 차가운 스페인 공격수 토레스, \"아무 것도 모르고, 관심도 없다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fZfUukkLv0"
+        }
+      },
+      {
+        "keyword": "스페인 국대",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[오피셜] 레알 마드리드 '최초 굴욕' 막았다…1055억에 스페인 국대 극적 영입→\"쿠쿠레야 6년 계약 공식발표\" 50경기 철인 풀백 초대형 이적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260615195324422"
         }
       }
     ]
