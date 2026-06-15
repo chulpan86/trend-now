@@ -1270,5 +1270,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-16T07:55:37.961981+09:00",
+    "label": "07:55",
+    "items": [
+      {
+        "keyword": "필라델피아 반도체 지수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'배정 물량 0주'‥스페이스X 상장 '코리아 패싱'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616065521700"
+        }
+      },
+      {
+        "keyword": "식이 섬유",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"검은콩보다 많다\"… 의외로 '식이섬유' 많은 음식 4가지",
+          "source": "하이닥",
+          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=63608"
+        }
+      },
+      {
+        "keyword": "록히드 마틴 f-35 라이트닝 ii",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "美 F-35 전투기 치명적 결함…4대 중 1대만 정상 임무 수행 가능",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606130802347458e250e8e188_1"
+        }
+      },
+      {
+        "keyword": "mu",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Micron Technology stock hits all-time high at 1089.95 USD",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/micron-technology-stock-hits-alltime-high-at-108995-usd-93CH-4742909"
+        }
+      },
+      {
+        "keyword": "뉴스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "최동민 동대문구청장 당선인 인수위 출범",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616072511244"
+        }
+      },
+      {
+        "keyword": "우루과이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[월드컵] 미국 비자 또 논란…우루과이 서류 문제로 입국 지연",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260615122537643"
+        }
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "VIX Crashes as Buy Signals Spread Across the Stock Market",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/vix-crashes-as-buy-signals-spread-across-the-stock-market-200682155"
+        }
+      },
+      {
+        "keyword": "치매",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "피 검사로 알츠하이머성 치매 ‘치료 황금기’ 찾는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616024603676"
+        }
+      },
+      {
+        "keyword": "오유진",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "qqq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Why is Invesco QQQ Trust surging today?",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-surging-today-93CH-4742351"
+        }
+      }
+    ]
   }
 ]

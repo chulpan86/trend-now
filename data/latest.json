@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-16T05:45:30.774849+09:00",
-  "label": "05:45",
+  "timestamp": "2026-06-16T07:55:37.961981+09:00",
+  "label": "07:55",
   "items": [
     {
-      "keyword": "해협",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "트럼프 \"호르무즈 통행료없어…제재 완화, 이란 행동에 달려\"(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260616035049790"
-      }
-    },
-    {
-      "keyword": "재선거",
+      "keyword": "필라델피아 반도체 지수",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "국민의힘, 긴급 최고위서 \"서울 등 6곳 재선거 소청\" 의결... 당내 반발 불 보듯",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026061518100004417"
-      }
-    },
-    {
-      "keyword": "벨기에 대 이집트",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘패스 예술가’ 더브라위너냐…‘골의 제왕’ 살라흐냐",
+        "title": "'배정 물량 0주'‥스페이스X 상장 '코리아 패싱'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614202701929"
+        "url": "https://v.daum.net/v/20260616065521700"
       }
     },
     {
-      "keyword": "키",
+      "keyword": "식이 섬유",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "경찰 \"인천서 발견된 신체 일부 키 160cm 이상 성인 추정\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6830349_36918.html"
+        "title": "\"검은콩보다 많다\"… 의외로 '식이섬유' 많은 음식 4가지",
+        "source": "하이닥",
+        "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=63608"
       }
     },
     {
-      "keyword": "tây ban nha",
+      "keyword": "록히드 마틴 f-35 라이트닝 ii",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "美 F-35 전투기 치명적 결함…4대 중 1대만 정상 임무 수행 가능",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606130802347458e250e8e188_1"
+      }
+    },
+    {
+      "keyword": "mu",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Micron Technology stock hits all-time high at 1089.95 USD",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/company-news/micron-technology-stock-hits-alltime-high-at-108995-usd-93CH-4742909"
+      }
+    },
+    {
+      "keyword": "뉴스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "최동민 동대문구청장 당선인 인수위 출범",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260616072511244"
+      }
+    },
+    {
+      "keyword": "우루과이",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Video bóng đá Tây Ban Nha - Cape Verde: \"Địa chấn\" đầu tiên (World Cup)",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/world-cup-2026/video-bong-da-tay-ban-nha-cape-verde-nguoi-nhen-xuat-than-world-cup-c860a1770441.html"
+        "title": "[월드컵] 미국 비자 또 논란…우루과이 서류 문제로 입국 지연",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260615122537643"
       }
     },
     {
-      "keyword": "이엘리야",
+      "keyword": "vix",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'36세' 이엘리야, 어딘가 변한 얼굴…살이 쏙 빠진 '뼈말라' 근황",
+        "title": "VIX Crashes as Buy Signals Spread Across the Stock Market",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/analysis/vix-crashes-as-buy-signals-spread-across-the-stock-market-200682155"
+      }
+    },
+    {
+      "keyword": "치매",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "피 검사로 알츠하이머성 치매 ‘치료 황금기’ 찾는다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260614112249492"
+        "url": "https://v.daum.net/v/20260616024603676"
       }
     },
     {
-      "keyword": "도쿠",
+      "keyword": "오유진",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "아내의 출산으로 인해 제레미 도쿠는 전용기를 타고 벨기에 국가대표팀을 떠나 영국으로 돌아갔다는 소문이 사실인가요?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/vo-sinh-con-jeremy-doku-len-chuyen-co-roi-dt-bi-de-ve-anh"
-      }
+      "news": null
     },
     {
-      "keyword": "고우림",
+      "keyword": "qqq",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "고우림 \"아내 김연아, 감기도 안 걸려…신체 기능 평범 그 이상\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260615_0003670118"
-      }
-    },
-    {
-      "keyword": "페란 토레스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "PSG 러브콜? 얼음장처럼 차가운 스페인 공격수 토레스, \"아무 것도 모르고, 관심도 없다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fZfUukkLv0"
-      }
-    },
-    {
-      "keyword": "스페인 국대",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[오피셜] 레알 마드리드 '최초 굴욕' 막았다…1055억에 스페인 국대 극적 영입→\"쿠쿠레야 6년 계약 공식발표\" 50경기 철인 풀백 초대형 이적",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260615195324422"
+        "title": "Why is Invesco QQQ Trust surging today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-surging-today-93CH-4742351"
       }
     }
   ]
