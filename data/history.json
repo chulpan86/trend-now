@@ -940,5 +940,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-17T07:47:48.632265+09:00",
+    "label": "07:47",
+    "items": [
+      {
+        "keyword": "weather",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "TRNSMT 2026 - Line-up, weather and how to watch",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cy49vr1mdr3o"
+        }
+      },
+      {
+        "keyword": "필라델피아 반도체 지수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[뉴욕증시] 다우지수 사상최고 행진 속 기술주 약세…스페이스X 상승률, 17→5%",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617052521356"
+        }
+      },
+      {
+        "keyword": "나스닥 100",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "코어위브, 역대급 수주 잔고 달성 전망·나스닥 100 편입…주가 9% 급등",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01636726645482704"
+        }
+      },
+      {
+        "keyword": "신민아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신민아 \"1인 2역에 붕대 감고 시각장애 연기…'고생 중독자'죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260616102000005"
+        }
+      },
+      {
+        "keyword": "경기북부",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김동권 경기북부경찰청장, 수해 대비 취약지역 점검",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616152650595"
+        }
+      },
+      {
+        "keyword": "폴드 8",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"주름 잡는 삼성, 뜸 들이는 애플\"…폴더블 대전 엇갈린 셈법",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260616_0003671523"
+        }
+      },
+      {
+        "keyword": "mu",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4915106-micron-technology-buy-ahead-of-earnings-preview"
+        }
+      },
+      {
+        "keyword": "정상회담",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "李대통령 \"北문제 평화적 해결 주도\" 요청…트럼프 \"노력하겠다\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260616167952001"
+        }
+      },
+      {
+        "keyword": "piala dunia fifa 2026",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Prancis Kalahkan Senegal 3-1 dalam Laga Pembuka Grup I",
+          "source": "Kabarin.com",
+          "url": "https://www.kabarin.com/baca/72056/prancis-kalahkan-senegal-3-1-dalam-laga-pembuka-grup-i"
+        }
+      },
+      {
+        "keyword": "soxx",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Jefferies (JEF) sells autocallable notes linked to SOXX with quarterly $37.50 coupon",
+          "source": "Stock Titan",
+          "url": "https://www.stocktitan.net/sec-filings/JEF/424b2-jefferies-financial-group-inc-prospectus-supplement-169a29bd880f.html"
+        }
+      }
+    ]
   }
 ]
