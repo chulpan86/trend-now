@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-16T15:24:31.570209+09:00",
-  "label": "15:24",
+  "timestamp": "2026-06-16T21:04:02.955942+09:00",
+  "label": "21:04",
   "items": [
     {
-      "keyword": "보스턴 다이내믹스",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "연금",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[단독] 삼성전자, 보스턴다이내믹스 지분 인수 타진…“피지컬 AI는 핵심 축”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260616112104622"
+        "title": "내일부터 국민연금 감액 기준 완화‥월 519만 원으로 상향",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6830542_36918.html"
       }
     },
     {
-      "keyword": "화재",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "펍지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "인천 서구 기계제조공장 화재 8시간째 진화…“25개 공장 불에 타”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606160644001"
+        "title": "[개발일지] 블루존 개편",
+        "source": "PUBG: BATTLEGROUNDS",
+        "url": "https://pubg.com/ko/news/10280"
       }
     },
     {
-      "keyword": "tiger 미국 우주 테크 스페이스 x 편입",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "스페이스X 0주 배정 후폭풍…금감원, 미래에셋 무기한 검사",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260616144301573"
-      }
-    },
-    {
-      "keyword": "대한 광통신",
+      "keyword": "일본 지진",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "대한광통신, 美 하이퍼스케일 AI 데이터센터향 광케이블 2차 공급물량 확보",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2593967"
+        "title": "日 건물이 끼익끼익 울었다... 이바라키현 5.5 지진, 도쿄가 흔들",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/06/16/6VR46HXR65BRTNR7QYRECXHAXQ/"
       }
     },
     {
-      "keyword": "lig 디펜스&에어로스페이스",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "손태진",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[특징주] LIG디펜스, 독일 기업과 유럽 시장 공략 소식에 급등",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260616079600008"
-      }
-    },
-    {
-      "keyword": "부천아트센터",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "예술의전당, 7월부터 어린이·인문·미술 등 여름 교육 프로그램 운영",
-        "source": "싱글리스트",
-        "url": "https://www.slist.kr/news/articleView.html?idxno=745396"
-      }
-    },
-    {
-      "keyword": "sk이터닉스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[장중수급포착] SK이터닉스, 외국인/기관 동시 순매수… 주가 +20.78%",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260616000720"
-      }
-    },
-    {
-      "keyword": "엘지트윈스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "LG Twins vs KIA Tigers Best Bet, June 16: Ron Crawford Rides Wells on the Road",
-        "source": "Tony's Picks",
-        "url": "https://www.tonyspicks.com/2026/06/15/lg-twins-vs-kia-tigers-best-bet-ron-6-16-2026/"
-      }
-    },
-    {
-      "keyword": "삼성 갤럭시 z 폴드 6",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "vivo officially sets X Fold6 launch date and opens reservations - GSMArena.com news",
-        "source": "GSMArena.com",
-        "url": "https://www.gsmarena.com/vivo_officially_sets_x_fold6_launch_date_and_opens_reservations-news-73286.php"
-      }
-    },
-    {
-      "keyword": "성남시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "성남시, 수진1구역 재개발 관리처분계획 인가",
+        "title": "'짠한형' 손태진, 조민규 과거 폭로…\"얘는 비정상\" [RE:TV]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260616093848003"
+        "url": "https://v.daum.net/v/20260616053148093"
+      }
+    },
+    {
+      "keyword": "地震",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "青海海西发生6.3级地震 网民指接近翡翠湖景区：站都站不稳",
+        "source": "香港01",
+        "url": "https://global.hk01.com/%E5%8D%B3%E6%97%B6%E4%B8%AD%E5%9B%BD/60360947/%E9%9D%92%E6%B5%B7%E6%B5%B7%E8%A5%BF%E5%8F%91%E7%94%9F6-3%E7%BA%A7%E5%9C%B0%E9%9C%87-%E7%BD%91%E6%B0%91%E6%8C%87%E6%8E%A5%E8%BF%91%E7%BF%A1%E7%BF%A0%E6%B9%96%E6%99%AF%E5%8C%BA-%E7%AB%99%E9%83%BD%E7%AB%99%E4%B8%8D%E7%A8%B3"
+      }
+    },
+    {
+      "keyword": "소희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "양현준",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김태현·배준호도 돌아왔다 … 완전체로 멕시코 사냥",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260616175709289"
+      }
+    },
+    {
+      "keyword": "현대자동차그룹",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "현대차 전망 갈린 한투證-유안타…기준은 보스턴다이내믹스 미래가치",
+        "source": "인베스트조선",
+        "url": "https://www.investchosun.com/site/data/html_dir/2026/06/16/2026061680096.html"
+      }
+    },
+    {
+      "keyword": "국제선",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "국제선 유류할증료 27→19단계…대한항공 최대 10만7천500원↓",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260616050800003"
+      }
+    },
+    {
+      "keyword": "철도",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "한국 최고의 무형문화, 부산으로 모인다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260616145515091"
       }
     }
   ]
