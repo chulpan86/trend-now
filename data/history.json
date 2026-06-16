@@ -838,5 +838,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-17T02:55:05.923689+09:00",
+    "label": "02:55",
+    "items": [
+      {
+        "keyword": "인천재활용센터",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“무서워서 못 살겠다”… 송도 주민들, 경찰서 신설 촉구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616173736563"
+        }
+      },
+      {
+        "keyword": "알렉산더 즈베레프",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "ATP 500 할레 오픈: 레너 티엔이 대회에 참가하고, 알렉산더 즈베레프는 롤랑 가로스 이후 복귀전을 치른다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/atp-500-halle-open-learner-tien-ra-quan-alexander-zverev-tai-xuat-sau-roland-garros"
+        }
+      },
+      {
+        "keyword": "일베",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "화사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "화사가 '화사'했다…헝클어진 숏컷에 노란 튤립, 포인트는 찡그린 코",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qOMtPMMVE8"
+        }
+      },
+      {
+        "keyword": "문희준",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[다시보기] 동상이몽2_너는 내 운명 443회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/vod/52006/22000631644"
+        }
+      },
+      {
+        "keyword": "고준희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'귀한가족' 고준희 부모님, 결정사行…\"손석구 같은 사람 좋아해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616225058528"
+        }
+      },
+      {
+        "keyword": "프랑스 세네갈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "음바페-메시-홀란, 축구계 빅3 내일 동시 출격",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8587967"
+        }
+      },
+      {
+        "keyword": "google usa",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Google Earth's Flight Simulator Is Now on Browsers: Here's How to Play",
+          "source": "CNET",
+          "url": "https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/"
+        }
+      },
+      {
+        "keyword": "타블로",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "타블로 \"16살 딸 하루, 사춘기 정말 약한 수준..나는 복 받았다\" [순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616163648046"
+        }
+      },
+      {
+        "keyword": "xrp",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "XRP Climbs 10% In a Green Day",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4742610"
+        }
+      }
+    ]
   }
 ]
