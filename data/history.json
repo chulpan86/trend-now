@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16T05:45:30.774849+09:00",
-    "label": "05:45",
-    "items": [
-      {
-        "keyword": "해협",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "트럼프 \"호르무즈 통행료없어…제재 완화, 이란 행동에 달려\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616035049790"
-        }
-      },
-      {
-        "keyword": "재선거",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "국민의힘, 긴급 최고위서 \"서울 등 6곳 재선거 소청\" 의결... 당내 반발 불 보듯",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026061518100004417"
-        }
-      },
-      {
-        "keyword": "벨기에 대 이집트",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘패스 예술가’ 더브라위너냐…‘골의 제왕’ 살라흐냐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260614202701929"
-        }
-      },
-      {
-        "keyword": "키",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "경찰 \"인천서 발견된 신체 일부 키 160cm 이상 성인 추정\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6830349_36918.html"
-        }
-      },
-      {
-        "keyword": "tây ban nha",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Video bóng đá Tây Ban Nha - Cape Verde: \"Địa chấn\" đầu tiên (World Cup)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/world-cup-2026/video-bong-da-tay-ban-nha-cape-verde-nguoi-nhen-xuat-than-world-cup-c860a1770441.html"
-        }
-      },
-      {
-        "keyword": "이엘리야",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'36세' 이엘리야, 어딘가 변한 얼굴…살이 쏙 빠진 '뼈말라' 근황",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260614112249492"
-        }
-      },
-      {
-        "keyword": "도쿠",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "아내의 출산으로 인해 제레미 도쿠는 전용기를 타고 벨기에 국가대표팀을 떠나 영국으로 돌아갔다는 소문이 사실인가요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/vo-sinh-con-jeremy-doku-len-chuyen-co-roi-dt-bi-de-ve-anh"
-        }
-      },
-      {
-        "keyword": "고우림",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "고우림 \"아내 김연아, 감기도 안 걸려…신체 기능 평범 그 이상\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260615_0003670118"
-        }
-      },
-      {
-        "keyword": "페란 토레스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "PSG 러브콜? 얼음장처럼 차가운 스페인 공격수 토레스, \"아무 것도 모르고, 관심도 없다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fZfUukkLv0"
-        }
-      },
-      {
-        "keyword": "스페인 국대",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[오피셜] 레알 마드리드 '최초 굴욕' 막았다…1055억에 스페인 국대 극적 영입→\"쿠쿠레야 6년 계약 공식발표\" 50경기 철인 풀백 초대형 이적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615195324422"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-16T07:55:37.961981+09:00",
-    "label": "07:55",
-    "items": [
-      {
-        "keyword": "필라델피아 반도체 지수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'배정 물량 0주'‥스페이스X 상장 '코리아 패싱'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616065521700"
-        }
-      },
-      {
-        "keyword": "식이 섬유",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"검은콩보다 많다\"… 의외로 '식이섬유' 많은 음식 4가지",
-          "source": "하이닥",
-          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=63608"
-        }
-      },
-      {
-        "keyword": "록히드 마틴 f-35 라이트닝 ii",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "美 F-35 전투기 치명적 결함…4대 중 1대만 정상 임무 수행 가능",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606130802347458e250e8e188_1"
-        }
-      },
-      {
-        "keyword": "mu",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Micron Technology stock hits all-time high at 1089.95 USD",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/micron-technology-stock-hits-alltime-high-at-108995-usd-93CH-4742909"
-        }
-      },
-      {
-        "keyword": "뉴스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "최동민 동대문구청장 당선인 인수위 출범",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616072511244"
-        }
-      },
-      {
-        "keyword": "우루과이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[월드컵] 미국 비자 또 논란…우루과이 서류 문제로 입국 지연",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615122537643"
-        }
-      },
-      {
-        "keyword": "vix",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "VIX Crashes as Buy Signals Spread Across the Stock Market",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/vix-crashes-as-buy-signals-spread-across-the-stock-market-200682155"
-        }
-      },
-      {
-        "keyword": "치매",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "피 검사로 알츠하이머성 치매 ‘치료 황금기’ 찾는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616024603676"
-        }
-      },
-      {
-        "keyword": "오유진",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "qqq",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Why is Invesco QQQ Trust surging today?",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-surging-today-93CH-4742351"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-16T09:24:07.173437+09:00",
     "label": "09:24",
     "items": [
@@ -1031,6 +823,112 @@
           "title": "\"올랐는데 안 판다\"… 시바이누 고래들, 500억 개 지갑 이동시키며 '존버' 택한 이유",
           "source": "글로벌이코노믹",
           "url": "https://www.g-enews.com/article/Securities/2026/06/202606170550105796e7e8286d56_1"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-17T20:27:26.906984+09:00",
+    "label": "20:27",
+    "items": [
+      {
+        "keyword": "코스닥",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "코스피, 사상 최고치 마감…’9천피’ 재시동",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260617160408pOV"
+        }
+      },
+      {
+        "keyword": "동해",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "해군 1함대-동해해경청 소화·방수 훈련…군경 합동 대응 강화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260617139600062"
+        }
+      },
+      {
+        "keyword": "등반",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "설악산 울산바위에서 50대 남녀 추락…암벽 매달린 여성 '맨손 구조' - 뉴스파이터",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616194751205"
+        }
+      },
+      {
+        "keyword": "미스트롯 포유",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“대형 가수 될 듯”…김용빈 극찬 터진 신동 정체는? (미스트롯 포유)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617094547809"
+        }
+      },
+      {
+        "keyword": "우크라이나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "G7 정상회의 공식환영식 및 기념촬영 - 포토 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyPhotoView.do?bbsKey=72110"
+        }
+      },
+      {
+        "keyword": "인도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[인도증시] 유가 하락세 지속에 상승...사상 최대 방산 수출에 방산 부문 ↑",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260617001079"
+        }
+      },
+      {
+        "keyword": "장현식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "손주영, 리오스, 그리고 장현식…과감한 2026 LG의 세번째 승부수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617112101998?f=p"
+        }
+      },
+      {
+        "keyword": "강문경",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "강문경 \"투룸 포기하고 노래에 10년 투자\"…서주경 덕에 트로트 꽃길 열렸다 (뽕스튜디오)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8mDU3HHlHF?f=p"
+        }
+      },
+      {
+        "keyword": "로켓",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "中 로켓, 우주서 산산조각…ISS·스타링크 지나는 궤도에 파편 확산",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675391"
+        }
+      },
+      {
+        "keyword": "메르세데스-벤츠 s 클래스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "1억5000만원 넘는 차가 왜 이렇게 팔리나…S클래스·7시리즈의 고급차 전쟁",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617104302816"
         }
       }
     ]
