@@ -1046,5 +1046,103 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-17T09:09:10.513814+09:00",
+    "label": "09:09",
+    "items": [
+      {
+        "keyword": "김민하",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "항공사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "7월 발권 유류할증료 20% 내린다…뉴욕 왕복 21만5천원 ↓(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260616050851003"
+        }
+      },
+      {
+        "keyword": "수해",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "iraq vs norway",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Iraq 1-3 Norway: Erling Haaland scores twice on World Cup debut",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cr5j6rn5ng2t"
+        }
+      },
+      {
+        "keyword": "영화",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "흥행 복병 '백룸' 100만 돌파…외화 호러 7년만",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617075601802"
+        }
+      },
+      {
+        "keyword": "sk스퀘어",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼전보다 삼성생명, 하닉 대신 SK스퀘어…수혜주로 번지는 반도체 랠리",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617083448925"
+        }
+      },
+      {
+        "keyword": "강남구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "강남구 공무원, AI로 옥외광고 행정시스템 개발…민원 검토 15분→1분",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10773158"
+        }
+      },
+      {
+        "keyword": "구교환",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "구교환♥이옥섭 감독, 영화 '군체' GV 동반 참석…마침내 한 무대",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202606161107576389"
+        }
+      },
+      {
+        "keyword": "토마호크",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'고비용 첨단'이면 뭐하나‥미국도 '가성비 저가형 무기' 고민",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616204610557"
+        }
+      },
+      {
+        "keyword": "화신",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[서울데이터랩]코스닥 거래상위 종목 희비…화신정공 상한가·HPSP 22% 급등",
+          "source": "twig24.com",
+          "url": "https://www.twig24.com/news/entertainments/2026/06/09/20260609500113"
+        }
+      }
+    ]
   }
 ]

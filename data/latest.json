@@ -1,105 +1,97 @@
 {
-  "timestamp": "2026-06-17T07:47:48.632265+09:00",
-  "label": "07:47",
+  "timestamp": "2026-06-17T09:09:10.513814+09:00",
+  "label": "09:09",
   "items": [
     {
-      "keyword": "weather",
+      "keyword": "김민하",
       "traffic_raw": "2000+",
       "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "항공사",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "TRNSMT 2026 - Line-up, weather and how to watch",
+        "title": "7월 발권 유류할증료 20% 내린다…뉴욕 왕복 21만5천원 ↓(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260616050851003"
+      }
+    },
+    {
+      "keyword": "수해",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "iraq vs norway",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Iraq 1-3 Norway: Erling Haaland scores twice on World Cup debut",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cy49vr1mdr3o"
+        "url": "https://www.bbc.com/sport/football/live/cr5j6rn5ng2t"
       }
     },
     {
-      "keyword": "필라델피아 반도체 지수",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "영화",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[뉴욕증시] 다우지수 사상최고 행진 속 기술주 약세…스페이스X 상승률, 17→5%",
+        "title": "흥행 복병 '백룸' 100만 돌파…외화 호러 7년만",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260617052521356"
+        "url": "https://v.daum.net/v/20260617075601802"
       }
     },
     {
-      "keyword": "나스닥 100",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "코어위브, 역대급 수주 잔고 달성 전망·나스닥 100 편입…주가 9% 급등",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01636726645482704"
-      }
-    },
-    {
-      "keyword": "신민아",
+      "keyword": "sk스퀘어",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신민아 \"1인 2역에 붕대 감고 시각장애 연기…'고생 중독자'죠\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260616102000005"
-      }
-    },
-    {
-      "keyword": "경기북부",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김동권 경기북부경찰청장, 수해 대비 취약지역 점검",
+        "title": "삼전보다 삼성생명, 하닉 대신 SK스퀘어…수혜주로 번지는 반도체 랠리",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260616152650595"
+        "url": "https://v.daum.net/v/20260617083448925"
       }
     },
     {
-      "keyword": "폴드 8",
+      "keyword": "강남구",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"주름 잡는 삼성, 뜸 들이는 애플\"…폴더블 대전 엇갈린 셈법",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260616_0003671523"
+        "title": "강남구 공무원, AI로 옥외광고 행정시스템 개발…민원 검토 15분→1분",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10773158"
       }
     },
     {
-      "keyword": "mu",
+      "keyword": "구교환",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU)",
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4915106-micron-technology-buy-ahead-of-earnings-preview"
+        "title": "구교환♥이옥섭 감독, 영화 '군체' GV 동반 참석…마침내 한 무대",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202606161107576389"
       }
     },
     {
-      "keyword": "정상회담",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "토마호크",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "李대통령 \"北문제 평화적 해결 주도\" 요청…트럼프 \"노력하겠다\"(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260616167952001"
+        "title": "'고비용 첨단'이면 뭐하나‥미국도 '가성비 저가형 무기' 고민",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260616204610557"
       }
     },
     {
-      "keyword": "piala dunia fifa 2026",
+      "keyword": "화신",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Prancis Kalahkan Senegal 3-1 dalam Laga Pembuka Grup I",
-        "source": "Kabarin.com",
-        "url": "https://www.kabarin.com/baca/72056/prancis-kalahkan-senegal-3-1-dalam-laga-pembuka-grup-i"
-      }
-    },
-    {
-      "keyword": "soxx",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Jefferies (JEF) sells autocallable notes linked to SOXX with quarterly $37.50 coupon",
-        "source": "Stock Titan",
-        "url": "https://www.stocktitan.net/sec-filings/JEF/424b2-jefferies-financial-group-inc-prospectus-supplement-169a29bd880f.html"
+        "title": "[서울데이터랩]코스닥 거래상위 종목 희비…화신정공 상한가·HPSP 22% 급등",
+        "source": "twig24.com",
+        "url": "https://www.twig24.com/news/entertainments/2026/06/09/20260609500113"
       }
     }
   ]
