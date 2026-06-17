@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16T15:24:31.570209+09:00",
-    "label": "15:24",
-    "items": [
-      {
-        "keyword": "보스턴 다이내믹스",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[단독] 삼성전자, 보스턴다이내믹스 지분 인수 타진…“피지컬 AI는 핵심 축”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616112104622"
-        }
-      },
-      {
-        "keyword": "화재",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "인천 서구 기계제조공장 화재 8시간째 진화…“25개 공장 불에 타”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606160644001"
-        }
-      },
-      {
-        "keyword": "tiger 미국 우주 테크 스페이스 x 편입",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "스페이스X 0주 배정 후폭풍…금감원, 미래에셋 무기한 검사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616144301573"
-        }
-      },
-      {
-        "keyword": "대한 광통신",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대한광통신, 美 하이퍼스케일 AI 데이터센터향 광케이블 2차 공급물량 확보",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2593967"
-        }
-      },
-      {
-        "keyword": "lig 디펜스&에어로스페이스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[특징주] LIG디펜스, 독일 기업과 유럽 시장 공략 소식에 급등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260616079600008"
-        }
-      },
-      {
-        "keyword": "부천아트센터",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "예술의전당, 7월부터 어린이·인문·미술 등 여름 교육 프로그램 운영",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=745396"
-        }
-      },
-      {
-        "keyword": "sk이터닉스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[장중수급포착] SK이터닉스, 외국인/기관 동시 순매수… 주가 +20.78%",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260616000720"
-        }
-      },
-      {
-        "keyword": "엘지트윈스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "LG Twins vs KIA Tigers Best Bet, June 16: Ron Crawford Rides Wells on the Road",
-          "source": "Tony's Picks",
-          "url": "https://www.tonyspicks.com/2026/06/15/lg-twins-vs-kia-tigers-best-bet-ron-6-16-2026/"
-        }
-      },
-      {
-        "keyword": "삼성 갤럭시 z 폴드 6",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "vivo officially sets X Fold6 launch date and opens reservations - GSMArena.com news",
-          "source": "GSMArena.com",
-          "url": "https://www.gsmarena.com/vivo_officially_sets_x_fold6_launch_date_and_opens_reservations-news-73286.php"
-        }
-      },
-      {
-        "keyword": "성남시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "성남시, 수진1구역 재개발 관리처분계획 인가",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616093848003"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-16T21:04:02.955942+09:00",
     "label": "21:04",
     "items": [
@@ -1035,6 +929,108 @@
           "title": "호날두 속한 포르투갈 감독, 북중미 대회 끝나면 팀 떠난다[월드컵24시]",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260617_0003672436"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-18T04:59:31.048590+09:00",
+    "label": "04:59",
+    "items": [
+      {
+        "keyword": "축구중계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "trực tiếp bóng đá hôm nay",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Cuộc gọi định mệnh loại Maguire khỏi World Cup",
+          "source": "Znews",
+          "url": "https://znews.vn/cuoc-goi-dinh-menh-loai-maguire-khoi-world-cup-post1660362.html"
+        }
+      },
+      {
+        "keyword": "베르나르두 실바",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'9년 460경기' 맨시티 레전드 실바, 무리뉴 품으로! '하이재킹' 레알 마드리드와 2년 계약...생애 첫 스페인 무대 누빈다 [공식발표]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fiY2G33GSi"
+        }
+      },
+      {
+        "keyword": "로베르토 마르티네스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "호날두 속한 포르투갈 감독, 북중미 대회 끝나면 팀 떠난다[월드컵24시]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260617_0003672436"
+        }
+      },
+      {
+        "keyword": "조타",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[MD과달라하라] '우리는 조타와 함께 우승에 도전합니다'...포르투갈 대표팀, 故 조타 이름 새긴 팔찌 차고 월드컵 출전 \"그의 정신을 안고 뛴다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617060449966"
+        }
+      },
+      {
+        "keyword": "lịch world cup 2026",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Các đội tuyển châu Á gây ấn tượng mạnh tại World Cup 2026 với 2 chiến thắng và 2 trận hòa trước các đối thủ châu Âu",
+          "source": "아시아투데이",
+          "url": "https://vn.asiatoday.co.kr/view.php?key=20260615001043562"
+        }
+      },
+      {
+        "keyword": "페페",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "World Cup 2026 schedule, scores, live updates: Cristiano Ronaldo begins sixth World Cup as Portugal opens play vs. Congo",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-135432982.html"
+        }
+      },
+      {
+        "keyword": "世界杯",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "花絮：美加墨世界杯日本队训练基地向媒体开放",
+          "source": "共同网",
+          "url": "https://china.kyodonews.net/articles/-/11806"
+        }
+      },
+      {
+        "keyword": "世界杯直播",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "去电影院和酒店看世界杯直播，成今夏消费新趋势",
+          "source": "第一财经",
+          "url": "https://www.yicai.com/news/103235051.html"
+        }
+      },
+      {
+        "keyword": "대원전선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[적중! 대박 예감] '대원전선, 씨에스윈드' 내일장 예감 좋은 대박 종목은? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/06/17/2026061700237027984"
         }
       }
     ]
