@@ -932,5 +932,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-18T02:45:02.132266+09:00",
+    "label": "02:45",
+    "items": [
+      {
+        "keyword": "포르투갈 대 콩고 민주 공화국",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "‘시대의 축구 아이콘’ 메시·호날두 ‘라스트 댄스’ 막이 오른다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616150202469"
+        }
+      },
+      {
+        "keyword": "메이플",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'림월드' 개발자 \"불편함도 게임이 주는 의미 있는 감정\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617144652244"
+        }
+      },
+      {
+        "keyword": "portugal vs dr congo",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "World Cup 2026 schedule, scores, live updates: Cristiano Ronaldo begins sixth World Cup as Portugal opens play vs. Congo",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-135432982.html"
+        }
+      },
+      {
+        "keyword": "레드카드",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[그래픽] 2026 북중미 월드컵 A조 멕시코-한국 전력",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20260617000200044"
+        }
+      },
+      {
+        "keyword": "콩고",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "보건 전문가들 \"역대 최악 에볼라 우려…종식까지 1년 걸릴수도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260618022706205"
+        }
+      },
+      {
+        "keyword": "감염",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이천소방서, 상반기 감염관리위원회 개최…구급대원 안전 강화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617155416506"
+        }
+      },
+      {
+        "keyword": "bồ đào nha",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Ronaldo gửi thông điệp đoàn kết trước trận ra quân World Cup",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/ronaldo-gui-thong-diep-doan-ket-truoc-tran-ra-quan-world-cup-5086581.html"
+        }
+      },
+      {
+        "keyword": "공장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "포스코, 우주산업 핵심 희귀가스 국산화…반도체 넘어 우주로 간다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617140021669"
+        }
+      },
+      {
+        "keyword": "군대",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "뛰는 손흥민 향한 ‘병역 특례 조롱’ 막말 영상 파장···한국대표팀 ‘미디어 보이콧’ 외신에 보도까지",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606171037011"
+        }
+      },
+      {
+        "keyword": "포르투갈 축구 국가대표팀",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "호날두 속한 포르투갈 감독, 북중미 대회 끝나면 팀 떠난다[월드컵24시]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260617_0003672436"
+        }
+      }
+    ]
   }
 ]
