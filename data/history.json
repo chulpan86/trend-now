@@ -1034,5 +1034,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-18T07:01:51.879747+09:00",
+    "label": "07:01",
+    "items": [
+      {
+        "keyword": "젠슨 황",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "짜장면 '먹방' 젠승황 따라한 샤오미 회장? 이번엔 열간면",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617175100882"
+        }
+      },
+      {
+        "keyword": "야구",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[오피셜] 'LG→삼성→두산→KIA→롯데→SSG→한화→KT→NC→키움' KBO 리그 인기 폭발 '새 역사 썼다'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260618053652413"
+        }
+      },
+      {
+        "keyword": "올리세",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[월드컵] 역사를 쓴 음바페 \"조국 위해 기뻐…아직 갈 길 멀다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260617042400007"
+        }
+      },
+      {
+        "keyword": "루이스 아라에즈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이런 바보 같은 계약을 봤나, 이정후가 잘해도 문제라니…내년 끝나고 FA 가능, SF 트레이드도 애매하다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VpMPsZZvW0"
+        }
+      },
+      {
+        "keyword": "2026 fifa 월드컵 일정",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "북중미 월드컵 축구 중계 어디서?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616000239612"
+        }
+      },
+      {
+        "keyword": "아이온큐",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "최대단점 '오류' 줄인 98큐비트 양자컴퓨터 나온다 [지금은 과학]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Z74NdNNdvZ"
+        }
+      },
+      {
+        "keyword": "기안84",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 기안84·장도연, AI 결합 예능 출연 확정…새로운 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617094833935?f=p"
+        }
+      },
+      {
+        "keyword": "미래에셋",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "미래에셋증권, 3천억원 규모 자사주 취득…역대 최대 규모",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260617156500008"
+        }
+      },
+      {
+        "keyword": "lpga",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Kiara Romero can lock up LPGA card this week at Meijer LPGA Classic",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/kiara-romero-lock-lpga-card-183048798.html"
+        }
+      },
+      {
+        "keyword": "프로야구 순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "◇오늘의 경기(17일)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260616023500007"
+        }
+      }
+    ]
   }
 ]
