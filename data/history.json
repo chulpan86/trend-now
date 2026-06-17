@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15T21:57:34.315146+09:00",
-    "label": "21:57",
-    "items": [
-      {
-        "keyword": "삼성",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "\"대기업이 국산칩 써줘야\"…삼성·Arm 뭉친 AI반도체 연합군",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615181500210"
-        }
-      },
-      {
-        "keyword": "한동희",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "롯데 유강남 진짜 어떡하나, FA 계약 끝나는데 '2일' 만에 1군 말소…야구 없는 월요일 6인 2군행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615181231152"
-        }
-      },
-      {
-        "keyword": "이찬원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'톡파원 25시' 이찬원 \"진짜 대박\"…일본 유후인 '프라이빗 온천'의 정체는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615095355958"
-        }
-      },
-      {
-        "keyword": "창원시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "창원시장 당선인 “마산해양신도시 새 그림 그릴 것”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615211942101"
-        }
-      },
-      {
-        "keyword": "교도소",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "교도소에서도 시끄러운 장대호…교도소장이 우편 개봉했다고 소송 냈다가 패소",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260615.99099004064"
-        }
-      },
-      {
-        "keyword": "부산터널",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "부산터널 상행선 전면 교통 통제, 22일~8월28일까지",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260615_0003668629"
-        }
-      },
-      {
-        "keyword": "서울우유",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"흰우유 안 마신다\"…서울우유, 매출 2조 지키고도 웃지 못하는 이유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615144432508"
-        }
-      },
-      {
-        "keyword": "가상화폐",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "업비트 거래소에서 금일 가장 주목 받는 가상화폐는…",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305381"
-        }
-      },
-      {
-        "keyword": "케이씨텍",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "케이씨텍, SK하이닉스 초임계 세정 장비 뚫었다",
-          "source": "디일렉",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=58108"
-        }
-      },
-      {
-        "keyword": "자갈치시장",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“취객이 빠졌다”…망설임 없이 뛰어든 자갈치 아저씨 [아살세]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615145701198"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-16T02:58:18.784217+09:00",
-    "label": "02:58",
-    "items": [
-      {
-        "keyword": "조현아",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "조현아, 성시경과 '핑크빛' 터졌다…\"인터뷰서 이상형 고백해\" ('더 시즌즈')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615114557382"
-        }
-      },
-      {
-        "keyword": "울산바위",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "강원 산악사고 잇따라…1명 숨지고 4명 구조 작업",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8585793"
-        }
-      },
-      {
-        "keyword": "삼성 갤럭시s26",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "갤럭시S26 125만원→50만원 ‘뚝’…뜻밖의 기회에 비수기 버티는 이통사들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615193301948"
-        }
-      },
-      {
-        "keyword": "spain vs cabo verde",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Spain vs Cape Verde LIVE: FIFA World Cup Group H score, commentary, updates & stats",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cr7xnk3eygxt"
-        }
-      },
-      {
-        "keyword": "건설업",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[진단 : 美-이란 MOU 맺어도 연내 중동전쟁 이전 유가 회복 요원]",
-          "source": "에너지플랫폼뉴스",
-          "url": "http://www.e-platform.net/news/articleView.html?idxno=102981"
-        }
-      },
-      {
-        "keyword": "리플",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "리플(XRP), 지금 큰 그림이 바뀌고 있습니다 — 중동 평화·ETF·두바이가 함께 그리는 2026년의 판도",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/joosikstudy/coinschool/contents/260615154502653kp"
-        }
-      },
-      {
-        "keyword": "장교",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘방첩사 전신’ 기무사 퇴출 군인 62%, 3년 내 전역…이번엔?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260615215338464"
-        }
-      },
-      {
-        "keyword": "서유석",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'가요무대' 15일 송가인·김다현 등 출연진 라인업 공개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3609066"
-        }
-      },
-      {
-        "keyword": "초등교사",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "지인들 속여 빌린 3000만원 해외주식 등에 탕진한 초등교사···징역 6개월",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606151723001"
-        }
-      },
-      {
-        "keyword": "아모림",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "맨체스터 유나이티드 역대 최악의 감독 반 년 만에 새 직장 찾았다…'챔스 진출 실패' AC 밀란 감독 후보로 부상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260614203521092?f=p"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-16T05:45:30.774849+09:00",
     "label": "05:45",
     "items": [
@@ -1141,6 +929,108 @@
           "title": "[서울데이터랩]코스닥 거래상위 종목 희비…화신정공 상한가·HPSP 22% 급등",
           "source": "twig24.com",
           "url": "https://www.twig24.com/news/entertainments/2026/06/09/20260609500113"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-17T15:00:44.941549+09:00",
+    "label": "15:00",
+    "items": [
+      {
+        "keyword": "곽튜브",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"이 사람이 범인\" 지목당한 곽튜브…알고 보니 코인 CEO의 사진 도용",
+          "source": "조선일보",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=52626"
+        }
+      },
+      {
+        "keyword": "이진숙",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "오타니 쇼헤이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "결승 홈런 치는 오타니, 시즌 15호",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260617_0002163259&pID=1&cID=&sID=1&type=Main&idx=3"
+        }
+      },
+      {
+        "keyword": "헌법소원심판",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "대검 감찰부장 “공소청법 시행 땐 나만 임기 중 해임”…헌법소원 청구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617131904263"
+        }
+      },
+      {
+        "keyword": "이부진",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘불닭 신화’ 김정수, K-브랜드지수 女CEO 1위…어떻게 가능했나?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11596021"
+        }
+      },
+      {
+        "keyword": "러시아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "우크라, G7회의 앞두고 '대화' 공세…'푸틴 고립' 노림수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616172749219"
+        }
+      },
+      {
+        "keyword": "austria vs jordan",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "FIFA World Cup Group J LIVE: Austria vs Jordan - score, radio commentary, text updates & match stats",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/czde4dj23qmt"
+        }
+      },
+      {
+        "keyword": "신혼여행",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신혼여행 중 바람피운 남편에 손배 청구…혼인신고 안 한게 신의 한 수? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/06/17/2026061707182244294"
+        }
+      },
+      {
+        "keyword": "디앤디파마텍",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "LG AI연구원, 디앤디파마텍과 맞손…먹는 펩타이드 신약 설계",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617132947545"
+        }
+      },
+      {
+        "keyword": "시바이누코인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"올랐는데 안 판다\"… 시바이누 고래들, 500억 개 지갑 이동시키며 '존버' 택한 이유",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/06/202606170550105796e7e8286d56_1"
         }
       }
     ]
