@@ -1046,5 +1046,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-19T01:52:35.789753+09:00",
+    "label": "01:52",
+    "items": [
+      {
+        "keyword": "체코 대 남아공",
+        "traffic_raw": "50000+",
+        "traffic": 50000,
+        "news": {
+          "title": "체코 감독 \"멕시코보다 한국 더 인상적…역동적인 팀\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/62DaMssANS"
+        }
+      },
+      {
+        "keyword": "czechia vs south africa",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Czech Republic vs South Africa LIVE: Watch FIFA World Cup Group A TV stream, score, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cp8rk9gwzjnt"
+        }
+      },
+      {
+        "keyword": "일리아 토푸리아",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“180일 출전 정지” 얼굴 퉁퉁 붓고 UFC 챔피언 내준 토푸리아, 당분간 옥타곤서 못 본다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KPS4NyyOsu"
+        }
+      },
+      {
+        "keyword": "gta6",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o"
+        }
+      },
+      {
+        "keyword": "정수빈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "44일 만에 등판한 kt 소형준, 두산전 5이닝 1실점 호투",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/UX992yyOYz"
+        }
+      },
+      {
+        "keyword": "상동광산",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "영월 땅밑에 반도체 ‘꿈의 신소재’ 몰리브덴 60년치 있나…상동광산 주목",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/gangwon/1264174.html"
+        }
+      },
+      {
+        "keyword": "대한민국 공정거래위원회",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "imdb",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Daveigh Chase, Star of 'The Ring' and 'Lilo & Stitch,' Dead at 35",
+          "source": "TMZ",
+          "url": "https://www.tmz.com/2026/06/17/daveigh-chase-dead/"
+        }
+      },
+      {
+        "keyword": "김장훈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "리센느, \"에버랜드 야호!\"…'고나리자' 김장훈 만났다 [단독]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260616112505807"
+        }
+      },
+      {
+        "keyword": "明天的天氣",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "今明午後有對流端午連假防中暑",
+          "source": "氣象應用推廣基金會",
+          "url": "http://www.metapp.org.tw/index.php/bossweathernews/3881-2026-06-15-21-05-50"
+        }
+      }
+    ]
   }
 ]
