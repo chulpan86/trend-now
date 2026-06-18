@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-18T14:28:20.246264+09:00",
-  "label": "14:28",
+  "timestamp": "2026-06-18T19:05:20.810934+09:00",
+  "label": "19:05",
   "items": [
     {
-      "keyword": "코스피 9000",
+      "keyword": "인탑스",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"주가조작 아닌가\" 李대통령 한마디에…오너 2세 물러난 회사",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606184544i"
+      }
+    },
+    {
+      "keyword": "신 사장",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[속보] 코스피 사상 첫 9천피 달성‥장중 '9,022' 돌파",
+        "title": "229만 유튜버, 돌연 커밍아웃 “여자친구와 손 못 잡는 것 싫었다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618080518696"
+      }
+    },
+    {
+      "keyword": "김세의",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"김세의, 구치소서 빵도 못 사먹게 영치금 가압류 신청 할 것\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618162700599"
+      }
+    },
+    {
+      "keyword": "원자력",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"도심 인근에도 설치 가능\"...국내 첫 SMR 본궤도",
+        "source": "YTN 사이언스",
+        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202606181600128330"
+      }
+    },
+    {
+      "keyword": "채원빈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "채원빈, 디즈니+ '무빙' 시즌2 출연",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618082039132"
+      }
+    },
+    {
+      "keyword": "이정현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "소노 이정현, 새 시즌 연봉 7억2000만원...비 FA 선수로는 역대 최고액",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/basketball/2026/06/18/NASSDDVGGNA67BSDSVSQ5IMXGE/"
+      }
+    },
+    {
+      "keyword": "조국혁신당",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "혁신당, '평택을 패배'에 \"진보 진영 연대 실패에 대해 성찰해야\"",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6831141_36932.html"
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6831160_36911.html"
       }
     },
     {
-      "keyword": "노동자",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“원숭이”라 부르고 수시로 폭행···영천 제조업체 이주노동자들 집단 피해 호소",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260617151631891"
-      }
-    },
-    {
-      "keyword": "경제성장",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "1분기 GDP 성장률과 한국 경제 기대감",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/contributePolicyView.do?newsId=148966714&pWise=sub&pWiseSub=C1"
-      }
-    },
-    {
-      "keyword": "현대자동차그룹",
+      "keyword": "정상회담",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "현대차그룹, 남극에 재생 수소로 전력 생산하는 시스템 만든다",
+        "title": "李대통령, 트럼프와 골프 약속…\"한미관계는 단단하고 영원\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260618084300003"
+        "url": "https://www.yna.co.kr/view/AKR20260618000500001"
       }
     },
     {
-      "keyword": "불",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "인천 하야동 창고서 불…50분 만에 진화",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618051059075"
-      }
-    },
-    {
-      "keyword": "경포해변",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[시선집중] 동해안 어민 “참다랑어·고등어 쏟아지는데…냉동·제빙 시설 없어 헐값에 내준다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618100522612"
-      }
-    },
-    {
-      "keyword": "청년미래적금",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "청년미래적금 6월 22일 출시, 궁금증 총정리 ① - 카드/한컷 | 멀티미디어",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148966732"
-      }
-    },
-    {
-      "keyword": "구자욱",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘체인지업 투’ 장착… 칠색조로 진화한 삼성 에이스 원태인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618122320685"
-      }
-    },
-    {
-      "keyword": "하이닉스주가",
+      "keyword": "과잉 진료",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "SK하이닉스 주주환원 축포 터뜨릴 수 없는 이유 ‘300조’ 삼성전자 실탄",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/06/17/2026061780145.html"
+        "title": "복지부, 2028년까지 검체검사 수가 190%→110% 인하",
+        "source": "MEDI:GATE NEWS",
+        "url": "https://www.medigatenews.com/news/4234930360"
       }
     },
     {
-      "keyword": "제주반도체",
+      "keyword": "경비원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "제주반도체 \"LPDDR5도 SK하이닉스 공장서 만든다\"",
-        "source": "디일렉",
-        "url": "https://www.thelec.kr/news/articleView.html?idxno=58086"
+        "title": "아파트 밖으로 쓰레기 집어던진 70대, 말리는 경비원 폭행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618095226863?f=p"
       }
     }
   ]
