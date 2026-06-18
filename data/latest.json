@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-19T04:16:04.837108+09:00",
-  "label": "04:16",
+  "timestamp": "2026-06-19T06:56:50.603629+09:00",
+  "label": "06:56",
   "items": [
     {
-      "keyword": "체코 대 남아공",
-      "traffic_raw": "50000+",
-      "traffic": 50000,
+      "keyword": "고소영",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "남아공, 체코와 1-1, 한국 잠시 뒤 멕시코 이기면 32강행 확정",
+        "title": "고소영, 명품 휘감고 외출 “사람들 시선 신경 안 써…가리고 다니는 스타일 아냐”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260619030106803"
+        "url": "https://v.daum.net/v/20260617211852968"
       }
     },
     {
-      "keyword": "세균",
+      "keyword": "롯데 자이언츠",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "돈 아끼려다 '세균 폭탄' 맞는다…남은 샴푸에 물 부으면 생기는 일",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618210830182"
+        "title": "프로야구 롯데, 새 아시아쿼터 우완 투수 이이무라 영입",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260618110300007"
       }
     },
     {
-      "keyword": "czechia vs south africa",
+      "keyword": "농지",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Czech Republic Leads South Africa 1-0, Mokoena's Yellow Aids South Korea",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/06/19/5NB6L7V3ONC7JI4JCQDG5YLCFI/"
+        "title": "농지 전수조사 과정에서 친환경 임차농 보호 대책을 마련하여 시행 중",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966792"
       }
     },
     {
-      "keyword": "gta6",
+      "keyword": "예금",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“고객님 불안하시죠?” 증시 탈출한 돈 잡는다…은행권 ‘5% 특판’ 역머니무브 경쟁 [머니무브 뉴웨이브]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618180122673"
+      }
+    },
+    {
+      "keyword": "카카오모빌리티",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Grand Theft Auto VI Pre-Orders Begin on June 25",
-        "source": "Rockstar Games",
-        "url": "https://www.rockstargames.com/newswire/article/517oa135328155/grand-theft-auto-vi-pre-orders-begin-on-june-25"
+        "title": "“매크로 써서 택시 콜 선점”…카카오모빌리티, 앱 불법 변조 칼 빼 들었다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618184120049"
       }
     },
     {
-      "keyword": "블루제이스 대 레드삭스",
+      "keyword": "구속영장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[단독]“윗선서 얘기 끝났다” 尹 비서실, 공무원 ‘좌천’ 개입 정황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/QwEdk66bTr"
+      }
+    },
+    {
+      "keyword": "조세",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Game 72: Red Sox look to avoid sweep in matinee vs. Blue Jays",
-        "source": "The Boston Globe",
-        "url": "https://www.bostonglobe.com/2026/06/18/sports/red-sox-blue-jays-preview-june-18/"
+        "title": "\"美, 모즈타바 '돈세탁 흐름' 추적…JP모건 등 월가 연루 조사\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618212901540"
       }
     },
     {
-      "keyword": "디오망데",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "리버풀은 얀 디오망데 영입을 위해 1억 3천만 유로를 투자할 준비가 되어 있으며, 레알 마드리드는 루벤 디아스를 목표로 하고 있다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/liverpool-san-sang-chi-130-trieu-euro-cho-yan-diomande-real-madrid-nham-ruben-dias"
-      }
-    },
-    {
-      "keyword": "대한민국 공정거래위원회",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "정수빈",
+      "keyword": "토트넘 홋스퍼 fc",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "두산, kt 꺾고 5위 사수…'손가락 부상' 정수빈 결승 득점",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260618171100007"
+        "title": "[오피셜]'데제르비 체제, 로버트슨→세네시에 이어 3번째 보강' 토트넘, 네덜란드 국대 수비수 판 헤케 영입 확정..브라이턴에 이적료 5200만파운드 지불",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/06/19/HA4GINRSMEYTEMJSMU4TKNDGGA/"
       }
     },
     {
-      "keyword": "상동광산",
+      "keyword": "종합병원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "영월 상동 몰리브덴 시추 '긍정적'…전략광물 국산화 기대감 커",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260618116800062"
+        "title": "국내 병원이 ‘아시아 최고’… 아산은 심장 등 5개 분야, 삼성은 3년 연속 암 1등",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/welfare-medical/2026/06/18/PWTBZ3LLKRHUHMYNC4RKI2FOOM/"
       }
     },
     {
-      "keyword": "imdb",
+      "keyword": "msci",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Daveigh Chase, ‘Lilo & Stitch’ Voice Actor and ‘The Ring’ Villain, Dies at 35",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html"
+        "title": "MSCI flags Indonesia transparency concerns in market review",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/msci-flags-indonesia-transparency-concerns-in-market-review-93CH-4751003"
       }
     }
   ]
