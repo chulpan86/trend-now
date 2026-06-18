@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17T07:47:48.632265+09:00",
-    "label": "07:47",
-    "items": [
-      {
-        "keyword": "weather",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "TRNSMT 2026 - Line-up, weather and how to watch",
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cy49vr1mdr3o"
-        }
-      },
-      {
-        "keyword": "필라델피아 반도체 지수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[뉴욕증시] 다우지수 사상최고 행진 속 기술주 약세…스페이스X 상승률, 17→5%",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260617052521356"
-        }
-      },
-      {
-        "keyword": "나스닥 100",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "코어위브, 역대급 수주 잔고 달성 전망·나스닥 100 편입…주가 9% 급등",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01636726645482704"
-        }
-      },
-      {
-        "keyword": "신민아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "신민아 \"1인 2역에 붕대 감고 시각장애 연기…'고생 중독자'죠\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260616102000005"
-        }
-      },
-      {
-        "keyword": "경기북부",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김동권 경기북부경찰청장, 수해 대비 취약지역 점검",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616152650595"
-        }
-      },
-      {
-        "keyword": "폴드 8",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"주름 잡는 삼성, 뜸 들이는 애플\"…폴더블 대전 엇갈린 셈법",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260616_0003671523"
-        }
-      },
-      {
-        "keyword": "mu",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Micron Technology: Buy Ahead Of Earnings (Preview) (NASDAQ:MU)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4915106-micron-technology-buy-ahead-of-earnings-preview"
-        }
-      },
-      {
-        "keyword": "정상회담",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "李대통령 \"北문제 평화적 해결 주도\" 요청…트럼프 \"노력하겠다\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260616167952001"
-        }
-      },
-      {
-        "keyword": "piala dunia fifa 2026",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Prancis Kalahkan Senegal 3-1 dalam Laga Pembuka Grup I",
-          "source": "Kabarin.com",
-          "url": "https://www.kabarin.com/baca/72056/prancis-kalahkan-senegal-3-1-dalam-laga-pembuka-grup-i"
-        }
-      },
-      {
-        "keyword": "soxx",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Jefferies (JEF) sells autocallable notes linked to SOXX with quarterly $37.50 coupon",
-          "source": "Stock Titan",
-          "url": "https://www.stocktitan.net/sec-filings/JEF/424b2-jefferies-financial-group-inc-prospectus-supplement-169a29bd880f.html"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-17T09:09:10.513814+09:00",
-    "label": "09:09",
-    "items": [
-      {
-        "keyword": "김민하",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "항공사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "7월 발권 유류할증료 20% 내린다…뉴욕 왕복 21만5천원 ↓(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260616050851003"
-        }
-      },
-      {
-        "keyword": "수해",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "iraq vs norway",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Iraq 1-3 Norway: Erling Haaland scores twice on World Cup debut",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cr5j6rn5ng2t"
-        }
-      },
-      {
-        "keyword": "영화",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "흥행 복병 '백룸' 100만 돌파…외화 호러 7년만",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260617075601802"
-        }
-      },
-      {
-        "keyword": "sk스퀘어",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼전보다 삼성생명, 하닉 대신 SK스퀘어…수혜주로 번지는 반도체 랠리",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260617083448925"
-        }
-      },
-      {
-        "keyword": "강남구",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "강남구 공무원, AI로 옥외광고 행정시스템 개발…민원 검토 15분→1분",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10773158"
-        }
-      },
-      {
-        "keyword": "구교환",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "구교환♥이옥섭 감독, 영화 '군체' GV 동반 참석…마침내 한 무대",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202606161107576389"
-        }
-      },
-      {
-        "keyword": "토마호크",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'고비용 첨단'이면 뭐하나‥미국도 '가성비 저가형 무기' 고민",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616204610557"
-        }
-      },
-      {
-        "keyword": "화신",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[서울데이터랩]코스닥 거래상위 종목 희비…화신정공 상한가·HPSP 22% 급등",
-          "source": "twig24.com",
-          "url": "https://www.twig24.com/news/entertainments/2026/06/09/20260609500113"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-17T15:00:44.941549+09:00",
     "label": "15:00",
     "items": [
@@ -1141,6 +937,112 @@
           "title": "아파트 밖으로 쓰레기 집어던진 70대, 말리는 경비원 폭행",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260618095226863?f=p"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-18T22:56:05.788405+09:00",
+    "label": "22:56",
+    "items": [
+      {
+        "keyword": "내일 날씨",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "초여름 폭염 뒤 최대 200㎜ 비…기상청 \"장마 시작은 아니다\"[날씨와삶]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260618212432492"
+        }
+      },
+      {
+        "keyword": "투자",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"삼전닉스 랠리 언제 끝나요\"…투자 전문가의 '깜짝' 전망",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026061851711"
+        }
+      },
+      {
+        "keyword": "weather tomorrow",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "Tornadoes Reported in Wisconsin and Illinois as Violent Storms Sweep the Midwest",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/17/weather/tornadoes-news-illinois-wisconsin-indiana.html"
+        }
+      },
+      {
+        "keyword": "앱솔릭스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "SKC “美 글라스기판 2공장 증설 백지화 사실 아냐”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260618143103327"
+        }
+      },
+      {
+        "keyword": "문채원",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'유튜브' 문채원, 자차+운전 실력 공개…\"무조건 작은 차 원했다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260618184748223"
+        }
+      },
+      {
+        "keyword": "yeouido",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "GS Engineering Drops Apgujeong to Focus on Yeouido, Mokdong",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/06/18/gs-engineering-drops-apgujeong-to-focus-on-yeouido-mokdong"
+        }
+      },
+      {
+        "keyword": "thời tiết ngày mai",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Tin nắng nóng Hà Nội mới nhất, Hà Nội sắp oi nóng 39 độ C, miền Bắc nắng nóng gay gắt ngay đầu tuần",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/tin-nang-nong-ha-noi-moi-nhat-ha-noi-sap-oi-nong-39-do-c-mien-bac-nang-nong-gay-gat-ngay-dau-tuan"
+        }
+      },
+      {
+        "keyword": "fifa 월드컵 조별 리그",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2026 FIFA 월드컵™ 경기 일정 및 VTV 생중계 (6월 19일): 멕시코 vs. 한국.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lich-thi-dau-va-truc-tiep-fifa-world-cup-2026tm-tren-vtv-ngay-19-6-dai-chien-mexico-han-quoc"
+        }
+      },
+      {
+        "keyword": "사나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "트와이스, 티젠과 함께합니다",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260618000665"
+        }
+      },
+      {
+        "keyword": "버락 오바마",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "오바마센터 개관식에 톱스타 총출동…트럼프 행사는 줄줄이 보이콧",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260618/134135541/1"
         }
       }
     ]

@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-18T19:05:20.810934+09:00",
-  "label": "19:05",
+  "timestamp": "2026-06-18T22:56:05.788405+09:00",
+  "label": "22:56",
   "items": [
     {
-      "keyword": "인탑스",
+      "keyword": "내일 날씨",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
+      "news": {
+        "title": "초여름 폭염 뒤 최대 200㎜ 비…기상청 \"장마 시작은 아니다\"[날씨와삶]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618212432492"
+      }
+    },
+    {
+      "keyword": "투자",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "\"삼전닉스 랠리 언제 끝나요\"…투자 전문가의 '깜짝' 전망",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026061851711"
+      }
+    },
+    {
+      "keyword": "weather tomorrow",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "\"주가조작 아닌가\" 李대통령 한마디에…오너 2세 물러난 회사",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202606184544i"
+        "title": "Tornadoes Reported in Wisconsin and Illinois as Violent Storms Sweep the Midwest",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/17/weather/tornadoes-news-illinois-wisconsin-indiana.html"
       }
     },
     {
-      "keyword": "신 사장",
+      "keyword": "앱솔릭스",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "229만 유튜버, 돌연 커밍아웃 “여자친구와 손 못 잡는 것 싫었다”",
+        "title": "SKC “美 글라스기판 2공장 증설 백지화 사실 아냐”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260618080518696"
+        "url": "https://v.daum.net/v/20260618143103327"
       }
     },
     {
-      "keyword": "김세의",
+      "keyword": "문채원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'유튜브' 문채원, 자차+운전 실력 공개…\"무조건 작은 차 원했다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618184748223"
+      }
+    },
+    {
+      "keyword": "yeouido",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"김세의, 구치소서 빵도 못 사먹게 영치금 가압류 신청 할 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618162700599"
+        "title": "GS Engineering Drops Apgujeong to Focus on Yeouido, Mokdong",
+        "source": "Seoul Economic Daily",
+        "url": "https://en.sedaily.com/finance/2026/06/18/gs-engineering-drops-apgujeong-to-focus-on-yeouido-mokdong"
       }
     },
     {
-      "keyword": "원자력",
+      "keyword": "thời tiết ngày mai",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"도심 인근에도 설치 가능\"...국내 첫 SMR 본궤도",
-        "source": "YTN 사이언스",
-        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202606181600128330"
+        "title": "Tin nắng nóng Hà Nội mới nhất, Hà Nội sắp oi nóng 39 độ C, miền Bắc nắng nóng gay gắt ngay đầu tuần",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/tin-nang-nong-ha-noi-moi-nhat-ha-noi-sap-oi-nong-39-do-c-mien-bac-nang-nong-gay-gat-ngay-dau-tuan"
       }
     },
     {
-      "keyword": "채원빈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "채원빈, 디즈니+ '무빙' 시즌2 출연",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618082039132"
-      }
-    },
-    {
-      "keyword": "이정현",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "소노 이정현, 새 시즌 연봉 7억2000만원...비 FA 선수로는 역대 최고액",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/basketball/2026/06/18/NASSDDVGGNA67BSDSVSQ5IMXGE/"
-      }
-    },
-    {
-      "keyword": "조국혁신당",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "혁신당, '평택을 패배'에 \"진보 진영 연대 실패에 대해 성찰해야\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6831160_36911.html"
-      }
-    },
-    {
-      "keyword": "정상회담",
+      "keyword": "fifa 월드컵 조별 리그",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "李대통령, 트럼프와 골프 약속…\"한미관계는 단단하고 영원\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260618000500001"
+        "title": "2026 FIFA 월드컵™ 경기 일정 및 VTV 생중계 (6월 19일): 멕시코 vs. 한국.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/lich-thi-dau-va-truc-tiep-fifa-world-cup-2026tm-tren-vtv-ngay-19-6-dai-chien-mexico-han-quoc"
       }
     },
     {
-      "keyword": "과잉 진료",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "사나",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "복지부, 2028년까지 검체검사 수가 190%→110% 인하",
-        "source": "MEDI:GATE NEWS",
-        "url": "https://www.medigatenews.com/news/4234930360"
+        "title": "트와이스, 티젠과 함께합니다",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260618000665"
       }
     },
     {
-      "keyword": "경비원",
+      "keyword": "버락 오바마",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "아파트 밖으로 쓰레기 집어던진 70대, 말리는 경비원 폭행",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618095226863?f=p"
+        "title": "오바마센터 개관식에 톱스타 총출동…트럼프 행사는 줄줄이 보이콧",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20260618/134135541/1"
       }
     }
   ]
