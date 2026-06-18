@@ -1,81 +1,51 @@
 {
-  "timestamp": "2026-06-19T06:56:50.603629+09:00",
-  "label": "06:56",
+  "timestamp": "2026-06-19T08:41:11.624540+09:00",
+  "label": "08:41",
   "items": [
     {
-      "keyword": "고소영",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "날씨",
+      "traffic_raw": "500000+",
+      "traffic": 500000,
       "news": {
-        "title": "고소영, 명품 휘감고 외출 “사람들 시선 신경 안 써…가리고 다니는 스타일 아냐”",
+        "title": "[날씨] 월드컵 2차전 '서울 33도'…밤부터 차츰 전국 비",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260617211852968"
+        "url": "https://v.daum.net/v/20260619070603895"
       }
     },
     {
-      "keyword": "롯데 자이언츠",
+      "keyword": "동아일보",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "프로야구 롯데, 새 아시아쿼터 우완 투수 이이무라 영입",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260618110300007"
+        "title": "정청래, 李 대면뒤 “흔들리는 게 인생” 연임 의지… 당내 “당원이 심판”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260619/134140540/2"
       }
     },
     {
-      "keyword": "농지",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "농지 전수조사 과정에서 친환경 임차농 보호 대책을 마련하여 시행 중",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966792"
-      }
-    },
-    {
-      "keyword": "예금",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“고객님 불안하시죠?” 증시 탈출한 돈 잡는다…은행권 ‘5% 특판’ 역머니무브 경쟁 [머니무브 뉴웨이브]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618180122673"
-      }
-    },
-    {
-      "keyword": "카카오모빌리티",
+      "keyword": "canada vs qatar",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“매크로 써서 택시 콜 선점”…카카오모빌리티, 앱 불법 변조 칼 빼 들었다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618184120049"
+        "title": "En direct: Canada - Qatar",
+        "source": "Noovo Info",
+        "url": "https://www.noovo.info/nouvelles/sport/coupe-du-monde/article/en-direct-canada-qatar/"
       }
     },
     {
-      "keyword": "구속영장",
+      "keyword": "김혜성",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[단독]“윗선서 얘기 끝났다” 尹 비서실, 공무원 ‘좌천’ 개입 정황",
+        "title": "이정후 빼고 다 팔고 싶은 SF, 6878억 3인방 트레이드 가능할까 “정말 어려운 상황, 상당한 대가 내줘야…”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/QwEdk66bTr"
+        "url": "https://v.daum.net/v/20260618094051276"
       }
     },
     {
-      "keyword": "조세",
+      "keyword": "반헤케",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "\"美, 모즈타바 '돈세탁 흐름' 추적…JP모건 등 월가 연루 조사\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618212901540"
-      }
-    },
-    {
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
         "title": "[오피셜]'데제르비 체제, 로버트슨→세네시에 이어 3번째 보강' 토트넘, 네덜란드 국대 수비수 판 헤케 영입 확정..브라이턴에 이적료 5200만파운드 지불",
         "source": "조선일보",
@@ -83,23 +53,53 @@
       }
     },
     {
-      "keyword": "종합병원",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "남편들",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "국내 병원이 ‘아시아 최고’… 아산은 심장 등 5개 분야, 삼성은 3년 연속 암 1등",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/welfare-medical/2026/06/18/PWTBZ3LLKRHUHMYNC4RKI2FOOM/"
+        "title": "셀럽들도 극찬…러닝타임 내내 웃느라 정신없었다는 화제의 '코미디 영화'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/UVXHpMMVGg"
       }
     },
     {
-      "keyword": "msci",
+      "keyword": "天気",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "MSCI flags Indonesia transparency concerns in market review",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/msci-flags-indonesia-transparency-concerns-in-market-review-93CH-4751003"
+        "title": "九州で局地的に激しい雨 道路冠水や浸水などに警戒",
+        "source": "ウェザーニュース",
+        "url": "https://weathernews.jp/news/202606/190051/"
+      }
+    },
+    {
+      "keyword": "단오절",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "20년 넘게 재를 넣어 찹쌀 경단을 만들어 왔습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/hon-20-nam-lam-banh-u-tro"
+      }
+    },
+    {
+      "keyword": "한국 멕시코 경기 일정",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "네이버 ‘치지직’ 월드컵 흥행 성공… 이용자 수 급증하고 주가도 껑충",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260619003522900"
+      }
+    },
+    {
+      "keyword": "규제",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "국평 한달새 2억 뛰었다…‘집값 상승률 1위’ 동탄, 규제 초읽기",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260619050151468"
       }
     }
   ]
