@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-06-19T01:52:35.789753+09:00",
-  "label": "01:52",
+  "timestamp": "2026-06-19T04:16:04.837108+09:00",
+  "label": "04:16",
   "items": [
     {
       "keyword": "체코 대 남아공",
       "traffic_raw": "50000+",
       "traffic": 50000,
       "news": {
-        "title": "체코 감독 \"멕시코보다 한국 더 인상적…역동적인 팀\"",
+        "title": "남아공, 체코와 1-1, 한국 잠시 뒤 멕시코 이기면 32강행 확정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/62DaMssANS"
+        "url": "https://v.daum.net/v/20260619030106803"
+      }
+    },
+    {
+      "keyword": "세균",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "돈 아끼려다 '세균 폭탄' 맞는다…남은 샴푸에 물 부으면 생기는 일",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260618210830182"
       }
     },
     {
@@ -17,19 +27,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Czech Republic vs South Africa LIVE: Watch FIFA World Cup Group A TV stream, score, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cp8rk9gwzjnt"
-      }
-    },
-    {
-      "keyword": "일리아 토푸리아",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“180일 출전 정지” 얼굴 퉁퉁 붓고 UFC 챔피언 내준 토푸리아, 당분간 옥타곤서 못 본다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/KPS4NyyOsu"
+        "title": "Czech Republic Leads South Africa 1-0, Mokoena's Yellow Aids South Korea",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/06/19/5NB6L7V3ONC7JI4JCQDG5YLCFI/"
       }
     },
     {
@@ -37,19 +37,45 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o"
+        "title": "Grand Theft Auto VI Pre-Orders Begin on June 25",
+        "source": "Rockstar Games",
+        "url": "https://www.rockstargames.com/newswire/article/517oa135328155/grand-theft-auto-vi-pre-orders-begin-on-june-25"
       }
+    },
+    {
+      "keyword": "블루제이스 대 레드삭스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Game 72: Red Sox look to avoid sweep in matinee vs. Blue Jays",
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/06/18/sports/red-sox-blue-jays-preview-june-18/"
+      }
+    },
+    {
+      "keyword": "디오망데",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "리버풀은 얀 디오망데 영입을 위해 1억 3천만 유로를 투자할 준비가 되어 있으며, 레알 마드리드는 루벤 디아스를 목표로 하고 있다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/liverpool-san-sang-chi-130-trieu-euro-cho-yan-diomande-real-madrid-nham-ruben-dias"
+      }
+    },
+    {
+      "keyword": "대한민국 공정거래위원회",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
       "keyword": "정수빈",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "44일 만에 등판한 kt 소형준, 두산전 5이닝 1실점 호투",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/UX992yyOYz"
+        "title": "두산, kt 꺾고 5위 사수…'손가락 부상' 정수빈 결승 득점",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260618171100007"
       }
     },
     {
@@ -57,45 +83,19 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "영월 땅밑에 반도체 ‘꿈의 신소재’ 몰리브덴 60년치 있나…상동광산 주목",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/area/gangwon/1264174.html"
+        "title": "영월 상동 몰리브덴 시추 '긍정적'…전략광물 국산화 기대감 커",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260618116800062"
       }
-    },
-    {
-      "keyword": "대한민국 공정거래위원회",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     },
     {
       "keyword": "imdb",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Daveigh Chase, Star of 'The Ring' and 'Lilo & Stitch,' Dead at 35",
-        "source": "TMZ",
-        "url": "https://www.tmz.com/2026/06/17/daveigh-chase-dead/"
-      }
-    },
-    {
-      "keyword": "김장훈",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "리센느, \"에버랜드 야호!\"…'고나리자' 김장훈 만났다 [단독]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260616112505807"
-      }
-    },
-    {
-      "keyword": "明天的天氣",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "今明午後有對流端午連假防中暑",
-        "source": "氣象應用推廣基金會",
-        "url": "http://www.metapp.org.tw/index.php/bossweathernews/3881-2026-06-15-21-05-50"
+        "title": "Daveigh Chase, ‘Lilo & Stitch’ Voice Actor and ‘The Ring’ Villain, Dies at 35",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html"
       }
     }
   ]
