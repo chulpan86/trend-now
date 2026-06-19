@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-19T21:40:46.157536+09:00",
-  "label": "21:40",
+  "timestamp": "2026-06-20T00:55:52.021844+09:00",
+  "label": "00:55",
   "items": [
     {
-      "keyword": "이흥구",
+      "keyword": "분리 수거",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"밥솥 안에 금이…\" 어머니의 마지막 선물 - 영상 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148966846"
+      }
+    },
+    {
+      "keyword": "이형범",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'이흥구 후임' 대법관 후보 28명…李대통령 환송심·2심판사 포함",
+        "title": "이범호 고민 괜히 했나… 필승조가 없어? 선발과 타선이 일하면 됩니다, KIA 최고의 승리 낚았다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260619160509090"
+        "url": "https://v.daum.net/v/20260619214800535"
       }
     },
     {
-      "keyword": "안선영",
+      "keyword": "박명수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "안선영, 세상 떠난 반려견에 눈물 \"치매 母 쓰러지기 일주일 전 떠나\" [이중생활]",
+        "title": "박명수, 오세훈 서울시장에 “다같이 모이자”…월드컵 응원 축제 제안",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260618205903966"
+        "url": "https://v.daum.net/v/20260619131617832"
       }
     },
     {
-      "keyword": "옥희",
+      "keyword": "류혜영",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘신장암 투병’ 옥희, 위중한 상태…남편 홍수환이 곁 지켜",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/musics/12078347"
-      }
-    },
-    {
-      "keyword": "트레이드",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "다저스, 깜짝 놀랄 트레이드할 수 있다고? \"예상치 못한 후보 등장\"…내야수 2명, 마무리 1명",
+        "title": "'나혼산' 류혜영 \"'응팔' 이후 조심스러워져\"…해 가리는 이유 고백",
         "source": "Daum",
-        "url": "https://v.daum.net/v/txEEkGGhlq"
+        "url": "https://v.daum.net/v/20260619234431794"
       }
     },
     {
-      "keyword": "sll",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"전 재산 묶여\" JTBC 앞 절규…새벽 기차 타고 상경한 60대 여성의 눈물",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260619145634423"
-      }
-    },
-    {
-      "keyword": "테일러 프리츠",
+      "keyword": "김용현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Ben Shelton beats Taylor Fritz for first grass-court title",
-        "source": "ESPN",
-        "url": "https://www.espn.com/tennis/story/_/id/49061340/ben-shelton-beats-taylor-fritz-stuttgart-first-grass-court-title"
+        "title": "'정보사 명단 누설' 김용현 전 국방장관, 1심 징역 3년 선고",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6831469_36918.html"
       }
     },
     {
-      "keyword": "최유정",
+      "keyword": "경찰관",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'솔로 컴백' 최유정, 만화 속 요정 완벽 변신…신보 포토 공개",
+        "title": "단독 결혼 1주년 앞두고 숨진 경찰관...유족 \"유서에 '과장 때문에 힘들다'\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0103_202606190136060917"
+      }
+    },
+    {
+      "keyword": "아부다비 국영 석유회사",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "아랍에미리트(UAE) 에너지인프라부 차관 면담 - 포토 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72097"
+      }
+    },
+    {
+      "keyword": "이원석",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이원석 전 검찰총장 \"도이치 사건, 박성재에게 전달 안 해\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/067WNyyOGs"
+        "url": "https://v.daum.net/v/GxCO4ffzmt"
       }
     },
     {
-      "keyword": "이병규",
+      "keyword": "toy story 5",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이병규 LG 퓨처스 감독, 1군 마운드에 올라 \"LG 파이팅\" [IS 잠실]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260619190400972"
+        "title": "‘Toy Story 5’ Review: The Machines Have Come for the Children",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review.html"
       }
     },
     {
-      "keyword": "usdc",
+      "keyword": "samsung vs hanwha",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
-        "source": "Amazon Web Services",
-        "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/"
-      }
-    },
-    {
-      "keyword": "윤아",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김수현, 온갖 논란 딛고 7월 복귀 공식화..스타랭킹 男배우 58주 연속 1위",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/star/2026/06/18/2026061815152114131"
+        "title": "Rain Halts 3-3 Draw Between Hanwha Eagles, Samsung Lions",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/06/19/S65JO2O7TVBYZA52P4ELP4HSZQ/"
       }
     }
   ]

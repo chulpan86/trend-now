@@ -1050,5 +1050,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-20T00:55:52.021844+09:00",
+    "label": "00:55",
+    "items": [
+      {
+        "keyword": "분리 수거",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"밥솥 안에 금이…\" 어머니의 마지막 선물 - 영상 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148966846"
+        }
+      },
+      {
+        "keyword": "이형범",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이범호 고민 괜히 했나… 필승조가 없어? 선발과 타선이 일하면 됩니다, KIA 최고의 승리 낚았다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619214800535"
+        }
+      },
+      {
+        "keyword": "박명수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "박명수, 오세훈 서울시장에 “다같이 모이자”…월드컵 응원 축제 제안",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619131617832"
+        }
+      },
+      {
+        "keyword": "류혜영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'나혼산' 류혜영 \"'응팔' 이후 조심스러워져\"…해 가리는 이유 고백",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619234431794"
+        }
+      },
+      {
+        "keyword": "김용현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'정보사 명단 누설' 김용현 전 국방장관, 1심 징역 3년 선고",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6831469_36918.html"
+        }
+      },
+      {
+        "keyword": "경찰관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "단독 결혼 1주년 앞두고 숨진 경찰관...유족 \"유서에 '과장 때문에 힘들다'\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202606190136060917"
+        }
+      },
+      {
+        "keyword": "아부다비 국영 석유회사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아랍에미리트(UAE) 에너지인프라부 차관 면담 - 포토 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72097"
+        }
+      },
+      {
+        "keyword": "이원석",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이원석 전 검찰총장 \"도이치 사건, 박성재에게 전달 안 해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GxCO4ffzmt"
+        }
+      },
+      {
+        "keyword": "toy story 5",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘Toy Story 5’ Review: The Machines Have Come for the Children",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review.html"
+        }
+      },
+      {
+        "keyword": "samsung vs hanwha",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Rain Halts 3-3 Draw Between Hanwha Eagles, Samsung Lions",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/19/S65JO2O7TVBYZA52P4ELP4HSZQ/"
+        }
+      }
+    ]
   }
 ]
