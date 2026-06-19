@@ -1,25 +1,45 @@
 {
-  "timestamp": "2026-06-20T04:25:29.065147+09:00",
-  "label": "04:25",
+  "timestamp": "2026-06-20T06:01:20.839168+09:00",
+  "label": "06:01",
   "items": [
     {
-      "keyword": "안정환",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "미국 대 호주",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "구구절절 맞는말… 안정환 \"손흥민 불쌍했다, 희생양 스트라이커 같아\"",
+        "title": "美 풀리식 결장 가능성 커져…호주전 승리 확률 58.9%",
         "source": "Daum",
-        "url": "https://v.daum.net/v/9VQDsKKpWh"
+        "url": "https://v.daum.net/v/BVGMgKMV5v"
       }
     },
     {
-      "keyword": "미국 대 호주",
+      "keyword": "연합뉴스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘캡틴 아메리카’ 풀리식, 호주전 앞두고 종아리 부상 회복할까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618162422497"
+        "title": "스크린 앞 붉은 함성…\"다음엔 꼭 이길거예요\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260619014400038"
+      }
+    },
+    {
+      "keyword": "블루제이스 대 컵스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "On The Horizon: Cubs vs. Blue Jays series preview",
+        "source": "Bleed Cubbie Blue",
+        "url": "https://www.bleedcubbieblue.com/chicago-cubs-game-information/221513/cubs-blue-jays-series-preview"
+      }
+    },
+    {
+      "keyword": "usa vs australia",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "World Cup live updates: United States vs. Australia",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49096090/2026-fifa-world-cup-live-updates-united-states-vs-australia"
       }
     },
     {
@@ -33,13 +53,33 @@
       }
     },
     {
-      "keyword": "op",
+      "keyword": "단발",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/articles/c20y1ygn707o"
+        "title": "손예진 칼단발이 화제인 이유, 직접 보니 알겠네",
+        "source": "www.cosmopolitan.co.kr",
+        "url": "https://www.cosmopolitan.co.kr/article/1904719"
+      }
+    },
+    {
+      "keyword": "trip",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Trump ‘totally fabricated’ claim she begged him for a photo, Italy’s Giorgia Meloni says",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/italy/trump-italy-meloni-begged-photo-fabricated-g7-summit-france-rcna350836"
+      }
+    },
+    {
+      "keyword": "드론 스트라이크",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Massive blasts in Moscow shatter even Putin’s protective shell",
+        "source": "CNN",
+        "url": "https://edition.cnn.com/2026/06/18/europe/putin-confronts-war-reality"
       }
     },
     {
@@ -47,59 +87,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Uncharted 4 Free Download Officially Yours To Grab Now, No PS Plus Needed",
-        "source": "ScreenRant",
-        "url": "https://screenrant.com/uncharted-4-free-anniversary-download-psa/"
+        "title": "Here's What's Leaving the PS Plus Library in July 2026",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/heres-whats-leaving-the-ps-plus-library-in-july-2026"
       }
     },
     {
-      "keyword": "라이엇게임즈",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "동궁",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "라이엇, 'VCT 2027' 세부 운영안 및 재정 지원안 공개…실력과 성과 중심",
+        "title": "노윤서, 귀신 소리 듣는 궁녀 된다…넷플릭스 '동궁' 출연",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4fLNYbb0TF"
-      }
-    },
-    {
-      "keyword": "anne hathaway",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Anne Hathaway Is Pregnant, Expecting Baby No. 3 with Husband Adam Shulman",
-        "source": "People.com",
-        "url": "https://people.com/anne-hathaway-is-pregnant-expecting-baby-no-3-with-husband-adam-shulman-12003081"
-      }
-    },
-    {
-      "keyword": "리그오브레전드",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "OOP, 한·프 스트리머 맞대결 '크로스리저널-LoL' 21일 개막",
-        "source": "스트레이트뉴스",
-        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=305218"
-      }
-    },
-    {
-      "keyword": "전상현",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "KIA 전상현, 70일 만에 1군 엔트리 복귀…뒷문 강화 기대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260619172030519"
-      }
-    },
-    {
-      "keyword": "대한민국 해군",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "울산대 유영준 교수, 2026년 함정기술·무기체계세미나 우수논문상 수상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260619150058583"
+        "url": "https://v.daum.net/v/20260618135857699?f=p"
       }
     }
   ]
