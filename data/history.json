@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18T14:28:20.246264+09:00",
-    "label": "14:28",
-    "items": [
-      {
-        "keyword": "코스피 9000",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[속보] 코스피 사상 첫 9천피 달성‥장중 '9,022' 돌파",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6831141_36932.html"
-        }
-      },
-      {
-        "keyword": "노동자",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“원숭이”라 부르고 수시로 폭행···영천 제조업체 이주노동자들 집단 피해 호소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260617151631891"
-        }
-      },
-      {
-        "keyword": "경제성장",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "1분기 GDP 성장률과 한국 경제 기대감",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/contributePolicyView.do?newsId=148966714&pWise=sub&pWiseSub=C1"
-        }
-      },
-      {
-        "keyword": "현대자동차그룹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "현대차그룹, 남극에 재생 수소로 전력 생산하는 시스템 만든다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260618084300003"
-        }
-      },
-      {
-        "keyword": "불",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "인천 하야동 창고서 불…50분 만에 진화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618051059075"
-        }
-      },
-      {
-        "keyword": "경포해변",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[시선집중] 동해안 어민 “참다랑어·고등어 쏟아지는데…냉동·제빙 시설 없어 헐값에 내준다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618100522612"
-        }
-      },
-      {
-        "keyword": "청년미래적금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "청년미래적금 6월 22일 출시, 궁금증 총정리 ① - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148966732"
-        }
-      },
-      {
-        "keyword": "구자욱",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘체인지업 투’ 장착… 칠색조로 진화한 삼성 에이스 원태인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618122320685"
-        }
-      },
-      {
-        "keyword": "하이닉스주가",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "SK하이닉스 주주환원 축포 터뜨릴 수 없는 이유 ‘300조’ 삼성전자 실탄",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/06/17/2026061780145.html"
-        }
-      },
-      {
-        "keyword": "제주반도체",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "제주반도체 \"LPDDR5도 SK하이닉스 공장서 만든다\"",
-          "source": "디일렉",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=58086"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-18T19:05:20.810934+09:00",
     "label": "19:05",
     "items": [
@@ -1133,6 +1027,112 @@
           "title": "이원석 전 검찰총장 \"도이치 사건, 박성재에게 전달 안 해\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/GxCO4ffzmt"
+        }
+      },
+      {
+        "keyword": "toy story 5",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘Toy Story 5’ Review: The Machines Have Come for the Children",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review.html"
+        }
+      },
+      {
+        "keyword": "samsung vs hanwha",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Rain Halts 3-3 Draw Between Hanwha Eagles, Samsung Lions",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/19/S65JO2O7TVBYZA52P4ELP4HSZQ/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-20T02:49:07.802774+09:00",
+    "label": "02:49",
+    "items": [
+      {
+        "keyword": "안정환",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "구구절절 맞는말… 안정환 \"손흥민 불쌍했다, 희생양 스트라이커 같아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9VQDsKKpWh"
+        }
+      },
+      {
+        "keyword": "박명수",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'사당귀' 박명수, 메인MC 자리 앉았다 \"전현무 멕시코서 못 오게 할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619095405903"
+        }
+      },
+      {
+        "keyword": "분리 수거",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "버려진 밥솥에 금 25돈이…‘어머니 유품’, 분리수거 경비원이 찾아줬다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619191800178"
+        }
+      },
+      {
+        "keyword": "류혜영",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘나혼산’ 구성환, 류혜영에 수줍은 팬심 고백 “원래부터 팬”",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/508853"
+        }
+      },
+      {
+        "keyword": "김용현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'정보사 명단 누설' 김용현 전 국방장관, 1심 징역 3년 선고",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6831469_36918.html"
+        }
+      },
+      {
+        "keyword": "경찰관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신혼 경찰관의 비극적 죽음…경찰직협 \"조직 내 갑질, 성역 없는 조사 필요\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619095635995"
+        }
+      },
+      {
+        "keyword": "아부다비 국영 석유회사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아랍에미리트(UAE) 에너지인프라부 차관 면담 - 포토 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72097"
+        }
+      },
+      {
+        "keyword": "라이엇게임즈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "라이엇, 'VCT 2027' 세부 운영안 및 재정 지원안 공개…실력과 성과 중심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4fLNYbb0TF"
         }
       },
       {
