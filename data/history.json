@@ -1156,5 +1156,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-20T04:25:29.065147+09:00",
+    "label": "04:25",
+    "items": [
+      {
+        "keyword": "안정환",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "구구절절 맞는말… 안정환 \"손흥민 불쌍했다, 희생양 스트라이커 같아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9VQDsKKpWh"
+        }
+      },
+      {
+        "keyword": "미국 대 호주",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘캡틴 아메리카’ 풀리식, 호주전 앞두고 종아리 부상 회복할까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260618162422497"
+        }
+      },
+      {
+        "keyword": "best amazon deals",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "The Best Early Prime Day Deals You Can Snag Right Now, From All Around the Internet",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/wirecutter/money/best-prime-day-deals-2026/"
+        }
+      },
+      {
+        "keyword": "op",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c20y1ygn707o"
+        }
+      },
+      {
+        "keyword": "ps",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Uncharted 4 Free Download Officially Yours To Grab Now, No PS Plus Needed",
+          "source": "ScreenRant",
+          "url": "https://screenrant.com/uncharted-4-free-anniversary-download-psa/"
+        }
+      },
+      {
+        "keyword": "라이엇게임즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "라이엇, 'VCT 2027' 세부 운영안 및 재정 지원안 공개…실력과 성과 중심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4fLNYbb0TF"
+        }
+      },
+      {
+        "keyword": "anne hathaway",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Anne Hathaway Is Pregnant, Expecting Baby No. 3 with Husband Adam Shulman",
+          "source": "People.com",
+          "url": "https://people.com/anne-hathaway-is-pregnant-expecting-baby-no-3-with-husband-adam-shulman-12003081"
+        }
+      },
+      {
+        "keyword": "리그오브레전드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "OOP, 한·프 스트리머 맞대결 '크로스리저널-LoL' 21일 개막",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=305218"
+        }
+      },
+      {
+        "keyword": "전상현",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "KIA 전상현, 70일 만에 1군 엔트리 복귀…뒷문 강화 기대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619172030519"
+        }
+      },
+      {
+        "keyword": "대한민국 해군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "울산대 유영준 교수, 2026년 함정기술·무기체계세미나 우수논문상 수상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619150058583"
+        }
+      }
+    ]
   }
 ]
