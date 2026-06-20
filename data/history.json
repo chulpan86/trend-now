@@ -1376,5 +1376,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-21T02:15:22.857351+09:00",
+    "label": "02:15",
+    "items": [
+      {
+        "keyword": "신입사원 강회장",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘신입사원 강회장’ 이준영, 정체 탄로날까…판 흔든 킹메이커에 ‘시선 집중’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620131142570"
+        }
+      },
+      {
+        "keyword": "이옥섭",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "정해인X최수영X조정석X심은경X이민호, 심사위원 '미쟝센'이 대작 [포토] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/movie/2026/06/18/MQ2TMNJZMZTDIMLDMMZTEODDMU/"
+        }
+      },
+      {
+        "keyword": "네덜란드 스웨덴",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"내 책임이다\" '죽음의 조' F조 日 잡지 못한 네덜란드 감독…교체 전략 결국 사과 \"원하는 것 달성하지 못했다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/06/20/GU2TAMZTGE2DIMLBMYYGKZBRGM/"
+        }
+      },
+      {
+        "keyword": "심수봉",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'올해 70세' 심수봉 \"소리 못 듣는 희귀병 앓고 있어\" 심경 토로",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026061808160004554"
+        }
+      },
+      {
+        "keyword": "농협",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "NH농협금융, 자산운용·IB '실전형 집중 교육 과정' 운영",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qGDLSllwcS"
+        }
+      },
+      {
+        "keyword": "일본 튀니지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "튀니지 '소방수' 르나르 감독 \"나는 마법사가 아니야\"[월드컵]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620093701980"
+        }
+      },
+      {
+        "keyword": "박은영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박은영, 신혼집 공개 \"남편, 하석진 닮은꼴..젠틀해\" [전참시][별별TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620233817717"
+        }
+      },
+      {
+        "keyword": "미사일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"모스크바 아군오폭\"…러, 우크라 드론 막다 정유공장 불태웠나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620151304928"
+        }
+      },
+      {
+        "keyword": "이도현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이도현, 월드 클라이밍 6차 대회 볼더링 동메달",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620135005971"
+        }
+      },
+      {
+        "keyword": "원희",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "원희, 아일릿 정산 시작됐다..당당한 20살 “이젠 부모님 용돈 안 받아”(전참시)[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621005506045"
+        }
+      }
+    ]
   }
 ]

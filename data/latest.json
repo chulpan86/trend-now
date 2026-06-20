@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-21T00:28:08.080764+09:00",
-  "label": "00:28",
+  "timestamp": "2026-06-21T02:15:22.857351+09:00",
+  "label": "02:15",
   "items": [
     {
       "keyword": "신입사원 강회장",
@@ -23,6 +23,16 @@
       }
     },
     {
+      "keyword": "네덜란드 스웨덴",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"내 책임이다\" '죽음의 조' F조 日 잡지 못한 네덜란드 감독…교체 전략 결국 사과 \"원하는 것 달성하지 못했다\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/football/2026/06/20/GU2TAMZTGE2DIMLBMYYGKZBRGM/"
+      }
+    },
+    {
       "keyword": "심수봉",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -33,43 +43,33 @@
       }
     },
     {
-      "keyword": "박지현",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'취사병' 후속작 떴다…이번엔 직장인 공감 스토리로 '2연속 흥행' 노리는 韓 드라마 ('내일도 출근')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620174718532"
-      }
-    },
-    {
-      "keyword": "기아타이거즈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'와' 무서운 KT, 9회말 6득점→5점 차 뒤집었다! 힐리어드 결승타 '4:3→4:9→10:9' 짜릿 역전승 [수원 현장리뷰]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260620n11467"
-      }
-    },
-    {
-      "keyword": "성영탁",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"2군에 내려가고 싶지 않다\" 2007년생 KIA 신인, 성영탁처럼 믿을 수 있는 투수를 꿈꾼다 [광주 인터뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5BLauRRftj"
-      }
-    },
-    {
-      "keyword": "호르무즈",
+      "keyword": "농협",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이란군 \"호르무즈 다시 봉쇄…미·이스라엘 MOU 위반 탓\"",
+        "title": "NH농협금융, 자산운용·IB '실전형 집중 교육 과정' 운영",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260620222011185"
+        "url": "https://v.daum.net/v/qGDLSllwcS"
+      }
+    },
+    {
+      "keyword": "일본 튀니지",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "튀니지 '소방수' 르나르 감독 \"나는 마법사가 아니야\"[월드컵]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260620093701980"
+      }
+    },
+    {
+      "keyword": "박은영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "박은영, 신혼집 공개 \"남편, 하석진 닮은꼴..젠틀해\" [전참시][별별TV]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260620233817717"
       }
     },
     {
@@ -77,15 +77,15 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"러 정유공장 폭발, 우크라 드론 격추하려던 미사일 오폭일 수도\"",
+        "title": "\"모스크바 아군오폭\"…러, 우크라 드론 막다 정유공장 불태웠나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260620192205358"
+        "url": "https://v.daum.net/v/20260620151304928"
       }
     },
     {
       "keyword": "이도현",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "이도현, 월드 클라이밍 6차 대회 볼더링 동메달",
         "source": "Daum",
@@ -93,13 +93,13 @@
       }
     },
     {
-      "keyword": "클로봇",
+      "keyword": "원희",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "미래에셋證 \"클로봇, 스팟의 핵심파트너...상용화 도입시 수혜 기대\"",
+        "title": "원희, 아일릿 정산 시작됐다..당당한 20살 “이젠 부모님 용돈 안 받아”(전참시)[종합]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260618082832337?f=p"
+        "url": "https://v.daum.net/v/20260621005506045"
       }
     }
   ]
