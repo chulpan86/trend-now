@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19T08:41:11.624540+09:00",
-    "label": "08:41",
-    "items": [
-      {
-        "keyword": "날씨",
-        "traffic_raw": "500000+",
-        "traffic": 500000,
-        "news": {
-          "title": "[날씨] 월드컵 2차전 '서울 33도'…밤부터 차츰 전국 비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619070603895"
-        }
-      },
-      {
-        "keyword": "동아일보",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "정청래, 李 대면뒤 “흔들리는 게 인생” 연임 의지… 당내 “당원이 심판”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260619/134140540/2"
-        }
-      },
-      {
-        "keyword": "canada vs qatar",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "En direct: Canada - Qatar",
-          "source": "Noovo Info",
-          "url": "https://www.noovo.info/nouvelles/sport/coupe-du-monde/article/en-direct-canada-qatar/"
-        }
-      },
-      {
-        "keyword": "김혜성",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이정후 빼고 다 팔고 싶은 SF, 6878억 3인방 트레이드 가능할까 “정말 어려운 상황, 상당한 대가 내줘야…”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618094051276"
-        }
-      },
-      {
-        "keyword": "반헤케",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[오피셜]'데제르비 체제, 로버트슨→세네시에 이어 3번째 보강' 토트넘, 네덜란드 국대 수비수 판 헤케 영입 확정..브라이턴에 이적료 5200만파운드 지불",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/06/19/HA4GINRSMEYTEMJSMU4TKNDGGA/"
-        }
-      },
-      {
-        "keyword": "남편들",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "셀럽들도 극찬…러닝타임 내내 웃느라 정신없었다는 화제의 '코미디 영화'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/UVXHpMMVGg"
-        }
-      },
-      {
-        "keyword": "天気",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "九州で局地的に激しい雨 道路冠水や浸水などに警戒",
-          "source": "ウェザーニュース",
-          "url": "https://weathernews.jp/news/202606/190051/"
-        }
-      },
-      {
-        "keyword": "단오절",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "20년 넘게 재를 넣어 찹쌀 경단을 만들어 왔습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hon-20-nam-lam-banh-u-tro"
-        }
-      },
-      {
-        "keyword": "한국 멕시코 경기 일정",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "네이버 ‘치지직’ 월드컵 흥행 성공… 이용자 수 급증하고 주가도 껑충",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619003522900"
-        }
-      },
-      {
-        "keyword": "규제",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "국평 한달새 2억 뛰었다…‘집값 상승률 1위’ 동탄, 규제 초읽기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619050151468"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-19T11:57:21.353725+09:00",
     "label": "11:57",
     "items": [
@@ -1373,6 +1267,112 @@
           "title": "[사진]류승민 '6회 균형을 깨는 선제 적시타'",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/sports/sports_photo/2026/06/20/GA2TENZVMJSTEYZZMRTDANRRGY/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-20T22:27:13.022262+09:00",
+    "label": "22:27",
+    "items": [
+      {
+        "keyword": "기아 야구",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘필승조 4명 휴식인데’ KIA, 어떻게 2위팀 격파했나…꽃감독 극찬세례 “이게 바로 카스트로 복귀 효과! 팀 공격 주도”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620052518118"
+        }
+      },
+      {
+        "keyword": "김가은",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'1번 시드' 김가은, 챔피언까지 2걸음!…마카오 오픈 준결승행+2번 시드 기권→'배드민턴 얼짱' 박가은도 4강 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YdVci99UZs"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "XSMT 21/6. Kết quả xổ số miền Trung hôm nay ngày 21/6/2026. XSMT chủ Nhật ngày 21/6",
+          "source": "Bnews.vn",
+          "url": "https://bnews.vn/xsmt-21-6-ket-qua-xo-so-mien-trung-hom-nay-ngay-21-6-2026-xsmt-chu-nhat-ngay-21-6/425839.html"
+        }
+      },
+      {
+        "keyword": "로또1229회",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "로또 1229회 당첨번호 조회···'1등 자동 5명·수동 2명·반자동 1명'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620211200596"
+        }
+      },
+      {
+        "keyword": "해미천교",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "충남 서산시 해미천서 여중생 2명 물에 빠져···1명 사망·1명 회복 중",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606191941001"
+        }
+      },
+      {
+        "keyword": "성영탁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"2군에 내려가고 싶지 않다\" 2007년생 KIA 신인, 성영탁처럼 믿을 수 있는 투수를 꿈꾼다 [광주 인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5BLauRRftj"
+        }
+      },
+      {
+        "keyword": "청주시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[청주소식] 김현호·김현진 등 시민대상 수상자 5명 선정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260620036000064"
+        }
+      },
+      {
+        "keyword": "라이즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'놀토' 보넥도 성호, 미션 하드캐리 성공…\"회사서 칭찬받을 듯\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620202630950"
+        }
+      },
+      {
+        "keyword": "클로봇",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "미래에셋證 \"클로봇, 스팟의 핵심파트너...상용화 도입시 수혜 기대\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260618082832337?f=p"
+        }
+      },
+      {
+        "keyword": "배민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "우아한형제들 \"3천억 지원 상생안 무산 아쉬워\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260618023600038"
         }
       }
     ]
