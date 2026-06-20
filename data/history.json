@@ -1368,5 +1368,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-20T09:00:17.606931+09:00",
+    "label": "09:00",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "오늘까지 전국에 물폭탄 쏟아진다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/06/20/KIGIFDXLDVHKFEKG7S4BXTS34M/"
+        }
+      },
+      {
+        "keyword": "weather",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "News Tonight - Top Headlines and Weather for June 19",
+          "source": "Tampa Bay 28",
+          "url": "https://www.tampabay28.com/news/local-news/news-tonight-top-headlines-and-weather-for-june-19"
+        }
+      },
+      {
+        "keyword": "성빈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'윤주모' 성동일 \"첫째 성준, 지금도 동생 잘 겨…삼남매 큰 재산\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619180031737?f=p"
+        }
+      },
+      {
+        "keyword": "마카오 오픈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'1번 시드' 김가은, 챔피언까지 2걸음!…마카오 오픈 준결승행+2번 시드 기권→'배드민턴 얼짱' 박가은도 4강 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YdVci99UZs"
+        }
+      },
+      {
+        "keyword": "모로코",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "모로코와 글로벌 채용 시스템.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/morocco-va-he-thong-chieu-mo-toan-cau"
+        }
+      },
+      {
+        "keyword": "스포티비뉴스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "임우일 \"이삿날 세탁기 사라며 유재석이 100만원 쾌척\"('전현무계획3')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620073216399"
+        }
+      },
+      {
+        "keyword": "보건복지부",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "도수치료 회당 4만 원‥관리급여 전환 위한 고시 개정안 행정예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619175508549"
+        }
+      },
+      {
+        "keyword": "영국",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'북부의 왕'이 돌아왔다…영국 총리 교체 수순?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619195605749"
+        }
+      },
+      {
+        "keyword": "天氣",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Air quality alerts prompt health warnings in Wisconsin",
+          "source": "WBAY",
+          "url": "https://www.wbay.com/2026/06/19/air-quality-alerts-prompt-health-warnings-wisconsin/"
+        }
+      },
+      {
+        "keyword": "농협은행",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "홍진의 농협 평택지부장 “고령층 폭염·금융 사기 피해 방지 주력”",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1325334"
+        }
+      }
+    ]
   }
 ]
