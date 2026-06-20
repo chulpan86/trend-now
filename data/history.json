@@ -1482,5 +1482,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-21T04:09:04.715569+09:00",
+    "label": "04:09",
+    "items": [
+      {
+        "keyword": "호르 무즈 해협 봉쇄",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "[속보] 이란군 \"호르무즈 재봉쇄‥미·이스라엘 종전 MOU 위반 탓\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6831665_36925.html"
+        }
+      },
+      {
+        "keyword": "netherlands vs sweden",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Netherlands 5-1 Sweden: Cody Gakpo and Brian Bobbey score doubles in big Dutch win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c4gyp88nyl7t"
+        }
+      },
+      {
+        "keyword": "네덜란드 축구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "축구: 일본·네덜란드·독일 조별 예선 2차전 라이브 스코어·경기 결과 - FIFA 월드컵 2026",
+          "source": "Olympic Channel",
+          "url": "https://www.olympics.com/ko/news/fifa-world-cup-2026-live-scores-20-june-results"
+        }
+      },
+      {
+        "keyword": "일본 튀니지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "튀니지 '소방수' 르나르 감독 \"나는 마법사가 아니야\"[월드컵]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620093701980"
+        }
+      },
+      {
+        "keyword": "농협",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "NH농협금융, 자산운용·IB '실전형 집중 교육 과정' 운영",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qGDLSllwcS"
+        }
+      },
+      {
+        "keyword": "박은영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박은영, 신혼집 공개 \"남편, 하석진 닮은꼴..젠틀해\" [전참시][별별TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620233817717"
+        }
+      },
+      {
+        "keyword": "홀란드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "축구 스타 엘링 홀란드의 사적인 여자친구의 초상화.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chan-dung-ban-gai-kin-tieng-cua-sieu-sao-bong-da-erling-haaland"
+        }
+      },
+      {
+        "keyword": "즐라탄",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[월드컵] 아빠는 슈퍼볼 반지·아들은 WC 데뷔골…프리먼 가문의 영광",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260620024800007"
+        }
+      },
+      {
+        "keyword": "grok",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Pentagon AI chief: Musk’s Grok chatbot used to launch thousands of missiles at Iran",
+          "source": "The Hill",
+          "url": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/"
+        }
+      },
+      {
+        "keyword": "원희",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "원희, 아일릿 정산 시작됐다..당당한 20살 “이젠 부모님 용돈 안 받아”(전참시)[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621005506045"
+        }
+      }
+    ]
   }
 ]

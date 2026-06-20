@@ -1,55 +1,35 @@
 {
-  "timestamp": "2026-06-21T02:15:22.857351+09:00",
-  "label": "02:15",
+  "timestamp": "2026-06-21T04:09:04.715569+09:00",
+  "label": "04:09",
   "items": [
     {
-      "keyword": "신입사원 강회장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "호르 무즈 해협 봉쇄",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "‘신입사원 강회장’ 이준영, 정체 탄로날까…판 흔든 킹메이커에 ‘시선 집중’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620131142570"
+        "title": "[속보] 이란군 \"호르무즈 재봉쇄‥미·이스라엘 종전 MOU 위반 탓\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6831665_36925.html"
       }
     },
     {
-      "keyword": "이옥섭",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "정해인X최수영X조정석X심은경X이민호, 심사위원 '미쟝센'이 대작 [포토] - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/movie/2026/06/18/MQ2TMNJZMZTDIMLDMMZTEODDMU/"
-      }
-    },
-    {
-      "keyword": "네덜란드 스웨덴",
+      "keyword": "netherlands vs sweden",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"내 책임이다\" '죽음의 조' F조 日 잡지 못한 네덜란드 감독…교체 전략 결국 사과 \"원하는 것 달성하지 못했다\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/06/20/GU2TAMZTGE2DIMLBMYYGKZBRGM/"
+        "title": "Netherlands 5-1 Sweden: Cody Gakpo and Brian Bobbey score doubles in big Dutch win",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c4gyp88nyl7t"
       }
     },
     {
-      "keyword": "심수봉",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'올해 70세' 심수봉 \"소리 못 듣는 희귀병 앓고 있어\" 심경 토로",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026061808160004554"
-      }
-    },
-    {
-      "keyword": "농협",
+      "keyword": "네덜란드 축구",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "NH농협금융, 자산운용·IB '실전형 집중 교육 과정' 운영",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qGDLSllwcS"
+        "title": "축구: 일본·네덜란드·독일 조별 예선 2차전 라이브 스코어·경기 결과 - FIFA 월드컵 2026",
+        "source": "Olympic Channel",
+        "url": "https://www.olympics.com/ko/news/fifa-world-cup-2026-live-scores-20-june-results"
       }
     },
     {
@@ -63,6 +43,16 @@
       }
     },
     {
+      "keyword": "농협",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "NH농협금융, 자산운용·IB '실전형 집중 교육 과정' 운영",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qGDLSllwcS"
+      }
+    },
+    {
       "keyword": "박은영",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -73,23 +63,33 @@
       }
     },
     {
-      "keyword": "미사일",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "홀란드",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "\"모스크바 아군오폭\"…러, 우크라 드론 막다 정유공장 불태웠나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620151304928"
+        "title": "축구 스타 엘링 홀란드의 사적인 여자친구의 초상화.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/chan-dung-ban-gai-kin-tieng-cua-sieu-sao-bong-da-erling-haaland"
       }
     },
     {
-      "keyword": "이도현",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "즐라탄",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "이도현, 월드 클라이밍 6차 대회 볼더링 동메달",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620135005971"
+        "title": "[월드컵] 아빠는 슈퍼볼 반지·아들은 WC 데뷔골…프리먼 가문의 영광",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260620024800007"
+      }
+    },
+    {
+      "keyword": "grok",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Pentagon AI chief: Musk’s Grok chatbot used to launch thousands of missiles at Iran",
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/"
       }
     },
     {
