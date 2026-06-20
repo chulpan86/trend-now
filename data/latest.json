@@ -1,16 +1,32 @@
 {
-  "timestamp": "2026-06-21T04:09:04.715569+09:00",
-  "label": "04:09",
+  "timestamp": "2026-06-21T06:03:59.376553+09:00",
+  "label": "06:03",
   "items": [
     {
-      "keyword": "호르 무즈 해협 봉쇄",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "독일 대 코트디부아르",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[속보] 이란군 \"호르무즈 재봉쇄‥미·이스라엘 종전 MOU 위반 탓\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6831665_36925.html"
+        "title": "한국 4-0, 프랑스 2-1… 무서운 코트디부아르, 이번엔 독일? 파예 감독 \"구경하러 온 거 아니다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/uQrms6LxlO"
       }
+    },
+    {
+      "keyword": "호르 무즈 해협 봉쇄",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "네타냐후, 결국 종전 흔들었다…이란 “호르무즈 재봉쇄”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260620225551487"
+      }
+    },
+    {
+      "keyword": "구속영장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
     },
     {
       "keyword": "netherlands vs sweden",
@@ -23,43 +39,33 @@
       }
     },
     {
-      "keyword": "네덜란드 축구",
+      "keyword": "germany vs ivory coast",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "축구: 일본·네덜란드·독일 조별 예선 2차전 라이브 스코어·경기 결과 - FIFA 월드컵 2026",
-        "source": "Olympic Channel",
-        "url": "https://www.olympics.com/ko/news/fifa-world-cup-2026-live-scores-20-june-results"
+        "title": "FIFA World Cup Group E LIVE: Germany vs Ivory Coast - score, radio commentary, text updates & match stats",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cn8q9pp0p94t"
       }
     },
     {
-      "keyword": "일본 튀니지",
+      "keyword": "디오망데",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "튀니지 '소방수' 르나르 감독 \"나는 마법사가 아니야\"[월드컵]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620093701980"
+        "title": "'PSG도 있다' HERE WE GO 속보! 리버풀, 코트디부아르 국대 윙어 디오망데 영입 1억유로 제안 거절당했다..'튕기는' 라이프치히 '1.2억유로부터 협상하자'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/06/19/GAZWMYJYGJRWKM3FMU4WEMRYGE/"
       }
     },
     {
-      "keyword": "농협",
+      "keyword": "이요원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "NH농협금융, 자산운용·IB '실전형 집중 교육 과정' 운영",
+        "title": "이요원, 현실 엄마였네..'미 명문대 졸업' 딸과 합가 생각에 막막 \"힘들어\"(살림남2)[핫피플]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/qGDLSllwcS"
-      }
-    },
-    {
-      "keyword": "박은영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "박은영, 신혼집 공개 \"남편, 하석진 닮은꼴..젠틀해\" [전참시][별별TV]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620233817717"
+        "url": "https://v.daum.net/v/20260620215703992"
       }
     },
     {
@@ -90,16 +96,6 @@
         "title": "Pentagon AI chief: Musk’s Grok chatbot used to launch thousands of missiles at Iran",
         "source": "The Hill",
         "url": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/"
-      }
-    },
-    {
-      "keyword": "원희",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "원희, 아일릿 정산 시작됐다..당당한 20살 “이젠 부모님 용돈 안 받아”(전참시)[종합]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621005506045"
       }
     }
   ]
