@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18T22:56:05.788405+09:00",
-    "label": "22:56",
-    "items": [
-      {
-        "keyword": "내일 날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "초여름 폭염 뒤 최대 200㎜ 비…기상청 \"장마 시작은 아니다\"[날씨와삶]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618212432492"
-        }
-      },
-      {
-        "keyword": "투자",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "\"삼전닉스 랠리 언제 끝나요\"…투자 전문가의 '깜짝' 전망",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026061851711"
-        }
-      },
-      {
-        "keyword": "weather tomorrow",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "Tornadoes Reported in Wisconsin and Illinois as Violent Storms Sweep the Midwest",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/17/weather/tornadoes-news-illinois-wisconsin-indiana.html"
-        }
-      },
-      {
-        "keyword": "앱솔릭스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "SKC “美 글라스기판 2공장 증설 백지화 사실 아냐”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618143103327"
-        }
-      },
-      {
-        "keyword": "문채원",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'유튜브' 문채원, 자차+운전 실력 공개…\"무조건 작은 차 원했다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618184748223"
-        }
-      },
-      {
-        "keyword": "yeouido",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "GS Engineering Drops Apgujeong to Focus on Yeouido, Mokdong",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/finance/2026/06/18/gs-engineering-drops-apgujeong-to-focus-on-yeouido-mokdong"
-        }
-      },
-      {
-        "keyword": "thời tiết ngày mai",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Tin nắng nóng Hà Nội mới nhất, Hà Nội sắp oi nóng 39 độ C, miền Bắc nắng nóng gay gắt ngay đầu tuần",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/tin-nang-nong-ha-noi-moi-nhat-ha-noi-sap-oi-nong-39-do-c-mien-bac-nang-nong-gay-gat-ngay-dau-tuan"
-        }
-      },
-      {
-        "keyword": "fifa 월드컵 조별 리그",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "2026 FIFA 월드컵™ 경기 일정 및 VTV 생중계 (6월 19일): 멕시코 vs. 한국.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lich-thi-dau-va-truc-tiep-fifa-world-cup-2026tm-tren-vtv-ngay-19-6-dai-chien-mexico-han-quoc"
-        }
-      },
-      {
-        "keyword": "사나",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "트와이스, 티젠과 함께합니다",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260618000665"
-        }
-      },
-      {
-        "keyword": "버락 오바마",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "오바마센터 개관식에 톱스타 총출동…트럼프 행사는 줄줄이 보이콧",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260618/134135541/1"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-19T01:52:35.789753+09:00",
-    "label": "01:52",
-    "items": [
-      {
-        "keyword": "체코 대 남아공",
-        "traffic_raw": "50000+",
-        "traffic": 50000,
-        "news": {
-          "title": "체코 감독 \"멕시코보다 한국 더 인상적…역동적인 팀\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/62DaMssANS"
-        }
-      },
-      {
-        "keyword": "czechia vs south africa",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Czech Republic vs South Africa LIVE: Watch FIFA World Cup Group A TV stream, score, commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cp8rk9gwzjnt"
-        }
-      },
-      {
-        "keyword": "일리아 토푸리아",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“180일 출전 정지” 얼굴 퉁퉁 붓고 UFC 챔피언 내준 토푸리아, 당분간 옥타곤서 못 본다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/KPS4NyyOsu"
-        }
-      },
-      {
-        "keyword": "gta6",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o"
-        }
-      },
-      {
-        "keyword": "정수빈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "44일 만에 등판한 kt 소형준, 두산전 5이닝 1실점 호투",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/UX992yyOYz"
-        }
-      },
-      {
-        "keyword": "상동광산",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "영월 땅밑에 반도체 ‘꿈의 신소재’ 몰리브덴 60년치 있나…상동광산 주목",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/gangwon/1264174.html"
-        }
-      },
-      {
-        "keyword": "대한민국 공정거래위원회",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "imdb",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Daveigh Chase, Star of 'The Ring' and 'Lilo & Stitch,' Dead at 35",
-          "source": "TMZ",
-          "url": "https://www.tmz.com/2026/06/17/daveigh-chase-dead/"
-        }
-      },
-      {
-        "keyword": "김장훈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "리센느, \"에버랜드 야호!\"…'고나리자' 김장훈 만났다 [단독]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260616112505807"
-        }
-      },
-      {
-        "keyword": "明天的天氣",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "今明午後有對流端午連假防中暑",
-          "source": "氣象應用推廣基金會",
-          "url": "http://www.metapp.org.tw/index.php/bossweathernews/3881-2026-06-15-21-05-50"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-19T04:16:04.837108+09:00",
     "label": "04:16",
     "items": [
@@ -1471,6 +1263,112 @@
           "title": "홍진의 농협 평택지부장 “고령층 폭염·금융 사기 피해 방지 주력”",
           "source": "인천일보",
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1325334"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-20T14:03:01.661620+09:00",
+    "label": "14:03",
+    "items": [
+      {
+        "keyword": "태풍",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "미시령 149㎜ 물폭탄…설악산 통제·산사태 경보 상향",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/06/20/UTGHR6P2AFDAPMXQUK6T6YJQGA/"
+        }
+      },
+      {
+        "keyword": "어머니",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "환희 무대에 관객들 대거 이탈 '충격'..母 \"우리 아들 불쌍해\" 눈물(살림남)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619085107149"
+        }
+      },
+      {
+        "keyword": "이의리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이의리→윤영철→조대현→이 선수까지… 이어지는 KIA 잔혹사, 막연한 환상은 안 된다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620070152058"
+        }
+      },
+      {
+        "keyword": "손석희",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"전 재산 묶여\" JTBC 앞 절규…새벽 기차 타고 상경한 60대 여성의 눈물",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619145634423"
+        }
+      },
+      {
+        "keyword": "인도네시아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[특파원 시선] '동남아 최대 규모' 인도네시아 경제 심상치 않다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620070913168"
+        }
+      },
+      {
+        "keyword": "강예원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] '11억 채무' 강예원 \"그 아버지에 그 딸\" 책임감으로 나섰다 (인터뷰①)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620070200074"
+        }
+      },
+      {
+        "keyword": "터키",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "오늘(6월 20일) 오전 10시, 터키와 파라과이의 축구 경기 생중계: 우승 후보에게도 쉽지 않은 경기가 될 것 같습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-tho-nhi-ky-vs-paraguay-10h00-hom-nay-20-6-khong-de-cho-cua-tren"
+        }
+      },
+      {
+        "keyword": "튀르키예",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"튀르키예, 차기 원전 건설에 캐나다 기술 도입 검토\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617235402687?f=p"
+        }
+      },
+      {
+        "keyword": "토요타 rav4",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[시승기] PHEV 주행성능 탄탄한 도요타 '올 뉴 라브4'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260619168700003"
+        }
+      },
+      {
+        "keyword": "오타니",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "MLB 슈퍼스타 오타니, 둘째 출산 앞두고 볼티모어전 결장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620111704294"
         }
       }
     ]

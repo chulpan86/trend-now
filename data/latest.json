@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-20T09:00:17.606931+09:00",
-  "label": "09:00",
+  "timestamp": "2026-06-20T14:03:01.661620+09:00",
+  "label": "14:03",
   "items": [
     {
-      "keyword": "날씨",
+      "keyword": "태풍",
       "traffic_raw": "200000+",
       "traffic": 200000,
       "news": {
-        "title": "오늘까지 전국에 물폭탄 쏟아진다",
+        "title": "미시령 149㎜ 물폭탄…설악산 통제·산사태 경보 상향",
         "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/06/20/KIGIFDXLDVHKFEKG7S4BXTS34M/"
+        "url": "https://www.chosun.com/national/regional/2026/06/20/UTGHR6P2AFDAPMXQUK6T6YJQGA/"
       }
     },
     {
-      "keyword": "weather",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "어머니",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "News Tonight - Top Headlines and Weather for June 19",
-        "source": "Tampa Bay 28",
-        "url": "https://www.tampabay28.com/news/local-news/news-tonight-top-headlines-and-weather-for-june-19"
+        "title": "환희 무대에 관객들 대거 이탈 '충격'..母 \"우리 아들 불쌍해\" 눈물(살림남)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260619085107149"
       }
     },
     {
-      "keyword": "성빈",
+      "keyword": "이의리",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'윤주모' 성동일 \"첫째 성준, 지금도 동생 잘 겨…삼남매 큰 재산\"",
+        "title": "이의리→윤영철→조대현→이 선수까지… 이어지는 KIA 잔혹사, 막연한 환상은 안 된다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260619180031737?f=p"
+        "url": "https://v.daum.net/v/20260620070152058"
       }
     },
     {
-      "keyword": "마카오 오픈",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "손석희",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'1번 시드' 김가은, 챔피언까지 2걸음!…마카오 오픈 준결승행+2번 시드 기권→'배드민턴 얼짱' 박가은도 4강 진출",
+        "title": "\"전 재산 묶여\" JTBC 앞 절규…새벽 기차 타고 상경한 60대 여성의 눈물",
         "source": "Daum",
-        "url": "https://v.daum.net/v/YdVci99UZs"
+        "url": "https://v.daum.net/v/20260619145634423"
       }
     },
     {
-      "keyword": "모로코",
+      "keyword": "인도네시아",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[특파원 시선] '동남아 최대 규모' 인도네시아 경제 심상치 않다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260620070913168"
+      }
+    },
+    {
+      "keyword": "강예원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "모로코와 글로벌 채용 시스템.",
+        "title": "[단독] '11억 채무' 강예원 \"그 아버지에 그 딸\" 책임감으로 나섰다 (인터뷰①)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260620070200074"
+      }
+    },
+    {
+      "keyword": "터키",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "오늘(6월 20일) 오전 10시, 터키와 파라과이의 축구 경기 생중계: 우승 후보에게도 쉽지 않은 경기가 될 것 같습니다.",
         "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/morocco-va-he-thong-chieu-mo-toan-cau"
+        "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-tho-nhi-ky-vs-paraguay-10h00-hom-nay-20-6-khong-de-cho-cua-tren"
       }
     },
     {
-      "keyword": "스포티비뉴스",
+      "keyword": "튀르키예",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "임우일 \"이삿날 세탁기 사라며 유재석이 100만원 쾌척\"('전현무계획3')",
+        "title": "\"튀르키예, 차기 원전 건설에 캐나다 기술 도입 검토\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260620073216399"
+        "url": "https://v.daum.net/v/20260617235402687?f=p"
       }
     },
     {
-      "keyword": "보건복지부",
+      "keyword": "토요타 rav4",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[시승기] PHEV 주행성능 탄탄한 도요타 '올 뉴 라브4'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260619168700003"
+      }
+    },
+    {
+      "keyword": "오타니",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "도수치료 회당 4만 원‥관리급여 전환 위한 고시 개정안 행정예고",
+        "title": "MLB 슈퍼스타 오타니, 둘째 출산 앞두고 볼티모어전 결장",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260619175508549"
-      }
-    },
-    {
-      "keyword": "영국",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'북부의 왕'이 돌아왔다…영국 총리 교체 수순?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260619195605749"
-      }
-    },
-    {
-      "keyword": "天氣",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Air quality alerts prompt health warnings in Wisconsin",
-        "source": "WBAY",
-        "url": "https://www.wbay.com/2026/06/19/air-quality-alerts-prompt-health-warnings-wisconsin/"
-      }
-    },
-    {
-      "keyword": "농협은행",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "홍진의 농협 평택지부장 “고령층 폭염·금융 사기 피해 방지 주력”",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1325334"
+        "url": "https://v.daum.net/v/20260620111704294"
       }
     }
   ]
