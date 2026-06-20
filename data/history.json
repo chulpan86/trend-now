@@ -1584,5 +1584,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-21T07:57:43.285389+09:00",
+    "label": "07:57",
+    "items": [
+      {
+        "keyword": "튀르키예 축구 국가대표팀",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "입 가리고 말했다가 ‘레드카드’…1호 퇴장 불명예",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8590904"
+        }
+      },
+      {
+        "keyword": "sk하이닉스",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"SK하이닉스 대신 담았는데\"…한 달 새 40% 넘게 오른 기업 [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026061971246"
+        }
+      },
+      {
+        "keyword": "나는 solo",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'나는 솔로' 32기 상철, 3년 전 방송 출연 파묘됐다 \"19살에 연봉 5000만원\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/06/20/MEYGEOJVMMZGGODFGM2TEMTCGQ/"
+        }
+      },
+      {
+        "keyword": "최준희",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘故 최진실 딸’ 최준희, 무당이 전한 엄마 말에 울컥…“준희야 사랑해”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606191113003"
+        }
+      },
+      {
+        "keyword": "손예진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "손예진, 아들만 보면 주체할 수 없는 입꼬리…\"3일째\" 여행 중 아들과 투샷",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Vk3g4z6b13"
+        }
+      },
+      {
+        "keyword": "토요타 rav4",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[시승기] 괴물 연비에 세단급 승차감은 기본… 취향 따라 골라 타는 ‘올 뉴 라브4′ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/car/2026/06/20/45SEL6JCZFHX3JSGDAQMJFYIF4/"
+        }
+      },
+      {
+        "keyword": "우크라이나",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"러 정유공장 폭발, 우크라 드론 격추하려던 미사일 오폭일 수도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620192205358"
+        }
+      },
+      {
+        "keyword": "축제",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“年 관광객 1억명 찾는 스페인…韓 지역축제 차별화·숙소 관리해야” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/06/20/NAIXFI2IINBD5PQXXCLEQHNTVI/"
+        }
+      },
+      {
+        "keyword": "정형돈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "박명수, 무도 시절 정형돈 '배척' 폭로에 눈 질끈 \"진심으로 미안했다\" ('하와수') [순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/06/21/GU4DKOJVGQYTSMLGMQYTSYJQG4/"
+        }
+      },
+      {
+        "keyword": "giải bóng đá thế giới 2026",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Trực tiếp bóng đá Ecuador - Curacao: Đứng dậy sau thất bại (World Cup)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/world-cup-2026/truc-tiep-bong-da-ecuador-curacao-dung-day-sau-that-bai-world-cup-c860a1771816.html"
+        }
+      }
+    ]
   }
 ]
