@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19T04:16:04.837108+09:00",
-    "label": "04:16",
-    "items": [
-      {
-        "keyword": "체코 대 남아공",
-        "traffic_raw": "50000+",
-        "traffic": 50000,
-        "news": {
-          "title": "남아공, 체코와 1-1, 한국 잠시 뒤 멕시코 이기면 32강행 확정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619030106803"
-        }
-      },
-      {
-        "keyword": "세균",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "돈 아끼려다 '세균 폭탄' 맞는다…남은 샴푸에 물 부으면 생기는 일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618210830182"
-        }
-      },
-      {
-        "keyword": "czechia vs south africa",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Czech Republic Leads South Africa 1-0, Mokoena's Yellow Aids South Korea",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/19/5NB6L7V3ONC7JI4JCQDG5YLCFI/"
-        }
-      },
-      {
-        "keyword": "gta6",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Grand Theft Auto VI Pre-Orders Begin on June 25",
-          "source": "Rockstar Games",
-          "url": "https://www.rockstargames.com/newswire/article/517oa135328155/grand-theft-auto-vi-pre-orders-begin-on-june-25"
-        }
-      },
-      {
-        "keyword": "블루제이스 대 레드삭스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Game 72: Red Sox look to avoid sweep in matinee vs. Blue Jays",
-          "source": "The Boston Globe",
-          "url": "https://www.bostonglobe.com/2026/06/18/sports/red-sox-blue-jays-preview-june-18/"
-        }
-      },
-      {
-        "keyword": "디오망데",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "리버풀은 얀 디오망데 영입을 위해 1억 3천만 유로를 투자할 준비가 되어 있으며, 레알 마드리드는 루벤 디아스를 목표로 하고 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/liverpool-san-sang-chi-130-trieu-euro-cho-yan-diomande-real-madrid-nham-ruben-dias"
-        }
-      },
-      {
-        "keyword": "대한민국 공정거래위원회",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "정수빈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "두산, kt 꺾고 5위 사수…'손가락 부상' 정수빈 결승 득점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260618171100007"
-        }
-      },
-      {
-        "keyword": "상동광산",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "영월 상동 몰리브덴 시추 '긍정적'…전략광물 국산화 기대감 커",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260618116800062"
-        }
-      },
-      {
-        "keyword": "imdb",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Daveigh Chase, ‘Lilo & Stitch’ Voice Actor and ‘The Ring’ Villain, Dies at 35",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-19T06:56:50.603629+09:00",
     "label": "06:56",
     "items": [
@@ -1369,6 +1267,112 @@
           "title": "MLB 슈퍼스타 오타니, 둘째 출산 앞두고 볼티모어전 결장",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260620111704294"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-20T17:40:00.167636+09:00",
+    "label": "17:40",
+    "items": [
+      {
+        "keyword": "강릉 단오제",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "나무 쓰러지고 택시 뒤집히고…전국 곳곳에서 강풍·호우 피해",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606201158001"
+        }
+      },
+      {
+        "keyword": "드라마",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "시청률 49.4% 이어받나…주말극 1위 후속작→황금 캐스팅으로 입소문 탄 韓 드라마 ('사랑이 온다')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620120216794"
+        }
+      },
+      {
+        "keyword": "집",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "향후 몇 년 안에 임대 주택 시장이 활성화될까요?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nha-o-cho-thue-se-cat-canh-trong-nhung-nam-toi"
+        }
+      },
+      {
+        "keyword": "양 의지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[사진]양의지 '안타' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/06/17/G5QTOZTGHFTDIZRUHA4TMMDBHE/"
+        }
+      },
+      {
+        "keyword": "장생포 고래 문화 마을 수 국정원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“미친 공무원에 감사” 현수막 화제…올해 무료로 풀린 꽃 명소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620070225097"
+        }
+      },
+      {
+        "keyword": "이범호",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘필승조 4명 휴식인데’ KIA, 어떻게 2위팀 격파했나…꽃감독 극찬세례 “이게 바로 카스트로 복귀 효과! 팀 공격 주도”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260620052518118"
+        }
+      },
+      {
+        "keyword": "보스턴다이내믹스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "현대차그룹, 보스턴다이내믹스 지분 100% 품을 듯",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619202304172"
+        }
+      },
+      {
+        "keyword": "르윈 디아즈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김도영 홈런만 1위가 아니다, 이것도 1위다…여전히 韓 최고타자라는 증거, KIA 승리 22% 책임졌다[MD광주]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260619061143002"
+        }
+      },
+      {
+        "keyword": "김용범",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김용범 \"반도체발 국부, 부동산 흡수되면 호황 오래 못 가‥보유·양도세 조정 필요\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6831618_36911.html"
+        }
+      },
+      {
+        "keyword": "한상진",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'부산 사위' 한상진·박정은 부부, 유퀴즈서 부산 이야기 했네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1zT95ffzj8?f=p"
         }
       }
     ]
