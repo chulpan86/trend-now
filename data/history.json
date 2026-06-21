@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20T07:43:51.767016+09:00",
-    "label": "07:43",
-    "items": [
-      {
-        "keyword": "임신",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "43세 앤 해서웨이, 셋째 임신 공식 발표…D라인 감싸안으며 행복 미소[Oh!llywood]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/06/20/MY2TGNDGMFSTOZTGMQ3GGZJRMM/"
-        }
-      },
-      {
-        "keyword": "박현경",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'이글 2개' 서교림, LPGA 더헤븐 마스터즈 첫날 '공동 선두'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260619155800007"
-        }
-      },
-      {
-        "keyword": "weather",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Denver weather: Sunny and hot on Saturday",
-          "source": "KDVR",
-          "url": "https://kdvr.com/weather/weather-forecast/denver-weather-sunny-and-hot-on-saturday/"
-        }
-      },
-      {
-        "keyword": "스코틀랜드 대 모로코",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘무려 반세기 걸렸는데’…월드컵 복귀 국가들, 첫 경기서 ‘희비 교차’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2zU9w11yHv?f=p"
-        }
-      },
-      {
-        "keyword": "최저임금",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "내년에도 최저임금 차등 없다…전 업종 단일 적용 의결",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/UWiR4GGhEe"
-        }
-      },
-      {
-        "keyword": "날씨 서울",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "광주·전남 밤사이 최다 65㎜ 비…오후부터 그쳐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620052805134"
-        }
-      },
-      {
-        "keyword": "scotland vs morocco",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Scotland vs Morocco LIVE: FIFA World Cup 2026 Group C score, radio commentary, prediction & stats",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/crr8dw70x51t"
-        }
-      },
-      {
-        "keyword": "lịch thi đấu world cup 2026",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "(World Cup) Hàn Quốc thua Mexico, nhận thất bại đầu tiên tại Bảng A",
-          "source": "연합뉴스",
-          "url": "https://vi.yna.co.kr/view/AVI20260619000700880"
-        }
-      },
-      {
-        "keyword": "노태악",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“투표지 축소 인쇄 보고 못받았다”던 노태악, 뒤늦게 말바꿔",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260619/134147795/2"
-        }
-      },
-      {
-        "keyword": "아이폰",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-20T09:00:17.606931+09:00",
-    "label": "09:00",
-    "items": [
-      {
-        "keyword": "날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "오늘까지 전국에 물폭탄 쏟아진다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/06/20/KIGIFDXLDVHKFEKG7S4BXTS34M/"
-        }
-      },
-      {
-        "keyword": "weather",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "News Tonight - Top Headlines and Weather for June 19",
-          "source": "Tampa Bay 28",
-          "url": "https://www.tampabay28.com/news/local-news/news-tonight-top-headlines-and-weather-for-june-19"
-        }
-      },
-      {
-        "keyword": "성빈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'윤주모' 성동일 \"첫째 성준, 지금도 동생 잘 겨…삼남매 큰 재산\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619180031737?f=p"
-        }
-      },
-      {
-        "keyword": "마카오 오픈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'1번 시드' 김가은, 챔피언까지 2걸음!…마카오 오픈 준결승행+2번 시드 기권→'배드민턴 얼짱' 박가은도 4강 진출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YdVci99UZs"
-        }
-      },
-      {
-        "keyword": "모로코",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "모로코와 글로벌 채용 시스템.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/morocco-va-he-thong-chieu-mo-toan-cau"
-        }
-      },
-      {
-        "keyword": "스포티비뉴스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "임우일 \"이삿날 세탁기 사라며 유재석이 100만원 쾌척\"('전현무계획3')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620073216399"
-        }
-      },
-      {
-        "keyword": "보건복지부",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "도수치료 회당 4만 원‥관리급여 전환 위한 고시 개정안 행정예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619175508549"
-        }
-      },
-      {
-        "keyword": "영국",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'북부의 왕'이 돌아왔다…영국 총리 교체 수순?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619195605749"
-        }
-      },
-      {
-        "keyword": "天氣",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Air quality alerts prompt health warnings in Wisconsin",
-          "source": "WBAY",
-          "url": "https://www.wbay.com/2026/06/19/air-quality-alerts-prompt-health-warnings-wisconsin/"
-        }
-      },
-      {
-        "keyword": "농협은행",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "홍진의 농협 평택지부장 “고령층 폭염·금융 사기 피해 방지 주력”",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1325334"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-20T14:03:01.661620+09:00",
     "label": "14:03",
     "items": [
@@ -1472,6 +1260,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-21T21:04:46.002056+09:00",
+    "label": "21:04",
+    "items": [
+      {
+        "keyword": "위르겐 클린스만",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "홍명보 직접 밝혔다! \"손흥민 조기 교체 이유는…\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621171351071"
+        }
+      },
+      {
+        "keyword": "보행자",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "승용차가 인도 덮쳐…보행자 2명 사망·3명 부상",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8591092"
+        }
+      },
+      {
+        "keyword": "찰스 3세",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "英왕실 망신살에 찰스 3세 '결단'...사상 최초 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621190432243"
+        }
+      },
+      {
+        "keyword": "문정빈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "LG, 1회말 솔로홈런 4방 '쾅쾅쾅쾅'…주말 3연전 싹쓸이(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260621039452007"
+        }
+      },
+      {
+        "keyword": "송영길",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "송영길 “鄭, 대통령과 싸우려고 출마”…최민희 “허위주장으로 선전포고”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621163942412"
+        }
+      },
+      {
+        "keyword": "일본 엔",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[뉴욕환시-주간] '매파 연준' 속 162엔 가시권…日 추가 개입 촉각",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421066"
+        }
+      },
+      {
+        "keyword": "신천지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정교유착 비리 합수본 첫 신병 확보...이만희 수사 주력",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202606202305241628"
+        }
+      },
+      {
+        "keyword": "신장식",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "조국혁신당, 민주당에 '국정운영 원팀 플랫폼 구성' 제안",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6831729_36911.html"
+        }
+      },
+      {
+        "keyword": "김양",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김양, 26년 혈액암 투병 母와 이별..어제(20일) 모친상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621105216939"
+        }
+      },
+      {
+        "keyword": "xsmn",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "XSDL 21/6 - Kết quả xổ số Đà Lạt hôm nay chủ nhật ngày 21/6/2026",
+          "source": "VOH",
+          "url": "https://voh.com.vn/xsdl-21-6-ket-qua-xo-so-da-lat-hom-nay-chu-nhat-ngay-21-6-2026-657600.html"
+        }
       }
     ]
   }

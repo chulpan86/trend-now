@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-06-21T18:35:19.439926+09:00",
-  "label": "18:35",
+  "timestamp": "2026-06-21T21:04:46.002056+09:00",
+  "label": "21:04",
   "items": [
     {
-      "keyword": "장기 기증",
+      "keyword": "위르겐 클린스만",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "홍명보 직접 밝혔다! \"손흥민 조기 교체 이유는…\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621171351071"
+      }
+    },
+    {
+      "keyword": "보행자",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "술집에서 회사원 때려 죽인 20대 징역 6년…피해자, 7명에 장기기증하고 떠나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620151001888"
+        "title": "승용차가 인도 덮쳐…보행자 2명 사망·3명 부상",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8591092"
       }
     },
     {
-      "keyword": "조국혁신당",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "찰스 3세",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "조국, “우리가 숫자 채우기용이냐”...민주당에 평택을 공천 10대 질문 던져",
+        "title": "英왕실 망신살에 찰스 3세 '결단'...사상 최초 공개",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260621104540832"
+        "url": "https://v.daum.net/v/20260621190432243"
       }
     },
     {
-      "keyword": "ban vs aus",
+      "keyword": "문정빈",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Australia beats Bangladesh by 7 runs in high-scoring 2nd T20 to win series",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/australia-beats-bangladesh-7-runs-132349537.html"
+        "title": "LG, 1회말 솔로홈런 4방 '쾅쾅쾅쾅'…주말 3연전 싹쓸이(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260621039452007"
       }
     },
     {
-      "keyword": "로건",
+      "keyword": "송영길",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'홈런-2루타-볼넷-단타-볼넷-단타' 이런 적 없었는데…'1.78→3.26' KIA 마무리, 처음 마주한 시련",
+        "title": "송영길 “鄭, 대통령과 싸우려고 출마”…최민희 “허위주장으로 선전포고”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260621091816368?f=p"
+        "url": "https://v.daum.net/v/20260621163942412"
       }
     },
     {
-      "keyword": "위증",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "민주당, '연어 술파티' 위증 판결에 \"실질은 무죄‥특검해야\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6831726_36911.html"
-      }
-    },
-    {
-      "keyword": "효연",
+      "keyword": "일본 엔",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "효연 \"소녀시대 '키싱유' 활동 괴로워… 사탕 다 부숴버리고 싶었다\"",
+        "title": "[뉴욕환시-주간] '매파 연준' 속 162엔 가시권…日 추가 개입 촉각",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421066"
+      }
+    },
+    {
+      "keyword": "신천지",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "정교유착 비리 합수본 첫 신병 확보...이만희 수사 주력",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0103_202606202305241628"
+      }
+    },
+    {
+      "keyword": "신장식",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "조국혁신당, 민주당에 '국정운영 원팀 플랫폼 구성' 제안",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6831729_36911.html"
+      }
+    },
+    {
+      "keyword": "김양",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김양, 26년 혈액암 투병 母와 이별..어제(20일) 모친상",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260621110942350"
+        "url": "https://v.daum.net/v/20260621105216939"
       }
     },
     {
-      "keyword": "농약",
+      "keyword": "xsmn",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "인천 서구, 관내 4개 골프장 농약 잔류량 검사 결과 ‘양호’",
-        "source": "일간투데이",
-        "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=776441"
+        "title": "XSDL 21/6 - Kết quả xổ số Đà Lạt hôm nay chủ nhật ngày 21/6/2026",
+        "source": "VOH",
+        "url": "https://voh.com.vn/xsdl-21-6-ket-qua-xo-so-da-lat-hom-nay-chu-nhat-ngay-21-6-2026-657600.html"
       }
-    },
-    {
-      "keyword": "심혜진",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'심혜진家' 유전자 대박..'친조카' 심재원 이국적 비주얼 충격 ('조선의 사랑꾼')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621094719771"
-      }
-    },
-    {
-      "keyword": "히우라",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[사진]히우라 '추격의 2타점 적시타'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/06/21/GBTDAMZYHE4DMYZYME3TEOJSMU/"
-      }
-    },
-    {
-      "keyword": "귀금속",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }
