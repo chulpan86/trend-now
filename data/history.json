@@ -1368,5 +1368,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-22T00:06:18.584948+09:00",
+    "label": "00:06",
+    "items": [
+      {
+        "keyword": "재난",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김천시, 공장 대형 화재 대비 ‘사회재난종합훈련’ 실시",
+          "source": "꽁지환경늬우스",
+          "url": "http://www.kkongjinews.com/news/view.php?idx=244812"
+        }
+      },
+      {
+        "keyword": "국가장학금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "올 1학기 108만명에 국가장학금 2.2조 지원…전년보다 931억 늘어",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260619000661"
+        }
+      },
+      {
+        "keyword": "금시세",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“금값 바닥, 사려면 지금 사라” 단, 전문가 알려준 반등 조건",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25438095"
+        }
+      },
+      {
+        "keyword": "젤렌스키",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "폴란드 최고훈장 반납한 젤렌스키…전쟁 와중 불붙은 우크라 역사갈등",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621160106679"
+        }
+      },
+      {
+        "keyword": "정을영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "강회장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'신입사원 강회장' 이주명·진구, 구치소 독대…비밀 대화 내용은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621142850188"
+        }
+      },
+      {
+        "keyword": "현신균",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "구광모·젠슨 황 회동 2주 만에…LG, 엔비디아와 피지컬 AI 사업화 속도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621204402381"
+        }
+      },
+      {
+        "keyword": "초안산 수국 동산",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[포토타임]쓰레기장서 힐링 명소로…1만1000여본 ‘수국 천국’된 초안산 수국동산",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621133751956"
+        }
+      },
+      {
+        "keyword": "공무원시험",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "세종시교육청 9급 지방공무원 임용시험 경쟁률 7.85대 1",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621090425150"
+        }
+      },
+      {
+        "keyword": "심수봉",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'올해 70세' 심수봉 \"소리 못 듣는 희귀병 앓고 있어\" 심경 토로",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026061808160004554"
+        }
+      }
+    ]
   }
 ]
