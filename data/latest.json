@@ -1,97 +1,101 @@
 {
-  "timestamp": "2026-06-22T06:04:40.821159+09:00",
-  "label": "06:04",
+  "timestamp": "2026-06-22T08:00:31.748259+09:00",
+  "label": "08:00",
   "items": [
     {
-      "keyword": "국민연금공단",
+      "keyword": "날씨",
+      "traffic_raw": "500000+",
+      "traffic": 500000,
+      "news": {
+        "title": "오늘의 날씨- 2026년 6월 22일",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260622.22019006200"
+      }
+    },
+    {
+      "keyword": "우루과이 대 카보베르데",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“감동은 계속된다”, 카보베르데 이번엔 우루과이 상대로 승리 도전",
+        "source": "서울신문",
+        "url": "https://www.seoul.co.kr/news/sport/worldcup2026/2026/06/21/20260621500082"
+      }
+    },
+    {
+      "keyword": "weather",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "국민연금, 반도체 덕 봤다…고갈 시점 최대 7년 연장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/PILXQUfzU0"
+        "title": "First Alert: Severe storm risk for Monday PM",
+        "source": "NBC10 Philadelphia",
+        "url": "https://www.nbcphiladelphia.com/news/local/first-alert-severe-storm-risk-monday-pm/4420879/"
       }
     },
     {
-      "keyword": "베트남",
+      "keyword": "수영",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "베트남서 들여온 마약 20㎏ 야산에 묻어두고 나눠서 유통",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ"
-      }
-    },
-    {
-      "keyword": "구광모",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "구광모·젠슨 황 회동 2주 만에…LG, 엔비디아와 피지컬 AI 사업화 속도",
+        "title": "효연 \"소녀시대 '키싱유' 활동 괴로워… 사탕 다 부숴버리고 싶었다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260621204402381"
+        "url": "https://v.daum.net/v/20260621110942350"
       }
     },
     {
-      "keyword": "พยากรณ์อากาศ",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "조세",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": null
     },
     {
-      "keyword": "대한민국 우주 항공청",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "복권",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "우주항공청, ‘제2우주센터’ 건설 본격화…건립 후보지 전국 공모",
-        "source": "대한경제",
-        "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606191834295360057"
-      }
-    },
-    {
-      "keyword": "브루어스 대 브레이브스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"팀 전체 희생할 수 없어\" 2000만 달러→대수비 전락 김하성, 위기론 커진다, 메츠 전 단장이 바라본 현실 \"출전 기회에 불만이라면…\"",
+        "title": "로또 1229회 당첨번호 35억, '고꾸라진 경기 아예 없다니'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/uBEvnryOSe"
+        "url": "https://v.daum.net/v/B0RahgmjoV"
       }
     },
     {
-      "keyword": "사랑을 처방해 드립니다",
+      "keyword": "박진만",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'무명전설' 하루, '사랑을 처방해 드립니다' OST 가창…감정선 배가",
+        "title": "한화, 김태연 선발 제외…화이트와 삼성전 위닝시리즈 사냥",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260621193400631"
+        "url": "https://v.daum.net/v/20260621160142702"
       }
     },
     {
-      "keyword": "벨기에",
+      "keyword": "부산날씨",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[월드컵·전반] ‘슈팅 수 2-11’, 벨기에 파상공세를 막아낸 이란의 ‘방패’…전반 0-0 마무리",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202606220504003"
+        "title": "부산·울산·경남 흐리고 밤까지 비…낮 최고 23∼25도",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260622005900051"
       }
     },
     {
-      "keyword": "폭스바겐 그룹",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
+      "keyword": "이민영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이민영, JLPGA 니치레이 대회서 7차 연장전 끝에 우승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260621040500007"
+      }
     },
     {
-      "keyword": "가디언즈 대 애스트로스",
+      "keyword": "天気",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Rookie Travis Bazzana hits two homers, drives in five in Guardians’ 8-1 win over Astros",
-        "source": "Cleveland.com",
-        "url": "https://www.cleveland.com/guardians/2026/06/rookie-travis-bazzana-hits-two-homers-drives-in-five-in-guardians-8-1-win-over-astros.html"
+        "title": "２３日の天気（東日本）",
+        "source": "沖縄タイムス社",
+        "url": "https://www.okinawatimes.co.jp/articles/-/1864080"
       }
     }
   ]
