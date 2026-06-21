@@ -1690,5 +1690,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-21T09:03:51.115277+09:00",
+    "label": "09:03",
+    "items": [
+      {
+        "keyword": "나는 solo",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'나는 솔로' 32기 상철, 3년 전 방송 출연 파묘됐다 \"19살에 연봉 5000만원\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/06/20/MEYGEOJVMMZGGODFGM2TEMTCGQ/"
+        }
+      },
+      {
+        "keyword": "네덜란드 축구 국가대표팀",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "홍명보와 달랐다…‘도하 비극’에 눈물 日감독, 연예인급 인기 반전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5J6K5iiPvy"
+        }
+      },
+      {
+        "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "크립토퀀트 CEO \"비트코인 최대 리스크는 급락 아닌 장기 침체\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260620n04418"
+        }
+      },
+      {
+        "keyword": "러시아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“러시아 종이 호랑이네” 구소련 국가들 탈러시아 가속화···대체재는 북한?",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202606191542001"
+        }
+      },
+      {
+        "keyword": "장교",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘부사관 구인난’ 육군, 하사 월급 300만원으로 인상…“‘삽질한다’ 표현 안 나오게 할 것”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606191635001"
+        }
+      },
+      {
+        "keyword": "대한 광통신",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대한광통신, 美 355억 수주 잭팟에도 급락…매수 기회일까 함정일까",
+          "source": "MSN",
+          "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%ED%95%9C%EA%B4%91%ED%86%B5%EC%8B%A0-%E7%BE%8E-355%EC%96%B5-%EC%88%98%EC%A3%BC-%EC%9E%AD%ED%8C%9F%EC%97%90%EB%8F%84-%EA%B8%89%EB%9D%BD-%EB%A7%A4%EC%88%98-%EA%B8%B0%ED%9A%8C%EC%9D%BC%EA%B9%8C-%ED%95%A8%EC%A0%95%EC%9D%BC%EA%B9%8C/vi-AA2680QX?ocid=hpmsn"
+        }
+      },
+      {
+        "keyword": "삼성물산",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"압구정·반포 이어 개포까지\"…삼성물산, 강남 정비사업 '싹쓸이'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621080122334"
+        }
+      },
+      {
+        "keyword": "요나단 페라자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KIA 떠나며 울었던 유망주, 한화서 드디어 웃었다…\"많은 땀 흘려서 나올 눈물이 없어요\" [대전 인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621044616626"
+        }
+      },
+      {
+        "keyword": "나마디 조엘 진",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "육상 나마디 조엘진, 코리아오픈국제대회 100ｍ 우승…'10초20'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HRRebUfzHP?f=p"
+        }
+      },
+      {
+        "keyword": "홍수",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "아주엔지니어링, AI 기술 접목한 지능형 재난안전 플랫폼 ‘Ahplus’으로 국민안전 책임진다",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=368860"
+        }
+      }
+    ]
   }
 ]
