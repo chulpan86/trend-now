@@ -1,323 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21T00:28:08.080764+09:00",
-    "label": "00:28",
-    "items": [
-      {
-        "keyword": "신입사원 강회장",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘신입사원 강회장’ 이준영, 정체 탄로날까…판 흔든 킹메이커에 ‘시선 집중’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620131142570"
-        }
-      },
-      {
-        "keyword": "이옥섭",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "정해인X최수영X조정석X심은경X이민호, 심사위원 '미쟝센'이 대작 [포토] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/movie/2026/06/18/MQ2TMNJZMZTDIMLDMMZTEODDMU/"
-        }
-      },
-      {
-        "keyword": "심수봉",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'올해 70세' 심수봉 \"소리 못 듣는 희귀병 앓고 있어\" 심경 토로",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026061808160004554"
-        }
-      },
-      {
-        "keyword": "박지현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'취사병' 후속작 떴다…이번엔 직장인 공감 스토리로 '2연속 흥행' 노리는 韓 드라마 ('내일도 출근')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620174718532"
-        }
-      },
-      {
-        "keyword": "기아타이거즈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'와' 무서운 KT, 9회말 6득점→5점 차 뒤집었다! 힐리어드 결승타 '4:3→4:9→10:9' 짜릿 역전승 [수원 현장리뷰]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260620n11467"
-        }
-      },
-      {
-        "keyword": "성영탁",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"2군에 내려가고 싶지 않다\" 2007년생 KIA 신인, 성영탁처럼 믿을 수 있는 투수를 꿈꾼다 [광주 인터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5BLauRRftj"
-        }
-      },
-      {
-        "keyword": "호르무즈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이란군 \"호르무즈 다시 봉쇄…미·이스라엘 MOU 위반 탓\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620222011185"
-        }
-      },
-      {
-        "keyword": "미사일",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"러 정유공장 폭발, 우크라 드론 격추하려던 미사일 오폭일 수도\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620192205358"
-        }
-      },
-      {
-        "keyword": "이도현",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이도현, 월드 클라이밍 6차 대회 볼더링 동메달",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620135005971"
-        }
-      },
-      {
-        "keyword": "클로봇",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "미래에셋證 \"클로봇, 스팟의 핵심파트너...상용화 도입시 수혜 기대\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618082832337?f=p"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-21T02:15:22.857351+09:00",
-    "label": "02:15",
-    "items": [
-      {
-        "keyword": "신입사원 강회장",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘신입사원 강회장’ 이준영, 정체 탄로날까…판 흔든 킹메이커에 ‘시선 집중’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620131142570"
-        }
-      },
-      {
-        "keyword": "이옥섭",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "정해인X최수영X조정석X심은경X이민호, 심사위원 '미쟝센'이 대작 [포토] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/movie/2026/06/18/MQ2TMNJZMZTDIMLDMMZTEODDMU/"
-        }
-      },
-      {
-        "keyword": "네덜란드 스웨덴",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"내 책임이다\" '죽음의 조' F조 日 잡지 못한 네덜란드 감독…교체 전략 결국 사과 \"원하는 것 달성하지 못했다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/06/20/GU2TAMZTGE2DIMLBMYYGKZBRGM/"
-        }
-      },
-      {
-        "keyword": "심수봉",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'올해 70세' 심수봉 \"소리 못 듣는 희귀병 앓고 있어\" 심경 토로",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026061808160004554"
-        }
-      },
-      {
-        "keyword": "농협",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "NH농협금융, 자산운용·IB '실전형 집중 교육 과정' 운영",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qGDLSllwcS"
-        }
-      },
-      {
-        "keyword": "일본 튀니지",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "튀니지 '소방수' 르나르 감독 \"나는 마법사가 아니야\"[월드컵]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620093701980"
-        }
-      },
-      {
-        "keyword": "박은영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박은영, 신혼집 공개 \"남편, 하석진 닮은꼴..젠틀해\" [전참시][별별TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620233817717"
-        }
-      },
-      {
-        "keyword": "미사일",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"모스크바 아군오폭\"…러, 우크라 드론 막다 정유공장 불태웠나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620151304928"
-        }
-      },
-      {
-        "keyword": "이도현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이도현, 월드 클라이밍 6차 대회 볼더링 동메달",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620135005971"
-        }
-      },
-      {
-        "keyword": "원희",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "원희, 아일릿 정산 시작됐다..당당한 20살 “이젠 부모님 용돈 안 받아”(전참시)[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621005506045"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-21T04:09:04.715569+09:00",
-    "label": "04:09",
-    "items": [
-      {
-        "keyword": "호르 무즈 해협 봉쇄",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "[속보] 이란군 \"호르무즈 재봉쇄‥미·이스라엘 종전 MOU 위반 탓\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6831665_36925.html"
-        }
-      },
-      {
-        "keyword": "netherlands vs sweden",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Netherlands 5-1 Sweden: Cody Gakpo and Brian Bobbey score doubles in big Dutch win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c4gyp88nyl7t"
-        }
-      },
-      {
-        "keyword": "네덜란드 축구",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "축구: 일본·네덜란드·독일 조별 예선 2차전 라이브 스코어·경기 결과 - FIFA 월드컵 2026",
-          "source": "Olympic Channel",
-          "url": "https://www.olympics.com/ko/news/fifa-world-cup-2026-live-scores-20-june-results"
-        }
-      },
-      {
-        "keyword": "일본 튀니지",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "튀니지 '소방수' 르나르 감독 \"나는 마법사가 아니야\"[월드컵]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620093701980"
-        }
-      },
-      {
-        "keyword": "농협",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "NH농협금융, 자산운용·IB '실전형 집중 교육 과정' 운영",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qGDLSllwcS"
-        }
-      },
-      {
-        "keyword": "박은영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박은영, 신혼집 공개 \"남편, 하석진 닮은꼴..젠틀해\" [전참시][별별TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620233817717"
-        }
-      },
-      {
-        "keyword": "홀란드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "축구 스타 엘링 홀란드의 사적인 여자친구의 초상화.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chan-dung-ban-gai-kin-tieng-cua-sieu-sao-bong-da-erling-haaland"
-        }
-      },
-      {
-        "keyword": "즐라탄",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[월드컵] 아빠는 슈퍼볼 반지·아들은 WC 데뷔골…프리먼 가문의 영광",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260620024800007"
-        }
-      },
-      {
-        "keyword": "grok",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Pentagon AI chief: Musk’s Grok chatbot used to launch thousands of missiles at Iran",
-          "source": "The Hill",
-          "url": "https://thehill.com/policy/technology/5928204-pentagon-musk-grok-chatbot-iran-strikes/"
-        }
-      },
-      {
-        "keyword": "원희",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "원희, 아일릿 정산 시작됐다..당당한 20살 “이젠 부모님 용돈 안 받아”(전참시)[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621005506045"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-21T06:03:59.376553+09:00",
     "label": "06:03",
     "items": [
@@ -1561,6 +1243,112 @@
           "title": "대학생이 기업 과제를 특허로 풀었다! - 영상 | 멀티미디어",
           "source": "대한민국 정책브리핑",
           "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148966849"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22T17:49:11.708820+09:00",
+    "label": "17:49",
+    "items": [
+      {
+        "keyword": "000660",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "[특징주] SK하이닉스, 사상 첫 250만 닉스…삼전도 상승마감(종합2보)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260617160056893"
+        }
+      },
+      {
+        "keyword": "kf-21 보라매",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "개발 리스크 턴 KF-21, '수출 제품' 전환…KAI 리레이팅 변곡점 왔다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606200832566573fbbec65dfb_1"
+        }
+      },
+      {
+        "keyword": "박지성",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "우린 월드컵 11번 나가도 못해본건데···‘4 대 0 대승’ 일본 축구, 전문가들도 ‘찐강팀’ 인정",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606211826001"
+        }
+      },
+      {
+        "keyword": "최지만",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "최지만, 울산 입단 두 달 만에 KBO리그 데뷔…27일 롯데전 출전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260622140732968"
+        }
+      },
+      {
+        "keyword": "이완규",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[서울데이터랩]코스닥 시총 상위주 장중 약세…2차전지·바이오 하락 압력",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260618n19456?mid=m02&list=recent&cpcd="
+        }
+      },
+      {
+        "keyword": "연애",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "JTBC, 새 드라마 촬영 중단…'연애의 재발견' 측 \"한달 간 대본 재정비\"[공식]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260622161816723"
+        }
+      },
+      {
+        "keyword": "전청조",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "5평방에 9명 '정원 2배'…과밀수용 한계 놓인 청주여자교도소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260621019000004"
+        }
+      },
+      {
+        "keyword": "저스틴 게이치",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“이제 아무도 안 무서워한다” 토푸리아도 퍼거슨처럼?…‘섬뜩 경고’ 날린 게이치",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260622072831649"
+        }
+      },
+      {
+        "keyword": "홍장원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "홍장원 전 국정원 1차장, 종합 특검 3차 조사 출석",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6831886_36918.html"
+        }
+      },
+      {
+        "keyword": "퓨리오사ai",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "미래에셋 퓨리오사 IPO 주관에…100억 직접 투자도",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/163879"
         }
       }
     ]

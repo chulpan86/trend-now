@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-22T11:46:42.112159+09:00",
-  "label": "11:46",
+  "timestamp": "2026-06-22T17:49:11.708820+09:00",
+  "label": "17:49",
   "items": [
     {
-      "keyword": "전영현",
+      "keyword": "000660",
       "traffic_raw": "20000+",
       "traffic": 20000,
       "news": {
-        "title": "삼성전자 전 직원 ‘챗GPT’ 쓴다…오픈AI 기업용 AI 대규모 도입",
+        "title": "[특징주] SK하이닉스, 사상 첫 250만 닉스…삼전도 상승마감(종합2보)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260622102536553"
+        "url": "https://v.daum.net/v/20260617160056893"
       }
     },
     {
-      "keyword": "라파엘 데버스",
+      "keyword": "kf-21 보라매",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "개발 리스크 턴 KF-21, '수출 제품' 전환…KAI 리레이팅 변곡점 왔다",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606200832566573fbbec65dfb_1"
+      }
+    },
+    {
+      "keyword": "박지성",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "우린 월드컵 11번 나가도 못해본건데···‘4 대 0 대승’ 일본 축구, 전문가들도 ‘찐강팀’ 인정",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606211826001"
+      }
+    },
+    {
+      "keyword": "최지만",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "최지만, 울산 입단 두 달 만에 KBO리그 데뷔…27일 롯데전 출전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260622140732968"
+      }
+    },
+    {
+      "keyword": "이완규",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[서울데이터랩]코스닥 시총 상위주 장중 약세…2차전지·바이오 하락 압력",
+        "source": "네이트",
+        "url": "https://m.news.nate.com/view/20260618n19456?mid=m02&list=recent&cpcd="
+      }
+    },
+    {
+      "keyword": "연애",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'선수가 감독 무시' 이정후가 이런 팀에 있다니→데버스 교체 거부 논란…샌프란시스코 감독은 \"문제없다\"고 옹호",
+        "title": "JTBC, 새 드라마 촬영 중단…'연애의 재발견' 측 \"한달 간 대본 재정비\"[공식]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260622082816874"
+        "url": "https://v.daum.net/v/20260622161816723"
       }
     },
     {
-      "keyword": "파크 골프",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“비싼 골프 왜 쳐요?”…돈 냄새 맡은 골프웨어업계, ‘파크골프’ 상륙작전 [권준영의 머니볼]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260622050543236"
-      }
-    },
-    {
-      "keyword": "김주형",
+      "keyword": "전청조",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "US오픈 골프대회 공동 3위 선전 김주형, 세계 랭킹 64위로 도약",
+        "title": "5평방에 9명 '정원 2배'…과밀수용 한계 놓인 청주여자교도소",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260622033300007"
+        "url": "https://www.yna.co.kr/view/AKR20260621019000004"
       }
     },
     {
-      "keyword": "리니지",
+      "keyword": "저스틴 게이치",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[취재] \"대역전극, 성 먹자!\" 리니지 클래식, 대망의 첫 공성전 이슈 TOP 5",
-        "source": "인벤",
-        "url": "https://www.inven.co.kr/webzine/news/?news=317655"
-      }
-    },
-    {
-      "keyword": "두산그룹",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "중기중앙회·LG CNS, 중소기업 AI 격차에 ‘현장 처방’ 낸다",
-        "source": "대경일보",
-        "url": "https://www.dkilbo.com/news/articleView.html?idxno=546414"
-      }
-    },
-    {
-      "keyword": "뉴질랜드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "수도권 넘어 부산·경남으로… 뉴질랜드 와인의 무한한 가능성 알린 ‘뉴질랜드 와인 서밋 2026 부산’ 성료",
-        "source": "한국미디어뉴스통신",
-        "url": "https://www.kmunews.co.kr/news/articleView.html?idxno=365885"
-      }
-    },
-    {
-      "keyword": "한미반도체 주가",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "동전주 방어-미래사업 베팅…‘주가 방어’에 지갑 연 오너들 [중기+]",
+        "title": "“이제 아무도 안 무서워한다” 토푸리아도 퍼거슨처럼?…‘섬뜩 경고’ 날린 게이치",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260622104402489"
+        "url": "https://v.daum.net/v/20260622072831649"
       }
     },
     {
-      "keyword": "sk스퀘어 주가",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "홍장원",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "SK스퀘어, 증권사 목표가 상향에 강세…5.08%",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1107967"
+        "title": "홍장원 전 국정원 1차장, 종합 특검 3차 조사 출석",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6831886_36918.html"
       }
     },
     {
-      "keyword": "특허로",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "퓨리오사ai",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "대학생이 기업 과제를 특허로 풀었다! - 영상 | 멀티미디어",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148966849"
+        "title": "미래에셋 퓨리오사 IPO 주관에…100억 직접 투자도",
+        "source": "딜사이트",
+        "url": "https://dealsite.co.kr/articles/163879"
       }
     }
   ]
