@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-23T03:39:38.102878+09:00",
-  "label": "03:39",
+  "timestamp": "2026-06-23T06:27:18.773939+09:00",
+  "label": "06:27",
   "items": [
     {
-      "keyword": "아르헨티나 대 오스트리아",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "기상",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
       "news": {
-        "title": "메시·음바페·홀란 동시 출격‥'득점왕 경쟁 후끈'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6832042_37004.html"
+        "title": "제주 최대 60㎜ 비, 중부는 맑음…낮 22∼30도",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260623008300034"
       }
     },
     {
-      "keyword": "트위터",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "프랑스 대 이라크",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "X Outage Seemingly Over As Cloudflare Deploys Fix",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/22/x-down-outage-reports-surge-monday-morning/"
+        "title": "음바페 막으려면 골키퍼 3명 필요?···결전 앞둔 적장의 ‘웃픈 농담’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606221752001"
       }
     },
     {
-      "keyword": "argentina vs austria",
+      "keyword": "잠수함",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "파이오링크, 해군 행사서 잠수함용 국산 네트워크 스위치 전시",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260622_0003678886"
+      }
+    },
+    {
+      "keyword": "임영웅",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "¡De la mano de Leo! Messi encamina a Argentina al triunfo sobre Austria",
-        "source": "TUDN",
-        "url": "https://www.tudn.com/mundial-2026/lionel-messi-encamina-a-argentina-al-triunfo-sobre-austria-en-el-primer-tiempo-video"
+        "title": "임영웅 이런 모습 처음...막걸리 한잔에 볼 발그레 '꾸안꾸 청춘미' [MD★스타]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/y2qx9nDgDy"
       }
     },
     {
-      "keyword": "초콜릿",
+      "keyword": "투표",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한입 먹어보니 \"정말 놀랍다\"…특허까지 낸 북한 '보라콩 초콜릿'",
+        "title": "[단독]중단된 투표소 9곳 사전투표 저조…\"예견 가능했다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260622184402182"
+        "url": "https://v.daum.net/v/20260623050334252"
       }
     },
     {
-      "keyword": "argentina",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Lionel Messi breaks record for most World Cup goals after Austria strike",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all"
-      }
-    },
-    {
-      "keyword": "김선근",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"KBS 대출로 투자했다가 실패\"…김선근, 돌연 퇴사한 이유 (짠한형)[종합]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260622200951577"
-      }
-    },
-    {
-      "keyword": "kone",
+      "keyword": "가요무대",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Soccer fans rejoice as Canada delivers 6-0 win vs. Qatar",
-        "source": "Vancouver Sun",
-        "url": "https://vancouversun.com/news/local-news/soccer-fans-rejoice-as-canada-delivers-6-0-win-vs-qatar"
-      }
-    },
-    {
-      "keyword": "학생",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "필리핀 고등학교서 총기 난사…학생 3명 사망·7명 부상",
+        "title": "‘가요무대’ 출연진 양지은→홍지윤",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260622194109139"
+        "url": "https://v.daum.net/v/brJULIHlM5"
       }
     },
     {
-      "keyword": "새마을 금고",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"주식으로 돈 다 빠져나간다\"…개미 탈출 행렬에 '특단의 조치'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202606229897v"
-      }
-    },
-    {
-      "keyword": "황치열",
+      "keyword": "대구광역시",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“구미GD?”…황치열 \"‘구미 마이클잭슨&비’ 는 인정 ('말자쇼')",
+        "title": "광주 창업기업 고용 늘었지만 성장 둔화…중기부 지원에 성장 정체 극복 기대",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260622232816108"
+        "url": "https://v.daum.net/v/20260623024707535"
+      }
+    },
+    {
+      "keyword": "프랑스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[르포] \"샹젤리제 거리 41도, 5분만에 땀 줄줄\"…폭염에 녹아내린 파리",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623000305504"
+      }
+    },
+    {
+      "keyword": "음바페",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"베컴이 오라고 연락해\" 음바페, 감독설 일축하고 美 진출 가능성 '활짝'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260622091018397"
+      }
+    },
+    {
+      "keyword": "호날두",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“호날두 이기적” 축구전설 때리자…“호날두만한 선수 없다” 동료 반박",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25438746"
       }
     }
   ]
