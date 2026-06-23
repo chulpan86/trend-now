@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-23T11:12:52.882241+09:00",
-  "label": "11:12",
+  "timestamp": "2026-06-23T15:39:28.958642+09:00",
+  "label": "15:39",
   "items": [
     {
-      "keyword": "김정은",
+      "keyword": "서킷브레이커",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "김정은 \"한국 핵잠수함 추진, 한반도 정세 악화\"…핵무력 강화 강조",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12304564"
+        "title": "코스피 8%대 폭락에 서킷브레이커 발동",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/money/2026/06/23/X25K2GXS7BF3PILNKVWJJFDJPA/"
       }
     },
     {
-      "keyword": "부부",
+      "keyword": "jordan national football team vs algeria national football team standings",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "월수입 1000만원 남편 \"하루하루가 기적\" 처가 반대 고백 '눈물'[결혼지옥]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260623081417819"
+        "title": "Jordan 1-2 Algeria: World Cup debutants are knocked out of tournament",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/ckg5n4wyzxnt"
       }
     },
     {
-      "keyword": "매일경제",
+      "keyword": "하림",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "NS홈쇼핑, 홈플러스 익스프레스 인수대금 최종 완납",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260622181852"
+      }
+    },
+    {
+      "keyword": "반도체산업",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "M7 내리고 반도체 오른 뉴욕증시...심상찮은 마이크론 목표가 상향 [마켓무버의 국장 힌트]",
+        "title": "용인반도체 흔들기 아직도?…이상일 작심 비판 “용인시민 결코 용납 안 해”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260623074603221"
+        "url": "https://v.daum.net/v/20260623125944507"
       }
     },
     {
-      "keyword": "살충제",
+      "keyword": "송영길",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "송영길, 지난주 이 대통령과 비공개 만찬…당대표 출마 얘기 오갔나",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1264822.html"
+      }
+    },
+    {
+      "keyword": "동탄역",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[직설] 반도체 호황에 부동산 시장도 '들썩'…정부, 세제 카드 꺼낼까?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623134642129"
+      }
+    },
+    {
+      "keyword": "hlb생명과학",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“7월부터는 모기약 못사요?”…약국가, 여름 모기철 앞두고 ‘살충제 반품 대란’",
+        "title": "HLB생명과학R&D, 중기부 ‘초격차 AX 프로그램’ 선정…AI 신약개발 실증 속도",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260622180300115"
+        "url": "https://v.daum.net/v/20260623081804904"
       }
     },
     {
-      "keyword": "황유민",
+      "keyword": "대전시장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "강민지, 마이어 LPGA 클래식 공동 5위…우승은 야마시타(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260622002551007"
-      }
-    },
-    {
-      "keyword": "현대차",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "현대자동차, '현대 트랜스로컬 시리즈' 신규 참여 4개 기관 발표",
+        "title": "\"대전시 채무 1조 5천억⋯파산 위기\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260623091114652"
+        "url": "https://v.daum.net/v/9s4aKIHlYI"
       }
     },
     {
-      "keyword": "오연서",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"결혼? 안 하는 게 아니라 못 하는 것\" 오연서, 이상형 조건 大공개 ('아근진') [순간포착]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260623072151885"
-      }
-    },
-    {
-      "keyword": "월드컵 득점 순위",
+      "keyword": "키옥시아 주가",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[월드컵 중간순위] G조(22일)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260622121102974"
+        "title": "키옥시아와 일본의 절치부심",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026062212451"
       }
     },
     {
-      "keyword": "두산베어스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "예측 시장",
+      "keyword": "타율",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"韓 승리 가능성 59%\" 우승국·득점왕은?…월드컵 예측시장 7.7조 몰렸다",
+        "title": "'1리'까지 좁혔었는데, 이정후 타격왕 쉽지 않네…로페즈 멀티히트, 어느새 '9리'까지 벌어졌다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/48MOKIHlYX"
+        "url": "https://v.daum.net/v/20260623103416317"
       }
     }
   ]
