@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22T08:00:31.748259+09:00",
-    "label": "08:00",
-    "items": [
-      {
-        "keyword": "날씨",
-        "traffic_raw": "500000+",
-        "traffic": 500000,
-        "news": {
-          "title": "오늘의 날씨- 2026년 6월 22일",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260622.22019006200"
-        }
-      },
-      {
-        "keyword": "우루과이 대 카보베르데",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“감동은 계속된다”, 카보베르데 이번엔 우루과이 상대로 승리 도전",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/sport/worldcup2026/2026/06/21/20260621500082"
-        }
-      },
-      {
-        "keyword": "weather",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "First Alert: Severe storm risk for Monday PM",
-          "source": "NBC10 Philadelphia",
-          "url": "https://www.nbcphiladelphia.com/news/local/first-alert-severe-storm-risk-monday-pm/4420879/"
-        }
-      },
-      {
-        "keyword": "수영",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "효연 \"소녀시대 '키싱유' 활동 괴로워… 사탕 다 부숴버리고 싶었다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621110942350"
-        }
-      },
-      {
-        "keyword": "조세",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": null
-      },
-      {
-        "keyword": "복권",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "로또 1229회 당첨번호 35억, '고꾸라진 경기 아예 없다니'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/B0RahgmjoV"
-        }
-      },
-      {
-        "keyword": "박진만",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한화, 김태연 선발 제외…화이트와 삼성전 위닝시리즈 사냥",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621160142702"
-        }
-      },
-      {
-        "keyword": "부산날씨",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "부산·울산·경남 흐리고 밤까지 비…낮 최고 23∼25도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260622005900051"
-        }
-      },
-      {
-        "keyword": "이민영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이민영, JLPGA 니치레이 대회서 7차 연장전 끝에 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260621040500007"
-        }
-      },
-      {
-        "keyword": "天気",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "２３日の天気（東日本）",
-          "source": "沖縄タイムス社",
-          "url": "https://www.okinawatimes.co.jp/articles/-/1864080"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-22T11:46:42.112159+09:00",
     "label": "11:46",
     "items": [
@@ -1047,6 +945,112 @@
           "title": "'전희철 딸' 전수완·'우지원 딸' 우서윤, 예쁘긴 진짜 예뻐…연예계 데뷔가 시급",
           "source": "Daum",
           "url": "https://v.daum.net/v/PtImp1B3TI?f=p"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23T22:36:24.104513+09:00",
+    "label": "22:36",
+    "items": [
+      {
+        "keyword": "젠슨 황",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "이재용 회장, 3년 만에 방문한 곳이…'15조 잭팟' 기대감 폭발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026062335691"
+        }
+      },
+      {
+        "keyword": "김세의",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "검찰, '김수현 명예훼손 혐의' 가세연 김세의 구속기소",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6832319_36918.html"
+        }
+      },
+      {
+        "keyword": "주식 미실현 이익 과세",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"주식·부동산 미실현 이익도 소득…포괄적 과세해야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623100208437"
+        }
+      },
+      {
+        "keyword": "장원영",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "안내까지 바꾼 장원영, 홀로 ‘맨얼굴’로 공항 등장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623172016243"
+        }
+      },
+      {
+        "keyword": "협박",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "불법촬영·딥페이크 등 가해 10건 중 3건은 \"헤어진 연인이\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260623018751530"
+        }
+      },
+      {
+        "keyword": "슈퍼걸",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "르세라핌 허윤진, '슈퍼걸' 주역 만났다! 인터뷰 호스트 활약",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260623000020"
+        }
+      },
+      {
+        "keyword": "모두의 창업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "모두의 창업 관련 브리핑",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=156767570"
+        }
+      },
+      {
+        "keyword": "cuaca besok",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Prakiraan Cuaca BMKG Besok Rabu 24 Juni 2026: Sumatera Utara dan Kepri Siaga Hujan Lebat",
+          "source": "Kompas.tv",
+          "url": "https://www.kompas.tv/info-publik/676576/prakiraan-cuaca-bmkg-besok-rabu-24-juni-2026-sumatera-utara-dan-kepri-siaga-hujan-lebat"
+        }
+      },
+      {
+        "keyword": "김오랑",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'12·12 군사반란' 맞선 故김오랑 중령에 충무무공훈장 추서(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623170901811"
+        }
+      },
+      {
+        "keyword": "장현식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "장현식 9년 만의 선발승…LG, 삼성 추격 뿌리치고 4연승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260623172200007"
         }
       }
     ]

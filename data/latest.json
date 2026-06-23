@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-23T19:28:05.963844+09:00",
-  "label": "19:28",
+  "timestamp": "2026-06-23T22:36:24.104513+09:00",
+  "label": "22:36",
   "items": [
     {
-      "keyword": "sk하이닉스 주가 하락 이유",
+      "keyword": "젠슨 황",
       "traffic_raw": "20000+",
       "traffic": 20000,
       "news": {
-        "title": "[속보] 역대급 급락에 코스피 서킷브레이커 발동",
+        "title": "이재용 회장, 3년 만에 방문한 곳이…'15조 잭팟' 기대감 폭발",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026062335691"
+      }
+    },
+    {
+      "keyword": "김세의",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "검찰, '김수현 명예훼손 혐의' 가세연 김세의 구속기소",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6832319_36918.html"
+      }
+    },
+    {
+      "keyword": "주식 미실현 이익 과세",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"주식·부동산 미실현 이익도 소득…포괄적 과세해야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623100208437"
+      }
+    },
+    {
+      "keyword": "장원영",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "안내까지 바꾼 장원영, 홀로 ‘맨얼굴’로 공항 등장",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623172016243"
+      }
+    },
+    {
+      "keyword": "협박",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "불법촬영·딥페이크 등 가해 10건 중 3건은 \"헤어진 연인이\"(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260623113500008"
+        "url": "https://www.yna.co.kr/view/AKR20260623018751530"
       }
     },
     {
-      "keyword": "멕시코 축구 국가대표팀",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "\"8년 전 은혜 잊었나\" 멕시코 2군 기용 선언…대한민국이 남아공전 무조건 이겨야 하는 이유",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12304665"
-      }
-    },
-    {
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "'일본전 앞두고 파격 소식' 토트넘 꽃미남 MF, 이적 의사 전달...첼시-빌라-노팅엄 주시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260622131151127"
-      }
-    },
-    {
-      "keyword": "안락사",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "죽는 줄도 모르고 뽀뽀, 3일 후엔 안락사…\"사지 말고 입양해주세요\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/06/23/2026062310370915041"
-      }
-    },
-    {
-      "keyword": "현대차 주가",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "현대차 주가, 9%대 급락... 이유는?",
-        "source": "금강일보",
-        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1165210"
-      }
-    },
-    {
-      "keyword": "ssg 대 kt",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘선두 추격’ KT vs ‘반등 절실’ SSG…수인선 매치 3연전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260622133540768"
-      }
-    },
-    {
-      "keyword": "이다해",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'42세 임신' 이다해, 심진화 생일파티서 시선 싹쓸이…은근한 D라인 포착",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260623093342874"
-      }
-    },
-    {
-      "keyword": "여행",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“일본은 싸고, 한국은 비싸다”…대일 여행수지 적자 57억달러 ‘역대 최대’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VX03e2e4XI"
-      }
-    },
-    {
-      "keyword": "요나단 페라자",
+      "keyword": "슈퍼걸",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한화 희소식! '무릎 불편' 페라자+'손날 사구' 김태연 선발 출격…23일 두산전 라인업 공개→RYU 한미 2500K '-10' [대전 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260623155717522"
+        "title": "르세라핌 허윤진, '슈퍼걸' 주역 만났다! 인터뷰 호스트 활약",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260623000020"
       }
     },
     {
-      "keyword": "우서윤",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "모두의 창업",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'전희철 딸' 전수완·'우지원 딸' 우서윤, 예쁘긴 진짜 예뻐…연예계 데뷔가 시급",
+        "title": "모두의 창업 관련 브리핑",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=156767570"
+      }
+    },
+    {
+      "keyword": "cuaca besok",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Prakiraan Cuaca BMKG Besok Rabu 24 Juni 2026: Sumatera Utara dan Kepri Siaga Hujan Lebat",
+        "source": "Kompas.tv",
+        "url": "https://www.kompas.tv/info-publik/676576/prakiraan-cuaca-bmkg-besok-rabu-24-juni-2026-sumatera-utara-dan-kepri-siaga-hujan-lebat"
+      }
+    },
+    {
+      "keyword": "김오랑",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'12·12 군사반란' 맞선 故김오랑 중령에 충무무공훈장 추서(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/PtImp1B3TI?f=p"
+        "url": "https://v.daum.net/v/20260623170901811"
+      }
+    },
+    {
+      "keyword": "장현식",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "장현식 9년 만의 선발승…LG, 삼성 추격 뿌리치고 4연승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260623172200007"
       }
     }
   ]
