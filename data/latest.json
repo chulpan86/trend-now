@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-23T08:11:52.481620+09:00",
-  "label": "08:11",
+  "timestamp": "2026-06-23T11:12:52.882241+09:00",
+  "label": "11:12",
   "items": [
     {
-      "keyword": "김구라",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "김정은",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "김구라 아들 그리 \"엄마가 큰 빚 지고 제주도 도피\" 과거 언급 (김그리)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260622223505638"
+        "title": "김정은 \"한국 핵잠수함 추진, 한반도 정세 악화\"…핵무력 강화 강조",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12304564"
       }
     },
     {
-      "keyword": "2026",
+      "keyword": "부부",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Lionel Messi breaks World Cup goals record as Argentina beat Austria. This is how he did it",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/athletic/7376689/2026/06/22/argentina-austria-world-cup-result-analysis/"
+        "title": "월수입 1000만원 남편 \"하루하루가 기적\" 처가 반대 고백 '눈물'[결혼지옥]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623081417819"
       }
     },
     {
-      "keyword": "조세",
+      "keyword": "매일경제",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "사우디서 날아온 8500억 ‘추징 폭탄’…DL이앤씨 “억지 과세 불복”",
+        "title": "M7 내리고 반도체 오른 뉴욕증시...심상찮은 마이크론 목표가 상향 [마켓무버의 국장 힌트]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260622194416180"
+        "url": "https://v.daum.net/v/20260623074603221"
       }
     },
     {
-      "keyword": "s&p 500",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[New York Stock Market] Ends Mixed... Nasdaq Slumps on Sharp Drop in SpaceX",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/en/article/2026062305393295127"
-      }
-    },
-    {
-      "keyword": "롯데 자이언츠",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[프로야구전망대] '5연승' 롯데, 중위권 진입 목표로 NC·LG와 6연전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/QqQ5Z2e4H2"
-      }
-    },
-    {
-      "keyword": "테슬라",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "애플·테슬라 영업비밀 다크웹 유출…인도 제조사 타타 해킹",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260623025603553"
-      }
-    },
-    {
-      "keyword": "런닝맨",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"유재석, 서울대 갔을 사람\"…비현실적 지식 수준 화제 (런닝맨)[엑's 이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260622150103981"
-      }
-    },
-    {
-      "keyword": "pltr",
+      "keyword": "살충제",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Palantir Stock Falls Below a Key Price Level. How Low It Could Go.",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/palantir-stock-price-today-9a11b1a1"
+        "title": "“7월부터는 모기약 못사요?”…약국가, 여름 모기철 앞두고 ‘살충제 반품 대란’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260622180300115"
       }
     },
     {
-      "keyword": "김포시",
+      "keyword": "황유민",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김포시, 민관 협력으로 지역 개발 가속화",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260621500405"
+        "title": "강민지, 마이어 LPGA 클래식 공동 5위…우승은 야마시타(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260622002551007"
       }
     },
     {
-      "keyword": "pháp vs",
+      "keyword": "현대차",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "현대자동차, '현대 트랜스로컬 시리즈' 신규 참여 4개 기관 발표",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623091114652"
+      }
+    },
+    {
+      "keyword": "오연서",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"결혼? 안 하는 게 아니라 못 하는 것\" 오연서, 이상형 조건 大공개 ('아근진') [순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623072151885"
+      }
+    },
+    {
+      "keyword": "월드컵 득점 순위",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Trực tuyến Pháp – Iraq (4h ngày 22-6): Cơ hội để Mbappe đuổi theo Messi",
-        "source": "شبكة تواصل الإخبارية",
-        "url": "https://twaslnews1.twaslnews.com/2560933/"
+        "title": "[월드컵 중간순위] G조(22일)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260622121102974"
+      }
+    },
+    {
+      "keyword": "두산베어스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "예측 시장",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"韓 승리 가능성 59%\" 우승국·득점왕은?…월드컵 예측시장 7.7조 몰렸다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/48MOKIHlYX"
       }
     }
   ]
