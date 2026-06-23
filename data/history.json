@@ -1156,5 +1156,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-24T07:59:28.151419+09:00",
+    "label": "07:59",
+    "items": [
+      {
+        "keyword": "이상윤",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'연상연하' 다이아 출신 기희현·이상윤, SNS로 '열애' 깜짝 발표…오사카 여행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624073951910"
+        }
+      },
+      {
+        "keyword": "공기업",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'해임 건의' 장원삼 이사장 사표…코이카, 비상 경영체제 돌입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260623043100371"
+        }
+      },
+      {
+        "keyword": "지소연",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "지소연, 갑자기 쓰러진 후 근황…세 아이 남겨두고 뉴욕여행 “많이 지쳐있었다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623071318766"
+        }
+      },
+      {
+        "keyword": "패션",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "All the Celebrity Sightings at Men’s Spring 2027 Fashion Week",
+          "source": "Vogue",
+          "url": "https://www.vogue.com/slideshow/all-the-celebrity-sightings-at-mens-spring-2027-fashion-week"
+        }
+      },
+      {
+        "keyword": "england vs ghana",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "England vs Ghana LIVE: Watch FIFA World Cup Group L TV stream, score, lineup, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cx2j74xqy7jt"
+        }
+      },
+      {
+        "keyword": "mu",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Micron’s Red-Hot Run Hits a Wall as Stock Suffers Worst Drop in More Than a Year",
+          "source": "Barron's",
+          "url": "https://www.barrons.com/articles/micron-stock-price-memory-chip-sellfoff-be416ca2"
+        }
+      },
+      {
+        "keyword": "항공권",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "India VIX Surge‌‌s 8.57% to 14.22 After Mid-Session Ca‌lm Fades",
+          "source": "HDFC Sky",
+          "url": "https://hdfcsky.com/news/india-vix-surges-8-57percent-to-14-22-after-mid-session-calm-fades"
+        }
+      },
+      {
+        "keyword": "nvda",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Nvidia: The $1 Trillion Trade Hiding In Plain Sight (NASDAQ:NVDA)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4916773-nvidia-the-1-trillion-trade-hiding-in-plain-sight"
+        }
+      },
+      {
+        "keyword": "오늘의 운세",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[오늘의 운세] 2026년 06월 24일 띠별 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202606240000000001"
+        }
+      }
+    ]
   }
 ]
