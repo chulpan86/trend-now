@@ -1,31 +1,21 @@
 {
-  "timestamp": "2026-06-24T04:03:11.444523+09:00",
-  "label": "04:03",
+  "timestamp": "2026-06-24T06:23:51.148021+09:00",
+  "label": "06:23",
   "items": [
     {
       "keyword": "포르투갈 대 우즈베키스탄",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "[월드컵] '메시 펄펄 나는데'…호날두, 우즈베크전 선발 출전 '안갯속'",
+        "title": "[월드컵] 2006년에도, 2026년에도…41세 호날두, 6개 대회 득점 '새 역사'",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260623099000007"
-      }
-    },
-    {
-      "keyword": "bồ đào nha đấu với uzbekistan",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Ronaldo dập tắt mọi chỉ trích, lập kỳ tích chưa từng có ở World Cup, 4 năm nữa Messi may ra mới đuổi kịp",
-        "source": "Kenh14.vn",
-        "url": "https://kenh14.vn/ronaldo-dap-tat-moi-chi-trich-lap-ky-tich-chua-tung-co-o-world-cup-4-nam-nua-messi-may-ra-moi-duoi-kip-215260624010550875.chn"
+        "url": "https://www.yna.co.kr/view/AKR20260624005600007"
       }
     },
     {
       "keyword": "portugal vs uzbekistan",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "Portugal vs Uzbekistan LIVE: FIFA World Cup Group K score, team news, prediction, commentary & updates",
         "source": "BBC",
@@ -33,33 +23,23 @@
       }
     },
     {
-      "keyword": "추미애",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "bồ đào nha đấu với uzbekistan",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "추미애 인수위 ‘재정난 우려’…이재명·김동연 거친 ‘기금 돌려막기’ 청구서",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zBDdb8nQGl"
+        "title": "Ronaldo phá hai kỷ lục World Cup của Messi",
+        "source": "VnExpress",
+        "url": "https://vnexpress.net/ronaldo-pha-hai-ky-luc-world-cup-cua-messi-5089177.html"
       }
     },
     {
-      "keyword": "wc",
+      "keyword": "후사노프",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Spence and Guehi expected to start as England face Ghana in second World Cup game",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cx2j74xqy7jt"
-      }
-    },
-    {
-      "keyword": "portugal",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Ruben Amorim quer convencer Luka Modric a ficar no Milan",
-        "source": "SAPO",
-        "url": "https://sapo.pt/artigo/ruben-amorim-quer-convencer-luka-modric-a-ficar-no-milan-6a3aaeb9e8bab651cddef453"
+        "title": "아시아에서 가장 비싼 선수가 호날두의 해트트릭 달성을 막았다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/cau-thu-dat-nhat-chau-a-ngan-ronaldo-ghi-hat-trick"
       }
     },
     {
@@ -67,9 +47,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Гол Криштиану Роналду. Португалия - Узбекистан. 1:0 (видео). Чемпионат мира-2026. Футбол",
-        "source": "Sportbox",
-        "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2338164_clip_Gol_Krishtianu_Ronaldu_Portugalija___Uzbekistan_10_video_Chempionat_mira_2026_Futbol"
+        "title": "В матче ЧМ-2026 Португалия обыграла Узбекистан со счетом 5:0, Роналду оформил дубль",
+        "source": "ERR",
+        "url": "https://rus.err.ee/1610061737/v-matche-chm-2026-portugalija-obygrala-uzbekistan-so-schetom-5-0-ronaldu-oformil-dubl"
       }
     },
     {
@@ -83,13 +63,23 @@
       }
     },
     {
+      "keyword": "추미애",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "추미애 인수위 ‘재정난 우려’…이재명·김동연 거친 ‘기금 돌려막기’ 청구서",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/zBDdb8nQGl"
+      }
+    },
+    {
       "keyword": "페페",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Why is Pepe not playing in Portugal vs DR Congo in FIFA World Cup 2026?",
-        "source": "Sportstar",
-        "url": "https://sportstar.thehindu.com/football/fifa-world-cup/why-is-pepe-not-playing-for-portugal-vs-dr-congo-fifa-world-cup-2026-news/article71115103.ece"
+        "title": "Why Pepe isn’t playing at the 2026 World Cup with Portugal",
+        "source": "Bolavip US",
+        "url": "https://bolavip.com/en/world-cup/why-pepe-isnt-playing-at-the-world-cup-with-portugal"
       }
     },
     {
@@ -97,9 +87,19 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "공정한 성과급 체계 설계하려면",
-        "source": "동아비즈니스리뷰 | DBR",
-        "url": "https://dbr.donga.com/article/view/1101/article_no/12176"
+        "title": "김정관 \"새 반도체 단지 필요…기존 투자만으로 안돼\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qZ8Spbx2ZG"
+      }
+    },
+    {
+      "keyword": "하트시그널5",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'하시5' 최소윤, '연하남' 김서원에 '심쿵'…\"얘가 이렇게 잘생겼었나\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623114905574"
       }
     }
   ]
