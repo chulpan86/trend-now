@@ -1450,5 +1450,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-25T07:07:27.158599+09:00",
+    "label": "07:07",
+    "items": [
+      {
+        "keyword": "스코틀랜드 대 브라질",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[AI프리뷰] 2026 월드컵 25일 C조 스코틀랜드-브라질전, 복귀전서 조 1위를 노리는 네이마르",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260624001154"
+        }
+      },
+      {
+        "keyword": "장마",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“이미 지각인데”…53년간 딱 2번 ‘7월 장마’ 오나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260625060238611"
+        }
+      },
+      {
+        "keyword": "마이크론 테크놀로지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "마이크론, AI 수요에 사상 최대 실적…매출 전년 대비 4.5배 급증",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202606256415i"
+        }
+      },
+      {
+        "keyword": "일본",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "일본이 앞서 가나 싶었지만…32강 대진표 보니 ‘희비교차’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8594382"
+        }
+      },
+      {
+        "keyword": "미스트롯 포유",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[TV조선] 납량 특집, 한풀이 무대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260625004103908"
+        }
+      },
+      {
+        "keyword": "mu stock",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Micron to report third quarter earnings amid sky-high demand from data centers",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/micron-to-report-third-quarter-earnings-amid-sky-high-demand-from-data-centers-113000152.html"
+        }
+      },
+      {
+        "keyword": "정년",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“정년 65세? 생산성 떨어져”… 사장님 80%의 선택은 ‘정년 연장보다 재고용’[중기+]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/p4QxEchD1U"
+        }
+      },
+      {
+        "keyword": "백진희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "백진희 “내 자신이 무서웠다”…만취 후 겪은 ‘블랙아웃’ 뭐길래",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624144600647"
+        }
+      },
+      {
+        "keyword": "성리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'무명전설' 성리 눈물의 '애가'→'상탈' 섹시 무대…톱6 콘서트 실황 공개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6206447"
+        }
+      },
+      {
+        "keyword": "한화솔루션",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한화, 판교 연구소 매각해 2800억 확보…한화솔루션 유증 대비",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260624102426"
+        }
+      }
+    ]
   }
 ]
