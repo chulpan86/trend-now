@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T03:39:38.102878+09:00",
-    "label": "03:39",
-    "items": [
-      {
-        "keyword": "아르헨티나 대 오스트리아",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "메시·음바페·홀란 동시 출격‥'득점왕 경쟁 후끈'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6832042_37004.html"
-        }
-      },
-      {
-        "keyword": "트위터",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "X Outage Seemingly Over As Cloudflare Deploys Fix",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/22/x-down-outage-reports-surge-monday-morning/"
-        }
-      },
-      {
-        "keyword": "argentina vs austria",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "¡De la mano de Leo! Messi encamina a Argentina al triunfo sobre Austria",
-          "source": "TUDN",
-          "url": "https://www.tudn.com/mundial-2026/lionel-messi-encamina-a-argentina-al-triunfo-sobre-austria-en-el-primer-tiempo-video"
-        }
-      },
-      {
-        "keyword": "초콜릿",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "한입 먹어보니 \"정말 놀랍다\"…특허까지 낸 북한 '보라콩 초콜릿'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622184402182"
-        }
-      },
-      {
-        "keyword": "argentina",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Lionel Messi breaks record for most World Cup goals after Austria strike",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all"
-        }
-      },
-      {
-        "keyword": "김선근",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"KBS 대출로 투자했다가 실패\"…김선근, 돌연 퇴사한 이유 (짠한형)[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622200951577"
-        }
-      },
-      {
-        "keyword": "kone",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Soccer fans rejoice as Canada delivers 6-0 win vs. Qatar",
-          "source": "Vancouver Sun",
-          "url": "https://vancouversun.com/news/local-news/soccer-fans-rejoice-as-canada-delivers-6-0-win-vs-qatar"
-        }
-      },
-      {
-        "keyword": "학생",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "필리핀 고등학교서 총기 난사…학생 3명 사망·7명 부상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622194109139"
-        }
-      },
-      {
-        "keyword": "새마을 금고",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"주식으로 돈 다 빠져나간다\"…개미 탈출 행렬에 '특단의 조치'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202606229897v"
-        }
-      },
-      {
-        "keyword": "황치열",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“구미GD?”…황치열 \"‘구미 마이클잭슨&비’ 는 인정 ('말자쇼')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622232816108"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-23T06:27:18.773939+09:00",
     "label": "06:27",
     "items": [
@@ -1361,6 +1255,112 @@
           "title": "\"책 잔치에 활력\"…문체부, 서울국제도서전 131개 출판사 지원",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260624024700005"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24T17:19:33.877851+09:00",
+    "label": "17:19",
+    "items": [
+      {
+        "keyword": "뉴스 속보",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "합참 \"23일 밤 중부전선서 북한군 1명 신병 확보\"",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260624509053"
+        }
+      },
+      {
+        "keyword": "정부",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[현장1열] 불 꺼진 홈플러스...\"아직 사람이 있어요\"",
+          "source": "뉴스타파",
+          "url": "https://www.newstapa.org/article/Rtvza"
+        }
+      },
+      {
+        "keyword": "석유",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"美 원유 제재 면제로 이란 60일간 최대 4조7천억원 수익\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260624134000009"
+        }
+      },
+      {
+        "keyword": "캐나다 잠수함",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "캐나다 조달청장 \"잠수함 수주전, '경제 혜택' 집중 검증\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260624018700072"
+        }
+      },
+      {
+        "keyword": "kbo 올스타전",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'별들의 잔치' 주인공은 누구? KBO 올스타 베스트12, 내일 '크보라이브' 통해 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/u5wmOTFYvB"
+        }
+      },
+      {
+        "keyword": "냉장고",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "롯데하이마트, 초슬림 냉동고·정수기 틈새 공간에 쏙…플럭스, 1·2인 가구 취향 저격",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026062446521"
+        }
+      },
+      {
+        "keyword": "벨라루스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"러, 우크라에 고전하자 벨라루스에 '새 전선 열라' 압박\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260624034000009"
+        }
+      },
+      {
+        "keyword": "하이닉스 채용",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"HBM 엔지니어 없으면 미래 없다\"… 국경 사라진 반도체 인재 확보 전쟁",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/06/24/WGRTKODDCZHSPNJQJPRNYYAZJY/"
+        }
+      },
+      {
+        "keyword": "송옥주",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘경로당 기부행사’ 송옥주 민주당 의원 무죄 확정",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606241209001"
+        }
+      },
+      {
+        "keyword": "하현승",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] '최대어' 하현승, 300만 달러 제안받았다…KBO 잔류 선언했는데, 양키스 이렇게 진심이라니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624143432119"
         }
       }
     ]
