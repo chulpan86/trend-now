@@ -1258,5 +1258,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-24T23:06:07.211594+09:00",
+    "label": "23:06",
+    "items": [
+      {
+        "keyword": "내일 날씨",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "[날씨] 내일 오후부터 '요란한 소나기'‥돌풍·벼락·우박 유의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624210303933"
+        }
+      },
+      {
+        "keyword": "weather tomorrow",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "Denver weather: Pinpoint Weather Alert Day for strong to severe storms Tuesday night",
+          "source": "KDVR",
+          "url": "https://kdvr.com/weather/weather-forecast/denver-weather-pinpoint-weather-alert-day-for-strong-to-severe-storms-tuesday-night/"
+        }
+      },
+      {
+        "keyword": "thời tiết ngày mai",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Bản tin dự báo thời tiết đêm nay và ngày mai 25.6",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-256-1724261.ldo"
+        }
+      },
+      {
+        "keyword": "погода завтра",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Прогноз погоды в Ангарске на четверг, 25 июня",
+          "source": "Сайт города Ангарск",
+          "url": "https://angarsk-38.ru/news/prognoz-pogody-v-angarske-na-chetverg-25-iyunya-2/"
+        }
+      },
+      {
+        "keyword": "성과급",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "현대차 노조, 2년 연속 파업하나…찬반투표 86.65% 찬성",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260624156700057"
+        }
+      },
+      {
+        "keyword": "첫 번째 남자",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'첫 번째 남자' 함은정, 오현경 범죄 증거 확보…쌍둥이 억울한 죽음 밝힐까",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/509345"
+        }
+      },
+      {
+        "keyword": "80달러",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "GTA6, 사전 주문 시작… 역대급 흥행 기대 속 노조 탄압 그림자",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zSdVz6LxWi"
+        }
+      },
+      {
+        "keyword": "방화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "만취상태로 자기 호텔 방화 추정···제지하던 일가족 화상·투숙객 40여명 대피",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606240946001"
+        }
+      },
+      {
+        "keyword": "이성미",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[TV조선] 이성미의 40년 우정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624004104801"
+        }
+      },
+      {
+        "keyword": "류승민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "삼성 외면한 '4할 타자', 잠실 와서 꽃 피나…'초대형 트레이드 주인공' 동반 성장 예고 \"결이 다르다\" [대전 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624123517815"
+        }
+      }
+    ]
   }
 ]
