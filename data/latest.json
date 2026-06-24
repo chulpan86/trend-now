@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-06-25T01:59:08.490752+09:00",
-  "label": "01:59",
+  "timestamp": "2026-06-25T03:52:01.712643+09:00",
+  "label": "03:52",
   "items": [
     {
-      "keyword": "내일 날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "2026 fifa 월드컵 순위",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "[라인W 날씨] 내일 곳곳에 강한 소나기…심한 더위는 없어",
+        "title": "'한국과 32강전, 조 2위 무승부 담합 의혹' 스위스 감독 반박…\"캐나다전 승리 노린다\" [2026 WC]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260625000709541"
+        "url": "https://v.daum.net/v/20260624190401655"
       }
     },
     {
@@ -27,10 +27,36 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "2026 World Cup Bracket, Standings, Projections: USA in Round of 32, Who Else Might Advance?",
-        "source": "FOX Sports",
-        "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-standings-projections-usa-round-32-who-else-might-advance"
+        "title": "World Cup 2026 Power Rankings after two games: Who is No. 1?",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49154319/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france"
       }
+    },
+    {
+      "keyword": "책",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김혜경 여사, 2026 서울국제도서전 개막식 참석 | 김혜경 여사 | 미디어",
+        "source": "대한민국 청와대",
+        "url": "https://www.president.go.kr/photos/first-lady/eYaORLY0"
+      }
+    },
+    {
+      "keyword": "구글 주가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“윗사람 눈치보는 ‘예스맨’만 남아”…천재들이 구글을 떠난 이유",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20059235"
+      }
+    },
+    {
+      "keyword": "근로장려금",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
       "keyword": "영화",
@@ -41,32 +67,6 @@
         "source": "Daum",
         "url": "https://v.daum.net/v/20260624060203787"
       }
-    },
-    {
-      "keyword": "류승민",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한화 이렇게 못 친다고? 5위 또 빼앗겼네…두산, 7-2 승+4연패 탈출→최민석 QS 7승+김민석 결승포 [대전:스코어]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260624214918746"
-      }
-    },
-    {
-      "keyword": "80달러",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "GTA6, 사전 주문 시작… 역대급 흥행 기대 속 노조 탄압 그림자",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zSdVz6LxWi"
-      }
-    },
-    {
-      "keyword": "근로장려금",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     },
     {
       "keyword": "이가 시비옹테크",
