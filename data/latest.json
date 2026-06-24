@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-06-24T07:59:28.151419+09:00",
-  "label": "07:59",
+  "timestamp": "2026-06-24T09:00:10.934273+09:00",
+  "label": "09:00",
   "items": [
     {
-      "keyword": "이상윤",
+      "keyword": "스페이스x",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "스페이스X 회사채에 130조원 몰려…위험 낮은 단기물에 집중",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260624013000009"
+      }
+    },
+    {
+      "keyword": "박지성",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'연상연하' 다이아 출신 기희현·이상윤, SNS로 '열애' 깜짝 발표…오사카 여행",
+        "title": "‘월드컵 최초’ 16강 한일전 성사된다면, 박지성 뼈 때리는 작심발언 “일본 축구, 한국보다 앞서있다”…“한국은 좋은 선수 데리고 있는데 어떤 모습을 유지하고 있지 않아”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260624073951910"
+        "url": "https://v.daum.net/v/20260624044151284"
       }
     },
     {
-      "keyword": "공기업",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "파나마 대 크로아티아",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'해임 건의' 장원삼 이사장 사표…코이카, 비상 경영체제 돌입",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260623043100371"
+        "title": "[AI프리뷰] 2026 월드컵 24일 L조 파나마-크로아티아전, 승리 간절한 '200 A매치' 모드리치",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260623000596"
       }
     },
     {
-      "keyword": "지소연",
+      "keyword": "panama vs croatia",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "지소연, 갑자기 쓰러진 후 근황…세 아이 남겨두고 뉴욕여행 “많이 지쳐있었다”",
+        "title": "Preview: Panama vs Croatia - prediction, team news, lineups | World Cup 2026",
+        "source": "Sports Mole",
+        "url": "https://www.sportsmole.co.uk/football/panama/world-cup-2026/preview/panama-vs-croatia-prediction-team-news-lineups_599736.html"
+      }
+    },
+    {
+      "keyword": "정유공장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "우크라, 러 본토에 대규모 드론 공습…모스크바 공항 4곳 한때 폐쇄",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260623071318766"
+        "url": "https://v.daum.net/v/20260623182507646"
       }
     },
     {
-      "keyword": "패션",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "All the Celebrity Sightings at Men’s Spring 2027 Fashion Week",
-        "source": "Vogue",
-        "url": "https://www.vogue.com/slideshow/all-the-celebrity-sightings-at-mens-spring-2027-fashion-week"
-      }
-    },
-    {
-      "keyword": "england vs ghana",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "England vs Ghana LIVE: Watch FIFA World Cup Group L TV stream, score, lineup, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cx2j74xqy7jt"
-      }
-    },
-    {
-      "keyword": "mu",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Micron’s Red-Hot Run Hits a Wall as Stock Suffers Worst Drop in More Than a Year",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/micron-stock-price-memory-chip-sellfoff-be416ca2"
-      }
-    },
-    {
-      "keyword": "항공권",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "vix",
+      "keyword": "현대백화점 울산점",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "India VIX Surge‌‌s 8.57% to 14.22 After Mid-Session Ca‌lm Fades",
-        "source": "HDFC Sky",
-        "url": "https://hdfcsky.com/news/india-vix-surges-8-57percent-to-14-22-after-mid-session-calm-fades"
+        "title": "현대백화점 '1호점' 사라지나…주민들 '술렁'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623231955794"
       }
     },
     {
-      "keyword": "nvda",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "스팀",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Nvidia: The $1 Trillion Trade Hiding In Plain Sight (NASDAQ:NVDA)",
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4916773-nvidia-the-1-trillion-trade-hiding-in-plain-sight"
+        "title": "The Steam Machine is the most ambitious game console I’ve ever played",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/games/952765/steam-machine-review"
       }
     },
     {
-      "keyword": "오늘의 운세",
+      "keyword": "첫 번째 남자",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "종영 한 주 남기고 자체 최고 시청률 찍었다…MBC 함은정 결혼 복귀작, 6.1% 기록 ('첫번째')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/3vTWH39UXa"
+      }
+    },
+    {
+      "keyword": "대한민국 남아공",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[오늘의 운세] 2026년 06월 24일 띠별 운세",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0121_202606240000000001"
+        "title": "[월드컵] '남아공의 야야' 시톨레 \"토너먼트 진출 새 역사, 엄청난 동기\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260624034755851"
+      }
+    },
+    {
+      "keyword": "연비",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "첫 차의 정석 폭스바겐 골프…연비·안전·주행 고루 합격점",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026062322451"
       }
     }
   ]
