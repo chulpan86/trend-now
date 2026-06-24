@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T06:27:18.773939+09:00",
-    "label": "06:27",
-    "items": [
-      {
-        "keyword": "기상",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "제주 최대 60㎜ 비, 중부는 맑음…낮 22∼30도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260623008300034"
-        }
-      },
-      {
-        "keyword": "프랑스 대 이라크",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "음바페 막으려면 골키퍼 3명 필요?···결전 앞둔 적장의 ‘웃픈 농담’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606221752001"
-        }
-      },
-      {
-        "keyword": "잠수함",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "파이오링크, 해군 행사서 잠수함용 국산 네트워크 스위치 전시",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260622_0003678886"
-        }
-      },
-      {
-        "keyword": "임영웅",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "임영웅 이런 모습 처음...막걸리 한잔에 볼 발그레 '꾸안꾸 청춘미' [MD★스타]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/y2qx9nDgDy"
-        }
-      },
-      {
-        "keyword": "투표",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독]중단된 투표소 9곳 사전투표 저조…\"예견 가능했다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260623050334252"
-        }
-      },
-      {
-        "keyword": "가요무대",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘가요무대’ 출연진 양지은→홍지윤",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/brJULIHlM5"
-        }
-      },
-      {
-        "keyword": "대구광역시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "광주 창업기업 고용 늘었지만 성장 둔화…중기부 지원에 성장 정체 극복 기대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260623024707535"
-        }
-      },
-      {
-        "keyword": "프랑스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[르포] \"샹젤리제 거리 41도, 5분만에 땀 줄줄\"…폭염에 녹아내린 파리",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260623000305504"
-        }
-      },
-      {
-        "keyword": "음바페",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"베컴이 오라고 연락해\" 음바페, 감독설 일축하고 美 진출 가능성 '활짝'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622091018397"
-        }
-      },
-      {
-        "keyword": "호날두",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“호날두 이기적” 축구전설 때리자…“호날두만한 선수 없다” 동료 반박",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25438746"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-23T08:11:52.481620+09:00",
-    "label": "08:11",
-    "items": [
-      {
-        "keyword": "김구라",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "김구라 아들 그리 \"엄마가 큰 빚 지고 제주도 도피\" 과거 언급 (김그리)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622223505638"
-        }
-      },
-      {
-        "keyword": "2026",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Lionel Messi breaks World Cup goals record as Argentina beat Austria. This is how he did it",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7376689/2026/06/22/argentina-austria-world-cup-result-analysis/"
-        }
-      },
-      {
-        "keyword": "조세",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "사우디서 날아온 8500억 ‘추징 폭탄’…DL이앤씨 “억지 과세 불복”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622194416180"
-        }
-      },
-      {
-        "keyword": "s&p 500",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[New York Stock Market] Ends Mixed... Nasdaq Slumps on Sharp Drop in SpaceX",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026062305393295127"
-        }
-      },
-      {
-        "keyword": "롯데 자이언츠",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[프로야구전망대] '5연승' 롯데, 중위권 진입 목표로 NC·LG와 6연전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QqQ5Z2e4H2"
-        }
-      },
-      {
-        "keyword": "테슬라",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "애플·테슬라 영업비밀 다크웹 유출…인도 제조사 타타 해킹",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260623025603553"
-        }
-      },
-      {
-        "keyword": "런닝맨",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"유재석, 서울대 갔을 사람\"…비현실적 지식 수준 화제 (런닝맨)[엑's 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622150103981"
-        }
-      },
-      {
-        "keyword": "pltr",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Palantir Stock Falls Below a Key Price Level. How Low It Could Go.",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/palantir-stock-price-today-9a11b1a1"
-        }
-      },
-      {
-        "keyword": "김포시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김포시, 민관 협력으로 지역 개발 가속화",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260621500405"
-        }
-      },
-      {
-        "keyword": "pháp vs",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Trực tuyến Pháp – Iraq (4h ngày 22-6): Cơ hội để Mbappe đuổi theo Messi",
-          "source": "شبكة تواصل الإخبارية",
-          "url": "https://twaslnews1.twaslnews.com/2560933/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-23T11:12:52.882241+09:00",
     "label": "11:12",
     "items": [
@@ -1361,6 +1149,112 @@
           "title": "[단독] '최대어' 하현승, 300만 달러 제안받았다…KBO 잔류 선언했는데, 양키스 이렇게 진심이라니",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260624143432119"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24T20:38:00.424026+09:00",
+    "label": "20:38",
+    "items": [
+      {
+        "keyword": "익사",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "’물놀이장 참변’ 초등생 형제 사인 ’감전 후 익사’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260623183315rSc"
+        }
+      },
+      {
+        "keyword": "금융시장",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "한은 \"집값 다시 오르고 빚투 늘어…금융안정 불안 요인\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624181956550"
+        }
+      },
+      {
+        "keyword": "차승원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "임영웅X시월이X찐친 조합, 첫 방송부터 예능 시청률 1위",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/06/24/KV2ONLLTIVD5LBLHZ654LCTC2M/"
+        }
+      },
+      {
+        "keyword": "lg이노텍",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'153만원→96만원' 폭락…외국인 바닥서 1300억 쓸어 담았다 [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202606245499i"
+        }
+      },
+      {
+        "keyword": "로스앤젤레스 다저스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"굴욕적인 패배를 당했다\" 다저스 완패, 로버츠, \"이건 우리 모습이 아니다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260622184151137?f=p"
+        }
+      },
+      {
+        "keyword": "기사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘특징주 기사’ 3초 전 매수, 8초 후 매도… 언론계 선행매매·주가조작 수법들",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335348"
+        }
+      },
+      {
+        "keyword": "서울양평고속도로",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘양평고속도로 의혹’ 뇌물 혐의 국토부 서기관, 공소기각 확정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624124542970"
+        }
+      },
+      {
+        "keyword": "태영호",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'울 아빠 알죠?' 투자받더니 '꿀꺽' 태영호 아들 결국‥",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6832600_36918.html"
+        }
+      },
+      {
+        "keyword": "빅뱅 콘서트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "빅뱅, 20주년 콘서트 고양 공연 선예매 D-1…포스터 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2jP3IjIkXy"
+        }
+      },
+      {
+        "keyword": "의정부시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "의정부시,'점자 민원업무 안내책자' 새롭게 단장",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20260624500226"
         }
       }
     ]
