@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-06-25T19:33:57.552206+09:00",
-  "label": "19:33",
+  "timestamp": "2026-06-25T22:10:33.002175+09:00",
+  "label": "22:10",
   "items": [
     {
-      "keyword": "한화오션",
+      "keyword": "kia 대 키움",
       "traffic_raw": "20000+",
       "traffic": 20000,
-      "news": {
-        "title": "한국 잠수함으로 팔자 고치려는 캐나다…‘100조 투자’ 한화오션 압승? [밀리터리+]",
-        "source": "나우뉴스",
-        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260624601024"
-      }
-    },
-    {
-      "keyword": "kia 대 키움",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
       "news": {
         "title": "1이닝 더 자청한 양현종, 꽃감독은 왜 안된다고 했나 “후반기도 생각, 올러도 1번 던지고 전반기 마감” [오!쎈 고척]",
         "source": "Daum",
@@ -23,23 +13,53 @@
       }
     },
     {
-      "keyword": "교사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "장기 기증",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "내년 교사 신규채용, 초등 2700~2900명…중등 4700~5100명",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967122"
+        "title": "\"첫 손주 그토록 기다리다 갑자기…\" 4명 살리고 떠났다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xzANBwTszU"
       }
     },
     {
-      "keyword": "김영옥",
+      "keyword": "교사",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "학생 줄어도 내년 中高 교사는 확 늘린다…\"고교학점제 뒷받침\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260625141102174"
+      }
+    },
+    {
+      "keyword": "오은영",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "남편 떠나보낸 김영옥, 택배 뜯다 울컥 \"사탕 안 받은 게 너무 후회돼\"",
+        "title": "‘금쪽같은 내새끼’ 母 잃고 은둔 금쪽이, 폭풍성장 근황",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260625111146279"
+        "url": "https://v.daum.net/v/20260625152030243"
+      }
+    },
+    {
+      "keyword": "노주현",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘800평 자택’ 노주현, ‘15억 실버타운’ 입주했다",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11598127"
+      }
+    },
+    {
+      "keyword": "빅뱅 콘서트",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "빅뱅 20주년 월드투어 본격 카운트다운",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xCIOjACEUw"
       }
     },
     {
@@ -53,50 +73,34 @@
       }
     },
     {
-      "keyword": "노주현",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘800평 자택’ 노주현, ‘15억 실버타운’ 입주했다",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11598127"
-      }
-    },
-    {
-      "keyword": "모듈러 주택",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "가전회사가 집을 만든다? 삼전의 역발상 '모듈러 주택'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fMYTSVd870?f=p"
-      }
-    },
-    {
-      "keyword": "혼슈",
+      "keyword": "구자철",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "日혼슈북부 규모 7.2 지진…\"후속지진 가능성\"(종합2보)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260625191406259"
+        "title": "선수들도 몰랐다…손흥민을 왜 빼? 선발 제외 미스터리",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12305094"
       }
     },
     {
-      "keyword": "이만희 구속",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "new zealand vs england",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "[속보]‘교인 국힘 집단 가입’ 이만희 신천지 총회장 구속···“증거인멸 염려”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606242307001"
+        "title": "Ball by Ball Commentary & Live Score - ENG vs NZ, 3rd Test",
+        "source": "Cricinfo",
+        "url": "https://www.espncricinfo.com/series/new-zealand-in-england-2026-1496491/england-vs-new-zealand-3rd-test-1496573/ball-by-ball-commentary"
       }
     },
     {
-      "keyword": "한국수력원자력",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "규제",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "11억이던 옥수동 아파트, 3개월 만에 갔더니…서민들 '비명'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026062572406"
+      }
     }
   ]
 }
