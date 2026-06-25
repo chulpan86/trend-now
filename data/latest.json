@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-06-25T12:37:01.880678+09:00",
-  "label": "12:37",
+  "timestamp": "2026-06-25T16:33:36.179249+09:00",
+  "label": "16:33",
   "items": [
     {
-      "keyword": "애슬레틱스 대 자이언츠",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "'손흥민 유니폼' 입고 등장한 '바람의 손자' 이정후… 축구 대표팀 깜짝 응원",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/F4Xgh4iP18"
-      }
-    },
-    {
-      "keyword": "한국축구경기",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "\"월드컵 32강 가도 못 본다?\"...JTBC \"잘못된 정보\" [앵커리포트]",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0107_202606241240041237"
-      }
-    },
-    {
-      "keyword": "설영우",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "\"한국 국대 자격없다, 깝죽대지 말고 자진하차해라\" 부진했다고 거의 범죄자 취급...비난 댓글로 초토화된 설영우 SNS",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260624100631312"
-      }
-    },
-    {
-      "keyword": "월드컵 라이브",
+      "keyword": "박정수",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "긴장한 전현무 달래는 이영표…“오늘 한국 3득점 이상 새 역사 쓴다!” [현장영상]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8594722"
-      }
-    },
-    {
-      "keyword": "fotmob",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Lionel Messi makes World Cup 2030 declaration as Argentine ace eyes retirement success",
-        "source": "The Mirror",
-        "url": "https://www.mirror.co.uk/sport/football/news/lionel-messi-argentina-retirement-olympics-37344017"
-      }
-    },
-    {
-      "keyword": "숲",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "삼표그룹, 서울숲 '삼표 정원'서 체험형 프로그램 선보여",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260625_0003682758"
-      }
-    },
-    {
-      "keyword": "상장",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"55만전자 간다\" 美 ADR 상장 가능성에 주가 재평가…신세계, 외국인 명품 싹쓸이가 성장 동력 [株토피아]",
+        "title": "할머니가 '230억 건물주'…박정수 손녀 \"등골 브레이커 아니라고요\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260625110950071"
+        "url": "https://v.daum.net/v/20260625081432147"
       }
     },
     {
-      "keyword": "핵무기",
+      "keyword": "sk그룹",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'반도체 호남행' 충돌…野 \"전당대회용\" 與 \"지역갈등 조장\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260625153633070"
+      }
+    },
+    {
+      "keyword": "유조선",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "국적선 5척 호르무즈 통과…한국인 선원 87명 남아",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606250936001"
+      }
+    },
+    {
+      "keyword": "앤 트로픽",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "앤트로픽 “알리바바, 역대 최대 AI모델 베끼기 시도”…美 의회 서한",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260625113016503"
+      }
+    },
+    {
+      "keyword": "지진",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "연쇄 강진에 폐허 된 베네수엘라…\"마치 공포영화 같았다\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260625160610702"
+      }
+    },
+    {
+      "keyword": "신원철",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한국 군사력의 과제… 북한의 핵무기와 경제 격차 속 해법은?",
-        "source": "스페셜타임스",
-        "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=443594"
+        "title": "우상호 강원도지사 당선인, 민선 9기 정무직 인선 발표···경제부지사에 신원철 전 서울시의회 의장",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606251123001"
       }
     },
     {
-      "keyword": "벤투",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "호날두와 어깨 나란히… 벤투가 직접 뽑은 베스트 11에 한국 선수 무려 '3명' 포함됐다",
-        "source": "위키트리",
-        "url": "https://www.wikitree.co.kr/articles/1143001"
-      }
+      "keyword": "신한카드",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
     },
     {
-      "keyword": "이을용",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "지민",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[SPO 현장] ‘레전드’ 박지성, 홍명보 감독에 냉정한 작심발언 “손흥민 조기 교체 아쉽다…더 적합한 공격 전술 준비해야”",
+        "title": "\"상상하던 왕자의 모습\" 방탄소년단 지민, 파리 패션위크 장악",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260625003751882"
+        "url": "https://v.daum.net/v/20260625074151409"
+      }
+    },
+    {
+      "keyword": "뇌사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "6월에 터진 43°C 지옥…에어컨 없는 유럽을 주저앉힌 '열돔'의 경고 [스프]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260625105100966"
+      }
+    },
+    {
+      "keyword": "jp모건 체이스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/outkick-sports/knicks-parade-attendee-dumped-trash-sidewalk-identified-jpmorgan-chase-dei-exec-promptly-fired"
       }
     }
   ]
