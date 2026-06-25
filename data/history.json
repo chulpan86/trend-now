@@ -1450,5 +1450,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-26T08:07:40.510176+09:00",
+    "label": "08:07",
+    "items": [
+      {
+        "keyword": "조국",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "조국 “단일화도 거부됐는데, 27.24% 득표…평택지역위 분투 때문”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260625220902209"
+        }
+      },
+      {
+        "keyword": "우연 이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'특종세상' 우연이, 전남편 생각에 눈물…\"2년 전 세상 떠나\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260625221348252"
+        }
+      },
+      {
+        "keyword": "무인 항공기",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "리투아니아, 최고 시속 320km의 속도로 샤헤드를 추적하는 무인 항공기 공개",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lithuania-trinh-lang-uav-san-shahed-voi-toc-do-toi-320km-h"
+        }
+      },
+      {
+        "keyword": "호주 파라과이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한국 운명, 호주-파라과이에 걸렸다... 무승부는 악재, 3위표 마지막 계산 시작",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260625051129514"
+        }
+      },
+      {
+        "keyword": "송은이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "소속사 사장 송은이 “'왕사남' 장항준이 사내 매출 1위”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260625174912098"
+        }
+      },
+      {
+        "keyword": "เอกวาดอร์ พบ เยอรมนี",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "บทวิเคราะห์เยอรมนีและเอกวาดอร์: \"รถถังเยอรมัน\" ตั้งเป้าครองอันดับหนึ่งในกลุ่ม E",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-duc-va-ecuador-co-xe-tang-huong-den-ngoi-dau-bang-e"
+        }
+      },
+      {
+        "keyword": "담보 대출",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "하나은행도 모기지보험 가입 제한…가계대출 문턱 더 높인다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260625157200002"
+        }
+      },
+      {
+        "keyword": "대한민국 우주항공청",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[르포]사천 빈 들판 위 '우주항공청 신청사' 표지…2030년 우주항공 수도 밑그림",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260625_0003683199"
+        }
+      },
+      {
+        "keyword": "월드컵 조별 순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "32강 가는 길도 ‘경우의 수’ 신세",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260626/134185334/2"
+        }
+      },
+      {
+        "keyword": "strc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Why is Strategy stock sliding to a new 52-week low today?",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-to-a-new-52week-low-today-93CH-4761260"
+        }
+      }
+    ]
   }
 ]
