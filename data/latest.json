@@ -1,102 +1,102 @@
 {
-  "timestamp": "2026-06-25T16:33:36.179249+09:00",
-  "label": "16:33",
+  "timestamp": "2026-06-25T19:33:57.552206+09:00",
+  "label": "19:33",
   "items": [
     {
-      "keyword": "박정수",
+      "keyword": "한화오션",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "한국 잠수함으로 팔자 고치려는 캐나다…‘100조 투자’ 한화오션 압승? [밀리터리+]",
+        "source": "나우뉴스",
+        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260624601024"
+      }
+    },
+    {
+      "keyword": "kia 대 키움",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "할머니가 '230억 건물주'…박정수 손녀 \"등골 브레이커 아니라고요\"",
+        "title": "1이닝 더 자청한 양현종, 꽃감독은 왜 안된다고 했나 “후반기도 생각, 올러도 1번 던지고 전반기 마감” [오!쎈 고척]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260625081432147"
+        "url": "https://v.daum.net/v/20260625181118814"
       }
     },
     {
-      "keyword": "sk그룹",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'반도체 호남행' 충돌…野 \"전당대회용\" 與 \"지역갈등 조장\"(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260625153633070"
-      }
-    },
-    {
-      "keyword": "유조선",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "국적선 5척 호르무즈 통과…한국인 선원 87명 남아",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606250936001"
-      }
-    },
-    {
-      "keyword": "앤 트로픽",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "앤트로픽 “알리바바, 역대 최대 AI모델 베끼기 시도”…美 의회 서한",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260625113016503"
-      }
-    },
-    {
-      "keyword": "지진",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "연쇄 강진에 폐허 된 베네수엘라…\"마치 공포영화 같았다\"(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260625160610702"
-      }
-    },
-    {
-      "keyword": "신원철",
+      "keyword": "교사",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "우상호 강원도지사 당선인, 민선 9기 정무직 인선 발표···경제부지사에 신원철 전 서울시의회 의장",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606251123001"
+        "title": "내년 교사 신규채용, 초등 2700~2900명…중등 4700~5100명",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967122"
       }
     },
     {
-      "keyword": "신한카드",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "지민",
+      "keyword": "김영옥",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"상상하던 왕자의 모습\" 방탄소년단 지민, 파리 패션위크 장악",
+        "title": "남편 떠나보낸 김영옥, 택배 뜯다 울컥 \"사탕 안 받은 게 너무 후회돼\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260625074151409"
+        "url": "https://v.daum.net/v/20260625111146279"
       }
     },
     {
-      "keyword": "뇌사",
+      "keyword": "임우재",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "6월에 터진 43°C 지옥…에어컨 없는 유럽을 주저앉힌 '열돔'의 경고 [스프]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260625105100966"
+        "title": "'노인 폭행 연루' 임우재 前삼성전기 고문 2심서 집행유예·석방",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260625122400004"
       }
     },
     {
-      "keyword": "jp모건 체이스",
+      "keyword": "노주현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘800평 자택’ 노주현, ‘15억 실버타운’ 입주했다",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11598127"
+      }
+    },
+    {
+      "keyword": "모듈러 주택",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "가전회사가 집을 만든다? 삼전의 역발상 '모듈러 주택'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/fMYTSVd870?f=p"
+      }
+    },
+    {
+      "keyword": "혼슈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/outkick-sports/knicks-parade-attendee-dumped-trash-sidewalk-identified-jpmorgan-chase-dei-exec-promptly-fired"
+        "title": "日혼슈북부 규모 7.2 지진…\"후속지진 가능성\"(종합2보)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260625191406259"
       }
+    },
+    {
+      "keyword": "이만희 구속",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[속보]‘교인 국힘 집단 가입’ 이만희 신천지 총회장 구속···“증거인멸 염려”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606242307001"
+      }
+    },
+    {
+      "keyword": "한국수력원자력",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     }
   ]
 }
