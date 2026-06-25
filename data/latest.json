@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-25T08:58:47.382384+09:00",
-  "label": "08:58",
+  "timestamp": "2026-06-25T12:37:01.880678+09:00",
+  "label": "12:37",
   "items": [
     {
-      "keyword": "옌스 카스트로프",
+      "keyword": "애슬레틱스 대 자이언츠",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "'손흥민 유니폼' 입고 등장한 '바람의 손자' 이정후… 축구 대표팀 깜짝 응원",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/F4Xgh4iP18"
+      }
+    },
+    {
+      "keyword": "한국축구경기",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "\"월드컵 32강 가도 못 본다?\"...JTBC \"잘못된 정보\" [앵커리포트]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0107_202606241240041237"
+      }
+    },
+    {
+      "keyword": "설영우",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "\"한국 국대 자격없다, 깝죽대지 말고 자진하차해라\" 부진했다고 거의 범죄자 취급...비난 댓글로 초토화된 설영우 SNS",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260624100631312"
+      }
+    },
+    {
+      "keyword": "월드컵 라이브",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "'카스트로프 또 없다' 홍명보 선택은 설영우·김문환... 英매체, 남아공전 라인업 예고",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260625051551826"
+        "title": "긴장한 전현무 달래는 이영표…“오늘 한국 3득점 이상 새 역사 쓴다!” [현장영상]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8594722"
       }
     },
     {
-      "keyword": "남아공",
+      "keyword": "fotmob",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘1983 붉은 악마’ Again… 그곳에서 오늘 남아공戰",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_special/2026/06/25/3KTU2KVPCNDN7JDMTR3BOW7LTI/"
+        "title": "Lionel Messi makes World Cup 2030 declaration as Argentine ace eyes retirement success",
+        "source": "The Mirror",
+        "url": "https://www.mirror.co.uk/sport/football/news/lionel-messi-argentina-retirement-olympics-37344017"
       }
     },
     {
-      "keyword": "체코 멕시코",
+      "keyword": "숲",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "멕시코 2군 대거 기용 시사! 한국엔 ‘악재’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8594399"
+        "title": "삼표그룹, 서울숲 '삼표 정원'서 체험형 프로그램 선보여",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260625_0003682758"
       }
     },
     {
-      "keyword": "송도동",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "상장",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "인천 송도동 더샵센트럴시티아파트 72㎡ 8억3000만원에 거래",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260624n32573"
-      }
-    },
-    {
-      "keyword": "шотландия – бразилия",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Шотландия — Бразилия: где смотреть прямую трансляцию матча ЧМ‑2026 25 июня",
-        "source": "Матч ТВ",
-        "url": "https://matchtv.ru/football/matchtvnews_NI2338335_Shotlandija__Brazilija_gde_smotret_pramuju_translaciju_matcha_ChM2026_25_ijuna"
-      }
-    },
-    {
-      "keyword": "백종원",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "백종원은 왜 ‘장터광장’에 집착하나…더본코리아 상표 재출원 논란",
-        "source": "데일리안",
-        "url": "https://www.dailian.co.kr/news/view/1658880"
-      }
-    },
-    {
-      "keyword": "브라질 축구",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "일본이 앞서 가나 싶었지만…32강 대진표 보니 ‘희비교차’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8594382"
-      }
-    },
-    {
-      "keyword": "권순우",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘말년병장’ 권순우, 2년 만의 윔블던 본선 출전까지 ‘1승’ 남아",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8594552"
-      }
-    },
-    {
-      "keyword": "홍현희",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'49kg' 홍현희, 20년 만에 앞자리 바뀐 이유 있었네…쌀밥 끊고 10km 야간 러닝까지",
+        "title": "\"55만전자 간다\" 美 ADR 상장 가능성에 주가 재평가…신세계, 외국인 명품 싹쓸이가 성장 동력 [株토피아]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260624142718744"
+        "url": "https://v.daum.net/v/20260625110950071"
       }
     },
     {
-      "keyword": "fifaワールドカップ 2026 順位表",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "핵무기",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "「私たちの唯一の希望はメキシコがすでに32強に進出したということだ」チェコは25日（韓国時間）、メキシコ·メキシコシティのメキシコシティスタジアムでメキシコと2026年北中米W杯1次リーグA組最終戦を..",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/jp/sports/12082493"
+        "title": "한국 군사력의 과제… 북한의 핵무기와 경제 격차 속 해법은?",
+        "source": "스페셜타임스",
+        "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=443594"
+      }
+    },
+    {
+      "keyword": "벤투",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "호날두와 어깨 나란히… 벤투가 직접 뽑은 베스트 11에 한국 선수 무려 '3명' 포함됐다",
+        "source": "위키트리",
+        "url": "https://www.wikitree.co.kr/articles/1143001"
+      }
+    },
+    {
+      "keyword": "이을용",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[SPO 현장] ‘레전드’ 박지성, 홍명보 감독에 냉정한 작심발언 “손흥민 조기 교체 아쉽다…더 적합한 공격 전술 준비해야”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260625003751882"
       }
     }
   ]
