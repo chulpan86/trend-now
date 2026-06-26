@@ -1372,5 +1372,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-27T07:02:38.142726+09:00",
+    "label": "07:02",
+    "items": [
+      {
+        "keyword": "에콰도르 축구 국가대표팀",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'한국 축구에 치명타' 날리고 국경일 선포!…\"역전승 대박이야\" 축제 분위기→에콰도르, 독일 격파에 난리 났다 [2026 월드컵]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626220252539"
+        }
+      },
+      {
+        "keyword": "이상인",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이상인, '금쪽이' 재출연..아내 \"우리 가족 동아줄\" 울컥 [금쪽같은 내 새끼]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626211416865"
+        }
+      },
+      {
+        "keyword": "이화영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "檢, 이화영 ‘연어 술파티’ 위증 항소포기…“배심원 의견 존중”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626192518237"
+        }
+      },
+      {
+        "keyword": "주유소",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "석유 최고가격, 150원 전격 인하…휘발유 1784원, 경유 1773원",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967228"
+        }
+      },
+      {
+        "keyword": "찰스 3세",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "7천500억원 들여 고쳤는데…찰스 3세, 버킹엄궁 입주 안해",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260626148600085"
+        }
+      },
+      {
+        "keyword": "퇴직금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "1년 내내 같은 일 하는데, 우정본부 ‘2개월 쪼개기 계약’",
+          "source": "매일노동뉴스",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=235254"
+        }
+      },
+      {
+        "keyword": "대한민국 국회 상임위원회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "국회의장 상임위 ‘팩스 배정’... 국힘 “이게 바로 독재” 반발",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/06/26/LU5GQOR7K5D4JK4CCQ25FNK44M/"
+        }
+      },
+      {
+        "keyword": "김새론",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'쯔양 스토킹·협박' 김세의, 첫 재판 불출석해 공전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6833061_36918.html"
+        }
+      },
+      {
+        "keyword": "엑스포츠뉴스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"한국 때문에 망했어\"…이 나라, 32강 확률 하루 만에 42.0%→5.3%로 대폭락, '54.5%' 홍명보호 웃어야 하나?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626175003100"
+        }
+      },
+      {
+        "keyword": "na uy đấu với pháp",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Video bóng đá Pháp – Na Uy: Rực rỡ 5 bàn, khẳng định ngôi đầu (World Cup)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/world-cup-2026/video-bong-da-phap-na-uy-ruc-ro-5-ban-khang-dinh-ngoi-dau-world-cup-c860a1773462.html"
+        }
+      }
+    ]
   }
 ]
