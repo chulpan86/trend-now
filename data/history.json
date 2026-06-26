@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25T01:59:08.490752+09:00",
-    "label": "01:59",
-    "items": [
-      {
-        "keyword": "내일 날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "[라인W 날씨] 내일 곳곳에 강한 소나기…심한 더위는 없어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625000709541"
-        }
-      },
-      {
-        "keyword": "첫 번째 남자",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'첫 번째 남자' 함은정, 오현경 범죄 증거 확보…쌍둥이 억울한 죽음 밝힐까",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/509345"
-        }
-      },
-      {
-        "keyword": "fifa world cup 2026 standings",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "2026 World Cup Bracket, Standings, Projections: USA in Round of 32, Who Else Might Advance?",
-          "source": "FOX Sports",
-          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-standings-projections-usa-round-32-who-else-might-advance"
-        }
-      },
-      {
-        "keyword": "영화",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'슈퍼맨'보다 어둡고 '슈퍼맨'처럼 선한…영화 '슈퍼걸'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260624060203787"
-        }
-      },
-      {
-        "keyword": "류승민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한화 이렇게 못 친다고? 5위 또 빼앗겼네…두산, 7-2 승+4연패 탈출→최민석 QS 7승+김민석 결승포 [대전:스코어]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260624214918746"
-        }
-      },
-      {
-        "keyword": "80달러",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "GTA6, 사전 주문 시작… 역대급 흥행 기대 속 노조 탄압 그림자",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zSdVz6LxWi"
-        }
-      },
-      {
-        "keyword": "근로장려금",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "이가 시비옹테크",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "giá vàng hôm nay",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Vàng nhẫn tiếp đà giảm, nhiều cửa hàng không giới hạn số lượng bán ra",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/tien-te-dau-tu/vang-nhan-tiep-da-giam-nhieu-cua-hang-khong-gioi-han-so-luong-ban-ra-1723471.ldo"
-        }
-      },
-      {
-        "keyword": "조세 무리뉴",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"모리뉴가 원하는 왼발 센터백\" 레알 마드리드, 아스널에 인카피에 문의…관건은 '선수단 정리'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260623n25116"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-25T03:52:01.712643+09:00",
     "label": "03:52",
     "items": [
@@ -1447,6 +1349,112 @@
           "title": "D-backs-Cardinals rained out Thursday; makeup game set for July 23",
           "source": "MLB.com",
           "url": "https://www.mlb.com/news/d-backs-cardinals-june-25-2026-game-postponed"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-26T15:43:16.298660+09:00",
+    "label": "15:43",
+    "items": [
+      {
+        "keyword": "옌스 카스트로 프",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "[월드컵] 데뷔전 카스트로프 \"내 실수로 실점…32강 간다면 집중하겠다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260625091600007"
+        }
+      },
+      {
+        "keyword": "파라과이 축구 국가대표팀",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "호주, 파라과이와 무승부…홍명보 호 32강 ‘경우의 수’ 또 삭제",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8595649"
+        }
+      },
+      {
+        "keyword": "재건축",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "부동산원, 재개발·재건축 조합 운영 컨설팅…7월 전국 시행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260626087600003"
+        }
+      },
+      {
+        "keyword": "압수수색",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "경찰, 한화이글스 ‘스카이박스 무상 제공’ 의혹 대전시청 압수수색",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626144432146"
+        }
+      },
+      {
+        "keyword": "정선희",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘故 안재환 빚 78억’ 떠안았던 정선희, “세상 원망하고 사람들 저주했다” 고백(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626102545657"
+        }
+      },
+      {
+        "keyword": "상속",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[판결] 대법 “헌법불합치 결정 당시 진행 중이던 유류분 사건에도 개정 민법 적용”",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=222568"
+        }
+      },
+      {
+        "keyword": "새마을금고",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "7000만원 ‘장난감 돈’ 채워놨다…경주 새마을금고 황당 횡령",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260624232702971"
+        }
+      },
+      {
+        "keyword": "김민형",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "HD현대, 호국보훈의 달 맞아 참전용사 지원 활동 확대",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260625501180"
+        }
+      },
+      {
+        "keyword": "엘지트윈스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"Can't LG manage without Yeom Kyung-yeop?\" How is it possible to maintain a 27-day solo lead at first place despite swapping the closer and starting pitcher?",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/06/26/2026062515494358048"
+        }
+      },
+      {
+        "keyword": "스페인 우루과이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'33경기 무패' 스페인, 야말 앞세워 절박한 우루과이도 넘을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626104853762"
         }
       }
     ]
