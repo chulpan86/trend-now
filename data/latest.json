@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-06-27T01:06:48.414176+09:00",
-  "label": "01:06",
+  "timestamp": "2026-06-27T03:22:26.993914+09:00",
+  "label": "03:22",
   "items": [
     {
-      "keyword": "김무열",
+      "keyword": "김연아",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": {
-        "title": "김무열 \"'참교육' 글로벌 1위 소식에 윤승아 안고 오열\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260626_0003685527"
-      }
-    },
-    {
-      "keyword": "김연아",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
       "news": {
         "title": "김연아 “♥고우림과 어떻게하면 오래 좋은 관계 이어갈지 고민”",
         "source": "스포츠경향",
@@ -23,39 +13,9 @@
       }
     },
     {
-      "keyword": "커피",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html"
-      }
-    },
-    {
-      "keyword": "hyundai avante",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Revealed: New Hyundai Elantra Is A Giant Leap Into The Future",
-        "source": "CarBuzz",
-        "url": "https://carbuzz.com/reveal-2027-hyundai-elantra-sedan/"
-      }
-    },
-    {
-      "keyword": "ireland vs india",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Live - India and Ireland face off in Belfast",
-        "source": "Cricinfo",
-        "url": "https://www.espncricinfo.com/series/india-in-ireland-2026-1528532/ireland-vs-india-1st-t20i-1528548/live-match-blog"
-      }
-    },
-    {
       "keyword": "백화점",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "마트도 백화점도 '반값'…주말 할인대전 열린다",
         "source": "Daum",
@@ -63,13 +23,63 @@
       }
     },
     {
+      "keyword": "hyundai avante",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Redesigned 2027 Hyundai Elantra Sedan Unveiled",
+        "source": "Kelley Blue Book",
+        "url": "https://www.kbb.com/car-news/redesigned-2027-hyundai-elantra-sedan-unveiled/"
+      }
+    },
+    {
+      "keyword": "베이징",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "소형 비행기, 베이징 초고층 빌딩 충돌···현장서 잔해 낙하",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606262140001"
+      }
+    },
+    {
+      "keyword": "강선우",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "강선우 재판서 \"김경, 김병기에 쇼핑백 전달\" 취지 증언",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260626171300004"
+      }
+    },
+    {
+      "keyword": "노르웨이 프랑스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "멀티골에 멀티골로 응수‥드디어 만난 '음바페vs홀란'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833218_37004.html"
+      }
+    },
+    {
+      "keyword": "박지현",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'나혼산' 박지현, 코쿤에 패션 도움 요청…기안84 질투심 폭발",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260627001945020"
+      }
+    },
+    {
       "keyword": "고준희",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"기회가 되면 또 뵐 수 있을까요?\"... 고준희의 첫 맞선, 애프터 성사될까",
-        "source": "금강일보",
-        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1165888"
+        "title": "'귀한가족' 고준희, 94년생 펀드매니저와 맞선…부모님도 직관",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qB1SbxaeXN?f=p"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "위기의 오정세 구하러 나타난 신하균, 최종화 앞두고 전율 폭발 ('오십프로')",
+        "title": "[TF초점] 이학주, '오십프로'의 숨은 공신",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260626231538336"
-      }
-    },
-    {
-      "keyword": "맥스 할로 웨이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“맥그리거가 날 피했다” UFC 상남자의 미친 자신감…“할로웨이가 더 쉬운 상대잖아”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260626093502121"
+        "url": "https://v.daum.net/v/20260627000243876"
       }
     }
   ]

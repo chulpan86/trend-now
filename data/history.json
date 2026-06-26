@@ -1262,5 +1262,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-27T03:22:26.993914+09:00",
+    "label": "03:22",
+    "items": [
+      {
+        "keyword": "김연아",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김연아 “♥고우림과 어떻게하면 오래 좋은 관계 이어갈지 고민”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606261644003"
+        }
+      },
+      {
+        "keyword": "백화점",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "마트도 백화점도 '반값'…주말 할인대전 열린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626181801900"
+        }
+      },
+      {
+        "keyword": "hyundai avante",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Redesigned 2027 Hyundai Elantra Sedan Unveiled",
+          "source": "Kelley Blue Book",
+          "url": "https://www.kbb.com/car-news/redesigned-2027-hyundai-elantra-sedan-unveiled/"
+        }
+      },
+      {
+        "keyword": "베이징",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "소형 비행기, 베이징 초고층 빌딩 충돌···현장서 잔해 낙하",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606262140001"
+        }
+      },
+      {
+        "keyword": "강선우",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "강선우 재판서 \"김경, 김병기에 쇼핑백 전달\" 취지 증언",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260626171300004"
+        }
+      },
+      {
+        "keyword": "노르웨이 프랑스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "멀티골에 멀티골로 응수‥드디어 만난 '음바페vs홀란'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833218_37004.html"
+        }
+      },
+      {
+        "keyword": "박지현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'나혼산' 박지현, 코쿤에 패션 도움 요청…기안84 질투심 폭발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627001945020"
+        }
+      },
+      {
+        "keyword": "고준희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'귀한가족' 고준희, 94년생 펀드매니저와 맞선…부모님도 직관",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qB1SbxaeXN?f=p"
+        }
+      },
+      {
+        "keyword": "사우디 아람코",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "(단독)사우디 아람코, 정부에 석유 최고가격제 항의",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/ReadNews.aspx?no=1305327"
+        }
+      },
+      {
+        "keyword": "오십프로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[TF초점] 이학주, '오십프로'의 숨은 공신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627000243876"
+        }
+      }
+    ]
   }
 ]
