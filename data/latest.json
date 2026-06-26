@@ -1,57 +1,7 @@
 {
-  "timestamp": "2026-06-26T22:02:54.639597+09:00",
-  "label": "22:02",
+  "timestamp": "2026-06-27T01:06:48.414176+09:00",
+  "label": "01:06",
   "items": [
-    {
-      "keyword": "kia 대 두산",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "실점 위기 넘긴 두산",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/photos/7979241"
-      }
-    },
-    {
-      "keyword": "lg 대 롯데",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "전민재, 2루타 두 방으로 3타점…롯데, 10경기서 8승1무1패",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260626169500007"
-      }
-    },
-    {
-      "keyword": "kt 대 삼성",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "한국에서 이게 돼? 6선발도 파격인데, 필승조가 9명…ERA 2위 삼성 이유있는 자신감",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zZV4ShZvhl"
-      }
-    },
-    {
-      "keyword": "한화 대 ssg",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "[사진]한화 김태연, '8회 쐐기 투런포에 위풍당당'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/06/26/G4YWEYRSHBQWEMZRGNRDANZVGM/"
-      }
-    },
-    {
-      "keyword": "키움 대 nc",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "NC, '前 홈런왕' 맷 데이비슨 방출…오늘 홈경기서 고별전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260626161902027"
-      }
-    },
     {
       "keyword": "김무열",
       "traffic_raw": "2000+",
@@ -63,43 +13,93 @@
       }
     },
     {
-      "keyword": "현대 아이오닉",
+      "keyword": "김연아",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"아이오닉 살 돈으로 이걸\" 고성능과 편의까지 다 잡은 풀옵션급이라는 세단의 정체",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Ku9aU39U7G"
+        "title": "김연아 “♥고우림과 어떻게하면 오래 좋은 관계 이어갈지 고민”",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202606261644003"
       }
     },
     {
-      "keyword": "김부장",
+      "keyword": "커피",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "액션 부성 담은 '소간지' 소지섭",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260626154139448"
+        "title": "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html"
       }
     },
     {
-      "keyword": "용인세무서",
+      "keyword": "hyundai avante",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "용인세무서, 개인 정보 수만 건 외부 유출…직원이 전임자에 송부",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260625155717130"
+        "title": "Revealed: New Hyundai Elantra Is A Giant Leap Into The Future",
+        "source": "CarBuzz",
+        "url": "https://carbuzz.com/reveal-2027-hyundai-elantra-sedan/"
       }
     },
     {
-      "keyword": "다스뵈이다",
+      "keyword": "ireland vs india",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Live - India and Ireland face off in Belfast",
+        "source": "Cricinfo",
+        "url": "https://www.espncricinfo.com/series/india-in-ireland-2026-1528532/ireland-vs-india-1st-t20i-1528548/live-match-blog"
+      }
+    },
+    {
+      "keyword": "백화점",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "마트도 백화점도 '반값'…주말 할인대전 열린다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260626181801900"
+      }
+    },
+    {
+      "keyword": "고준희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"기회가 되면 또 뵐 수 있을까요?\"... 고준희의 첫 맞선, 애프터 성사될까",
+        "source": "금강일보",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1165888"
+      }
+    },
+    {
+      "keyword": "사우디 아람코",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "(단독)사우디 아람코, 정부에 석유 최고가격제 항의",
+        "source": "뉴스토마토",
+        "url": "https://www.newstomato.com/ReadNews.aspx?no=1305327"
+      }
+    },
+    {
+      "keyword": "오십프로",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "위기의 오정세 구하러 나타난 신하균, 최종화 앞두고 전율 폭발 ('오십프로')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260626231538336"
+      }
+    },
+    {
+      "keyword": "맥스 할로 웨이",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"이재명 대통령, 올바른 길 안 가고 있다\"…'어용지식인' 유시민의 선전포고?",
+        "title": "“맥그리거가 날 피했다” UFC 상남자의 미친 자신감…“할로웨이가 더 쉬운 상대잖아”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260626105948272"
+        "url": "https://v.daum.net/v/20260626093502121"
       }
     }
   ]
