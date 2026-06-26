@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25T16:33:36.179249+09:00",
-    "label": "16:33",
-    "items": [
-      {
-        "keyword": "박정수",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "할머니가 '230억 건물주'…박정수 손녀 \"등골 브레이커 아니라고요\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625081432147"
-        }
-      },
-      {
-        "keyword": "sk그룹",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'반도체 호남행' 충돌…野 \"전당대회용\" 與 \"지역갈등 조장\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625153633070"
-        }
-      },
-      {
-        "keyword": "유조선",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "국적선 5척 호르무즈 통과…한국인 선원 87명 남아",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606250936001"
-        }
-      },
-      {
-        "keyword": "앤 트로픽",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "앤트로픽 “알리바바, 역대 최대 AI모델 베끼기 시도”…美 의회 서한",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625113016503"
-        }
-      },
-      {
-        "keyword": "지진",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "연쇄 강진에 폐허 된 베네수엘라…\"마치 공포영화 같았다\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625160610702"
-        }
-      },
-      {
-        "keyword": "신원철",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "우상호 강원도지사 당선인, 민선 9기 정무직 인선 발표···경제부지사에 신원철 전 서울시의회 의장",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606251123001"
-        }
-      },
-      {
-        "keyword": "신한카드",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": null
-      },
-      {
-        "keyword": "지민",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"상상하던 왕자의 모습\" 방탄소년단 지민, 파리 패션위크 장악",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625074151409"
-        }
-      },
-      {
-        "keyword": "뇌사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "6월에 터진 43°C 지옥…에어컨 없는 유럽을 주저앉힌 '열돔'의 경고 [스프]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625105100966"
-        }
-      },
-      {
-        "keyword": "jp모건 체이스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Knicks parade attendee who dumped trash on sidewalk identified as JPMorgan Chase DEI exec, promptly fired",
-          "source": "Fox News",
-          "url": "https://www.foxnews.com/outkick-sports/knicks-parade-attendee-dumped-trash-sidewalk-identified-jpmorgan-chase-dei-exec-promptly-fired"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-25T19:33:57.552206+09:00",
     "label": "19:33",
     "items": [
@@ -1365,6 +1263,112 @@
           "title": "[TF초점] 이학주, '오십프로'의 숨은 공신",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260627000243876"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-27T05:26:51.722866+09:00",
+    "label": "05:26",
+    "items": [
+      {
+        "keyword": "현대 아반떼",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "현대차 무뇨스 “가격보다 경험”…아반떼로 ‘평생 고객’ 만든다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626122543705?t=m&x_mn=6a3e134ffbddf26a833d12a7"
+        }
+      },
+      {
+        "keyword": "노르웨이 대 프랑스",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "멀티골에 멀티골로 응수‥드디어 만난 '음바페vs홀란'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833218_37004.html"
+        }
+      },
+      {
+        "keyword": "세네갈 대 이라크",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'홍명보호 청천벽력' 끔찍한 예측 나왔다…美 유력지 \"세네갈이 이라크 4-1 대파할 것\"→韓 32강행 확률 폭락하나 [2026 월드컵]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627011651536"
+        }
+      },
+      {
+        "keyword": "우루과이 축구 국가대표팀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'한국에 약간의 호재' 韓 32강 위해 져야 하는 우루과이, 비엘사 감독 향한 항명 사태 발발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626220201511"
+        }
+      },
+      {
+        "keyword": "norway vs france",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Dembélé Hat-Trick Leads France to 3-1 Halftime Lead",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/27/JTFVPALDQRBDPFXSLTUR3GIF6Q/"
+        }
+      },
+      {
+        "keyword": "베이징",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "소형 비행기, 베이징 초고층 빌딩 충돌···현장서 잔해 낙하",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606262140001"
+        }
+      },
+      {
+        "keyword": "강선우",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "강선우 재판서 \"김경, 김병기에 쇼핑백 전달\" 취지 증언",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260626171300004"
+        }
+      },
+      {
+        "keyword": "senegal vs iraq",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "South Korea Faces Elimination Risk as Senegal Takes Early Lead",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/27/3ZLLOBGAINBZ5N35K7SPYE5FIE/"
+        }
+      },
+      {
+        "keyword": "조선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘친명 블랙리스트’까지 등장한 명청 전쟁",
+          "source": "조선일보",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=52900"
+        }
+      },
+      {
+        "keyword": "노르웨이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "뉴욕 메츠 경기장 간 노르웨이 팬들, '노 젓기' 장관 연출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626080613873"
         }
       }
     ]

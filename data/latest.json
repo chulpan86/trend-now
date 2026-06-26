@@ -1,41 +1,61 @@
 {
-  "timestamp": "2026-06-27T03:22:26.993914+09:00",
-  "label": "03:22",
+  "timestamp": "2026-06-27T05:26:51.722866+09:00",
+  "label": "05:26",
   "items": [
     {
-      "keyword": "김연아",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "현대 아반떼",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "김연아 “♥고우림과 어떻게하면 오래 좋은 관계 이어갈지 고민”",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202606261644003"
-      }
-    },
-    {
-      "keyword": "백화점",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "마트도 백화점도 '반값'…주말 할인대전 열린다",
+        "title": "현대차 무뇨스 “가격보다 경험”…아반떼로 ‘평생 고객’ 만든다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260626181801900"
+        "url": "https://v.daum.net/v/20260626122543705?t=m&x_mn=6a3e134ffbddf26a833d12a7"
       }
     },
     {
-      "keyword": "hyundai avante",
+      "keyword": "노르웨이 대 프랑스",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "멀티골에 멀티골로 응수‥드디어 만난 '음바페vs홀란'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833218_37004.html"
+      }
+    },
+    {
+      "keyword": "세네갈 대 이라크",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'홍명보호 청천벽력' 끔찍한 예측 나왔다…美 유력지 \"세네갈이 이라크 4-1 대파할 것\"→韓 32강행 확률 폭락하나 [2026 월드컵]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260627011651536"
+      }
+    },
+    {
+      "keyword": "우루과이 축구 국가대표팀",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'한국에 약간의 호재' 韓 32강 위해 져야 하는 우루과이, 비엘사 감독 향한 항명 사태 발발",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260626220201511"
+      }
+    },
+    {
+      "keyword": "norway vs france",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Redesigned 2027 Hyundai Elantra Sedan Unveiled",
-        "source": "Kelley Blue Book",
-        "url": "https://www.kbb.com/car-news/redesigned-2027-hyundai-elantra-sedan-unveiled/"
+        "title": "Dembélé Hat-Trick Leads France to 3-1 Halftime Lead",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/06/27/JTFVPALDQRBDPFXSLTUR3GIF6Q/"
       }
     },
     {
       "keyword": "베이징",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "소형 비행기, 베이징 초고층 빌딩 충돌···현장서 잔해 낙하",
         "source": "경향신문",
@@ -44,8 +64,8 @@
     },
     {
       "keyword": "강선우",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "강선우 재판서 \"김경, 김병기에 쇼핑백 전달\" 취지 증언",
         "source": "연합뉴스",
@@ -53,53 +73,33 @@
       }
     },
     {
-      "keyword": "노르웨이 프랑스",
+      "keyword": "senegal vs iraq",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "멀티골에 멀티골로 응수‥드디어 만난 '음바페vs홀란'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833218_37004.html"
+        "title": "South Korea Faces Elimination Risk as Senegal Takes Early Lead",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/06/27/3ZLLOBGAINBZ5N35K7SPYE5FIE/"
       }
     },
     {
-      "keyword": "박지현",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "조선",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "'나혼산' 박지현, 코쿤에 패션 도움 요청…기안84 질투심 폭발",
+        "title": "‘친명 블랙리스트’까지 등장한 명청 전쟁",
+        "source": "조선일보",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=52900"
+      }
+    },
+    {
+      "keyword": "노르웨이",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "뉴욕 메츠 경기장 간 노르웨이 팬들, '노 젓기' 장관 연출",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260627001945020"
-      }
-    },
-    {
-      "keyword": "고준희",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'귀한가족' 고준희, 94년생 펀드매니저와 맞선…부모님도 직관",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qB1SbxaeXN?f=p"
-      }
-    },
-    {
-      "keyword": "사우디 아람코",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "(단독)사우디 아람코, 정부에 석유 최고가격제 항의",
-        "source": "뉴스토마토",
-        "url": "https://www.newstomato.com/ReadNews.aspx?no=1305327"
-      }
-    },
-    {
-      "keyword": "오십프로",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[TF초점] 이학주, '오십프로'의 숨은 공신",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627000243876"
+        "url": "https://v.daum.net/v/20260626080613873"
       }
     }
   ]
