@@ -1482,5 +1482,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-28T01:57:00.557695+09:00",
+    "label": "01:57",
+    "items": [
+      {
+        "keyword": "로또 1230",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "1230회 로또 1등 16명···당첨금 인당 17억7000만원",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606272116001"
+        }
+      },
+      {
+        "keyword": "투자가",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"어제는 좋다더니\" 하루 만에 5% 급락‥계좌 녹는 개미들 어쩌나",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833208_37004.html"
+        }
+      },
+      {
+        "keyword": "후지 산",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "후지산 인근 지진으로 놀란 日…기상청 \"화산활동과 관련없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627151203280"
+        }
+      },
+      {
+        "keyword": "오스틴 딘",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "역전 만루 홈런으로 산책 주루 만회하다...오스틴 8회 만루포→손주영 2사 만루 막고 17세이브, LG '엘롯라시코' 8-7 역전승 [부산 리뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627202451769"
+        }
+      },
+      {
+        "keyword": "비야디",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "대세 된 '하이브리드'…\"한국 노린다\" 중국과 신차 경쟁",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627075405407"
+        }
+      },
+      {
+        "keyword": "결혼의 완성",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KBS 비장의 카드 내놓나…시청률 20% 전설→천만 배우 등장으로 기대 폭주 중인 韓 드라마 ('결혼의 완성')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627091718418"
+        }
+      },
+      {
+        "keyword": "오십프로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"사랑 감사\" 종영 '오십프로' 신하균·오정세·허성태, 진심 소감",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627223002814"
+        }
+      },
+      {
+        "keyword": "농구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아버지와 같은 길 걷는다! 여자농구 차세대 유망주, 수원제일중 박솔비",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627140901449"
+        }
+      },
+      {
+        "keyword": "개그콘서트",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "신곡 홍보 죄?! 하츠투하츠, '개그콘서트'서 재판 받는다",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260626000033"
+        }
+      },
+      {
+        "keyword": "류승민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "안타 후 달리는 류승민",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/7979273"
+        }
+      }
+    ]
   }
 ]
