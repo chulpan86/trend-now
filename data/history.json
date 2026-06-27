@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26T19:14:02.839262+09:00",
-    "label": "19:14",
-    "items": [
-      {
-        "keyword": "금",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "\"전화 못 끊는 손님이\"…6천만원 사기 피해 막은 금거래소 주인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626161402823"
-        }
-      },
-      {
-        "keyword": "아반떼 8세대",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "‘각진 국민차’로 안방지킨 현대차…‘3000만원대 SUV’로 선전포고한 BYD",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626181800897"
-        }
-      },
-      {
-        "keyword": "kia 대 두산",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "두산 천만다행! ‘헤드샷’ 양의지 4번 DH 정상 출격-박찬호 유격수 복귀…KIA전 선발 라인업 공개 [오!쎈 잠실]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626155053834"
-        }
-      },
-      {
-        "keyword": "lg 대 롯데",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "1위-2위 맞대결, ‘엘롯라시코’ 뜨겁다…롯데 운명의 12연전 시작, 시즌 성패를 좌우한다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626101252038"
-        }
-      },
-      {
-        "keyword": "골드만삭스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“다음 AI 수혜처는 로봇”…현대차·국내 공급망 기업 '아틀라스' 독주 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626163903697"
-        }
-      },
-      {
-        "keyword": "도시 철도",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[그래픽] 대전 도시철도망 구축 계획",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626162129112"
-        }
-      },
-      {
-        "keyword": "케이조선",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "태광, 케이조선 인수 무산에 동성제약 인수도 불확실성↑...꼬이는 이호진표 M&A",
-          "source": "뉴스로드",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=60862"
-        }
-      },
-      {
-        "keyword": "맷 데이비슨",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "NC, 2024년 홈런왕 데이비슨 방출…새 외국인 선수 영입 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260626126500007"
-        }
-      },
-      {
-        "keyword": "오영수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘오징어게임’ 오영수, 강제추행 무죄 확정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/06/26/7X2CFRFCZBAGPINWDO7KYBAFRQ/"
-        }
-      },
-      {
-        "keyword": "원빈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"원빈, 배역 위해 머리 기르는 중\" 깜짝 근황..김주하, 친분 과시 [데이앤나잇]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626083216558"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-26T22:02:54.639597+09:00",
     "label": "22:02",
     "items": [
@@ -1900,6 +1794,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-28T07:54:37.384261+09:00",
+    "label": "07:54",
+    "items": [
+      {
+        "keyword": "김미현",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“어, 슈퍼땅콩 아니야?”… 캐디 조끼 입고 KLPGA에 나타난 레전드 김미현",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627144920882?f=p"
+        }
+      },
+      {
+        "keyword": "우크라이나",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"모스크바도 사정권\"…우크라, 드론 이어 '플라밍고' 꺼냈다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627182653692"
+        }
+      },
+      {
+        "keyword": "경제",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "중동전쟁 충격서 생산·소비·물가 방향성은",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01102086645486312"
+        }
+      },
+      {
+        "keyword": "의사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "1%도 안되는 연구의사로 군의관 충원?…맥 끊기는 의사과학자 양성",
+          "source": "청년의사",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040337"
+        }
+      },
+      {
+        "keyword": "상장지수 펀드",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "예상 뛰어넘는 성과 때문에 상장폐지?…'잘나가던' ETF에 무슨일이[주末머니]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627183747784"
+        }
+      },
+      {
+        "keyword": "croatia vs ghana",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Croatia v Ghana: World Cup 2026 – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live"
+        }
+      },
+      {
+        "keyword": "panama vs england",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "England vs Panama LIVE: FIFA World Cup Group L score, commentary, stats & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cq5186pg2qqt"
+        }
+      },
+      {
+        "keyword": "정성호",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'디올백 혐의'도 뒤집히자…정성호 \"권력 눈치 본 정치검찰 심판\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627201414655"
+        }
+      },
+      {
+        "keyword": "교사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘우진 엄마’ 진짜였다…수업 방해 혼냈다가 1년간 시달린 교사",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12305161"
+        }
+      },
+      {
+        "keyword": "극한 직업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'극한직업' 고성 회백반·홍천 막국수·영주 소머리국밥, 할머니의 손맛",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260627n12233?mid=e1200"
+        }
       }
     ]
   }

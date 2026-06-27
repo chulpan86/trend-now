@@ -1,71 +1,41 @@
 {
-  "timestamp": "2026-06-28T06:54:07.101375+09:00",
-  "label": "06:54",
+  "timestamp": "2026-06-28T07:54:37.384261+09:00",
+  "label": "07:54",
   "items": [
     {
-      "keyword": "가나 크로아티아",
-      "traffic_raw": "50000+",
-      "traffic": 50000,
+      "keyword": "김미현",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[월드컵] 한국, 32강 가면 벨기에와 격돌…확률은 30%대까지 추락(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260627028951007"
-      }
-    },
-    {
-      "keyword": "뉴스",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "[탐사보도 뉴스프리즘] 미·이란 전쟁 마무리 수순이지만…후폭풍은 이제부터",
+        "title": "“어, 슈퍼땅콩 아니야?”… 캐디 조끼 입고 KLPGA에 나타난 레전드 김미현",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260627220204619"
-      }
-    },
-    {
-      "keyword": "승부차기",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"브라질 이겨도 놀랄 일 아냐! 4강도 가능\" 日 축구 향한 외신 극찬 쏟아진다…단숨에 '월드컵 다크호스'→준결승 전망까지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260628021651760"
-      }
-    },
-    {
-      "keyword": "파나마 대 잉글랜드",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "탈락 확정 파나마‥최종전 앞두고 몸 싸움까지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627204316948"
-      }
-    },
-    {
-      "keyword": "크로아티아 대 가나",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "한국이 간절히 바라는 가나의 승리? 가나는 안 이겨도 32강 확정, 크로아티아는 무조건 이겨야 한다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627232051189"
+        "url": "https://v.daum.net/v/20260627144920882?f=p"
       }
     },
     {
       "keyword": "우크라이나",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "러시아-우크라이나, 민간인 억류자 7명씩 교환 송환",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260628_0003686286"
+        "title": "\"모스크바도 사정권\"…우크라, 드론 이어 '플라밍고' 꺼냈다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260627182653692"
+      }
+    },
+    {
+      "keyword": "경제",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "중동전쟁 충격서 생산·소비·물가 방향성은",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01102086645486312"
       }
     },
     {
       "keyword": "의사",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "1%도 안되는 연구의사로 군의관 충원?…맥 끊기는 의사과학자 양성",
         "source": "청년의사",
@@ -73,9 +43,29 @@
       }
     },
     {
+      "keyword": "상장지수 펀드",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "예상 뛰어넘는 성과 때문에 상장폐지?…'잘나가던' ETF에 무슨일이[주末머니]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260627183747784"
+      }
+    },
+    {
+      "keyword": "croatia vs ghana",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Croatia v Ghana: World Cup 2026 – live",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live"
+      }
+    },
+    {
       "keyword": "panama vs england",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "England vs Panama LIVE: FIFA World Cup Group L score, commentary, stats & updates",
         "source": "BBC",
@@ -84,8 +74,8 @@
     },
     {
       "keyword": "정성호",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "'디올백 혐의'도 뒤집히자…정성호 \"권력 눈치 본 정치검찰 심판\"",
         "source": "Daum",
@@ -93,10 +83,24 @@
       }
     },
     {
-      "keyword": "사랑을 처방해 드립니다",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
+      "keyword": "교사",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘우진 엄마’ 진짜였다…수업 방해 혼냈다가 1년간 시달린 교사",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12305161"
+      }
+    },
+    {
+      "keyword": "극한 직업",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'극한직업' 고성 회백반·홍천 막국수·영주 소머리국밥, 할머니의 손맛",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260627n12233?mid=e1200"
+      }
     }
   ]
 }
