@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26T08:07:40.510176+09:00",
-    "label": "08:07",
-    "items": [
-      {
-        "keyword": "조국",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "조국 “단일화도 거부됐는데, 27.24% 득표…평택지역위 분투 때문”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625220902209"
-        }
-      },
-      {
-        "keyword": "우연 이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'특종세상' 우연이, 전남편 생각에 눈물…\"2년 전 세상 떠나\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625221348252"
-        }
-      },
-      {
-        "keyword": "무인 항공기",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "리투아니아, 최고 시속 320km의 속도로 샤헤드를 추적하는 무인 항공기 공개",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/lithuania-trinh-lang-uav-san-shahed-voi-toc-do-toi-320km-h"
-        }
-      },
-      {
-        "keyword": "호주 파라과이",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한국 운명, 호주-파라과이에 걸렸다... 무승부는 악재, 3위표 마지막 계산 시작",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260625051129514"
-        }
-      },
-      {
-        "keyword": "송은이",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "소속사 사장 송은이 “'왕사남' 장항준이 사내 매출 1위”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625174912098"
-        }
-      },
-      {
-        "keyword": "เอกวาดอร์ พบ เยอรมนี",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "บทวิเคราะห์เยอรมนีและเอกวาดอร์: \"รถถังเยอรมัน\" ตั้งเป้าครองอันดับหนึ่งในกลุ่ม E",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-duc-va-ecuador-co-xe-tang-huong-den-ngoi-dau-bang-e"
-        }
-      },
-      {
-        "keyword": "담보 대출",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "하나은행도 모기지보험 가입 제한…가계대출 문턱 더 높인다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260625157200002"
-        }
-      },
-      {
-        "keyword": "대한민국 우주항공청",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[르포]사천 빈 들판 위 '우주항공청 신청사' 표지…2030년 우주항공 수도 밑그림",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260625_0003683199"
-        }
-      },
-      {
-        "keyword": "월드컵 조별 순위",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "32강 가는 길도 ‘경우의 수’ 신세",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260626/134185334/2"
-        }
-      },
-      {
-        "keyword": "strc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Why is Strategy stock sliding to a new 52-week low today?",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-to-a-new-52week-low-today-93CH-4761260"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-26T11:27:40.675237+09:00",
     "label": "11:27",
     "items": [
@@ -1373,6 +1267,112 @@
           "title": "독일, 176조 사업으로 철도 부활에 성공할 수 있을까 [PADO]",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/world/2026/06/27/2026062615450235223"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-27T20:20:31.442329+09:00",
+    "label": "20:20",
+    "items": [
+      {
+        "keyword": "손흥민",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "남아공 기자도 놀란 ‘손흥민 선발 제외’…실제로 상대 전술이 바뀌었다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8595942"
+        }
+      },
+      {
+        "keyword": "kf-21 보라매",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"공동 생산 없다\" 인도네시아 정부, 韓 'KAI KF-21 전투기' 완제품 직구매 선회",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606270616013152e8b8a793f7_1"
+        }
+      },
+      {
+        "keyword": "이효리",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이효리, 민낯으로 요가원 근황 공개…47세 믿기 힘든 동안 비주얼",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626005502001?x_trkm=t"
+        }
+      },
+      {
+        "keyword": "항공",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“왕복 40만원 아낀다”…해외여행 예약 다시 살아난 이유 [항공+]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627154500673"
+        }
+      },
+      {
+        "keyword": "전광훈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "교회 돈 1백억 불법 정치자금?‥\"그저 빌린 돈\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626073126132"
+        }
+      },
+      {
+        "keyword": "마이데일리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[사진]두산 박찬호, '좋은 수비 이어 선두타자 안타' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/06/27/G4ZGKNLGGNRWEMBSHE2DGMLEHE/"
+        }
+      },
+      {
+        "keyword": "정점식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "李 대통령 \"시스템 갖추면 日 100만톤 공급도 가능\"…호남 물 부족론 '반박' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/06/27/2026062711595861308"
+        }
+      },
+      {
+        "keyword": "군사작전",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이스라엘·레바논, 미국 중재로 합의안 서명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627081722685"
+        }
+      },
+      {
+        "keyword": "문정빈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'엘롯라시코 1차전 패배' LG 라인업 대변동…문보경·오지환 벤치행→'롯데전 5할 타율' 문정빈 4번 출격 [부산 라인업]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xXLI0z6b5v"
+        }
+      },
+      {
+        "keyword": "시라카와",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[사진]KIA 곽도규, '1사 1, 2루 위기 막아라' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/06/27/GU2DAZLDHAZTQZRVMJRTGMJYGM/"
         }
       }
     ]
