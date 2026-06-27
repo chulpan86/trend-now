@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-28T02:58:11.881535+09:00",
-  "label": "02:58",
+  "timestamp": "2026-06-28T04:18:54.980672+09:00",
+  "label": "04:18",
   "items": [
     {
       "keyword": "로또 1230",
@@ -43,23 +43,23 @@
       }
     },
     {
+      "keyword": "결혼의 완성",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "KBS 비장의 카드 내놓나…시청률 20% 전설→천만 배우 등장으로 기대 폭주 중인 韓 드라마 ('결혼의 완성')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260627091718418"
+      }
+    },
+    {
       "keyword": "비야디",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
         "title": "대세 된 '하이브리드'…\"한국 노린다\" 중국과 신차 경쟁",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260627075405407"
-      }
-    },
-    {
-      "keyword": "결혼의 완성",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "KBS 비장의 카드 내놓나…시청률 20% 전설→천만 배우 등장으로 기대 폭주 중인 韓 드라마 ('결혼의 완성')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627091718418"
+        "url": "https://v.daum.net/v/20260627075405407?f=p"
       }
     },
     {
@@ -87,9 +87,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "신곡 홍보 죄?! 하츠투하츠, '개그콘서트'서 재판 받는다",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20260626000033"
+        "title": "‘개그콘서트’ 하츠투하츠, ‘공개재판’ 출석…신곡 ‘레몬탱’ 홍보 도전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260626232743504"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "안타 후 달리는 류승민",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/photos/7979273"
+        "title": "트레이드로 타율 0.444 '복덩이' 데려온 두산...운이 아니었다, 엄청난 비밀이 숨어있다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/06/28/MY3DANZYHEYTINJYG42DEMDBMM/"
       }
     }
   ]
