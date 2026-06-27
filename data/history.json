@@ -1694,5 +1694,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-28T05:50:30.423456+09:00",
+    "label": "05:50",
+    "items": [
+      {
+        "keyword": "로또 1230",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "1230회 로또 1등 16명···당첨금 인당 17억7000만원",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606272116001"
+        }
+      },
+      {
+        "keyword": "투자가",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"어제는 좋다더니\" 하루 만에 5% 급락‥계좌 녹는 개미들 어쩌나",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833208_37004.html"
+        }
+      },
+      {
+        "keyword": "아성다이소",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"다이소도 아닌데\"…3만원 들고 가면 가방에 옷까지 풀세팅 [트렌드+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202606269802g"
+        }
+      },
+      {
+        "keyword": "후지 산",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "후지산 인근 지진으로 놀란 日…기상청 \"화산활동과 관련없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627151203280"
+        }
+      },
+      {
+        "keyword": "안철수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이 대통령, 초대형 반도체 투자 발표 앞두고‥'호남 용수 부족' 정면 반박",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833331_37004.html"
+        }
+      },
+      {
+        "keyword": "결혼의 완성",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘결혼의 완성’ 남궁민-김대명-이설-이상희, 범죄스릴러 시너지 극대화한 독보적인 색채 ‘4인 4색 캐릭터 포스터...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606270609003"
+        }
+      },
+      {
+        "keyword": "오마이뉴스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘오마이뉴스 기자 사칭’ 알린 뒤에도 영상 안 내린 JTV, 뒤늦게 비공개 처리",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335424"
+        }
+      },
+      {
+        "keyword": "오십프로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"사랑 감사\" 종영 '오십프로' 신하균·오정세·허성태, 진심 소감",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627223002814"
+        }
+      },
+      {
+        "keyword": "농구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아버지와 같은 길 걷는다! 여자농구 차세대 유망주, 수원제일중 박솔비",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627140901449"
+        }
+      },
+      {
+        "keyword": "개그콘서트",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘개그콘서트’ 하츠투하츠, ‘공개재판’ 출석…신곡 ‘레몬탱’ 홍보 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626232743504"
+        }
+      }
+    ]
   }
 ]

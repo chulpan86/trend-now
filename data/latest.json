@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-28T04:18:54.980672+09:00",
-  "label": "04:18",
+  "timestamp": "2026-06-28T05:50:30.423456+09:00",
+  "label": "05:50",
   "items": [
     {
       "keyword": "로또 1230",
@@ -23,6 +23,16 @@
       }
     },
     {
+      "keyword": "아성다이소",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"다이소도 아닌데\"…3만원 들고 가면 가방에 옷까지 풀세팅 [트렌드+]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606269802g"
+      }
+    },
+    {
       "keyword": "후지 산",
       "traffic_raw": "2000+",
       "traffic": 2000,
@@ -33,13 +43,13 @@
       }
     },
     {
-      "keyword": "오스틴 딘",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "안철수",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "역전 만루 홈런으로 산책 주루 만회하다...오스틴 8회 만루포→손주영 2사 만루 막고 17세이브, LG '엘롯라시코' 8-7 역전승 [부산 리뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627202451769"
+        "title": "이 대통령, 초대형 반도체 투자 발표 앞두고‥'호남 용수 부족' 정면 반박",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833331_37004.html"
       }
     },
     {
@@ -47,19 +57,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "KBS 비장의 카드 내놓나…시청률 20% 전설→천만 배우 등장으로 기대 폭주 중인 韓 드라마 ('결혼의 완성')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627091718418"
+        "title": "‘결혼의 완성’ 남궁민-김대명-이설-이상희, 범죄스릴러 시너지 극대화한 독보적인 색채 ‘4인 4색 캐릭터 포스터...",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202606270609003"
       }
     },
     {
-      "keyword": "비야디",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "오마이뉴스",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "대세 된 '하이브리드'…\"한국 노린다\" 중국과 신차 경쟁",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627075405407?f=p"
+        "title": "‘오마이뉴스 기자 사칭’ 알린 뒤에도 영상 안 내린 JTV, 뒤늦게 비공개 처리",
+        "source": "미디어오늘",
+        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335424"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "‘개그콘서트’ 하츠투하츠, ‘공개재판’ 출석…신곡 ‘레몬탱’ 홍보 도전",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260626232743504"
-      }
-    },
-    {
-      "keyword": "류승민",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "트레이드로 타율 0.444 '복덩이' 데려온 두산...운이 아니었다, 엄청난 비밀이 숨어있다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/06/28/MY3DANZYHEYTINJYG42DEMDBMM/"
       }
     }
   ]
