@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27T05:26:51.722866+09:00",
-    "label": "05:26",
-    "items": [
-      {
-        "keyword": "현대 아반떼",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "현대차 무뇨스 “가격보다 경험”…아반떼로 ‘평생 고객’ 만든다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626122543705?t=m&x_mn=6a3e134ffbddf26a833d12a7"
-        }
-      },
-      {
-        "keyword": "노르웨이 대 프랑스",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "멀티골에 멀티골로 응수‥드디어 만난 '음바페vs홀란'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833218_37004.html"
-        }
-      },
-      {
-        "keyword": "세네갈 대 이라크",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'홍명보호 청천벽력' 끔찍한 예측 나왔다…美 유력지 \"세네갈이 이라크 4-1 대파할 것\"→韓 32강행 확률 폭락하나 [2026 월드컵]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627011651536"
-        }
-      },
-      {
-        "keyword": "우루과이 축구 국가대표팀",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'한국에 약간의 호재' 韓 32강 위해 져야 하는 우루과이, 비엘사 감독 향한 항명 사태 발발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626220201511"
-        }
-      },
-      {
-        "keyword": "norway vs france",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Dembélé Hat-Trick Leads France to 3-1 Halftime Lead",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/27/JTFVPALDQRBDPFXSLTUR3GIF6Q/"
-        }
-      },
-      {
-        "keyword": "베이징",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "소형 비행기, 베이징 초고층 빌딩 충돌···현장서 잔해 낙하",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606262140001"
-        }
-      },
-      {
-        "keyword": "강선우",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "강선우 재판서 \"김경, 김병기에 쇼핑백 전달\" 취지 증언",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260626171300004"
-        }
-      },
-      {
-        "keyword": "senegal vs iraq",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "South Korea Faces Elimination Risk as Senegal Takes Early Lead",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/27/3ZLLOBGAINBZ5N35K7SPYE5FIE/"
-        }
-      },
-      {
-        "keyword": "조선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘친명 블랙리스트’까지 등장한 명청 전쟁",
-          "source": "조선일보",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=52900"
-        }
-      },
-      {
-        "keyword": "노르웨이",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "뉴욕 메츠 경기장 간 노르웨이 팬들, '노 젓기' 장관 연출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626080613873"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-27T07:02:38.142726+09:00",
     "label": "07:02",
     "items": [
@@ -1899,6 +1793,112 @@
           "title": "美 대형 금융사 임원까지 슬쩍한 쓰레기통…뉴욕 \"공짜로 줍니다\"",
           "source": "조선일보",
           "url": "https://www.chosun.com/international/international_general/2026/06/28/JYWXXJ6N5BEW7BO5CINQXMSIYE/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-28T18:52:50.765447+09:00",
+    "label": "18:52",
+    "items": [
+      {
+        "keyword": "유승민",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "삼성·SK 등 1000조원대 투자시대…'호남 반도체 클러스터+ α' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/06/28/2026062813073439219"
+        }
+      },
+      {
+        "keyword": "한화 대 ssg",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[AI그래픽] SSG 최민준, 6월 28일 인천 한화전 투구 분석",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260628000179"
+        }
+      },
+      {
+        "keyword": "홈런",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "오스틴, 시즌 23호 역전 만루포 폭발…LG 짜릿한 뒤집기(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260627044400007"
+        }
+      },
+      {
+        "keyword": "스타벅스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "경찰, 스타벅스 압수수색 영장 신청했지만...검찰서 반려",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/06/28/6C26NG6M4FCJPHY7TWHF3M5IP4/"
+        }
+      },
+      {
+        "keyword": "한화에어로스페이스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "스페인 11兆 자주포 소송 극적 타협…최대 수혜자는 韓 한화에어로스페이스",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606280556175637e8b8a793f7_1"
+        }
+      },
+      {
+        "keyword": "송해나",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"팔을 너무 가슴 쪽에\" 송해나, 이현이 '레이저 눈' 부른 밀착 스킨십…매너손 무색 [핫피플]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260628103117811"
+        }
+      },
+      {
+        "keyword": "그랜드 테프트 오토 vi",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“GTA 6 정면승부 피하자”… 주요 게임사 신작 출시일 조정 불가피",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164667"
+        }
+      },
+      {
+        "keyword": "기아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "서울시, 장애인과 비장애인 함께 타는 'UD택시' 전국 첫 도입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260628014200004"
+        }
+      },
+      {
+        "keyword": "서수민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김성규, 소지섭과 맞설 새로운 변수 미스터리 공작원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260628163741164"
+        }
+      },
+      {
+        "keyword": "bangladesh vs zimbabwe",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "ZIM vs BAN, One-off Test, Bangladesh tour of Zimbabwe, 2026 - Commentary",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/158016/ban-vs-zim-one-off-test-bangladesh-tour-of-zimbabwe-2026"
         }
       }
     ]
