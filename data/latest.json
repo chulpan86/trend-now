@@ -1,91 +1,51 @@
 {
-  "timestamp": "2026-06-28T18:52:50.765447+09:00",
-  "label": "18:52",
+  "timestamp": "2026-06-28T20:41:57.057770+09:00",
+  "label": "20:41",
   "items": [
     {
-      "keyword": "유승민",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "박지성",
+      "traffic_raw": "50000+",
+      "traffic": 50000,
       "news": {
-        "title": "삼성·SK 등 1000조원대 투자시대…'호남 반도체 클러스터+ α' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/06/28/2026062813073439219"
+        "title": "李대통령 \"월드컵 32강 실패, 당황 넘어 황당함…체육행정 개혁 추진\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260628161902876"
       }
     },
     {
       "keyword": "한화 대 ssg",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "[AI그래픽] SSG 최민준, 6월 28일 인천 한화전 투구 분석",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260628000179"
+        "title": "한화, 6-3으로 SSG 꺾고 시리즈 싹쓸이…류현진, 한·미 통산 2499K",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260628_0003686704"
       }
     },
     {
-      "keyword": "홈런",
+      "keyword": "kt 대 삼성",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "오스틴, 시즌 23호 역전 만루포 폭발…LG 짜릿한 뒤집기(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260627044400007"
-      }
-    },
-    {
-      "keyword": "스타벅스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "경찰, 스타벅스 압수수색 영장 신청했지만...검찰서 반려",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/06/28/6C26NG6M4FCJPHY7TWHF3M5IP4/"
-      }
-    },
-    {
-      "keyword": "한화에어로스페이스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "스페인 11兆 자주포 소송 극적 타협…최대 수혜자는 韓 한화에어로스페이스",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606280556175637e8b8a793f7_1"
-      }
-    },
-    {
-      "keyword": "송해나",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"팔을 너무 가슴 쪽에\" 송해나, 이현이 '레이저 눈' 부른 밀착 스킨십…매너손 무색 [핫피플]",
+        "title": "삼성, KT전 스윕! 파죽의 4연승! 2위 자리 수성!…타선 대폭발에 양창섭 호투까지 [대구 게임노트]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260628103117811"
+        "url": "https://v.daum.net/v/20260628195517736"
       }
     },
     {
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "황동주",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "“GTA 6 정면승부 피하자”… 주요 게임사 신작 출시일 조정 불가피",
-        "source": "IT조선",
-        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164667"
-      }
-    },
-    {
-      "keyword": "기아",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "서울시, 장애인과 비장애인 함께 타는 'UD택시' 전국 첫 도입",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260628014200004"
+        "title": "전현무, 원진아에 호감 고백 \"너무 귀엽더라..내가 좋아하는 스타일\"('전참시')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260628064200938"
       }
     },
     {
       "keyword": "서수민",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "김성규, 소지섭과 맞설 새로운 변수 미스터리 공작원",
         "source": "Daum",
@@ -93,13 +53,53 @@
       }
     },
     {
-      "keyword": "bangladesh vs zimbabwe",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "한혜연",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "ZIM vs BAN, One-off Test, Bangladesh tour of Zimbabwe, 2026 - Commentary",
-        "source": "Cricbuzz",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/158016/ban-vs-zim-one-off-test-bangladesh-tour-of-zimbabwe-2026"
+        "title": "74㎏→51㎏ 한혜연 \"눈·비와도 걷고뛰고…인생 바꾼 다이어트\" [운동은 나의 힘]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/ti4ks39Uto"
+      }
+    },
+    {
+      "keyword": "최미나수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[사진]최미나수, '잠실 야구장 빛내는 미소'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/entertain_photo/2026/06/27/GBTDIOBRMVTGCYZVGMYWMYJQHE/"
+      }
+    },
+    {
+      "keyword": "대전광역시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "대전 도시철도 3·4·5호선 구축 계획 국토부 승인",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260626215606372?f=p"
+      }
+    },
+    {
+      "keyword": "조원희",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"옌스 관련 소문 어떻게 아는가? 누군가 흘린 것\" 박문성 해설위원 작심 발언",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260627163203264"
+      }
+    },
+    {
+      "keyword": "김원형",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김태형 7이닝 1실점…KIA, 두산 꺾고 잠실 7연패 탈출",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260628053400007"
       }
     }
   ]
