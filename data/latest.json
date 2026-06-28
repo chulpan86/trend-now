@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-06-29T00:11:17.046171+09:00",
-  "label": "00:11",
+  "timestamp": "2026-06-29T01:58:05.184357+09:00",
+  "label": "01:58",
   "items": [
     {
-      "keyword": "대한민국",
-      "traffic_raw": "50000+",
-      "traffic": 50000,
+      "keyword": "홍명보 사퇴",
+      "traffic_raw": "100000+",
+      "traffic": 100000,
       "news": {
-        "title": "‘역대급 졸전’ 홍명보·정몽규 저격?···이 대통령 “황당한 결과, 무능한 사람 지휘관 선발”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606281652001"
+        "title": "[속보]홍명보 대표팀 감독 자진사퇴 “국민께 죄송…모든 책임은 나에게”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20260629/134198515/1"
       }
     },
     {
@@ -23,13 +23,23 @@
       }
     },
     {
-      "keyword": "이자",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "f1",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "KB국민은행, 새희망홀씨 금융비용 지원 포용금융 프로그램",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260626173600002"
+        "title": "Russell seals thrilling Austria victory from Verstappen",
+        "source": "Formula 1",
+        "url": "https://www.formula1.com/en/latest/article/russell-seals-victory-in-thrilling-austrian-grand-prix-ahead-of-verstappen-and-antonelli.5kjw8LmvWRcsaFgjCr8aWw"
+      }
+    },
+    {
+      "keyword": "설기현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"손흥민은 원톱 아니다, 더 공격적으로 해야\" 2002 레전드 설기현 한 마디…\"장점 살리려면 포백도 썼어야\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260623n00451"
       }
     },
     {
@@ -37,29 +47,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "World Cup knockout bracket predictions: Picking the biggest shocks, best games and winners - The Athletic",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/athletic/7401629/2026/06/28/world-cup-bracket-predictions/"
+        "title": "World Cup 2026 Round of 32: Full bracket, matchups, schedule and how each team qualified",
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-round-of-32-full-bracket-matchups-schedule-and-how-each-team-qualified-164942403.html"
       }
     },
     {
-      "keyword": "이희진",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이희진 \"전남친 바람·도둑질에 감금까지\"…나를 살린 심은진과 힐링 여행",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260628174831541"
-      }
-    },
-    {
-      "keyword": "강회장",
+      "keyword": "수출",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "손현주 살해 진범 따로 있나? 이준영, '며느리' 이서안 유력 용의자 포착 '소름 전개' ('신입사원 강회장')",
+        "title": "무협 “반도체 주도 수출 상승세 3분기에도 지속”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260628233548667"
+        "url": "https://v.daum.net/v/20260629003224386"
       }
     },
     {
@@ -73,23 +73,23 @@
       }
     },
     {
-      "keyword": "경찰기동대",
+      "keyword": "강회장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독]“하루 넘게 버스 대기도”…경찰 기동대 버스 우등형으로 바꾼다",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20061055"
+        "title": "'신입사원 강회장' 이준영 밀어내고 이주명 다가서고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260628142942425"
       }
     },
     {
-      "keyword": "ireland vs india",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "브라질 일본",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "IND vs IRE, Belfast Weather Forecast: Will Rain Play Spoilsport in the Series Decider?",
-        "source": "Revsportz",
-        "url": "https://revsportz.in/ind-vs-ire-belfast-weather-forecast-will-rain-play-spoilsport-in-the-series-decider/"
+        "title": "모리야스 하지메 日감독 \"아시아팀, 우리만큼 좋은 성적 못 거둬\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260627003400038"
       }
     },
     {

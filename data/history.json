@@ -1902,5 +1902,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-29T01:58:05.184357+09:00",
+    "label": "01:58",
+    "items": [
+      {
+        "keyword": "홍명보 사퇴",
+        "traffic_raw": "100000+",
+        "traffic": 100000,
+        "news": {
+          "title": "[속보]홍명보 대표팀 감독 자진사퇴 “국민께 죄송…모든 책임은 나에게”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260629/134198515/1"
+        }
+      },
+      {
+        "keyword": "2026 fifa 월드컵 대진표",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[그래픽] 2026 북중미 월드컵 32강 토너먼트대진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260628143618634"
+        }
+      },
+      {
+        "keyword": "f1",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Russell seals thrilling Austria victory from Verstappen",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/russell-seals-victory-in-thrilling-austrian-grand-prix-ahead-of-verstappen-and-antonelli.5kjw8LmvWRcsaFgjCr8aWw"
+        }
+      },
+      {
+        "keyword": "설기현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"손흥민은 원톱 아니다, 더 공격적으로 해야\" 2002 레전드 설기현 한 마디…\"장점 살리려면 포백도 썼어야\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260623n00451"
+        }
+      },
+      {
+        "keyword": "fifa world cup 2026 bracket",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "World Cup 2026 Round of 32: Full bracket, matchups, schedule and how each team qualified",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-round-of-32-full-bracket-matchups-schedule-and-how-each-team-qualified-164942403.html"
+        }
+      },
+      {
+        "keyword": "수출",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "무협 “반도체 주도 수출 상승세 3분기에도 지속”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629003224386"
+        }
+      },
+      {
+        "keyword": "한국경제신문",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "펀드매니저 60% \"3개월 안에 코스피 1만피 찍는다\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026062823761"
+        }
+      },
+      {
+        "keyword": "강회장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'신입사원 강회장' 이준영 밀어내고 이주명 다가서고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260628142942425"
+        }
+      },
+      {
+        "keyword": "브라질 일본",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "모리야스 하지메 日감독 \"아시아팀, 우리만큼 좋은 성적 못 거둬\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260627003400038"
+        }
+      },
+      {
+        "keyword": "이재명 탄핵 국민청원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[단독] '李 대통령 탄핵' 국회 청원, 이틀 만에 8만 명 넘겼다",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/06/28/2026062800010.html"
+        }
+      }
+    ]
   }
 ]
