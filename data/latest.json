@@ -1,91 +1,41 @@
 {
-  "timestamp": "2026-06-29T06:54:03.847602+09:00",
-  "label": "06:54",
+  "timestamp": "2026-06-29T07:54:14.043994+09:00",
+  "label": "07:54",
   "items": [
     {
-      "keyword": "이재명",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "허지웅, 유시민에 “李에 가장 모난 돌 던져…염치는 어디에”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260628/134197692/1"
-      }
-    },
-    {
-      "keyword": "k9 자주포",
+      "keyword": "안정환",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "스페인 11兆 자주포 소송 극적 타협…최대 수혜자는 韓 한화에어로스페이스",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606280556175637e8b8a793f7_1"
+        "title": "안정환 \"내가 정몽규 회장 위인가\"…축구협회 옹호 주장 반박",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260629065432679"
       }
     },
     {
-      "keyword": "일본 축구 국가대표팀",
+      "keyword": "이재명 지지율",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "모리야스 하지메 日감독 \"아시아팀, 우리만큼 좋은 성적 못 거둬\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260627003400038"
+        "title": "이 대통령 지지율, 진보도 중도·보수도 다 빠졌다",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1265731.html"
       }
     },
     {
-      "keyword": "삼성바이오로직스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "사건",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[가보니] 릴리 혁신허브, 내년 송도에 들어선다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629060239826"
+        "title": "서산 아파트 단지서 교통사고…초등생 2명 중상",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8596624"
       }
     },
     {
-      "keyword": "투자가",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"애플 주식 100만원 어치로 '26억 로또'\", 가능한가 따져봤더니[인치범의 주식투자 부트캠프]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627090152182"
-      }
-    },
-    {
-      "keyword": "상속",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"부모 외면한 자녀, 상속권 잃을 수도\"…상속제도 확 바뀐다",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202606232976i"
-      }
-    },
-    {
-      "keyword": "무인 항공기",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "러시아 에너지 기반 시설 공격에 사용된 우크라이나 장거리 무인 항공기에 대한 기술 분석.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/phan-tich-ky-thuat-dong-uav-tam-xa-ukraine-trong-cac-dot-tap-kich-ha-tang-nang-luong-nga"
-      }
-    },
-    {
-      "keyword": "이만희",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "법원, ‘당원 집당 가입’ 신천지 이만희 구속적부심 기각…구속 유지",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606281726001"
-      }
-    },
-    {
-      "keyword": "캐나다",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "잠수함",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "“한국 잠수함 사야 한다”…캐나다 전문가가 꼽은 ‘독일보다 나은 이유 3가지’ [밀리터리+]",
         "source": "나우뉴스",
@@ -93,13 +43,63 @@
       }
     },
     {
-      "keyword": "양준혁",
+      "keyword": "복권",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "로또 1230회 당첨번호 17억, '서울·경기 자동 대폭발'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260628070303165"
+      }
+    },
+    {
+      "keyword": "컵스 대 브루어스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "前 롯데 에이스도 트레이드 후보? \"대규모 선수단 개편 시작될지도\"…메츠가 심상치 않다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/FeXOd2e4WF"
+      }
+    },
+    {
+      "keyword": "오타니 쇼헤이",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"보기 좋은 장면 아니다\" 오타니 前 감독도 쓴소리…오타니 말 거역한 다저스 루키 향해 \"그냥 따라가라\" 조언",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/yTGANPoMRm"
+      }
+    },
+    {
+      "keyword": "파리 생제르맹 fc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Yan Diomande chooses PSG as next destination if he leaves RB Leipzig - The Athletic",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/athletic/7374647/2026/06/28/yan-diomande-psg-transfer-liverpool/"
+      }
+    },
+    {
+      "keyword": "김병현",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"얼마나 욕을 먹고 싶은지...\" 야구계 레전드 김병현, \"홍명보 나가 귀에 거슬려\" 최악 타이밍 소신 발언→팬 분노만 키웠다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260629035717368"
+      }
+    },
+    {
+      "keyword": "미국 해군",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘일 매출 2천만 원’ 양준혁, 해물포차 사업 도전 (사당귀)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260628/134194915/1"
+        "title": "[단독]美 해군 추가 정비 요청… K조선, MRO 기술력 신뢰 방증",
+        "source": "아시아투데이",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260629010009834"
       }
     }
   ]
