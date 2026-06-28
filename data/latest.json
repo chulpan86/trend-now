@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-28T08:54:17.889404+09:00",
-  "label": "08:54",
+  "timestamp": "2026-06-28T11:33:21.362716+09:00",
+  "label": "11:33",
   "items": [
     {
-      "keyword": "한화 이글스",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "요르단 대 아르헨티나",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "노시환, 5경기 연속 홈런…월드컵기간 맹타",
+        "title": "[월드컵] '5골' 메시, 요르단전 벤치에서 시작…음바페·홀란은 침묵",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260627215452572"
+        "url": "https://v.daum.net/v/20260627095201897"
       }
     },
     {
-      "keyword": "콜롬비아 대 포르투갈",
+      "keyword": "크리스티아누 호날두",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "포르투갈 1위냐 2위냐, 호날두 마지막 월드컵 운명이 콜롬비아전 90분에 걸렸다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZVjnvqPKTy"
+        "title": "[북중미 월드컵] 메시vs호날두 무산…포르투갈 조 2위, '세기의 8강' 사라졌다",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260628n05607"
       }
     },
     {
-      "keyword": "colombia vs portugal",
+      "keyword": "jordan vs argentina",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Frente a Portugal, Colombia juega en casa en Miami",
-        "source": "SWI swissinfo.ch",
-        "url": "https://www.swissinfo.ch/spa/frente-a-portugal%2C-colombia-juega-en-casa-en-miami/91662319"
+        "title": "LIVE | Argentina faces Jordan in final group stage match at Dallas Stadium",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "url": "https://www.fox4news.com/live-blog/sports/world-cup-argentina-jordan-dallas-stadium"
       }
     },
     {
-      "keyword": "콩고 민주 공화국 대 우즈베키스탄",
+      "keyword": "고현정",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "고현정, '사마귀' 인연..후배 이태구 결혼식 참석 \"행복하길 빌어\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260627185622953"
+      }
+    },
+    {
+      "keyword": "공무원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "내년 공무원 보수 논의 30일 시작…노조 \"7.1% 인상\" 요구",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260627_0003686123"
+      }
+    },
+    {
+      "keyword": "콩고 우즈베키스탄",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "아무도 대한민국을 도와주지 않아, 홍명보 감독 웃는 소식 들린다…'이겨도 탈락' 우즈벡 감독 \"콩고 이길 수 있는 상대\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627192200176"
+        "title": "이제 진짜 끝, 한국 32강 탈락 직전…콩고, 우즈벡에 역전골 폭발",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260628n04739"
       }
     },
     {
-      "keyword": "1박 2일",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'1박2일' 문세윤, 멤버들에 \"녹화만 하면 아프다고…실망스럽다\" 왜",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627102800497"
-      }
-    },
-    {
-      "keyword": "др конго – узбекистан",
+      "keyword": "유해란",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "ДР Конго — Узбекистан: видеотрансляция матча ЧМ по футболу",
-        "source": "sport-express.net",
-        "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/news/dr-kongo-uzbekistan-pryamoy-efir-videotranslyaciya-gde-smotret-onlayn-2434521/"
+        "title": "유해란, KPMG 챔피언십 3R 단독 선두…첫 메이저 우승 도전",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260628095627aQS"
       }
     },
     {
-      "keyword": "전인지",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "수학 포기한 'IQ 138' 전인지, 18세에 소녀 가장으로… 세계가 사랑한 메이저 퀸의 부활",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260625509758"
-      }
-    },
-    {
-      "keyword": "박근형",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "김주하, 16년 작품 안한 원빈 근황…\"배역 들어올까 봐 지금도 머리 기른다\" ('데이앤나잇')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260628063211875"
-      }
-    },
-    {
-      "keyword": "아시아 배구 연맹",
+      "keyword": "유재석",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한국 남자배구, 바레인 꺾고 AVC컵 사상 첫 결승 진출",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fheCCtb0Yj"
+        "title": "허경환, 동기 박영진 차단…\"이사만 가면 돈 빌려달라고\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260627_0003686239"
       }
     },
     {
-      "keyword": "빅테크",
+      "keyword": "재현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"바겐세일이라길래 샀는데 왜 더 떨어져\" 빅테크 서학개미 근심[주末머니]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627164902464?f=p"
+        "title": "NCT 재현, 휴가 영상 열애설 해명…\"사랑하는 사촌동생\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/celebrity/2026/06/27/FJJY4WSDW5CLLLVGKXVUIWHMGE/"
+      }
+    },
+    {
+      "keyword": "발전소",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "삼성·SK, AI 데이터센터 투자 본격화…'한국판 스타게이트' 현실화 기대[3대 메가프로젝트⑥]",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260626_0003685578"
       }
     }
   ]
