@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-30T04:42:35.282788+09:00",
-  "label": "04:42",
+  "timestamp": "2026-06-30T06:16:41.087524+09:00",
+  "label": "06:16",
   "items": [
     {
-      "keyword": "홍명보 입국",
-      "traffic_raw": "100000+",
-      "traffic": 100000,
-      "news": {
-        "title": "'월드컵 32강 불발' 축구대표팀, 홍명보 감독·선수 8명 귀국",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260630001700007"
-      }
-    },
-    {
-      "keyword": "브라질 대 일본",
-      "traffic_raw": "50000+",
-      "traffic": 50000,
-      "news": {
-        "title": "월드컵 32강 시작, 일본-브라질 최고 빅매치 [뉴스in뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8597177"
-      }
-    },
-    {
-      "keyword": "brazil vs japan",
+      "keyword": "사고",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Brazil 2-1 Japan: Gabriell Martinelli scores 96th-minute winner",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c5yzjyq9685t"
+        "title": "베이징 경비행기 충돌 후폭풍...중국 전역 ‘비필수 항공활동’ 중단",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8597821"
       }
     },
     {
-      "keyword": "스즈키 자이온",
+      "keyword": "독일 대 파라과이",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[AI프리뷰] 월드컵 30일 32강전 독일-파라과이전, 12년만의 조별리그 통과 독일의 기세",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260629001311"
+      }
+    },
+    {
+      "keyword": "블라디미르 푸틴",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "그 일본 선수는 월드컵 이후 왜 프리미어 리그로 이적했을까요?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/sao-nhat-ban-toi-premier-league-sau-world-cup"
-      }
-    },
-    {
-      "keyword": "네이마르",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "2026년 월드컵 '벤치 스타' - 네이마르: 100만 달러짜리 새 시계 구입.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/ngoi-sao-tren-ghe-du-bi-tai-world-cup-2026-neymar-chi-1-trieu-usd-mua-dong-ho-moi"
-      }
-    },
-    {
-      "keyword": "전북 특별 자치 도지사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "김관영 지사 이임…\"올림픽·새만금, 전북 미래 포기 말아야\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260629067500055"
-      }
-    },
-    {
-      "keyword": "32강 대진표",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "축구도 운칠기삼?…대진 운에 울고 웃는 프랑스·아르헨[2026 북중미 월드컵]",
+        "title": "푸틴 \"에너지시설 피격에 연료난\" 시인…美와 협상 속개 기대(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260629203418225"
+        "url": "https://v.daum.net/v/20260629162544937"
       }
     },
     {
-      "keyword": "world cup 2026",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "germany vs paraguay",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "2026 World Cup Bracket: Full Round Of 32 Matchups",
-        "source": "FOX Sports",
-        "url": "https://www.foxsports.com/stories/soccer/world-cup-live-bracket-knockout-games-32"
+        "title": "Germany vs Paraguay live updates: Latest score from today’s 2026 World Cup knockout clash",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/athletic/live-blogs/germany-vs-paraguay-live-updates-world-cup-2026-score-result/MwjKp8C1Omtc/"
       }
     },
     {
-      "keyword": "ブラジル 対 日本",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "머니투데이",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "【W杯】上田綺世が大会を総括「まだまだ個のクオリティも戦術も対等ではなかった」",
-        "source": "スポニチ Sponichi Annex",
-        "url": "https://www.sponichi.co.jp/soccer/news/2026/06/30/kiji/20260629s00002009375000c.html"
+        "title": "AI 거품 경고한 BIS “붕괴땐 세계경제 위협”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260629/134204635/2"
       }
     },
     {
-      "keyword": "오십프로",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "정국",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'김부장'에 밀려 초라하게 종영한 '대군부인' 후속작…이학주 \"고민 많고 걱정 커\" ('오십프로')",
+        "title": "정국, 임산부 아미에 무릎꿇고+ 비건팬 위해 화면 밖식사..무대 안팎에서 팬심저격[K-EYES]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/KUBGk6LxGE"
+        "url": "https://v.daum.net/v/20260629151204229"
+      }
+    },
+    {
+      "keyword": "บราซิล พบ ญี่ปุ่น",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "ผลการแข่งขันฟุตบอลโลก 2026 วันนี้ 30 มิถุนายน: การแข่งขันสุดดราม่าระหว่างบราซิลกับญี่ปุ่น",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/th/ket-qua-world-cup-2026-hom-nay-30-6-sieu-kich-tinh-brazil-vs-nhat-ban"
+      }
+    },
+    {
+      "keyword": "정몽규 사퇴",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "몰락한 한국 축구‥\"좀먹는 적폐 사라져야\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833726_37004.html"
+      }
+    },
+    {
+      "keyword": "бразилия – япония",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Бразилии нереально фартануло в плей-офф ЧМ-2026. От позорного вылета спасло чудо",
+        "source": "Sportbox",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI2340082_Brazilii_nerealno_fartanulo_v_plej_off_ChM_2026_Ot_pozornogo_vyleta_spaslo_chudo"
+      }
+    },
+    {
+      "keyword": "fifa world cup 2026™",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "2026 World Cup: How to watch all of today's games, Monday, June 29 match schedule, free streaming info, and more",
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-how-to-watch-all-of-todays-games-monday-june-29-match-schedule-free-streaming-info-and-more-100500954.html"
       }
     }
   ]

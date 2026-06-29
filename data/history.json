@@ -1588,5 +1588,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-30T06:16:41.087524+09:00",
+    "label": "06:16",
+    "items": [
+      {
+        "keyword": "사고",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "베이징 경비행기 충돌 후폭풍...중국 전역 ‘비필수 항공활동’ 중단",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8597821"
+        }
+      },
+      {
+        "keyword": "독일 대 파라과이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[AI프리뷰] 월드컵 30일 32강전 독일-파라과이전, 12년만의 조별리그 통과 독일의 기세",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260629001311"
+        }
+      },
+      {
+        "keyword": "블라디미르 푸틴",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "푸틴 \"에너지시설 피격에 연료난\" 시인…美와 협상 속개 기대(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629162544937"
+        }
+      },
+      {
+        "keyword": "germany vs paraguay",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Germany vs Paraguay live updates: Latest score from today’s 2026 World Cup knockout clash",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/live-blogs/germany-vs-paraguay-live-updates-world-cup-2026-score-result/MwjKp8C1Omtc/"
+        }
+      },
+      {
+        "keyword": "머니투데이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "AI 거품 경고한 BIS “붕괴땐 세계경제 위협”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260629/134204635/2"
+        }
+      },
+      {
+        "keyword": "정국",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "정국, 임산부 아미에 무릎꿇고+ 비건팬 위해 화면 밖식사..무대 안팎에서 팬심저격[K-EYES]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629151204229"
+        }
+      },
+      {
+        "keyword": "บราซิล พบ ญี่ปุ่น",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "ผลการแข่งขันฟุตบอลโลก 2026 วันนี้ 30 มิถุนายน: การแข่งขันสุดดราม่าระหว่างบราซิลกับญี่ปุ่น",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/ket-qua-world-cup-2026-hom-nay-30-6-sieu-kich-tinh-brazil-vs-nhat-ban"
+        }
+      },
+      {
+        "keyword": "정몽규 사퇴",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "몰락한 한국 축구‥\"좀먹는 적폐 사라져야\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833726_37004.html"
+        }
+      },
+      {
+        "keyword": "бразилия – япония",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Бразилии нереально фартануло в плей-офф ЧМ-2026. От позорного вылета спасло чудо",
+          "source": "Sportbox",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbnews_NI2340082_Brazilii_nerealno_fartanulo_v_plej_off_ChM_2026_Ot_pozornogo_vyleta_spaslo_chudo"
+        }
+      },
+      {
+        "keyword": "fifa world cup 2026™",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2026 World Cup: How to watch all of today's games, Monday, June 29 match schedule, free streaming info, and more",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-how-to-watch-all-of-todays-games-monday-june-29-match-schedule-free-streaming-info-and-more-100500954.html"
+        }
+      }
+    ]
   }
 ]
