@@ -1482,5 +1482,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-30T02:27:11.747426+09:00",
+    "label": "02:27",
+    "items": [
+      {
+        "keyword": "브라질 대 일본",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "월드컵 32강 시작, 일본-브라질 최고 빅매치 [뉴스in뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8597177"
+        }
+      },
+      {
+        "keyword": "음식",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“간 망가지는 중”… 주의해야 할, 매일 먹는 음식 4가지",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/06/29/2026062902143.html"
+        }
+      },
+      {
+        "keyword": "야닉 시너",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "조코비치, 윔블던 21번째 출전 8번째 우승 도전…\"롤랑가로스 때보다 자신감 더 커졌다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260628114606831"
+        }
+      },
+      {
+        "keyword": "brazil vs japan",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Brazil vs Japan LIVE: FIFA World Cup Round of 32 score, prediction, lineups, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c5yzjyq9685t"
+        }
+      },
+      {
+        "keyword": "권순우",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“군복 입고 윔블던으로”…권순우 복귀에 외신도 주목",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2598186"
+        }
+      },
+      {
+        "keyword": "김남길",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김남길, 의미심장 1219字…\"멈춰야겠으면 지금 멈춰\" [전문]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629141518265"
+        }
+      },
+      {
+        "keyword": "연구소",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "세계 최초·최고 수준 기초연구 수행할 국가연구소 4곳 선정",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967292"
+        }
+      },
+      {
+        "keyword": "전북 특별 자치 도지사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김관영 지사 이임…\"올림픽·새만금, 전북 미래 포기 말아야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260629067500055"
+        }
+      },
+      {
+        "keyword": "wimbledon",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Licensable picture: Tennis: The Wimbledon Championships",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/tennis-the-wimbledon-championships/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjkyOTM4NTM"
+        }
+      },
+      {
+        "keyword": "달",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 량하, '♥김희' 5세 연상 아니었다 \"오랜 여사친서 연인 발전…결혼 결심 이유는\" (인터뷰)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629154051843"
+        }
+      }
+    ]
   }
 ]

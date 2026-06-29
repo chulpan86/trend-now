@@ -1,35 +1,25 @@
 {
-  "timestamp": "2026-06-29T23:41:34.307461+09:00",
-  "label": "23:41",
+  "timestamp": "2026-06-30T02:27:11.747426+09:00",
+  "label": "02:27",
   "items": [
     {
-      "keyword": "옌스 카스트로 프",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "브라질 대 일본",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "\"한국민이라 창피하다\" 옌스 모친 2년 전 쓴소리, 韓 월드컵 참사 '성지' 됐다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629161209377"
+        "title": "월드컵 32강 시작, 일본-브라질 최고 빅매치 [뉴스in뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8597177"
       }
     },
     {
       "keyword": "음식",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "“심장 보호하고 근육 늘려준다”… 50대부터 꼭 먹어야 할 ‘7가지 음식’",
+        "title": "“간 망가지는 중”… 주의해야 할, 매일 먹는 음식 4가지",
         "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/06/29/2026062901285.html"
-      }
-    },
-    {
-      "keyword": "kbo 올스타전",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "새내기 장찬희·박정민·박준현, 감독 추천 KBO 올스타전 출전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629161501486"
+        "url": "https://health.chosun.com/site/data/html_dir/2026/06/29/2026062902143.html"
       }
     },
     {
@@ -43,33 +33,63 @@
       }
     },
     {
+      "keyword": "brazil vs japan",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Brazil vs Japan LIVE: FIFA World Cup Round of 32 score, prediction, lineups, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c5yzjyq9685t"
+      }
+    },
+    {
+      "keyword": "권순우",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“군복 입고 윔블던으로”…권순우 복귀에 외신도 주목",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2598186"
+      }
+    },
+    {
+      "keyword": "김남길",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "김남길, 의미심장 1219字…\"멈춰야겠으면 지금 멈춰\" [전문]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260629141518265"
+      }
+    },
+    {
       "keyword": "연구소",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "서울대·성대·창원대·충남대 국가연구소 지정…10년간 총 4천억원 지원",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260629112252"
+        "title": "세계 최초·최고 수준 기초연구 수행할 국가연구소 4곳 선정",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967292"
       }
     },
     {
-      "keyword": "노무라 증권",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독] 하이닉스 목표가 ‘500만원’ 노무라 리포트…사실이 아니었다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629103609874"
-      }
-    },
-    {
-      "keyword": "행정수도",
+      "keyword": "전북 특별 자치 도지사",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“볼펜 살 돈도 없을 정도로 어렵다”…‘행정수도’ 세종 덮친 재정난, 왜",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629102651402"
+        "title": "김관영 지사 이임…\"올림픽·새만금, 전북 미래 포기 말아야\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260629067500055"
+      }
+    },
+    {
+      "keyword": "wimbledon",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Licensable picture: Tennis: The Wimbledon Championships",
+        "source": "Reuters Connect",
+        "url": "https://www.reutersconnect.com/item/tennis-the-wimbledon-championships/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjkyOTM4NTM"
       }
     },
     {
@@ -77,29 +97,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "춘천 소양 1교 보수·보강공사 7월 한 달 전면 통행금지",
+        "title": "[단독] 량하, '♥김희' 5세 연상 아니었다 \"오랜 여사친서 연인 발전…결혼 결심 이유는\" (인터뷰)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260629102203165"
-      }
-    },
-    {
-      "keyword": "최영섭",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘그리운 금강산’ 작곡가 최영섭씨 별세",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606292006015"
-      }
-    },
-    {
-      "keyword": "fc 바르셀로나",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘로마노·독점’ 美, 손흥민 이어 ‘새 간판 스타’ 품었다 “바르셀로나와 이별, FA로 시카고 파이어 이적”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629040545394"
+        "url": "https://v.daum.net/v/20260629154051843"
       }
     }
   ]
