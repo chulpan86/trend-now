@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28T15:54:40.002817+09:00",
-    "label": "15:54",
-    "items": [
-      {
-        "keyword": "이영표",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "세계 흐름에 역행하는 홍명보식 축구",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8596362"
-        }
-      },
-      {
-        "keyword": "알제리 축구 국가대표팀 대 오스트리아 축구 국가대표팀 순위",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[월드컵] 오스트리아-알제리, 3-3 무승부 나란히 32강행‥'3무 이란은 탈락'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6833421_36946.html"
-        }
-      },
-      {
-        "keyword": "스티브 클라크",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'0.07% 기적 없었다' 탈락 확정→몇 분 만에 감독 사퇴...'1달 전 재계약' 클라크, 스코틀랜드와 7년 동행 마침표 [공식발표]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260628101605481"
-        }
-      },
-      {
-        "keyword": "우루과이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“귀국 비행기 취소·감독 경질”…선수단 불화에 ‘응징’ [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8596539"
-        }
-      },
-      {
-        "keyword": "기사",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "학생 교육 운영의 자율성",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027213"
-        }
-      },
-      {
-        "keyword": "배찬승",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"염증 소견\" 배찬승 데뷔 후 첫 말소, 그런데 웃으며 떠났다…구자욱도 선발 제외",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627150616184"
-        }
-      },
-      {
-        "keyword": "dcg",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "June 28, 2026: Deep Cross Gaming vs. Karmine Corp Prediction Market",
-          "source": "Robinhood",
-          "url": "https://robinhood.com/us/en/prediction-markets/esports/events/deep-cross-gaming-vs-karmine-corp-jun-28-2026/"
-        }
-      },
-      {
-        "keyword": "채권",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'약탈금융' 상록수도 새도약기금으로…11만명 추심 벗어난다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260628120311410"
-        }
-      },
-      {
-        "keyword": "류현진",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "1군 콜업되자마자 3안타 활약, 한화 리드오프 고민 드디어 해결되나 “오늘 결과에 들뜨지 않겠다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260628062051811"
-        }
-      },
-      {
-        "keyword": "모건",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "美 대형 금융사 임원까지 슬쩍한 쓰레기통…뉴욕 \"공짜로 줍니다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/06/28/JYWXXJ6N5BEW7BO5CINQXMSIYE/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-28T18:52:50.765447+09:00",
     "label": "18:52",
     "items": [
@@ -1585,6 +1479,112 @@
           "title": "[단독] 량하, '♥김희' 5세 연상 아니었다 \"오랜 여사친서 연인 발전…결혼 결심 이유는\" (인터뷰)",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260629154051843"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-30T04:42:35.282788+09:00",
+    "label": "04:42",
+    "items": [
+      {
+        "keyword": "홍명보 입국",
+        "traffic_raw": "100000+",
+        "traffic": 100000,
+        "news": {
+          "title": "'월드컵 32강 불발' 축구대표팀, 홍명보 감독·선수 8명 귀국",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260630001700007"
+        }
+      },
+      {
+        "keyword": "브라질 대 일본",
+        "traffic_raw": "50000+",
+        "traffic": 50000,
+        "news": {
+          "title": "월드컵 32강 시작, 일본-브라질 최고 빅매치 [뉴스in뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8597177"
+        }
+      },
+      {
+        "keyword": "brazil vs japan",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Brazil 2-1 Japan: Gabriell Martinelli scores 96th-minute winner",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c5yzjyq9685t"
+        }
+      },
+      {
+        "keyword": "스즈키 자이온",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "그 일본 선수는 월드컵 이후 왜 프리미어 리그로 이적했을까요?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/sao-nhat-ban-toi-premier-league-sau-world-cup"
+        }
+      },
+      {
+        "keyword": "네이마르",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "2026년 월드컵 '벤치 스타' - 네이마르: 100만 달러짜리 새 시계 구입.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ngoi-sao-tren-ghe-du-bi-tai-world-cup-2026-neymar-chi-1-trieu-usd-mua-dong-ho-moi"
+        }
+      },
+      {
+        "keyword": "전북 특별 자치 도지사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김관영 지사 이임…\"올림픽·새만금, 전북 미래 포기 말아야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260629067500055"
+        }
+      },
+      {
+        "keyword": "32강 대진표",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "축구도 운칠기삼?…대진 운에 울고 웃는 프랑스·아르헨[2026 북중미 월드컵]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629203418225"
+        }
+      },
+      {
+        "keyword": "world cup 2026",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2026 World Cup Bracket: Full Round Of 32 Matchups",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/stories/soccer/world-cup-live-bracket-knockout-games-32"
+        }
+      },
+      {
+        "keyword": "ブラジル 対 日本",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "【W杯】上田綺世が大会を総括「まだまだ個のクオリティも戦術も対等ではなかった」",
+          "source": "スポニチ Sponichi Annex",
+          "url": "https://www.sponichi.co.jp/soccer/news/2026/06/30/kiji/20260629s00002009375000c.html"
+        }
+      },
+      {
+        "keyword": "오십프로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'김부장'에 밀려 초라하게 종영한 '대군부인' 후속작…이학주 \"고민 많고 걱정 커\" ('오십프로')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KUBGk6LxGE"
         }
       }
     ]
