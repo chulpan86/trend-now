@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27T20:20:31.442329+09:00",
-    "label": "20:20",
-    "items": [
-      {
-        "keyword": "손흥민",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "남아공 기자도 놀란 ‘손흥민 선발 제외’…실제로 상대 전술이 바뀌었다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8595942"
-        }
-      },
-      {
-        "keyword": "kf-21 보라매",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"공동 생산 없다\" 인도네시아 정부, 韓 'KAI KF-21 전투기' 완제품 직구매 선회",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/06/202606270616013152e8b8a793f7_1"
-        }
-      },
-      {
-        "keyword": "이효리",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이효리, 민낯으로 요가원 근황 공개…47세 믿기 힘든 동안 비주얼",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626005502001?x_trkm=t"
-        }
-      },
-      {
-        "keyword": "항공",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“왕복 40만원 아낀다”…해외여행 예약 다시 살아난 이유 [항공+]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627154500673"
-        }
-      },
-      {
-        "keyword": "전광훈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "교회 돈 1백억 불법 정치자금?‥\"그저 빌린 돈\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626073126132"
-        }
-      },
-      {
-        "keyword": "마이데일리",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[사진]두산 박찬호, '좋은 수비 이어 선두타자 안타' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/06/27/G4ZGKNLGGNRWEMBSHE2DGMLEHE/"
-        }
-      },
-      {
-        "keyword": "정점식",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "李 대통령 \"시스템 갖추면 日 100만톤 공급도 가능\"…호남 물 부족론 '반박' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/06/27/2026062711595861308"
-        }
-      },
-      {
-        "keyword": "군사작전",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이스라엘·레바논, 미국 중재로 합의안 서명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627081722685"
-        }
-      },
-      {
-        "keyword": "문정빈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'엘롯라시코 1차전 패배' LG 라인업 대변동…문보경·오지환 벤치행→'롯데전 5할 타율' 문정빈 4번 출격 [부산 라인업]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xXLI0z6b5v"
-        }
-      },
-      {
-        "keyword": "시라카와",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[사진]KIA 곽도규, '1사 1, 2루 위기 막아라' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/06/27/GU2DAZLDHAZTQZRVMJRTGMJYGM/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-27T22:09:22.125441+09:00",
     "label": "22:09",
     "items": [
@@ -2217,6 +2111,112 @@
           "title": "[단독]美 해군 추가 정비 요청… K조선, MRO 기술력 신뢰 방증",
           "source": "아시아투데이",
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260629010009834"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-29T09:00:35.533097+09:00",
+    "label": "09:00",
+    "items": [
+      {
+        "keyword": "이재명 지지율",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "李대통령 지지율 46.5% 6주째↓…국힘 42%·민주 41% [리얼미터]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629082200223"
+        }
+      },
+      {
+        "keyword": "삼성그룹",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "삼성바이오 노조, 그룹 초기업노조 탈퇴…'실리 중심' 교섭 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629083831661"
+        }
+      },
+      {
+        "keyword": "안정환",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "안정환 \"내가 정몽규 회장 위인가\"…축구협회 옹호 주장 반박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629065432679"
+        }
+      },
+      {
+        "keyword": "잠수함",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“한국 잠수함 사야 한다”…캐나다 전문가가 꼽은 ‘독일보다 나은 이유 3가지’ [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260628601020"
+        }
+      },
+      {
+        "keyword": "오타니 쇼헤이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'송성문 대수비 출전' 샌디에이고, 다저스에 3-15 대패",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260628142702354"
+        }
+      },
+      {
+        "keyword": "파리 생제르맹 fc",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'충격적인 하이재킹' 코트디부아르 국대 윙어 디오망데, 리버풀 아닌 PSG 간다..'선수가 파리 선택..라이프치히 몸값 1억3000만유로 이상 요구'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/06/29/HFTDCNJUG4ZTSMZSGIZTEYJUGY/"
+        }
+      },
+      {
+        "keyword": "조명우",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'女 당구 새 역사 썼다' 박세정, 전인미답의 7개 대회 연속 우승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260627141500517"
+        }
+      },
+      {
+        "keyword": "미국 해군",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]美 해군 추가 정비 요청… K조선, MRO 기술력 신뢰 방증",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260629010009834"
+        }
+      },
+      {
+        "keyword": "바이 낸스 하이닉스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "코스피 150배·삼전닉스 50배에 뭉칫돈…\"무법지대 도박판\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260625144200002"
+        }
+      },
+      {
+        "keyword": "컵스 대 브루어스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "前 롯데 에이스도 트레이드 후보? \"대규모 선수단 개편 시작될지도\"…메츠가 심상치 않다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626102800763?f=p"
         }
       }
     ]

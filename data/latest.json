@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-06-29T07:54:14.043994+09:00",
-  "label": "07:54",
+  "timestamp": "2026-06-29T09:00:35.533097+09:00",
+  "label": "09:00",
   "items": [
     {
+      "keyword": "이재명 지지율",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "李대통령 지지율 46.5% 6주째↓…국힘 42%·민주 41% [리얼미터]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260629082200223"
+      }
+    },
+    {
+      "keyword": "삼성그룹",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "삼성바이오 노조, 그룹 초기업노조 탈퇴…'실리 중심' 교섭 전망",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260629083831661"
+      }
+    },
+    {
       "keyword": "안정환",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "안정환 \"내가 정몽규 회장 위인가\"…축구협회 옹호 주장 반박",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260629065432679"
-      }
-    },
-    {
-      "keyword": "이재명 지지율",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "이 대통령 지지율, 진보도 중도·보수도 다 빠졌다",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1265731.html"
-      }
-    },
-    {
-      "keyword": "사건",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "서산 아파트 단지서 교통사고…초등생 2명 중상",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8596624"
       }
     },
     {
@@ -43,63 +43,63 @@
       }
     },
     {
-      "keyword": "복권",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "로또 1230회 당첨번호 17억, '서울·경기 자동 대폭발'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260628070303165"
-      }
-    },
-    {
-      "keyword": "컵스 대 브루어스",
+      "keyword": "오타니 쇼헤이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "前 롯데 에이스도 트레이드 후보? \"대규모 선수단 개편 시작될지도\"…메츠가 심상치 않다",
+        "title": "'송성문 대수비 출전' 샌디에이고, 다저스에 3-15 대패",
         "source": "Daum",
-        "url": "https://v.daum.net/v/FeXOd2e4WF"
-      }
-    },
-    {
-      "keyword": "오타니 쇼헤이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"보기 좋은 장면 아니다\" 오타니 前 감독도 쓴소리…오타니 말 거역한 다저스 루키 향해 \"그냥 따라가라\" 조언",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yTGANPoMRm"
+        "url": "https://v.daum.net/v/20260628142702354"
       }
     },
     {
       "keyword": "파리 생제르맹 fc",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Yan Diomande chooses PSG as next destination if he leaves RB Leipzig - The Athletic",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/athletic/7374647/2026/06/28/yan-diomande-psg-transfer-liverpool/"
+        "title": "'충격적인 하이재킹' 코트디부아르 국대 윙어 디오망데, 리버풀 아닌 PSG 간다..'선수가 파리 선택..라이프치히 몸값 1억3000만유로 이상 요구'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/06/29/HFTDCNJUG4ZTSMZSGIZTEYJUGY/"
       }
     },
     {
-      "keyword": "김병현",
+      "keyword": "조명우",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"얼마나 욕을 먹고 싶은지...\" 야구계 레전드 김병현, \"홍명보 나가 귀에 거슬려\" 최악 타이밍 소신 발언→팬 분노만 키웠다",
+        "title": "'女 당구 새 역사 썼다' 박세정, 전인미답의 7개 대회 연속 우승",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260629035717368"
+        "url": "https://v.daum.net/v/20260627141500517"
       }
     },
     {
       "keyword": "미국 해군",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "[단독]美 해군 추가 정비 요청… K조선, MRO 기술력 신뢰 방증",
         "source": "아시아투데이",
         "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260629010009834"
+      }
+    },
+    {
+      "keyword": "바이 낸스 하이닉스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "코스피 150배·삼전닉스 50배에 뭉칫돈…\"무법지대 도박판\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260625144200002"
+      }
+    },
+    {
+      "keyword": "컵스 대 브루어스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "前 롯데 에이스도 트레이드 후보? \"대규모 선수단 개편 시작될지도\"…메츠가 심상치 않다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260626102800763?f=p"
       }
     }
   ]
