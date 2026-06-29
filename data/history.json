@@ -1,323 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28T07:54:37.384261+09:00",
-    "label": "07:54",
-    "items": [
-      {
-        "keyword": "김미현",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“어, 슈퍼땅콩 아니야?”… 캐디 조끼 입고 KLPGA에 나타난 레전드 김미현",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627144920882?f=p"
-        }
-      },
-      {
-        "keyword": "우크라이나",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"모스크바도 사정권\"…우크라, 드론 이어 '플라밍고' 꺼냈다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627182653692"
-        }
-      },
-      {
-        "keyword": "경제",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "중동전쟁 충격서 생산·소비·물가 방향성은",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01102086645486312"
-        }
-      },
-      {
-        "keyword": "의사",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "1%도 안되는 연구의사로 군의관 충원?…맥 끊기는 의사과학자 양성",
-          "source": "청년의사",
-          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040337"
-        }
-      },
-      {
-        "keyword": "상장지수 펀드",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "예상 뛰어넘는 성과 때문에 상장폐지?…'잘나가던' ETF에 무슨일이[주末머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627183747784"
-        }
-      },
-      {
-        "keyword": "croatia vs ghana",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Croatia v Ghana: World Cup 2026 – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live"
-        }
-      },
-      {
-        "keyword": "panama vs england",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "England vs Panama LIVE: FIFA World Cup Group L score, commentary, stats & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq5186pg2qqt"
-        }
-      },
-      {
-        "keyword": "정성호",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'디올백 혐의'도 뒤집히자…정성호 \"권력 눈치 본 정치검찰 심판\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627201414655"
-        }
-      },
-      {
-        "keyword": "교사",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘우진 엄마’ 진짜였다…수업 방해 혼냈다가 1년간 시달린 교사",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12305161"
-        }
-      },
-      {
-        "keyword": "극한 직업",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'극한직업' 고성 회백반·홍천 막국수·영주 소머리국밥, 할머니의 손맛",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260627n12233?mid=e1200"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-28T08:54:17.889404+09:00",
-    "label": "08:54",
-    "items": [
-      {
-        "keyword": "한화 이글스",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "노시환, 5경기 연속 홈런…월드컵기간 맹타",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627215452572"
-        }
-      },
-      {
-        "keyword": "콜롬비아 대 포르투갈",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "포르투갈 1위냐 2위냐, 호날두 마지막 월드컵 운명이 콜롬비아전 90분에 걸렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ZVjnvqPKTy"
-        }
-      },
-      {
-        "keyword": "colombia vs portugal",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Frente a Portugal, Colombia juega en casa en Miami",
-          "source": "SWI swissinfo.ch",
-          "url": "https://www.swissinfo.ch/spa/frente-a-portugal%2C-colombia-juega-en-casa-en-miami/91662319"
-        }
-      },
-      {
-        "keyword": "콩고 민주 공화국 대 우즈베키스탄",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "아무도 대한민국을 도와주지 않아, 홍명보 감독 웃는 소식 들린다…'이겨도 탈락' 우즈벡 감독 \"콩고 이길 수 있는 상대\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627192200176"
-        }
-      },
-      {
-        "keyword": "1박 2일",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'1박2일' 문세윤, 멤버들에 \"녹화만 하면 아프다고…실망스럽다\" 왜",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627102800497"
-        }
-      },
-      {
-        "keyword": "др конго – узбекистан",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "ДР Конго — Узбекистан: видеотрансляция матча ЧМ по футболу",
-          "source": "sport-express.net",
-          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/news/dr-kongo-uzbekistan-pryamoy-efir-videotranslyaciya-gde-smotret-onlayn-2434521/"
-        }
-      },
-      {
-        "keyword": "전인지",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "수학 포기한 'IQ 138' 전인지, 18세에 소녀 가장으로… 세계가 사랑한 메이저 퀸의 부활",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260625509758"
-        }
-      },
-      {
-        "keyword": "박근형",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김주하, 16년 작품 안한 원빈 근황…\"배역 들어올까 봐 지금도 머리 기른다\" ('데이앤나잇')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260628063211875"
-        }
-      },
-      {
-        "keyword": "아시아 배구 연맹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한국 남자배구, 바레인 꺾고 AVC컵 사상 첫 결승 진출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fheCCtb0Yj"
-        }
-      },
-      {
-        "keyword": "빅테크",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"바겐세일이라길래 샀는데 왜 더 떨어져\" 빅테크 서학개미 근심[주末머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627164902464?f=p"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-28T11:33:21.362716+09:00",
-    "label": "11:33",
-    "items": [
-      {
-        "keyword": "요르단 대 아르헨티나",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[월드컵] '5골' 메시, 요르단전 벤치에서 시작…음바페·홀란은 침묵",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627095201897"
-        }
-      },
-      {
-        "keyword": "크리스티아누 호날두",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[북중미 월드컵] 메시vs호날두 무산…포르투갈 조 2위, '세기의 8강' 사라졌다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260628n05607"
-        }
-      },
-      {
-        "keyword": "jordan vs argentina",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "LIVE | Argentina faces Jordan in final group stage match at Dallas Stadium",
-          "source": "FOX 4 News Dallas-Fort Worth",
-          "url": "https://www.fox4news.com/live-blog/sports/world-cup-argentina-jordan-dallas-stadium"
-        }
-      },
-      {
-        "keyword": "고현정",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "고현정, '사마귀' 인연..후배 이태구 결혼식 참석 \"행복하길 빌어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627185622953"
-        }
-      },
-      {
-        "keyword": "공무원",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "내년 공무원 보수 논의 30일 시작…노조 \"7.1% 인상\" 요구",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260627_0003686123"
-        }
-      },
-      {
-        "keyword": "콩고 우즈베키스탄",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "이제 진짜 끝, 한국 32강 탈락 직전…콩고, 우즈벡에 역전골 폭발",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260628n04739"
-        }
-      },
-      {
-        "keyword": "유해란",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "유해란, KPMG 챔피언십 3R 단독 선두…첫 메이저 우승 도전",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260628095627aQS"
-        }
-      },
-      {
-        "keyword": "유재석",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "허경환, 동기 박영진 차단…\"이사만 가면 돈 빌려달라고\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260627_0003686239"
-        }
-      },
-      {
-        "keyword": "재현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "NCT 재현, 휴가 영상 열애설 해명…\"사랑하는 사촌동생\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/06/27/FJJY4WSDW5CLLLVGKXVUIWHMGE/"
-        }
-      },
-      {
-        "keyword": "발전소",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "삼성·SK, AI 데이터센터 투자 본격화…'한국판 스타게이트' 현실화 기대[3대 메가프로젝트⑥]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260626_0003685578"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-28T15:54:40.002817+09:00",
     "label": "15:54",
     "items": [
@@ -1691,6 +1373,112 @@
           "title": "최성국 3살 아들∙생후 6개월 딸 공개 술렁 \"예쁘게 봐주세요\" ('조선의 사랑꾼')",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260629082119215"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-29T23:41:34.307461+09:00",
+    "label": "23:41",
+    "items": [
+      {
+        "keyword": "옌스 카스트로 프",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"한국민이라 창피하다\" 옌스 모친 2년 전 쓴소리, 韓 월드컵 참사 '성지' 됐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629161209377"
+        }
+      },
+      {
+        "keyword": "음식",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“심장 보호하고 근육 늘려준다”… 50대부터 꼭 먹어야 할 ‘7가지 음식’",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/06/29/2026062901285.html"
+        }
+      },
+      {
+        "keyword": "kbo 올스타전",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "새내기 장찬희·박정민·박준현, 감독 추천 KBO 올스타전 출전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629161501486"
+        }
+      },
+      {
+        "keyword": "야닉 시너",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "조코비치, 윔블던 21번째 출전 8번째 우승 도전…\"롤랑가로스 때보다 자신감 더 커졌다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260628114606831"
+        }
+      },
+      {
+        "keyword": "연구소",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "서울대·성대·창원대·충남대 국가연구소 지정…10년간 총 4천억원 지원",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260629112252"
+        }
+      },
+      {
+        "keyword": "노무라 증권",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 하이닉스 목표가 ‘500만원’ 노무라 리포트…사실이 아니었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629103609874"
+        }
+      },
+      {
+        "keyword": "행정수도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“볼펜 살 돈도 없을 정도로 어렵다”…‘행정수도’ 세종 덮친 재정난, 왜",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629102651402"
+        }
+      },
+      {
+        "keyword": "달",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "춘천 소양 1교 보수·보강공사 7월 한 달 전면 통행금지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629102203165"
+        }
+      },
+      {
+        "keyword": "최영섭",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘그리운 금강산’ 작곡가 최영섭씨 별세",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606292006015"
+        }
+      },
+      {
+        "keyword": "fc 바르셀로나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘로마노·독점’ 美, 손흥민 이어 ‘새 간판 스타’ 품었다 “바르셀로나와 이별, FA로 시카고 파이어 이적”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629040545394"
         }
       }
     ]
