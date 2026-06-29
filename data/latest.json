@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-29T09:00:35.533097+09:00",
-  "label": "09:00",
+  "timestamp": "2026-06-29T14:22:29.607670+09:00",
+  "label": "14:22",
   "items": [
     {
-      "keyword": "이재명 지지율",
+      "keyword": "이영표",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "박문성 \"홍명보, 그냥 물러나면 끝? 억지로 사과하는 느낌…축구협회는 ‘욕망의 카르텔’\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12305533"
+      }
+    },
+    {
+      "keyword": "아파트",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "李대통령 지지율 46.5% 6주째↓…국힘 42%·민주 41% [리얼미터]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629082200223"
+        "title": "7월 전국 분양 약 3만세대로 전년비 30%↑…수도권이 68%",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422249"
       }
     },
     {
-      "keyword": "삼성그룹",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "삼성바이오 노조, 그룹 초기업노조 탈퇴…'실리 중심' 교섭 전망",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629083831661"
-      }
-    },
-    {
-      "keyword": "안정환",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "안정환 \"내가 정몽규 회장 위인가\"…축구협회 옹호 주장 반박",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629065432679"
-      }
-    },
-    {
-      "keyword": "잠수함",
+      "keyword": "보잉 737",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“한국 잠수함 사야 한다”…캐나다 전문가가 꼽은 ‘독일보다 나은 이유 3가지’ [밀리터리+]",
-        "source": "나우뉴스",
-        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260628601020"
+        "title": "[단독]기아, 전용기 첫 도입…보잉 최신기종 ‘B737-8 BBJ’",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260629/134199627/1"
       }
     },
     {
-      "keyword": "오타니 쇼헤이",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "연휴",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'송성문 대수비 출전' 샌디에이고, 다저스에 3-15 대패",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260628142702354"
-      }
-    },
-    {
-      "keyword": "파리 생제르맹 fc",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'충격적인 하이재킹' 코트디부아르 국대 윙어 디오망데, 리버풀 아닌 PSG 간다..'선수가 파리 선택..라이프치히 몸값 1억3000만유로 이상 요구'",
+        "title": "내년 직장인 119일 쉰다…3일 이상 ‘황금 연휴’는 10번",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/06/29/HFTDCNJUG4ZTSMZSGIZTEYJUGY/"
+        "url": "https://www.chosun.com/economy/science/2026/06/29/XOAPIZY43FBPTGJQDIFDFHZRFQ/"
       }
     },
     {
-      "keyword": "조명우",
+      "keyword": "창신메모리테크놀로지",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“칩플레이션 못 버텨”… 애플, 中 ‘싼 메모리’ 구매 나서",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260629003216380"
+      }
+    },
+    {
+      "keyword": "남도일보",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "사진뉴스",
+        "source": "남도일보",
+        "url": "https://www.namdonews.com/news/articleView.html?idxno=915030"
+      }
+    },
+    {
+      "keyword": "lec",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'女 당구 새 역사 썼다' 박세정, 전인미답의 7개 대회 연속 우승",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260627141500517"
+        "title": "Karmine Corp’s Caliste secures game-winning quadra at MSI 2026",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/caliste-quadra-kill-msi-2026/"
       }
     },
     {
-      "keyword": "미국 해군",
+      "keyword": "자동차산업",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독]美 해군 추가 정비 요청… K조선, MRO 기술력 신뢰 방증",
-        "source": "아시아투데이",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260629010009834"
+        "title": "\"젊은 층, 신차 구매 여유 없어…자동차는 쇠퇴 산업\"",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629093440yw9"
       }
     },
     {
-      "keyword": "바이 낸스 하이닉스",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "kc",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "코스피 150배·삼전닉스 50배에 뭉칫돈…\"무법지대 도박판\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260625144200002"
+        "title": "World Cup 2026: Algeria & Austria defend 'unexpected' draw amid conspiracy theories",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/articles/ckg4v1wvwxxo"
       }
     },
     {
-      "keyword": "컵스 대 브루어스",
+      "keyword": "김우빈",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "前 롯데 에이스도 트레이드 후보? \"대규모 선수단 개편 시작될지도\"…메츠가 심상치 않다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260626102800763?f=p"
+        "title": "“남편 김우빈 시사회 진짜 올 줄은 몰랐어요”",
+        "source": "여성동아",
+        "url": "https://woman.donga.com/people/article/all/12/6283561/1"
       }
     }
   ]

@@ -1,323 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27T22:09:22.125441+09:00",
-    "label": "22:09",
-    "items": [
-      {
-        "keyword": "경비행기",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "中 \"베이징 108층 빌딩에 경비행기 충돌로 1명 사망·13명 부상\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627211403270"
-        }
-      },
-      {
-        "keyword": "이승우",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이승우 ‘가짜 리더 vs 진짜 리더’ 게시물 ‘활활’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202606271725003"
-        }
-      },
-      {
-        "keyword": "항공",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“왕복 40만원 아낀다”…해외여행 예약 다시 살아난 이유 [항공+]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627154500673"
-        }
-      },
-      {
-        "keyword": "오스틴 딘",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“이렇게 예쁜 용병이 있나” 오스틴 역전 만루포 ‘쾅’…롯데는 ‘백투백’ 치고도 패배",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20060882"
-        }
-      },
-      {
-        "keyword": "전광훈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'102억 부정수수' 전광훈 교회 압수수색…\"탄압\" 반발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625200144251"
-        }
-      },
-      {
-        "keyword": "마이데일리",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[사진]두산 박찬호, '좋은 수비 이어 선두타자 안타' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/06/27/G4ZGKNLGGNRWEMBSHE2DGMLEHE/"
-        }
-      },
-      {
-        "keyword": "비야디",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "유럽선 7천만원대인데…한국선 3천750만원 '충격'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627132401885"
-        }
-      },
-      {
-        "keyword": "로또1230",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "1230회 로또 1등 16명···당첨금 인당 17억7000만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606272116001"
-        }
-      },
-      {
-        "keyword": "신상진",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "희망성남혁신위원회, 민선 9기 비전 '대한민국 기준, 성남' 제안",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260626003500353"
-        }
-      },
-      {
-        "keyword": "박영진",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "다시 만난 유재석·정준하, '무도' 감성 되살렸다…컵라면 하나로도 티격태격 (놀뭐)[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627194805382"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-28T00:08:00.058241+09:00",
-    "label": "00:08",
-    "items": [
-      {
-        "keyword": "로또1230",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "1230회 로또 1등 16명…당첨금 각 17억7천만원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260627046200002"
-        }
-      },
-      {
-        "keyword": "오스틴 딘",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "역전 만루 홈런으로 산책 주루 만회하다...오스틴 8회 만루포→손주영 2사 만루 막고 17세이브, LG '엘롯라시코' 8-7 역전승 [부산 리뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627202451769"
-        }
-      },
-      {
-        "keyword": "후지 산",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "후지산 인근 지진으로 놀란 日…기상청 \"화산활동과 관련없어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627151203280"
-        }
-      },
-      {
-        "keyword": "비야디",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대세 된 '하이브리드'…\"한국 노린다\" 중국과 신차 경쟁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627075405407"
-        }
-      },
-      {
-        "keyword": "오십프로",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"사랑 감사\" 종영 '오십프로' 신하균·오정세·허성태, 진심 소감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627223002814"
-        }
-      },
-      {
-        "keyword": "농구",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "아버지와 같은 길 걷는다! 여자농구 차세대 유망주, 수원제일중 박솔비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627140901449"
-        }
-      },
-      {
-        "keyword": "개그콘서트",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "신곡 홍보 죄?! 하츠투하츠, '개그콘서트'서 재판 받는다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260626000033"
-        }
-      },
-      {
-        "keyword": "류승민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "안타 후 달리는 류승민",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/7979273"
-        }
-      },
-      {
-        "keyword": "신상진",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "희망성남혁신위, 2주간 다듬은 성남 새 설계도…104개 공약 실행안 제시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260627000038"
-        }
-      },
-      {
-        "keyword": "박영진",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'놀뭐' 허경환 \"박진영, 이사만 가면 돈 빌려달라 연락\" 폭로전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627185800965?f=m"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-28T01:57:00.557695+09:00",
-    "label": "01:57",
-    "items": [
-      {
-        "keyword": "로또 1230",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "1230회 로또 1등 16명···당첨금 인당 17억7000만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606272116001"
-        }
-      },
-      {
-        "keyword": "투자가",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"어제는 좋다더니\" 하루 만에 5% 급락‥계좌 녹는 개미들 어쩌나",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6833208_37004.html"
-        }
-      },
-      {
-        "keyword": "후지 산",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "후지산 인근 지진으로 놀란 日…기상청 \"화산활동과 관련없어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627151203280"
-        }
-      },
-      {
-        "keyword": "오스틴 딘",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "역전 만루 홈런으로 산책 주루 만회하다...오스틴 8회 만루포→손주영 2사 만루 막고 17세이브, LG '엘롯라시코' 8-7 역전승 [부산 리뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627202451769"
-        }
-      },
-      {
-        "keyword": "비야디",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대세 된 '하이브리드'…\"한국 노린다\" 중국과 신차 경쟁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627075405407"
-        }
-      },
-      {
-        "keyword": "결혼의 완성",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "KBS 비장의 카드 내놓나…시청률 20% 전설→천만 배우 등장으로 기대 폭주 중인 韓 드라마 ('결혼의 완성')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627091718418"
-        }
-      },
-      {
-        "keyword": "오십프로",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"사랑 감사\" 종영 '오십프로' 신하균·오정세·허성태, 진심 소감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627223002814"
-        }
-      },
-      {
-        "keyword": "농구",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "아버지와 같은 길 걷는다! 여자농구 차세대 유망주, 수원제일중 박솔비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260627140901449"
-        }
-      },
-      {
-        "keyword": "개그콘서트",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "신곡 홍보 죄?! 하츠투하츠, '개그콘서트'서 재판 받는다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260626000033"
-        }
-      },
-      {
-        "keyword": "류승민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "안타 후 달리는 류승민",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/7979273"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-28T02:58:11.881535+09:00",
     "label": "02:58",
     "items": [
@@ -2217,6 +1899,112 @@
           "title": "前 롯데 에이스도 트레이드 후보? \"대규모 선수단 개편 시작될지도\"…메츠가 심상치 않다",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260626102800763?f=p"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-29T14:22:29.607670+09:00",
+    "label": "14:22",
+    "items": [
+      {
+        "keyword": "이영표",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "박문성 \"홍명보, 그냥 물러나면 끝? 억지로 사과하는 느낌…축구협회는 ‘욕망의 카르텔’\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12305533"
+        }
+      },
+      {
+        "keyword": "아파트",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "7월 전국 분양 약 3만세대로 전년비 30%↑…수도권이 68%",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422249"
+        }
+      },
+      {
+        "keyword": "보잉 737",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독]기아, 전용기 첫 도입…보잉 최신기종 ‘B737-8 BBJ’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260629/134199627/1"
+        }
+      },
+      {
+        "keyword": "연휴",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "내년 직장인 119일 쉰다…3일 이상 ‘황금 연휴’는 10번",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/science/2026/06/29/XOAPIZY43FBPTGJQDIFDFHZRFQ/"
+        }
+      },
+      {
+        "keyword": "창신메모리테크놀로지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“칩플레이션 못 버텨”… 애플, 中 ‘싼 메모리’ 구매 나서",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629003216380"
+        }
+      },
+      {
+        "keyword": "남도일보",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "사진뉴스",
+          "source": "남도일보",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=915030"
+        }
+      },
+      {
+        "keyword": "lec",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Karmine Corp’s Caliste secures game-winning quadra at MSI 2026",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/caliste-quadra-kill-msi-2026/"
+        }
+      },
+      {
+        "keyword": "자동차산업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"젊은 층, 신차 구매 여유 없어…자동차는 쇠퇴 산업\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260629093440yw9"
+        }
+      },
+      {
+        "keyword": "kc",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "World Cup 2026: Algeria & Austria defend 'unexpected' draw amid conspiracy theories",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/ckg4v1wvwxxo"
+        }
+      },
+      {
+        "keyword": "김우빈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“남편 김우빈 시사회 진짜 올 줄은 몰랐어요”",
+          "source": "여성동아",
+          "url": "https://woman.donga.com/people/article/all/12/6283561/1"
         }
       }
     ]
