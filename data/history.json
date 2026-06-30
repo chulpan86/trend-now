@@ -1352,5 +1352,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-01T05:51:04.149680+09:00",
+    "label": "05:51",
+    "items": [
+      {
+        "keyword": "코트디부아르 대 노르웨이",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'홀란드 결승골' 노르웨이, 코트디부아르 꺾고 북중미 16강 진출[월드컵24시]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260701_0003690482"
+        }
+      },
+      {
+        "keyword": "장윤정",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'장윤정 친母'' 육씨, 딸 이름 팔아 사기 행각 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260701005951509"
+        }
+      },
+      {
+        "keyword": "국민의힘",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "후반기 법사위원장에 서영교…정무위·재경위도 민주당에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260630220344599"
+        }
+      },
+      {
+        "keyword": "côte d'ivoire vs norway",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Haaland scores late as Norway send Ivory Coast out of World Cup",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49227955/norway-ivory-coast-erling-haaland-world-cup-match-report-last-32"
+        }
+      },
+      {
+        "keyword": "위르겐 클린스만",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "홍명보·클린스만에 날린 돈만 140억…캐나다 감독 보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260630104812610"
+        }
+      },
+      {
+        "keyword": "싸워",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘야유와 욕설’ 홍명보 감독 불명예스러운 귀국",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8598703"
+        }
+      },
+      {
+        "keyword": "김영환",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이임식 날 압수수색‥검찰·공수처·경찰 수사 동시에",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6834035_37004.html"
+        }
+      },
+      {
+        "keyword": "여성 소방관",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "광주 여성 소방관 사망 사건 관련 공무원 17명 대기발령",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8597714"
+        }
+      },
+      {
+        "keyword": "최성국",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "56세 최성국, 6개월 딸·3세 아들과 등장..뭉클 “우리 가족 예쁘게 봐달라”(조선의 사랑꾼)[순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260629230017165?f=p"
+        }
+      },
+      {
+        "keyword": "토트넘",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "맨체스터 유나이티드 레전드, '드림 타깃' 향한 적극 구애…\"너에게 어울리는 클럽은 오직 하나뿐\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5pQe2asAEy?f=p"
+        }
+      }
+    ]
   }
 ]
