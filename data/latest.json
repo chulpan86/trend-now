@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-01T01:16:14.775966+09:00",
-  "label": "01:16",
+  "timestamp": "2026-07-01T03:28:25.546216+09:00",
+  "label": "03:28",
   "items": [
     {
       "keyword": "이민정",
@@ -13,9 +13,19 @@
       }
     },
     {
+      "keyword": "코트디부아르 대 노르웨이",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "음바페, 홀란 출전…내일의 경기",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8598350"
+      }
+    },
+    {
       "keyword": "중앙그룹",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "1조원 자구안도 못 막은 중앙그룹 회생…CJ도 고사한 SLL 매각 성사될까",
         "source": "인베스트조선",
@@ -43,6 +53,16 @@
       }
     },
     {
+      "keyword": "côte d'ivoire vs norway",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Antonio Nusa Finds Top Corner with Stunning Curler, giving Norway lead over Ivory Coast | 2026 FIFA World Cup",
+        "source": "FOX Sports",
+        "url": "https://www.foxsports.com/watch/fmc-91c4dwgm5b7jglcp"
+      }
+    },
+    {
       "keyword": "대한민국 과학기술정보통신부",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -53,22 +73,6 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": null
-    },
-    {
-      "keyword": "중소기업은행",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "카라 델레바인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "카라 델레바인, 앰버 허드와 열애 루머 인정 “조니 뎁이 질투해”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260630174702055"
-      }
     },
     {
       "keyword": "kt vs hanwha",
@@ -85,9 +89,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Taylor Fritz Channels Roger Federer’s Iconic Wimbledon Suit",
-        "source": "Town & Country Magazine",
-        "url": "https://www.townandcountrymag.com/leisure/sporting/a71781749/taylor-fritz-roger-federer-wimbledon-suit/"
+        "title": "Wimbledon 2026 results: Taylor Fritz wins to avoid looking 'stupid' after statement entrance in all-white suit",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/tennis/articles/c5yzg0y1wd8o"
       }
     }
   ]
