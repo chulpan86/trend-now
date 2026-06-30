@@ -1266,5 +1266,99 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-01T01:16:14.775966+09:00",
+    "label": "01:16",
+    "items": [
+      {
+        "keyword": "이민정",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "'MJ' 이민정 \"라면 다 못 먹어…고기 좋아하는 이유\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260630185201132"
+        }
+      },
+      {
+        "keyword": "중앙그룹",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "1조원 자구안도 못 막은 중앙그룹 회생…CJ도 고사한 SLL 매각 성사될까",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/06/30/2026063080067.html"
+        }
+      },
+      {
+        "keyword": "동남아시아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "동남아 ‘공공의 적’ 된 한국?···“우리 중 한 나라 건드리면 동남아 전체가 달려든다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606281129021"
+        }
+      },
+      {
+        "keyword": "기성용",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'기성용-송민규-김진규 포함' 총 338명...프로축구연맹, 2027년 FA 자격 취득 예정 명단 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260630151704793"
+        }
+      },
+      {
+        "keyword": "대한민국 과학기술정보통신부",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "문원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "중소기업은행",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "카라 델레바인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "카라 델레바인, 앰버 허드와 열애 루머 인정 “조니 뎁이 질투해”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260630174702055"
+        }
+      },
+      {
+        "keyword": "kt vs hanwha",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Rain No-Game Halts Hanwha Eagles' 7-0 Lead",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/30/MALP3MCVGZCAJP4FB7VWZ7DWFM/"
+        }
+      },
+      {
+        "keyword": "테일러 프리츠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Taylor Fritz Channels Roger Federer’s Iconic Wimbledon Suit",
+          "source": "Town & Country Magazine",
+          "url": "https://www.townandcountrymag.com/leisure/sporting/a71781749/taylor-fritz-roger-federer-wimbledon-suit/"
+        }
+      }
+    ]
   }
 ]
