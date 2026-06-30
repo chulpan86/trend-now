@@ -1,21 +1,31 @@
 {
-  "timestamp": "2026-06-30T08:53:25.589747+09:00",
-  "label": "08:53",
+  "timestamp": "2026-06-30T11:28:16.273066+09:00",
+  "label": "11:28",
   "items": [
     {
-      "keyword": "박재현",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "자이언츠 대 다이아몬드백스",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'퇴출 위기' KIA 외국인 컴백, 왜 이 선수부터 찾았나…\"먼저 묻기도 했고, 안 물어봐도\"[인터뷰]",
-        "source": "스포츠조선",
-        "url": "https://www.sportschosun.com/baseball/2026-06-29/202606300100204950013488"
+        "title": "Diamondbacks vs Giants updates. Lovullo's 1-on-1 talks, Pfaadt to start",
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/diamondbacks-vs-giants-updates-lovullos-010626858.html"
+      }
+    },
+    {
+      "keyword": "간",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "“인진쑥·브라질너트 안 먹어도 돼... 목욕탕 손톱깎이는 쓰지 말아야\"",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026062910560002719"
       }
     },
     {
       "keyword": "이원택",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "전북지사 비서실장에 정호윤…이원택 당선인 '복심' 발탁",
         "source": "연합뉴스",
@@ -23,83 +33,73 @@
       }
     },
     {
-      "keyword": "파이리츠 대 필리스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "공무원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "One weakness that could end the Pirates and Phillies playoff hopes",
-        "source": "FanSided",
-        "url": "https://fansided.com/mlb/one-weakness-that-could-end-the-pirates-and-phillies-playoff-hopes"
+        "title": "내년 9급 초임 월 300만원 넘는다…공무원보수위 오늘 1차 회의",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01699046645486968"
       }
     },
     {
-      "keyword": "서울경제",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "과태료",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"군 관사도 아닌데 왜 들어왔냐\" 이사 온 이웃 군인 현관문 부순 40대 집행유예",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260628144231804"
-      }
-    },
-    {
-      "keyword": "신속통합기획",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "금천구 독산2동 380 일대 신통기획…최고 35층·2천600가구",
+        "title": "강원도, 어선 갑판 구명조끼 착용 의무화…내달부터 전면 시행",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260629034600004"
+        "url": "https://www.yna.co.kr/view/AKR20260630045500062"
       }
     },
     {
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "엔화",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "아이폰 vs 갤럭시 '접는폰' 첫 맞대결…누가 이길까",
+        "title": "엔/달러 162엔도 넘어…엔화 가치 40년 만에 최저(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260629061143067"
+        "url": "https://v.daum.net/v/20260630110004248"
       }
     },
     {
-      "keyword": "이규혁",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "스트라드비젼",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "“하루 네 끼 먹어도 살 안 쪄”… 손담비 체중 관리 비결은?",
-        "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/06/29/2026062901550.html"
+        "title": "스트라드비젼, E2E 자율주행 양산 개발 착수…2027년 적용 목표",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260629091322"
       }
     },
     {
-      "keyword": "이수경",
+      "keyword": "파이리츠 대 필리스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Takeaways as Aaron Nola spoils Phillies' fast start, echoes last year's woes",
+        "source": "NBC Sports Philadelphia",
+        "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/aaron-nola-struggles-trea-turner/739806/"
+      }
+    },
+    {
+      "keyword": "엔조 마레스카",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이수경, ‘노산 걱정’ 이태곤에 ’77세 득남’ 김용건 언급하며 응원 \"선생님도 있잖아\"(남겨서 뭐하게)",
+        "title": "[오피셜]대충격! 첼시 \"마레스카, 작년부터 맨시티와 접촉\" 주장…보상금 받고 맨시티 보낸다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/06/30/GVSTGZRVGEYTMMBYGMYDCNLBGI/"
+      }
+    },
+    {
+      "keyword": "아르헨티나 카보베르데",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "메시만 봐도 좋은데 대진표로 더 흐뭇한 아르헨티나… '독일·스페인·프랑스·포르투갈' 회피기동",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260629205320537"
-      }
-    },
-    {
-      "keyword": "강미나",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "강미나, 남친 앞에서 무릎까지 꿇었건만…일·연애 다 힘들다 ('내일도 출근!')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260629164800024"
-      }
-    },
-    {
-      "keyword": "rklb",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Rocket Lab buys Iridium to build integrated launch-to-satellite network - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-it/2026/06/30/HDIQA5WZIJEP3LYPNKLKVQVMZU/"
+        "url": "https://v.daum.net/v/20260628171231800?f=p"
       }
     }
   ]
