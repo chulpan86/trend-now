@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-06-30T11:28:16.273066+09:00",
-  "label": "11:28",
+  "timestamp": "2026-06-30T15:46:57.587376+09:00",
+  "label": "15:46",
   "items": [
     {
-      "keyword": "자이언츠 대 다이아몬드백스",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "Diamondbacks vs Giants updates. Lovullo's 1-on-1 talks, Pfaadt to start",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/diamondbacks-vs-giants-updates-lovullos-010626858.html"
-      }
-    },
-    {
-      "keyword": "간",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "“인진쑥·브라질너트 안 먹어도 돼... 목욕탕 손톱깎이는 쓰지 말아야\"",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026062910560002719"
-      }
-    },
-    {
-      "keyword": "이원택",
+      "keyword": "윤석열",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "전북지사 비서실장에 정호윤…이원택 당선인 '복심' 발탁",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260629139700055"
+        "title": "인권위, '윤석열 독방에 에어컨 설치해달라' 진정 각하",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6833918_36918.html"
       }
     },
     {
-      "keyword": "공무원",
+      "keyword": "아침",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“천연 위고비” 다이어터 국민 아침 메뉴 삶은 달걀…사람에 따라 독이 될 수 있다?",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606270800001"
+      }
+    },
+    {
+      "keyword": "현대자동차그룹",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "현대자동차 미래정비거점 '수원하이테크센터' 개관",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/IPT20260630000010365?section=gallery/index"
+      }
+    },
+    {
+      "keyword": "파울루 벤투",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "내년 9급 초임 월 300만원 넘는다…공무원보수위 오늘 1차 회의",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01699046645486968"
+        "title": "“그립습니다 벤버지”…홍명보 감독과 너무나 달랐던 벤투의 고별사 [현장영상]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8597350"
       }
     },
     {
-      "keyword": "과태료",
+      "keyword": "꽃",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "강원도, 어선 갑판 구명조끼 착용 의무화…내달부터 전면 시행",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260630045500062"
-      }
-    },
-    {
-      "keyword": "엔화",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "엔/달러 162엔도 넘어…엔화 가치 40년 만에 최저(종합)",
+        "title": "카페 수국 꺾어간 노인…며칠 뒤 꺾은 꽃 팔러 왔다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260630110004248"
+        "url": "https://v.daum.net/v/20260630063029128"
       }
     },
     {
-      "keyword": "스트라드비젼",
+      "keyword": "지역화폐",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "李대통령 \"사용되지 않는 포인트 수십조…지역화폐 전환 추진\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260630144601213"
+      }
+    },
+    {
+      "keyword": "국민 연금 리 밸런싱",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "스트라드비젼, E2E 자율주행 양산 개발 착수…2027년 적용 목표",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260629091322"
-      }
-    },
-    {
-      "keyword": "파이리츠 대 필리스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Takeaways as Aaron Nola spoils Phillies' fast start, echoes last year's woes",
-        "source": "NBC Sports Philadelphia",
-        "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/aaron-nola-struggles-trea-turner/739806/"
-      }
-    },
-    {
-      "keyword": "엔조 마레스카",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[오피셜]대충격! 첼시 \"마레스카, 작년부터 맨시티와 접촉\" 주장…보상금 받고 맨시티 보낸다",
+        "title": "국민연금의 코스피 떠받치기…환율·금리 자극한다 [손진석의 머니워치]",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/06/30/GVSTGZRVGEYTMMBYGMYDCNLBGI/"
+        "url": "https://www.chosun.com/economy/2026/06/29/7BSFG6ZU35HO3BMGFXUH2TS3IM/"
       }
     },
     {
-      "keyword": "아르헨티나 카보베르데",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "하재훈",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "메시만 봐도 좋은데 대진표로 더 흐뭇한 아르헨티나… '독일·스페인·프랑스·포르투갈' 회피기동",
+        "title": "SSG, '세이브왕 출신' 하재훈 비롯해 4명 방출…육성선수 3명 영입",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260630_0003689623"
+      }
+    },
+    {
+      "keyword": "육아휴직",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "아동·청소년부터 전국민까지…하반기 수혜자별 주요 정책 - 정책뉴스 | 뉴스",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967361"
+      }
+    },
+    {
+      "keyword": "고두심",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "고두심, 어마어마한 부자였네 “제주 300평 집에서 살아”(남겨서 뭐하게)[순간포착]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260628171231800?f=p"
+        "url": "https://v.daum.net/v/20260630054452272"
       }
     }
   ]
