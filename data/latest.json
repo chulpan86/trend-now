@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-01T17:03:03.640918+09:00",
-  "label": "17:03",
+  "timestamp": "2026-07-01T20:51:00.248516+09:00",
+  "label": "20:51",
   "items": [
     {
-      "keyword": "박미선",
+      "keyword": "전국 삼성 전자 노동 조합",
       "traffic_raw": "20000+",
       "traffic": 20000,
       "news": {
-        "title": "박미선 아들 \"인천대 출신 키 183cm 훈남, 최 씨로 바꾸고 배우활동\"(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260701135202003"
+        "title": "삼전 노조 “호남 반도체 우리와도 논의를…처우 뒷받침 되길”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260701/134216695/2"
       }
     },
     {
-      "keyword": "반도체",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "비상 착륙",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "[단독] 靑 '광주 반도체' 발표 이틀도 안돼 … SK \"실행 안 될 수도\" 정정 공시 띄웠다",
-        "source": "뉴데일리",
-        "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/01/2026070100199.html"
+        "title": "“이륙 15분만에 비상착륙”…여객기 안에서 탑승객이 한 짓 ‘경악’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260701141201187"
       }
     },
     {
-      "keyword": "앤 해서웨이",
+      "keyword": "재정",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "앤 해서웨이, 만삭에 드레스 거꾸로 입었다…韓 디자이너 의상 눈길 [TEN할리우드]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260701114908272"
+        "title": "경기도 열린도지사실",
+        "source": "경기도청",
+        "url": "https://www.gg.go.kr/governor/user/governor/TB00000026/BR00000020"
       }
     },
     {
-      "keyword": "마이클 버리",
+      "keyword": "태양광 발전",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "마이클 버리 \"한국 반도체 지출로 인한 랠리, 종말의 시작\"…메모리 수퍼 사이클 언제까지?",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/money/2026/07/01/MWKA7QYSXVD7LIKU7GD3VIR4PA/"
+        "title": "[단독]“호남 최대 태양광 발전, 0~6시 전력공급 0.01%”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260701153300270"
       }
     },
     {
-      "keyword": "심정지",
+      "keyword": "권순우",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "충전소",
-      "traffic_raw": "500+",
-      "traffic": 500,
       "news": {
-        "title": "‘쫓겨난 현대차’ 제주 이동식 수소충전 무용지물",
-        "source": "제주의소리",
-        "url": "https://www.jejusori.net/news/articleView.html?idxno=504402"
-      }
-    },
-    {
-      "keyword": "지명 타자",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "프로야구 NC, 마이너리그 5시즌 연속 20홈런 때린 블레인 영입",
+        "title": "'말년 병장' 권순우, 윔블던 첫판서 세계 60위 란달루세 완파",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260701160300007"
+        "url": "https://www.yna.co.kr/view/AKR20260630009700007"
       }
     },
     {
-      "keyword": "사우디아라비아",
+      "keyword": "김다예",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“지방 축적 막는다”… 김다예가 33kg 뺀 비결 3가지",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/06/30/2026063002650.html"
+      }
+    },
+    {
+      "keyword": "msi 2026",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“사우디가 美 호르무즈 작전 거부”…중동 동맹 균열 조짐",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260701110751427"
+        "title": "TSW WarHorse: \"I want audience to see this Team Secret Whales did an even better job than we did at First Stand,\" ahead of MSI 2026",
+        "source": "Sheep Esports",
+        "url": "https://www.sheepesports.com/en/all/articles/tsw-warhorse-i-want-audience-to-see-this-team-secret-whales-did-an-even-better-job-than-we-did/en"
       }
     },
     {
-      "keyword": "박정훈",
+      "keyword": "이더리움",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "3년 전 가격으로 돌아간 이더리움…'2위 코인' 아성 흔들",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260701060630013?x_trkm=t"
+      }
+    },
+    {
+      "keyword": "삼양식품",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'박정훈 겨냥 위증'前해병대사령관비서실장, 첫 재판서 혐의부인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260701121306725"
+        "title": "우지 풍미, 이번엔 짜장라면에 스몄다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607012035005"
       }
     },
     {
-      "keyword": "박주민",
+      "keyword": "축산",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "경찰, “박주민이 대장동 사건 일조” 배현진 명예훼손 무혐의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260630183351761"
+        "title": "경주시 정보화농업인, 전국 스마트경영 혁신대회서 ‘최우수상’ 쾌거",
+        "source": "스트레이트뉴스",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=306028"
       }
     }
   ]
