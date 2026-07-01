@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-06-30T19:25:01.272665+09:00",
-    "label": "19:25",
-    "items": [
-      {
-        "keyword": "kt 대 한화",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "수원팀 와서 처음이다, 50억 FA 왜 5번 타순에 들어갔나…\"힐리어드 뒤에서 계속 끊어진다, 현수 뒤로 뺐다\" [MD대전]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260630n34186"
-        }
-      },
-      {
-        "keyword": "ssg 대 kia",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "KIA 슈퍼스타가 직접 방문 두드린 날…\"놓치고 있었던 부분 짚어줬다\" 코치가 건넨 조언은 무엇이었을까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630103954137"
-        }
-      },
-      {
-        "keyword": "에코프로 유상 증자",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "에코프로비엠, 1.2兆 공모 유상증자 결정",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/06/30/2026063080146.html"
-        }
-      },
-      {
-        "keyword": "롯데 대 두산",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "LG 선수단에서 'MVP 오스틴'이 사라졌다...그 뒤엔 구단주의 팀 사랑 있다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630122235782"
-        }
-      },
-      {
-        "keyword": "김연경",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'와' 김연경 제자 또 프로 무대 입성, 181cm 장신 세터 유망주 수원팀 부름받았다…\"유럽 생활 힘들었지만 큰 도움 됐다\" [MD인터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630104301315"
-        }
-      },
-      {
-        "keyword": "최미나수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "최미나수, 잘록한 허리 ‘핫걸’…시구 레전드 새로 썼다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260630/134207559/1"
-        }
-      },
-      {
-        "keyword": "우주발사체",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한국형 고체추진 우주발사체 시험 발사 연기…국방부 “최종 발사 준비 중 문제”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630171918022"
-        }
-      },
-      {
-        "keyword": "이의리",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“복귀는 후반기, 불펜 이동도 검토”…이의리는 지금 함평에, KIA의 ‘의리 부활 프로젝트’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630150030866"
-        }
-      },
-      {
-        "keyword": "권광민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "나라사랑카드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "크래프톤, 신한카드와 '나라사랑카드 PUBG 에디션' 출시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260630095300017"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-06-30T22:03:59.486425+09:00",
     "label": "22:03",
     "items": [
@@ -1447,6 +1345,112 @@
           "title": "[그래픽] 2026 북중미 월드컵 32강 대진표",
           "source": "뉴스1",
           "url": "https://www.news1.kr/photos/7980252"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-02T08:02:12.666293+09:00",
+    "label": "08:02",
+    "items": [
+      {
+        "keyword": "테니스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'말년 병장' 권순우, 윔블던 2회전서 탈락…세계 25위에 완패",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260701193900007"
+        }
+      },
+      {
+        "keyword": "운전 기사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보]까마귀 때문에 2만볼트 고압선 감전…남성 1명 중상",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11599355"
+        }
+      },
+      {
+        "keyword": "아시안 게임",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"홍명보 감독보다 더 큰 재앙이 올 수도 있다\" 축구 팬들 우려 폭발...월드컵 실패 쇼크→아시안게임에서는 반등할까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260701180202962"
+        }
+      },
+      {
+        "keyword": "kbo 리그",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "한화 박정현, 동생 KT 박영현 상대로 깜짝 홈런…KBO리그 최초",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/2026/07/02/JCGV4LECOND5PAKLRPWPFH5PIQ/"
+        }
+      },
+      {
+        "keyword": "화재",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'눈앞의 시신' 두고…\"아버지 사라졌다\" 뒤늦게 발견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260701161203569"
+        }
+      },
+      {
+        "keyword": "삼성중공업",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "최성안號 삼성重 자사주 매입 릴레이…분기 ‘3조 매출’ 자신감",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260701010000467"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Heat wave will smash records in East, Midwest through July 4",
+          "source": "The Weather Channel",
+          "url": "https://weather.com/2026/07/01/forecast/national/heat-wave-fourth-of-july-week-midwest-south-east"
+        }
+      },
+      {
+        "keyword": "송성문",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "MLB 첫 홈런에도 웃지 못한 송성문…샌디에이고, 컵스에 3-23 대패",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-baseball/6215118"
+        }
+      },
+      {
+        "keyword": "spcx",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SpaceX ignited a trading frenzy. Here’s what to know",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/06/30/investing/inside-the-spacex-trading-frenzy"
+        }
+      },
+      {
+        "keyword": "서울회생법원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"이러다 다 죽어\"…홈플러스 사태에 돈줄 묶인 협력사의 '절규'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702040300076"
         }
       }
     ]
