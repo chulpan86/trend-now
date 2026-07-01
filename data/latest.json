@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-01T12:47:30.444039+09:00",
-  "label": "12:47",
+  "timestamp": "2026-07-01T17:03:03.640918+09:00",
+  "label": "17:03",
   "items": [
     {
-      "keyword": "자이언츠 대 다이아몬드백스",
+      "keyword": "박미선",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "박미선 아들 \"인천대 출신 키 183cm 훈남, 최 씨로 바꾸고 배우활동\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260701135202003"
+      }
+    },
+    {
+      "keyword": "반도체",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "이정후, 애리조나전 9회 대타로 나와 무안타…타율 0.321",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260630105200007"
+        "title": "[단독] 靑 '광주 반도체' 발표 이틀도 안돼 … SK \"실행 안 될 수도\" 정정 공시 띄웠다",
+        "source": "뉴데일리",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/01/2026070100199.html"
       }
     },
     {
-      "keyword": "처벌",
+      "keyword": "앤 해서웨이",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“퇴근하니 텅빈집” 아이+살림 전부 챙겨간 아내…형사처벌 불가능",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11599352"
-      }
-    },
-    {
-      "keyword": "테슬라 가격 인상",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "보조금 받는 테슬라 “최대 700만원 인상”",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20260701000191"
-      }
-    },
-    {
-      "keyword": "환율",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "반년간 50조 쏟아부어도 '역부족'…환율 '1600원' 전망까지 [분석+]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026063075936"
-      }
-    },
-    {
-      "keyword": "보증금",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "전원주, 보증금 10억·월 500만원 실버타운 입주하나…\"호텔 들어가는 것 같다\"",
+        "title": "앤 해서웨이, 만삭에 드레스 거꾸로 입었다…韓 디자이너 의상 눈길 [TEN할리우드]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260701101635466"
+        "url": "https://v.daum.net/v/20260701114908272"
       }
     },
     {
-      "keyword": "박해민",
+      "keyword": "마이클 버리",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "마이클 버리 \"한국 반도체 지출로 인한 랠리, 종말의 시작\"…메모리 수퍼 사이클 언제까지?",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/money/2026/07/01/MWKA7QYSXVD7LIKU7GD3VIR4PA/"
+      }
+    },
+    {
+      "keyword": "심정지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "충전소",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "박해민 극대노! LG 1위인데 왜 불안한가…오스틴 만루포 아니었으면 지금 5연패",
+        "title": "‘쫓겨난 현대차’ 제주 이동식 수소충전 무용지물",
+        "source": "제주의소리",
+        "url": "https://www.jejusori.net/news/articleView.html?idxno=504402"
+      }
+    },
+    {
+      "keyword": "지명 타자",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "프로야구 NC, 마이너리그 5시즌 연속 20홈런 때린 블레인 영입",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260701160300007"
+      }
+    },
+    {
+      "keyword": "사우디아라비아",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“사우디가 美 호르무즈 작전 거부”…중동 동맹 균열 조짐",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260701055801561"
+        "url": "https://v.daum.net/v/20260701110751427"
       }
     },
     {
-      "keyword": "에어로케이",
+      "keyword": "박정훈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'버텨야 산다'...흔들리는 LCC, 경영난 '빨간불'",
+        "title": "'박정훈 겨냥 위증'前해병대사령관비서실장, 첫 재판서 혐의부인",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260701070140953"
+        "url": "https://v.daum.net/v/20260701121306725"
       }
     },
     {
-      "keyword": "코레 일",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "박주민",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "코레일 자회사 5개, 3개로 통합",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/06/30/7GEE3HKUEVFRJGXHFRPPVUJWTY/"
-      }
-    },
-    {
-      "keyword": "정전",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "삼성의 오스틴 팹, 2021년 한파 정전으로 5100억 손실",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/07/01/7DD5UHJB2BBXBP6D4W235HZ2XE/"
-      }
-    },
-    {
-      "keyword": "글로컬대학 30",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "충북대·교통대 '글로컬大' 낙제점!",
-        "source": "충청비즈",
-        "url": "http://www.cbiz.kr/news/articleView.html?idxno=30663"
+        "title": "경찰, “박주민이 대장동 사건 일조” 배현진 명예훼손 무혐의",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260630183351761"
       }
     }
   ]
