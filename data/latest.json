@@ -1,15 +1,65 @@
 {
-  "timestamp": "2026-07-02T04:29:21.352602+09:00",
-  "label": "04:29",
+  "timestamp": "2026-07-02T06:17:50.130221+09:00",
+  "label": "06:17",
   "items": [
     {
       "keyword": "정의선",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "정주영 창업회장 25주기 추모음악회, CNN ‘쇼타임’ 통해 180國에 방영",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260702004216817"
+      }
+    },
+    {
+      "keyword": "belgium vs senegal",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "CNN, 정주영 서거 25주기 추모 음악회 180개국에 방영",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260701060900003"
+        "title": "Belgium - Senegal",
+        "source": "Flashscore.com",
+        "url": "https://www.flashscore.com/match/football/belgium-GbB957na/senegal-hOIsJLJr/"
+      }
+    },
+    {
+      "keyword": "록히드 마틴",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“학살공조 방산포럼 취소하라”[포토뉴스]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260630222017880"
+      }
+    },
+    {
+      "keyword": "벨기에 대 세네갈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘더 브라위너도 마지막 월드컵 짐 싸야되나?’ 세네갈, 벨기에에 1-0 리드(전반종료)",
+        "source": "OSEN",
+        "url": "http://www.osen.co.kr/article/G1112832363"
+      }
+    },
+    {
+      "keyword": "주차장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "민원·불편만 남긴 차량 부제 풀리니…주차장 다시 빽빽 [현장, 그곳&]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260702050115522"
+      }
+    },
+    {
+      "keyword": "india vs england",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "No time to analyse for India, England as T20I series awaits",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-1st-t20i-1496574/match-preview"
       }
     },
     {
@@ -17,9 +67,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"SON 이후 최고 영입이다!\" 토트넘의 1억 파운드 프로젝트. 英 매체 \"웨스트햄 MF, 토트넘 최고 영입 SON과 버금간다\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/07/02/HE4TGYJUMQ2GKODEGJRTOOBZMM/"
+        "title": "'이게 맞나' 토트넘, 1744억에 포르투갈 출신 미드필더 페르난데스 영입 임박...지난 시즌 부진 탈출 도전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260701150202294"
       }
     },
     {
@@ -33,43 +83,13 @@
       }
     },
     {
-      "keyword": "나겔스만",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "월드컵 충격 탈락! \"참담하고 수치, 끔찍하다\" 작심비판...'韓 축구 흑역사' 클린스만, 독일 대표팀 맹폭 \"정말 정말 실망스러워\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260701215519772"
-      }
-    },
-    {
-      "keyword": "anh vs",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Video bóng đá Anh - CHDC Congo: Tuyệt đỉnh Harry Kane, ngược dòng ngoạn mục (World Cup)",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/world-cup-2026/video-bong-da-anh-chdc-congo-phu-dau-choang-vang-world-cup-c860a1774763.html"
-      }
-    },
-    {
-      "keyword": "india vs england",
+      "keyword": "อังกฤษ พบ คองโก",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "No time to analyse for India, England as T20I series awaits",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-1st-t20i-1496574/match-preview"
-      }
-    },
-    {
-      "keyword": "벨기에 세네갈",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[AI프리뷰] 월드컵 2일 32강 벨기에-세네갈전, 살아난 벨기에와 역습 노리는 세네갈",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260701001419"
+        "title": "ปฏิกิริยาที่ทำให้เสียแต้มของเคนแสดงให้เห็นถึงความมีระดับของเขา",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/th/phan-ung-dat-gia-cho-thay-dang-cap-cua-kane"
       }
     },
     {
@@ -80,26 +100,6 @@
         "title": "[그래픽] 2026 북중미 월드컵 32강 대진표",
         "source": "뉴스1",
         "url": "https://www.news1.kr/photos/7980252"
-      }
-    },
-    {
-      "keyword": "래시포드",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'상황 급반전' HERE WE GO 독점! 맨체스터 유나이티드, '임대 우등생' 래시포드 우선 프리시즌 캠프 합류→이적 협상 열어둔다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/06/30/GA2WMNDCMU3WEZTDGZRTSNRZGY/"
-      }
-    },
-    {
-      "keyword": "사이바리",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[오피셜] 김민재, '월드컵 스타'와 한솥밥 먹는다…바이에른 뮌헨, 사이바리 영입→2031년까지 계약+등번호 34번",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260702n01030"
       }
     }
   ]

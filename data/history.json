@@ -1344,5 +1344,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-02T06:17:50.130221+09:00",
+    "label": "06:17",
+    "items": [
+      {
+        "keyword": "정의선",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "정주영 창업회장 25주기 추모음악회, CNN ‘쇼타임’ 통해 180國에 방영",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702004216817"
+        }
+      },
+      {
+        "keyword": "belgium vs senegal",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Belgium - Senegal",
+          "source": "Flashscore.com",
+          "url": "https://www.flashscore.com/match/football/belgium-GbB957na/senegal-hOIsJLJr/"
+        }
+      },
+      {
+        "keyword": "록히드 마틴",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“학살공조 방산포럼 취소하라”[포토뉴스]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260630222017880"
+        }
+      },
+      {
+        "keyword": "벨기에 대 세네갈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘더 브라위너도 마지막 월드컵 짐 싸야되나?’ 세네갈, 벨기에에 1-0 리드(전반종료)",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112832363"
+        }
+      },
+      {
+        "keyword": "주차장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "민원·불편만 남긴 차량 부제 풀리니…주차장 다시 빽빽 [현장, 그곳&]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702050115522"
+        }
+      },
+      {
+        "keyword": "india vs england",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "No time to analyse for India, England as T20I series awaits",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-1st-t20i-1496574/match-preview"
+        }
+      },
+      {
+        "keyword": "토날리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'이게 맞나' 토트넘, 1744억에 포르투갈 출신 미드필더 페르난데스 영입 임박...지난 시즌 부진 탈출 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260701150202294"
+        }
+      },
+      {
+        "keyword": "벨링엄",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "벨링햄의 예상치 못한 행동",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hanh-dong-bat-ngo-cua-bellingham"
+        }
+      },
+      {
+        "keyword": "อังกฤษ พบ คองโก",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "ปฏิกิริยาที่ทำให้เสียแต้มของเคนแสดงให้เห็นถึงความมีระดับของเขา",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/phan-ung-dat-gia-cho-thay-dang-cap-cua-kane"
+        }
+      },
+      {
+        "keyword": "월드컵 대진",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[그래픽] 2026 북중미 월드컵 32강 대진표",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/7980252"
+        }
+      }
+    ]
   }
 ]
