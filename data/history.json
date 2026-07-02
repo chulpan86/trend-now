@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-01T12:47:30.444039+09:00",
-    "label": "12:47",
-    "items": [
-      {
-        "keyword": "자이언츠 대 다이아몬드백스",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "이정후, 애리조나전 9회 대타로 나와 무안타…타율 0.321",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260630105200007"
-        }
-      },
-      {
-        "keyword": "처벌",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“퇴근하니 텅빈집” 아이+살림 전부 챙겨간 아내…형사처벌 불가능",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11599352"
-        }
-      },
-      {
-        "keyword": "테슬라 가격 인상",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "보조금 받는 테슬라 “최대 700만원 인상”",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260701000191"
-        }
-      },
-      {
-        "keyword": "환율",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "반년간 50조 쏟아부어도 '역부족'…환율 '1600원' 전망까지 [분석+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026063075936"
-        }
-      },
-      {
-        "keyword": "보증금",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "전원주, 보증금 10억·월 500만원 실버타운 입주하나…\"호텔 들어가는 것 같다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260701101635466"
-        }
-      },
-      {
-        "keyword": "박해민",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "박해민 극대노! LG 1위인데 왜 불안한가…오스틴 만루포 아니었으면 지금 5연패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260701055801561"
-        }
-      },
-      {
-        "keyword": "에어로케이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'버텨야 산다'...흔들리는 LCC, 경영난 '빨간불'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260701070140953"
-        }
-      },
-      {
-        "keyword": "코레 일",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "코레일 자회사 5개, 3개로 통합",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/06/30/7GEE3HKUEVFRJGXHFRPPVUJWTY/"
-        }
-      },
-      {
-        "keyword": "정전",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼성의 오스틴 팹, 2021년 한파 정전으로 5100억 손실",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/07/01/7DD5UHJB2BBXBP6D4W235HZ2XE/"
-        }
-      },
-      {
-        "keyword": "글로컬대학 30",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "충북대·교통대 '글로컬大' 낙제점!",
-          "source": "충청비즈",
-          "url": "http://www.cbiz.kr/news/articleView.html?idxno=30663"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-01T17:03:03.640918+09:00",
     "label": "17:03",
     "items": [
@@ -1357,6 +1251,112 @@
           "title": "Looking ahead: Swiatek will face Eala for spot in Wimbledon Round of 16",
           "source": "WTA Tennis",
           "url": "https://www.wtatennis.com/news/4529879/iga-swiatek-to-face-alexandra-eala-for-spot-in-wimbledon-round-of-16"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-03T02:26:29.115764+09:00",
+    "label": "02:26",
+    "items": [
+      {
+        "keyword": "홍명보 출국",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[단독] 홍명보 감독, 모자·마스크 쓰고 돌연 출국‥\"언젠가는 이야기할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702204010116"
+        }
+      },
+      {
+        "keyword": "황희찬",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“황인범·황희찬 인터뷰 이후 선수들 갈등”",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000537639.do"
+        }
+      },
+      {
+        "keyword": "다니엘",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "뉴진스 다니엘만 소송 걸린 이유 알고 보니…\"모르쇠 일관\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260702_0003693777"
+        }
+      },
+      {
+        "keyword": "프로당구협회",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "프로당구 신생 10구단 '브레이커스' 출범…\"모든 팀 깨겠다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702155602255?f=p"
+        }
+      },
+      {
+        "keyword": "박장범",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보] 법원, 김건희 금품 제공자들에 집행유예·벌금형 선고",
+          "source": "연합뉴스 한민족센터",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1373510"
+        }
+      },
+      {
+        "keyword": "알렉산더 즈베레프",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "프랑스오픈 우승 즈베레프, 윔블던 2회전 안착",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260701_0002174595"
+        }
+      },
+      {
+        "keyword": "lg에너지솔루션",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "LG엔솔, 美 3대 로봇기업 다 뚫었다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026070227971"
+        }
+      },
+      {
+        "keyword": "가스 터빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "두산에너빌리티, 경제부총리 표창…수출 경쟁력 인정",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=369811"
+        }
+      },
+      {
+        "keyword": "엔화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "日 외환당국자 \"시장개입 효과 있었다…미국 반대 없다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702085307382"
+        }
+      },
+      {
+        "keyword": "v",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'Icons' Modric, Ronaldo battle to avoid World Cup send-off",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49241567/croatia-portugal-luka-modric-cristiano-ronaldo-2026-world-cup"
         }
       }
     ]

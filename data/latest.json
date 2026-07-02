@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-03T00:05:34.356500+09:00",
-  "label": "00:05",
+  "timestamp": "2026-07-03T02:26:29.115764+09:00",
+  "label": "02:26",
   "items": [
     {
-      "keyword": "홍명보 미국",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "홍명보 출국",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "[단독] 홍명보 감독, 모자·마스크 쓰고 돌연 출국‥\"언젠가는 이야기할 것\"",
         "source": "Daum",
@@ -14,8 +14,8 @@
     },
     {
       "keyword": "황희찬",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "“황인범·황희찬 인터뷰 이후 선수들 갈등”",
         "source": "채널A",
@@ -23,13 +23,23 @@
       }
     },
     {
-      "keyword": "호아킨 소로 야",
+      "keyword": "다니엘",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "액자 쓰려고 주워왔는데…그 안에 '2억6000만원' 그림 있었다",
+        "title": "뉴진스 다니엘만 소송 걸린 이유 알고 보니…\"모르쇠 일관\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260702_0003693777"
+      }
+    },
+    {
+      "keyword": "프로당구협회",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "프로당구 신생 10구단 '브레이커스' 출범…\"모든 팀 깨겠다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260702180502067"
+        "url": "https://v.daum.net/v/20260702155602255?f=p"
       }
     },
     {
@@ -37,29 +47,29 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'매관매직' 김건희 1심 징역 7년 선고...\"위법성 인식하며 은폐\"",
-        "source": "파이낸셜뉴스",
-        "url": "https://www.fnnews.com/news/202606261613071493"
+        "title": "[속보] 법원, 김건희 금품 제공자들에 집행유예·벌금형 선고",
+        "source": "연합뉴스 한민족센터",
+        "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1373510"
       }
     },
     {
-      "keyword": "프로당구협회",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "알렉산더 즈베레프",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "프로당구 신생 10구단 '브레이커스' 출범…\"모든 팀 깨겠다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260702155602255"
+        "title": "프랑스오픈 우승 즈베레프, 윔블던 2회전 안착",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260701_0002174595"
       }
     },
     {
       "keyword": "lg에너지솔루션",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "LG엔솔, 미국 3대 로봇 기업 모두 뚫었다",
+        "title": "LG엔솔, 美 3대 로봇기업 다 뚫었다",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607022214i"
+        "url": "https://www.hankyung.com/article/2026070227971"
       }
     },
     {
@@ -77,29 +87,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "역대급 엔저에 해외관광객 몰리지만…일본인은 고비용 해외행 '주저'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260702158700073"
-      }
-    },
-    {
-      "keyword": "키이우",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "러시아 \"우크라 공격에 보복\"…키이우 대공습에 최소 21명 사망",
+        "title": "日 외환당국자 \"시장개입 효과 있었다…미국 반대 없다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260702232400823"
+        "url": "https://v.daum.net/v/20260702085307382"
       }
     },
     {
-      "keyword": "테일러 프리츠",
+      "keyword": "v",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Looking ahead: Swiatek will face Eala for spot in Wimbledon Round of 16",
-        "source": "WTA Tennis",
-        "url": "https://www.wtatennis.com/news/4529879/iga-swiatek-to-face-alexandra-eala-for-spot-in-wimbledon-round-of-16"
+        "title": "'Icons' Modric, Ronaldo battle to avoid World Cup send-off",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49241567/croatia-portugal-luka-modric-cristiano-ronaldo-2026-world-cup"
       }
     }
   ]
