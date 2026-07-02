@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-01T17:03:03.640918+09:00",
-    "label": "17:03",
-    "items": [
-      {
-        "keyword": "박미선",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "박미선 아들 \"인천대 출신 키 183cm 훈남, 최 씨로 바꾸고 배우활동\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260701135202003"
-        }
-      },
-      {
-        "keyword": "반도체",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[단독] 靑 '광주 반도체' 발표 이틀도 안돼 … SK \"실행 안 될 수도\" 정정 공시 띄웠다",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/01/2026070100199.html"
-        }
-      },
-      {
-        "keyword": "앤 해서웨이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "앤 해서웨이, 만삭에 드레스 거꾸로 입었다…韓 디자이너 의상 눈길 [TEN할리우드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260701114908272"
-        }
-      },
-      {
-        "keyword": "마이클 버리",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "마이클 버리 \"한국 반도체 지출로 인한 랠리, 종말의 시작\"…메모리 수퍼 사이클 언제까지?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/07/01/MWKA7QYSXVD7LIKU7GD3VIR4PA/"
-        }
-      },
-      {
-        "keyword": "심정지",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": null
-      },
-      {
-        "keyword": "충전소",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘쫓겨난 현대차’ 제주 이동식 수소충전 무용지물",
-          "source": "제주의소리",
-          "url": "https://www.jejusori.net/news/articleView.html?idxno=504402"
-        }
-      },
-      {
-        "keyword": "지명 타자",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "프로야구 NC, 마이너리그 5시즌 연속 20홈런 때린 블레인 영입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260701160300007"
-        }
-      },
-      {
-        "keyword": "사우디아라비아",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“사우디가 美 호르무즈 작전 거부”…중동 동맹 균열 조짐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260701110751427"
-        }
-      },
-      {
-        "keyword": "박정훈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'박정훈 겨냥 위증'前해병대사령관비서실장, 첫 재판서 혐의부인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260701121306725"
-        }
-      },
-      {
-        "keyword": "박주민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "경찰, “박주민이 대장동 사건 일조” 배현진 명예훼손 무혐의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630183351761"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-01T20:51:00.248516+09:00",
     "label": "20:51",
     "items": [
@@ -1463,6 +1361,108 @@
           "title": "Will Ronaldo 'step up' for Portugal vs. Croatia?",
           "source": "ESPN",
           "url": "https://www.espn.com/video/clip/_/id/49249543/will-ronaldo-step-portugal-vs-croatia"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-03T05:53:53.956360+09:00",
+    "label": "05:53",
+    "items": [
+      {
+        "keyword": "홍명보 출국",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[단독] 홍명보 감독, 모자·마스크 쓰고 돌연 출국‥\"언젠가는 이야기할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702204010116"
+        }
+      },
+      {
+        "keyword": "스페인 대 오스트리아",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[AI프리뷰] 월드컵 3일 32강 스페인-오스트리아전, 드디어 풀타임 출전 가능한 야말",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260702001023"
+        }
+      },
+      {
+        "keyword": "민희진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"민희진, 뉴진스 라이브 방송·'전속계약 해지선언'까지 지시\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260702_0003693849"
+        }
+      },
+      {
+        "keyword": "프로당구협회",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "프로당구 신생 10구단 '브레이커스' 출범…\"모든 팀 깨겠다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702155602255?f=p"
+        }
+      },
+      {
+        "keyword": "알렉산더 즈베레프",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "프랑스오픈 우승 즈베레프, 윔블던 2회전 안착",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260701_0002174595"
+        }
+      },
+      {
+        "keyword": "엄기준",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"작년까지 엄청 싸워\" 엄기준, 비연예인 아내와 2년 차 신혼 반전 고백 ('전현무계획')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702140938456"
+        }
+      },
+      {
+        "keyword": "인천 흥국생명 핑크스파이더스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "spain vs austria",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Spain vs Austria LIVE: Watch FIFA World Cup last-32 TV stream, score, prediction, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c8j2wvnzkvzt"
+        }
+      },
+      {
+        "keyword": "오스트리아",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Why is Austria AUT at the World Cup?",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/02/why-austria-is-aut-on-world-cup-scores/90787405007/"
+        }
+      },
+      {
+        "keyword": "v",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "The anatomy of a World Cup implosion: 40 minutes that broke Senegal and revived Belgium",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7413662/2026/07/01/belgium-senegal-world-cup-implosion/"
         }
       }
     ]
