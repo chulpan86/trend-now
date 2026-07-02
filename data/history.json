@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-06-30T22:03:59.486425+09:00",
-    "label": "22:03",
-    "items": [
-      {
-        "keyword": "이민정",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'MJ' 이민정 \"라면 다 못 먹어…고기 좋아하는 이유\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630185201132"
-        }
-      },
-      {
-        "keyword": "hlb 파나진",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "HLB파나진, AOC 핵심 특허 출원…정부 IP-R&D 지원사업도 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630160602442"
-        }
-      },
-      {
-        "keyword": "이소영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "재활 마친 이소영, 여자배구 IBK기업은행과 계약해 코트 복귀",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260630169100007"
-        }
-      },
-      {
-        "keyword": "동남아시아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "동남아 ‘공공의 적’ 된 한국?···“우리 중 한 나라 건드리면 동남아 전체가 달려든다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606281129021"
-        }
-      },
-      {
-        "keyword": "기성용",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'기성용-송민규-김진규 포함' 총 338명...프로축구연맹, 2027년 FA 자격 취득 예정 명단 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630151704793"
-        }
-      },
-      {
-        "keyword": "중소기업은행",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "기업은행, 첨단·혁신산업 중소기업에 2000억 푼다",
-          "source": "스포탈코리아",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553318351"
-        }
-      },
-      {
-        "keyword": "카라 델레바인",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "카라 델레바인, 앰버 허드와 열애 루머 인정..\"조니 뎁이 질투\" [Oh!llywood]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630162304296"
-        }
-      },
-      {
-        "keyword": "cuaca besok",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Cuaca Jakarta Hari Ini Diprediksi Berawan",
-          "source": "Kabarin.com",
-          "url": "https://www.kabarin.com/baca/74703/cuaca-jakarta-hari-ini-diprediksi-berawan"
-        }
-      },
-      {
-        "keyword": "6세대 전투기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "中, 6세대 스텔스기 처음 공개…‘차세대 전투기 개발서 서방 추월 과시’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260630184151926"
-        }
-      },
-      {
-        "keyword": "최민석",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'최민석 8승·박찬호 3점포'…두산, 롯데 5-0 꺾고 '단독 5위'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260630_0003690388"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-01T01:16:14.775966+09:00",
     "label": "01:16",
     "items": [
@@ -1451,6 +1345,108 @@
           "title": "\"이러다 다 죽어\"…홈플러스 사태에 돈줄 묶인 협력사의 '절규'",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260702040300076"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-02T11:13:46.226821+09:00",
+    "label": "11:13",
+    "items": [
+      {
+        "keyword": "운전",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[독자기고] 제주 관광객의 음주운전 근절 바라며",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=839696"
+        }
+      },
+      {
+        "keyword": "신분증",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"따봤자 100만원짜리 신분증\" 대학생도 외면…눈물의 폐업",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026070102631"
+        }
+      },
+      {
+        "keyword": "usa vs bosnia and herzegovina",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "World Cup live updates: Balogun gives U.S. lead over Bosnia-Herzegovina",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49233296/live-updates-us-takes-bosnia-herzegovina-round-32-fifa-world-cup"
+        }
+      },
+      {
+        "keyword": "삼성전자 주가",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[특징주] 삼전·닉스 7%대 급락…삼성전자 30만원선 내줘",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702094006819"
+        }
+      },
+      {
+        "keyword": "위택스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "지방세 행정 시스템 한때 ‘마비’…7일까지 신고·납부 연장",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/area_general/1266315.html"
+        }
+      },
+      {
+        "keyword": "데이브 로버츠",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이제 누가 그를 '돌버츠'라고 부르겠나…'역대 68번째·최연소' 1000승 고지 정복→승률 1위 오른 로버츠 감독",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260701200718388"
+        }
+      },
+      {
+        "keyword": "fable",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "U.S. Lifts Export Controls on Anthropic AI Models",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/07/01/WSXIVPIHENFMPELVQVVJ3TPZVY/"
+        }
+      },
+      {
+        "keyword": "강릉시장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"강릉 전역이 골고루 행복해야\" 김중남 시장, 시청 아닌 주문진서 취임식",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xy6K9qoMrq"
+        }
+      },
+      {
+        "keyword": "백승일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "아이폰",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "印 공급망 해킹에…애플, 아이폰18 실물·공급망 정보 유출 곤혹",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702061153566"
         }
       }
     ]

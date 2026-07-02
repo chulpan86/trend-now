@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-02T08:02:12.666293+09:00",
-  "label": "08:02",
+  "timestamp": "2026-07-02T11:13:46.226821+09:00",
+  "label": "11:13",
   "items": [
     {
-      "keyword": "테니스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "운전",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "'말년 병장' 권순우, 윔블던 2회전서 탈락…세계 25위에 완패",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260701193900007"
+        "title": "[독자기고] 제주 관광객의 음주운전 근절 바라며",
+        "source": "제민일보",
+        "url": "https://www.jemin.com/news/articleView.html?idxno=839696"
       }
     },
     {
-      "keyword": "운전 기사",
+      "keyword": "신분증",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[속보]까마귀 때문에 2만볼트 고압선 감전…남성 1명 중상",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11599355"
+        "title": "\"따봤자 100만원짜리 신분증\" 대학생도 외면…눈물의 폐업",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026070102631"
       }
     },
     {
-      "keyword": "아시안 게임",
+      "keyword": "usa vs bosnia and herzegovina",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"홍명보 감독보다 더 큰 재앙이 올 수도 있다\" 축구 팬들 우려 폭발...월드컵 실패 쇼크→아시안게임에서는 반등할까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260701180202962"
+        "title": "World Cup live updates: Balogun gives U.S. lead over Bosnia-Herzegovina",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49233296/live-updates-us-takes-bosnia-herzegovina-round-32-fifa-world-cup"
       }
     },
     {
-      "keyword": "kbo 리그",
+      "keyword": "삼성전자 주가",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한화 박정현, 동생 KT 박영현 상대로 깜짝 홈런…KBO리그 최초",
+        "title": "[특징주] 삼전·닉스 7%대 급락…삼성전자 30만원선 내줘",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260702094006819"
+      }
+    },
+    {
+      "keyword": "위택스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "지방세 행정 시스템 한때 ‘마비’…7일까지 신고·납부 연장",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/area/area_general/1266315.html"
+      }
+    },
+    {
+      "keyword": "데이브 로버츠",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이제 누가 그를 '돌버츠'라고 부르겠나…'역대 68번째·최연소' 1000승 고지 정복→승률 1위 오른 로버츠 감독",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260701200718388"
+      }
+    },
+    {
+      "keyword": "fable",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "U.S. Lifts Export Controls on Anthropic AI Models",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/2026/07/02/JCGV4LECOND5PAKLRPWPFH5PIQ/"
+        "url": "https://www.chosun.com/english/industry-en/2026/07/01/WSXIVPIHENFMPELVQVVJ3TPZVY/"
       }
     },
     {
-      "keyword": "화재",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'눈앞의 시신' 두고…\"아버지 사라졌다\" 뒤늦게 발견",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260701161203569"
-      }
-    },
-    {
-      "keyword": "삼성중공업",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "최성안號 삼성重 자사주 매입 릴레이…분기 ‘3조 매출’ 자신감",
-        "source": "아시아투데이",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260701010000467"
-      }
-    },
-    {
-      "keyword": "天气",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Heat wave will smash records in East, Midwest through July 4",
-        "source": "The Weather Channel",
-        "url": "https://weather.com/2026/07/01/forecast/national/heat-wave-fourth-of-july-week-midwest-south-east"
-      }
-    },
-    {
-      "keyword": "송성문",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "MLB 첫 홈런에도 웃지 못한 송성문…샌디에이고, 컵스에 3-23 대패",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/overseas-baseball/6215118"
-      }
-    },
-    {
-      "keyword": "spcx",
+      "keyword": "강릉시장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "SpaceX ignited a trading frenzy. Here’s what to know",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/06/30/investing/inside-the-spacex-trading-frenzy"
+        "title": "\"강릉 전역이 골고루 행복해야\" 김중남 시장, 시청 아닌 주문진서 취임식",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xy6K9qoMrq"
       }
     },
     {
-      "keyword": "서울회생법원",
+      "keyword": "백승일",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "아이폰",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"이러다 다 죽어\"…홈플러스 사태에 돈줄 묶인 협력사의 '절규'",
+        "title": "印 공급망 해킹에…애플, 아이폰18 실물·공급망 정보 유출 곤혹",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260702040300076"
+        "url": "https://v.daum.net/v/20260702061153566"
       }
     }
   ]
