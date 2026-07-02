@@ -1360,5 +1360,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-03T04:09:03.381751+09:00",
+    "label": "04:09",
+    "items": [
+      {
+        "keyword": "홍명보 출국",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[단독] 홍명보 감독, 모자·마스크 쓰고 돌연 출국‥\"언젠가는 이야기할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702204010116"
+        }
+      },
+      {
+        "keyword": "황희찬",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“황인범·황희찬 인터뷰 이후 선수들 갈등”",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000537639.do"
+        }
+      },
+      {
+        "keyword": "다니엘",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "뉴진스 다니엘만 소송 걸린 이유 알고 보니…\"모르쇠 일관\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260702_0003693777"
+        }
+      },
+      {
+        "keyword": "프로당구협회",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "프로당구 신생 10구단 '브레이커스' 출범…\"모든 팀 깨겠다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702155602255?f=p"
+        }
+      },
+      {
+        "keyword": "박장범",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[포토] 공판 출석하는 최재영 목사",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/svc/article_print.html?no=2026062600178"
+        }
+      },
+      {
+        "keyword": "알렉산더 즈베레프",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "프랑스오픈 우승 즈베레프, 윔블던 2회전 안착",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260701_0002174595"
+        }
+      },
+      {
+        "keyword": "lg에너지솔루션",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "LG엔솔, 미국 3대 로봇 기업 모두 뚫었다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607022214i"
+        }
+      },
+      {
+        "keyword": "가스 터빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "두산에너빌리티, 경제부총리 표창…수출 경쟁력 인정",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=369811"
+        }
+      },
+      {
+        "keyword": "엔화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"한국 가고 싶어요\" 외치던 日…\"안 갈래요\" 돌변한 까닭",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3LP5Ay9UkT"
+        }
+      },
+      {
+        "keyword": "v",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Will Ronaldo 'step up' for Portugal vs. Croatia?",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/49249543/will-ronaldo-step-portugal-vs-croatia"
+        }
+      }
+    ]
   }
 ]
