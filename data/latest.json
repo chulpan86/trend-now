@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-03T05:53:53.956360+09:00",
-  "label": "05:53",
+  "timestamp": "2026-07-03T06:59:04.632637+09:00",
+  "label": "06:59",
   "items": [
     {
-      "keyword": "홍명보 출국",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "반도체",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "[단독] 홍명보 감독, 모자·마스크 쓰고 돌연 출국‥\"언젠가는 이야기할 것\"",
+        "title": "'삼전·하이닉스'에 쏠린 비극…코스피 7600선 붕괴, 개미들 '패닉'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260702204010116"
+        "url": "https://v.daum.net/v/20260703054145460"
       }
     },
     {
-      "keyword": "스페인 대 오스트리아",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[AI프리뷰] 월드컵 3일 32강 스페인-오스트리아전, 드디어 풀타임 출전 가능한 야말",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260702001023"
-      }
-    },
-    {
-      "keyword": "민희진",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"민희진, 뉴진스 라이브 방송·'전속계약 해지선언'까지 지시\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260702_0003693849"
-      }
-    },
-    {
-      "keyword": "프로당구협회",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "프로당구 신생 10구단 '브레이커스' 출범…\"모든 팀 깨겠다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260702155602255?f=p"
-      }
-    },
-    {
-      "keyword": "알렉산더 즈베레프",
+      "keyword": "정동원",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "프랑스오픈 우승 즈베레프, 윔블던 2회전 안착",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260701_0002174595"
+        "title": "\"벌써 이렇게 늠름해졌네\"…'해병대 자진입대' 정동원, 휴가 중 포착",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/02/MY3WMMTFGIZDKZRYMIZTOYJYGI/"
       }
     },
     {
-      "keyword": "엄기준",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "혈당",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "\"작년까지 엄청 싸워\" 엄기준, 비연예인 아내와 2년 차 신혼 반전 고백 ('전현무계획')",
+        "title": "아보카도 하루 한 개씩 6개월 먹었더니… 혈당에 생긴 뜻밖의 변화",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/07/02/2026070201677.html"
+      }
+    },
+    {
+      "keyword": "박현경",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'롯데 오픈' 출전한 김효주…공동 2위",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260702140938456"
+        "url": "https://v.daum.net/v/20260702213341050"
       }
     },
     {
-      "keyword": "인천 흥국생명 핑크스파이더스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "창릉 역",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"당장 2억 어디서 구해요\" 한숨...정부 6억 믿었는데 '8억' 됐다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Q62i5baeg9"
+      }
     },
     {
-      "keyword": "spain vs austria",
+      "keyword": "금양",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'상폐 위기' 금양, 마지막 반전 없었다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260701101343295?f=p"
+      }
+    },
+    {
+      "keyword": "재벌x형사",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Spain vs Austria LIVE: Watch FIFA World Cup last-32 TV stream, score, prediction, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c8j2wvnzkvzt"
+        "title": "박지현 하차 후 베일벗은 새 배우...유승호였다, 3년만 연기 활동 재개",
+        "source": "OSEN",
+        "url": "http://www.osen.co.kr/article/G1112832605"
       }
     },
     {
-      "keyword": "오스트리아",
+      "keyword": "이만희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] \"이만희 선생님 식빵에 딸기잼 발라, 야간엔 화장실 2번\"…‘교도관 신도’의 신천지 보고",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12306277"
+      }
+    },
+    {
+      "keyword": "관광객",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Why is Austria AUT at the World Cup?",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/02/why-austria-is-aut-on-world-cup-scores/90787405007/"
+        "title": "[영상] 대만 관광객 분노한 '69만원 택시비'...자초지종 들어봤더니",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260702011600797"
       }
     },
     {
-      "keyword": "v",
+      "keyword": "국민일보",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "The anatomy of a World Cup implosion: 40 minutes that broke Senegal and revived Belgium",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/athletic/7413662/2026/07/01/belgium-senegal-world-cup-implosion/"
+        "title": "[관가뒷담] “재경부는 ‘홍명보팀’”… 삼전닉스로 떠나는 공무원들",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703050502105"
       }
     }
   ]
