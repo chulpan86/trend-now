@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-07-04T04:01:38.986562+09:00",
-  "label": "04:01",
+  "timestamp": "2026-07-04T05:52:37.006625+09:00",
+  "label": "05:52",
   "items": [
     {
       "keyword": "유조선",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "\"전쟁 최대 수혜자는 韓기업\" 해외도 깜짝…'10조 베팅' 통했다",
         "source": "한국경제",
         "url": "https://www.hankyung.com/article/2026070349251"
+      }
+    },
+    {
+      "keyword": "서울경제",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "자체 AI칩 개발 뛰어든 앤스로픽, 파운드리 파트너로 삼성 낙점",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704014208156"
+      }
+    },
+    {
+      "keyword": "북한이탈주민",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "인권위, \"'북향민' 명칭 변경, 당사자 의견 수렴해야\"…통일부에 권고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260702192518311"
+      }
+    },
+    {
+      "keyword": "이종석",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'아이유♥' 이종석, 수영장에서 한껏 화난 등근육…셔츠 벗자 드러난 태평양 어깨 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/03/MRSGIYRZGVSWKYLFGNRWCOBQGA/"
       }
     },
     {
@@ -23,39 +53,19 @@
       }
     },
     {
-      "keyword": "야닉 시너",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "조코비치, 윔블던 3회전 진출...‘황제’의 메이저 105승까지 1승 남아",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260702154616753?f=p"
-      }
-    },
-    {
-      "keyword": "이종석",
+      "keyword": "australia vs egypt",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이러니 아이유가 반하지..이종석, 상의 탈의 수영장 포착 [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260703081321141"
-      }
-    },
-    {
-      "keyword": "australia vs egypt",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Australia v Egypt: World Cup 2026 last 32 – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live"
+        "title": "Australia equalizes through Egypt own goal | 2026 FIFA World Cup™",
+        "source": "FOX Sports",
+        "url": "https://www.foxsports.com/watch/fmc-bhqgwiyh4cn1fk7v"
       }
     },
     {
       "keyword": "민생회복 소비쿠폰",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "[민생회복 소비쿠폰 효과 점검] 비수도권·음식점에 더 큰 효과···지역·업종별 격차 ④",
         "source": "공유경제신문",
@@ -64,8 +74,8 @@
     },
     {
       "keyword": "얼굴",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "‘술톤’ 빠진 황정민… 금주 후 확 달라진 근황 봤더니?",
         "source": "헬스조선",
@@ -74,8 +84,8 @@
     },
     {
       "keyword": "자승",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "조계종 “자승 전 총무원장 재산 종단 귀속 완료”",
         "source": "경향신문",
@@ -83,23 +93,13 @@
       }
     },
     {
-      "keyword": "트로트",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "살라",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "‘뮤직뱅크’ 김희재 ‘이런 날 기다렸나요’ 필승 무대",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607031740003"
-      }
-    },
-    {
-      "keyword": "킬러들의 쇼핑몰 시즌2",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "넷플 대세 잡을 디즈니+ 효자, 시즌2 직전 MBC가 잡았다('킬러들의 쇼핑몰')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260703190216418"
+        "title": "[AI프리뷰] 월드컵 4일 32강 호주-이집트전, 이집트 '햄스트링 부상' 살라 회복에 집중",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260703000458"
       }
     }
   ]
