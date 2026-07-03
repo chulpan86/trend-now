@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-03T20:25:59.139086+09:00",
-  "label": "20:25",
+  "timestamp": "2026-07-03T22:42:21.355529+09:00",
+  "label": "22:42",
   "items": [
     {
-      "keyword": "nc 대 kia",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "좌완 구창모 겨냥 KIA 좌타 6명 배치...이범호 \"피안타율이 8푼이나 더 높더라\" [오!쎈 광주]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260703165216043"
-      }
-    },
-    {
-      "keyword": "한화 대 lg",
+      "keyword": "국제 축구 연맹",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "'선두 질주' LG 염경엽 감독 \"야구의 상대성…키움만 만나면 잘 안 풀린다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260703_0003695317"
+        "title": "홍명보 전 감독, 美 LA 도착…취재진 피해 별도통로 이용한듯",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260703066200075"
       }
     },
     {
-      "keyword": "롯데 대 kt",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "[사진]한동희 '투런포로 먼저 앞서간다'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/07/03/GU2WCMJRG5RDGM3FMEZTOY3CGI/"
-      }
-    },
-    {
-      "keyword": "이언주",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "이언주, 얼굴 합성 음란물 피해…“어떤 선처도 없다” 강경대응",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260703/134232765/2"
-      }
-    },
-    {
-      "keyword": "두산 대 키움",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "'6시30분→7시50분 지연 개시' 우천 변수에도 '에이스' 자격 보여준 국대 투수…김원형 감독도 인정 [오!쎈 고척] - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/baseball/2026/07/03/MYYDGYLEGRSWKOBXMVQTEZRVMI/"
-      }
-    },
-    {
-      "keyword": "오윤아",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "오윤아, 이혼 11년 만에 재혼…\"발달장애 子 품어준 인연\" 눈물",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260703_0003695571"
-      }
-    },
-    {
-      "keyword": "박주호",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘K-축구 구하기’ 박지성 손잡은 혁신위…이영표·박주호 합류",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1266612.html"
-      }
-    },
-    {
-      "keyword": "msi",
+      "keyword": "김부장 드라마",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Hanwha Life Esports Advances to Bracket Stage Round 2 with 3-0 Win",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/07/03/55VNUDFSQBFGFBIFXF6RY2IKN4/"
-      }
-    },
-    {
-      "keyword": "이동국",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'이동국 딸' 재시·설아·수아…폭풍성장 '슈돌' 소녀들, 3인3색 미모",
+        "title": "'김부장' 아빠 유니버스 본격화…소지섭·최대훈 권총액션 \"무법중년 듀오\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260703154200585"
+        "url": "https://v.daum.net/v/20260703104917445"
       }
     },
     {
-      "keyword": "사관학교",
+      "keyword": "kia 타이거즈",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "김도영 26호포…'3연승' KIA, 3위와 1경기 차",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703074806679"
+      }
+    },
+    {
+      "keyword": "정이한",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이기인 \"'테러 자작극' 정이한, 미국 체류설…행방 알 수 없다\"",
+        "source": "주간조선",
+        "url": "https://weekly.chosun.com/news/articleView.html?idxno=53164"
+      }
+    },
+    {
+      "keyword": "아르헨티나 카보베르데",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"우리도 꿈이 있습니다\" 메시와 아르헨티나 만나는 '52만 섬나라' 카보베르데",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703074500626"
+      }
+    },
+    {
+      "keyword": "이세영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이세영, 단발 여신 등극..파격 변신에도 빛나는 미모",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/28nWylqFhe"
+      }
+    },
+    {
+      "keyword": "srt",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "First 2027 Ram 1500 TRX SRT Rolls Off The Line",
+        "source": "MoparInsiders",
+        "url": "https://moparinsiders.com/first-2027-ram-1500-trx-srt-rolls-off-the-line/"
+      }
+    },
+    {
+      "keyword": "베라 왕",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "77세 베라왕, 20대라 해도 믿을 만한 스키니 몸매…등근육까지",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Entertainment/article/all/20260703/134231733/1"
+      }
+    },
+    {
+      "keyword": "정정용",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[기고]사관학교 통합, 더 이상 미루면 안 된다",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607022000005"
+        "title": "[GOAL 인터뷰] ‘전북에서 부담과 압박의 도전’ 정정용 감독, “자격 있을까 생각했지만, 우승 준비 나름 계획대로 진행”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703133518222"
+      }
+    },
+    {
+      "keyword": "원자력",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "정부, SMR 국가전략기술 지정 검토…영남권 첨단산업 지원",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703172705096"
       }
     }
   ]

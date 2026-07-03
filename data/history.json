@@ -1466,5 +1466,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-03T22:42:21.355529+09:00",
+    "label": "22:42",
+    "items": [
+      {
+        "keyword": "국제 축구 연맹",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "홍명보 전 감독, 美 LA 도착…취재진 피해 별도통로 이용한듯",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260703066200075"
+        }
+      },
+      {
+        "keyword": "김부장 드라마",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'김부장' 아빠 유니버스 본격화…소지섭·최대훈 권총액션 \"무법중년 듀오\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703104917445"
+        }
+      },
+      {
+        "keyword": "kia 타이거즈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김도영 26호포…'3연승' KIA, 3위와 1경기 차",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703074806679"
+        }
+      },
+      {
+        "keyword": "정이한",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이기인 \"'테러 자작극' 정이한, 미국 체류설…행방 알 수 없다\"",
+          "source": "주간조선",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=53164"
+        }
+      },
+      {
+        "keyword": "아르헨티나 카보베르데",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"우리도 꿈이 있습니다\" 메시와 아르헨티나 만나는 '52만 섬나라' 카보베르데",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703074500626"
+        }
+      },
+      {
+        "keyword": "이세영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이세영, 단발 여신 등극..파격 변신에도 빛나는 미모",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/28nWylqFhe"
+        }
+      },
+      {
+        "keyword": "srt",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "First 2027 Ram 1500 TRX SRT Rolls Off The Line",
+          "source": "MoparInsiders",
+          "url": "https://moparinsiders.com/first-2027-ram-1500-trx-srt-rolls-off-the-line/"
+        }
+      },
+      {
+        "keyword": "베라 왕",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "77세 베라왕, 20대라 해도 믿을 만한 스키니 몸매…등근육까지",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260703/134231733/1"
+        }
+      },
+      {
+        "keyword": "정정용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[GOAL 인터뷰] ‘전북에서 부담과 압박의 도전’ 정정용 감독, “자격 있을까 생각했지만, 우승 준비 나름 계획대로 진행”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703133518222"
+        }
+      },
+      {
+        "keyword": "원자력",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "정부, SMR 국가전략기술 지정 검토…영남권 첨단산업 지원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703172705096"
+        }
+      }
+    ]
   }
 ]
