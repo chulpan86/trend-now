@@ -1576,5 +1576,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-04T02:13:08.634060+09:00",
+    "label": "02:13",
+    "items": [
+      {
+        "keyword": "유조선",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"전쟁 최대 수혜자는 韓기업\" 해외도 깜짝…'10조 베팅' 통했다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026070349251"
+        }
+      },
+      {
+        "keyword": "임종훈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'환상 짝꿍' 신유빈-임종훈, 가뿐하게 준결승 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702213339049?f=p"
+        }
+      },
+      {
+        "keyword": "야닉 시너",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "조코비치, 윔블던 3회전 진출...‘황제’의 메이저 105승까지 1승 남아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260702154616753?f=p"
+        }
+      },
+      {
+        "keyword": "탁구",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "중국 男 탁구, \"43년 만의 최악 성적\" 16강서 전멸 대망신!…왕추친·린스둥, 유럽에 와르르 무너졌다→US 그랜드 스매시 8강도 못 갔다",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260703n27021"
+        }
+      },
+      {
+        "keyword": "얼굴",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘술톤’ 빠진 황정민… 금주 후 확 달라진 근황 봤더니?",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070300853.html"
+        }
+      },
+      {
+        "keyword": "이종석",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이러니 아이유가 반하지..이종석, 상의 탈의 수영장 포착 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703081321141"
+        }
+      },
+      {
+        "keyword": "자승",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "조계종 “자승 전 총무원장 재산 종단 귀속 완료”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607031533001"
+        }
+      },
+      {
+        "keyword": "트로트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘뮤직뱅크’ 김희재 ‘이런 날 기다렸나요’ 필승 무대",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607031740003"
+        }
+      },
+      {
+        "keyword": "킬러들의 쇼핑몰 시즌2",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "넷플 대세 잡을 디즈니+ 효자, 시즌2 직전 MBC가 잡았다('킬러들의 쇼핑몰')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703190216418"
+        }
+      },
+      {
+        "keyword": "lng선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[크랩] 한국에 “LNG선 기술 달라” 요구한 일본…자존심 굽힌 진짜 이유는?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8601690"
+        }
+      }
+    ]
   }
 ]
