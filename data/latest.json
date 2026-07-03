@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-04T05:52:37.006625+09:00",
-  "label": "05:52",
+  "timestamp": "2026-07-04T06:56:16.661804+09:00",
+  "label": "06:56",
   "items": [
     {
-      "keyword": "유조선",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "북한이탈주민",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "\"전쟁 최대 수혜자는 韓기업\" 해외도 깜짝…'10조 베팅' 통했다",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026070349251"
+        "title": "인권위, \"'북향민' 명칭 변경, 당사자 의견 수렴해야\"…통일부에 권고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260702192518311"
       }
     },
     {
@@ -23,83 +23,83 @@
       }
     },
     {
-      "keyword": "북한이탈주민",
+      "keyword": "시체",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "인권위, \"'북향민' 명칭 변경, 당사자 의견 수렴해야\"…통일부에 권고",
+        "title": "“그 남자가 엄마 수천 번 때려”… 장모 살해 사위 법정서 드러난 잔혹행각 [별별화제]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260702192518311"
+        "url": "https://v.daum.net/v/20260704000233500"
       }
     },
     {
-      "keyword": "이종석",
+      "keyword": "트럭",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'아이유♥' 이종석, 수영장에서 한껏 화난 등근육…셔츠 벗자 드러난 태평양 어깨 - 조선비즈",
+        "title": "11살 무면허 질주에 '참변'…9명 사망·23명 부상",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703105343640"
+      }
+    },
+    {
+      "keyword": "이병태",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "李가 임명한 ‘총리급’ 이병태 “배재고 징계, 북한 같다”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/politics_general/2026/07/03/KQBIQ3TL65AYDNFW2GZMDXNOHM/"
+      }
+    },
+    {
+      "keyword": "절벽",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“조심해” 외친 순간 150m 추락…또 사람 잡은 ‘인생샷’ 명소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703014318112"
+      }
+    },
+    {
+      "keyword": "모하메드 살라",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "아슈르 선제골→하니 자책골→승부차기 반전…이집트, 호주 잡고 '역사상' 첫 토너먼트 승리 - 조선비즈",
         "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/03/MRSGIYRZGVSWKYLFGNRWCOBQGA/"
+        "url": "https://biz.chosun.com/sports/football/2026/07/04/GY2GINJXGYZGEN3EMY2DIN3BGI/"
       }
     },
     {
-      "keyword": "임종훈",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "별자리",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'환상 짝꿍' 신유빈-임종훈, 가뿐하게 준결승 진출",
+        "title": "[오늘의 운세] 7월 4일 토요일 (음력 5월 20일 己卯)",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/07/03/EHD3LH6BUFA4RJMYH767UO6CNM/"
+      }
+    },
+    {
+      "keyword": "인플루언서",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이웃 된 김혜수·조여정…'지금 불륜이 문제가 아닙니다'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260702213339049?f=p"
+        "url": "https://v.daum.net/v/20260703090901563"
       }
     },
     {
-      "keyword": "australia vs egypt",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Australia equalizes through Egypt own goal | 2026 FIFA World Cup™",
-        "source": "FOX Sports",
-        "url": "https://www.foxsports.com/watch/fmc-bhqgwiyh4cn1fk7v"
-      }
-    },
-    {
-      "keyword": "민생회복 소비쿠폰",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[민생회복 소비쿠폰 효과 점검] 비수도권·음식점에 더 큰 효과···지역·업종별 격차 ④",
-        "source": "공유경제신문",
-        "url": "https://www.seconomy.kr/news/articleView.html?idxno=139864"
-      }
-    },
-    {
-      "keyword": "얼굴",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘술톤’ 빠진 황정민… 금주 후 확 달라진 근황 봤더니?",
-        "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070300853.html"
-      }
-    },
-    {
-      "keyword": "자승",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "조계종 “자승 전 총무원장 재산 종단 귀속 완료”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607031533001"
-      }
-    },
-    {
-      "keyword": "살라",
+      "keyword": "호주",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[AI프리뷰] 월드컵 4일 32강 호주-이집트전, 이집트 '햄스트링 부상' 살라 회복에 집중",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260703000458"
+        "title": "[이 시각 세계] 호주 워킹홀리데이, '30세→35세' 연령 상한 확대",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6834702_37012.html"
       }
     }
   ]
