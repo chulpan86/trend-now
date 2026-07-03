@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-04T02:13:08.634060+09:00",
-  "label": "02:13",
+  "timestamp": "2026-07-04T04:01:38.986562+09:00",
+  "label": "04:01",
   "items": [
     {
       "keyword": "유조선",
@@ -33,13 +33,33 @@
       }
     },
     {
-      "keyword": "탁구",
+      "keyword": "이종석",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "중국 男 탁구, \"43년 만의 최악 성적\" 16강서 전멸 대망신!…왕추친·린스둥, 유럽에 와르르 무너졌다→US 그랜드 스매시 8강도 못 갔다",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260703n27021"
+        "title": "이러니 아이유가 반하지..이종석, 상의 탈의 수영장 포착 [스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703081321141"
+      }
+    },
+    {
+      "keyword": "australia vs egypt",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Australia v Egypt: World Cup 2026 last 32 – live",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live"
+      }
+    },
+    {
+      "keyword": "민생회복 소비쿠폰",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[민생회복 소비쿠폰 효과 점검] 비수도권·음식점에 더 큰 효과···지역·업종별 격차 ④",
+        "source": "공유경제신문",
+        "url": "https://www.seconomy.kr/news/articleView.html?idxno=139864"
       }
     },
     {
@@ -50,16 +70,6 @@
         "title": "‘술톤’ 빠진 황정민… 금주 후 확 달라진 근황 봤더니?",
         "source": "헬스조선",
         "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070300853.html"
-      }
-    },
-    {
-      "keyword": "이종석",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이러니 아이유가 반하지..이종석, 상의 탈의 수영장 포착 [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260703081321141"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "넷플 대세 잡을 디즈니+ 효자, 시즌2 직전 MBC가 잡았다('킬러들의 쇼핑몰')",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260703190216418"
-      }
-    },
-    {
-      "keyword": "lng선",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[크랩] 한국에 “LNG선 기술 달라” 요구한 일본…자존심 굽힌 진짜 이유는?",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8601690"
       }
     }
   ]
