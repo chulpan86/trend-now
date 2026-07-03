@@ -1792,5 +1792,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-04T07:56:45.534295+09:00",
+    "label": "07:56",
+    "items": [
+      {
+        "keyword": "손흥민",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"손흥민에 '왜 네가 해!'\"…멕시코전 라커룸 결정적 제보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703114505899"
+        }
+      },
+      {
+        "keyword": "아르헨티나 대 카보베르데",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"우리도 꿈이 있습니다\" 메시와 아르헨티나 만나는 '52만 섬나라' 카보베르데",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703074500626"
+        }
+      },
+      {
+        "keyword": "뉴스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[현장] \"숨쉬기도 힘들다\"…대구 신천 뒤덮은 벌레에 시민들 '한숨'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704070307571"
+        }
+      },
+      {
+        "keyword": "argentina vs cabo verde",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Argentina vs Cape Verde live updates: Messi set to start today’s World Cup knockout clash",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/live-blogs/argentina-vs-cape-verde-live-updates-world-cup-2026-score-result-messi/vEqPwfh9Qb8J/"
+        }
+      },
+      {
+        "keyword": "한동훈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[주간政談] 한동훈 인사에 장동혁 단톡방 퇴장…사연 알고 보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704060230621"
+        }
+      },
+      {
+        "keyword": "배우자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "대통령 배우자 경호 둘러싼 보호와 특권 사이 '질문'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260703193311927"
+        }
+      },
+      {
+        "keyword": "argentina đấu với cabo verde",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Trực tiếp bóng đá Argentina - Cape Verde: Càng về cuối trận Cape Verde càng vững chắc (World Cup)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/world-cup-2026/truc-tiep-bong-da-argentina-cape-verde-suc-manh-nha-vua-doi-dau-hien-tuong-world-cup-c860a1775266.html"
+        }
+      },
+      {
+        "keyword": "조민아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "조민아 6살 아들 \"엄마 예쁠 땐 화장할 때\"...현실 답변에 母 당황",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-07-04/202607040100024870001358"
+        }
+      },
+      {
+        "keyword": "sl vs wi",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Ball by Ball Commentary & Live Score - WI vs SL, 2nd Test",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-west-indies-2026-1538292/west-indies-vs-sri-lanka-2nd-test-1538312/ball-by-ball-commentary"
+        }
+      },
+      {
+        "keyword": "날씨예보",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[날씨] 충청이남·제주 장맛비…수도권 곳곳 소나기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704063603336"
+        }
+      }
+    ]
   }
 ]
