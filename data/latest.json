@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-05T01:53:27.086836+09:00",
-  "label": "01:53",
+  "timestamp": "2026-07-05T02:56:14.550627+09:00",
+  "label": "02:56",
   "items": [
     {
       "keyword": "2026 fifa 월드컵",
@@ -13,13 +13,33 @@
       }
     },
     {
+      "keyword": "캐나다 대 모로코",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[AI프리뷰] 월드컵 16강 5일 캐나다-모로코전, 개최국 상대로 돌풍 노리는 모로코",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260704000053"
+      }
+    },
+    {
       "keyword": "fifa world cup 2026",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Canada vs Morocco LIVE: World Cup 2026 last 16 score, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cx2jw3e9gq0t"
+        "title": "BBC Ranks France First, England Eighth in World Cup 16",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/07/05/JNNWZLPEYNERBCJTMK3LYDRBHQ/"
+      }
+    },
+    {
+      "keyword": "여자친구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"父 김구라 닮아 사랑꾼\"..그리, '결혼 전제' 여친과 제주 여행 근황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704101310153"
       }
     },
     {
@@ -33,13 +53,13 @@
       }
     },
     {
-      "keyword": "데이트",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "canada vs morocco",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"父 김구라 닮아 사랑꾼\"..그리, '결혼 전제' 여친과 제주 여행 근황",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260704101310153"
+        "title": "Canada vs Morocco LIVE: World Cup 2026 last 16 score, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cx2jw3e9gq0t"
       }
     },
     {
@@ -57,29 +77,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Archer back in the XI, Tongue to debut; India eye runs at Old Trafford",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-t20i-1496575/match-preview"
-      }
-    },
-    {
-      "keyword": "로또1231",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "1231회 로또 1등 ‘4, 13, 14, 18, 31, 38’…인당 16억5천만원",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607042100001"
-      }
-    },
-    {
-      "keyword": "시진핑",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[차이나워치] 中, 대만 문제 美에 재경고…민족단결법 논란 확산",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260703171235666"
+        "title": "England vs India LIVE: Second T20, Old Trafford - cricket score, commentary & video highlights",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/cricket/live/ce9mvgg1gppt"
       }
     },
     {
@@ -93,13 +93,13 @@
       }
     },
     {
-      "keyword": "외환위기",
+      "keyword": "슈",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "외환위기와 AI는 같은 답을 말했다 … “작은 정부보다 실력있는 정부”",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12089841"
+        "title": "S.E.S 슈, 동안 미모 비결 \"직접 농사 지은 병풀\"('동치미')[순간포착] - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/04/GBQWENRTGQ4TCYJVMJQTGMJTMI/"
       }
     }
   ]
