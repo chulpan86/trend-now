@@ -1,7 +1,37 @@
 {
-  "timestamp": "2026-07-04T23:39:34.756646+09:00",
-  "label": "23:39",
+  "timestamp": "2026-07-05T00:54:25.733925+09:00",
+  "label": "00:54",
   "items": [
+    {
+      "keyword": "fifa world cup 2026",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france"
+      }
+    },
+    {
+      "keyword": "김부장",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "엄밀히 ‘원작자’ 아닌데…18.8% 흥행 ‘김부장’, 박태준 ‘일베 논란’에 불똥 [왓IS]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704171542421"
+      }
+    },
+    {
+      "keyword": "데이트",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"父 김구라 닮아 사랑꾼\"..그리, '결혼 전제' 여친과 제주 여행 근황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704101310153"
+      }
+    },
     {
       "keyword": "이가 시비옹테크",
       "traffic_raw": "1000+",
@@ -13,29 +43,9 @@
       }
     },
     {
-      "keyword": "데이트",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "흰머리에 흰수염 난 32세 모태솔로 등장…서인국 충격 \"뭘 보고 있는 거지?\" (모솔연애2)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260704181518100"
-      }
-    },
-    {
-      "keyword": "공유",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "김고은, 10살 연하 김재원과 호흡에 불만 \"난 막내가 체질\" (도깨비 10주년)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260704212903214"
-      }
-    },
-    {
-      "keyword": "india national cricket team vs england cricket team match scorecard",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "ind vs eng",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "Archer back in the XI, Tongue to debut; India eye runs at Old Trafford",
         "source": "Cricinfo",
@@ -67,9 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "장현식 5이닝 무실점·홍창기 4출루…LG, 한화전 3연패 끊어",
+        "title": "염경엽 LG 감독 \"리오스 없으면 불펜 데이 승률은 꽝\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260704039600007"
+        "url": "https://www.yna.co.kr/view/AKR20260704031500007"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "'ERA 2.84→리그 5위' 명장 추천할 만하네…'첫 올스타' 국대 좌완의 소망 \"내년엔 모두 롯데였으면\"",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260704111718957"
-      }
-    },
-    {
-      "keyword": "프로야구",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "LG, 홈 43경기 만에 100만 관중…KBO 역대 최소경기 신기록",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260704032800007"
       }
     }
   ]
