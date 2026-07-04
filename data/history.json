@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-07-03T02:26:29.115764+09:00",
-    "label": "02:26",
-    "items": [
-      {
-        "keyword": "홍명보 출국",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[단독] 홍명보 감독, 모자·마스크 쓰고 돌연 출국‥\"언젠가는 이야기할 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702204010116"
-        }
-      },
-      {
-        "keyword": "황희찬",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“황인범·황희찬 인터뷰 이후 선수들 갈등”",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000537639.do"
-        }
-      },
-      {
-        "keyword": "다니엘",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "뉴진스 다니엘만 소송 걸린 이유 알고 보니…\"모르쇠 일관\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260702_0003693777"
-        }
-      },
-      {
-        "keyword": "프로당구협회",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "프로당구 신생 10구단 '브레이커스' 출범…\"모든 팀 깨겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702155602255?f=p"
-        }
-      },
-      {
-        "keyword": "박장범",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보] 법원, 김건희 금품 제공자들에 집행유예·벌금형 선고",
-          "source": "연합뉴스 한민족센터",
-          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1373510"
-        }
-      },
-      {
-        "keyword": "알렉산더 즈베레프",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "프랑스오픈 우승 즈베레프, 윔블던 2회전 안착",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260701_0002174595"
-        }
-      },
-      {
-        "keyword": "lg에너지솔루션",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "LG엔솔, 美 3대 로봇기업 다 뚫었다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026070227971"
-        }
-      },
-      {
-        "keyword": "가스 터빈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "두산에너빌리티, 경제부총리 표창…수출 경쟁력 인정",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=369811"
-        }
-      },
-      {
-        "keyword": "엔화",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "日 외환당국자 \"시장개입 효과 있었다…미국 반대 없다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702085307382"
-        }
-      },
-      {
-        "keyword": "v",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'Icons' Modric, Ronaldo battle to avoid World Cup send-off",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49241567/croatia-portugal-luka-modric-cristiano-ronaldo-2026-world-cup"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-03T04:09:03.381751+09:00",
-    "label": "04:09",
-    "items": [
-      {
-        "keyword": "홍명보 출국",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[단독] 홍명보 감독, 모자·마스크 쓰고 돌연 출국‥\"언젠가는 이야기할 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702204010116"
-        }
-      },
-      {
-        "keyword": "황희찬",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“황인범·황희찬 인터뷰 이후 선수들 갈등”",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000537639.do"
-        }
-      },
-      {
-        "keyword": "다니엘",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "뉴진스 다니엘만 소송 걸린 이유 알고 보니…\"모르쇠 일관\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260702_0003693777"
-        }
-      },
-      {
-        "keyword": "프로당구협회",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "프로당구 신생 10구단 '브레이커스' 출범…\"모든 팀 깨겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702155602255?f=p"
-        }
-      },
-      {
-        "keyword": "박장범",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[포토] 공판 출석하는 최재영 목사",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/svc/article_print.html?no=2026062600178"
-        }
-      },
-      {
-        "keyword": "알렉산더 즈베레프",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "프랑스오픈 우승 즈베레프, 윔블던 2회전 안착",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260701_0002174595"
-        }
-      },
-      {
-        "keyword": "lg에너지솔루션",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "LG엔솔, 미국 3대 로봇 기업 모두 뚫었다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607022214i"
-        }
-      },
-      {
-        "keyword": "가스 터빈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "두산에너빌리티, 경제부총리 표창…수출 경쟁력 인정",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=369811"
-        }
-      },
-      {
-        "keyword": "엔화",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"한국 가고 싶어요\" 외치던 日…\"안 갈래요\" 돌변한 까닭",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3LP5Ay9UkT"
-        }
-      },
-      {
-        "keyword": "v",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Will Ronaldo 'step up' for Portugal vs. Croatia?",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/49249543/will-ronaldo-step-portugal-vs-croatia"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-03T05:53:53.956360+09:00",
     "label": "05:53",
     "items": [
@@ -1896,6 +1684,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-04T16:36:38.461914+09:00",
+    "label": "16:36",
+    "items": [
+      {
+        "keyword": "김경문",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "오늘도 터진 강백호-노시환 쌍포…한화, 1위 LG 완파",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260703159100007"
+        }
+      },
+      {
+        "keyword": "톱스타뉴스",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "장찬희 부상으로 삼성 양창섭, 프로야구 올스타전 출전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704153503344"
+        }
+      },
+      {
+        "keyword": "이주승",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "이주승, ‘나혼산’서 안 보이더니…1억 상금 주인공",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260704/134235600/1"
+        }
+      },
+      {
+        "keyword": "공연",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "아홉, 오늘(4일) 쿠알라룸푸르 뜬다…첫 亞 투어 반환점 도는 '글로벌 활약'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/07/04/HFTGKMJUHA2WKZBZMY4DSMBVME/"
+        }
+      },
+      {
+        "keyword": "오타니 쇼헤이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "샌디에이고 송성문, '슈퍼스타' 오타니 상대로 내야 안타에 도루",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260704026400007"
+        }
+      },
+      {
+        "keyword": "구급차",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"환자 죽으면 책임질게\" 11분간 구급차 막은 택시기사…알고 보니 47건 사고 낸 보험사기범 [오늘의 그날]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260704n00045"
+        }
+      },
+      {
+        "keyword": "넥슨",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "북미 게임팬 만난 넥슨 \"'블루 아카이브' 스핀오프 만들고파\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704150953043"
+        }
+      },
+      {
+        "keyword": "서준영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서준영, 기상캐스터와 핑크빛 \"부모님 빼고 다 바꿀 것\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260704_0003695712"
+        }
+      },
+      {
+        "keyword": "죽음",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이란 최고지도자 하메네이 장례식 시작…조문객들 운집",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607041540001"
+        }
+      },
+      {
+        "keyword": "르브론 제임스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'60억 가능?' 필라델피아, 브라운 트레이드 이어 제임스 영입전 참전…오프시즌 초대형 승부수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704095902858"
+        }
       }
     ]
   }
