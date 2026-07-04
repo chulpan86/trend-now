@@ -1,21 +1,41 @@
 {
-  "timestamp": "2026-07-04T21:59:37.176023+09:00",
-  "label": "21:59",
+  "timestamp": "2026-07-04T23:39:34.756646+09:00",
+  "label": "23:39",
   "items": [
     {
-      "keyword": "내일 날씨",
-      "traffic_raw": "100000+",
-      "traffic": 100000,
+      "keyword": "이가 시비옹테크",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[날씨] 밤부터 정체전선 점차 북상‥내일 전국 장맛비",
+        "title": "시비옹테크·리바키나·츠베레프, 윔블던테니스 3회전 순항",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260704204912781"
+        "url": "https://v.daum.net/v/20260703100603339"
       }
     },
     {
-      "keyword": "weather tomorrow",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "데이트",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "흰머리에 흰수염 난 32세 모태솔로 등장…서인국 충격 \"뭘 보고 있는 거지?\" (모솔연애2)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704181518100"
+      }
+    },
+    {
+      "keyword": "공유",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "김고은, 10살 연하 김재원과 호흡에 불만 \"난 막내가 체질\" (도깨비 10주년)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704212903214"
+      }
+    },
+    {
+      "keyword": "india national cricket team vs england cricket team match scorecard",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "Archer back in the XI, Tongue to debut; India eye runs at Old Trafford",
         "source": "Cricinfo",
@@ -23,79 +43,63 @@
       }
     },
     {
-      "keyword": "thời tiết ngày mai",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Dự báo các tỉnh thành mưa to 2 ngày tới do bão số 1, có nơi trên 500mm",
-        "source": "Laodong.vn",
-        "url": "https://laodong.vn/moi-truong/du-bao-cac-tinh-thanh-mua-to-2-ngay-toi-do-bao-so-1-co-noi-tren-500mm-1729749.ldo"
-      }
-    },
-    {
-      "keyword": "남궁민",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[TF초점] '결혼의 완성', '김부장'과 맞대결…승부수는 남궁민",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/70PwPqoMoy?f=p"
-      }
-    },
-    {
-      "keyword": "도경완",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"결혼하면 돈줄 끊겨\"...장윤정 친모, 도경완 '결사반대'한 이유 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/07/04/2026070413354746059"
-      }
-    },
-    {
-      "keyword": "погода завтра",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "cuaca besok",
+      "keyword": "로또1231",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Prakiraan Cuaca Makassar Besok 5 Juli 2026: Pagi hingga Sore Cerah Berawan",
-        "source": "detikcom",
-        "url": "https://www.detik.com/sulsel/makassar/d-8559813/prakiraan-cuaca-makassar-besok-5-juli-2026-pagi-hingga-sore-cerah-berawan"
+        "title": "1231회 로또 1등 각 16억씩 17명…자동 명당 14곳 어디",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6217843"
       }
     },
     {
-      "keyword": "msi t1",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "시진핑",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "T1 Keria: \"I honestly felt that if I played Bard, I would never lose. I thought it was like an AI\"",
-        "source": "Sheep Esports",
-        "url": "https://www.sheepesports.com/en/all/articles/t1-keria-i-honestly-felt-that-if-i-played-bard-i-would-never-lose-i-thought-it-was-like-an-ai/en"
+        "title": "[차이나워치] 中, 대만 문제 美에 재경고…민족단결법 논란 확산",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260703171235666"
       }
     },
     {
-      "keyword": "blg t1",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "리오스",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "T1 Falls 2-3 to BLG, Drops to Lower Bracket",
-        "source": "Inven Global",
-        "url": "https://www.invenglobal.com/articles/23439/t1-falls-2-3-to-blg-drops-to-lower-bracket"
+        "title": "장현식 5이닝 무실점·홍창기 4출루…LG, 한화전 3연패 끊어",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260704039600007"
       }
     },
     {
-      "keyword": "물가지수",
+      "keyword": "외환위기",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"주말 주차장부터 전쟁\"…치솟는 물가에 '알뜰족' 몰린다 [장바구니+]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607045487g"
+        "title": "(토마토칼럼)물속의 달이 된 성장",
+        "source": "뉴스토마토",
+        "url": "https://www.newstomato.com/readnews.aspx?no=1305817"
+      }
+    },
+    {
+      "keyword": "황성빈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'ERA 2.84→리그 5위' 명장 추천할 만하네…'첫 올스타' 국대 좌완의 소망 \"내년엔 모두 롯데였으면\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704111718957"
+      }
+    },
+    {
+      "keyword": "프로야구",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "LG, 홈 43경기 만에 100만 관중…KBO 역대 최소경기 신기록",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260704032800007"
       }
     }
   ]
