@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-05T02:56:14.550627+09:00",
-  "label": "02:56",
+  "timestamp": "2026-07-05T04:00:23.740531+09:00",
+  "label": "04:00",
   "items": [
     {
       "keyword": "2026 fifa 월드컵",
@@ -9,7 +9,7 @@
       "news": {
         "title": "월드컵 16강 누구누구?…유럽 7개국 ‘강세’ 아시아 ‘전멸’ [지금뉴스]",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602226"
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8602226"
       }
     },
     {
@@ -33,23 +33,13 @@
       }
     },
     {
-      "keyword": "여자친구",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"父 김구라 닮아 사랑꾼\"..그리, '결혼 전제' 여친과 제주 여행 근황",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260704101310153"
-      }
-    },
-    {
       "keyword": "김부장",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "시청률 20% 눈앞 '김부장' 뜻밖의 불똥…원작자 과거 의혹 재점화 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/07/04/2026070418561039053"
+        "title": "'김부장' 때아닌 시청 불매 조짐..원작자 박태준 '일배 논란' 파묘 [이슈S]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qzOOVcZvye"
       }
     },
     {
@@ -63,23 +53,33 @@
       }
     },
     {
-      "keyword": "이가 시비옹테크",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "ind vs eng",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "시비옹테크·리바키나·츠베레프, 윔블던테니스 3회전 순항",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260703100603339"
+        "title": "James Coles wins maiden England call-up for India T20Is",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/story/england-india-t20i-series-james-coles-wins-maiden-england-call-up-india-t20is-1542353"
       }
     },
     {
-      "keyword": "ind vs eng",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "india national cricket team vs england cricket team match scorecard",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "England vs India LIVE: Second T20, Old Trafford - cricket score, commentary & video highlights",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/cricket/live/ce9mvgg1gppt"
+        "title": "Archer back in the XI, Tongue to debut; India eye runs at Old Trafford",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-t20i-1496575/match-preview"
+      }
+    },
+    {
+      "keyword": "캐나다",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "캐나다 잠수함 수주전 발표 '임박'…북미 통상 전략 분수령",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WYngpbaer9"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "S.E.S 슈, 동안 미모 비결 \"직접 농사 지은 병풀\"('동치미')[순간포착] - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/04/GBQWENRTGQ4TCYJVMJQTGMJTMI/"
+        "title": "슈, 남편과 4년째 별거…\"같이 있으면 힘들어, 주말에만 본다\" (동치미)[종합]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260705003216657"
       }
     }
   ]

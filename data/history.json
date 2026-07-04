@@ -1992,5 +1992,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-05T04:00:23.740531+09:00",
+    "label": "04:00",
+    "items": [
+      {
+        "keyword": "2026 fifa 월드컵",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "월드컵 16강 누구누구?…유럽 7개국 ‘강세’ 아시아 ‘전멸’ [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8602226"
+        }
+      },
+      {
+        "keyword": "캐나다 대 모로코",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[AI프리뷰] 월드컵 16강 5일 캐나다-모로코전, 개최국 상대로 돌풍 노리는 모로코",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260704000053"
+        }
+      },
+      {
+        "keyword": "fifa world cup 2026",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "BBC Ranks France First, England Eighth in World Cup 16",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/07/05/JNNWZLPEYNERBCJTMK3LYDRBHQ/"
+        }
+      },
+      {
+        "keyword": "김부장",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'김부장' 때아닌 시청 불매 조짐..원작자 박태준 '일배 논란' 파묘 [이슈S]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qzOOVcZvye"
+        }
+      },
+      {
+        "keyword": "canada vs morocco",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Canada vs Morocco LIVE: World Cup 2026 last 16 score, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cx2jw3e9gq0t"
+        }
+      },
+      {
+        "keyword": "ind vs eng",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "James Coles wins maiden England call-up for India T20Is",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/england-india-t20i-series-james-coles-wins-maiden-england-call-up-india-t20is-1542353"
+        }
+      },
+      {
+        "keyword": "india national cricket team vs england cricket team match scorecard",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Archer back in the XI, Tongue to debut; India eye runs at Old Trafford",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-t20i-1496575/match-preview"
+        }
+      },
+      {
+        "keyword": "캐나다",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "캐나다 잠수함 수주전 발표 '임박'…북미 통상 전략 분수령",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WYngpbaer9"
+        }
+      },
+      {
+        "keyword": "젤리 슈즈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“내 젤리는 내가 꾸민다”...여름철 필수템 ‘젤리슈즈 꾸미기’ 열풍",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260630580350"
+        }
+      },
+      {
+        "keyword": "슈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "슈, 남편과 4년째 별거…\"같이 있으면 힘들어, 주말에만 본다\" (동치미)[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705003216657"
+        }
+      }
+    ]
   }
 ]
