@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-07-05T00:54:25.733925+09:00",
-  "label": "00:54",
+  "timestamp": "2026-07-05T01:53:27.086836+09:00",
+  "label": "01:53",
   "items": [
+    {
+      "keyword": "2026 fifa 월드컵",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "월드컵 16강 누구누구?…유럽 7개국 ‘강세’ 아시아 ‘전멸’ [지금뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602226"
+      }
+    },
     {
       "keyword": "fifa world cup 2026",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france"
+        "title": "Canada vs Morocco LIVE: World Cup 2026 last 16 score, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cx2jw3e9gq0t"
       }
     },
     {
@@ -17,9 +27,9 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "엄밀히 ‘원작자’ 아닌데…18.8% 흥행 ‘김부장’, 박태준 ‘일베 논란’에 불똥 [왓IS]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260704171542421"
+        "title": "시청률 20% 눈앞 '김부장' 뜻밖의 불똥…원작자 과거 의혹 재점화 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/07/04/2026070418561039053"
       }
     },
     {
@@ -57,9 +67,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "1231회 로또 1등 각 16억씩 17명…자동 명당 14곳 어디",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6217843"
+        "title": "1231회 로또 1등 ‘4, 13, 14, 18, 31, 38’…인당 16억5천만원",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607042100001"
       }
     },
     {
@@ -73,13 +83,13 @@
       }
     },
     {
-      "keyword": "리오스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "젤리 슈즈",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "염경엽 LG 감독 \"리오스 없으면 불펜 데이 승률은 꽝\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260704031500007"
+        "title": "“내 젤리는 내가 꾸민다”...여름철 필수템 ‘젤리슈즈 꾸미기’ 열풍",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260630580350"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "(토마토칼럼)물속의 달이 된 성장",
-        "source": "뉴스토마토",
-        "url": "https://www.newstomato.com/readnews.aspx?no=1305817"
-      }
-    },
-    {
-      "keyword": "황성빈",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'ERA 2.84→리그 5위' 명장 추천할 만하네…'첫 올스타' 국대 좌완의 소망 \"내년엔 모두 롯데였으면\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260704111718957"
+        "title": "외환위기와 AI는 같은 답을 말했다 … “작은 정부보다 실력있는 정부”",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12089841"
       }
     }
   ]
