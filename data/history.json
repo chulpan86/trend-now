@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-03T20:25:59.139086+09:00",
-    "label": "20:25",
-    "items": [
-      {
-        "keyword": "nc 대 kia",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "좌완 구창모 겨냥 KIA 좌타 6명 배치...이범호 \"피안타율이 8푼이나 더 높더라\" [오!쎈 광주]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260703165216043"
-        }
-      },
-      {
-        "keyword": "한화 대 lg",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "'선두 질주' LG 염경엽 감독 \"야구의 상대성…키움만 만나면 잘 안 풀린다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260703_0003695317"
-        }
-      },
-      {
-        "keyword": "롯데 대 kt",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[사진]한동희 '투런포로 먼저 앞서간다'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/07/03/GU2WCMJRG5RDGM3FMEZTOY3CGI/"
-        }
-      },
-      {
-        "keyword": "이언주",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "이언주, 얼굴 합성 음란물 피해…“어떤 선처도 없다” 강경대응",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260703/134232765/2"
-        }
-      },
-      {
-        "keyword": "두산 대 키움",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'6시30분→7시50분 지연 개시' 우천 변수에도 '에이스' 자격 보여준 국대 투수…김원형 감독도 인정 [오!쎈 고척] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/07/03/MYYDGYLEGRSWKOBXMVQTEZRVMI/"
-        }
-      },
-      {
-        "keyword": "오윤아",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "오윤아, 이혼 11년 만에 재혼…\"발달장애 子 품어준 인연\" 눈물",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260703_0003695571"
-        }
-      },
-      {
-        "keyword": "박주호",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘K-축구 구하기’ 박지성 손잡은 혁신위…이영표·박주호 합류",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1266612.html"
-        }
-      },
-      {
-        "keyword": "msi",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Hanwha Life Esports Advances to Bracket Stage Round 2 with 3-0 Win",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/03/55VNUDFSQBFGFBIFXF6RY2IKN4/"
-        }
-      },
-      {
-        "keyword": "이동국",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'이동국 딸' 재시·설아·수아…폭풍성장 '슈돌' 소녀들, 3인3색 미모",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260703154200585"
-        }
-      },
-      {
-        "keyword": "사관학교",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[기고]사관학교 통합, 더 이상 미루면 안 된다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607022000005"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-03T22:42:21.355529+09:00",
     "label": "22:42",
     "items": [
@@ -2307,6 +2201,108 @@
           "title": "“올여름 유행은 젤리”…젤리백·젤리슈즈 매출 400% 뛰었다 [요즘소비]",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Culture/article/all/20260703/134223732/2"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-05T08:53:05.495286+09:00",
+    "label": "08:53",
+    "items": [
+      {
+        "keyword": "날씨예보",
+        "traffic_raw": "100000+",
+        "traffic": 100000,
+        "news": {
+          "title": "전국 비 내리는 일요일…낮 최고 30도 무더위도 계속",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705053805333"
+        }
+      },
+      {
+        "keyword": "캐나다 모로코",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'첫 개최국 탈락' FIFA '랭킹 7위' 역시 강했다···모로코, 캐나다에 3-0 승→8강 진출[월드컵·16강]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260705n01482"
+        }
+      },
+      {
+        "keyword": "다음",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "영국 찰스 3세, 트럼프에 축전…\"다음 250년도 공동가치 지켜내자\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705045103948"
+        }
+      },
+      {
+        "keyword": "로또번호",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "로또 1231회 당첨번호 16억, '또 1·2등 같이 터진 곳 나왔네'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705070153257"
+        }
+      },
+      {
+        "keyword": "canada vs morocco",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Canada's Jesse Marsch on World Cup exit vs. Morocco: 'We were the better team'",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49270971/canada-jesse-marsch-world-cup-exit-morocco-were-better-team"
+        }
+      },
+      {
+        "keyword": "뇌",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "결혼해 두 아이 아빠인데… 검사해 보니, “뇌 대부분 없는 상태”?",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070301584.html"
+        }
+      },
+      {
+        "keyword": "프랑스 축구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[월드컵] 음바페 페널티킥 결승골‥프랑스, 파라과이 꺾고 8강행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6835051_36946.html"
+        }
+      },
+      {
+        "keyword": "프로야구 순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "캐나다",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "독일, 캐나다잠수함 수주 낙관… 한국과 경쟁서 유리하다 주장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704094755728"
+        }
+      },
+      {
+        "keyword": "fifa ワールドカップ 2026",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "フランス 苦しみながらも8強進出",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6586764"
         }
       }
     ]
