@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-07-04T09:00:12.875838+09:00",
-  "label": "09:00",
+  "timestamp": "2026-07-04T13:27:32.285001+09:00",
+  "label": "13:27",
   "items": [
     {
-      "keyword": "카보베르데",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "메시, 보지냐 뚫었다!…월드컵 최다골 '20골'로 경신…WC 8G 연속골",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260704n02731"
-      }
-    },
-    {
-      "keyword": "뉴스",
+      "keyword": "콜레스테롤",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"아빠가 의사\" 넘사벽 전교 1등, 알고 보니…교사·엄마 시험지 도둑질[뉴스속오늘] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/07/04/2026070117312349296"
+        "title": "“콜레스테롤·염증 줄인다” 당뇨병 환자 먹으면 좋은 ‘특별한 채소’",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070301174.html"
       }
     },
     {
-      "keyword": "대한체육회",
+      "keyword": "슈퍼지구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "생명체 살 수 있는 '슈퍼지구' 발견...지구 25광년 거리 [우주로 간다]",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260703133750"
+      }
+    },
+    {
+      "keyword": "양해각서",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "구미에 5천억 원 규모 공장 신설 MOU 체결",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8601975"
+      }
+    },
+    {
+      "keyword": "하메스 로드리게스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[월드컵] '아리아스 결승포' 콜롬비아, 가나 1-0 제압…16강행 막차",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260704024700007"
+      }
+    },
+    {
+      "keyword": "사이먼 도미닉",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "국조특위, '올공' 이어 중앙선관위로...위철환 거취는?",
+        "title": "쌈디, 기안84 떄문에 '나혼산' 하차 고민…\"진심으로 하고 싶었다\" [RE:뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704124702732"
+      }
+    },
+    {
+      "keyword": "선거위원회",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[자막뉴스] 개표소는 시작이었다...국조특위 칼끝, 선관위 본진으로",
         "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0101_202607040520504264"
+        "url": "https://www.ytn.co.kr/_ln/0134_202607041300342972"
       }
     },
     {
-      "keyword": "가석방",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "원자력 발전소",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'가석방' 김호중의 다음 스텝 [N초점]",
+        "title": "KINGS, 세계에서 배우고 현장에서 키운다",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=369819"
+      }
+    },
+    {
+      "keyword": "조원빈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'태극 거포 유망주'의 탄생…승격 후 '8경기 5홈런'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260704070210526"
+        "url": "https://v.daum.net/v/20260703210904415?f=p"
       }
     },
     {
-      "keyword": "аргентина – кабо-верде",
+      "keyword": "김지민",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Месси первым забил 20 голов на чемпионатах мира по футболу",
-        "source": "Спорт Mail",
-        "url": "https://sportmail.ru/news/football-worldcup/71510384/"
+        "title": "김지민 \"학창 시절 '왕따 가해' 두 명 이름 아직 기억…사과 받고 싶어\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260704_0003695769"
       }
     },
     {
-      "keyword": "거래량",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'하방 베팅의 무덤' 된 리플… 1.3달러행(行) 숏 스퀴즈 뇌관 터지나",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Securities/2026/07/202607030316334671e7e8286d56_1"
-      }
-    },
-    {
-      "keyword": "송해 나",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "일찍 일어나는 돌싱이 짝을 찾는다?! #나는솔로 SOLO EP.260ㅣSBS PLUS X ENAㅣ수요일 밤 10시 30분",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000632409?type=ucc&cooper=google"
-      }
-    },
-    {
-      "keyword": "추석",
+      "keyword": "колумбия – гана",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "“100만원 언제 주나”…지자체 민생지원금 공약 시험대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260702202913914?f=p"
-      }
-    },
-    {
-      "keyword": "추가경정예산",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[부산소식] 부산시 유튜브, 민선 9기 새 출발…주요 회의 생중계",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qVPrpcZvHi"
-      }
-    },
-    {
-      "keyword": "주성엔지니어링",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[서울데이터랩]코스닥 시총 상위주 약세 우위…주성엔지니어링 14%대 급락, HPSP는 6%대 강세",
-        "source": "서울신문",
-        "url": "https://www.seoul.co.kr/news/economy/securities/2026/07/03/20260703500136"
-      }
+      "news": null
     }
   ]
 }
