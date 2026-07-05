@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-06T07:52:23.044900+09:00",
-  "label": "07:52",
+  "timestamp": "2026-07-06T08:57:25.083921+09:00",
+  "label": "08:57",
   "items": [
     {
-      "keyword": "주가",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "글로벌 증시 분수령…삼전닉스 2분기 실적발표 시즌 개막한다",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607056511i"
-      }
-    },
-    {
-      "keyword": "thời tiết",
+      "keyword": "mexico vs england",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Cảnh báo mưa lớn cục bộ và dông lốc tại Bắc Bộ, Bắc Trung Bộ ngày 06/07/2026",
-        "source": "Báo Lâm Đồng",
-        "url": "https://baolamdong.vn/canh-bao-mua-lon-cuc-bo-va-dong-loc-tai-bac-bo-bac-trung-bo-ngay-06072026-451947.html"
+        "title": "World Cup Daily live: Norway, Haaland beat Brazil; Mexico fans try to give England sleepless night",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49274470/mexico-england-brazil-norway-round-16"
       }
     },
     {
-      "keyword": "최저임금",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "범죄",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "노사, 1만1000원선 팽팽한 공방… 4차수정안도 1290원 격차 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/economy/2026/07/06/2026070519460171781"
+        "title": "법무부-경찰 \"제2의 남양주 스토킹 살인사건 막는다\"",
+        "source": "서울Pn",
+        "url": "https://go.seoul.co.kr/news/prnewsView.php?id=435464"
       }
     },
     {
-      "keyword": "天气",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "월드컵 16강",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "Trump Delivers Address on America’s 250th Birthday: ‘Nobody Can Be Like Us’",
-        "source": "WSJ",
-        "url": "https://www.wsj.com/us-news/july-4-250-event-national-mall-e64253db"
-      }
-    },
-    {
-      "keyword": "엔드릭",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "안첼로티 \"나에게 조언할 수 있는 사람은 퍼거슨 경뿐\"[월드컵24시]",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260705_0003696177"
-      }
-    },
-    {
-      "keyword": "북대서양 조약 기구",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘잠자는 사자’ 유럽의 재무장…한국산 무기 콕 집어 찾는 이유 [유럽으로 가는 K방산]",
+        "title": "[2026월드컵]강렬한 여운 남기며 잠든 阿 돌풍…16강 대진 확정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260706051103434"
+        "url": "https://v.daum.net/v/YL2RIuiPgH?f=p"
       }
     },
     {
-      "keyword": "бразилия – норвегия",
+      "keyword": "가덕도신공항",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "건설사, 가덕 부지 공사비 현실화 요구…“컨소 탈퇴도 불사”",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260706.22012001301"
+      }
+    },
+    {
+      "keyword": "고우석",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[속보] '기어코 해냈다' 고우석, '트윈스'에서 MLB 데뷔한다! 현금 트레이드→계약 조항에 따라 미네소타 로스터 등록 확정",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260706n02538"
+      }
+    },
+    {
+      "keyword": "world cup 2026",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "World Cup Round of 16 live updates: Storm delays Mexico vs. England after Erling Haaland's brace sends Brazil home",
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/soccer/live/world-cup-2026-bracket-schedule-scores-results-live-updates-round-of-16-130000983.html"
+      }
+    },
+    {
+      "keyword": "고소영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Сборная Бразилии впервые за 36 лет не вышла в четвертьфинал чемпионата мира",
-        "source": "Спорт Mail",
-        "url": "https://sportmail.ru/news/football-worldcup/71525336/"
+        "title": "\"장동건 맞아?\" 필터 의혹 속..'53세' 고소영은 '동안 미모' 화제 [핫피플] [핫피플]",
+        "source": "OSEN",
+        "url": "http://www.osen.co.kr/article/G1112834486"
       }
     },
     {
-      "keyword": "교도관",
+      "keyword": "디에고 시메오네",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“정말사랑해” 여친 살인범과 즐긴 女교도관…영국 발칵",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11600417"
+        "title": "이강인, 홍명보호에 이어 아틀레티코서도 '해줘 축구' 확정적!→바르사 회장 \"훌리안은 바르사행 희망, 영입 위해 오퍼 보내\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260702n01612"
       }
     },
     {
-      "keyword": "포르투갈 스페인",
+      "keyword": "jadwal piala dunia 2026",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "월드컵 16강 누구누구?…유럽 7개국 ‘강세’ 아시아 ‘전멸’ [지금뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8602226"
+        "title": "Pertandingan Piala Dunia antara Meksiko dan Inggris ditunda",
+        "source": "Goal.com",
+        "url": "https://www.goal.com/id/berita/pertandingan-piala-dunia-antara-meksiko-dan-inggris-ditunda/blt745519e6ad81a060"
       }
     },
     {
-      "keyword": "도경완",
+      "keyword": "lịch world cup 2026",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"결혼하면 돈줄 끊겨\"...장윤정 친모, 도경완 '결사반대'한 이유 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/07/04/2026070413354746059"
+        "title": "Nhận định bóng đá Bồ Đào Nha – Tây Ban Nha: Hấp dẫn đại chiến 2 thế hệ Ronaldo - Yamal (World Cup 2026)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/world-cup-2026/nhan-dinh-bong-da-bo-dao-nha-tay-ban-nha-hap-dan-dai-chien-2-the-he-ronaldo-yamal-world-cup-2026-c860a1775817.html"
       }
     }
   ]
