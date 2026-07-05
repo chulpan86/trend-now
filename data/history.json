@@ -2192,5 +2192,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-06T04:06:07.151295+09:00",
+    "label": "04:06",
+    "items": [
+      {
+        "keyword": "셰프",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘전과 6범’ 임성근 셰프, 3층짜리 한식당 오픈 “기다려 준 분들 감사”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260705083157295"
+        }
+      },
+      {
+        "keyword": "이엘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"혼숙은 안 돼\" 이동욱 선 긋자…공유 \"잘 때만 따로 자면 돼\" 폭소 ('도깨비 10주년')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260706010217326"
+        }
+      },
+      {
+        "keyword": "이하늘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이하늘, '신고 1000건' 곱창집 수입 공개 \"하루에 두 달치 월급 벌어\" [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705144118692"
+        }
+      },
+      {
+        "keyword": "브라질 노르웨이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "천하의 브라질 축구가 한번도 못 이긴 팀이 있다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/05/GZTGGY3FGEZTCMZXGRSWEMTCHA/"
+        }
+      },
+      {
+        "keyword": "강회장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'강회장' 캐릭터 비호감 높인 정재성 살벌한 열연",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705232102412"
+        }
+      },
+      {
+        "keyword": "다니엘 근황",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "어도어 녹취록에 ‘탬퍼링’ 재점화…하이브·민희진 소송도 영향권 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/business-venture/2026/07/05/F2VFSOLMHVBF7NAN3FSSBCJNAQ/"
+        }
+      },
+      {
+        "keyword": "대전 도시철도 2호선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "핵심자제 레일 시공사가 구매 ‘분할발주’ 독 됐다",
+          "source": "충청투데이",
+          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2232709"
+        }
+      },
+      {
+        "keyword": "전국학교비정규직노동조합",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'시급 8천원' 학교비정규직 1만명 \"새 교육감, 예산으로 답하라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704152701214?f=p"
+        }
+      },
+      {
+        "keyword": "신봉선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'47세 미혼' 신봉선, \"월 100만원씩 10년간 모았다…엄마는 혼자될까 봐 걱정\" ('미우새')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705215751788"
+        }
+      },
+      {
+        "keyword": "안드레이 산투스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "맨체스터 유나이티드, 1750억 MF 토트넘에 뺏기고도 신중한 태도…\"1650억 MF 바로 영입 가능하지만, 다른 자원 확인 중\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704040545397"
+        }
+      }
+    ]
   }
 ]

@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-06T02:56:20.941122+09:00",
-  "label": "02:56",
+  "timestamp": "2026-07-06T04:06:07.151295+09:00",
+  "label": "04:06",
   "items": [
     {
       "keyword": "셰프",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "윈터, 호박잎·콩잎·막장 가득한 냉장고..\"할매 입맛\"[냉부해][★밤TView]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706004718281"
+        "title": "‘전과 6범’ 임성근 셰프, 3층짜리 한식당 오픈 “기다려 준 분들 감사”",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260705083157295"
       }
     },
     {
@@ -23,6 +23,16 @@
       }
     },
     {
+      "keyword": "이하늘",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "이하늘, '신고 1000건' 곱창집 수입 공개 \"하루에 두 달치 월급 벌어\" [스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260705144118692"
+      }
+    },
+    {
       "keyword": "브라질 노르웨이",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -33,16 +43,6 @@
       }
     },
     {
-      "keyword": "파산",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "MBK, 빚내서 홈플 인수…팔았던 ‘알짜 점포’ 빌려 쓰다 파산행",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/economy/economy_general/1266814.html"
-      }
-    },
-    {
       "keyword": "강회장",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -50,16 +50,6 @@
         "title": "'강회장' 캐릭터 비호감 높인 정재성 살벌한 열연",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260705232102412"
-      }
-    },
-    {
-      "keyword": "이하늘",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이하늘 곱창집에 신고 1천건…“그래서 내가 흔들리냐” 악플러에 일침",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705191706056"
       }
     },
     {
@@ -100,6 +90,16 @@
         "title": "'47세 미혼' 신봉선, \"월 100만원씩 10년간 모았다…엄마는 혼자될까 봐 걱정\" ('미우새')",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260705215751788"
+      }
+    },
+    {
+      "keyword": "안드레이 산투스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "맨체스터 유나이티드, 1750억 MF 토트넘에 뺏기고도 신중한 태도…\"1650억 MF 바로 영입 가능하지만, 다른 자원 확인 중\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704040545397"
       }
     }
   ]
