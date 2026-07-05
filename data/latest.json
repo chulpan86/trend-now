@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-06T06:51:15.800221+09:00",
-  "label": "06:51",
+  "timestamp": "2026-07-06T07:52:23.044900+09:00",
+  "label": "07:52",
   "items": [
     {
-      "keyword": "롯데 자이언츠",
+      "keyword": "주가",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "'김현수 결승 투런포' kt, 롯데 꺾고 3연패 탈출",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705046100007"
+        "title": "글로벌 증시 분수령…삼전닉스 2분기 실적발표 시즌 개막한다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607056511i"
       }
     },
     {
-      "keyword": "음료",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "thời tiết",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"맛있어지니 1등 뺏었잖아\"…'편의점 절대강자' 바나나우유 매출 제친 '이 음료'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705193400253"
+        "title": "Cảnh báo mưa lớn cục bộ và dông lốc tại Bắc Bộ, Bắc Trung Bộ ngày 06/07/2026",
+        "source": "Báo Lâm Đồng",
+        "url": "https://baolamdong.vn/canh-bao-mua-lon-cuc-bo-va-dong-loc-tai-bac-bo-bac-trung-bo-ngay-06072026-451947.html"
       }
     },
     {
-      "keyword": "정동원",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "최저임금",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "이찬원 \"해병대 간 정동원 면회 와서 구해달라더라\"",
+        "title": "노사, 1만1000원선 팽팽한 공방… 4차수정안도 1290원 격차 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/economy/2026/07/06/2026070519460171781"
+      }
+    },
+    {
+      "keyword": "天气",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Trump Delivers Address on America’s 250th Birthday: ‘Nobody Can Be Like Us’",
+        "source": "WSJ",
+        "url": "https://www.wsj.com/us-news/july-4-250-event-national-mall-e64253db"
+      }
+    },
+    {
+      "keyword": "엔드릭",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "안첼로티 \"나에게 조언할 수 있는 사람은 퍼거슨 경뿐\"[월드컵24시]",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260705_0003696215"
+        "url": "https://www.newsis.com/view/NISX20260705_0003696177"
       }
     },
     {
-      "keyword": "국채",
+      "keyword": "북대서양 조약 기구",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"국채투자도 손실볼 수 있어…장기채권은 중도매도 가능성 유념\"",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1115903"
-      }
-    },
-    {
-      "keyword": "제주특별자치도",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "고유가 지원금 대상자 97%에 6조800억 지급…7월 3일 신청 마감",
+        "title": "‘잠자는 사자’ 유럽의 재무장…한국산 무기 콕 집어 찾는 이유 [유럽으로 가는 K방산]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260628120235333"
+        "url": "https://v.daum.net/v/20260706051103434"
       }
     },
     {
-      "keyword": "신동빈",
+      "keyword": "бразилия – норвегия",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신동빈 롯데 회장, 롯데바이오로직스 송도 1공장 첫 현장 점검",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705105553084"
+        "title": "Сборная Бразилии впервые за 36 лет не вышла в четвертьфинал чемпионата мира",
+        "source": "Спорт Mail",
+        "url": "https://sportmail.ru/news/football-worldcup/71525336/"
       }
     },
     {
-      "keyword": "대한항공",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "대한항공, 튀르키예 이스탄불 공항서 정비 결함으로 24시간가량 지연",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705151806508"
-      }
-    },
-    {
-      "keyword": "롯데건설",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "1조4천억원 성수4지구 재개발 시공사에 롯데건설",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705041200003"
-      }
-    },
-    {
-      "keyword": "설악산",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "주말 설악산에서 추락사고 잇따라… 등산객 2명 중상",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/regional/gangwon/2026/07/05/QE7WNVQBZVAIDHNQMBHI6DUIIY/"
-      }
-    },
-    {
-      "keyword": "연천군",
+      "keyword": "교도관",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "경기도, 농어촌기본소득 연천군에 '행복배달 소통마차' 첫 운행",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260703125800061"
+        "title": "“정말사랑해” 여친 살인범과 즐긴 女교도관…영국 발칵",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11600417"
+      }
+    },
+    {
+      "keyword": "포르투갈 스페인",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "월드컵 16강 누구누구?…유럽 7개국 ‘강세’ 아시아 ‘전멸’ [지금뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8602226"
+      }
+    },
+    {
+      "keyword": "도경완",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"결혼하면 돈줄 끊겨\"...장윤정 친모, 도경완 '결사반대'한 이유 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/07/04/2026070413354746059"
       }
     }
   ]

@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-04T18:59:23.510872+09:00",
-    "label": "18:59",
-    "items": [
-      {
-        "keyword": "장동건",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "\"장동건 맞아?\" 달라진 외모 근황…주류 행사서 볼 빨간 미소 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/04/2026070416374081633"
-        }
-      },
-      {
-        "keyword": "기아 쏘렌토",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "그랜저, 테슬라 모델 Y 꺾고 6월 판매량 1위…현대차 반격",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=344193"
-        }
-      },
-      {
-        "keyword": "롯데 대 kt",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"야구하는 모습 강단있다\" 칭찬했는데…멀티히트 친 롯데 인생역전 아이콘, 왜 선발에서 빠졌을까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260703174230589"
-        }
-      },
-      {
-        "keyword": "오세훈",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "오세훈 “尹 지지 세력과 관계 유지해야…결별 대상은 그의 잘못된 판단”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607041635001"
-        }
-      },
-      {
-        "keyword": "에코프로",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "에코프로비엠 살리려 ‘곳간’ 비우는 에코프로…‘책임경영’ 대가로 유동성 부담 - 조선비즈",
-          "source": "조선일보",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/07/02/ZRXIVN4F3NEDPGHURHMWL2WNEM/"
-        }
-      },
-      {
-        "keyword": "xrp 레저",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'하방 베팅의 무덤' 된 리플… 1.3달러행(行) 숏 스퀴즈 뇌관 터지나",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/07/202607030316334671e7e8286d56_1"
-        }
-      },
-      {
-        "keyword": "박진만",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "프로야구 2위 삼성, SSG 완파…1위 LG와 1.5경기 차(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260703160700007"
-        }
-      },
-      {
-        "keyword": "온도",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "창문부터 열면 오히려 더 덥다?…집안 온도 높이는 고질적인 습관 4",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260704140119352"
-        }
-      },
-      {
-        "keyword": "물",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[사이테크+] 키 큰 나무는 어떻게 80ｍ 높이까지 물을 끌어 올릴까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260703085304054"
-        }
-      },
-      {
-        "keyword": "클로봇",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-04T20:32:07.783782+09:00",
     "label": "20:32",
     "items": [
@@ -2401,6 +2299,112 @@
           "title": "경기도, 농어촌기본소득 연천군에 '행복배달 소통마차' 첫 운행",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260703125800061"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-06T07:52:23.044900+09:00",
+    "label": "07:52",
+    "items": [
+      {
+        "keyword": "주가",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "글로벌 증시 분수령…삼전닉스 2분기 실적발표 시즌 개막한다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607056511i"
+        }
+      },
+      {
+        "keyword": "thời tiết",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Cảnh báo mưa lớn cục bộ và dông lốc tại Bắc Bộ, Bắc Trung Bộ ngày 06/07/2026",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/canh-bao-mua-lon-cuc-bo-va-dong-loc-tai-bac-bo-bac-trung-bo-ngay-06072026-451947.html"
+        }
+      },
+      {
+        "keyword": "최저임금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "노사, 1만1000원선 팽팽한 공방… 4차수정안도 1290원 격차 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/07/06/2026070519460171781"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Trump Delivers Address on America’s 250th Birthday: ‘Nobody Can Be Like Us’",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/us-news/july-4-250-event-national-mall-e64253db"
+        }
+      },
+      {
+        "keyword": "엔드릭",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "안첼로티 \"나에게 조언할 수 있는 사람은 퍼거슨 경뿐\"[월드컵24시]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260705_0003696177"
+        }
+      },
+      {
+        "keyword": "북대서양 조약 기구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘잠자는 사자’ 유럽의 재무장…한국산 무기 콕 집어 찾는 이유 [유럽으로 가는 K방산]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260706051103434"
+        }
+      },
+      {
+        "keyword": "бразилия – норвегия",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Сборная Бразилии впервые за 36 лет не вышла в четвертьфинал чемпионата мира",
+          "source": "Спорт Mail",
+          "url": "https://sportmail.ru/news/football-worldcup/71525336/"
+        }
+      },
+      {
+        "keyword": "교도관",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“정말사랑해” 여친 살인범과 즐긴 女교도관…영국 발칵",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11600417"
+        }
+      },
+      {
+        "keyword": "포르투갈 스페인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "월드컵 16강 누구누구?…유럽 7개국 ‘강세’ 아시아 ‘전멸’ [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8602226"
+        }
+      },
+      {
+        "keyword": "도경완",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"결혼하면 돈줄 끊겨\"...장윤정 친모, 도경완 '결사반대'한 이유 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/04/2026070413354746059"
         }
       }
     ]
