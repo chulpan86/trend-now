@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-07-05T20:23:09.217920+09:00",
-  "label": "20:23",
+  "timestamp": "2026-07-05T22:07:57.325188+09:00",
+  "label": "22:07",
   "items": [
-    {
-      "keyword": "nc 대 kia",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "프로야구 NC-KIA 광주 경기 장맛비로 취소",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705039600007"
-      }
-    },
     {
       "keyword": "경제",
       "traffic_raw": "10000+",
@@ -23,60 +13,60 @@
       }
     },
     {
-      "keyword": "fc 서울 대 인천",
+      "keyword": "박은영",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "윤정환 인천 감독, 대표팀 사령탑 거론에 \"아직 내 위치 아냐\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705043000007"
-      }
-    },
-    {
-      "keyword": "광주 대 울산",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "골프",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "KLPGA 우승한 김효주 \"자신감 갖고 에비앙 챔피언십 준비\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705036700007"
-      }
-    },
-    {
-      "keyword": "변진섭",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "황영조, 변진섭 골프공 맞아 귀 50바늘 \"이제 골프 안 쳐\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260705_0003696024"
-      }
-    },
-    {
-      "keyword": "홍준표",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "홍준표 \"호남 반도체, 국가에 굉장한 이득…반대 말아야\"",
+        "title": "박은영, 결혼식 현장 공개..단아한 웨딩 드레스 자태 \"사랑해\"[스타이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260705160901561"
+        "url": "https://v.daum.net/v/20260705191921077"
       }
     },
     {
-      "keyword": "김용범",
+      "keyword": "지상렬",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"결혼만 남았다\"…지상렬, 신보람과 '볼뽀뽀' 사진 공개",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260704_0003696000"
+      }
+    },
+    {
+      "keyword": "погода завтра",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Жителей Башкирии предупредили о грозах с градом",
+        "source": "Электрогазета",
+        "url": "https://i-gazeta.com/news/novosti/2026-07-05/zhiteley-bashkirii-predupredili-o-grozah-s-gradom-4741347"
+      }
+    },
+    {
+      "keyword": "이상민",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[속보]김용범 “AI는 기업이 만들지만 전력망은 국가의 일”",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11600303"
+        "title": "'69억 빚 청산' 이상민, 지난해 수입 '15억' 깜짝 공개",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260704_0003695918"
       }
+    },
+    {
+      "keyword": "sk텔레콤",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "SKT의 대담한 도전…1000조원 넘는 AI 데이터센터 구축한다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260705211433299"
+      }
+    },
+    {
+      "keyword": "쿠키뉴스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
       "keyword": "클롭",
@@ -96,6 +86,16 @@
         "title": "남자농구, 대만에 월드컵 예선 80-82 분패",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/MYH20260705004700038"
+      }
+    },
+    {
+      "keyword": "베라 왕",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"77살 맞아?\" 파격 드레스 입은 베라 왕…매일 밤 챙겨 마신다는 '이것'의 정체 [헬스톡]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/b2OJAeCEaZ"
       }
     }
   ]
