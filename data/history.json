@@ -2298,5 +2298,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-06T06:51:15.800221+09:00",
+    "label": "06:51",
+    "items": [
+      {
+        "keyword": "롯데 자이언츠",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "'김현수 결승 투런포' kt, 롯데 꺾고 3연패 탈출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260705046100007"
+        }
+      },
+      {
+        "keyword": "음료",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"맛있어지니 1등 뺏었잖아\"…'편의점 절대강자' 바나나우유 매출 제친 '이 음료'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705193400253"
+        }
+      },
+      {
+        "keyword": "정동원",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이찬원 \"해병대 간 정동원 면회 와서 구해달라더라\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260705_0003696215"
+        }
+      },
+      {
+        "keyword": "국채",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"국채투자도 손실볼 수 있어…장기채권은 중도매도 가능성 유념\"",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1115903"
+        }
+      },
+      {
+        "keyword": "제주특별자치도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "고유가 지원금 대상자 97%에 6조800억 지급…7월 3일 신청 마감",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260628120235333"
+        }
+      },
+      {
+        "keyword": "신동빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신동빈 롯데 회장, 롯데바이오로직스 송도 1공장 첫 현장 점검",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705105553084"
+        }
+      },
+      {
+        "keyword": "대한항공",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대한항공, 튀르키예 이스탄불 공항서 정비 결함으로 24시간가량 지연",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705151806508"
+        }
+      },
+      {
+        "keyword": "롯데건설",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "1조4천억원 성수4지구 재개발 시공사에 롯데건설",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260705041200003"
+        }
+      },
+      {
+        "keyword": "설악산",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "주말 설악산에서 추락사고 잇따라… 등산객 2명 중상",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/gangwon/2026/07/05/QE7WNVQBZVAIDHNQMBHI6DUIIY/"
+        }
+      },
+      {
+        "keyword": "연천군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "경기도, 농어촌기본소득 연천군에 '행복배달 소통마차' 첫 운행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260703125800061"
+        }
+      }
+    ]
   }
 ]
