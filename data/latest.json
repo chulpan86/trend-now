@@ -1,35 +1,25 @@
 {
-  "timestamp": "2026-07-05T08:53:05.495286+09:00",
-  "label": "08:53",
+  "timestamp": "2026-07-05T11:04:35.142558+09:00",
+  "label": "11:04",
   "items": [
     {
-      "keyword": "날씨예보",
-      "traffic_raw": "100000+",
-      "traffic": 100000,
+      "keyword": "캐나다 대 모로코",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "전국 비 내리는 일요일…낮 최고 30도 무더위도 계속",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705053805333"
-      }
-    },
-    {
-      "keyword": "캐나다 모로코",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'첫 개최국 탈락' FIFA '랭킹 7위' 역시 강했다···모로코, 캐나다에 3-0 승→8강 진출[월드컵·16강]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260705n01482"
+        "title": "모로코,캐나다 꺾고 8강 진출…두 대회 연속 8강행",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8602369"
       }
     },
     {
       "keyword": "다음",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "영국 찰스 3세, 트럼프에 축전…\"다음 250년도 공동가치 지켜내자\"",
+        "title": "[AI위클리] 챗봇 넘어 '일하는 AI' 경쟁…쇼핑·검색·조직까지 바꾼다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260705045103948"
+        "url": "https://v.daum.net/v/20260705093303370"
       }
     },
     {
@@ -37,9 +27,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "로또 1231회 당첨번호 16억, '또 1·2등 같이 터진 곳 나왔네'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705070153257"
+        "title": "1231회 로또 1등 ‘4, 13, 14, 18, 31, 38’…인당 16억5천만원",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607042100001"
       }
     },
     {
@@ -47,9 +37,29 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Canada's Jesse Marsch on World Cup exit vs. Morocco: 'We were the better team'",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/49270971/canada-jesse-marsch-world-cup-exit-morocco-were-better-team"
+        "title": "Morocco defeats Canada 3-0 in Houston, advances to World Cup quarterfinals - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/07/05/54PXX5WEARDRFOHC2RSBTOAWSQ/"
+      }
+    },
+    {
+      "keyword": "김은희",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "장항준·김은희 부부, 신혼 추억 공개…“진짜 이런 헤어스타일로 간다고”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260704173342600"
+      }
+    },
+    {
+      "keyword": "프랑스 파라과이",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘음바페 PK 결승골’ 프랑스, 파라과이에 1-0 신승…8강 진출",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8602392"
       }
     },
     {
@@ -63,20 +73,14 @@
       }
     },
     {
-      "keyword": "프랑스 축구",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[월드컵] 음바페 페널티킥 결승골‥프랑스, 파라과이 꺾고 8강행",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6835051_36946.html"
-      }
-    },
-    {
       "keyword": "프로야구 순위",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "KBO 프로야구, 4일 경기 결과→현재 팀 순위?",
+        "source": "TopStarNews",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123786"
+      }
     },
     {
       "keyword": "캐나다",
@@ -93,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "フランス 苦しみながらも8強進出",
+        "title": "エムバペ巡り乱闘寸前 パラグアイ VAR判定のPK弾に泣きフランスに惜敗 4大会ぶりのベスト8進出ならず【サッカーW杯】",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586764"
+        "url": "https://news.yahoo.co.jp/articles/2b6de7b526b40af7b65150adfd65320c564ca7a5"
       }
     }
   ]
