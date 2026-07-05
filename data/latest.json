@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-06T01:55:32.905687+09:00",
-  "label": "01:55",
+  "timestamp": "2026-07-06T02:56:20.941122+09:00",
+  "label": "02:56",
   "items": [
     {
       "keyword": "셰프",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'전과 6범' 임성근, 3층짜리 파주 식당 오픈…어마어마한 규모 눈길",
+        "title": "윈터, 호박잎·콩잎·막장 가득한 냉장고..\"할매 입맛\"[냉부해][★밤TView]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260705200318576"
+        "url": "https://v.daum.net/v/20260706004718281"
       }
     },
     {
@@ -17,9 +17,19 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"그때 그대로야\" 김병철·이엘 '도깨비' 여행 합류한다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260705_0003696292"
+        "title": "\"혼숙은 안 돼\" 이동욱 선 긋자…공유 \"잘 때만 따로 자면 돼\" 폭소 ('도깨비 10주년')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260706010217326"
+      }
+    },
+    {
+      "keyword": "브라질 노르웨이",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "천하의 브라질 축구가 한번도 못 이긴 팀이 있다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/07/05/GZTGGY3FGEZTCMZXGRSWEMTCHA/"
       }
     },
     {
@@ -63,23 +73,13 @@
       }
     },
     {
-      "keyword": "브라질 노르웨이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "천하의 브라질 축구가 한번도 못 이긴 팀이 있다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/07/05/GZTGGY3FGEZTCMZXGRSWEMTCHA/"
-      }
-    },
-    {
       "keyword": "대전 도시철도 2호선",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "장마 앞둔 대전, ‘배수’만으론 못 막는다",
-        "source": "금강일보",
-        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1167452"
+        "title": "핵심자제 레일 시공사가 구매 ‘분할발주’ 독 됐다",
+        "source": "충청투데이",
+        "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2232709"
       }
     },
     {
