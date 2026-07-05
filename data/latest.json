@@ -1,41 +1,11 @@
 {
-  "timestamp": "2026-07-06T04:06:07.151295+09:00",
-  "label": "04:06",
+  "timestamp": "2026-07-06T05:46:46.651205+09:00",
+  "label": "05:46",
   "items": [
     {
-      "keyword": "셰프",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘전과 6범’ 임성근 셰프, 3층짜리 한식당 오픈 “기다려 준 분들 감사”",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20260705083157295"
-      }
-    },
-    {
-      "keyword": "이엘",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"혼숙은 안 돼\" 이동욱 선 긋자…공유 \"잘 때만 따로 자면 돼\" 폭소 ('도깨비 10주년')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706010217326"
-      }
-    },
-    {
-      "keyword": "이하늘",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "이하늘, '신고 1000건' 곱창집 수입 공개 \"하루에 두 달치 월급 벌어\" [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705144118692"
-      }
-    },
-    {
-      "keyword": "브라질 노르웨이",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "브라질 대 노르웨이",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "천하의 브라질 축구가 한번도 못 이긴 팀이 있다",
         "source": "조선일보",
@@ -43,13 +13,63 @@
       }
     },
     {
-      "keyword": "강회장",
+      "keyword": "brazil vs norway",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Ancelotti weighs Raphinha, Neymar and youth options ahead of Brazil vs Norway - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/07/05/OBGMLOGZZJFMXHUXXY4NBMERVA/"
+      }
+    },
+    {
+      "keyword": "셰프",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "윈터, 호박잎·콩잎·막장 가득한 냉장고..\"할매 입맛\"[냉부해][★밤TView]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260706004718281"
+      }
+    },
+    {
+      "keyword": "야닉 시너",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'강회장' 캐릭터 비호감 높인 정재성 살벌한 열연",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705232102412"
+        "title": "'잔디의 아들' 모치즈키, 세계 1위 시너에 도전",
+        "source": "테니스피플",
+        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=18923"
+      }
+    },
+    {
+      "keyword": "파산",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "홈플러스서 15년을 일했는데…“여태 싸운게 다 무너져”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/labor/1266816.html"
+      }
+    },
+    {
+      "keyword": "설악산",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "주말 설악산에서 추락사고 잇따라… 등산객 2명 중상",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/regional/gangwon/2026/07/05/QE7WNVQBZVAIDHNQMBHI6DUIIY/"
+      }
+    },
+    {
+      "keyword": "이찬원",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이찬원 \"해병대 간 정동원 면회 와서 구해달라더라\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/2026/07/05/HINTQOIDNNAF3OLZAYCVJ4UJNU/"
       }
     },
     {
@@ -67,29 +87,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "핵심자제 레일 시공사가 구매 ‘분할발주’ 독 됐다",
-        "source": "충청투데이",
-        "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2232709"
-      }
-    },
-    {
-      "keyword": "전국학교비정규직노동조합",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'시급 8천원' 학교비정규직 1만명 \"새 교육감, 예산으로 답하라\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260704152701214?f=p"
-      }
-    },
-    {
-      "keyword": "신봉선",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'47세 미혼' 신봉선, \"월 100만원씩 10년간 모았다…엄마는 혼자될까 봐 걱정\" ('미우새')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705215751788"
+        "title": "장마 앞둔 대전, ‘배수’만으론 못 막는다",
+        "source": "금강일보",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1167452"
       }
     },
     {
