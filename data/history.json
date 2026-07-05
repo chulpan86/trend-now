@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-07-04T04:01:38.986562+09:00",
-    "label": "04:01",
-    "items": [
-      {
-        "keyword": "유조선",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"전쟁 최대 수혜자는 韓기업\" 해외도 깜짝…'10조 베팅' 통했다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026070349251"
-        }
-      },
-      {
-        "keyword": "임종훈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'환상 짝꿍' 신유빈-임종훈, 가뿐하게 준결승 진출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702213339049?f=p"
-        }
-      },
-      {
-        "keyword": "야닉 시너",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "조코비치, 윔블던 3회전 진출...‘황제’의 메이저 105승까지 1승 남아",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702154616753?f=p"
-        }
-      },
-      {
-        "keyword": "이종석",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이러니 아이유가 반하지..이종석, 상의 탈의 수영장 포착 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260703081321141"
-        }
-      },
-      {
-        "keyword": "australia vs egypt",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Australia v Egypt: World Cup 2026 last 32 – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live"
-        }
-      },
-      {
-        "keyword": "민생회복 소비쿠폰",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[민생회복 소비쿠폰 효과 점검] 비수도권·음식점에 더 큰 효과···지역·업종별 격차 ④",
-          "source": "공유경제신문",
-          "url": "https://www.seconomy.kr/news/articleView.html?idxno=139864"
-        }
-      },
-      {
-        "keyword": "얼굴",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘술톤’ 빠진 황정민… 금주 후 확 달라진 근황 봤더니?",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070300853.html"
-        }
-      },
-      {
-        "keyword": "자승",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "조계종 “자승 전 총무원장 재산 종단 귀속 완료”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607031533001"
-        }
-      },
-      {
-        "keyword": "트로트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘뮤직뱅크’ 김희재 ‘이런 날 기다렸나요’ 필승 무대",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607031740003"
-        }
-      },
-      {
-        "keyword": "킬러들의 쇼핑몰 시즌2",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "넷플 대세 잡을 디즈니+ 효자, 시즌2 직전 MBC가 잡았다('킬러들의 쇼핑몰')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260703190216418"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-04T05:52:37.006625+09:00",
-    "label": "05:52",
-    "items": [
-      {
-        "keyword": "유조선",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"전쟁 최대 수혜자는 韓기업\" 해외도 깜짝…'10조 베팅' 통했다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026070349251"
-        }
-      },
-      {
-        "keyword": "서울경제",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "자체 AI칩 개발 뛰어든 앤스로픽, 파운드리 파트너로 삼성 낙점",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260704014208156"
-        }
-      },
-      {
-        "keyword": "북한이탈주민",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "인권위, \"'북향민' 명칭 변경, 당사자 의견 수렴해야\"…통일부에 권고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702192518311"
-        }
-      },
-      {
-        "keyword": "이종석",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'아이유♥' 이종석, 수영장에서 한껏 화난 등근육…셔츠 벗자 드러난 태평양 어깨 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/03/MRSGIYRZGVSWKYLFGNRWCOBQGA/"
-        }
-      },
-      {
-        "keyword": "임종훈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'환상 짝꿍' 신유빈-임종훈, 가뿐하게 준결승 진출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260702213339049?f=p"
-        }
-      },
-      {
-        "keyword": "australia vs egypt",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Australia equalizes through Egypt own goal | 2026 FIFA World Cup™",
-          "source": "FOX Sports",
-          "url": "https://www.foxsports.com/watch/fmc-bhqgwiyh4cn1fk7v"
-        }
-      },
-      {
-        "keyword": "민생회복 소비쿠폰",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[민생회복 소비쿠폰 효과 점검] 비수도권·음식점에 더 큰 효과···지역·업종별 격차 ④",
-          "source": "공유경제신문",
-          "url": "https://www.seconomy.kr/news/articleView.html?idxno=139864"
-        }
-      },
-      {
-        "keyword": "얼굴",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘술톤’ 빠진 황정민… 금주 후 확 달라진 근황 봤더니?",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070300853.html"
-        }
-      },
-      {
-        "keyword": "자승",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "조계종 “자승 전 총무원장 재산 종단 귀속 완료”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607031533001"
-        }
-      },
-      {
-        "keyword": "살라",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[AI프리뷰] 월드컵 4일 32강 호주-이집트전, 이집트 '햄스트링 부상' 살라 회복에 집중",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260703000458"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-04T06:56:16.661804+09:00",
     "label": "06:56",
     "items": [
@@ -2197,6 +1985,112 @@
           "title": "대패삼겹살 원조?…법원 “백종원 개발 아니다”",
           "source": "채널A",
           "url": "https://ichannela.com/news/detail/000000537975.do"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-05T18:34:15.242934+09:00",
+    "label": "18:34",
+    "items": [
+      {
+        "keyword": "거스 히딩크",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "히딩크 \"솔직히 韓행 열정 없었다, 그런데...\" 직접 밝힌 \"무리수 제안 3가지 수용\" 그때 한국의 '미친 결단력' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/05/2026070516004919627"
+        }
+      },
+      {
+        "keyword": "반도체",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "강훈식 \"반도체 추가 세수로 기금 신설…미래 대응에 과감 투자\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260705034800001"
+        }
+      },
+      {
+        "keyword": "슈퍼 태풍",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "빠르게 접근하는 슈퍼태풍 '바비'.. 정체전선 끌어올리나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705110308375"
+        }
+      },
+      {
+        "keyword": "kf-21 보라매",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[특별기고] 국산전투기 KF-21의 비상과 ‘전략국가’ 비전",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260703014259596"
+        }
+      },
+      {
+        "keyword": "복권",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "로또 1231회 당첨번호 16억, '또 1·2등 같이 터진 곳 나왔네'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0uXNhlqFca"
+        }
+      },
+      {
+        "keyword": "온도",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“‘전기료 폭탄’ 피하려다 심장 다 망가진다”…‘안방 온도 24도’ 넘어가자 ‘이런 일’이",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705085217656"
+        }
+      },
+      {
+        "keyword": "건강",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[게시판] 한의약건강증진사업 성과대회…음성군보건소 최우수상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260703081300530?section=health/all"
+        }
+      },
+      {
+        "keyword": "대한축구협회",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘홍명보 선임’ 의혹, 서울청 수심위 ‘신속 수사’ 권고에도 늦장 수사",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8602414"
+        }
+      },
+      {
+        "keyword": "김중남",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김중남 시장·허병관 의장 첫 민생행보, 경포해변 쓰레기 수거",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260704026200062"
+        }
+      },
+      {
+        "keyword": "구축함",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김정은, '2호함' 강건호 무기시험…\"두 달 내 배치\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705160005368"
         }
       }
     ]
