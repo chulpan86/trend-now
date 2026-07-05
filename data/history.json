@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-04T13:27:32.285001+09:00",
-    "label": "13:27",
-    "items": [
-      {
-        "keyword": "콜레스테롤",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“콜레스테롤·염증 줄인다” 당뇨병 환자 먹으면 좋은 ‘특별한 채소’",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070301174.html"
-        }
-      },
-      {
-        "keyword": "슈퍼지구",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "생명체 살 수 있는 '슈퍼지구' 발견...지구 25광년 거리 [우주로 간다]",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260703133750"
-        }
-      },
-      {
-        "keyword": "양해각서",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "구미에 5천억 원 규모 공장 신설 MOU 체결",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8601975"
-        }
-      },
-      {
-        "keyword": "하메스 로드리게스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[월드컵] '아리아스 결승포' 콜롬비아, 가나 1-0 제압…16강행 막차",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260704024700007"
-        }
-      },
-      {
-        "keyword": "사이먼 도미닉",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "쌈디, 기안84 떄문에 '나혼산' 하차 고민…\"진심으로 하고 싶었다\" [RE:뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260704124702732"
-        }
-      },
-      {
-        "keyword": "선거위원회",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[자막뉴스] 개표소는 시작이었다...국조특위 칼끝, 선관위 본진으로",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202607041300342972"
-        }
-      },
-      {
-        "keyword": "원자력 발전소",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "KINGS, 세계에서 배우고 현장에서 키운다",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=369819"
-        }
-      },
-      {
-        "keyword": "조원빈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'태극 거포 유망주'의 탄생…승격 후 '8경기 5홈런'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260703210904415?f=p"
-        }
-      },
-      {
-        "keyword": "김지민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김지민 \"학창 시절 '왕따 가해' 두 명 이름 아직 기억…사과 받고 싶어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260704_0003695769"
-        }
-      },
-      {
-        "keyword": "колумбия – гана",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-04T16:36:38.461914+09:00",
     "label": "16:36",
     "items": [
@@ -2040,6 +1938,112 @@
         "traffic_raw": "500+",
         "traffic": 500,
         "news": null
+      },
+      {
+        "keyword": "브라질 노르웨이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "천하의 브라질 축구가 한번도 못 이긴 팀이 있다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/05/GZTGGY3FGEZTCMZXGRSWEMTCHA/"
+        }
+      },
+      {
+        "keyword": "대전 도시철도 2호선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "장마 앞둔 대전, ‘배수’만으론 못 막는다",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1167452"
+        }
+      },
+      {
+        "keyword": "전국학교비정규직노동조합",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'시급 8천원' 학교비정규직 1만명 \"새 교육감, 예산으로 답하라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260704152701214?f=p"
+        }
+      },
+      {
+        "keyword": "신봉선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'47세 미혼' 신봉선, \"월 100만원씩 10년간 모았다…엄마는 혼자될까 봐 걱정\" ('미우새')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705215751788"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-06T01:55:32.905687+09:00",
+    "label": "01:55",
+    "items": [
+      {
+        "keyword": "셰프",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'전과 6범' 임성근, 3층짜리 파주 식당 오픈…어마어마한 규모 눈길",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705200318576"
+        }
+      },
+      {
+        "keyword": "이엘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"그때 그대로야\" 김병철·이엘 '도깨비' 여행 합류한다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260705_0003696292"
+        }
+      },
+      {
+        "keyword": "파산",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "MBK, 빚내서 홈플 인수…팔았던 ‘알짜 점포’ 빌려 쓰다 파산행",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1266814.html"
+        }
+      },
+      {
+        "keyword": "강회장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'강회장' 캐릭터 비호감 높인 정재성 살벌한 열연",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705232102412"
+        }
+      },
+      {
+        "keyword": "이하늘",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이하늘 곱창집에 신고 1천건…“그래서 내가 흔들리냐” 악플러에 일침",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260705191706056"
+        }
+      },
+      {
+        "keyword": "다니엘 근황",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "어도어 녹취록에 ‘탬퍼링’ 재점화…하이브·민희진 소송도 영향권 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/business-venture/2026/07/05/F2VFSOLMHVBF7NAN3FSSBCJNAQ/"
+        }
       },
       {
         "keyword": "브라질 노르웨이",
