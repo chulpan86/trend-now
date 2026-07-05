@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-05T18:34:15.242934+09:00",
-  "label": "18:34",
+  "timestamp": "2026-07-05T20:23:09.217920+09:00",
+  "label": "20:23",
   "items": [
     {
-      "keyword": "거스 히딩크",
+      "keyword": "nc 대 kia",
       "traffic_raw": "20000+",
       "traffic": 20000,
       "news": {
-        "title": "히딩크 \"솔직히 韓행 열정 없었다, 그런데...\" 직접 밝힌 \"무리수 제안 3가지 수용\" 그때 한국의 '미친 결단력' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/07/05/2026070516004919627"
-      }
-    },
-    {
-      "keyword": "반도체",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "강훈식 \"반도체 추가 세수로 기금 신설…미래 대응에 과감 투자\"",
+        "title": "프로야구 NC-KIA 광주 경기 장맛비로 취소",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705034800001"
+        "url": "https://www.yna.co.kr/view/AKR20260705039600007"
       }
     },
     {
-      "keyword": "슈퍼 태풍",
+      "keyword": "경제",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "빠르게 접근하는 슈퍼태풍 '바비'.. 정체전선 끌어올리나",
+        "title": "[기획] 반도체 호황 ‘남 일’… 청년고용 멈췄다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260705110308375"
+        "url": "https://v.daum.net/v/20260705185231735"
       }
     },
     {
-      "keyword": "kf-21 보라매",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "[특별기고] 국산전투기 KF-21의 비상과 ‘전략국가’ 비전",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20260703014259596"
-      }
-    },
-    {
-      "keyword": "복권",
+      "keyword": "fc 서울 대 인천",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "로또 1231회 당첨번호 16억, '또 1·2등 같이 터진 곳 나왔네'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/0uXNhlqFca"
+        "title": "윤정환 인천 감독, 대표팀 사령탑 거론에 \"아직 내 위치 아냐\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260705043000007"
       }
     },
     {
-      "keyword": "온도",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "광주 대 울산",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "골프",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "“‘전기료 폭탄’ 피하려다 심장 다 망가진다”…‘안방 온도 24도’ 넘어가자 ‘이런 일’이",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705085217656"
+        "title": "KLPGA 우승한 김효주 \"자신감 갖고 에비앙 챔피언십 준비\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260705036700007"
       }
     },
     {
-      "keyword": "건강",
+      "keyword": "변진섭",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[게시판] 한의약건강증진사업 성과대회…음성군보건소 최우수상",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260703081300530?section=health/all"
+        "title": "황영조, 변진섭 골프공 맞아 귀 50바늘 \"이제 골프 안 쳐\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260705_0003696024"
       }
     },
     {
-      "keyword": "대한축구협회",
+      "keyword": "홍준표",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "홍준표 \"호남 반도체, 국가에 굉장한 이득…반대 말아야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260705160901561"
+      }
+    },
+    {
+      "keyword": "김용범",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘홍명보 선임’ 의혹, 서울청 수심위 ‘신속 수사’ 권고에도 늦장 수사",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8602414"
+        "title": "[속보]김용범 “AI는 기업이 만들지만 전력망은 국가의 일”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11600303"
       }
     },
     {
-      "keyword": "김중남",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "김중남 시장·허병관 의장 첫 민생행보, 경포해변 쓰레기 수거",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260704026200062"
-      }
-    },
-    {
-      "keyword": "구축함",
+      "keyword": "클롭",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김정은, '2호함' 강건호 무기시험…\"두 달 내 배치\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260705160005368"
+        "title": "[월드컵] 독일 감독 유력 클롭, 협상 인정…\"완벽하진 않지만 좋은 시기\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260705024400007"
+      }
+    },
+    {
+      "keyword": "농구",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "남자농구, 대만에 월드컵 예선 80-82 분패",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260705004700038"
       }
     }
   ]
