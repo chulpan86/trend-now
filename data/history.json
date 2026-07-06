@@ -1682,5 +1682,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-07T02:45:37.812382+09:00",
+    "label": "02:45",
+    "items": [
+      {
+        "keyword": "두산 로보틱스",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "40만원 간다더니 반토막 났다…LG전자 개미들 '피눈물' [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026070683066"
+        }
+      },
+      {
+        "keyword": "이강인, 아틀레티코",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"이강인, 이적료 700억원에 AT 마드리드행 합의\" 보도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260706157000007"
+        }
+      },
+      {
+        "keyword": "tvn",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Małgorzata Tomaszewska wśród prowadzących \"Projekt City\" w TVN Style",
+          "source": "Press.pl",
+          "url": "https://www.press.pl/tresc/93944,malgorzata-tomaszewska-wsrod-prowadzacych-_projekt-city_-w-tvn-style"
+        }
+      },
+      {
+        "keyword": "7월7일 정보통신망법",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[사설] 허위정보와의 싸움, 건강한 비판까지 막으면 안 된다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707013216648"
+        }
+      },
+      {
+        "keyword": "이희구",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"엄마 손에 이끌려 유흥업소 다녀…\" 이희구 눈물의 가정사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260706145110044"
+        }
+      },
+      {
+        "keyword": "독사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "뱀 물리면 입으로 빨아내라?…남편 살리려다 아내까지",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026070510535209513"
+        }
+      },
+      {
+        "keyword": "알렉산드라 이알라",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/"
+        }
+      },
+      {
+        "keyword": "7월7일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[오늘의 운세] 7월 7일 화요일 (음력 5월 23일 壬午)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/07/06/4LMD4GLHERFO7I5PIVGIVJEJT4/"
+        }
+      },
+      {
+        "keyword": "이루",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘음주운전·바꿔치기’ 이루 복귀? 태진아 합동 무대에 ‘싸늘’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607061502003"
+        }
+      },
+      {
+        "keyword": "배틀그라운드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "대기업 기술실증부터 글로벌 진출까지…경과원, 33개사 모집",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260706133303409"
+        }
+      }
+    ]
   }
 ]
