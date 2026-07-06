@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-07T02:45:37.812382+09:00",
-  "label": "02:45",
+  "timestamp": "2026-07-07T04:42:26.841181+09:00",
+  "label": "04:42",
   "items": [
     {
-      "keyword": "두산 로보틱스",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "포르투갈 대 스페인",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "40만원 간다더니 반토막 났다…LG전자 개미들 '피눈물' [종목+]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026070683066"
+        "title": "'우승 0순위' 프랑스·모로코 8강 선착… 타짜들만 남은 16강, 아시아는 '전멸' [2026 월드컵]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/YUG3GMOcon"
       }
     },
     {
@@ -23,6 +23,16 @@
       }
     },
     {
+      "keyword": "정보통신망법",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"북한군이 5·18 주도\" 유튜브 방송하면‥내일부터 최대 10억 원 과징금",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260706200704406"
+      }
+    },
+    {
       "keyword": "tvn",
       "traffic_raw": "2000+",
       "traffic": 2000,
@@ -33,13 +43,23 @@
       }
     },
     {
-      "keyword": "7월7일 정보통신망법",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "portugal vs spain",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[사설] 허위정보와의 싸움, 건강한 비판까지 막으면 안 된다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260707013216648"
+        "title": "Portugal vs Spain LIVE: Watch World Cup 2026 last 16 stream, score, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cze9xg6480gt"
+      }
+    },
+    {
+      "keyword": "교도관",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "뇌물 받고 편의 봐준 혐의로 재판받던 대전 교도관 숨진 채 발견",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260706132800063"
       }
     },
     {
@@ -63,16 +83,6 @@
       }
     },
     {
-      "keyword": "알렉산드라 이알라",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/"
-      }
-    },
-    {
       "keyword": "7월7일",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘음주운전·바꿔치기’ 이루 복귀? 태진아 합동 무대에 ‘싸늘’",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607061502003"
-      }
-    },
-    {
-      "keyword": "배틀그라운드",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "대기업 기술실증부터 글로벌 진출까지…경과원, 33개사 모집",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706133303409"
+        "title": "'태진아子' 이루, 치매 母 위해 '까만 안경' 열창…강수지 \"가슴 뭉클\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070703003063986"
       }
     }
   ]
