@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-06T20:55:10.956949+09:00",
-  "label": "20:55",
+  "timestamp": "2026-07-06T23:59:36.537963+09:00",
+  "label": "23:59",
   "items": [
     {
-      "keyword": "나승엽",
+      "keyword": "두산로보틱스",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "LG전자, 2분기 영업익 1조 회복하나…'깜짝 실적' 기대감",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260706074518703"
+      }
+    },
+    {
+      "keyword": "박지성",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "\"나승엽·윤동희 거의 바닥, 오늘까지는 기회 주겠는데…\" 최후의 최후통첩도 끝났다, 김태형 감독 끝내 결단 내리나 [수원 현장]",
+        "title": "[IS 현장] 박지성 차기 축구협회장 불출마 선언! 그 이유는 바로 '공정성과 신뢰'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260706044118006"
+        "url": "https://v.daum.net/v/20260706184000794"
       }
     },
     {
-      "keyword": "드라마",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "혈관",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "조국, 이번엔 ‘김부장’ 겨냥... “5분 23초 사용 의문”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706113306143"
+        "title": "“아침에 먹으면 혈관 굳는다”… 의사가 꼽은 ‘최악의 음식’",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070301752.html"
       }
     },
     {
-      "keyword": "바나나",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"맛있어지니 1등 뺏었잖아\"…'편의점 절대강자' 바나나우유 매출 제친 '이 음료'",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026070519270004948"
-      }
-    },
-    {
-      "keyword": "검찰",
+      "keyword": "tvn",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[단독] 김가네 김용만 회장, 회삿돈 횡령 혐의로 검찰 송치",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8603272"
+        "title": "Norbi na Koloniach Letnich Dzień Dobry TVN",
+        "source": "Dzień Dobry TVN",
+        "url": "https://dziendobry.tvn.pl/najnowsze/norbi-na-koloniach-letnich-dzien-dobry-tvn-vd9129995"
       }
     },
     {
-      "keyword": "이의리",
+      "keyword": "독사",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "KIA 이의리 日유학 효과 톡톡…울산 웨일즈전 3이닝 KKKK에 1볼넷 무실점, 공포의 롱릴리프로 귀환하나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706152804756"
+        "title": "뱀 물리면 입으로 빨아내라?…남편 살리려다 아내까지",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026070510535209513"
       }
     },
     {
-      "keyword": "이복현",
+      "keyword": "알렉산드라 이알라",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "검사 출신 이복현 前금감원장, 중앙그룹 채권투자자 변호 맡을듯",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706174111610"
-      }
-    },
-    {
-      "keyword": "가족관계증명서",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'가족관계증명서' 첫방부터 휘몰아쳤다…박세영 \"가까스로 살고 있다\" 눈물(가족관계증명서)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706195525179"
-      }
-    },
-    {
-      "keyword": "안규백",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "국방부, ‘사관학교 통합’ 발표 100분전 돌연 취소…반대여론 의식했나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706162400755"
-      }
-    },
-    {
-      "keyword": "홍서범",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘임신 중 여교사와 불륜 논란’ 홍서범 아들, 양육비도 안 줬나…전처 “양육비 보내세요”",
-        "source": "헤럴드경제",
-        "url": "https://biz.heraldcorp.com/article/10798593"
-      }
-    },
-    {
-      "keyword": "장윤기 수사 팀장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "장윤기 수사팀장, 케이블타이 없애고 부친과 수십차례 통화",
+        "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
         "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/07/06/PUCTJ6SW35DQ3BBYBYGIA67REY/"
+        "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/"
+      }
+    },
+    {
+      "keyword": "tkms",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Germany says TKMS submarine win would bring Canada closer to Europe",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/german-officiall-tkms-submarine-win-would-bring-canada-closer-europe-2026-07-06/"
+      }
+    },
+    {
+      "keyword": "아틀레티코 마드리드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"이강인, 이적료 700억원에 AT 마드리드행 합의\" 보도",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260706157000007"
+      }
+    },
+    {
+      "keyword": "7월7일 정보통신망법",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "명백한 '가짜'는 플랫폼이 삭제…판단 어려울 땐?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260706201814658"
+      }
+    },
+    {
+      "keyword": "배틀그라운드",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "대기업 기술실증부터 글로벌 진출까지…경과원, 33개사 모집",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260706133303409"
       }
     }
   ]
