@@ -1580,5 +1580,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-08T08:47:01.151417+09:00",
+    "label": "08:47",
+    "items": [
+      {
+        "keyword": "금",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "뉴욕금값, 금리 인상 전망 후퇴에 상승…금 선물 1.0%↑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zk1GGZ6bvt"
+        }
+      },
+      {
+        "keyword": "신생아",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘주 136시간’ 중증 신생아 홀로 책임지는 의사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/welfare-medical/2026/07/08/FEJQPG45AVGJZCGYKPOQRSQRT4/"
+        }
+      },
+      {
+        "keyword": "인공지능",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"중국 딥시크, 자체 AI칩 개발 추진…엔비디아·화웨이 의존↓\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/86RumuiP3m"
+        }
+      },
+      {
+        "keyword": "노동조합",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"성과금 350%+950만원\" 현대차 제시에도...노조 \"갈 길 가겠다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/07/07/2026070717523796701"
+        }
+      },
+      {
+        "keyword": "xrp 레저",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "스텔라, 온체인 실물자산 30억달러 넘겼다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260707n36884"
+        }
+      },
+      {
+        "keyword": "미국 이란",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "미, 이란에 강력 공습 개시…이란 \"양해각서 위반\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260708073332umo"
+        }
+      },
+      {
+        "keyword": "สภาพอากาศ",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "สภาพอากาศวันนี้ 42 จังหวัด เตรียมเจอฝนถล่ม เหนือ-อีสาน ตกหนัก | Khaosod",
+          "source": "LINE TODAY",
+          "url": "https://today.line.me/th/v3/article/eLKjvRK"
+        }
+      },
+      {
+        "keyword": "과일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“신선한 게 최고?”… 냉동하면 좋은 음식 3가지",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/07/06/2026070601242.html"
+        }
+      },
+      {
+        "keyword": "어머니",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'강희선 아들' 안은석 \"장례 마쳤다…아픔 없이 편히 쉬세요\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/07/2026070709173141076"
+        }
+      },
+      {
+        "keyword": "天気",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "8日 九州で35℃以上の猛暑日も",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/pickup/6587092"
+        }
+      }
+    ]
   }
 ]
