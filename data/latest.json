@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-07-07T09:07:10.836851+09:00",
-  "label": "09:07",
+  "timestamp": "2026-07-07T13:42:11.084650+09:00",
+  "label": "13:42",
   "items": [
     {
-      "keyword": "잠수함 발사 탄도 미사일",
+      "keyword": "보조금",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "대만, 중국의 태평양 SLBM 시험발사 규탄…\"국제사회 위협\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260706152900083"
+        "title": "보조금 끊기자 \"직접 쏘겠다\"…파격 승부수 내건 '전기車'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607068304g"
       }
     },
     {
-      "keyword": "넷플릭스",
+      "keyword": "심혜진",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
-        "source": "헤럴드경제",
-        "url": "https://biz.heraldcorp.com/article/10798549"
+        "title": "'심혜진 훈남 조카' 심재원 \"父 미국인, 군대 다녀왔다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qsAgn4Eolz"
       }
     },
     {
-      "keyword": "김효주",
+      "keyword": "황신혜",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "역전 우승 주인공 김효주…아버지에 최고의 생일선물 선사",
+        "title": "'같이삽시다' 신계숙 \"중학 동창 최명길, 오드리 헵번으로 불려\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260707000835998"
+        "url": "https://v.daum.net/v/20260707093600121"
       }
     },
     {
-      "keyword": "장금상선",
+      "keyword": "집단 소송",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "위치신호 끄고, 한밤중 '풀액셀'...\"1800억 벌었다\" 원유 나른 한국 해운사 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/world/2026/07/07/2026070616405511205"
+        "title": "\"7년 넘게 전분당 가격 짜고 올렸다\"…역대 최대 7476억 과징금",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260707n16530"
       }
     },
     {
-      "keyword": "보잉 f-47",
+      "keyword": "사이드카",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Boeing Lost the F-35 in 2001 — and the U.S. Air Force Designed the F-47 NGAD Specifically to Avoid What That Loss Created",
-        "source": "19FortyFive",
-        "url": "https://www.19fortyfive.com/2026/07/boeing-lost-the-f-35-in-2001-and-the-u-s-air-force-designed-the-f-47-ngad-specifically-to-avoid-what-that-loss-created/"
+        "title": "삼성전자 역대 최대 실적에도 코스피 급락 7,500대까지 밀려‥매도 사이드카도",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6835572_36932.html"
       }
     },
     {
-      "keyword": "프로포폴",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "출근 첫날, 폐주사기 프로포폴 모아 스스로 맞은 간호조무사",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11600688"
-      }
-    },
-    {
-      "keyword": "재테크",
+      "keyword": "초복",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[싱글족 재테크] 지출은 늘었는데 월급은 그대로…1인 가구 위한 현실적인 재테크 전략은?",
-        "source": "시사캐스트",
-        "url": "http://www.sisacast.kr/news/articleView.html?idxno=97463"
+        "title": "삼계탕으로 더위 이기세요",
+        "source": "뉴시스",
+        "url": "https://mobile.newsis.com/photo/NISI20260707_0021353493"
       }
     },
     {
-      "keyword": "유성구",
+      "keyword": "독도",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'속전속결' vs '기싸움'…대전 자치구의회 원 구성 희비",
+        "title": "첫 공개된 1948년 미군 기밀문서에 적힌 문구 “독도는 한국의 일부”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607071147001"
+      }
+    },
+    {
+      "keyword": "골프장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'2인 플레이' 대세…'올 여름 골프 휴가 트렌드'",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/article/2026070712370678024"
+      }
+    },
+    {
+      "keyword": "세종문화회관",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "배우 숨 가쁘게 오가는 곳…세종문화회관 무대 뒤 또다른 풍경",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260706173201245"
+        "url": "https://v.daum.net/v/20260707000314789"
       }
     },
     {
-      "keyword": "iren",
+      "keyword": "미국 월드컵",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "IREN Stock Climbs 5% Overnight As Speculation Builds Over Anthropic Contract",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-climbs-5-overnight-020654996.html"
+        "title": "브라질 잡고 잇몸 만개! 홀란, 유니폼 훌렁 벗고 공주님과 포옹...'바이킹 노 젓기' 세리머니까지 \"인생 최고의 날, 비현실적이야\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/07/07/GEZDMNJXGFRDAMTDHEYTENRXMI/"
       }
-    },
-    {
-      "keyword": "하무스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }

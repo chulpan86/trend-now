@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-07-05T22:07:57.325188+09:00",
-    "label": "22:07",
-    "items": [
-      {
-        "keyword": "경제",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[기획] 반도체 호황 ‘남 일’… 청년고용 멈췄다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705185231735"
-        }
-      },
-      {
-        "keyword": "박은영",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "박은영, 결혼식 현장 공개..단아한 웨딩 드레스 자태 \"사랑해\"[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705191921077"
-        }
-      },
-      {
-        "keyword": "지상렬",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"결혼만 남았다\"…지상렬, 신보람과 '볼뽀뽀' 사진 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260704_0003696000"
-        }
-      },
-      {
-        "keyword": "погода завтра",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Жителей Башкирии предупредили о грозах с градом",
-          "source": "Электрогазета",
-          "url": "https://i-gazeta.com/news/novosti/2026-07-05/zhiteley-bashkirii-predupredili-o-grozah-s-gradom-4741347"
-        }
-      },
-      {
-        "keyword": "이상민",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'69억 빚 청산' 이상민, 지난해 수입 '15억' 깜짝 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260704_0003695918"
-        }
-      },
-      {
-        "keyword": "sk텔레콤",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "SKT의 대담한 도전…1000조원 넘는 AI 데이터센터 구축한다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705211433299"
-        }
-      },
-      {
-        "keyword": "쿠키뉴스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "클롭",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[월드컵] 독일 감독 유력 클롭, 협상 인정…\"완벽하진 않지만 좋은 시기\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260705024400007"
-        }
-      },
-      {
-        "keyword": "농구",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "남자농구, 대만에 월드컵 예선 80-82 분패",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260705004700038"
-        }
-      },
-      {
-        "keyword": "베라 왕",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"77살 맞아?\" 파격 드레스 입은 베라 왕…매일 밤 챙겨 마신다는 '이것'의 정체 [헬스톡]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/b2OJAeCEaZ"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-06T00:05:44.666786+09:00",
-    "label": "00:05",
-    "items": [
-      {
-        "keyword": "박은영",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "박은영, 결혼식 현장 공개..단아한 웨딩 드레스 자태 \"사랑해\"[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705191921077"
-        }
-      },
-      {
-        "keyword": "이엘",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "공유, '도깨비' 촬영 당시 쓰러졌다…\"한 주 휴방, 모두 잘 버텼다\" ('도깨비 10주년') [종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705231318386"
-        }
-      },
-      {
-        "keyword": "파산",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "MBK, 빚내서 홈플 인수…팔았던 ‘알짜 점포’ 빌려 쓰다 파산행",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1266814.html"
-        }
-      },
-      {
-        "keyword": "강회장",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'강회장' 캐릭터 비호감 높인 정재성 살벌한 열연",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705232102412"
-        }
-      },
-      {
-        "keyword": "이하늘",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이하늘, '신고 1000건' 곱창집 수입 공개 \"하루에 두 달치 월급 벌어\" [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705144118692"
-        }
-      },
-      {
-        "keyword": "출혈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "브라질 노르웨이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "천하의 브라질 축구가 한번도 못 이긴 팀이 있다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/07/05/GZTGGY3FGEZTCMZXGRSWEMTCHA/"
-        }
-      },
-      {
-        "keyword": "대전 도시철도 2호선",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "장마 앞둔 대전, ‘배수’만으론 못 막는다",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1167452"
-        }
-      },
-      {
-        "keyword": "전국학교비정규직노동조합",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'시급 8천원' 학교비정규직 1만명 \"새 교육감, 예산으로 답하라\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260704152701214?f=p"
-        }
-      },
-      {
-        "keyword": "신봉선",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'47세 미혼' 신봉선, \"월 100만원씩 10년간 모았다…엄마는 혼자될까 봐 걱정\" ('미우새')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705215751788"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-06T01:55:32.905687+09:00",
     "label": "01:55",
     "items": [
@@ -1892,6 +1688,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-07T13:42:11.084650+09:00",
+    "label": "13:42",
+    "items": [
+      {
+        "keyword": "보조금",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "보조금 끊기자 \"직접 쏘겠다\"…파격 승부수 내건 '전기車'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607068304g"
+        }
+      },
+      {
+        "keyword": "심혜진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'심혜진 훈남 조카' 심재원 \"父 미국인, 군대 다녀왔다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qsAgn4Eolz"
+        }
+      },
+      {
+        "keyword": "황신혜",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'같이삽시다' 신계숙 \"중학 동창 최명길, 오드리 헵번으로 불려\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707093600121"
+        }
+      },
+      {
+        "keyword": "집단 소송",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"7년 넘게 전분당 가격 짜고 올렸다\"…역대 최대 7476억 과징금",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260707n16530"
+        }
+      },
+      {
+        "keyword": "사이드카",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성전자 역대 최대 실적에도 코스피 급락 7,500대까지 밀려‥매도 사이드카도",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6835572_36932.html"
+        }
+      },
+      {
+        "keyword": "초복",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼계탕으로 더위 이기세요",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260707_0021353493"
+        }
+      },
+      {
+        "keyword": "독도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "첫 공개된 1948년 미군 기밀문서에 적힌 문구 “독도는 한국의 일부”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607071147001"
+        }
+      },
+      {
+        "keyword": "골프장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'2인 플레이' 대세…'올 여름 골프 휴가 트렌드'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026070712370678024"
+        }
+      },
+      {
+        "keyword": "세종문화회관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "배우 숨 가쁘게 오가는 곳…세종문화회관 무대 뒤 또다른 풍경",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707000314789"
+        }
+      },
+      {
+        "keyword": "미국 월드컵",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "브라질 잡고 잇몸 만개! 홀란, 유니폼 훌렁 벗고 공주님과 포옹...'바이킹 노 젓기' 세리머니까지 \"인생 최고의 날, 비현실적이야\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/07/GEZDMNJXGFRDAMTDHEYTENRXMI/"
+        }
       }
     ]
   }
