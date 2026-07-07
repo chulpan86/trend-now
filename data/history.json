@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-05T20:23:09.217920+09:00",
-    "label": "20:23",
-    "items": [
-      {
-        "keyword": "nc 대 kia",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "프로야구 NC-KIA 광주 경기 장맛비로 취소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260705039600007"
-        }
-      },
-      {
-        "keyword": "경제",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[기획] 반도체 호황 ‘남 일’… 청년고용 멈췄다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705185231735"
-        }
-      },
-      {
-        "keyword": "fc 서울 대 인천",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "윤정환 인천 감독, 대표팀 사령탑 거론에 \"아직 내 위치 아냐\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260705043000007"
-        }
-      },
-      {
-        "keyword": "광주 대 울산",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "골프",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "KLPGA 우승한 김효주 \"자신감 갖고 에비앙 챔피언십 준비\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260705036700007"
-        }
-      },
-      {
-        "keyword": "변진섭",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "황영조, 변진섭 골프공 맞아 귀 50바늘 \"이제 골프 안 쳐\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260705_0003696024"
-        }
-      },
-      {
-        "keyword": "홍준표",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "홍준표 \"호남 반도체, 국가에 굉장한 이득…반대 말아야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260705160901561"
-        }
-      },
-      {
-        "keyword": "김용범",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[속보]김용범 “AI는 기업이 만들지만 전력망은 국가의 일”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11600303"
-        }
-      },
-      {
-        "keyword": "클롭",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[월드컵] 독일 감독 유력 클롭, 협상 인정…\"완벽하진 않지만 좋은 시기\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260705024400007"
-        }
-      },
-      {
-        "keyword": "농구",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "남자농구, 대만에 월드컵 예선 80-82 분패",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260705004700038"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-05T22:07:57.325188+09:00",
     "label": "22:07",
     "items": [
@@ -1892,6 +1790,108 @@
           "source": "Pluang",
           "url": "https://pluang.com/en/news-feed/rocq-etf-pilihan-efisien-pajak-dengan-potensi-pertumbuhan-lebih-besar"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-07T09:07:10.836851+09:00",
+    "label": "09:07",
+    "items": [
+      {
+        "keyword": "잠수함 발사 탄도 미사일",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "대만, 중국의 태평양 SLBM 시험발사 규탄…\"국제사회 위협\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260706152900083"
+        }
+      },
+      {
+        "keyword": "넷플릭스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“억지 코믹 대사” “너무 올드한 개그” 쏟아지는 혹평에도 1위 알고보니…넷플릭스 알고리즘 힘",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10798549"
+        }
+      },
+      {
+        "keyword": "김효주",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "역전 우승 주인공 김효주…아버지에 최고의 생일선물 선사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707000835998"
+        }
+      },
+      {
+        "keyword": "장금상선",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "위치신호 끄고, 한밤중 '풀액셀'...\"1800억 벌었다\" 원유 나른 한국 해운사 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/07/07/2026070616405511205"
+        }
+      },
+      {
+        "keyword": "보잉 f-47",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Boeing Lost the F-35 in 2001 — and the U.S. Air Force Designed the F-47 NGAD Specifically to Avoid What That Loss Created",
+          "source": "19FortyFive",
+          "url": "https://www.19fortyfive.com/2026/07/boeing-lost-the-f-35-in-2001-and-the-u-s-air-force-designed-the-f-47-ngad-specifically-to-avoid-what-that-loss-created/"
+        }
+      },
+      {
+        "keyword": "프로포폴",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "출근 첫날, 폐주사기 프로포폴 모아 스스로 맞은 간호조무사",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11600688"
+        }
+      },
+      {
+        "keyword": "재테크",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[싱글족 재테크] 지출은 늘었는데 월급은 그대로…1인 가구 위한 현실적인 재테크 전략은?",
+          "source": "시사캐스트",
+          "url": "http://www.sisacast.kr/news/articleView.html?idxno=97463"
+        }
+      },
+      {
+        "keyword": "유성구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'속전속결' vs '기싸움'…대전 자치구의회 원 구성 희비",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260706173201245"
+        }
+      },
+      {
+        "keyword": "iren",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "IREN Stock Climbs 5% Overnight As Speculation Builds Over Anthropic Contract",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-climbs-5-overnight-020654996.html"
+        }
+      },
+      {
+        "keyword": "하무스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
       }
     ]
   }
