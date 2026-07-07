@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-06T11:51:53.639823+09:00",
-    "label": "11:51",
-    "items": [
-      {
-        "keyword": "벤투",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 파울루 벤투 감독, 차기 한국 대표팀 사령탑 지원 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/06/2026070608333769806"
-        }
-      },
-      {
-        "keyword": "리얼미터",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘지방 투자’ 카드 통했나… 李대통령 지지율 7주 만에 소폭 반등 47.0%[리얼미터]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706091518528"
-        }
-      },
-      {
-        "keyword": "잉글랜드 축구 국가대표팀",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "잉글랜드 대표팀, 출전수당 모두 기부 20년째…축구 종주국의 ‘프라이드’ [아하 월드컵]",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/sports/sportstemp/worldcup/1266682.html"
-        }
-      },
-      {
-        "keyword": "앤서니 고든",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "England 2-1 Congo DR (Jul 1, 2026) Game Analysis",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/report/_/gameId/760495"
-        }
-      },
-      {
-        "keyword": "자영업",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'5년 이상 버티다 폐업' 최다…20년 넘은 음식점도 사라져",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706055309790"
-        }
-      },
-      {
-        "keyword": "이현중",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘11득점’ 이현중, 외곽·돌파 모두 빛났다…서머리그 최고 활약",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8602965"
-        }
-      },
-      {
-        "keyword": "이규혁",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이규혁♥손담비, 붕어빵 딸과 속초 여행 \"4시간 운전, 좋은데 너무 힘들다\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260706n04293"
-        }
-      },
-      {
-        "keyword": "레몬헬스케어",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[특징주] 레몬헬스케어, 코스닥 상장 첫날 장 초반 52% 상승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260706032100008"
-        }
-      },
-      {
-        "keyword": "입건",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "지하철 좌석 시비에 승객 2명 폭행한 50대 입건",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706102505148"
-        }
-      },
-      {
-        "keyword": "조원빈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'최고 유망주 투수'에게도 홈런…승격 후 '9경기 6홈런'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260704204208645?f=p"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-06T16:01:57.189647+09:00",
     "label": "16:01",
     "items": [
@@ -1365,6 +1259,112 @@
           "title": "정웅인 둘째 딸, 성형 의혹에 \"병원 정보? 저희 엄마 아빠\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260707_0003699155"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-08T02:05:04.963972+09:00",
+    "label": "02:05",
+    "items": [
+      {
+        "keyword": "전원주",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "‘민주당유세’왔던 전원주, 전한길집회도 등장?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11600673"
+        }
+      },
+      {
+        "keyword": "아르헨티나 대 이집트",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'신' 메시 다음 상대는 '파라오' 살라…최다골 또 경신한다[월드컵24시]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260707_0003699170"
+        }
+      },
+      {
+        "keyword": "매일경제",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[전기로 혁신②] 포스코, 국내 최대 전기로 준공···탈탄소 투트랙 '녹색 철강' 선도",
+          "source": "서울파이낸스",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=632623"
+        }
+      },
+      {
+        "keyword": "최저 임금 위원회",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "2027년 최저임금 최소 1만460원 이상…990원까지 격차 줄어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707185633214"
+        }
+      },
+      {
+        "keyword": "argentina vs egypt",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Yasser Ibrahim Powers Home Header to Put Egypt Ahead of Argentina | 2026 FIFA World Cup",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/watch/fmc-v440xmqjmfsoi30f"
+        }
+      },
+      {
+        "keyword": "윔블던 2026",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/"
+        }
+      },
+      {
+        "keyword": "쓸쓸하고 찬란하神 - 도깨비",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "10년이 지났다고요?...'도깨비'·'응답하라'·'구르미', 추억도 감성도 다시 켰다 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707121206965"
+        }
+      },
+      {
+        "keyword": "kt wiz",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "So Hyung-jun outduels An Woo-jin as KT edges Kiwoom 3-0 in Suwon - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/08/3CTRK3HY5ZGGTD2VK7MUGFEACY/"
+        }
+      },
+      {
+        "keyword": "고준희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "고준희, 학창시절 트라우마 고백…\"손목 잡힌 채 끌려가\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260707_0003698558"
+        }
+      },
+      {
+        "keyword": "월드컵 경기 일정",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"하늘까지 돕는 리오넬 메시 2연패\" 슈퍼컴퓨터가 선택한 우승확률 1위 프랑스, 2위 스페인. 한 팀은 4강에서 제거된다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/07/07/GVSDAMRXGYYDEY3DMQYDMNBVHA/"
         }
       }
     ]
