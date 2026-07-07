@@ -1474,5 +1474,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-08T07:51:15.404043+09:00",
+    "label": "07:51",
+    "items": [
+      {
+        "keyword": "수건",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "수건 교체 시기 2년? 아니다…논문으로 확인한 수건 관리 방법 8가지",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=744442"
+        }
+      },
+      {
+        "keyword": "노바크 조코비치",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "조코비치, 윔블던 통산 105승...‘황제' 페더러와 타이 기록 세우며 16강 올라",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/04/CUGJVL4KXVGHXMNCGL3SETNQOE/"
+        }
+      },
+      {
+        "keyword": "배재고등학교",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘왕 전문’ 배우 임호, 배재고 5·18 참배 동행…“후배들 공부 많이 됐을 것”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1267095.html"
+        }
+      },
+      {
+        "keyword": "kf-21 보라매",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“전투기값 70% 빌려주겠다”…한국, 필리핀에 KF-21 20대 승부수 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260703601009"
+        }
+      },
+      {
+        "keyword": "차영현",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'179cm 49kg' 차영현 치어리더의 완벽한 비율 [치얼UP영상]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260706n03351"
+        }
+      },
+      {
+        "keyword": "spcx",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Stock Market Today: Nasdaq Slides After Samsung Sparks Tech Selloff — Live Updates",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026"
+        }
+      },
+      {
+        "keyword": "한강",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한강 \"서점 세든 건물 팔려 영업 종료‥함께한 손님들께 감사\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6835737_36918.html"
+        }
+      },
+      {
+        "keyword": "연애전쟁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'연애전쟁' 이준 \"T지만 연인에겐 다른 말투\"…연애관 공개 [RE:TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708045142686"
+        }
+      },
+      {
+        "keyword": "경기도의회",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "경기도-경기도의회, 출발부터 묘한 기류…추미애 “감액”-남종섭 “검토 후 결정”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707172910324"
+        }
+      },
+      {
+        "keyword": "투표용지",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "잠실 247만장 투표함 여나… 여야, 재검표 합의 수순",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/07/08/A45JWLLPKVCPFB5O3U3XTSCI3I/"
+        }
+      }
+    ]
   }
 ]
