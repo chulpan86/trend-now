@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-07T13:42:11.084650+09:00",
-  "label": "13:42",
+  "timestamp": "2026-07-07T17:14:45.353520+09:00",
+  "label": "17:14",
   "items": [
     {
-      "keyword": "보조금",
+      "keyword": "진태현",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "제주 카페 뛰어든 이동건 ‘휴업’..이상순은 폐업, 박한별만 남았다 [Oh!쎈 이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260707102506691"
+      }
+    },
+    {
+      "keyword": "정태영",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "보조금 끊기자 \"직접 쏘겠다\"…파격 승부수 내건 '전기車'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607068304g"
+        "title": "정태영 부회장, 작심 발언, 홍명보, 뼈 때리는 일침...\"국민한테 최종 보고하는 일, 이렇게 어금니 악물고 힘들게 말할 정도인지 모르겠다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260707111718928"
       }
     },
     {
-      "keyword": "심혜진",
+      "keyword": "마석 도",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": {
-        "title": "'심혜진 훈남 조카' 심재원 \"父 미국인, 군대 다녀왔다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qsAgn4Eolz"
-      }
+      "news": null
     },
     {
-      "keyword": "황신혜",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'같이삽시다' 신계숙 \"중학 동창 최명길, 오드리 헵번으로 불려\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260707093600121"
-      }
-    },
-    {
-      "keyword": "집단 소송",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"7년 넘게 전분당 가격 짜고 올렸다\"…역대 최대 7476억 과징금",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260707n16530"
-      }
-    },
-    {
-      "keyword": "사이드카",
+      "keyword": "베트남 축구 국가대표팀",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "삼성전자 역대 최대 실적에도 코스피 급락 7,500대까지 밀려‥매도 사이드카도",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6835572_36932.html"
-      }
-    },
-    {
-      "keyword": "초복",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "삼계탕으로 더위 이기세요",
-        "source": "뉴시스",
-        "url": "https://mobile.newsis.com/photo/NISI20260707_0021353493"
-      }
-    },
-    {
-      "keyword": "독도",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "첫 공개된 1948년 미군 기밀문서에 적힌 문구 “독도는 한국의 일부”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607071147001"
-      }
-    },
-    {
-      "keyword": "골프장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'2인 플레이' 대세…'올 여름 골프 휴가 트렌드'",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026070712370678024"
-      }
-    },
-    {
-      "keyword": "세종문화회관",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "배우 숨 가쁘게 오가는 곳…세종문화회관 무대 뒤 또다른 풍경",
+        "title": "베트남, 韓 전지훈련 첫 경기 6-0 승리... 현지선 \"3부 팀 이긴 게 자랑?\" 반응도",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260707000314789"
+        "url": "https://v.daum.net/v/20260706212555887"
       }
     },
     {
-      "keyword": "미국 월드컵",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "땅집고",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "브라질 잡고 잇몸 만개! 홀란, 유니폼 훌렁 벗고 공주님과 포옹...'바이킹 노 젓기' 세리머니까지 \"인생 최고의 날, 비현실적이야\"",
+        "title": "대구 상가 공실 늘고, 임대료 하락…7월엔 재산세 부담까지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260707161503543"
+      }
+    },
+    {
+      "keyword": "서영교",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "정점식 \"장윤기 사건, 경찰 유착... 檢 보완수사 없었다면 영영 은폐\"",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/07/07/GEZDMNJXGFRDAMTDHEYTENRXMI/"
+        "url": "https://www.chosun.com/politics/assembly/2026/07/07/SXAU6QGHJFFUXIW5SGUYETC5LQ/"
+      }
+    },
+    {
+      "keyword": "금호건설",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[부고] 김지형(매일일보 건설사회부장)씨 부친상",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260707093300505"
+      }
+    },
+    {
+      "keyword": "최지광",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이승민·최지광, 삼성서 어떤 삶을 살고 있길래…투수 선배의 증언 \"얘들 덕에 투수진 끈끈해져\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260707102551738"
+      }
+    },
+    {
+      "keyword": "여름 폭염",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "경산시지역협의체, '시원한 여름나기' 사랑의 물품 지원",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260707_0003699424"
+      }
+    },
+    {
+      "keyword": "이란전쟁",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "전쟁 나자 단톡방에서 \"트럼프 만세\"‥4대 정유사 \"26조 짬짜미\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6835405_37004.html"
       }
     }
   ]
