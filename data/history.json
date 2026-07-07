@@ -1368,5 +1368,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-08T06:14:48.405757+09:00",
+    "label": "06:14",
+    "items": [
+      {
+        "keyword": "대한민국 축구 국가대표팀",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "벤투 감독, 한국 대표팀 복귀 원한다…대한축구협회에 의사 전달",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/28UbOC71Yl"
+        }
+      },
+      {
+        "keyword": "월드컵 대진표",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"하늘까지 돕는 리오넬 메시 2연패\" 슈퍼컴퓨터가 선택한 우승확률 1위 프랑스, 2위 스페인. 한 팀은 4강에서 제거된다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/07/07/GVSDAMRXGYYDEY3DMQYDMNBVHA/"
+        }
+      },
+      {
+        "keyword": "카르 다노",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "카르다노 31% 반등…2028년까지 7400% 상승 여지 열렸다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260707n10645"
+        }
+      },
+      {
+        "keyword": "홍지윤",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "송가인, '직속 후배' 홍지윤에 문자 투표 인증 \"잘해라 진짜\" [순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XeBfQoyOSp?f=p"
+        }
+      },
+      {
+        "keyword": "농민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "내달 27일부터 농산물 가격 하락분 지원…'가격안정제' 시행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260707144700030"
+        }
+      },
+      {
+        "keyword": "switzerland vs colombia",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Switzerland vs Colombia LIVE: FIFA World Cup 2026 last 16 score, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t"
+        }
+      },
+      {
+        "keyword": "england vs india",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "India vs England 3rd T20I in pictures: Biggest defeat for the world champions",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/photos/india-vs-england-3rd-t20i-in-pictures-biggest-defeat-for-the-world-champions-101783441612825.html"
+        }
+      },
+      {
+        "keyword": "수도권 광역급행철도 c노선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] GTX-C, 2년만에 공사 재개…도봉·의정부 기대감",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12092601"
+        }
+      },
+      {
+        "keyword": "체중 증가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "매일 80분씩 덜 잤더니…'놀라운' 신체 변화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/43ipMeCEUu"
+        }
+      },
+      {
+        "keyword": "디에고 시메오네",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이강인 ‘다시 스페인’ 끈질긴 구애해 온 AT 마드리드로···연봉 100억원에 이적 확정",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607071717001"
+        }
+      }
+    ]
   }
 ]

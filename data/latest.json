@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-07-08T04:41:05.256633+09:00",
-  "label": "04:41",
+  "timestamp": "2026-07-08T06:14:48.405757+09:00",
+  "label": "06:14",
   "items": [
+    {
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "벤투 감독, 한국 대표팀 복귀 원한다…대한축구협회에 의사 전달",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/28UbOC71Yl"
+      }
+    },
     {
       "keyword": "월드컵 대진표",
       "traffic_raw": "2000+",
@@ -13,93 +23,83 @@
       }
     },
     {
-      "keyword": "김태효",
+      "keyword": "카르 다노",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "카르다노 31% 반등…2028년까지 7400% 상승 여지 열렸다",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260707n10645"
+      }
+    },
+    {
+      "keyword": "홍지윤",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[속보] 특검 '계엄 정당화 메시지' 김태효 전 안보실 1차장 구속영장",
+        "title": "송가인, '직속 후배' 홍지윤에 문자 투표 인증 \"잘해라 진짜\" [순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/XeBfQoyOSp?f=p"
+      }
+    },
+    {
+      "keyword": "농민",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "내달 27일부터 농산물 가격 하락분 지원…'가격안정제' 시행",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260707170600004"
+        "url": "https://www.yna.co.kr/view/AKR20260707144700030"
       }
     },
     {
-      "keyword": "시메오네",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'이강인 새 감독 유력' 시메오네, 앙숙 베컴과 28년 만에 화해…'인생에서 가장 후회되는 순간'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/tQ3OfeCEro"
-      }
-    },
-    {
-      "keyword": "로메로",
+      "keyword": "switzerland vs colombia",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'신의 도전'은 계속된다…메시, 최초 '9경기 연속골' 조준[월드컵]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/xFQppZ6bH1"
+        "title": "Switzerland vs Colombia LIVE: FIFA World Cup 2026 last 16 score, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t"
       }
     },
     {
-      "keyword": "유시춘",
+      "keyword": "england vs india",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'법카 1960만원 유용 혐의' 유시춘 EBS 이사장…징역 1년 구형",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/gyeonggi/6218990"
+        "title": "India vs England 3rd T20I in pictures: Biggest defeat for the world champions",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/photos/india-vs-england-3rd-t20i-in-pictures-biggest-defeat-for-the-world-champions-101783441612825.html"
       }
     },
     {
-      "keyword": "콜롬비아",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "수도권 광역급행철도 c노선",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[AI프리뷰] 월드컵 8일 16강 스위스-콜롬비아전, 8강행 막차 누가 탑승하나",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260707001238"
+        "title": "[단독] GTX-C, 2년만에 공사 재개…도봉·의정부 기대감",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/12092601"
       }
     },
     {
-      "keyword": "lịch world cup 2026",
+      "keyword": "체중 증가",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Xác định 6 đội giành vé đi tiếp và 3 cặp đấu ở tứ kết World Cup 2026",
-        "source": "Báo Dân trí",
-        "url": "https://dantri.com.vn/the-thao/xac-dinh-6-doi-gianh-ve-di-tiep-va-3-cap-dau-o-tu-ket-world-cup-2026-20260707095710196.htm"
+        "title": "매일 80분씩 덜 잤더니…'놀라운' 신체 변화",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/43ipMeCEUu"
       }
     },
     {
-      "keyword": "อาร์เจนตินา พบ อียิปต์",
+      "keyword": "디에고 시메오네",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "อาร์เจนตินา-อียิปต์ ถ่ายทอดสดบนมือถือ ดูยังไงถึงจะชมแมตช์นี้ได้?",
-        "source": "Sortir à Paris",
-        "url": "https://www.sortiraparis.com/th/khaw/ni-paris/articles/348715-xarcentina-phb-xiyipt-thaythxd-sd-thang-mux-thux-ca-du-maetch-ni-yang-ngi"
-      }
-    },
-    {
-      "keyword": "世界杯",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "尼尔森球迷评分卡：每一位球迷，每一块屏幕",
-        "source": "Nielsen",
-        "url": "https://www.nielsen.com/zh/insights/2026/fan-scorecard-world-cup/"
-      }
-    },
-    {
-      "keyword": "аргентина – египет",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Месси не забил пенальти (видео). Аргентина - Египет. Чемпионат мира-2026. Футбол",
-        "source": "Sportbox",
-        "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2342248_clip_Messi_ne_zabil_penalti_video_Argentina___Jegipet_Chempionat_mira_2026_Futbol"
+        "title": "이강인 ‘다시 스페인’ 끈질긴 구애해 온 AT 마드리드로···연봉 100억원에 이적 확정",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607071717001"
       }
     }
   ]
