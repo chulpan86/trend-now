@@ -1,15 +1,65 @@
 {
-  "timestamp": "2026-07-09T04:06:53.378775+09:00",
-  "label": "04:06",
+  "timestamp": "2026-07-09T05:56:15.622292+09:00",
+  "label": "05:56",
   "items": [
     {
-      "keyword": "장윤기",
+      "keyword": "간",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"커피 하루 3~4잔 마시면 간암 위험 낮춰…설탕 첨가는 주의\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260708063144571"
+      }
+    },
+    {
+      "keyword": "아파트",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[단독] 사건 직후 서장 주재 회의‥\"함부로 누설 마라\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836015_37004.html"
+        "title": "아파트 분양가 고공행진 속 6월 공급물량 2배 이상↑",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370042"
+      }
+    },
+    {
+      "keyword": "티센 크루프 마린시스템",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "한-캐나다 정상회담 - 포토 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyPhotoView.do?bbsKey=72493"
+      }
+    },
+    {
+      "keyword": "슈퍼태풍",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"건물도 무너뜨릴 수 있다\"…태풍 '바비', 한반도 영향 어디까지? [Y녹취록]",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260708n19685"
+      }
+    },
+    {
+      "keyword": "일라이",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'일라이와 이혼' 지연수 \"곰탕집서 알바 중…제주 생활 정리해\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260706_0003698072"
+      }
+    },
+    {
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'최소 1400억 가져와'...토트넘에 엄포! 리버풀 '50골 23도움' FW 절대 헐값에 안 넘긴다, \"토트넘 영입 원하지만 쉽지 않아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/BckZUeCED0"
       }
     },
     {
@@ -23,27 +73,7 @@
       }
     },
     {
-      "keyword": "트레이드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘바람의 손자’ 이정후 트레이드 가능성 50%…소속팀 부진에 매물로 나오나",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20260708/134259964/1"
-      }
-    },
-    {
-      "keyword": "맥그리거 할로웨이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“내가 UFC 베스트 복서야” 맥그리거에게 던진 할로웨이의 한마디",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/7pDl6spXDu"
-      }
-    },
-    {
-      "keyword": "부산 날씨",
+      "keyword": "부산날씨",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
@@ -53,53 +83,23 @@
       }
     },
     {
-      "keyword": "아서 페리",
+      "keyword": "광주날씨",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "월드컵 못간 이탈리아, 테니스는 잘나가",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260708/134254753/2"
+        "title": "전남광주 영광낙월면에 호우·강풍주의보",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260708097500527"
       }
     },
     {
-      "keyword": "티비",
+      "keyword": "맥그리거 할로웨이",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "TV catchphrase quiz: Guess the show from the famous quote",
-        "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-        "url": "https://www.abc.net.au/news/2026-07-09/abc-tv-catchphrase-quiz/106879914"
-      }
-    },
-    {
-      "keyword": "프랑스 모로코",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "북중미월드컵 8강 프랑스-모로코전 프로토 승부식 80회차, 축구토토 매치 13회차 대상경기 편성",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_general/2026/07/08/MRSWGN3DGFQWCNRWGYYDMZDFGM/"
-      }
-    },
-    {
-      "keyword": "테일러 프리츠",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Fritz reflects on injury-hit Wimbledon exit: 'My focus was all over the place'",
-        "source": "ATP Tour",
-        "url": "https://www.atptour.com/en/news/fritz-reaction-wimbledon-2026-qf"
-      }
-    },
-    {
-      "keyword": "그리즈만",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "ATM에 이강인 자리 마련하고 떠났다…'MLS 클럽 입단' 그리즈만 '손흥민의 LAFC 레전드 같은 활약 펼치고 싶다'",
+        "title": "“내가 UFC 베스트 복서야” 맥그리거에게 던진 할로웨이의 한마디",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260708153131820"
+        "url": "https://v.daum.net/v/7pDl6spXDu?f=p"
       }
     }
   ]
