@@ -1690,5 +1690,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-09T07:00:17.076257+09:00",
+    "label": "07:00",
+    "items": [
+      {
+        "keyword": "서울 날씨",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[날씨] 전국 곳곳 강한 장맛비…충청·호남 최대 200㎜",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709062132230"
+        }
+      },
+      {
+        "keyword": "과일",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“여름엔 ‘이 과일’ 자제하세요”…의사의 경고, 왜?",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260709/134263988/1"
+        }
+      },
+      {
+        "keyword": "파업",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "현대차 노조, 13~15일 '부분 파업' 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709055245622"
+        }
+      },
+      {
+        "keyword": "기부",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "폭염 속 이웃 떠올린 30대 공무원…100만원 기부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XSO67xsAlM"
+        }
+      },
+      {
+        "keyword": "안철수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "안철수 “추경호, 한동훈 말 무시하고 당사 집결 지시한 것 아냐”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260708/134261228/1"
+        }
+      },
+      {
+        "keyword": "xrp 레저",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "연중 최저치 폭락했는데… 리플 신규 지갑 6000개 돌파, 비극의 전조인가",
+          "source": "핀포인트뉴스",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464831"
+        }
+      },
+      {
+        "keyword": "전새얀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "여자배구 SOOP, 전새얀·송은채 영입해 선수층 강화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708119500007"
+        }
+      },
+      {
+        "keyword": "희토류 원소",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[AFTER 8NEWS] \"희토류 재활용? 그게 가능하겠어!?\"…중국이 태클 건 일본 '도시광산'의 실체",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708175711947"
+        }
+      },
+      {
+        "keyword": "육군사관학교",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "육·해·공사 총동창회 궐기대회…\"사관학교 통합, 원점 재검토하라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/07/08/GY2G7QCR6FGZ5K2RCNC6YZXCOY/"
+        }
+      },
+      {
+        "keyword": "골 때리는 그녀들",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[다시보기] 골 때리는 그녀들 222회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/kickagoal/vod/68129/22000632644"
+        }
+      }
+    ]
   }
 ]

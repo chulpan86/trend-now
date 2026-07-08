@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-09T05:56:15.622292+09:00",
-  "label": "05:56",
+  "timestamp": "2026-07-09T07:00:17.076257+09:00",
+  "label": "07:00",
   "items": [
     {
-      "keyword": "간",
+      "keyword": "서울 날씨",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"커피 하루 3~4잔 마시면 간암 위험 낮춰…설탕 첨가는 주의\"",
+        "title": "[날씨] 전국 곳곳 강한 장맛비…충청·호남 최대 200㎜",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260708063144571"
+        "url": "https://v.daum.net/v/20260709062132230"
       }
     },
     {
-      "keyword": "아파트",
+      "keyword": "과일",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“여름엔 ‘이 과일’ 자제하세요”…의사의 경고, 왜?",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260709/134263988/1"
+      }
+    },
+    {
+      "keyword": "파업",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "현대차 노조, 13~15일 '부분 파업' 예고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260709055245622"
+      }
+    },
+    {
+      "keyword": "기부",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "아파트 분양가 고공행진 속 6월 공급물량 2배 이상↑",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370042"
+        "title": "폭염 속 이웃 떠올린 30대 공무원…100만원 기부",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/XSO67xsAlM"
       }
     },
     {
-      "keyword": "티센 크루프 마린시스템",
+      "keyword": "안철수",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "안철수 “추경호, 한동훈 말 무시하고 당사 집결 지시한 것 아냐”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260708/134261228/1"
+      }
+    },
+    {
+      "keyword": "xrp 레저",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "연중 최저치 폭락했는데… 리플 신규 지갑 6000개 돌파, 비극의 전조인가",
+        "source": "핀포인트뉴스",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464831"
+      }
+    },
+    {
+      "keyword": "전새얀",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한-캐나다 정상회담 - 포토 | 멀티미디어",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyPhotoView.do?bbsKey=72493"
-      }
-    },
-    {
-      "keyword": "슈퍼태풍",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"건물도 무너뜨릴 수 있다\"…태풍 '바비', 한반도 영향 어디까지? [Y녹취록]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260708n19685"
-      }
-    },
-    {
-      "keyword": "일라이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'일라이와 이혼' 지연수 \"곰탕집서 알바 중…제주 생활 정리해\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260706_0003698072"
-      }
-    },
-    {
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'최소 1400억 가져와'...토트넘에 엄포! 리버풀 '50골 23도움' FW 절대 헐값에 안 넘긴다, \"토트넘 영입 원하지만 쉽지 않아\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BckZUeCED0"
-      }
-    },
-    {
-      "keyword": "안드레이 산투스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"캐릭 밑에서 기량이 폭발할 수 있는 미드필더다\"…英 매체 맨유에 본머스 핵심 미드필더 적극 추천",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/QoXKahztIh"
-      }
-    },
-    {
-      "keyword": "부산날씨",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "창원·하동북부에 폭염주의보…김해 등 10곳 폭염주의보 유지",
+        "title": "여자배구 SOOP, 전새얀·송은채 영입해 선수층 강화",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708062700527"
+        "url": "https://www.yna.co.kr/view/AKR20260708119500007"
       }
     },
     {
-      "keyword": "광주날씨",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "희토류 원소",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "전남광주 영광낙월면에 호우·강풍주의보",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708097500527"
-      }
-    },
-    {
-      "keyword": "맥그리거 할로웨이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“내가 UFC 베스트 복서야” 맥그리거에게 던진 할로웨이의 한마디",
+        "title": "[AFTER 8NEWS] \"희토류 재활용? 그게 가능하겠어!?\"…중국이 태클 건 일본 '도시광산'의 실체",
         "source": "Daum",
-        "url": "https://v.daum.net/v/7pDl6spXDu?f=p"
+        "url": "https://v.daum.net/v/20260708175711947"
+      }
+    },
+    {
+      "keyword": "육군사관학교",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "육·해·공사 총동창회 궐기대회…\"사관학교 통합, 원점 재검토하라\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/diplomacy-defense/2026/07/08/GY2G7QCR6FGZ5K2RCNC6YZXCOY/"
+      }
+    },
+    {
+      "keyword": "골 때리는 그녀들",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[다시보기] 골 때리는 그녀들 222회",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/kickagoal/vod/68129/22000632644"
       }
     }
   ]
