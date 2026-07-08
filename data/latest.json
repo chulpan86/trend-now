@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-08T13:59:27.937447+09:00",
-  "label": "13:59",
+  "timestamp": "2026-07-08T16:29:39.643111+09:00",
+  "label": "16:29",
   "items": [
     {
-      "keyword": "문화일보",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "미군 \"이란 공습 완료…80개 이상 목표물 타격\"(상보)",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423962"
-      }
-    },
-    {
-      "keyword": "수락산 터널",
+      "keyword": "군용비행장",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[속보] 수도권제1순환고속도로 수락산터널서 차량 화재 발생",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2601294"
+        "title": "민형배 “반도체 2030년 양산 목표”…2026 인허가→2027 착공→2028 전력·용수",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/politics/12093263"
       }
     },
     {
-      "keyword": "현행범",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "출근 첫날 현행범 체포…간호조무사의 간 큰 만행",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008644692"
-      }
-    },
-    {
-      "keyword": "토익",
+      "keyword": "진아름",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'4세 고시' 금지법 10월 시행…유아 '레벨 테스트' 못 본다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/2WDr6KNd5l"
+        "title": "'임신' 진아름, ♥남궁민 첫 고백 단칼 거절…\"두달간 표현했는데도\" ('옥문아들')",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/08/GEZGCNRWME4TAZLFMU4GIMRSGU/"
       }
     },
     {
-      "keyword": "개혁신당",
+      "keyword": "제헌절",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "제헌절 18년 만에 공휴일",
+        "source": "B world",
+        "url": "https://news.skbroadband.com/news/articleView.html?idxno=231514"
+      }
+    },
+    {
+      "keyword": "이투데이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
+        "title": "홈플러스 없어도 롯데마트가 웃지 못하는 이유",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260707153932"
+      }
+    },
+    {
+      "keyword": "금속",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "대동금속, 자사주 10억원 전량 소각…\"주주 친화 정책 지속\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260707144500505"
+        "url": "https://www.yna.co.kr/view/AKR20260708055800030"
       }
     },
     {
-      "keyword": "브래드 피트",
+      "keyword": "군사작전",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "브레드 피트, 29살 연하 여친 '한 줌 허리' 안고…SNS 공식 '포착' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070713550918008"
-      }
-    },
-    {
-      "keyword": "교수",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "효성, AI융합연구원 출범…초대 원장에 맹성현 KAIST 명예교수",
-        "source": "스트레이트뉴스",
-        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=306605"
-      }
-    },
-    {
-      "keyword": "김선빈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "진짜 '문책성 교체인가' KIA 김선빈 2회에 바로 교체라니... 대체 무슨 일이?",
+        "title": "대정전 쿠바 전력망 일부 복구",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260708042752239"
+        "url": "https://v.daum.net/v/tzHuh5PKlf"
       }
     },
     {
-      "keyword": "초복",
+      "keyword": "고용",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "중부고용청-인천시, '고용노동 정책협의회' 출범…일자리 협력",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1117707"
+      }
+    },
+    {
+      "keyword": "보완수사 폐지",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "용산구, 지역 사회와 초복맞이 어르신 보양식 지원",
-        "source": "서울신문",
-        "url": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/07/08/20260708500101"
+        "title": "[단독]“국가가 가해자 같아요”…‘부산 돌려차기’ 피해자의 울분",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11601170"
       }
     },
     {
-      "keyword": "캐시워크 정답",
+      "keyword": "키옥시아 주가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"키옥시아, 토픽스 내 비중확대로 28조원 유입 전망\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260707081308946"
+      }
+    },
+    {
+      "keyword": "코브라",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'저당 검은콩두유' 캐시워크 돈 버는 퀴즈, 정답은?",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260707n03141"
+        "title": "中 남부서 홍수에 양식장 뱀 900마리 탈출…코브라도 포함",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260708086000083"
       }
     }
   ]
