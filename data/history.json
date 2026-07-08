@@ -1580,5 +1580,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-09T04:06:53.378775+09:00",
+    "label": "04:06",
+    "items": [
+      {
+        "keyword": "장윤기",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 사건 직후 서장 주재 회의‥\"함부로 누설 마라\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836015_37004.html"
+        }
+      },
+      {
+        "keyword": "안드레이 산투스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"캐릭 밑에서 기량이 폭발할 수 있는 미드필더다\"…英 매체 맨유에 본머스 핵심 미드필더 적극 추천",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QoXKahztIh"
+        }
+      },
+      {
+        "keyword": "트레이드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘바람의 손자’ 이정후 트레이드 가능성 50%…소속팀 부진에 매물로 나오나",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260708/134259964/1"
+        }
+      },
+      {
+        "keyword": "맥그리거 할로웨이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“내가 UFC 베스트 복서야” 맥그리거에게 던진 할로웨이의 한마디",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7pDl6spXDu"
+        }
+      },
+      {
+        "keyword": "부산 날씨",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "창원·하동북부에 폭염주의보…김해 등 10곳 폭염주의보 유지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708062700527"
+        }
+      },
+      {
+        "keyword": "아서 페리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "월드컵 못간 이탈리아, 테니스는 잘나가",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260708/134254753/2"
+        }
+      },
+      {
+        "keyword": "티비",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "TV catchphrase quiz: Guess the show from the famous quote",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-07-09/abc-tv-catchphrase-quiz/106879914"
+        }
+      },
+      {
+        "keyword": "프랑스 모로코",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "북중미월드컵 8강 프랑스-모로코전 프로토 승부식 80회차, 축구토토 매치 13회차 대상경기 편성",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/08/MRSWGN3DGFQWCNRWGYYDMZDFGM/"
+        }
+      },
+      {
+        "keyword": "테일러 프리츠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Fritz reflects on injury-hit Wimbledon exit: 'My focus was all over the place'",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/fritz-reaction-wimbledon-2026-qf"
+        }
+      },
+      {
+        "keyword": "그리즈만",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "ATM에 이강인 자리 마련하고 떠났다…'MLS 클럽 입단' 그리즈만 '손흥민의 LAFC 레전드 같은 활약 펼치고 싶다'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708153131820"
+        }
+      }
+    ]
   }
 ]
