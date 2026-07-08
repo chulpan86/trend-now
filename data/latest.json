@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-08T16:29:39.643111+09:00",
-  "label": "16:29",
+  "timestamp": "2026-07-08T19:07:14.802554+09:00",
+  "label": "19:07",
   "items": [
     {
-      "keyword": "군용비행장",
+      "keyword": "파울루 벤투",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "박문성 \"벤투, 차기 감독 굉장히 유력…이미 검증됐다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260708144350036"
+      }
+    },
+    {
+      "keyword": "lpga",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "민형배 “반도체 2030년 양산 목표”…2026 인허가→2027 착공→2028 전력·용수",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/politics/12093263"
-      }
-    },
-    {
-      "keyword": "진아름",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'임신' 진아름, ♥남궁민 첫 고백 단칼 거절…\"두달간 표현했는데도\" ('옥문아들')",
+        "title": "Nelly Korda Targets Career Grand Slam at Evian Championship",
         "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/08/GEZGCNRWME4TAZLFMU4GIMRSGU/"
+        "url": "https://www.chosun.com/english/sports-en/2026/07/08/LLJSJR4DORFKVAT7RR6XFHYC7U/"
       }
     },
     {
-      "keyword": "제헌절",
+      "keyword": "부동산",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[속보]李부동산정책 ‘잘못’ 59.3%…4050도 등돌려-한길리서치",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11601056"
+      }
+    },
+    {
+      "keyword": "야구여왕",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "제헌절 18년 만에 공휴일",
-        "source": "B world",
-        "url": "https://news.skbroadband.com/news/articleView.html?idxno=231514"
-      }
-    },
-    {
-      "keyword": "이투데이",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "홈플러스 없어도 롯데마트가 웃지 못하는 이유",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260707153932"
-      }
-    },
-    {
-      "keyword": "금속",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "대동금속, 자사주 10억원 전량 소각…\"주주 친화 정책 지속\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708055800030"
-      }
-    },
-    {
-      "keyword": "군사작전",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "대정전 쿠바 전력망 일부 복구",
+        "title": "6할 승률 목표, 더강해진 '블랙퀸즈'가 온다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/tzHuh5PKlf"
+        "url": "https://v.daum.net/v/20260708110750047"
       }
     },
     {
-      "keyword": "고용",
+      "keyword": "혼외자",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "혼외자·빚더미 숨긴 남편 \"같이 갚자\"...혼인 취소 가능할까? - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/07/07/2026070708123499263"
+      }
+    },
+    {
+      "keyword": "방탄소년단",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "중부고용청-인천시, '고용노동 정책협의회' 출범…일자리 협력",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1117707"
+        "title": "BTS, 영국박물관과 협업해 한국 문화유산 알린다",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260708060300005"
       }
     },
     {
-      "keyword": "보완수사 폐지",
+      "keyword": "전쟁",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "청와대 \"우크라이나에 1억 달러 규모 포괄지원‥살상무기 지원 제외\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6835803_36911.html"
+      }
+    },
+    {
+      "keyword": "혼다 게이스케",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독]“국가가 가해자 같아요”…‘부산 돌려차기’ 피해자의 울분",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11601170"
+        "title": "\"야구는 일본이 우승하잖아, 축구가 안 될 뿐\"…'日 레전드' 혼다 소신발언! \"공원에서 축구 못하게 하는 일본이 무슨 강국이냐\"→SNS 찬반 댓글 1200개 폭발",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260708n25294"
       }
     },
     {
-      "keyword": "키옥시아 주가",
+      "keyword": "아랍에미리트",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"키옥시아, 토픽스 내 비중확대로 28조원 유입 전망\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260707081308946"
+        "title": "한-UAE, 원유 공동비축·AI·에너지 인프라 협력 강화",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370040"
       }
     },
     {
-      "keyword": "코브라",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "루빈",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "中 남부서 홍수에 양식장 뱀 900마리 탈출…코브라도 포함",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708086000083"
+        "title": "엔비디아 또 뚫은 삼성전자…AI메모리 판 바꾼다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260708160609739"
       }
     }
   ]
