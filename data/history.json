@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-06T20:55:10.956949+09:00",
-    "label": "20:55",
-    "items": [
-      {
-        "keyword": "나승엽",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "\"나승엽·윤동희 거의 바닥, 오늘까지는 기회 주겠는데…\" 최후의 최후통첩도 끝났다, 김태형 감독 끝내 결단 내리나 [수원 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706044118006"
-        }
-      },
-      {
-        "keyword": "드라마",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "조국, 이번엔 ‘김부장’ 겨냥... “5분 23초 사용 의문”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706113306143"
-        }
-      },
-      {
-        "keyword": "바나나",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"맛있어지니 1등 뺏었잖아\"…'편의점 절대강자' 바나나우유 매출 제친 '이 음료'",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026070519270004948"
-        }
-      },
-      {
-        "keyword": "검찰",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 김가네 김용만 회장, 회삿돈 횡령 혐의로 검찰 송치",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8603272"
-        }
-      },
-      {
-        "keyword": "이의리",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "KIA 이의리 日유학 효과 톡톡…울산 웨일즈전 3이닝 KKKK에 1볼넷 무실점, 공포의 롱릴리프로 귀환하나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706152804756"
-        }
-      },
-      {
-        "keyword": "이복현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "검사 출신 이복현 前금감원장, 중앙그룹 채권투자자 변호 맡을듯",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706174111610"
-        }
-      },
-      {
-        "keyword": "가족관계증명서",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'가족관계증명서' 첫방부터 휘몰아쳤다…박세영 \"가까스로 살고 있다\" 눈물(가족관계증명서)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706195525179"
-        }
-      },
-      {
-        "keyword": "안규백",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "국방부, ‘사관학교 통합’ 발표 100분전 돌연 취소…반대여론 의식했나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706162400755"
-        }
-      },
-      {
-        "keyword": "홍서범",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘임신 중 여교사와 불륜 논란’ 홍서범 아들, 양육비도 안 줬나…전처 “양육비 보내세요”",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10798593"
-        }
-      },
-      {
-        "keyword": "장윤기 수사 팀장",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "장윤기 수사팀장, 케이블타이 없애고 부친과 수십차례 통화",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/07/06/PUCTJ6SW35DQ3BBYBYGIA67REY/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-06T23:59:36.537963+09:00",
     "label": "23:59",
     "items": [
@@ -1683,6 +1577,108 @@
           "title": "8日 九州で35℃以上の猛暑日も",
           "source": "Yahoo!ニュース",
           "url": "https://news.yahoo.co.jp/pickup/6587092"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-08T10:46:25.194975+09:00",
+    "label": "10:46",
+    "items": [
+      {
+        "keyword": "유가증권",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "코스피, 급락 출발 후 낙폭축소해 보합권…삼전닉스 상승전환(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708094901436"
+        }
+      },
+      {
+        "keyword": "cgv",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "세종특별자치시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "AI로 도시를 바꾼다···세종시, 행정혁신 아이디어 ‘한판 승부’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607081012001"
+        }
+      },
+      {
+        "keyword": "군함",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "미국 정부, 한국 조선사에 전투함·급유함 타진…첫 정보요청",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fbRCRnvmH9"
+        }
+      },
+      {
+        "keyword": "골든스테이트 워리어스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'3년 458억 오퍼시트' 포스트, 멤피스행 눈앞…'난감한' 골든스테이트의 선택은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707110630255"
+        }
+      },
+      {
+        "keyword": "무역수지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "일본 5월 경상수지, 3조 9683억엔 흑자…방일객 감소로 서비스 적자 전환",
+          "source": "서울경제신문",
+          "url": "https://www.sedaily.com/article/20065135"
+        }
+      },
+      {
+        "keyword": "혜빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“행사비 5천인데 내 손엔 2백만원”…모모랜드 혜빈 밝힌 아이돌 정산 구조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PpfbwspXyA"
+        }
+      },
+      {
+        "keyword": "나홍진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "총 쏘고, 외계인 쫓고… 나홍진의 2시간 36분 ‘미친 질주’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/07/08/7VG2CNNGHBFWLDNO2BIOQS7V6A/"
+        }
+      },
+      {
+        "keyword": "과징금",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "서민 등친 전분 4사 ‘식탁 밀약’… 7476억 역대 최대 담합 과징금",
+          "source": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12071599"
+        }
+      },
+      {
+        "keyword": "도지코인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "도지코인 7월 활성 주소 5만 개 돌파… 파생시장 롱 베팅 급증",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/07/202607070712291685e7e8286d56_1"
         }
       }
     ]
