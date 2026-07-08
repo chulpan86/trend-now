@@ -1474,5 +1474,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-09T00:09:12.454408+09:00",
+    "label": "00:09",
+    "items": [
+      {
+        "keyword": "sk하이닉스 주가 전망",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"왜 자꾸 떨어지나\" 속타는 개미…삼전, 지금 담아도 될까 [종목+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026070832456"
+        }
+      },
+      {
+        "keyword": "주택담보대출",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "KB국민은행, 주택구입자금 대출 한도 최대 6억→3억 축소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708153100002"
+        }
+      },
+      {
+        "keyword": "삼성중공업",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "삼성중공업, 연간 수주 5년만에 100억달러 돌파",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708078600003"
+        }
+      },
+      {
+        "keyword": "홀란드",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"하루 6끼, 곰처럼 먹는다\"…195cm 괴물 공격수 홀란 이렇게 만들어졌다→6000kcal 폭풍 흡입+생우유·붉은 고기·내장육 위주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708204137280"
+        }
+      },
+      {
+        "keyword": "리센느",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "리센느 멜론 TOP100 1위 찍었다…오열 라이브 “꿈 같다” [종합]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260708/134263688/1"
+        }
+      },
+      {
+        "keyword": "이준영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'유퀴즈' 이준영 \"유키스 데뷔 후 편의점 알바…매니저와 함께 눈물\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708224521281"
+        }
+      },
+      {
+        "keyword": "류지혁",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "프로야구 삼성 류지혁, 주자와 충돌해 교체…어지럼증 호소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708180900007"
+        }
+      },
+      {
+        "keyword": "서인영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서인영父, 식품 공장 2개 운영하는 대표였다 “이미 유산줬다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708215337575"
+        }
+      },
+      {
+        "keyword": "아들",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "차 사주고 양육비 보냈는데…\"결혼 끝나면 보지 말자\" 절연 통보한 아들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260708_0003700081"
+        }
+      },
+      {
+        "keyword": "마르타 코스튜크",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "테니스 코스튜크, 크루거 꺾고 생애 첫 윔블던 8강 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260706224155955"
+        }
+      }
+    ]
   }
 ]
