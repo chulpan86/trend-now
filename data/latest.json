@@ -1,45 +1,35 @@
 {
-  "timestamp": "2026-07-09T00:09:12.454408+09:00",
-  "label": "00:09",
+  "timestamp": "2026-07-09T02:19:04.059458+09:00",
+  "label": "02:19",
   "items": [
     {
-      "keyword": "sk하이닉스 주가 전망",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"왜 자꾸 떨어지나\" 속타는 개미…삼전, 지금 담아도 될까 [종목+]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026070832456"
-      }
-    },
-    {
-      "keyword": "주택담보대출",
+      "keyword": "장윤기",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "KB국민은행, 주택구입자금 대출 한도 최대 6억→3억 축소",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708153100002"
+        "title": "’장윤기 사건’ 증거인멸 의혹 수사팀장 구속…“증거인멸·도주 우려“",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260708204411IVO"
       }
     },
     {
-      "keyword": "삼성중공업",
+      "keyword": "서인영",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "삼성중공업, 연간 수주 5년만에 100억달러 돌파",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708078600003"
-      }
-    },
-    {
-      "keyword": "홀란드",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"하루 6끼, 곰처럼 먹는다\"…195cm 괴물 공격수 홀란 이렇게 만들어졌다→6000kcal 폭풍 흡입+생우유·붉은 고기·내장육 위주",
+        "title": "식품공장 2개 운영하는 서인영 父, 물려줄 딸은…“이미 유산줬다”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260708204137280"
+        "url": "https://v.daum.net/v/20260708215337575"
+      }
+    },
+    {
+      "keyword": "오마이뉴스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "군대서 모은 돈이 몇 시간 만에... 아들이 받은 기막힌 전화",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260707140301088"
       }
     },
     {
@@ -47,49 +37,49 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "리센느 멜론 TOP100 1위 찍었다…오열 라이브 “꿈 같다” [종합]",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260708/134263688/1"
-      }
-    },
-    {
-      "keyword": "이준영",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'유퀴즈' 이준영 \"유키스 데뷔 후 편의점 알바…매니저와 함께 눈물\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260708224521281"
-      }
-    },
-    {
-      "keyword": "류지혁",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "프로야구 삼성 류지혁, 주자와 충돌해 교체…어지럼증 호소",
+        "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708180900007"
+        "url": "https://www.yna.co.kr/view/AKR20260707144500505"
       }
     },
     {
-      "keyword": "서인영",
+      "keyword": "프랑스 모로코",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "서인영父, 식품 공장 2개 운영하는 대표였다 “이미 유산줬다”",
+        "title": "북중미월드컵 8강 프랑스-모로코전 프로토 승부식 80회차, 축구토토 매치 13회차 대상경기 편성",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/07/08/MRSWGN3DGFQWCNRWGYYDMZDFGM/"
+      }
+    },
+    {
+      "keyword": "트레이드",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘바람의 손자’ 이정후 트레이드 가능성 50%…소속팀 부진에 매물로 나오나",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20260708/134259964/1"
+      }
+    },
+    {
+      "keyword": "테일러 프리츠",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Zverev solves Fritz puzzle, storms into first Wimbledon SF",
+        "source": "ATP Tour",
+        "url": "https://www.atptour.com/en/news/zverev-fritz-wimbledon-2026-qf-wednesday"
+      }
+    },
+    {
+      "keyword": "그리즈만",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"메시는 득점왕 하고, 음바페가 월드컵 우승하자\"… '이강인에게 자리 내준' 그리즈만, 올랜도 입단식서 밝힌 바람",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260708215337575"
-      }
-    },
-    {
-      "keyword": "아들",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "차 사주고 양육비 보냈는데…\"결혼 끝나면 보지 말자\" 절연 통보한 아들",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260708_0003700081"
+        "url": "https://v.daum.net/v/20260708210137717"
       }
     },
     {
@@ -100,6 +90,16 @@
         "title": "테니스 코스튜크, 크루거 꺾고 생애 첫 윔블던 8강 진출",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260706224155955"
+      }
+    },
+    {
+      "keyword": "페이커",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[사진] 헤드샷 박동원 감싸는 강민호",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260708n36799"
       }
     }
   ]
