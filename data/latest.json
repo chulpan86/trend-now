@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-08T10:46:25.194975+09:00",
-  "label": "10:46",
+  "timestamp": "2026-07-08T13:59:27.937447+09:00",
+  "label": "13:59",
   "items": [
     {
-      "keyword": "유가증권",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "문화일보",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "코스피, 급락 출발 후 낙폭축소해 보합권…삼전닉스 상승전환(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260708094901436"
+        "title": "미군 \"이란 공습 완료…80개 이상 목표물 타격\"(상보)",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423962"
       }
     },
     {
-      "keyword": "cgv",
+      "keyword": "수락산 터널",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[속보] 수도권제1순환고속도로 수락산터널서 차량 화재 발생",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2601294"
+      }
+    },
+    {
+      "keyword": "현행범",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "출근 첫날 현행범 체포…간호조무사의 간 큰 만행",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008644692"
+      }
+    },
+    {
+      "keyword": "토익",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'4세 고시' 금지법 10월 시행…유아 '레벨 테스트' 못 본다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2WDr6KNd5l"
+      }
+    },
+    {
+      "keyword": "개혁신당",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260707144500505"
+      }
     },
     {
-      "keyword": "세종특별자치시",
+      "keyword": "브래드 피트",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "AI로 도시를 바꾼다···세종시, 행정혁신 아이디어 ‘한판 승부’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607081012001"
+        "title": "브레드 피트, 29살 연하 여친 '한 줌 허리' 안고…SNS 공식 '포착' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070713550918008"
       }
     },
     {
-      "keyword": "군함",
+      "keyword": "교수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "미국 정부, 한국 조선사에 전투함·급유함 타진…첫 정보요청",
+        "title": "효성, AI융합연구원 출범…초대 원장에 맹성현 KAIST 명예교수",
+        "source": "스트레이트뉴스",
+        "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=306605"
+      }
+    },
+    {
+      "keyword": "김선빈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "진짜 '문책성 교체인가' KIA 김선빈 2회에 바로 교체라니... 대체 무슨 일이?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/fbRCRnvmH9"
+        "url": "https://v.daum.net/v/20260708042752239"
       }
     },
     {
-      "keyword": "골든스테이트 워리어스",
+      "keyword": "초복",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'3년 458억 오퍼시트' 포스트, 멤피스행 눈앞…'난감한' 골든스테이트의 선택은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260707110630255"
+        "title": "용산구, 지역 사회와 초복맞이 어르신 보양식 지원",
+        "source": "서울신문",
+        "url": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/07/08/20260708500101"
       }
     },
     {
-      "keyword": "무역수지",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "일본 5월 경상수지, 3조 9683억엔 흑자…방일객 감소로 서비스 적자 전환",
-        "source": "서울경제신문",
-        "url": "https://www.sedaily.com/article/20065135"
-      }
-    },
-    {
-      "keyword": "혜빈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“행사비 5천인데 내 손엔 2백만원”…모모랜드 혜빈 밝힌 아이돌 정산 구조",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/PpfbwspXyA"
-      }
-    },
-    {
-      "keyword": "나홍진",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "총 쏘고, 외계인 쫓고… 나홍진의 2시간 36분 ‘미친 질주’",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/culture-life/culture_general/2026/07/08/7VG2CNNGHBFWLDNO2BIOQS7V6A/"
-      }
-    },
-    {
-      "keyword": "과징금",
+      "keyword": "캐시워크 정답",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "서민 등친 전분 4사 ‘식탁 밀약’… 7476억 역대 최대 담합 과징금",
-        "source": "디지털타임스",
-        "url": "https://www.dt.co.kr/article/12071599"
-      }
-    },
-    {
-      "keyword": "도지코인",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "도지코인 7월 활성 주소 5만 개 돌파… 파생시장 롱 베팅 급증",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Securities/2026/07/202607070712291685e7e8286d56_1"
+        "title": "'저당 검은콩두유' 캐시워크 돈 버는 퀴즈, 정답은?",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260707n03141"
       }
     }
   ]

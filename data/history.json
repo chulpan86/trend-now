@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-06T23:59:36.537963+09:00",
-    "label": "23:59",
-    "items": [
-      {
-        "keyword": "두산로보틱스",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "LG전자, 2분기 영업익 1조 회복하나…'깜짝 실적' 기대감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706074518703"
-        }
-      },
-      {
-        "keyword": "박지성",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[IS 현장] 박지성 차기 축구협회장 불출마 선언! 그 이유는 바로 '공정성과 신뢰'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706184000794"
-        }
-      },
-      {
-        "keyword": "혈관",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“아침에 먹으면 혈관 굳는다”… 의사가 꼽은 ‘최악의 음식’",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/07/03/2026070301752.html"
-        }
-      },
-      {
-        "keyword": "tvn",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Norbi na Koloniach Letnich Dzień Dobry TVN",
-          "source": "Dzień Dobry TVN",
-          "url": "https://dziendobry.tvn.pl/najnowsze/norbi-na-koloniach-letnich-dzien-dobry-tvn-vd9129995"
-        }
-      },
-      {
-        "keyword": "독사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "뱀 물리면 입으로 빨아내라?…남편 살리려다 아내까지",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026070510535209513"
-        }
-      },
-      {
-        "keyword": "알렉산드라 이알라",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/"
-        }
-      },
-      {
-        "keyword": "tkms",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Germany says TKMS submarine win would bring Canada closer to Europe",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/german-officiall-tkms-submarine-win-would-bring-canada-closer-europe-2026-07-06/"
-        }
-      },
-      {
-        "keyword": "아틀레티코 마드리드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"이강인, 이적료 700억원에 AT 마드리드행 합의\" 보도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260706157000007"
-        }
-      },
-      {
-        "keyword": "7월7일 정보통신망법",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "명백한 '가짜'는 플랫폼이 삭제…판단 어려울 땐?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706201814658"
-        }
-      },
-      {
-        "keyword": "배틀그라운드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "대기업 기술실증부터 글로벌 진출까지…경과원, 33개사 모집",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706133303409"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-07T02:45:37.812382+09:00",
     "label": "02:45",
     "items": [
@@ -1679,6 +1573,112 @@
           "title": "도지코인 7월 활성 주소 5만 개 돌파… 파생시장 롱 베팅 급증",
           "source": "글로벌이코노믹",
           "url": "https://www.g-enews.com/article/Securities/2026/07/202607070712291685e7e8286d56_1"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-08T13:59:27.937447+09:00",
+    "label": "13:59",
+    "items": [
+      {
+        "keyword": "문화일보",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "미군 \"이란 공습 완료…80개 이상 목표물 타격\"(상보)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423962"
+        }
+      },
+      {
+        "keyword": "수락산 터널",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보] 수도권제1순환고속도로 수락산터널서 차량 화재 발생",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2601294"
+        }
+      },
+      {
+        "keyword": "현행범",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "출근 첫날 현행범 체포…간호조무사의 간 큰 만행",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008644692"
+        }
+      },
+      {
+        "keyword": "토익",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'4세 고시' 금지법 10월 시행…유아 '레벨 테스트' 못 본다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2WDr6KNd5l"
+        }
+      },
+      {
+        "keyword": "개혁신당",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260707144500505"
+        }
+      },
+      {
+        "keyword": "브래드 피트",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "브레드 피트, 29살 연하 여친 '한 줌 허리' 안고…SNS 공식 '포착' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070713550918008"
+        }
+      },
+      {
+        "keyword": "교수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "효성, AI융합연구원 출범…초대 원장에 맹성현 KAIST 명예교수",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=306605"
+        }
+      },
+      {
+        "keyword": "김선빈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "진짜 '문책성 교체인가' KIA 김선빈 2회에 바로 교체라니... 대체 무슨 일이?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708042752239"
+        }
+      },
+      {
+        "keyword": "초복",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "용산구, 지역 사회와 초복맞이 어르신 보양식 지원",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/07/08/20260708500101"
+        }
+      },
+      {
+        "keyword": "캐시워크 정답",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'저당 검은콩두유' 캐시워크 돈 버는 퀴즈, 정답은?",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260707n03141"
         }
       }
     ]
