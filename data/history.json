@@ -1588,5 +1588,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-10T08:57:40.547513+09:00",
+    "label": "08:57",
+    "items": [
+      {
+        "keyword": "박문성",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "침묵 깬 홍명보 “협박 때문에 가족 지키려 미국 온 것···국회 청문회서 어떤 질문도 피하지 않겠다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607091533001"
+        }
+      },
+      {
+        "keyword": "노르웨이 잉글랜드",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "음바페의 프랑스 월드컵 우승확률 1위…메시의 아르헨티나는 3위, 북중미 월드컵 8강전 누가 이길까?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710063711523"
+        }
+      },
+      {
+        "keyword": "버스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Witnesses describe horror and disbelief after Pikesville bus crash",
+          "source": "WBAL-TV",
+          "url": "https://www.wbaltv.com/article/pikesville-bus-crash-building-dozens-injured-what-witnesses-saw/71887509"
+        }
+      },
+      {
+        "keyword": "앤트로픽",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "앤트로픽, '노벨상' 버냉키 前연준의장 독립 지배기구 위원 위촉",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710052450318"
+        }
+      },
+      {
+        "keyword": "경매",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"서울만 달랐다\"...아파트 경매 낙찰가율 101.7%, 소형은 113% 육박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YPnaCaYCTt"
+        }
+      },
+      {
+        "keyword": "경로당",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "부천시, 어르신 만성질환 예방…'경로당 주치의제' 운영",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260709_0003702888"
+        }
+      },
+      {
+        "keyword": "저비용 항공사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'저가 경쟁 끝'…LCC, '다각화·통합·프리미엄화'로 전략 수정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KcYjVX8Bll"
+        }
+      },
+      {
+        "keyword": "동아일보",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "불법·허위조작정보 반복 유통 땐 과징금 최대 10억 원",
+          "source": "K-공감",
+          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10201000000&section_id=NCCD_POLICY&content=NC002&code_cd=0101000000&nPage=1&b_list=9&news_id=51d503d3-27ba-4ebf-a899-c85c3c5bbed9"
+        }
+      },
+      {
+        "keyword": "잉글랜드 노르웨이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“잉글랜드 최고는 EPL에 없다” 노르웨이 감독 도발, 케인·벨링엄 콕 찍었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709084851165"
+        }
+      },
+      {
+        "keyword": "france maroc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Inefficace puis emballante : l'équipe de France vient à bout du Maroc et file en demi-finales de la Coupe du monde 2026",
+          "source": "L'Équipe",
+          "url": "https://www.lequipe.fr/Football/Actualites/Inefficace-puis-emballante-l-equipe-de-france-vient-a-bout-du-maroc-et-file-en-demi-finales-de-la-coupe-du-monde-2026/1703110"
+        }
+      }
+    ]
   }
 ]
