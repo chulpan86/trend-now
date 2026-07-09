@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-08T13:59:27.937447+09:00",
-    "label": "13:59",
-    "items": [
-      {
-        "keyword": "문화일보",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "미군 \"이란 공습 완료…80개 이상 목표물 타격\"(상보)",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423962"
-        }
-      },
-      {
-        "keyword": "수락산 터널",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[속보] 수도권제1순환고속도로 수락산터널서 차량 화재 발생",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2601294"
-        }
-      },
-      {
-        "keyword": "현행범",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "출근 첫날 현행범 체포…간호조무사의 간 큰 만행",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008644692"
-        }
-      },
-      {
-        "keyword": "토익",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'4세 고시' 금지법 10월 시행…유아 '레벨 테스트' 못 본다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2WDr6KNd5l"
-        }
-      },
-      {
-        "keyword": "개혁신당",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260707144500505"
-        }
-      },
-      {
-        "keyword": "브래드 피트",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "브레드 피트, 29살 연하 여친 '한 줌 허리' 안고…SNS 공식 '포착' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070713550918008"
-        }
-      },
-      {
-        "keyword": "교수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "효성, AI융합연구원 출범…초대 원장에 맹성현 KAIST 명예교수",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=306605"
-        }
-      },
-      {
-        "keyword": "김선빈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "진짜 '문책성 교체인가' KIA 김선빈 2회에 바로 교체라니... 대체 무슨 일이?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708042752239"
-        }
-      },
-      {
-        "keyword": "초복",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "용산구, 지역 사회와 초복맞이 어르신 보양식 지원",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/07/08/20260708500101"
-        }
-      },
-      {
-        "keyword": "캐시워크 정답",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'저당 검은콩두유' 캐시워크 돈 버는 퀴즈, 정답은?",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260707n03141"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-08T16:29:39.643111+09:00",
     "label": "16:29",
     "items": [
@@ -1585,6 +1479,112 @@
           "title": "【제보】양평 강하 왕창~광주 분원간 팔당호반 지반침하 붕괴 \"복구 시급\"",
           "source": "양평백운신문",
           "url": "http://www.ypnews.kr/news/articleView.html?idxno=56958"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-10T03:45:31.397665+09:00",
+    "label": "03:45",
+    "items": [
+      {
+        "keyword": "codex",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-6/"
+        }
+      },
+      {
+        "keyword": "저축",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "롤러코스피에 멀미 난다…‘연 3% 이상 수익’ 정기예금 올라탈까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708203609161?f=p"
+        }
+      },
+      {
+        "keyword": "호프",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "봉준호·이창동·장재현, 14~16일 나홍진과 '호프' 대담",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260709147900005"
+        }
+      },
+      {
+        "keyword": "테이큰",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "시원한 액션에 신기록 행진…부성애 품은 무법 중년 '김부장'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260707176400005"
+        }
+      },
+      {
+        "keyword": "india vs england",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "ENG vs IND 2026, ENG vs IND 4th T20I Match Preview - Cornered India seek recovery as England eye series win",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-4th-t20i-1496577/match-preview"
+        }
+      },
+      {
+        "keyword": "정혁",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "정혁 \"길거리 흡연=길빵 당한 느낌, 담배 45만 원에 팔아야\" 강경 소신발언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709184927136"
+        }
+      },
+      {
+        "keyword": "린다 노스코바",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'미사일 폭격으로 22명 사망→러시아 만행에 눈물 펑펑' 코스튜크, 우크라이나에 또 감동 선사…생애 첫 윔블던 4강행 \"꿈이 이뤄졌다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WQWBITKp5H"
+        }
+      },
+      {
+        "keyword": "배달",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "배달의민족 '한집배달' 갑론을박…\"픽업 즉시 바로 고객 전달 준수\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3UPJ18DgZJ"
+        }
+      },
+      {
+        "keyword": "청주시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "운동장 잠기고 교실 천장 무너지고‥폭우에 학교 '긴급 휴업'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836317_37004.html"
+        }
+      },
+      {
+        "keyword": "모로코 프랑스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[스포츠머그] \"우리 상대는 심판 아닌 모로코!\"…'아르헨티나 심판 배정' 논란에 답한 프랑스 데샹 감독",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709164511335"
         }
       }
     ]

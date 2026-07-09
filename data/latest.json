@@ -1,81 +1,41 @@
 {
-  "timestamp": "2026-07-10T01:21:56.306364+09:00",
-  "label": "01:21",
+  "timestamp": "2026-07-10T03:45:31.397665+09:00",
+  "label": "03:45",
   "items": [
     {
-      "keyword": "신민아",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "폭염 속 올 가죽? 신민아니까 괜찮아",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607091814013"
-      }
-    },
-    {
-      "keyword": "천성호",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "LG, 삼성 꺾고 하루 만에 1위 복귀…9일 맞대결서 전반기 1위 갈린다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/GkkNqVcnW9"
-      }
-    },
-    {
-      "keyword": "휴게소",
+      "keyword": "codex",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "고속도로 휴게소 임대료 낮춘다…“커피도 2,000원 이하로”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260709160214060"
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/gpt-5-6/"
       }
     },
     {
-      "keyword": "erling haaland",
+      "keyword": "저축",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "FIFA World Cup 2026: Google hops on 'Viking Row' trend, animated figures performing the celebration appear on searching Haaland",
-        "source": "ANI News",
-        "url": "https://www.aninews.in/news/sports/football/fifa-world-cup-2026-google-hops-on-viking-row-trend-animated-figures-performing-the-celebration-appear-on-searching-haaland20260709212712"
-      }
-    },
-    {
-      "keyword": "유치장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독] \"살인 증거 아닌 줄\" 잡아떼더니…수사팀장-장윤기 아버지 통화 확보",
+        "title": "롤러코스피에 멀미 난다…‘연 3% 이상 수익’ 정기예금 올라탈까",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260709202146290"
+        "url": "https://v.daum.net/v/20260708203609161?f=p"
       }
     },
     {
-      "keyword": "팰월드 정식출시",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "호프",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "누적 이용자 4000만 돌파 '팰월드', \"정식 버전 가격 인상 없다\" 선언",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260709n33019"
-      }
-    },
-    {
-      "keyword": "외국인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[줌인] 엔저에 흔들리는 日 고용시장… 외국인 근로자들 “韓이 더 매력적” - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/international/international_general/2026/07/09/IBT7N5PQC5GW3EVRTLS2LFGROI/"
+        "title": "봉준호·이창동·장재현, 14~16일 나홍진과 '호프' 대담",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260709147900005"
       }
     },
     {
       "keyword": "테이큰",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "시원한 액션에 신기록 행진…부성애 품은 무법 중년 '김부장'",
         "source": "연합뉴스",
@@ -83,23 +43,63 @@
       }
     },
     {
-      "keyword": "크루피",
+      "keyword": "india vs england",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'영원한 캡틴' 손흥민 반응, 토트넘도 크게 반겼다…2000억 초대형 영입 확정되자 SNS '좋아요'→변함없는 애정 '화제'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260708160143497"
+        "title": "ENG vs IND 2026, ENG vs IND 4th T20I Match Preview - Cornered India seek recovery as England eye series win",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-4th-t20i-1496577/match-preview"
       }
     },
     {
-      "keyword": "침하",
+      "keyword": "정혁",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "【제보】양평 강하 왕창~광주 분원간 팔당호반 지반침하 붕괴 \"복구 시급\"",
-        "source": "양평백운신문",
-        "url": "http://www.ypnews.kr/news/articleView.html?idxno=56958"
+        "title": "정혁 \"길거리 흡연=길빵 당한 느낌, 담배 45만 원에 팔아야\" 강경 소신발언",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260709184927136"
+      }
+    },
+    {
+      "keyword": "린다 노스코바",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'미사일 폭격으로 22명 사망→러시아 만행에 눈물 펑펑' 코스튜크, 우크라이나에 또 감동 선사…생애 첫 윔블던 4강행 \"꿈이 이뤄졌다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WQWBITKp5H"
+      }
+    },
+    {
+      "keyword": "배달",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "배달의민족 '한집배달' 갑론을박…\"픽업 즉시 바로 고객 전달 준수\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/3UPJ18DgZJ"
+      }
+    },
+    {
+      "keyword": "청주시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "운동장 잠기고 교실 천장 무너지고‥폭우에 학교 '긴급 휴업'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836317_37004.html"
+      }
+    },
+    {
+      "keyword": "모로코 프랑스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[스포츠머그] \"우리 상대는 심판 아닌 모로코!\"…'아르헨티나 심판 배정' 논란에 답한 프랑스 데샹 감독",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260709164511335"
       }
     }
   ]
