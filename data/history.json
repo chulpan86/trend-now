@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-08T16:29:39.643111+09:00",
-    "label": "16:29",
-    "items": [
-      {
-        "keyword": "군용비행장",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "민형배 “반도체 2030년 양산 목표”…2026 인허가→2027 착공→2028 전력·용수",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12093263"
-        }
-      },
-      {
-        "keyword": "진아름",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'임신' 진아름, ♥남궁민 첫 고백 단칼 거절…\"두달간 표현했는데도\" ('옥문아들')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/08/GEZGCNRWME4TAZLFMU4GIMRSGU/"
-        }
-      },
-      {
-        "keyword": "제헌절",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "제헌절 18년 만에 공휴일",
-          "source": "B world",
-          "url": "https://news.skbroadband.com/news/articleView.html?idxno=231514"
-        }
-      },
-      {
-        "keyword": "이투데이",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "홈플러스 없어도 롯데마트가 웃지 못하는 이유",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260707153932"
-        }
-      },
-      {
-        "keyword": "금속",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대동금속, 자사주 10억원 전량 소각…\"주주 친화 정책 지속\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260708055800030"
-        }
-      },
-      {
-        "keyword": "군사작전",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대정전 쿠바 전력망 일부 복구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tzHuh5PKlf"
-        }
-      },
-      {
-        "keyword": "고용",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "중부고용청-인천시, '고용노동 정책협의회' 출범…일자리 협력",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1117707"
-        }
-      },
-      {
-        "keyword": "보완수사 폐지",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독]“국가가 가해자 같아요”…‘부산 돌려차기’ 피해자의 울분",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11601170"
-        }
-      },
-      {
-        "keyword": "키옥시아 주가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"키옥시아, 토픽스 내 비중확대로 28조원 유입 전망\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260707081308946"
-        }
-      },
-      {
-        "keyword": "코브라",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "中 남부서 홍수에 양식장 뱀 900마리 탈출…코브라도 포함",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260708086000083"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-08T19:07:14.802554+09:00",
     "label": "19:07",
     "items": [
@@ -1585,6 +1479,112 @@
           "title": "[스포츠머그] \"우리 상대는 심판 아닌 모로코!\"…'아르헨티나 심판 배정' 논란에 답한 프랑스 데샹 감독",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260709164511335"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-10T05:41:23.817220+09:00",
+    "label": "05:41",
+    "items": [
+      {
+        "keyword": "프랑스 대 모로코",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[스포츠머그] \"우리 상대는 심판 아닌 모로코!\"…'아르헨티나 심판 배정' 논란에 답한 프랑스 데샹 감독",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709164511335"
+        }
+      },
+      {
+        "keyword": "france vs morocco",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "France vs Morocco LIVE: World Cup 2026 quarter-final build-up, lineups, prediction & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c30y244nl8mt"
+        }
+      },
+      {
+        "keyword": "벌금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"최태원 동거인은 중국간첩\"…'배터리 아저씨' 박순혁 벌금 700만원(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/b49ukH4qGf"
+        }
+      },
+      {
+        "keyword": "부부",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "전례 없는 ‘초유의 결별’…부러움 샀던 ‘유명 부부’ 결국 파국, ‘9월’ 결론",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fKcjQDtW5m"
+        }
+      },
+      {
+        "keyword": "gpt 5.6",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-6/"
+        }
+      },
+      {
+        "keyword": "개",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"스무디에서 수백 개 쇳조각\"…숟가락 갈아 넣은 카페 논란",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260709170541f4S"
+        }
+      },
+      {
+        "keyword": "codex",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "OpenAI is making its biggest play for the office",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/openai-codex-chatgpt-app-releases-gpt-5-6-models-2026-7"
+        }
+      },
+      {
+        "keyword": "김종국",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "미우새' 하차한 김종국 母, 아들과 미국行...\"결혼해서 더 좋아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709230009878"
+        }
+      },
+      {
+        "keyword": "한소희",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한소희, 파리서 과감 비키니…뒤태에 타투까지 치명적 [DA★]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260708/134256525/1"
+        }
+      },
+      {
+        "keyword": "영주시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "속초시, 재난관리 평가 2년 연속 '우수'…안전 도시 입증",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709151336376"
         }
       }
     ]
