@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-11T07:50:22.991634+09:00",
-  "label": "07:50",
+  "timestamp": "2026-07-11T08:48:18.709795+09:00",
+  "label": "08:48",
   "items": [
     {
-      "keyword": "재벌x형사",
+      "keyword": "대한 광통신",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[이 시각 시황] AI 데이터센터 훈풍…전력·광통신·반도체주 일제히 상승",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260710093623251"
+      }
+    },
+    {
+      "keyword": "삼성 갤럭시",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[오프닝 크레딧 티저] 주연×특별출연 라인업 대공개!",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC480277191"
+        "title": "하반기 '접는 폰' 전쟁…갤럭시Z폴드8 vs 아이폰 울트라",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711050504090"
       }
     },
     {
-      "keyword": "s&p 500",
+      "keyword": "고우석",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "S&P 500 closes higher to notch a winning week, helped by tech gains",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html"
+        "title": "\"고우석 몇 년 동안 지켜봤다, 영입 기회오자마자 움직여\" 미네소타 단장이 밝힌 영입 배경…한국에서처럼 '트윈스'로 ML 꿈 이뤘다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711020749233"
       }
     },
     {
-      "keyword": "김민지",
+      "keyword": "기안84",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"1년 집값이 900 이하\"...소녀시대 유리, 집부터 살림까지 싹 다 ‘중고거래'로 장만 ('나혼산') [핫피플]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711073350583"
+      }
+    },
+    {
+      "keyword": "체중감소",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'육상여신' 김민지, 복근 사라지고 옆구리살 생겼다…\"당황스러워\"",
+        "title": "김원희, 식단·운동 열심히 해도 '살 안 빠지는 이유'로 꼽은 것은?",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071002152.html"
+      }
+    },
+    {
+      "keyword": "땅집고",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"안 팔려 미치겠다\" 하정우, 스벅 믿고 300억 빌딩 투자했는데…",
+        "source": "땅집고",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/07/09/2026070902666.html"
+      }
+    },
+    {
+      "keyword": "스티븐 체룬돌로",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "서울특별시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"4만8000원 내고 24만원어치 장본다\"…임산부 농산물 꾸러미 신청법 [혜택의 정석]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/QDuKLnvmHB"
+        "url": "https://v.daum.net/v/20260711074239656"
       }
     },
     {
-      "keyword": "대한광통신",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "KT클라우드, 여의도 데이터센터 증설…\"금융 허브 도약\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Unbi5dhD1W"
-      }
-    },
-    {
-      "keyword": "붉은 진주",
+      "keyword": "폭풍",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[83화 예고] 날 살인자로 만들어? [붉은 진주] | KBS 방송",
-        "source": "KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026122488-01-000_20260710_TECH8801&program_code=T2025-0500&program_id=PS-2026122488-01-000&section_code=03&broadcast_complete_yn=N&section_id=26985"
+        "title": "중국과 미국이 기록적인 모래폭풍을 겪고 있다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/trung-quoc-va-my-hung-chiu-nhung-tran-bao-cat-ky-luc"
       }
     },
     {
-      "keyword": "김가영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "하나카드, 5연승으로 PBA 팀리그 1위 질주…우리금융은 맹추격",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260710101637170"
-      }
-    },
-    {
-      "keyword": "nvda",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels",
-        "source": "Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels"
-      }
-    },
-    {
-      "keyword": "vix",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "VIX ETF outflows reach $11.7m as volatility index drops",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/vix-etf-outflows-reach-117m-as-volatility-index-drops-93CH-4786237"
-      }
-    },
-    {
-      "keyword": "미미미누",
+      "keyword": "한고은",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "리센느 원이 유튜브 PD, 연세대 출신이었다..서울대 포기 이유 \"공부하기 싫어서\" [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/UhmSmRIkhS?f=p"
-      }
-    },
-    {
-      "keyword": "성심당",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "성심당 갈 이유 또 생겼다… 2년 전 대란 부른 '안녕 크레페' 재출시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260710121449996"
+        "title": "‘50대에도 절대 미모’ 한고은이 공개한 아침 도시락 식단",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20260711/134278216/1"
       }
     }
   ]
