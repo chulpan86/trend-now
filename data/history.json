@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-09T08:59:32.457812+09:00",
-    "label": "08:59",
-    "items": [
-      {
-        "keyword": "김수현",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[단독] 김세의 구속 후 달라졌다..法, 김수현 광고주에 \"25억 청구 포기\" 권고",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/07/08/2026070816153696731"
-        }
-      },
-      {
-        "keyword": "박영규",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[인터뷰] '호프'로 성장한 정호연 \"감사함으로 두려움 이겨내, 축복 같은 현장\"(종합)",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202607081642356025"
-        }
-      },
-      {
-        "keyword": "สภาพอากาศ",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "กรมอุตุนิยมวิทยา. . ⚠️ ภาคเหนือ และ ภาคตะวันออกเฉียงเหนือ เตรียมรับฝนตกหนักต่อเนื่อง !! 📌 วันที่ 10 - 14 ก.ค. ฝนจะตกหนักขึ้นอีก #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/tmd.go.th/videos/%EF%B8%8F-%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD-%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9D%E0%B8%99%E0%B8%95%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-10-14-%E0%B8%81%E0%B8%84-/1668747494238307/"
-        }
-      },
-      {
-        "keyword": "단발",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "신예은, 셔츠 단추 '딱 2개'만 아슬하게 채우고…보정 없는 '앙상한 허리' 오픈 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/08/MJRTINTCG5SDOOBTMVSTMMBXMQ/"
-        }
-      },
-      {
-        "keyword": "휴머노이드 로봇",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "China's UBTech launches AI-powered lifelike companion robots",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/"
-        }
-      },
-      {
-        "keyword": "골든스테이트 워리어스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'3년 452억 우린 못 준다' 포스트, 골든스테이트 떠나 멤피스행 확정…RFA 이적 성사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708173331847"
-        }
-      },
-      {
-        "keyword": "김지미",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“김지미가 누구?”…서울역~청량리 곳곳 의문의 낙서",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260708/134256628/2"
-        }
-      },
-      {
-        "keyword": "수서고속철도",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "SR, 국내 최연소 여성 고속철도 기장 배출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260708130300003"
-        }
-      },
-      {
-        "keyword": "무기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[속보] 이 대통령·젤렌스키 정상회담 “우크라 북한군 포로, 당사자 의사 존중·국제법 부합 해결”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607081927001"
-        }
-      },
-      {
-        "keyword": "레버리지",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“롤러코스피에 내 계좌 다 녹았다”… 삼전닉스 2배 노린 투자자들 ‘비명’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260709083904811"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-09T12:31:44.259912+09:00",
     "label": "12:31",
     "items": [
@@ -1369,6 +1263,112 @@
           "title": "빠니보틀·곽튜브·원지가 돌아온다…'지구마불4' 10월 방송, 역대급 시즌 예고",
           "source": "Daum",
           "url": "https://v.daum.net/v/QB4xRUJ6tu"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-10T22:03:09.848433+09:00",
+    "label": "22:03",
+    "items": [
+      {
+        "keyword": "하비에르 아기 레",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "홍명보 빈자리, '크로아 명장' 달리치가 탐낸다! 계속 역대급 매물 터지네, '이강인 은사' 아기레도 관심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/txr5YW2uSN"
+        }
+      },
+      {
+        "keyword": "대한민국의 국방부 장관",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘스티브 유’ 국방장관 논란 일파만파…국방부 “명백한 허위”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710142148072"
+        }
+      },
+      {
+        "keyword": "즐라트코 다리치",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"대한민국이 관심 보였다\" 월드컵 준우승·3위 명장 달리치, 韓 차기 감독 급부상? 정말이라면 빨리 움직여야 한다!…\"여러 국가가 진지한 관심\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710142748285"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Kết quả xổ số miền Bắc hôm nay: Hải Phòng",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ban-doc/ket-qua-xo-so-mien-bac-hom-nay-hai-phong-1733241.ldo"
+        }
+      },
+      {
+        "keyword": "haaland",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Haaland and Bellingham: Dortmund friends taking centre stage in Norway v England battle",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/10/haaland-bellingham-dortmund-friends-centre-stage-norway-v-england-battle-world-cup-2026"
+        }
+      },
+      {
+        "keyword": "안민석",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "우리 아이 안전이 최우선! 충북 집중호우 대비 학생 행동 요령 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224342164922&redirect=Dlog"
+        }
+      },
+      {
+        "keyword": "농축 우라늄",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "외교당국자 \"한국에 우라늄 농축 권한 주면 미국 SMR 산업도 탄력\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PfdbGKNdtO"
+        }
+      },
+      {
+        "keyword": "울진군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "경기북부 사랑의열매, 연천군에 성금 1천280만원 전달",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260709580439"
+        }
+      },
+      {
+        "keyword": "채이배",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한성숙 총리, 비서실장에 채이배 전 의원 임명",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6836555_36911.html"
+        }
+      },
+      {
+        "keyword": "한로로 너와 나",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한로로, 캐릭터 폼폼푸린과 협업 싱글 '너와 나' 발표",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709090318740"
         }
       }
     ]

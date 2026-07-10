@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-10T19:14:20.268685+09:00",
-  "label": "19:14",
+  "timestamp": "2026-07-10T22:03:09.848433+09:00",
+  "label": "22:03",
   "items": [
     {
-      "keyword": "통영시",
-      "traffic_raw": "50000+",
-      "traffic": 50000,
-      "news": null
+      "keyword": "하비에르 아기 레",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "홍명보 빈자리, '크로아 명장' 달리치가 탐낸다! 계속 역대급 매물 터지네, '이강인 은사' 아기레도 관심",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/txr5YW2uSN"
+      }
     },
     {
-      "keyword": "홈런더비",
+      "keyword": "대한민국의 국방부 장관",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "허리 통증 LG 오스틴, 올스타전 홈런더비 불참…SSG 오태곤 출전",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260710099100007"
+        "title": "‘스티브 유’ 국방장관 논란 일파만파…국방부 “명백한 허위”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260710142148072"
       }
     },
     {
-      "keyword": "동거",
+      "keyword": "즐라트코 다리치",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“아버지가 5년 동거女에 15억 전재산 주고 가셨습니다”",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11601837"
-      }
-    },
-    {
-      "keyword": "샌들",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "올여름 진짜 꾸밈은 발목 아래에서 시작됩니다",
-        "source": "W Korea",
-        "url": "https://www.wkorea.com/2026/07/07/%EC%A7%80%EA%B8%88-%EC%8B%9C%EC%A6%8C%EC%97%90%EB%A7%8C-%EA%BE%B8%EA%BE%B8%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%8B%A0%EC%B2%B4%EB%B6%80%EC%9C%84%EB%8A%94-%EC%96%B4%EB%94%94/"
-      }
-    },
-    {
-      "keyword": "lyon",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Opération escargot des ambulanciers : circulation compliquée depuis La Valentine jusqu'à Marseille sur l'A50",
-        "source": "La Provence",
-        "url": "https://www.laprovence.com/article/sante/2732529361405514/operation-escargot-des-ambulanciers-circulation-compliquee-depuis-la-valentine-jusqua-marseille-sur-la50"
-      }
-    },
-    {
-      "keyword": "황영묵",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'안타-안타-볼넷-안타' 9번타자가 이 정도였다…'100% 출루' 심우준 \"후반기 잘 준비할 수 있을 것 같아\" [오!쎈 대전]",
+        "title": "\"대한민국이 관심 보였다\" 월드컵 준우승·3위 명장 달리치, 韓 차기 감독 급부상? 정말이라면 빨리 움직여야 한다!…\"여러 국가가 진지한 관심\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/Px93afkLlY"
+        "url": "https://v.daum.net/v/20260710142748285"
       }
     },
     {
-      "keyword": "올다르크",
+      "keyword": "xsmb",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Kết quả xổ số miền Bắc hôm nay: Hải Phòng",
+        "source": "Laodong.vn",
+        "url": "https://laodong.vn/ban-doc/ket-qua-xo-so-mien-bac-hom-nay-hai-phong-1733241.ldo"
+      }
+    },
+    {
+      "keyword": "haaland",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘성조기 여성’ 경찰 출석…태극기 셔츠 입고 목에는 십자가",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1267736.html"
+        "title": "Haaland and Bellingham: Dortmund friends taking centre stage in Norway v England battle",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/10/haaland-bellingham-dortmund-friends-centre-stage-norway-v-england-battle-world-cup-2026"
       }
     },
     {
-      "keyword": "kb국민카드",
+      "keyword": "안민석",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "KB국민카드, 김우빈과 'ALL·YOU·NEED' 캠페인 3000만뷰 달성",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260710_0003704816"
+        "title": "우리 아이 안전이 최우선! 충북 집중호우 대비 학생 행동 요령 : 네이버 블로그",
+        "source": "Naver Blog",
+        "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224342164922&redirect=Dlog"
       }
     },
     {
-      "keyword": "모나미",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "상폐 위기서 \"상한가, 상한가\" 국민 응원...크래미의 기적 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/07/10/2026071009581969012"
-      }
-    },
-    {
-      "keyword": "지구마불 세계여행",
+      "keyword": "농축 우라늄",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "빠니보틀·곽튜브·원지가 돌아온다…'지구마불4' 10월 방송, 역대급 시즌 예고",
+        "title": "외교당국자 \"한국에 우라늄 농축 권한 주면 미국 SMR 산업도 탄력\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/QB4xRUJ6tu"
+        "url": "https://v.daum.net/v/PfdbGKNdtO"
+      }
+    },
+    {
+      "keyword": "울진군",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "경기북부 사랑의열매, 연천군에 성금 1천280만원 전달",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260709580439"
+      }
+    },
+    {
+      "keyword": "채이배",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "한성숙 총리, 비서실장에 채이배 전 의원 임명",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6836555_36911.html"
+      }
+    },
+    {
+      "keyword": "한로로 너와 나",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "한로로, 캐릭터 폼폼푸린과 협업 싱글 '너와 나' 발표",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260709090318740"
       }
     }
   ]
