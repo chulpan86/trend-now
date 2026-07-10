@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-10T08:57:40.547513+09:00",
-  "label": "08:57",
+  "timestamp": "2026-07-10T11:45:17.269080+09:00",
+  "label": "11:45",
   "items": [
     {
-      "keyword": "박문성",
+      "keyword": "퇴직",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "침묵 깬 홍명보 “협박 때문에 가족 지키려 미국 온 것···국회 청문회서 어떤 질문도 피하지 않겠다”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607091533001"
+        "title": "\"우리 회사서 일해주세요\"…60대 퇴직자에 러브콜 쏟아진 이유",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026070962631"
       }
     },
     {
-      "keyword": "노르웨이 잉글랜드",
+      "keyword": "황 유민",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "음바페의 프랑스 월드컵 우승확률 1위…메시의 아르헨티나는 3위, 북중미 월드컵 8강전 누가 이길까?",
+        "title": "유해란, 5언더파 신바람…'메이저 대회 2연승 GO~'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260710063711523"
+        "url": "https://v.daum.net/v/20260710051727234"
       }
     },
     {
-      "keyword": "버스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "회사",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "Witnesses describe horror and disbelief after Pikesville bus crash",
-        "source": "WBAL-TV",
-        "url": "https://www.wbaltv.com/article/pikesville-bus-crash-building-dozens-injured-what-witnesses-saw/71887509"
+        "title": "부하직원 폭행한 대한적십자사 충북지사 회장 벌금 500만원",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260710104639613"
       }
     },
     {
-      "keyword": "앤트로픽",
+      "keyword": "고양이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "앤트로픽, '노벨상' 버냉키 前연준의장 독립 지배기구 위원 위촉",
+        "title": "'최고급'이라더니 먹고 다리 마비…수천 냥이 집사들 '분노'",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026070910301218037"
+      }
+    },
+    {
+      "keyword": "진단서",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[단독]\"돈내야 사망진단서 준다\"…인천 병원서 의료법 위반 논란",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260710052450318"
+        "url": "https://v.daum.net/v/20260710050300979"
       }
     },
     {
-      "keyword": "경매",
+      "keyword": "독서로",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "충북교육청, 본격 운영 : 네이버 블로그",
+        "source": "Naver Blog",
+        "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224340609637&redirect=Dlog"
+      }
+    },
+    {
+      "keyword": "한국항공우주산업",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"서울만 달랐다\"...아파트 경매 낙찰가율 101.7%, 소형은 113% 육박",
+        "title": "하늘에서 농업을 보다",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967714"
+      }
+    },
+    {
+      "keyword": "하워드 러트닉",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "미 상무장관, \"삼성·하이닉스 美 내 반도체 팹 확대해라\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/tech_it/2026/07/10/52BJIXJGT5HO7N652ZDK75RLRI/"
+      }
+    },
+    {
+      "keyword": "게임",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"지원 방식 다양화 필요\"…콘진원, 게임산업 간담회",
         "source": "Daum",
-        "url": "https://v.daum.net/v/YPnaCaYCTt"
+        "url": "https://v.daum.net/v/20260710083039870"
       }
     },
     {
-      "keyword": "경로당",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "부천시, 어르신 만성질환 예방…'경로당 주치의제' 운영",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260709_0003702888"
-      }
-    },
-    {
-      "keyword": "저비용 항공사",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'저가 경쟁 끝'…LCC, '다각화·통합·프리미엄화'로 전략 수정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/KcYjVX8Bll"
-      }
-    },
-    {
-      "keyword": "동아일보",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "불법·허위조작정보 반복 유통 땐 과징금 최대 10억 원",
-        "source": "K-공감",
-        "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10201000000&section_id=NCCD_POLICY&content=NC002&code_cd=0101000000&nPage=1&b_list=9&news_id=51d503d3-27ba-4ebf-a899-c85c3c5bbed9"
-      }
-    },
-    {
-      "keyword": "잉글랜드 노르웨이",
+      "keyword": "포켓몬고",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“잉글랜드 최고는 EPL에 없다” 노르웨이 감독 도발, 케인·벨링엄 콕 찍었다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260709084851165"
-      }
-    },
-    {
-      "keyword": "france maroc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Inefficace puis emballante : l'équipe de France vient à bout du Maroc et file en demi-finales de la Coupe du monde 2026",
-        "source": "L'Équipe",
-        "url": "https://www.lequipe.fr/Football/Actualites/Inefficace-puis-emballante-l-equipe-de-france-vient-a-bout-du-maroc-et-file-en-demi-finales-de-la-coupe-du-monde-2026/1703110"
+        "title": "\"Pokémon GO\" 10주년을 축하해 주세요!",
+        "source": "Pokémon GO",
+        "url": "https://pokemongolive.com/ko/news/pokemongo-10th-anniversary-art"
       }
     }
   ]
