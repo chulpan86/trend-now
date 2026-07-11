@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-11T16:05:47.563273+09:00",
-  "label": "16:05",
+  "timestamp": "2026-07-11T18:17:06.034840+09:00",
+  "label": "18:17",
   "items": [
     {
-      "keyword": "코너 맥그리거",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "이효리",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "맥그리거, 5년 만의 복귀 앞두고 계체 통과…내일 할로웨이 상대",
+        "title": "이효리 결국 참지 못했다…故 휘성 '안 되나요'에 눈물",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260711_0003705232"
+        "url": "https://www.newsis.com/view/NISX20260711_0003705176"
       }
     },
     {
-      "keyword": "도경완",
+      "keyword": "부동산",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "집단지성? 답정너?…李 ‘국민 부동산 토론회’ 앞두고 與野 설전",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260711/134278896/1"
+      }
+    },
+    {
+      "keyword": "전지현",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "장윤정 모친 논란 후…도경완, 첫 심경 고백 \"집 전체가 어두워져\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115"
+        "title": "전지현, 홍콩서 확 달라진 피부톤…구릿빛 태닝 자국 포착",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711111927314"
       }
     },
     {
-      "keyword": "아 문디 에비앙 챔피언십",
+      "keyword": "스톨레 솔바켄",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "김효주·윤이나·김세영, 에비앙 둘째날 어땠나? [LPGA 메이저]",
-        "source": "골프한국",
-        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021114"
-      }
-    },
-    {
-      "keyword": "송치",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "폭염 속 군 마라톤서 취사병 사망…사단장 등 4명 검찰 송치",
+        "title": "브라질 잡은 노르웨이, 이번엔 잉글랜드...노르웨이 감독, \"부담은 저쪽이 더 크다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/BgCFNB71SS"
+        "url": "https://v.daum.net/v/20260711123707184"
       }
     },
     {
-      "keyword": "한국경제",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "소송",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "훨훨 나는 한국...해외서도 '깜짝'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/x1beizUZT3"
+        "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260711084121"
       }
     },
     {
-      "keyword": "중동전쟁",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "IEA \"6월 석유 공급 늘었지만…지속 가능한 평화협정 필요\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260710147900081"
-      }
-    },
-    {
-      "keyword": "오타니 쇼헤이",
+      "keyword": "곽혈수",
       "traffic_raw": "500+",
       "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "올스타전 2026",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "다저스 오타니, 무릎 통증으로 선발 등판 취소…올스타전도 불참",
+        "title": "‘파라파라와 굽은 손가락’ 정수빈의 ‘잠실 야호’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8608174"
+      }
+    },
+    {
+      "keyword": "lyon",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Ce pont très fréquenté à Lyon perturbé tout l’été à cause de travaux, voici les dates à retenir",
+        "source": "Actu.fr",
+        "url": "https://actu.fr/auvergne-rhone-alpes/lyon_69123/ce-pont-tres-frequente-a-lyon-perturbe-tout-l-ete-a-cause-de-travaux-voici-les-dates-a-retenir_64509952.html"
+      }
+    },
+    {
+      "keyword": "이준영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'유퀴즈' 최고 5.6%∙'2049 타깃' 전채널 1위..‘입대 전’ 이준영→이소라 예고 기대 UP [美친 시청률]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/ZtIXCMPK7F"
+        "url": "https://v.daum.net/v/tmBAvgWIvw"
       }
     },
     {
-      "keyword": "국힘",
+      "keyword": "최태원 김희영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "시장 혼돈 키우는 ‘정책실장 입’… 대출 막고 증시 불안 가져왔다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/economy_general/2026/07/11/YLOQ3BUPJRH5XNBTCIB4AZDDV4/"
-      }
-    },
-    {
-      "keyword": "민주당",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "민주, 보완수사권 폐지 절차 착수‥국힘 \"보완수사권 존치 당연\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836612_37004.html"
-      }
-    },
-    {
-      "keyword": "아이폰",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Apple's iPhone 18 Pro Max might come with a massive battery",
-        "source": "Mashable",
-        "url": "https://mashable.com/tech/iphone-18-pro-battery-size"
+        "title": "[단독] 최태원·김희영의 티앤씨재단, SK 한국고등교육재단에 새 둥지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/7PRWwJlwhw?f=m"
       }
     }
   ]
