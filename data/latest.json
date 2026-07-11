@@ -1,51 +1,51 @@
 {
-  "timestamp": "2026-07-11T19:54:27.186556+09:00",
-  "label": "19:54",
+  "timestamp": "2026-07-11T20:43:56.578817+09:00",
+  "label": "20:43",
   "items": [
     {
-      "keyword": "울산 대 전북",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "2위 울산-4위 전북, 승점 차는 단 1점, '현대家 더비' 승자는? [오!쎈프리뷰] - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/football/2026/07/11/MU3TANTEMRQWCNTCMYYTSZRXG4/"
-      }
-    },
-    {
-      "keyword": "투수",
+      "keyword": "k리그2",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "폭염 경보 뛰어넘은 야구 열기...KBO 올스타전 5년 연속 매진",
+        "title": "K리그2 수원FC, 전남 5-0 완파…'9골' 프리조 득점 선두",
         "source": "Daum",
-        "url": "https://v.daum.net/v/FYSDtwkLtf"
+        "url": "https://v.daum.net/v/20260710213047466?f=p"
       }
     },
     {
-      "keyword": "xsmn",
+      "keyword": "공유",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'도깨비 10주년' 예상 밖 영상…공유·김고은·이동욱·유인나 울컥",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711174201975"
+      }
+    },
+    {
+      "keyword": "전국공무원노동조합",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "XSMT 11/7 - Kết quả xổ số miền Trung hôm nay ngày 11/7/2026",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/xsmt-11-7-ket-qua-xo-so-mien-trung-hom-nay-ngay-11-7-2026"
+        "title": "“공무원도 국민이다”…임금·연금·노동권 요구 1만4000명 집결",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711153909228"
       }
     },
     {
-      "keyword": "김천상무 대 부천",
+      "keyword": "냄새",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "김천상무, 홈경기서 부천전 7연승 도전…승점 3점 노린다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260710_0003704764"
+        "title": "여름철만 되면 심해지는 화장실 냄새, 90%는 여기서 시작된다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/QIjVDP4qyl"
       }
     },
     {
       "keyword": "삼성 엑시노스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "Samsung Going Full Throttle With Exynos SoC Development, As Company Has Three Generations Of Releases Planned To Rid Itself Of Qualcomm",
         "source": "Wccftech",
@@ -54,8 +54,8 @@
     },
     {
       "keyword": "k리그1",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "부천, U-21 대표 미드필더 성예건 영입...\"후반기 중원 강화\"",
         "source": "Daum",
@@ -63,23 +63,29 @@
       }
     },
     {
-      "keyword": "고가도로",
+      "keyword": "공매도",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "김신의",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "인천 고가도로 달리던 승용차 정면 충돌…3명 사망",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pHrrWLJ6Ga"
+        "title": "이찬원, 3대 기획사가 놓친 인재…“‘부활’ 불렀다가 광탈” (불명)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260711/134278916/1"
       }
     },
     {
-      "keyword": "문현빈",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "서학 개미",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "잠실과 이별하는 류현진 \"투수들이 가장 좋아하는 구장, 안녕\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260711041500007"
+        "title": "“반도체주 떨어졌다고요? 3배로 베팅”…레버리지 싹쓸이한 서학개미",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711071500323"
       }
     },
     {
@@ -90,16 +96,6 @@
         "title": "Goat escort guides Colorado Springs firefighters through terrain to ‘Rock Creek Fire’",
         "source": "KKTV",
         "url": "https://www.kktv.com/2026/07/09/goat-escort-guides-colorado-springs-firefighters-through-terrain-rock-creek-fire/"
-      }
-    },
-    {
-      "keyword": "박준순",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"제가 이렇게 잘 칠 줄 몰랐죠\" 홈런 치는 두산 '순이', 장타 의심 지우고 올스타·태극마크까지 다 이뤘다 [인터뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/06QWiGfzhz?f=p"
       }
     }
   ]
