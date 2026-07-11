@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-07-12T04:58:49.471034+09:00",
-  "label": "04:58",
+  "timestamp": "2026-07-12T05:47:59.312258+09:00",
+  "label": "05:47",
   "items": [
+    {
+      "keyword": "노르웨이 대 잉글랜드",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2hwXP2b0uX"
+      }
+    },
     {
       "keyword": "남아프리카 공화국 축구 국가대표팀",
       "traffic_raw": "2000+",
@@ -10,6 +20,16 @@
         "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
         "source": "동아일보",
         "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1"
+      }
+    },
+    {
+      "keyword": "norway vs england",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "England vs Norway LIVE: Watch World Cup 2026 quarter-final build-up, prediction, lineups & weather updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cgl33l55100t"
       }
     },
     {
@@ -27,9 +47,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'월드컵 1골 1도움' 황인범, 포르투갈 '명문' 포르투가 관심",
+        "title": "'韓 월드컵 최초 역사' 황인범, 포르투갈 최고 명문이 부른다!…\"FC포르투 영입 조건 부합, 감독도 HWANG 잘 알아\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/8ZtiHhOcHv"
+        "url": "https://v.daum.net/v/fEmTp5HlXo"
       }
     },
     {
@@ -43,13 +63,23 @@
       }
     },
     {
-      "keyword": "아파트 드라마",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "집",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
+        "title": "\"집 3채, 잠이 안 온다\" 악몽되나...50대 대기업 김 부장, 자산 보니 [부동산 아토즈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260711220159629"
+        "url": "https://v.daum.net/v/20260711150137804"
+      }
+    },
+    {
+      "keyword": "ufc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "McGregor vows to smash Holloway after sunglasses snatch at Las Vegas presser - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/07/10/ESVDKFEOUFBBFBOMO3UOF6RQCI/"
       }
     },
     {
@@ -63,16 +93,6 @@
       }
     },
     {
-      "keyword": "jayden adams",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "South Africa World Cup midfielder Adams dies aged 25",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/articles/cr47y5nvrqlo"
-      }
-    },
-    {
       "keyword": "louis phạm",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -80,26 +100,6 @@
         "title": "Louis Phạm lên tiếng ngay trong đêm về việc lộ clip nhạy cảm: \"Tôi không làm gì sai\"",
         "source": "Kenh14.vn",
         "url": "https://kenh14.vn/louis-pham-len-tieng-ngay-trong-dem-ve-viec-lo-clip-nhay-cam-toi-khong-lam-gi-sai-215260712013010075.chn"
-      }
-    },
-    {
-      "keyword": "norway vs england",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "England vs Norway LIVE: Watch World Cup 2026 quarter-final build-up, prediction, lineups & weather updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cgl33l55100t"
-      }
-    },
-    {
-      "keyword": "김지영",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의 걸크러시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712011127246"
       }
     }
   ]
