@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-12T07:37:05.246546+09:00",
-  "label": "07:37",
+  "timestamp": "2026-07-12T08:43:09.705747+09:00",
+  "label": "08:43",
   "items": [
     {
-      "keyword": "하윤경",
+      "keyword": "사건",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "[시험대 오른 경찰] ③ 檢보완수사에 드러난 민낯…역량강화·신뢰회복 급선무",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712060227212"
+      }
+    },
+    {
+      "keyword": "음식",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
+        "title": "데이트할 때도 '이 음식'으로…제이제이, 잘록한 허리비결?",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260711_0003705292"
+      }
+    },
+    {
+      "keyword": "범죄",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "정점식 폰도 불났다…“배신자” 문자 폭탄에 떠는 국힘",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260711220159629"
+        "url": "https://v.daum.net/v/BbKfmMPKyX"
       }
     },
     {
-      "keyword": "박현경",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "이찬원",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "하이원리조트 무빙데이 희비 엇갈린 박현경과 김민솔 [KLPGA]",
-        "source": "골프한국",
-        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021122"
+        "title": "이찬원, 쓰라린 추억 소환…“부활 노래 불렀다 오디션 탈락”(‘불후’) - 스타투데이",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/broadcasting-service/12096109"
       }
     },
     {
-      "keyword": "벨링엄",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "방탄소년단",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "투헬: 뭐?! 팔 부상이라고?!! 스톤스&라이스: 장난~ㅋㅋ... 오늘도 훈훈한 잉글랜드 락커룸",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BL8SP9jJuj"
+        "title": "BTS 진의 압도적인 눈맞춤, 엘르 6종 커버 공개",
+        "source": "엘르 코리아 │ ELLE KOREA",
+        "url": "https://www.elle.co.kr/article/1906015"
       }
     },
     {
-      "keyword": "노르웨이",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "발로건은 '구제', 콴사는 '중징계'…뭐가 다르길래",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/tsLjCJRfUt"
-      }
-    },
-    {
-      "keyword": "이란",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "트럼프 \"휴전 종료 통보\"…이란 \"항복 없다\"",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260711104230Yad"
-      }
-    },
-    {
-      "keyword": "นอร์เวย์ พบ อังกฤษ",
+      "keyword": "베컴",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "LIVE ดูบอลสด นอร์เวย์ พบ อังกฤษ (12 ก.ค.) วันนี้ 04.00 น. บอลโลก 2026 รอบ 8 ทีมสุดท้าย",
-        "source": "Thairath.co.th",
-        "url": "https://www.thairath.co.th/sport/worldcup/2944617"
+        "title": "베컴 子, 화해 요청 무시→'13조 처가'에 올인…가족 불화 속 아내만 '공주님' 대접 [할리웃통신]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711163149902"
       }
     },
     {
-      "keyword": "kbs",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "na uy đấu với anh",
+      "keyword": "제니",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Na Uy - Anh: Haaland so tài Harry Kane",
-        "source": "VnExpress",
-        "url": "https://vnexpress.net/na-uy-anh-haaland-so-tai-harry-kane-5096342.html"
+        "title": "제니는 유럽 접수중…스페인 페스티벌도 장악",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260710180101742"
       }
     },
     {
-      "keyword": "북중미 월드컵",
+      "keyword": "노르웨이 축구 국가대표팀",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“이름도 홀란으로”…월드컵 맹활약에 페루 부모들 작명 열풍",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20260712/134279549/1"
+      }
+    },
+    {
+      "keyword": "카카",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'현대판 야신'도 무너졌다…프랑스 화력에 '59경기 무패 신화' 종료→4년 전 카타르 대회 이어 또다시 2골 차 영패 쓴잔",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/XV2UfVcnhp"
+        "title": "Brazilian soccer star buys $8.7M Miami-Dade condo. See inside the beachfront home",
+        "source": "Miami Herald",
+        "url": "https://www.miamiherald.com/news/business/real-estate-news/article316461531.html"
       }
     },
     {
-      "keyword": "스타뉴스",
+      "keyword": "lịch world cup 2026",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'전액 현금' 장원영·뷔→'방배 청약' 안유진, 넘사벽 영앤리치 클래스 [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712060209188"
+        "title": "Lịch thi đấu bóng đá hôm nay 12/7 và sáng 13/7",
+        "source": "Báo Thế giới và Việt Nam",
+        "url": "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-12-7-va-sang-13-7-415969.html"
       }
     }
   ]

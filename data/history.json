@@ -2420,5 +2420,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-12T08:43:09.705747+09:00",
+    "label": "08:43",
+    "items": [
+      {
+        "keyword": "사건",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[시험대 오른 경찰] ③ 檢보완수사에 드러난 민낯…역량강화·신뢰회복 급선무",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712060227212"
+        }
+      },
+      {
+        "keyword": "음식",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "데이트할 때도 '이 음식'으로…제이제이, 잘록한 허리비결?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260711_0003705292"
+        }
+      },
+      {
+        "keyword": "범죄",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "정점식 폰도 불났다…“배신자” 문자 폭탄에 떠는 국힘",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BbKfmMPKyX"
+        }
+      },
+      {
+        "keyword": "이찬원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이찬원, 쓰라린 추억 소환…“부활 노래 불렀다 오디션 탈락”(‘불후’) - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12096109"
+        }
+      },
+      {
+        "keyword": "방탄소년단",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "BTS 진의 압도적인 눈맞춤, 엘르 6종 커버 공개",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "url": "https://www.elle.co.kr/article/1906015"
+        }
+      },
+      {
+        "keyword": "베컴",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "베컴 子, 화해 요청 무시→'13조 처가'에 올인…가족 불화 속 아내만 '공주님' 대접 [할리웃통신]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711163149902"
+        }
+      },
+      {
+        "keyword": "제니",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "제니는 유럽 접수중…스페인 페스티벌도 장악",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710180101742"
+        }
+      },
+      {
+        "keyword": "노르웨이 축구 국가대표팀",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“이름도 홀란으로”…월드컵 맹활약에 페루 부모들 작명 열풍",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260712/134279549/1"
+        }
+      },
+      {
+        "keyword": "카카",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Brazilian soccer star buys $8.7M Miami-Dade condo. See inside the beachfront home",
+          "source": "Miami Herald",
+          "url": "https://www.miamiherald.com/news/business/real-estate-news/article316461531.html"
+        }
+      },
+      {
+        "keyword": "lịch world cup 2026",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Lịch thi đấu bóng đá hôm nay 12/7 và sáng 13/7",
+          "source": "Báo Thế giới và Việt Nam",
+          "url": "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-12-7-va-sang-13-7-415969.html"
+        }
+      }
+    ]
   }
 ]
