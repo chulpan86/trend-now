@@ -2314,5 +2314,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-12T06:39:28.576604+09:00",
+    "label": "06:39",
+    "items": [
+      {
+        "keyword": "투자",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "SK하닉 나스닥 잭팟 … K-개미 웃지 못하는 이유 [박진우의 개미수다]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712053127955"
+        }
+      },
+      {
+        "keyword": "노르웨이 대 잉글랜드",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2hwXP2b0uX"
+        }
+      },
+      {
+        "keyword": "남아프리카 공화국 축구 국가대표팀",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1"
+        }
+      },
+      {
+        "keyword": "아틀레티코 마드리드",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "홍명보호 부진과 딴판…이강인·이한범·오현규, 유럽 이적시장 '러브콜 쇄도'",
+          "source": "www.nocutnews.co.kr",
+          "url": "https://www.nocutnews.co.kr/news/6546187"
+        }
+      },
+      {
+        "keyword": "집",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "자기 집에 불 내고 어머니와 대피…기막힌 범행 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711163601949"
+        }
+      },
+      {
+        "keyword": "세균",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html"
+        }
+      },
+      {
+        "keyword": "ufc",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "McGregor vows to smash Holloway after sunglasses snatch at Las Vegas presser - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/10/ESVDKFEOUFBBFBOMO3UOF6RQCI/"
+        }
+      },
+      {
+        "keyword": "가짜뉴스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "7월 내내 장마·8월 극한 폭염?…SNS 떠도는 예보 보니 [사실은]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710203904713"
+        }
+      },
+      {
+        "keyword": "england vs norway",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'The shape of his life' - Tuchel says Kane is at his absolute best ahead of Norway clash",
+          "source": "TNT Sports",
+          "url": "https://www.tntsports.co.uk/football/world-cup/2026/the-shape-of-his-life-thomas-tuchel-says-harry-kane-is-at-his-absolute-best-ahead-of-englands-fifa-world-cup-quarter-final-against-norway_vid60087492/video.shtml"
+        }
+      },
+      {
+        "keyword": "louis phạm",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Louis Phạm - cái tên đang được tìm kiếm rần rần là ai?",
+          "source": "Ngôi Sao VN",
+          "url": "https://ngoisao.vn/gioi-tre/hotgirl-hotboy/louis-pham--cai-ten-dang-duoc-tim-kiem-ran-ran-la-ai-d488123.html"
+        }
+      }
+    ]
   }
 ]

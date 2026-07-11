@@ -1,11 +1,21 @@
 {
-  "timestamp": "2026-07-12T05:47:59.312258+09:00",
-  "label": "05:47",
+  "timestamp": "2026-07-12T06:39:28.576604+09:00",
+  "label": "06:39",
   "items": [
     {
+      "keyword": "투자",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "SK하닉 나스닥 잭팟 … K-개미 웃지 못하는 이유 [박진우의 개미수다]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712053127955"
+      }
+    },
+    {
       "keyword": "노르웨이 대 잉글랜드",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
         "source": "Daum",
@@ -14,8 +24,8 @@
     },
     {
       "keyword": "남아프리카 공화국 축구 국가대표팀",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
         "source": "동아일보",
@@ -23,59 +33,39 @@
       }
     },
     {
-      "keyword": "norway vs england",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "아틀레티코 마드리드",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "England vs Norway LIVE: Watch World Cup 2026 quarter-final build-up, prediction, lineups & weather updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cgl33l55100t"
-      }
-    },
-    {
-      "keyword": "카롤리나 무초바",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "노스코바, 복식 파트너 무호바 꺾고 윔블던 첫 우승",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260712001700007"
-      }
-    },
-    {
-      "keyword": "황인범",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'韓 월드컵 최초 역사' 황인범, 포르투갈 최고 명문이 부른다!…\"FC포르투 영입 조건 부합, 감독도 HWANG 잘 알아\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fEmTp5HlXo"
-      }
-    },
-    {
-      "keyword": "김이서",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260711n11762"
+        "title": "홍명보호 부진과 딴판…이강인·이한범·오현규, 유럽 이적시장 '러브콜 쇄도'",
+        "source": "www.nocutnews.co.kr",
+        "url": "https://www.nocutnews.co.kr/news/6546187"
       }
     },
     {
       "keyword": "집",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"집 3채, 잠이 안 온다\" 악몽되나...50대 대기업 김 부장, 자산 보니 [부동산 아토즈]",
+        "title": "자기 집에 불 내고 어머니와 대피…기막힌 범행 이유",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260711150137804"
+        "url": "https://v.daum.net/v/20260711163601949"
+      }
+    },
+    {
+      "keyword": "세균",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html"
       }
     },
     {
       "keyword": "ufc",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "McGregor vows to smash Holloway after sunglasses snatch at Las Vegas presser - CHOSUNBIZ",
         "source": "Chosunbiz",
@@ -83,13 +73,23 @@
       }
     },
     {
-      "keyword": "이승기",
+      "keyword": "가짜뉴스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "94억 땅에 집 완공했더니 \"열쇠 못 줘\"…이승기 또 악재",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651796"
+        "title": "7월 내내 장마·8월 극한 폭염?…SNS 떠도는 예보 보니 [사실은]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260710203904713"
+      }
+    },
+    {
+      "keyword": "england vs norway",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'The shape of his life' - Tuchel says Kane is at his absolute best ahead of Norway clash",
+        "source": "TNT Sports",
+        "url": "https://www.tntsports.co.uk/football/world-cup/2026/the-shape-of-his-life-thomas-tuchel-says-harry-kane-is-at-his-absolute-best-ahead-of-englands-fifa-world-cup-quarter-final-against-norway_vid60087492/video.shtml"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Louis Phạm lên tiếng ngay trong đêm về việc lộ clip nhạy cảm: \"Tôi không làm gì sai\"",
-        "source": "Kenh14.vn",
-        "url": "https://kenh14.vn/louis-pham-len-tieng-ngay-trong-dem-ve-viec-lo-clip-nhay-cam-toi-khong-lam-gi-sai-215260712013010075.chn"
+        "title": "Louis Phạm - cái tên đang được tìm kiếm rần rần là ai?",
+        "source": "Ngôi Sao VN",
+        "url": "https://ngoisao.vn/gioi-tre/hotgirl-hotboy/louis-pham--cai-ten-dang-duoc-tim-kiem-ran-ran-la-ai-d488123.html"
       }
     }
   ]
