@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-12T03:44:26.560329+09:00",
-  "label": "03:44",
+  "timestamp": "2026-07-12T04:58:49.471034+09:00",
+  "label": "04:58",
   "items": [
     {
       "keyword": "남아프리카 공화국 축구 국가대표팀",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
         "source": "동아일보",
@@ -13,33 +13,13 @@
       }
     },
     {
-      "keyword": "지상작전사령부",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독]종합특검, '내란 가담' 강호필 전 지작사령관 구속영장…13일 심사",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711193000494"
-      }
-    },
-    {
-      "keyword": "린다 노스코바",
+      "keyword": "카롤리나 무초바",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
         "title": "노스코바, 복식 파트너 무호바 꺾고 윔블던 첫 우승",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260712001700007"
-      }
-    },
-    {
-      "keyword": "김이서",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260711n11762"
       }
     },
     {
@@ -53,6 +33,16 @@
       }
     },
     {
+      "keyword": "김이서",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260711n11762"
+      }
+    },
+    {
       "keyword": "아파트 드라마",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -60,6 +50,16 @@
         "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260711220159629"
+      }
+    },
+    {
+      "keyword": "이승기",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "94억 땅에 집 완공했더니 \"열쇠 못 줘\"…이승기 또 악재",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651796"
       }
     },
     {
@@ -73,13 +73,13 @@
       }
     },
     {
-      "keyword": "이승기",
+      "keyword": "louis phạm",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "94억 땅에 집 완공했더니 \"열쇠 못 줘\"…이승기 또 악재",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651796"
+        "title": "Louis Phạm lên tiếng ngay trong đêm về việc lộ clip nhạy cảm: \"Tôi không làm gì sai\"",
+        "source": "Kenh14.vn",
+        "url": "https://kenh14.vn/louis-pham-len-tieng-ngay-trong-dem-ve-viec-lo-clip-nhay-cam-toi-khong-lam-gi-sai-215260712013010075.chn"
       }
     },
     {
@@ -87,9 +87,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "World Cup 2026: Risk of thunderstorms before England's quarter-final with Norway",
+        "title": "England vs Norway LIVE: Watch World Cup 2026 quarter-final build-up, prediction, lineups & weather updates",
         "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo"
+        "url": "https://www.bbc.com/sport/football/live/cgl33l55100t"
       }
     },
     {
