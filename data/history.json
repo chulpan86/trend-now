@@ -1996,5 +1996,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-12T02:45:24.507325+09:00",
+    "label": "02:45",
+    "items": [
+      {
+        "keyword": "지상작전사령부",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독]종합특검, '내란 가담' 강호필 전 지작사령관 구속영장…13일 심사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711193000494"
+        }
+      },
+      {
+        "keyword": "김이서",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260711n11762"
+        }
+      },
+      {
+        "keyword": "아파트 드라마",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711220159629"
+        }
+      },
+      {
+        "keyword": "배지현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "잠실과 이별하는 류현진 \"투수들이 가장 좋아하는 구장, 안녕\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260711041500007"
+        }
+      },
+      {
+        "keyword": "카롤리나 무초바",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "올림픽 복식 동지, 윔블던 단식 결승 적으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uATcZspX75"
+        }
+      },
+      {
+        "keyword": "황인범",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'월드컵 1골 1도움' 황인범, 포르투갈 '명문' 포르투가 관심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8ZtiHhOcHv"
+        }
+      },
+      {
+        "keyword": "jayden adams",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "South Africa World Cup midfielder Adams dies aged 25",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cr47y5nvrqlo"
+        }
+      },
+      {
+        "keyword": "혜은이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "전영록, 촬영 중 장 파열…\"15층 건물서 뛰어내렸는데 줄 끊어져\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/10/2026071010295119109"
+        }
+      },
+      {
+        "keyword": "norway vs england",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "World Cup 2026: Risk of thunderstorms before England's quarter-final with Norway",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo"
+        }
+      },
+      {
+        "keyword": "김지영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의 걸크러시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712011127246"
+        }
+      }
+    ]
   }
 ]

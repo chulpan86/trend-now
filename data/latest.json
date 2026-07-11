@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-12T01:42:34.967310+09:00",
-  "label": "01:42",
+  "timestamp": "2026-07-12T02:45:24.507325+09:00",
+  "label": "02:45",
   "items": [
     {
       "keyword": "지상작전사령부",
@@ -10,6 +10,16 @@
         "title": "[단독]종합특검, '내란 가담' 강호필 전 지작사령관 구속영장…13일 심사",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260711193000494"
+      }
+    },
+    {
+      "keyword": "김이서",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260711n11762"
       }
     },
     {
@@ -33,6 +43,16 @@
       }
     },
     {
+      "keyword": "카롤리나 무초바",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "올림픽 복식 동지, 윔블던 단식 결승 적으로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/uATcZspX75"
+      }
+    },
+    {
       "keyword": "황인범",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -40,16 +60,6 @@
         "title": "'월드컵 1골 1도움' 황인범, 포르투갈 '명문' 포르투가 관심",
         "source": "Daum",
         "url": "https://v.daum.net/v/8ZtiHhOcHv"
-      }
-    },
-    {
-      "keyword": "김이서",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260711n11762"
       }
     },
     {
@@ -73,23 +83,13 @@
       }
     },
     {
-      "keyword": "특임국",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“소지섭보다 빨랐다” 손나은, 주상욱 음모 뚫고 서수민 구출 성공",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711224409335"
-      }
-    },
-    {
-      "keyword": "카롤리나 무초바",
+      "keyword": "norway vs england",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "올림픽 복식 동지, 윔블던 단식 결승 적으로",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/uATcZspX75"
+        "title": "World Cup 2026: Risk of thunderstorms before England's quarter-final with Norway",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“딴 살림 차렸나 싶어서” 김지영, 윤경호 기강 잡는 남다른 포스 보이며 강렬한 등장♨",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/drama/mrkim/clip/88561/OC480609843"
+        "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의 걸크러시",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712011127246"
       }
     }
   ]
