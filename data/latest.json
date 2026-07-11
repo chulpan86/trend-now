@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-11T13:54:20.605775+09:00",
-  "label": "13:54",
+  "timestamp": "2026-07-11T16:05:47.563273+09:00",
+  "label": "16:05",
   "items": [
     {
-      "keyword": "축구 감독",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "\"이강인은 내 친아들\" 홍명보 후임 후보 또 나왔다, 멕시코 지휘봉 내려놓은 '이강인 스승' 아기레 감독 물망",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BAcapNGhyG"
-      }
-    },
-    {
-      "keyword": "정의선",
+      "keyword": "코너 맥그리거",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "제네시스 영토 넓힌다… 유럽서 액셀 밟는 정의선 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/07/10/2026070920252353563"
+        "title": "맥그리거, 5년 만의 복귀 앞두고 계체 통과…내일 할로웨이 상대",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260711_0003705232"
       }
     },
     {
-      "keyword": "앤트로픽",
+      "keyword": "도경완",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "장윤정 모친 논란 후…도경완, 첫 심경 고백 \"집 전체가 어두워져\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115"
+      }
+    },
+    {
+      "keyword": "아 문디 에비앙 챔피언십",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "김효주·윤이나·김세영, 에비앙 둘째날 어땠나? [LPGA 메이저]",
+        "source": "골프한국",
+        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021114"
+      }
+    },
+    {
+      "keyword": "송치",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"광화문 걷는 젠슨 황 그려줘\" 메타·구글·오픈AI에 같은 요구해봤더니",
+        "title": "폭염 속 군 마라톤서 취사병 사망…사단장 등 4명 검찰 송치",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/BgCFNB71SS"
+      }
+    },
+    {
+      "keyword": "한국경제",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "훨훨 나는 한국...해외서도 '깜짝'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/x1beizUZT3"
+      }
+    },
+    {
+      "keyword": "중동전쟁",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "IEA \"6월 석유 공급 늘었지만…지속 가능한 평화협정 필요\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260710147900081"
+      }
+    },
+    {
+      "keyword": "오타니 쇼헤이",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "다저스 오타니, 무릎 통증으로 선발 등판 취소…올스타전도 불참",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/ZtIXCMPK7F"
+      }
+    },
+    {
+      "keyword": "국힘",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "시장 혼돈 키우는 ‘정책실장 입’… 대출 막고 증시 불안 가져왔다",
         "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/07/10/YI5BOQHKNJEMLECHILU6WYQZWI/"
+        "url": "https://www.chosun.com/economy/economy_general/2026/07/11/YLOQ3BUPJRH5XNBTCIB4AZDDV4/"
       }
     },
     {
-      "keyword": "코스트코",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"고장 난 안경 수리 안돼\"...코스트코, 대신 새상품에 현금까지 줬다 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/07/11/2026071111051519939"
-      }
-    },
-    {
-      "keyword": "김건희",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "한학자 “돈으로 권력 탐하지 않아” 항변에도···특검 “정교유착 최종 수혜자” 13년 구형",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607101842011"
-      }
-    },
-    {
-      "keyword": "초복",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "과천동·원문동 새마을부녀회, 초복 맞이 삼계탕 580인분 나눔",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260710580255"
-      }
-    },
-    {
-      "keyword": "에데르송",
+      "keyword": "민주당",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'이럴 수가' 맨체스터 유나이티드 영입 계획 꼬인다!…유리몸 레프트백 '완벽 대체자' 영입도 보류",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/3EzmHDtWO6"
+        "title": "민주, 보완수사권 폐지 절차 착수‥국힘 \"보완수사권 존치 당연\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836612_37004.html"
       }
     },
     {
-      "keyword": "복날",
+      "keyword": "아이폰",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[이번주뭘살까] \"여름이다\"…초복 보양식·제철 과일 장보기 할인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711070203191"
-      }
-    },
-    {
-      "keyword": "excessive heat warning",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Extreme heat dome breaks numerous record highs across Central and Eastern US",
-        "source": "The Weather Channel",
-        "url": "https://weather.com/2026/07/02/forecast/national/heat-wave-fourth-of-july-week-midwest-south-east"
-      }
-    },
-    {
-      "keyword": "유현조",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "유해란, 에비앙 챔피언십 2R도 공동 3위…코르다는 컷 탈락",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/3zjJhie4GH"
+        "title": "Apple's iPhone 18 Pro Max might come with a massive battery",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/iphone-18-pro-battery-size"
       }
     }
   ]
