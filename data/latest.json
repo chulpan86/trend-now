@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-07-13T03:50:43.930020+09:00",
-  "label": "03:50",
+  "timestamp": "2026-07-13T05:01:39.721407+09:00",
+  "label": "05:01",
   "items": [
     {
-      "keyword": "야닉 시너",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "신네르, 조코비치 완파하고 윔블던 결승행…츠베레프와 격돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711092401816"
-      }
-    },
-    {
       "keyword": "심하은",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "이천수 \"속고 있나 했다\" 딸 미적분·경제학 '만점'에 결국 인정",
         "source": "세계일보",
@@ -23,23 +13,33 @@
       }
     },
     {
+      "keyword": "야닉 시너",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "신네르, 츠베레프 꺾고 윔블던 2연패…메이저 통산 5회 우승",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713042353010"
+      }
+    },
+    {
+      "keyword": "포포투",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "32강 충격패에 선수단 갈등…세네갈, 타이우 감독 경질[월드컵]",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/sports/overseas-soccer/6225512"
+      }
+    },
+    {
       "keyword": "졸음 운전",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "7월 졸음운전 사망사고 집중…에어컨 켰다면 ‘이 버튼’ 누르세요",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712060224207"
-      }
-    },
-    {
-      "keyword": "항서제약",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "HLB, 항서제약 FDA 서한 확보…\"신속히 대응전략 수립\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926"
+        "title": "고속도로 사망자 83%가 당한 '습관'…\"여름철 운전 시 '이 버튼' 확인하세요\"",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026071212260421354"
       }
     },
     {
@@ -63,13 +63,23 @@
       }
     },
     {
+      "keyword": "wimbledon",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Jannik Sinner beats Alexander Zverev 6-3 6-4 in Wimbledon men's singles final",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/tennis/live/c747z03p2zpt"
+      }
+    },
+    {
       "keyword": "댐",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "안동시, 안동·임하댐 물 활용 AI 데이터센터 유치 추진",
+        "title": "\"강원 산업전환 첫 단추는 AI 데이터센터 … 자력성장 기반될 것\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260712154550535"
+        "url": "https://v.daum.net/v/20260712180902331"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'미우새' 김희철, 청결 중시 정도는…\"식당도 맛 보다 화장실 깨끗한 곳 찾아\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712215840094"
-      }
-    },
-    {
-      "keyword": "wimbledon",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Watch Wimbledon: Zverev wins first set of final against Sinner on tie-break",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/tennis/live/c747z03p2zpt"
+        "title": "청소 용품만 2억' 브라이언, 서남용 머리카락에 경악 \"오 마이 갓\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/13/2026071303314186431"
       }
     }
   ]
