@@ -2522,5 +2522,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-13T01:45:28.558099+09:00",
+    "label": "01:45",
+    "items": [
+      {
+        "keyword": "msi",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Hanwha Lifee Sports Secures First MSI Title in Dramatic Comeback",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/07/12/N6VNHB3CFBCBVLTMGQSLPMU3RQ/"
+        }
+      },
+      {
+        "keyword": "심하은",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이천수 \"속고 있나 했다\" 딸 미적분·경제학 '만점'에 결국 인정",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260707513057"
+        }
+      },
+      {
+        "keyword": "졸음 운전",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "7월 졸음운전 사망사고 집중…에어컨 켰다면 ‘이 버튼’ 누르세요",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XF7KjoiPWf"
+        }
+      },
+      {
+        "keyword": "항서제약",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "HLB 간암 신약, FDA 승인 위한 정식 실사도 못 받아…이유는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711133701779"
+        }
+      },
+      {
+        "keyword": "송종호",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"장가 안 가서 한심\"…송종호 모친, '51세' 미혼 아들 걱정 (미우새)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712221712237"
+        }
+      },
+      {
+        "keyword": "철도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "국가철도공단, K-철도 담은 굿즈 출시…대전 본사서 팝업스토어 연다",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1087915"
+        }
+      },
+      {
+        "keyword": "wec",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Sao Paulo Saturday Notebook",
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/lemans/wec/sao-paulo-saturday-notebook-4/"
+        }
+      },
+      {
+        "keyword": "서남용",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"나 집에 갈게\"...서장훈, 밖에서 절대 화장실 안 가는 '넘사벽 결벽증' ('미우새') [핫피플]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712220348122"
+        }
+      },
+      {
+        "keyword": "k리그1 순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "ㅡ냐",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "카보베르데 GK 보지냐, 생물학계 강제 진출…신종 바다달팽이 이름으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GGMKyCsAZl?f=p"
+        }
+      }
+    ]
   }
 ]

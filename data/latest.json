@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-13T00:49:56.497055+09:00",
-  "label": "00:49",
+  "timestamp": "2026-07-13T01:45:28.558099+09:00",
+  "label": "01:45",
   "items": [
     {
       "keyword": "msi",
@@ -14,12 +14,32 @@
     },
     {
       "keyword": "심하은",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "이천수 \"속고 있나 했다\" 딸 미적분·경제학 '만점'에 결국 인정",
         "source": "세계일보",
         "url": "https://www.segye.com/newsView/20260707513057"
+      }
+    },
+    {
+      "keyword": "졸음 운전",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "7월 졸음운전 사망사고 집중…에어컨 켰다면 ‘이 버튼’ 누르세요",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/XF7KjoiPWf"
+      }
+    },
+    {
+      "keyword": "항서제약",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "HLB 간암 신약, FDA 승인 위한 정식 실사도 못 받아…이유는?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711133701779"
       }
     },
     {
@@ -33,16 +53,6 @@
       }
     },
     {
-      "keyword": "졸음 운전",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "고속도로 사망자 83%가 당한 '습관'…\"여름철 운전 시 '이 버튼' 확인하세요\"",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026071212260421354"
-      }
-    },
-    {
       "keyword": "철도",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -53,13 +63,13 @@
       }
     },
     {
-      "keyword": "항서제약",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "wec",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "HLB 간암 신약, FDA 승인 위한 정식 실사도 못 받아…이유는?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711133701779"
+        "title": "Sao Paulo Saturday Notebook",
+        "source": "Sportscar365",
+        "url": "https://sportscar365.com/lemans/wec/sao-paulo-saturday-notebook-4/"
       }
     },
     {
@@ -70,16 +80,6 @@
         "title": "\"나 집에 갈게\"...서장훈, 밖에서 절대 화장실 안 가는 '넘사벽 결벽증' ('미우새') [핫피플]",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260712220348122"
-      }
-    },
-    {
-      "keyword": "wec",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Sao Paulo Saturday Notebook",
-        "source": "Sportscar365",
-        "url": "https://sportscar365.com/lemans/wec/sao-paulo-saturday-notebook-4/"
       }
     },
     {
