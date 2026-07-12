@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-13T05:01:39.721407+09:00",
-  "label": "05:01",
+  "timestamp": "2026-07-13T06:39:09.467264+09:00",
+  "label": "06:39",
   "items": [
     {
-      "keyword": "심하은",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "파울루 벤투",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "이천수 \"속고 있나 했다\" 딸 미적분·경제학 '만점'에 결국 인정",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260707513057"
-      }
-    },
-    {
-      "keyword": "야닉 시너",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "신네르, 츠베레프 꺾고 윔블던 2연패…메이저 통산 5회 우승",
+        "title": "\"벤투? 韓 대표팀 망친 주범, 한국 축구 장점 무너트리고 무리한 빌드업\"…日 레전드도 혹평했는데→재영입 맞을까 '논란 거세지나'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260713042353010"
+        "url": "https://v.daum.net/v/20260712194946627"
       }
     },
     {
-      "keyword": "포포투",
+      "keyword": "수사",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "'장윤기 사건'으로 발등에 불 떨어진 경찰…쇄신책 실효성 도마",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713050316402"
+      }
+    },
+    {
+      "keyword": "금",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "[포토] 미-이란 군사적 긴장 속 금값 영향은",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712222953305"
+      }
+    },
+    {
+      "keyword": "리플",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "32강 충격패에 선수단 갈등…세네갈, 타이우 감독 경질[월드컵]",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/overseas-soccer/6225512"
+        "title": "리플(Ripple)은 한때 사업 종료와 XRP를 주주들에게 인도하는 방안을 검토했다고 CEO가 밝혔습니다",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/ko/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says"
       }
     },
     {
-      "keyword": "졸음 운전",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "고속도로 사망자 83%가 당한 '습관'…\"여름철 운전 시 '이 버튼' 확인하세요\"",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026071212260421354"
-      }
-    },
-    {
-      "keyword": "송종호",
+      "keyword": "사랑을 처방해 드립니다",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"장가 안 가서 한심\"…송종호 모친, '51세' 미혼 아들 걱정 (미우새)",
+        "title": "[48화 하이라이트] ＂거짓말하지 말고 똑바로 말해＂온 가족이 알게 된 주진모의 거짓말 [사랑을 처방해 드립니다] | KBS 260712 방송",
+        "source": "KBS",
+        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026119339-01-000_MFSC15&program_code=T2025-0419&program_id=PS-2026119339-01-000&section_code=03&broadcast_complete_yn=N&section_id=26875"
+      }
+    },
+    {
+      "keyword": "대한광통신",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[이 시각 시황] AI 데이터센터 훈풍…전력·광통신·반도체주 일제히 상승",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4Y4KOXYCGs"
+        "url": "https://v.daum.net/v/20260710093623251"
       }
     },
     {
-      "keyword": "철도",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "국가철도공단, K-철도 담은 굿즈 출시…대전 본사서 팝업스토어 연다",
-        "source": "충청매일",
-        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1087915"
-      }
-    },
-    {
-      "keyword": "wimbledon",
+      "keyword": "로스앤젤레스 다저스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Jannik Sinner beats Alexander Zverev 6-3 6-4 in Wimbledon men's singles final",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/tennis/live/c747z03p2zpt"
-      }
-    },
-    {
-      "keyword": "댐",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"강원 산업전환 첫 단추는 AI 데이터센터 … 자력성장 기반될 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712180902331"
-      }
-    },
-    {
-      "keyword": "wec",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Aitken Feared Making Hyperpole Would Be a “Challenge”",
-        "source": "Sportscar365",
-        "url": "https://sportscar365.com/lemans/wec/aitken-feared-making-hyperpole-would-be-a-challenge/"
-      }
-    },
-    {
-      "keyword": "서남용",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "청소 용품만 2억' 브라이언, 서남용 머리카락에 경악 \"오 마이 갓\" - 머니투데이",
+        "title": "\"엉망진창이다\" 무려 '12.5G' 압도적 1위 질주인데…다저스 벌써 휴가 갔나, 갑자기 왜 이래? - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/13/2026071303314186431"
+        "url": "https://www.mt.co.kr/sports/2026/07/13/202607122036773611O"
+      }
+    },
+    {
+      "keyword": "경마",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "한국경마의 전설‘당대불패’19세 나이로 영원히 잠들다",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370221"
+      }
+    },
+    {
+      "keyword": "윔블던 2026",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "매치포인트 5개 날려도…트로피에 기 받아 우승 매조진 노스코바",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260712014500007"
+      }
+    },
+    {
+      "keyword": "wimbledon 2026",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Linda Noskova (Czech Republic), world No. 12 in women's tennis, won the Wimbledon Women's Singles at..",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/en/sports/12096362"
       }
     }
   ]
