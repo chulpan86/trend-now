@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-12T10:47:19.009200+09:00",
-  "label": "10:47",
+  "timestamp": "2026-07-12T14:17:14.573191+09:00",
+  "label": "14:17",
   "items": [
     {
-      "keyword": "argentina vs switzerland",
+      "keyword": "손주",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "첫 손주에도 지원 1도 없는 시댁…정상인가요?",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11602026"
+      }
+    },
+    {
+      "keyword": "구자욱",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live"
-      }
-    },
-    {
-      "keyword": "2026",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "It’s time for Summer League Basketball: San Antonio Spurs vs New York Knicks",
-        "source": "Pounding The Rock",
-        "url": "https://www.poundingtherock.com/general/106180/its-time-for-summer-league-basketball-san-antonio-spurs-vs-new-york-knicks"
-      }
-    },
-    {
-      "keyword": "argentina đấu với thụy sĩ",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Trực tiếp bóng đá Argentina - Thụy Sĩ: Messi đá cặp Alvarez (World Cup)",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/world-cup-2026/truc-tiep-bong-da-argentina-thuy-si-bat-chet-messi-la-bai-toan-qua-kho-world-cup-c860a1777512.html"
-      }
-    },
-    {
-      "keyword": "강풍",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "제주공항 강풍에 항공편 81편 결항 2편 회항",
+        "title": "'구자욱 논란' 일축한 정수빈 \"평소 워낙 친한 사이…다 이해한다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260712102653015"
+        "url": "https://v.daum.net/v/20zygie4Ez"
       }
     },
     {
-      "keyword": "용인반도체클러스터",
+      "keyword": "송혜교",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "송혜교, 20년지기 스타일리스트 남편과 동행할까 “활동 방향 공감대”",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202607120940003"
+      }
+    },
+    {
+      "keyword": "송성문",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[단독]삼성전자, '용인 1호팹' 양산 2년 더 빨리…SK, 미국 신규 투자 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/07/12/2026071205415186037"
-      }
-    },
-    {
-      "keyword": "피파랭킹",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "피파랭킹, 프랑스 1위…모로코 5위",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260710062707316"
-      }
-    },
-    {
-      "keyword": "fifa world cup 2026™",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "프랑스 스페인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘무적 함대’ 스페인 4강 진출…프랑스와 ‘미리 보는 결승전’ 성사",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8608313"
-      }
-    },
-    {
-      "keyword": "당진시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "당진서 주차돼 있던 승용차에 불…1명 숨진 채 발견",
+        "title": "MLB 샌디에이고 송성문, 2타점 적시타에 다이빙 캐치 펄펄",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260711040500063"
+        "url": "https://www.yna.co.kr/view/AKR20260712025100007"
       }
     },
     {
-      "keyword": "월드컵 결과",
+      "keyword": "경산시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "다시 찾아온 '이중 고기압 폭염'…'푄현상'에 경북 '직격'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712135054024"
+      }
+    },
+    {
+      "keyword": "이시영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "방콕 휴가 간 이시영, 군살 하나 없는 수영복 자태…식스팩까지",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6225099"
+      }
+    },
+    {
+      "keyword": "총파업",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "교육공무직 대전지부 14일 총파업은 선포식만…\"투쟁 수위 높여갈 것\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/local/daejeon-chungnam/6225302"
+      }
+    },
+    {
+      "keyword": "세광고",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "호텔 앞 폭죽 ’펑펑’...잉글랜드·프랑스 ’숙면 방해’ 뚫고 진격",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260710160949f40"
+        "title": "72년 기다린 첫 청룡… 세광고, 경북고 꺾고 정상",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/07/12/GBB56FYG2VBQLDJ4VK5XUWOM7U/"
+      }
+    },
+    {
+      "keyword": "최지우",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "최지우, 바캉스룩도 남달라…막 찍어도 화보 [N샷]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711160951654"
+      }
+    },
+    {
+      "keyword": "고석현",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "결혼 앞두고 UFC 출전 고석현 \"예비신부가 적극 푸시…승리로 보답\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260710114331115"
       }
     }
   ]
