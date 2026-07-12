@@ -1,7 +1,57 @@
 {
-  "timestamp": "2026-07-12T21:56:02.551389+09:00",
-  "label": "21:56",
+  "timestamp": "2026-07-12T23:23:33.530673+09:00",
+  "label": "23:23",
   "items": [
+    {
+      "keyword": "msi",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Hanwha Lifee Sports Secures First MSI Title in Dramatic Comeback",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/07/12/N6VNHB3CFBCBVLTMGQSLPMU3RQ/"
+      }
+    },
+    {
+      "keyword": "졸음 운전",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "고속도로 사망자 83%가 당한 '습관'…\"여름철 운전 시 '이 버튼' 확인하세요\"",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026071212260421354"
+      }
+    },
+    {
+      "keyword": "철도",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "양산도시철도 운송사업면허 발급 12월 개통 준비 본격화",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=708867"
+      }
+    },
+    {
+      "keyword": "항서제약",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "HLB 간암 신약, FDA 승인 위한 정식 실사도 못 받아…이유는?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711133701779"
+      }
+    },
+    {
+      "keyword": "이소라",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이소라, 6년 은둔 이유…\"체중 100㎏, 숨도 못 쉬고 끔찍했다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/09/2026070916414240344"
+      }
+    },
     {
       "keyword": "lck",
       "traffic_raw": "500+",
@@ -13,93 +63,43 @@
       }
     },
     {
-      "keyword": "테더",
+      "keyword": "캐디",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "테더, 바이낸스에 4 BTC 이체…2분기 비트코인 매수 멈췄나",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260711n11642"
-      }
-    },
-    {
-      "keyword": "찰리 반즈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "前 롯데 에이스, 다저스에서도 끝내 버려졌다→DFA 통보... 美 \"멀티이닝 소화 능력 있어, 타 구단 관심 있을 것\"",
+        "title": "15만원 내고 캐디 꼭 써야 하나요?…골프장 절반이 바꾼 ‘필드의 룰’ [권준영의 머니볼]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260712112949345"
+        "url": "https://v.daum.net/v/1CI8jVKpj7"
       }
     },
     {
-      "keyword": "양대인",
+      "keyword": "서남용",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "밴픽 논의하는 빌리빌리 게이밍 양대인 감독",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260712n11823"
-      }
-    },
-    {
-      "keyword": "충남 아산 fc 대 경남",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[K리그2 인터뷰] 배성재 감독 \"단레이까지 떠났지만 국내 선수로 연습 경기서 전북 잡아 자신감 생겨\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260712n13783"
-      }
-    },
-    {
-      "keyword": "편의점",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "백화점은 질주, 마트는 '홈플 효과'…편의점도 웃었다",
+        "title": "\"나 집에 갈게\"...서장훈, 밖에서 절대 화장실 안 가는 '넘사벽 결벽증' ('미우새') [핫피플]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/UitnEjgR5L"
+        "url": "https://v.daum.net/v/20260712220348122"
       }
     },
     {
-      "keyword": "최우수산",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "허경환, 리센느 기운 받아 유행어 역주행 노린다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260712_0003705721"
-      }
-    },
-    {
-      "keyword": "캐시워크 정답",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "닥터버그 모기패치 캐시워크 돈 버는 퀴즈, 정답은?",
-        "source": "아주경제",
-        "url": "https://www.ajunews.com/view/20260712165516616"
-      }
-    },
-    {
-      "keyword": "임이자",
+      "keyword": "k리그1 순위",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "노란봉투법 '눈감은' 대법원…\"당황\" 속 무거워진 '선례'의 짐",
-        "source": "www.nocutnews.co.kr",
-        "url": "https://www.nocutnews.co.kr/news/6546616"
+        "title": "[K리그1] 중간 순위(12일)",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/sports/soccer/6225572"
       }
     },
     {
-      "keyword": "이기택",
+      "keyword": "ㅡ냐",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'1박2일' 이용진, 눈치게임 완승…이준과 차량 탑승권 획득",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712211046636"
+        "title": "[숏폼] 이재명 정부는 전과자 우대 정부냐",
+        "source": "경북일보",
+        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078131"
       }
     }
   ]
