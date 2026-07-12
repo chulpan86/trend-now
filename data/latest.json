@@ -1,41 +1,31 @@
 {
-  "timestamp": "2026-07-12T18:51:54.088354+09:00",
-  "label": "18:51",
+  "timestamp": "2026-07-12T20:04:29.042493+09:00",
+  "label": "20:04",
   "items": [
     {
-      "keyword": "축구 감독",
+      "keyword": "fc 서울 대 강원",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'밴버지' 벤투 복귀가 최선일까…축구계는 \"양날의 검\"[새 감독 찾기②]",
+        "title": "강원 정경호 감독, '신데렐라' 이기혁 극찬 \"목표 하나씩 이루고 있어\"",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260710_0003704635"
+        "url": "https://www.newsis.com/view/NISX20260712_0003705844"
       }
     },
     {
-      "keyword": "에코프로 비엠",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "태풍 바비 경로",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "에코프로, 전기차 150만대 분량 니켈 자원 확보",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424520"
-      }
-    },
-    {
-      "keyword": "린지 그레이엄",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'트럼프 측근' 그레이엄 의원 별세…대이란·대북 강경론 주도(종합)",
+        "title": "태풍 '바비' 상륙에 中 200만명 대피…대만서 100여명 부상(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260712170439003"
+        "url": "https://v.daum.net/v/20260712141751620"
       }
     },
     {
       "keyword": "이석연",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "대법원, 보완수사권 폐지에 첫 의견‥\"부작용 막을 보완책 필요\"",
         "source": "MBC 뉴스",
@@ -43,63 +33,73 @@
       }
     },
     {
+      "keyword": "제주 대 대전",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "위기를 새로운 기회로' 제주SK FC 박창준, 대전 상대로 짜릿한 데뷔골 추억 되살린다!",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711161637758"
+      }
+    },
+    {
+      "keyword": "수도권 광역급행철도",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "살기엔 별로라던 동네의 '반전'…20억 아파트 속속 등장 [철길옆집]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026070954056"
+      }
+    },
+    {
+      "keyword": "초복",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "감문농협, 초복 맞이 사랑의 복달임 수박 나눔",
+        "source": "김천인터넷뉴스",
+        "url": "http://www.gcinews.com/front/news/view.do?articleId=ARTICLE_00062423"
+      }
+    },
+    {
+      "keyword": "소이현",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'사랑처방' 소이현, 조촐한 마지막 인사…\"덕분에 힘냈다\"",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260712n05058"
+      }
+    },
+    {
       "keyword": "더불어민주당",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[뉴스1번지] 민주, '룰 전쟁' 가열…국힘은 '장외 정치'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712165813853"
+        "title": "민주당, 오늘 오후 선호투표제 도입 논의 위해 최고위 개최",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6836797_36911.html"
       }
     },
     {
-      "keyword": "ewc",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "EWC opens new international chapter with Paris ceremony",
-        "source": "Esports World Cup",
-        "url": "https://esportsworldcup.com/en/news/ewc26-opening-ceremony"
-      }
-    },
-    {
-      "keyword": "롯데그룹",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"회장님 다녀간 지 이틀만에\"…롯데, 결국 '여기에' 2500억 또 쐈다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712084250878"
-      }
-    },
-    {
-      "keyword": "유병재",
+      "keyword": "소비",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'유병재 연인' 안유정, 주얼리 브랜드 론칭",
+        "title": "버려지던 ‘참외’…“국내 첫 친환경 가죽 제품으로 변신”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260712125902024"
+        "url": "https://v.daum.net/v/xP3vvCsAhK"
       }
     },
     {
-      "keyword": "구마유시",
+      "keyword": "커링클",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한화생명, 벼랑 끝서 뒤집었다…창단 첫 MSI 결승 진출",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260711049800017"
-      }
-    },
-    {
-      "keyword": "미국 상품거래위원회",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "가상자산 제도권 편입 분수령… 美 클래리티법 ‘급물살’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712164327599"
+        "title": "신메뉴 출시에 캐릭터·K-팝 협업까지…치킨업계 경쟁 '활활'",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260710_0003704081"
       }
     }
   ]
