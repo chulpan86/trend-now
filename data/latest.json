@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-12T23:23:33.530673+09:00",
-  "label": "23:23",
+  "timestamp": "2026-07-13T00:49:56.497055+09:00",
+  "label": "00:49",
   "items": [
     {
       "keyword": "msi",
@@ -10,6 +10,26 @@
         "title": "Hanwha Lifee Sports Secures First MSI Title in Dramatic Comeback",
         "source": "조선일보",
         "url": "https://www.chosun.com/english/sports-en/2026/07/12/N6VNHB3CFBCBVLTMGQSLPMU3RQ/"
+      }
+    },
+    {
+      "keyword": "심하은",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이천수 \"속고 있나 했다\" 딸 미적분·경제학 '만점'에 결국 인정",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260707513057"
+      }
+    },
+    {
+      "keyword": "송종호",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"장가 안 가서 한심\"…송종호 모친, '51세' 미혼 아들 걱정 (미우새)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712221712237"
       }
     },
     {
@@ -27,9 +47,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "양산도시철도 운송사업면허 발급 12월 개통 준비 본격화",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=708867"
+        "title": "국가철도공단, K-철도 담은 굿즈 출시…대전 본사서 팝업스토어 연다",
+        "source": "충청매일",
+        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1087915"
       }
     },
     {
@@ -43,36 +63,6 @@
       }
     },
     {
-      "keyword": "이소라",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이소라, 6년 은둔 이유…\"체중 100㎏, 숨도 못 쉬고 끔찍했다\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/09/2026070916414240344"
-      }
-    },
-    {
-      "keyword": "lck",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "LYON's coach Rigby on LCK: \"They've been cocky, honestly, and they're getting punished for that\"",
-        "source": "Sheep Esports",
-        "url": "https://www.sheepesports.com/en/all/articles/lyon-s-coach-rigby-on-lck-they-ve-been-cocky-honestly-and-they-re-getting-punished-for-that/en"
-      }
-    },
-    {
-      "keyword": "캐디",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "15만원 내고 캐디 꼭 써야 하나요?…골프장 절반이 바꾼 ‘필드의 룰’ [권준영의 머니볼]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1CI8jVKpj7"
-      }
-    },
-    {
       "keyword": "서남용",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -83,23 +73,29 @@
       }
     },
     {
-      "keyword": "k리그1 순위",
+      "keyword": "wec",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[K리그1] 중간 순위(12일)",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/soccer/6225572"
+        "title": "Sao Paulo Saturday Notebook",
+        "source": "Sportscar365",
+        "url": "https://sportscar365.com/lemans/wec/sao-paulo-saturday-notebook-4/"
       }
+    },
+    {
+      "keyword": "k리그1 순위",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     },
     {
       "keyword": "ㅡ냐",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[숏폼] 이재명 정부는 전과자 우대 정부냐",
-        "source": "경북일보",
-        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078131"
+        "title": "카보베르데 GK 보지냐, 생물학계 강제 진출…신종 바다달팽이 이름으로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/GGMKyCsAZl?f=p"
       }
     }
   ]
