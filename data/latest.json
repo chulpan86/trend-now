@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-12T08:43:09.705747+09:00",
-  "label": "08:43",
+  "timestamp": "2026-07-12T10:47:19.009200+09:00",
+  "label": "10:47",
   "items": [
     {
-      "keyword": "사건",
+      "keyword": "argentina vs switzerland",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "[시험대 오른 경찰] ③ 檢보완수사에 드러난 민낯…역량강화·신뢰회복 급선무",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712060227212"
+        "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live"
       }
     },
     {
-      "keyword": "음식",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "데이트할 때도 '이 음식'으로…제이제이, 잘록한 허리비결?",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260711_0003705292"
-      }
-    },
-    {
-      "keyword": "범죄",
+      "keyword": "2026",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "정점식 폰도 불났다…“배신자” 문자 폭탄에 떠는 국힘",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BbKfmMPKyX"
+        "title": "It’s time for Summer League Basketball: San Antonio Spurs vs New York Knicks",
+        "source": "Pounding The Rock",
+        "url": "https://www.poundingtherock.com/general/106180/its-time-for-summer-league-basketball-san-antonio-spurs-vs-new-york-knicks"
       }
     },
     {
-      "keyword": "이찬원",
+      "keyword": "argentina đấu với thụy sĩ",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Trực tiếp bóng đá Argentina - Thụy Sĩ: Messi đá cặp Alvarez (World Cup)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/world-cup-2026/truc-tiep-bong-da-argentina-thuy-si-bat-chet-messi-la-bai-toan-qua-kho-world-cup-c860a1777512.html"
+      }
+    },
+    {
+      "keyword": "강풍",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "제주공항 강풍에 항공편 81편 결항 2편 회항",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712102653015"
+      }
+    },
+    {
+      "keyword": "용인반도체클러스터",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이찬원, 쓰라린 추억 소환…“부활 노래 불렀다 오디션 탈락”(‘불후’) - 스타투데이",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/broadcasting-service/12096109"
+        "title": "[단독]삼성전자, '용인 1호팹' 양산 2년 더 빨리…SK, 미국 신규 투자 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/industry/2026/07/12/2026071205415186037"
       }
     },
     {
-      "keyword": "방탄소년단",
+      "keyword": "피파랭킹",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "BTS 진의 압도적인 눈맞춤, 엘르 6종 커버 공개",
-        "source": "엘르 코리아 │ ELLE KOREA",
-        "url": "https://www.elle.co.kr/article/1906015"
-      }
-    },
-    {
-      "keyword": "베컴",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "베컴 子, 화해 요청 무시→'13조 처가'에 올인…가족 불화 속 아내만 '공주님' 대접 [할리웃통신]",
+        "title": "피파랭킹, 프랑스 1위…모로코 5위",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260711163149902"
+        "url": "https://v.daum.net/v/20260710062707316"
       }
     },
     {
-      "keyword": "제니",
+      "keyword": "fifa world cup 2026™",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "프랑스 스페인",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "제니는 유럽 접수중…스페인 페스티벌도 장악",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260710180101742"
+        "title": "‘무적 함대’ 스페인 4강 진출…프랑스와 ‘미리 보는 결승전’ 성사",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8608313"
       }
     },
     {
-      "keyword": "노르웨이 축구 국가대표팀",
+      "keyword": "당진시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“이름도 홀란으로”…월드컵 맹활약에 페루 부모들 작명 열풍",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20260712/134279549/1"
+        "title": "당진서 주차돼 있던 승용차에 불…1명 숨진 채 발견",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260711040500063"
       }
     },
     {
-      "keyword": "카카",
+      "keyword": "월드컵 결과",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Brazilian soccer star buys $8.7M Miami-Dade condo. See inside the beachfront home",
-        "source": "Miami Herald",
-        "url": "https://www.miamiherald.com/news/business/real-estate-news/article316461531.html"
-      }
-    },
-    {
-      "keyword": "lịch world cup 2026",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Lịch thi đấu bóng đá hôm nay 12/7 và sáng 13/7",
-        "source": "Báo Thế giới và Việt Nam",
-        "url": "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-12-7-va-sang-13-7-415969.html"
+        "title": "호텔 앞 폭죽 ’펑펑’...잉글랜드·프랑스 ’숙면 방해’ 뚫고 진격",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260710160949f40"
       }
     }
   ]
