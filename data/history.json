@@ -2624,5 +2624,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-13T03:50:43.930020+09:00",
+    "label": "03:50",
+    "items": [
+      {
+        "keyword": "야닉 시너",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "신네르, 조코비치 완파하고 윔블던 결승행…츠베레프와 격돌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711092401816"
+        }
+      },
+      {
+        "keyword": "심하은",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이천수 \"속고 있나 했다\" 딸 미적분·경제학 '만점'에 결국 인정",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260707513057"
+        }
+      },
+      {
+        "keyword": "졸음 운전",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "7월 졸음운전 사망사고 집중…에어컨 켰다면 ‘이 버튼’ 누르세요",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712060224207"
+        }
+      },
+      {
+        "keyword": "항서제약",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "HLB, 항서제약 FDA 서한 확보…\"신속히 대응전략 수립\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926"
+        }
+      },
+      {
+        "keyword": "송종호",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"장가 안 가서 한심\"…송종호 모친, '51세' 미혼 아들 걱정 (미우새)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4Y4KOXYCGs"
+        }
+      },
+      {
+        "keyword": "철도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "국가철도공단, K-철도 담은 굿즈 출시…대전 본사서 팝업스토어 연다",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1087915"
+        }
+      },
+      {
+        "keyword": "댐",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "안동시, 안동·임하댐 물 활용 AI 데이터센터 유치 추진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712154550535"
+        }
+      },
+      {
+        "keyword": "wec",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Aitken Feared Making Hyperpole Would Be a “Challenge”",
+          "source": "Sportscar365",
+          "url": "https://sportscar365.com/lemans/wec/aitken-feared-making-hyperpole-would-be-a-challenge/"
+        }
+      },
+      {
+        "keyword": "서남용",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'미우새' 김희철, 청결 중시 정도는…\"식당도 맛 보다 화장실 깨끗한 곳 찾아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712215840094"
+        }
+      },
+      {
+        "keyword": "wimbledon",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Watch Wimbledon: Zverev wins first set of final against Sinner on tie-break",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/tennis/live/c747z03p2zpt"
+        }
+      }
+    ]
   }
 ]
