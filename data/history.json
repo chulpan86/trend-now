@@ -2734,5 +2734,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-13T07:37:42.336492+09:00",
+    "label": "07:37",
+    "items": [
+      {
+        "keyword": "금",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[포토] 미-이란 군사적 긴장 속 금값 영향은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712222953305"
+        }
+      },
+      {
+        "keyword": "삼성",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "본격 속도내는 용인 팹… 韓-美-中, 메모리 설비 확충 경쟁",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260713/134284398/2"
+        }
+      },
+      {
+        "keyword": "일본",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "스쳐 지나던 일본 無人역…관광객 북적이는 핫플로",
+          "source": "서울경제신문",
+          "url": "https://www.sedaily.com/article/20066712"
+        }
+      },
+      {
+        "keyword": "đội tuyển bóng đá quốc gia argentina",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Argentina thắng hiệp phụ ở tứ kết World Cup",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/ket-qua-argentina-vs-thuy-si-5096400.html"
+        }
+      },
+      {
+        "keyword": "결혼식",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"결혼식 와달라는 전 여친, 한부모 가정서 자란 '아픈 손가락'…갈까요?\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6224391"
+        }
+      },
+      {
+        "keyword": "시청률",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "첫방부터 1위 등극…시청률 6.3% 찍고 흥행 질주 예고한 '범죄 드라마'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713070707197"
+        }
+      },
+      {
+        "keyword": "영화",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "나홍진 '호프' 늦추고 또 늦추다가 마침내 폭발한다[영화한끼]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713051200512"
+        }
+      },
+      {
+        "keyword": "대한광통신",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[이 시각 시황] AI 데이터센터 훈풍…전력·광통신·반도체주 일제히 상승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710093623251"
+        }
+      },
+      {
+        "keyword": "lng선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "K-조선 LNG선 독주도 흔들…中, 추격에 '초격차' 시험대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BwitK7pXlS?f=p"
+        }
+      },
+      {
+        "keyword": "이찬원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "세자 같은 이찬원이 직접 소개하는 서울 여행 [톡파원 25시]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713060157086"
+        }
+      }
+    ]
   }
 ]

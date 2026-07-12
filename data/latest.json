@@ -1,31 +1,11 @@
 {
-  "timestamp": "2026-07-13T06:39:09.467264+09:00",
-  "label": "06:39",
+  "timestamp": "2026-07-13T07:37:42.336492+09:00",
+  "label": "07:37",
   "items": [
     {
-      "keyword": "파울루 벤투",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "\"벤투? 韓 대표팀 망친 주범, 한국 축구 장점 무너트리고 무리한 빌드업\"…日 레전드도 혹평했는데→재영입 맞을까 '논란 거세지나'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712194946627"
-      }
-    },
-    {
-      "keyword": "수사",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "'장윤기 사건'으로 발등에 불 떨어진 경찰…쇄신책 실효성 도마",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713050316402"
-      }
-    },
-    {
       "keyword": "금",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "[포토] 미-이란 군사적 긴장 속 금값 영향은",
         "source": "Daum",
@@ -33,23 +13,63 @@
       }
     },
     {
-      "keyword": "리플",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "삼성",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "리플(Ripple)은 한때 사업 종료와 XRP를 주주들에게 인도하는 방안을 검토했다고 CEO가 밝혔습니다",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/ko/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says"
+        "title": "본격 속도내는 용인 팹… 韓-美-中, 메모리 설비 확충 경쟁",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260713/134284398/2"
       }
     },
     {
-      "keyword": "사랑을 처방해 드립니다",
+      "keyword": "일본",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "스쳐 지나던 일본 無人역…관광객 북적이는 핫플로",
+        "source": "서울경제신문",
+        "url": "https://www.sedaily.com/article/20066712"
+      }
+    },
+    {
+      "keyword": "đội tuyển bóng đá quốc gia argentina",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Argentina thắng hiệp phụ ở tứ kết World Cup",
+        "source": "VnExpress",
+        "url": "https://vnexpress.net/ket-qua-argentina-vs-thuy-si-5096400.html"
+      }
+    },
+    {
+      "keyword": "결혼식",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"결혼식 와달라는 전 여친, 한부모 가정서 자란 '아픈 손가락'…갈까요?\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6224391"
+      }
+    },
+    {
+      "keyword": "시청률",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "첫방부터 1위 등극…시청률 6.3% 찍고 흥행 질주 예고한 '범죄 드라마'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713070707197"
+      }
+    },
+    {
+      "keyword": "영화",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[48화 하이라이트] ＂거짓말하지 말고 똑바로 말해＂온 가족이 알게 된 주진모의 거짓말 [사랑을 처방해 드립니다] | KBS 260712 방송",
-        "source": "KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026119339-01-000_MFSC15&program_code=T2025-0419&program_id=PS-2026119339-01-000&section_code=03&broadcast_complete_yn=N&section_id=26875"
+        "title": "나홍진 '호프' 늦추고 또 늦추다가 마침내 폭발한다[영화한끼]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713051200512"
       }
     },
     {
@@ -63,43 +83,23 @@
       }
     },
     {
-      "keyword": "로스앤젤레스 다저스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"엉망진창이다\" 무려 '12.5G' 압도적 1위 질주인데…다저스 벌써 휴가 갔나, 갑자기 왜 이래? - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/07/13/202607122036773611O"
-      }
-    },
-    {
-      "keyword": "경마",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한국경마의 전설‘당대불패’19세 나이로 영원히 잠들다",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370221"
-      }
-    },
-    {
-      "keyword": "윔블던 2026",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "매치포인트 5개 날려도…트로피에 기 받아 우승 매조진 노스코바",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260712014500007"
-      }
-    },
-    {
-      "keyword": "wimbledon 2026",
+      "keyword": "lng선",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Linda Noskova (Czech Republic), world No. 12 in women's tennis, won the Wimbledon Women's Singles at..",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/en/sports/12096362"
+        "title": "K-조선 LNG선 독주도 흔들…中, 추격에 '초격차' 시험대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/BwitK7pXlS?f=p"
+      }
+    },
+    {
+      "keyword": "이찬원",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "세자 같은 이찬원이 직접 소개하는 서울 여행 [톡파원 25시]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713060157086"
       }
     }
   ]
