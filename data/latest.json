@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-13T08:42:52.435304+09:00",
-  "label": "08:42",
+  "timestamp": "2026-07-13T10:49:39.691157+09:00",
+  "label": "10:49",
   "items": [
     {
-      "keyword": "삼성",
+      "keyword": "sk하이닉스 주가",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "AS·수리까지 덮친 칩플레이션…삼성전자, 서비스 자재비 인상",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1119651"
-      }
-    },
-    {
-      "keyword": "투자",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "[사설] 하이닉스 美 상장 성공이 ‘도박판 증시’ 한국에 던진 경고",
+        "title": "SK하이닉스, ADR 상장이라는 호재에도 3%대 하락 출발",
         "source": "조선일보",
-        "url": "https://www.chosun.com/opinion/editorial/2026/07/13/LCM4YCTKPNGEBCQS5FABASNUC4/"
+        "url": "https://www.chosun.com/economy/money/2026/07/13/U3MAVYQVGFEHHH72FX4PPAEIGU/"
       }
     },
     {
-      "keyword": "하비에르 아기레",
+      "keyword": "부모",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "\"부모 말고 절친에게 44억 남긴다\"…유언장 작성한 19세 대학생, 왜?",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/world/general-world/6225427"
+      }
+    },
+    {
+      "keyword": "김하수",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"이강인 내 아들\" 아기레, 연봉 75억에 한국행?…\"韓 가면 30억 이상 폭등\" 멕시코 매체 깜짝 주장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712222307274"
+        "title": "김하수 전 청도군수 숨진 채 발견···경찰 “범죄 혐의점 없어”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607130911001"
       }
     },
     {
-      "keyword": "조상우",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "정해영 멈췄던 SV 시계 다시 돌아간다…돌아온 싸움닭은 양념 팍팍, KIA 후반기 뒷문 윤곽 드러났다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/3IZ0YImjOu?f=p"
-      }
-    },
-    {
-      "keyword": "영화",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "나홍진 신작 '호프' 사전 예매 37만 돌파…올해 최고 기록",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713082327430"
-      }
-    },
-    {
-      "keyword": "법안",
+      "keyword": "에어로케이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "가상자산 제도권 편입 분수령… 美 클래리티법 ‘급물살’",
+        "title": "에어로케이, 항공화물 운송 개시…인천 넘어 청주로 노선 확대 계획",
         "source": "Daum",
-        "url": "https://v.daum.net/v/3SL2ZWvmvu"
+        "url": "https://v.daum.net/v/HzyBTzLx1N?f=p"
       }
     },
     {
-      "keyword": "최준희",
+      "keyword": "이준석",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이준석 개혁신당 대표, 최고위원회의 발언",
+        "source": "뉴시스",
+        "url": "https://mobile.newsis.com/photo/NISI20260713_0021361682"
+      }
+    },
+    {
+      "keyword": "진에어 특가",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'故 최진실 딸' 최준희, 청바지가 제일 충격적…96kg→44kg '뼈말라' 보디 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/10/GU4DEMDEHFTGCMDBHA2TOMTEGQ/"
+        "title": "진에어 ‘진마켓’ 13일 시작…최대 96% 특가 예매 방법",
+        "source": "비건뉴스",
+        "url": "https://www.vegannews.co.kr/news/article.html?no=383981"
       }
     },
     {
-      "keyword": "이동경",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "챗",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[단독]'월드컵에 1분만 뛰었다면' MVP 이동경, '이적료+개인합의 완료하고도' 스토크시티행 '불발 위기'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/07/12/GU2WCZBXGNSDIOJXMVSGMYZWGA/"
+        "title": "챗GPT가 AI팀 ‘소통 전술’짠다!...“빠진 정보도 찾아 규칙 자동 보완”",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370233"
       }
     },
     {
-      "keyword": "용연교",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "레메디",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "양산시, 안전등급 E 판정 '용연교' 차량 전면 통제",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260711_0003705073"
+        "title": "[특징주] 레메디, 코스닥 상장 첫날 장 초반 37% 상승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260713033000008"
       }
     },
     {
-      "keyword": "lng선",
+      "keyword": "수원시",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "K-조선 LNG선 독주도 흔들…中, 추격에 '초격차' 시험대",
+        "title": "60년 만에 되찾은 이름…수원시 베테랑 팀장의 힘",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20066821"
+      }
+    },
+    {
+      "keyword": "이세영",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "이세영 과한 코스프레 시끌..\"노출 수위 높아 vs 개인 사생활 공간\" 갑론을박 [핫피플]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/BwitK7pXlS?f=p"
+        "url": "https://v.daum.net/v/20260713070309146"
       }
     }
   ]
