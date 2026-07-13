@@ -1,429 +1,5 @@
 [
   {
-    "timestamp": "2026-07-12T02:45:24.507325+09:00",
-    "label": "02:45",
-    "items": [
-      {
-        "keyword": "지상작전사령부",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독]종합특검, '내란 가담' 강호필 전 지작사령관 구속영장…13일 심사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711193000494"
-        }
-      },
-      {
-        "keyword": "김이서",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260711n11762"
-        }
-      },
-      {
-        "keyword": "아파트 드라마",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711220159629"
-        }
-      },
-      {
-        "keyword": "배지현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "잠실과 이별하는 류현진 \"투수들이 가장 좋아하는 구장, 안녕\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260711041500007"
-        }
-      },
-      {
-        "keyword": "카롤리나 무초바",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "올림픽 복식 동지, 윔블던 단식 결승 적으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uATcZspX75"
-        }
-      },
-      {
-        "keyword": "황인범",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'월드컵 1골 1도움' 황인범, 포르투갈 '명문' 포르투가 관심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8ZtiHhOcHv"
-        }
-      },
-      {
-        "keyword": "jayden adams",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "South Africa World Cup midfielder Adams dies aged 25",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cr47y5nvrqlo"
-        }
-      },
-      {
-        "keyword": "혜은이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전영록, 촬영 중 장 파열…\"15층 건물서 뛰어내렸는데 줄 끊어져\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/10/2026071010295119109"
-        }
-      },
-      {
-        "keyword": "norway vs england",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "World Cup 2026: Risk of thunderstorms before England's quarter-final with Norway",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo"
-        }
-      },
-      {
-        "keyword": "김지영",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의 걸크러시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712011127246"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-12T03:44:26.560329+09:00",
-    "label": "03:44",
-    "items": [
-      {
-        "keyword": "남아프리카 공화국 축구 국가대표팀",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1"
-        }
-      },
-      {
-        "keyword": "지상작전사령부",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독]종합특검, '내란 가담' 강호필 전 지작사령관 구속영장…13일 심사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711193000494"
-        }
-      },
-      {
-        "keyword": "린다 노스코바",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "노스코바, 복식 파트너 무호바 꺾고 윔블던 첫 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260712001700007"
-        }
-      },
-      {
-        "keyword": "김이서",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260711n11762"
-        }
-      },
-      {
-        "keyword": "황인범",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'월드컵 1골 1도움' 황인범, 포르투갈 '명문' 포르투가 관심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8ZtiHhOcHv"
-        }
-      },
-      {
-        "keyword": "아파트 드라마",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711220159629"
-        }
-      },
-      {
-        "keyword": "jayden adams",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "South Africa World Cup midfielder Adams dies aged 25",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cr47y5nvrqlo"
-        }
-      },
-      {
-        "keyword": "이승기",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "94억 땅에 집 완공했더니 \"열쇠 못 줘\"…이승기 또 악재",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651796"
-        }
-      },
-      {
-        "keyword": "norway vs england",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "World Cup 2026: Risk of thunderstorms before England's quarter-final with Norway",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo"
-        }
-      },
-      {
-        "keyword": "김지영",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의 걸크러시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712011127246"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-12T04:58:49.471034+09:00",
-    "label": "04:58",
-    "items": [
-      {
-        "keyword": "남아프리카 공화국 축구 국가대표팀",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1"
-        }
-      },
-      {
-        "keyword": "카롤리나 무초바",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "노스코바, 복식 파트너 무호바 꺾고 윔블던 첫 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260712001700007"
-        }
-      },
-      {
-        "keyword": "황인범",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'월드컵 1골 1도움' 황인범, 포르투갈 '명문' 포르투가 관심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8ZtiHhOcHv"
-        }
-      },
-      {
-        "keyword": "김이서",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260711n11762"
-        }
-      },
-      {
-        "keyword": "아파트 드라마",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711220159629"
-        }
-      },
-      {
-        "keyword": "이승기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "94억 땅에 집 완공했더니 \"열쇠 못 줘\"…이승기 또 악재",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651796"
-        }
-      },
-      {
-        "keyword": "jayden adams",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "South Africa World Cup midfielder Adams dies aged 25",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cr47y5nvrqlo"
-        }
-      },
-      {
-        "keyword": "louis phạm",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Louis Phạm lên tiếng ngay trong đêm về việc lộ clip nhạy cảm: \"Tôi không làm gì sai\"",
-          "source": "Kenh14.vn",
-          "url": "https://kenh14.vn/louis-pham-len-tieng-ngay-trong-dem-ve-viec-lo-clip-nhay-cam-toi-khong-lam-gi-sai-215260712013010075.chn"
-        }
-      },
-      {
-        "keyword": "norway vs england",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "England vs Norway LIVE: Watch World Cup 2026 quarter-final build-up, prediction, lineups & weather updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cgl33l55100t"
-        }
-      },
-      {
-        "keyword": "김지영",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의 걸크러시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712011127246"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-12T05:47:59.312258+09:00",
-    "label": "05:47",
-    "items": [
-      {
-        "keyword": "노르웨이 대 잉글랜드",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2hwXP2b0uX"
-        }
-      },
-      {
-        "keyword": "남아프리카 공화국 축구 국가대표팀",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1"
-        }
-      },
-      {
-        "keyword": "norway vs england",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "England vs Norway LIVE: Watch World Cup 2026 quarter-final build-up, prediction, lineups & weather updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cgl33l55100t"
-        }
-      },
-      {
-        "keyword": "카롤리나 무초바",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "노스코바, 복식 파트너 무호바 꺾고 윔블던 첫 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260712001700007"
-        }
-      },
-      {
-        "keyword": "황인범",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'韓 월드컵 최초 역사' 황인범, 포르투갈 최고 명문이 부른다!…\"FC포르투 영입 조건 부합, 감독도 HWANG 잘 알아\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fEmTp5HlXo"
-        }
-      },
-      {
-        "keyword": "김이서",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260711n11762"
-        }
-      },
-      {
-        "keyword": "집",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"집 3채, 잠이 안 온다\" 악몽되나...50대 대기업 김 부장, 자산 보니 [부동산 아토즈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711150137804"
-        }
-      },
-      {
-        "keyword": "ufc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "McGregor vows to smash Holloway after sunglasses snatch at Las Vegas presser - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/07/10/ESVDKFEOUFBBFBOMO3UOF6RQCI/"
-        }
-      },
-      {
-        "keyword": "이승기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "94억 땅에 집 완공했더니 \"열쇠 못 줘\"…이승기 또 악재",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651796"
-        }
-      },
-      {
-        "keyword": "louis phạm",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Louis Phạm lên tiếng ngay trong đêm về việc lộ clip nhạy cảm: \"Tôi không làm gì sai\"",
-          "source": "Kenh14.vn",
-          "url": "https://kenh14.vn/louis-pham-len-tieng-ngay-trong-dem-ve-viec-lo-clip-nhay-cam-toi-khong-lam-gi-sai-215260712013010075.chn"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-12T06:39:28.576604+09:00",
     "label": "06:39",
     "items": [
@@ -2523,6 +2099,112 @@
           "title": "\"와퍼가 3000원대\"…버거킹, 4일간 대표 메뉴 파격 프로모션",
           "source": "뉴스1",
           "url": "https://www.news1.kr/industry/distribution/6225697"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-13T17:48:20.107467+09:00",
+    "label": "17:48",
+    "items": [
+      {
+        "keyword": "000660",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "SK Hynix South Korean shares clock worst day, sinking over 15%, after stellar Nasdaq debut",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html"
+        }
+      },
+      {
+        "keyword": "타이거 우즈",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "제네시스, '스코티시오픈 우승' 김주형에게 GV60 마그마 전달",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260713028600003"
+        }
+      },
+      {
+        "keyword": "명태균",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보] '尹에 여론조사 무상제공' 명태균 징역 1년 6개월·법정 구속",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260713116900004"
+        }
+      },
+      {
+        "keyword": "장동민",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘지니어스’ 장동민, 돈방석 앉나…대기업 손잡고 ‘친환경 특허’ 실용화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5MOr0P4qyS"
+        }
+      },
+      {
+        "keyword": "주한 미군",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "전남광주특별시, 반도체 클러스터 원스톱 지원체계 구축",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20260708500168"
+        }
+      },
+      {
+        "keyword": "르윈 디아즈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[IS 인터뷰] \"50홈런 안 쳐도 돼\" 박진만 'THE 면담'에 짐 벗은 홈런왕, 삼성 디아즈 \"후반기 목표는 기복 줄이기\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1f80jZGhrO"
+        }
+      },
+      {
+        "keyword": "식중독",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "여수 모 중학교서 식중독 의심 환자 33명 발생",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8609232"
+        }
+      },
+      {
+        "keyword": "박해민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "FA 계약 이후 전반기 최고 성적 찍었는데…LG 캡틴, 왜 “70~80점 정도다” 했을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tXfOVEAilK"
+        }
+      },
+      {
+        "keyword": "sam neill",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Sam Neill, Jurassic Park actor, dies aged 78",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/live/crl1gk55rzet"
+        }
+      },
+      {
+        "keyword": "임라라",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"하와이 6달 살기 하고 와\"…'십자인대 파열' 손민수, '독박 육아+스케줄' 임라라에 호언장담 ('엔조이커플') [순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712200347805"
         }
       }
     ]

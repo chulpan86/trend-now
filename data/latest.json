@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-13T14:26:38.415438+09:00",
-  "label": "14:26",
+  "timestamp": "2026-07-13T17:48:20.107467+09:00",
+  "label": "17:48",
   "items": [
     {
-      "keyword": "서킷브레이커",
+      "keyword": "000660",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "[속보]코스피, 8% 폭락에 서킷브레이커…7000선 붕괴",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607131340001"
+        "title": "SK Hynix South Korean shares clock worst day, sinking over 15%, after stellar Nasdaq debut",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html"
       }
     },
     {
-      "keyword": "조선의 사랑꾼",
+      "keyword": "타이거 우즈",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "최성국 아내, 역대급 고음 무대…김국진 \"보통 실력자 아냐\" (사랑꾼)",
-        "source": "iMBC 연예",
-        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/511343"
+        "title": "제네시스, '스코티시오픈 우승' 김주형에게 GV60 마그마 전달",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260713028600003"
       }
     },
     {
-      "keyword": "박지원",
+      "keyword": "명태균",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "국민의힘 김재원 “조국 야호!”에 웃음 터진 최고위 [이런뉴스]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713112246193"
+        "title": "[속보] '尹에 여론조사 무상제공' 명태균 징역 1년 6개월·법정 구속",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260713116900004"
       }
     },
     {
-      "keyword": "연비",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"연비 21.1km/L, 승차감은 덤\" 고유가 시대에 제격인 '1천만 원대' 국산 세단",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/PXn13YTswb"
-      }
-    },
-    {
-      "keyword": "소유권",
+      "keyword": "장동민",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "42억에 산 땅, 돈은 못 돌려받고 소유권은 반납하라?…대법 판단은",
+        "title": "‘지니어스’ 장동민, 돈방석 앉나…대기업 손잡고 ‘친환경 특허’ 실용화",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260713060132035"
+        "url": "https://v.daum.net/v/5MOr0P4qyS"
       }
     },
     {
-      "keyword": "전인화",
+      "keyword": "주한 미군",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "전남광주특별시, 반도체 클러스터 원스톱 지원체계 구축",
+        "source": "메트로신문",
+        "url": "https://www.metroseoul.co.kr/article/20260708500168"
+      }
+    },
+    {
+      "keyword": "르윈 디아즈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[IS 인터뷰] \"50홈런 안 쳐도 돼\" 박진만 'THE 면담'에 짐 벗은 홈런왕, 삼성 디아즈 \"후반기 목표는 기복 줄이기\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/1f80jZGhrO"
+      }
+    },
+    {
+      "keyword": "식중독",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "전인화 \"내 사랑 두 아들\"…유동근 똑닮은 지상 근황 공개 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/12/2026071220514884230"
+        "title": "여수 모 중학교서 식중독 의심 환자 33명 발생",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8609232"
       }
     },
     {
-      "keyword": "kospi",
+      "keyword": "박해민",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Seoul shares sharply down late Mon. morning amid Middle East tensions",
-        "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20260713005100320"
+        "title": "FA 계약 이후 전반기 최고 성적 찍었는데…LG 캡틴, 왜 “70~80점 정도다” 했을까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/tXfOVEAilK"
       }
     },
     {
-      "keyword": "복날",
+      "keyword": "sam neill",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[기고]삼복더위, 보양식도 안전이 먼저 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/thebio/2026/07/13/2026071015280288951"
+        "title": "Sam Neill, Jurassic Park actor, dies aged 78",
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/live/crl1gk55rzet"
       }
     },
     {
-      "keyword": "긴급 체포",
+      "keyword": "임라라",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "계단 내려오던 이웃 흉기로 찌른 60대 체포",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260713013500065"
-      }
-    },
-    {
-      "keyword": "버거킹",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"와퍼가 3000원대\"…버거킹, 4일간 대표 메뉴 파격 프로모션",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/industry/distribution/6225697"
+        "title": "\"하와이 6달 살기 하고 와\"…'십자인대 파열' 손민수, '독박 육아+스케줄' 임라라에 호언장담 ('엔조이커플') [순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712200347805"
       }
     }
   ]
