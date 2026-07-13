@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-07-13T20:51:17.624348+09:00",
-  "label": "20:51",
+  "timestamp": "2026-07-13T23:05:09.733663+09:00",
+  "label": "23:05",
   "items": [
     {
-      "keyword": "코스피 폭락",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "폴드 8",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "\"바닥 어디\" 7000도 내준 코스피, 줍줍 기회?…\"사라! 단\" 전문가 조언 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179"
+        "title": "\"아직 공개 전인데?\"…'갤럭시Z폴드8' 실물 사진 찰칵",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260713121529"
       }
     },
     {
-      "keyword": "정동원",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "'해병대' 정동원, 몰라보게 달라졌다…떡 벌어진 어깨 '늠름'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713134528570"
-      }
-    },
-    {
-      "keyword": "파도",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'폭포 역주행' 시킨 위력…태풍 '바비'에 쑥대밭 된 중국",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713202719277"
-      }
-    },
-    {
-      "keyword": "오상진",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"오상진 똑 닮은 잘생긴 아들\" 벌써 100일, 첫째 땐 몰랐던 김소영의 깨달음",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713130039272"
-      }
-    },
-    {
-      "keyword": "틸레만스",
+      "keyword": "강풍",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'3선 초토화' 맨유 깜짝 영입 성공…에데르송 영입 좌절→틸레만스 바이아웃 700억 지불! HERE WE GO",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260713n32308"
-      }
-    },
-    {
-      "keyword": "gpt-5.6",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/gpt-5-6/"
-      }
-    },
-    {
-      "keyword": "토토",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "토토 흑자 전문가들이 알려주는 핵심 노하우 - 업계 전문가들의 조언",
-        "source": "www.les24heures.fr",
-        "url": "https://www.les24heures.fr/2004?Game=0005.html"
-      }
-    },
-    {
-      "keyword": "영종도 정전",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "인천 영종하늘도시 일대 정전…승강기 갇힘 신고 잇따라(종합)",
+        "title": "태풍급 강풍에 3천 명 발 묶여‥시설물 피해도 잇따라",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260713192951039"
+        "url": "https://v.daum.net/v/PBSh5SCEht"
       }
     },
     {
-      "keyword": "전쟁",
+      "keyword": "코레 일톡",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“코레일·SR 회원 통합”…다음 달 초 통합앱 출시",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9ow7xkjJCq"
+      }
+    },
+    {
+      "keyword": "정호연",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘호프’, 이미 ‘왕사남’ 넘었다",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202607130827003"
+      }
+    },
+    {
+      "keyword": "투표용지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[단독]선관위, 이달중 송파 투표지 재검표…전 과정 영상 공개",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713210237926"
+      }
+    },
+    {
+      "keyword": "앤더스 톨허스트",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이 선수 덕분에 '한화 이기고 우승', 그런데 에이스 본능 잃었다…LG가 기대하는 톨허스트 '면담 효과'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/5GXP2WvmXe"
+      }
+    },
+    {
+      "keyword": "김연아",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김연아, 반려견 발로 쓰다듬었다가…누리꾼 반응은",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260713_0003707382"
+      }
+    },
+    {
+      "keyword": "워터파크",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "7세 여아, 물에 엎드린 채…구명조끼 입었지만 '참변' 왜",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713201725100"
+      }
+    },
+    {
+      "keyword": "광주광산경찰서",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "전쟁의 미래와 미래의 전쟁 [세상읽기]",
+        "title": "장윤기, 재판 내내 무표정에 고개 푹…성폭행 목적 “인정한다”",
         "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/opinion/column/1268081.html"
+        "url": "https://www.hani.co.kr/arti/area/honam/1268085.html"
       }
     },
     {
-      "keyword": "인벤",
+      "keyword": "이준영",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
+      "news": {
+        "title": "'신입사원 강회장' PD “입대 앞둔 이준영 없었으면 못 했다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/bGU6GB710q"
+      }
     }
   ]
 }
