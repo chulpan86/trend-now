@@ -2094,5 +2094,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-14T06:44:23.316790+09:00",
+    "label": "06:44",
+    "items": [
+      {
+        "keyword": "서울경제",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독] 키트루다 2년 뒤 특허만료…삼성에피스, 독자 기술로 ‘47조 시장’ 노린다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20067191"
+        }
+      },
+      {
+        "keyword": "화재",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "순식간에 시뻘건 화염이…방콕 술집 화재 최소 28명 사망",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8609569"
+        }
+      },
+      {
+        "keyword": "에코프로 비엠",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "에코프로, 1.2조 ‘실탄’ 쌓아 인니 니켈 투자",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uNwsF2b0l5"
+        }
+      },
+      {
+        "keyword": "배유나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘사상 최초’ 한·중·일 여자 프로배구 최고 클럽들이 제주에서 만난다! 슈퍼매치 관전포인트는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713080314989"
+        }
+      },
+      {
+        "keyword": "스테이블코인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서클, 美 스테이블코인 전문은행 승인...가상자산 제도권 진입 발판",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260714043300525"
+        }
+      },
+      {
+        "keyword": "수출",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "韓 수출 이대로 가면 ‘세계 4강’ 그러나…",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qfi7VYTsyV"
+        }
+      },
+      {
+        "keyword": "삼성sdi",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "동서발전, AI 활용 에너지저장장치 구축지원 사업에 선정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260713149700057"
+        }
+      },
+      {
+        "keyword": "대만",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "TSMC, 6월 매출 4천426억 대만달러…전년 대비 67.9%↑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713152701733"
+        }
+      },
+      {
+        "keyword": "이영자",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이영자, 결혼식서 밝힌 속내 \"축의금 엄청 냈다… 혼자 결혼식 하면 안 되나\"",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026071315560005937"
+        }
+      },
+      {
+        "keyword": "พยากรณ์อากาศ",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "สทนช. อัปเดตน้ำเขื่อนทั่วประเทศ - 3 เขื่อน EEC ล่าสุด ส่อแวววิกฤตไหม?",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1242916"
+        }
+      }
+    ]
   }
 ]
