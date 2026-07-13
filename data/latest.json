@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-07-13T17:48:20.107467+09:00",
-  "label": "17:48",
+  "timestamp": "2026-07-13T20:51:17.624348+09:00",
+  "label": "20:51",
   "items": [
     {
-      "keyword": "000660",
+      "keyword": "코스피 폭락",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "\"바닥 어디\" 7000도 내준 코스피, 줍줍 기회?…\"사라! 단\" 전문가 조언 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179"
+      }
+    },
+    {
+      "keyword": "정동원",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "SK Hynix South Korean shares clock worst day, sinking over 15%, after stellar Nasdaq debut",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html"
+        "title": "'해병대' 정동원, 몰라보게 달라졌다…떡 벌어진 어깨 '늠름'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713134528570"
       }
     },
     {
-      "keyword": "타이거 우즈",
+      "keyword": "파도",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "제네시스, '스코티시오픈 우승' 김주형에게 GV60 마그마 전달",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260713028600003"
+        "title": "'폭포 역주행' 시킨 위력…태풍 '바비'에 쑥대밭 된 중국",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713202719277"
       }
     },
     {
-      "keyword": "명태균",
+      "keyword": "오상진",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[속보] '尹에 여론조사 무상제공' 명태균 징역 1년 6개월·법정 구속",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260713116900004"
+        "title": "\"오상진 똑 닮은 잘생긴 아들\" 벌써 100일, 첫째 땐 몰랐던 김소영의 깨달음",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713130039272"
       }
     },
     {
-      "keyword": "장동민",
+      "keyword": "틸레만스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'3선 초토화' 맨유 깜짝 영입 성공…에데르송 영입 좌절→틸레만스 바이아웃 700억 지불! HERE WE GO",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260713n32308"
+      }
+    },
+    {
+      "keyword": "gpt-5.6",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘지니어스’ 장동민, 돈방석 앉나…대기업 손잡고 ‘친환경 특허’ 실용화",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5MOr0P4qyS"
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/gpt-5-6/"
       }
     },
     {
-      "keyword": "주한 미군",
+      "keyword": "토토",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "전남광주특별시, 반도체 클러스터 원스톱 지원체계 구축",
-        "source": "메트로신문",
-        "url": "https://www.metroseoul.co.kr/article/20260708500168"
+        "title": "토토 흑자 전문가들이 알려주는 핵심 노하우 - 업계 전문가들의 조언",
+        "source": "www.les24heures.fr",
+        "url": "https://www.les24heures.fr/2004?Game=0005.html"
       }
     },
     {
-      "keyword": "르윈 디아즈",
+      "keyword": "영종도 정전",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[IS 인터뷰] \"50홈런 안 쳐도 돼\" 박진만 'THE 면담'에 짐 벗은 홈런왕, 삼성 디아즈 \"후반기 목표는 기복 줄이기\"",
+        "title": "인천 영종하늘도시 일대 정전…승강기 갇힘 신고 잇따라(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/1f80jZGhrO"
+        "url": "https://v.daum.net/v/20260713192951039"
       }
     },
     {
-      "keyword": "식중독",
+      "keyword": "전쟁",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "여수 모 중학교서 식중독 의심 환자 33명 발생",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8609232"
+        "title": "전쟁의 미래와 미래의 전쟁 [세상읽기]",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/opinion/column/1268081.html"
       }
     },
     {
-      "keyword": "박해민",
+      "keyword": "인벤",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "FA 계약 이후 전반기 최고 성적 찍었는데…LG 캡틴, 왜 “70~80점 정도다” 했을까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/tXfOVEAilK"
-      }
-    },
-    {
-      "keyword": "sam neill",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Sam Neill, Jurassic Park actor, dies aged 78",
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/crl1gk55rzet"
-      }
-    },
-    {
-      "keyword": "임라라",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"하와이 6달 살기 하고 와\"…'십자인대 파열' 손민수, '독박 육아+스케줄' 임라라에 호언장담 ('엔조이커플') [순간포착]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712200347805"
-      }
+      "news": null
     }
   ]
 }

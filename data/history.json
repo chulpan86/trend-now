@@ -1,319 +1,5 @@
 [
   {
-    "timestamp": "2026-07-12T06:39:28.576604+09:00",
-    "label": "06:39",
-    "items": [
-      {
-        "keyword": "투자",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "SK하닉 나스닥 잭팟 … K-개미 웃지 못하는 이유 [박진우의 개미수다]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712053127955"
-        }
-      },
-      {
-        "keyword": "노르웨이 대 잉글랜드",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2hwXP2b0uX"
-        }
-      },
-      {
-        "keyword": "남아프리카 공화국 축구 국가대표팀",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1"
-        }
-      },
-      {
-        "keyword": "아틀레티코 마드리드",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "홍명보호 부진과 딴판…이강인·이한범·오현규, 유럽 이적시장 '러브콜 쇄도'",
-          "source": "www.nocutnews.co.kr",
-          "url": "https://www.nocutnews.co.kr/news/6546187"
-        }
-      },
-      {
-        "keyword": "집",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "자기 집에 불 내고 어머니와 대피…기막힌 범행 이유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711163601949"
-        }
-      },
-      {
-        "keyword": "세균",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html"
-        }
-      },
-      {
-        "keyword": "ufc",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "McGregor vows to smash Holloway after sunglasses snatch at Las Vegas presser - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/07/10/ESVDKFEOUFBBFBOMO3UOF6RQCI/"
-        }
-      },
-      {
-        "keyword": "가짜뉴스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "7월 내내 장마·8월 극한 폭염?…SNS 떠도는 예보 보니 [사실은]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260710203904713"
-        }
-      },
-      {
-        "keyword": "england vs norway",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'The shape of his life' - Tuchel says Kane is at his absolute best ahead of Norway clash",
-          "source": "TNT Sports",
-          "url": "https://www.tntsports.co.uk/football/world-cup/2026/the-shape-of-his-life-thomas-tuchel-says-harry-kane-is-at-his-absolute-best-ahead-of-englands-fifa-world-cup-quarter-final-against-norway_vid60087492/video.shtml"
-        }
-      },
-      {
-        "keyword": "louis phạm",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Louis Phạm - cái tên đang được tìm kiếm rần rần là ai?",
-          "source": "Ngôi Sao VN",
-          "url": "https://ngoisao.vn/gioi-tre/hotgirl-hotboy/louis-pham--cai-ten-dang-duoc-tim-kiem-ran-ran-la-ai-d488123.html"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-12T07:37:05.246546+09:00",
-    "label": "07:37",
-    "items": [
-      {
-        "keyword": "하윤경",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711220159629"
-        }
-      },
-      {
-        "keyword": "박현경",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "하이원리조트 무빙데이 희비 엇갈린 박현경과 김민솔 [KLPGA]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021122"
-        }
-      },
-      {
-        "keyword": "벨링엄",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "투헬: 뭐?! 팔 부상이라고?!! 스톤스&라이스: 장난~ㅋㅋ... 오늘도 훈훈한 잉글랜드 락커룸",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BL8SP9jJuj"
-        }
-      },
-      {
-        "keyword": "노르웨이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "발로건은 '구제', 콴사는 '중징계'…뭐가 다르길래",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tsLjCJRfUt"
-        }
-      },
-      {
-        "keyword": "이란",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "트럼프 \"휴전 종료 통보\"…이란 \"항복 없다\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260711104230Yad"
-        }
-      },
-      {
-        "keyword": "นอร์เวย์ พบ อังกฤษ",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "LIVE ดูบอลสด นอร์เวย์ พบ อังกฤษ (12 ก.ค.) วันนี้ 04.00 น. บอลโลก 2026 รอบ 8 ทีมสุดท้าย",
-          "source": "Thairath.co.th",
-          "url": "https://www.thairath.co.th/sport/worldcup/2944617"
-        }
-      },
-      {
-        "keyword": "kbs",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "na uy đấu với anh",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Na Uy - Anh: Haaland so tài Harry Kane",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/na-uy-anh-haaland-so-tai-harry-kane-5096342.html"
-        }
-      },
-      {
-        "keyword": "북중미 월드컵",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'현대판 야신'도 무너졌다…프랑스 화력에 '59경기 무패 신화' 종료→4년 전 카타르 대회 이어 또다시 2골 차 영패 쓴잔",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/XV2UfVcnhp"
-        }
-      },
-      {
-        "keyword": "스타뉴스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'전액 현금' 장원영·뷔→'방배 청약' 안유진, 넘사벽 영앤리치 클래스 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712060209188"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-12T08:43:09.705747+09:00",
-    "label": "08:43",
-    "items": [
-      {
-        "keyword": "사건",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[시험대 오른 경찰] ③ 檢보완수사에 드러난 민낯…역량강화·신뢰회복 급선무",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712060227212"
-        }
-      },
-      {
-        "keyword": "음식",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "데이트할 때도 '이 음식'으로…제이제이, 잘록한 허리비결?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260711_0003705292"
-        }
-      },
-      {
-        "keyword": "범죄",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "정점식 폰도 불났다…“배신자” 문자 폭탄에 떠는 국힘",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BbKfmMPKyX"
-        }
-      },
-      {
-        "keyword": "이찬원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이찬원, 쓰라린 추억 소환…“부활 노래 불렀다 오디션 탈락”(‘불후’) - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12096109"
-        }
-      },
-      {
-        "keyword": "방탄소년단",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "BTS 진의 압도적인 눈맞춤, 엘르 6종 커버 공개",
-          "source": "엘르 코리아 │ ELLE KOREA",
-          "url": "https://www.elle.co.kr/article/1906015"
-        }
-      },
-      {
-        "keyword": "베컴",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "베컴 子, 화해 요청 무시→'13조 처가'에 올인…가족 불화 속 아내만 '공주님' 대접 [할리웃통신]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711163149902"
-        }
-      },
-      {
-        "keyword": "제니",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "제니는 유럽 접수중…스페인 페스티벌도 장악",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260710180101742"
-        }
-      },
-      {
-        "keyword": "노르웨이 축구 국가대표팀",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“이름도 홀란으로”…월드컵 맹활약에 페루 부모들 작명 열풍",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260712/134279549/1"
-        }
-      },
-      {
-        "keyword": "카카",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Brazilian soccer star buys $8.7M Miami-Dade condo. See inside the beachfront home",
-          "source": "Miami Herald",
-          "url": "https://www.miamiherald.com/news/business/real-estate-news/article316461531.html"
-        }
-      },
-      {
-        "keyword": "lịch world cup 2026",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Lịch thi đấu bóng đá hôm nay 12/7 và sáng 13/7",
-          "source": "Báo Thế giới và Việt Nam",
-          "url": "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-12-7-va-sang-13-7-415969.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-12T10:47:19.009200+09:00",
     "label": "10:47",
     "items": [
@@ -2206,6 +1892,108 @@
           "source": "Daum",
           "url": "https://v.daum.net/v/20260712200347805"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-13T20:51:17.624348+09:00",
+    "label": "20:51",
+    "items": [
+      {
+        "keyword": "코스피 폭락",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "\"바닥 어디\" 7000도 내준 코스피, 줍줍 기회?…\"사라! 단\" 전문가 조언 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179"
+        }
+      },
+      {
+        "keyword": "정동원",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'해병대' 정동원, 몰라보게 달라졌다…떡 벌어진 어깨 '늠름'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713134528570"
+        }
+      },
+      {
+        "keyword": "파도",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'폭포 역주행' 시킨 위력…태풍 '바비'에 쑥대밭 된 중국",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713202719277"
+        }
+      },
+      {
+        "keyword": "오상진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"오상진 똑 닮은 잘생긴 아들\" 벌써 100일, 첫째 땐 몰랐던 김소영의 깨달음",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713130039272"
+        }
+      },
+      {
+        "keyword": "틸레만스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'3선 초토화' 맨유 깜짝 영입 성공…에데르송 영입 좌절→틸레만스 바이아웃 700억 지불! HERE WE GO",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260713n32308"
+        }
+      },
+      {
+        "keyword": "gpt-5.6",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-6/"
+        }
+      },
+      {
+        "keyword": "토토",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "토토 흑자 전문가들이 알려주는 핵심 노하우 - 업계 전문가들의 조언",
+          "source": "www.les24heures.fr",
+          "url": "https://www.les24heures.fr/2004?Game=0005.html"
+        }
+      },
+      {
+        "keyword": "영종도 정전",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "인천 영종하늘도시 일대 정전…승강기 갇힘 신고 잇따라(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713192951039"
+        }
+      },
+      {
+        "keyword": "전쟁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "전쟁의 미래와 미래의 전쟁 [세상읽기]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1268081.html"
+        }
+      },
+      {
+        "keyword": "인벤",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
       }
     ]
   }
