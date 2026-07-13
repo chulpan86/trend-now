@@ -2000,5 +2000,103 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-14T02:06:31.239668+09:00",
+    "label": "02:06",
+    "items": [
+      {
+        "keyword": "참교육",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "김채은, ‘오십프로’ 종영소감",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QB6ZxImjiA"
+        }
+      },
+      {
+        "keyword": "건강",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'145kg 폭로' 신기루, 의사도 안 믿는 건강검진 결과서 최초 공개(말자쇼)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WkIOLWvmlg"
+        }
+      },
+      {
+        "keyword": "jtbc",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독] 중앙그룹 고위험채권 ‘돌려막기’ 의혹…최대 3,300억 원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708100319257"
+        }
+      },
+      {
+        "keyword": "미군",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보]트럼프 “호르무즈 對이란 봉쇄 재개…화물 안전비 20% 받겠다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260713/134292429/2"
+        }
+      },
+      {
+        "keyword": "법관",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": null
+      },
+      {
+        "keyword": "2002년 fifa 월드컵",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "아시아나항공",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[속보]대한항공, 아시아나티앤아이 청산 추진",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607132674i"
+        }
+      },
+      {
+        "keyword": "안성재",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'와인 바꿔치기' 논란 힘들었나..안성재 셰프, 핼쑥해진 얼굴 포착[스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713205237740"
+        }
+      },
+      {
+        "keyword": "기후",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "유럽의 미래 망치는 폭염, 한국인 지갑도 털어간다 [손진석의 머니워치]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/europe/2026/07/13/G27TOTNJHBHMBLYFPTWESFIB4Q/"
+        }
+      },
+      {
+        "keyword": "하나로마트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[포토] 농협, OK!COOK 더든든한 누룽지 삼계탕 출시",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04250886645514192&mediaCodeNo=257"
+        }
+      }
+    ]
   }
 ]
