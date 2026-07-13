@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-14T04:11:46.152702+09:00",
-  "label": "04:11",
+  "timestamp": "2026-07-14T05:49:16.198532+09:00",
+  "label": "05:49",
   "items": [
     {
       "keyword": "참교육",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "김채은, ‘오십프로’ 종영소감",
         "source": "Daum",
@@ -13,13 +13,13 @@
       }
     },
     {
-      "keyword": "건강",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "넷플릭스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'145kg 폭로' 신기루, 의사도 안 믿는 건강검진 결과서 최초 공개(말자쇼)",
+        "title": "커지는 OTT 광고시장, 넷플릭스만 웃는다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/WkIOLWvmlg"
+        "url": "https://v.daum.net/v/20260713174707523"
       }
     },
     {
@@ -33,22 +33,6 @@
       }
     },
     {
-      "keyword": "미군",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "트럼프 \"호르무즈 안전통항 대가 징수\"…'20% 통행료' 일방선언(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714022550293"
-      }
-    },
-    {
-      "keyword": "법관",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
-    },
-    {
       "keyword": "2002년 fifa 월드컵",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -59,33 +43,13 @@
       }
     },
     {
-      "keyword": "아시아나항공",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[속보]대한항공, 아시아나티앤아이 청산 추진",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607132674i"
-      }
-    },
-    {
-      "keyword": "안성재",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'와인 바꿔치기' 논란 힘들었나..안성재 셰프, 핼쑥해진 얼굴 포착[스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713205237740"
-      }
-    },
-    {
       "keyword": "기후",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“45도 폭염에 에어컨 고장, 극도로 위험한 상황”…문 닫은 ‘이 기업’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pODKSQ8B57"
+        "title": "전력수요 50GW 급증 전망…김성환 기후장관 “재생E 확대·원전 활용”",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370273"
       }
     },
     {
@@ -96,6 +60,46 @@
         "title": "[포토] 농협, OK!COOK 더든든한 누룽지 삼계탕 출시",
         "source": "이데일리",
         "url": "https://www.edaily.co.kr/News/Read?newsId=04250886645514192&mediaCodeNo=257"
+      }
+    },
+    {
+      "keyword": "스페인 프랑스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"프랑스에 프랑스인 없잖아\"…스페인전 앞두고 또 ‘발칵’",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12308023"
+      }
+    },
+    {
+      "keyword": "수성구",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "수성구, 반다비체육센터 운영 본격화… 뚜비 공연도 확대",
+        "source": "뉴데일리 대구경북",
+        "url": "https://tk.newdaily.co.kr/site/data/html/2026/07/13/2026071300237.html"
+      }
+    },
+    {
+      "keyword": "손나은",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'김부장' 손나은 '발연기' 떼고 '초대박'→혜리·하니, 시험대 오른 연기돌 2.5세대 센터들 [스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712060153170?f=m"
+      }
+    },
+    {
+      "keyword": "무인 항공기",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "무인항공기 기술은 화산 감시에 새로운 가능성을 열어줍니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/cong-nghe-uav-mo-huong-moi-trong-giam-sat-nui-lua"
       }
     }
   ]
