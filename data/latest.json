@@ -1,7 +1,37 @@
 {
-  "timestamp": "2026-07-14T07:44:35.914367+09:00",
-  "label": "07:44",
+  "timestamp": "2026-07-14T08:42:49.233135+09:00",
+  "label": "08:42",
   "items": [
+    {
+      "keyword": "weather",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Milwaukee Weather: Sunny and hot most of the week",
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/weather-news/articles/milwaukee-weather-sunny-hot-most-093759024.html"
+      }
+    },
+    {
+      "keyword": "가족관계증명서",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'따귀 엔딩' 한고은 vs 임지은, 이젠 장례식장 대치 '숨이 막혀'('가족관계증명서')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Wygye0tWhL"
+      }
+    },
+    {
+      "keyword": "สภาพอากาศ",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "สภาพอากาศวันนี้ 37 จังหวัด เจอฝนถล่ม เหนือ อีสาน ตะวันออก ตกหนัก | Khaosod",
+        "source": "LINE TODAY",
+        "url": "https://today.line.me/th/v3/article/KwNxkRr"
+      }
+    },
     {
       "keyword": "김숙",
       "traffic_raw": "1000+",
@@ -13,13 +43,13 @@
       }
     },
     {
-      "keyword": "박세리",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "погода",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "“거기 앉아있는 것도 힘들어”…박세리, ‘부친 고소’ 기자회견 회상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713223300264"
+        "title": "«Появился свет в конце грозового туннеля»: синоптики рассказали, когда закончатся дожди в Москве",
+        "source": "PravilaMag",
+        "url": "https://www.pravilamag.ru/news/society-news/12-07-2026/774921-sinoptiki-rasskazali-kogda-zakonchatsya-dojdi-v-moskve/"
       }
     },
     {
@@ -33,33 +63,23 @@
       }
     },
     {
-      "keyword": "로스앤젤레스 다저스",
+      "keyword": "ionq",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "오타니, 美日 통산 350홈런…마쓰이 이어 두 번째",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/tsloX9B3Hc"
+        "title": "Why IonQ Stock Is on a Losing Streak Even as Quantum Sector Booms",
+        "source": "Barron's",
+        "url": "https://www.barrons.com/articles/ionq-stock-quantum-computing-3817f029"
       }
     },
     {
-      "keyword": "ionq",
+      "keyword": "디지털 자산",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "IonQ Tumbles 8%, D-Wave, Rigetti, Quantum Computing Drop 6% as Risk-Off Ripple Effects Hit Speculative Quantum Stocks",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/"
-      }
-    },
-    {
-      "keyword": "vix",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "India VIX hits 5-month low. Could market stability attract smart money?",
-        "source": "mint",
-        "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-india-vix-hits-5-month-low-could-market-stability-attract-smart-money-11783413869750.html"
+        "title": "\"모든 금융 자산, 블록체인 위서 거래할 날 머지 않아… 미국 정부가 앞장\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/weeklybiz/2026/07/14/RALZIEI66VFTBBBSNLZR3DECPU/"
       }
     },
     {
@@ -73,16 +93,6 @@
       }
     },
     {
-      "keyword": "조선일보",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독] \"영어하니 미국에 알려라\"…김태효 발목 잡은 윤 진술",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VCXvEnd8pF"
-      }
-    },
-    {
       "keyword": "nvda",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -90,16 +100,6 @@
         "title": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels",
         "source": "Bloomberg.com",
         "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels"
-      }
-    },
-    {
-      "keyword": "농구",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "농구 대표팀, 월드컵 예선 대비 훈련 명단 발표…이현중 등 16명",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260713141400007"
       }
     }
   ]
