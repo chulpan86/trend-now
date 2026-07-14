@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-14T10:26:44.151419+09:00",
-  "label": "10:26",
+  "timestamp": "2026-07-14T13:40:53.748237+09:00",
+  "label": "13:40",
   "items": [
     {
-      "keyword": "단체교섭",
+      "keyword": "이성윤",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "'광주 반도체' 반대한다는 삼전 노조에…노동부 \"단체교섭 대상 아냐\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713224349350"
+        "title": "민주당, 당대표 경선 당규 개정…반발한 이성윤 최고위 사퇴",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12308146"
       }
     },
     {
-      "keyword": "이천수",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "이천수 작심 발언! \"손흥민, 무리뉴 밑에서 배웠는데 감독 명성 보겠나?\"…\"이름과 나이로 선수 꺾는 시대 끝났다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714033548371"
-      }
-    },
-    {
-      "keyword": "나는 solo",
+      "keyword": "구준엽",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"속궁합 잘 맞는다더라\" 선 넘은 나솔 출연자...시청자들도 '싸늘' - 머니투데이",
+        "title": "\"구준엽, 故서희원 유산 1200억 포기 안해\"…'3분의 1' 갖는다 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/07/10/2026071014103695114"
+        "url": "https://www.mt.co.kr/entertainment/2026/07/14/2026071409313822514"
       }
     },
     {
-      "keyword": "황 유민",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "피의자",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'조용한 강자' 임진희, 개인 최고인 세계랭킹 25위…윤이나·황유민·이소미는? [LPGA 에비앙 챔피언십]",
-        "source": "골프한국",
-        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021167"
-      }
-    },
-    {
-      "keyword": "신진 서",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "박정환·신민준·안성준 '바둑 삼국지' 농심배 태극마크",
+        "title": "김포서 여성 시신 발견…피의자 남성은 파주서 투신",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260713156000007"
+        "url": "https://www.yna.co.kr/view/AKR20260714031200060"
       }
     },
     {
-      "keyword": "제헌절",
+      "keyword": "낙하산",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "고층 아파트서 낙하산 점프한 20대 중국인 남성, 이유가… [현장영상]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8610222"
+      }
+    },
+    {
+      "keyword": "신인감독 김연경",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'신인감독 김연경2', 첫 직관 경기 개최…흥국생명과 맞대결",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260714094651538"
+      }
+    },
+    {
+      "keyword": "쯔위",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "18년 만에 돌아온 ‘빨간 날’ 제헌절…2026년 남은 공휴일은?",
-        "source": "농민신문",
-        "url": "https://www.nongmin.com/article/20260709500316"
+        "title": "[단독] 트와이스 쯔위, 11년 만에 JYP 떠난다",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/music/6227431"
       }
     },
     {
-      "keyword": "백승호",
+      "keyword": "에어로케이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'韓 국가대표 미드필더' 백승호, 또 '구국의 결단' 내리나...어깨 수술 재차 미룰까, 감독 \"내년 여름 이상적\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713224348347"
+        "title": "“에어로케이 누적 탑승객 500만 명 돌파”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8609659"
       }
     },
     {
-      "keyword": "펩 과르디올라",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "친환경",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "조인성",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "“강동 임산부, 친환경 농산물 드세요”",
-        "source": "서울Pn",
-        "url": "https://go.seoul.co.kr/news/newsView.php?id=20260713020003"
+        "title": "[문화연예 플러스] 나홍진 '호프', 올해 최고 사전 예매량 기록",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260714070119759"
       }
     },
     {
-      "keyword": "와우넷",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "신구",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'15조->7조' 반토막....코스닥 개미 다 어디갔나 했더니",
+        "title": "'91세' 신구, 아내 사별 '1년 후' 첫 심경 고백...\"따라 죽을 수도 없고\" (짠한형)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/HW04KTlw3y"
+        "url": "https://v.daum.net/v/20260714101809288"
+      }
+    },
+    {
+      "keyword": "스즈키 자이온",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "일본인 골키퍼 한 명에 550억? 이강인 떠나는 PSG, 역대급 베팅 나선다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713175012654"
       }
     }
   ]
