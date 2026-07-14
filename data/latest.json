@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-14T13:40:53.748237+09:00",
-  "label": "13:40",
+  "timestamp": "2026-07-14T16:03:18.482709+09:00",
+  "label": "16:03",
   "items": [
     {
-      "keyword": "이성윤",
+      "keyword": "돈",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "민주당, 당대표 경선 당규 개정…반발한 이성윤 최고위 사퇴",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12308146"
+        "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 14일",
+        "source": "BNT뉴스",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202607140053"
       }
     },
     {
-      "keyword": "구준엽",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "사나 국제공항",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "\"구준엽, 故서희원 유산 1200억 포기 안해\"…'3분의 1' 갖는다 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/14/2026071409313822514"
-      }
-    },
-    {
-      "keyword": "피의자",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "김포서 여성 시신 발견…피의자 남성은 파주서 투신",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260714031200060"
-      }
-    },
-    {
-      "keyword": "낙하산",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "고층 아파트서 낙하산 점프한 20대 중국인 남성, 이유가… [현장영상]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8610222"
-      }
-    },
-    {
-      "keyword": "신인감독 김연경",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'신인감독 김연경2', 첫 직관 경기 개최…흥국생명과 맞대결",
+        "title": "악시오스 \"사우디 빈 살만, 후티 공격 전 트럼프 승인 받아\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260714094651538"
+        "url": "https://v.daum.net/v/20260714144308093"
       }
     },
     {
-      "keyword": "쯔위",
+      "keyword": "김범석",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[단독] 트와이스 쯔위, 11년 만에 JYP 떠난다",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/music/6227431"
+        "title": "법원 \"김범석 쿠팡 동일인 지정 공정위 처분 효력정지\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6837318_36918.html"
       }
     },
     {
-      "keyword": "에어로케이",
+      "keyword": "밀수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“에어로케이 누적 탑승객 500만 명 돌파”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8609659"
-      }
-    },
-    {
-      "keyword": "조인성",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[문화연예 플러스] 나홍진 '호프', 올해 최고 사전 예매량 기록",
+        "title": "'마약 밀수·투약 혐의' 前 KBO 프로야구 선수, 중형 선고",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260714070119759"
+        "url": "https://v.daum.net/v/20260714112402081"
       }
     },
     {
-      "keyword": "신구",
+      "keyword": "군수산업",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "사무관",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'91세' 신구, 아내 사별 '1년 후' 첫 심경 고백...\"따라 죽을 수도 없고\" (짠한형)",
+        "title": "세종시 신규 사무관 8명... 새로운 출발 다짐",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260714101809288"
+        "url": "https://v.daum.net/v/5JWUtDcnwG"
       }
     },
     {
-      "keyword": "스즈키 자이온",
+      "keyword": "고준희",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "일본인 골키퍼 한 명에 550억? 이강인 떠나는 PSG, 역대급 베팅 나선다",
+        "title": "[Y초점] '모솔연애2' 이은지, 리액션보다 빛난 '상황 번역' 능력",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202607140952202772"
+      }
+    },
+    {
+      "keyword": "수국",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "2026년 「제16회 수국꽃문화축제」 성황리에 마무리",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260713.99099003734"
+      }
+    },
+    {
+      "keyword": "양배차",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "신기루 \"'6살 연하' 양배차에 8번 고백, 8번 거절 당해\"('말자쇼')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260713175012654"
+        "url": "https://v.daum.net/v/20260714133507521"
+      }
+    },
+    {
+      "keyword": "이찬진",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "기본 예탁금 상향·사전 교육…‘투자 장벽’ 높여 열기 식혀야",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607132120015"
       }
     }
   ]
