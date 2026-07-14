@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-14T16:03:18.482709+09:00",
-  "label": "16:03",
+  "timestamp": "2026-07-14T18:46:32.530576+09:00",
+  "label": "18:46",
   "items": [
     {
-      "keyword": "돈",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "암",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 14일",
-        "source": "BNT뉴스",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202607140053"
+        "title": "용인세브란스 병원, 암센터·교수연구동 신설 본격화",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260714580449"
       }
     },
     {
-      "keyword": "사나 국제공항",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "성과급",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "악시오스 \"사우디 빈 살만, 후티 공격 전 트럼프 승인 받아\"",
+        "title": "김영훈 노동장관 “AI 성과, 함께 만든 이익…새로운 사회계약 필요”",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370293"
+      }
+    },
+    {
+      "keyword": "쌍방울그룹",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "경찰 \"쌍방울 대북송금, 李대통령 지시로 보기 어렵다\" 각하",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260714087100004"
+      }
+    },
+    {
+      "keyword": "태풍 바비 현재 위치",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'바비' 이어 11호 태풍 '하이선' 등장…예상 경로는?",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2603292"
+      }
+    },
+    {
+      "keyword": "최저임금",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "최저임금위 공익위원 \"플랫폼 노동 고려 제도 개선 권고\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260714144308093"
+        "url": "https://v.daum.net/v/20260714173912942"
       }
     },
     {
-      "keyword": "김범석",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "불",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "법원 \"김범석 쿠팡 동일인 지정 공정위 처분 효력정지\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6837318_36918.html"
+        "title": "제주 폐차장에서 불…폐차 3대 전소, 다량 연기 발생",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8610442"
       }
     },
     {
-      "keyword": "밀수",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "이스라엘",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'마약 밀수·투약 혐의' 前 KBO 프로야구 선수, 중형 선고",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714112402081"
-      }
-    },
-    {
-      "keyword": "군수산업",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "사무관",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "세종시 신규 사무관 8명... 새로운 출발 다짐",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5JWUtDcnwG"
-      }
-    },
-    {
-      "keyword": "고준희",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[Y초점] '모솔연애2' 이은지, 리액션보다 빛난 '상황 번역' 능력",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0117_202607140952202772"
-      }
-    },
-    {
-      "keyword": "수국",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "2026년 「제16회 수국꽃문화축제」 성황리에 마무리",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260713.99099003734"
-      }
-    },
-    {
-      "keyword": "양배차",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "신기루 \"'6살 연하' 양배차에 8번 고백, 8번 거절 당해\"('말자쇼')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714133507521"
-      }
-    },
-    {
-      "keyword": "이찬진",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "기본 예탁금 상향·사전 교육…‘투자 장벽’ 높여 열기 식혀야",
+        "title": "“이스라엘 건국 이래 가장 중대한 선거”···‘최장수 총리’ 네타냐후 집권 이어갈까",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607132120015"
+        "url": "https://www.khan.co.kr/article/202607131644001"
+      }
+    },
+    {
+      "keyword": "삼성전자 adr",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"삼성전자, 美 ADR 상장 재검토…SK하이닉스 흥행에 관심\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260714173648813"
+      }
+    },
+    {
+      "keyword": "k리그",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'시즌 첫 골이 결승골' 안양 권경원, K리그1 17라운드 MVP",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260714080800007"
+      }
+    },
+    {
+      "keyword": "소림축구",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "中서 주성치 '소림축구' 25년만의 후속작 흥행…촬영지 관광특수",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260714165056637"
       }
     }
   ]
