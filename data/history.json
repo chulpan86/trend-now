@@ -2078,5 +2078,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-15T08:41:55.328935+09:00",
+    "label": "08:41",
+    "items": [
+      {
+        "keyword": "이강인",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "‘이강인 내한경기 김 빠지나?’ 아틀레티코 핵심선수 중 10명이 스페인+아르헨 국가대표…한국 안온다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715011038354"
+        }
+      },
+      {
+        "keyword": "강원특별자치도청",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "검찰, 강원도청 5곳 압수수색…전 공무원 참고인 신분 수사(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260714058653062"
+        }
+      },
+      {
+        "keyword": "이찬원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이찬원, '주 5회 통화' 절친 있었다…\"커피차·간식차\" 미담도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715030150759"
+        }
+      },
+      {
+        "keyword": "송도동",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "인천 송도동 송도 오션파크 베르디움 84㎡ 6억6500만원에 거래",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260714n25191"
+        }
+      },
+      {
+        "keyword": "세종특별자치시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"논산지역 발전 이끈 숨은 주역을 찾습니다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260714_0003708456"
+        }
+      },
+      {
+        "keyword": "argentina vs england",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Security Alert for England-Argentina Semifinal Amid Historic Tensions",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/07/14/RPPYBCVRTZHFBLYX4WALD7TN2M/"
+        }
+      },
+      {
+        "keyword": "잉글랜드 대 아르헨티나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘전성기 메시’ 막아봤던 박지성…\"저 나이에 저 기량은 불가능\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12308237"
+        }
+      },
+      {
+        "keyword": "축구 선수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'축구화를 벗는 순간 시작되는 고민'…여자축구 선수들의 현실, 당신은 알고 있나요?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HR6Zr0tWvb"
+        }
+      },
+      {
+        "keyword": "skhy",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SK Hynix ADR Surges 27% on AI Optimism",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/market-money-en/2026/07/15/YE4NSM4BKJDS7JS3C4NHXY6ZKI/"
+        }
+      },
+      {
+        "keyword": "지단",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "프랑스 '황금기' 이끈 캡틴 그리고 명장, 굿바이 데샹",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/07/15/2026071500034.html"
+        }
+      }
+    ]
   }
 ]
