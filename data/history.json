@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-13T08:42:52.435304+09:00",
-    "label": "08:42",
-    "items": [
-      {
-        "keyword": "삼성",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "AS·수리까지 덮친 칩플레이션…삼성전자, 서비스 자재비 인상",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1119651"
-        }
-      },
-      {
-        "keyword": "투자",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[사설] 하이닉스 美 상장 성공이 ‘도박판 증시’ 한국에 던진 경고",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/editorial/2026/07/13/LCM4YCTKPNGEBCQS5FABASNUC4/"
-        }
-      },
-      {
-        "keyword": "하비에르 아기레",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"이강인 내 아들\" 아기레, 연봉 75억에 한국행?…\"韓 가면 30억 이상 폭등\" 멕시코 매체 깜짝 주장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712222307274"
-        }
-      },
-      {
-        "keyword": "조상우",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "정해영 멈췄던 SV 시계 다시 돌아간다…돌아온 싸움닭은 양념 팍팍, KIA 후반기 뒷문 윤곽 드러났다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3IZ0YImjOu?f=p"
-        }
-      },
-      {
-        "keyword": "영화",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "나홍진 신작 '호프' 사전 예매 37만 돌파…올해 최고 기록",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713082327430"
-        }
-      },
-      {
-        "keyword": "법안",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "가상자산 제도권 편입 분수령… 美 클래리티법 ‘급물살’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3SL2ZWvmvu"
-        }
-      },
-      {
-        "keyword": "최준희",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'故 최진실 딸' 최준희, 청바지가 제일 충격적…96kg→44kg '뼈말라' 보디 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/10/GU4DEMDEHFTGCMDBHA2TOMTEGQ/"
-        }
-      },
-      {
-        "keyword": "이동경",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독]'월드컵에 1분만 뛰었다면' MVP 이동경, '이적료+개인합의 완료하고도' 스토크시티행 '불발 위기'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/07/12/GU2WCZBXGNSDIOJXMVSGMYZWGA/"
-        }
-      },
-      {
-        "keyword": "용연교",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "양산시, 안전등급 E 판정 '용연교' 차량 전면 통제",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260711_0003705073"
-        }
-      },
-      {
-        "keyword": "lng선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "K-조선 LNG선 독주도 흔들…中, 추격에 '초격차' 시험대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BwitK7pXlS?f=p"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-13T10:49:39.691157+09:00",
     "label": "10:49",
     "items": [
@@ -1773,6 +1667,112 @@
           "title": "[칼럼] 젬백스의 남경필 승부수, '메타 모델'을 꿈꾸다",
           "source": "팜뉴스",
           "url": "https://www.pharmnews.com/news/articleView.html?idxno=304839"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-14T22:07:49.229300+09:00",
+    "label": "22:07",
+    "items": [
+      {
+        "keyword": "연비",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"연비 22.4km/L의 위엄\" 기름값 걱정 없애주는 '1천만 원대' 국산 하이브리드 세단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xgY6LWvmMK"
+        }
+      },
+      {
+        "keyword": "김승혜",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘40kg 감량’ 홍윤화, ‘임신’ 김승혜보다 배 나왔다 지적 “임산부가 제일 날씬”(김승혜)[핫피플]",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112839143"
+        }
+      },
+      {
+        "keyword": "부산광역시",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "부산시의회 서국보 “예산 통합으로 청소년 대중교통 무료 지원해야”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260714170704431"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Kết quả xổ số miền Trung hôm nay 14.7: Đắk Lắk, Quảng Nam",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-147-dak-lak-quang-nam-1735077.ldo"
+        }
+      },
+      {
+        "keyword": "ibm",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"
+        }
+      },
+      {
+        "keyword": "cpi 발표",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "미국 6월 CPI 발표, 3.5%↑…나스닥 선물 상승",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260714023422501"
+        }
+      },
+      {
+        "keyword": "백운광장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "전남광주 백운광장 상부 도로 전면 개방…7년만에 10차선 복구",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260714138100054"
+        }
+      },
+      {
+        "keyword": "캄 렐리 주맙",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "HLB, 리라푸그라티닙 앞세워 복수 파이프라인 전략 본격화",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6227061"
+        }
+      },
+      {
+        "keyword": "cuaca besok",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Prakiraan Cuaca Sulawesi Rabu 15 Juli 2026, Cek Kondisi Mamuju, Makassar, Palu, Kendari, Gorontalo, dan Manado",
+          "source": "Headline.co.id",
+          "url": "https://www.headline.co.id/107216/prakiraan-cuaca-sulawesi-rabu-15-juli-2026-cek-kondisi-mamuju-makassar-palu-kendari-gorontalo-dan-manado/"
+        }
+      },
+      {
+        "keyword": "배틀그라운드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "배틀그라운드 모바일, 페라리 4종·F1 머신 전시까지…9월까지 컬래버",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YZ6GmSCEZT"
         }
       }
     ]
