@@ -1870,5 +1870,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-15T06:47:17.254959+09:00",
+    "label": "06:47",
+    "items": [
+      {
+        "keyword": "집중호우",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "태풍 ‘바비’가 남긴 뒤끝… “최대 120㎜ 물폭탄”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/07/14/LWUDLERBXFF3JAV4GS3OPYSMOU/"
+        }
+      },
+      {
+        "keyword": "티모시 샬라메",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "10만 돌파 '마티 슈프림', 로버트 패틴슨 깜짝 목소리 출연 눈길",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BmLLFTlwX6"
+        }
+      },
+      {
+        "keyword": "천궁",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "박근형",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“차에 숨어 사담이나 나누는 똥배우들” 86세 박근형의 거침없는 일침",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260615511587"
+        }
+      },
+      {
+        "keyword": "최항",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"충분히 보답 못해 죄송한 마음\"…'시즌 중 방출' 최항, 롯데 구단·팬 향해 마지막 작별 인사 전했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fTzJ5U3GXb"
+        }
+      },
+      {
+        "keyword": "이자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대출 금리 오르면 '영끌·빚투' 이자 부담도 눈덩이",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260714167900002"
+        }
+      },
+      {
+        "keyword": "lịch world cup 2026",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Tương quan 4 đội vào bán kết World Cup 2026",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/tuong-quan-4-doi-vao-ban-ket-world-cup-2026-5097252.html"
+        }
+      },
+      {
+        "keyword": "페란 토레스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"韓 월드컵 조기 탈락, 오히려 호재\" 이강인 합류만 기다리는 AT 마드리드",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260714222153238"
+        }
+      },
+      {
+        "keyword": "3기 신도시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"공급 늘리고 투기 차단\"…세제개편 '7말8초'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6TdIEmDgG3"
+        }
+      },
+      {
+        "keyword": "파업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "성과급·완전월급제·정년보장 평행선…현대차 노조 파업 장기화?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715045101095"
+        }
+      }
+    ]
   }
 ]
