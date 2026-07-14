@@ -1,25 +1,45 @@
 {
-  "timestamp": "2026-07-15T02:02:56.426608+09:00",
-  "label": "02:02",
+  "timestamp": "2026-07-15T04:02:17.048467+09:00",
+  "label": "04:02",
   "items": [
     {
-      "keyword": "하트시그널5",
+      "keyword": "sk그룹",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "SK하닉 실적 전망 하향에도…\"눈높이 조정\" 주가 이상 무",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260714193327347"
+      }
+    },
+    {
+      "keyword": "스마트폰",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"나가서 못 볼 수도 있을 것 같다\" 김민주, 엉켜버린 김성민에 냉담 ('하트시그널5')",
+        "title": "‘99만원→254만원’ 가격 ‘폭등’ 난리더니…13년만의 ‘역대급’ 추락",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260714224810443"
+        "url": "https://v.daum.net/v/20260714204213640"
       }
     },
     {
       "keyword": "도림천",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "“오늘 밤이 고비”…이 시각 서울 도림천",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610412"
+        "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8610412"
+      }
+    },
+    {
+      "keyword": "유아인",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "배우 유아인, 나홍진 '호프' 시사회서 포착…복귀 여부 촉각",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6547651"
       }
     },
     {
@@ -39,23 +59,23 @@
       "news": null
     },
     {
-      "keyword": "유아인",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "풍자",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "배우 유아인, 나홍진 '호프' 시사회서 포착…복귀 여부 촉각",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6547651"
+        "title": "'트랜스젠더' 풍자, 생리통 발언에...",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0519_202607131640484087"
       }
     },
     {
-      "keyword": "민경욱",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "gpt-5.6",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "부정선거 강연 중 쓰러진 민경욱…“의식불명·뇌병변 의심” 응급 이송",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714223741372"
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/gpt-5-6/"
       }
     },
     {
@@ -76,26 +96,6 @@
         "title": "[오피셜] 사우디 연봉 1278억 거절하고 로마 잔류, 또 재계약까지…외모만큼 인성도 최고! 디발라, 로마 남는다",
         "source": "네이트",
         "url": "https://sports.news.nate.com/view/20260713n34963"
-      }
-    },
-    {
-      "keyword": "이성민",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Lee Sung-min sheds 10kg and stuns at Korea photoshoot - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-entertainment/2026/07/14/CUDCYH7WMNEN3NFMADD4G36ZLY/"
-      }
-    },
-    {
-      "keyword": "바가지요금",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"요금표 안 붙이면 바로 철퇴\"…이제 한 번만 걸려도 '영업정지'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714154600608"
       }
     }
   ]
