@@ -1,91 +1,47 @@
 {
-  "timestamp": "2026-07-14T22:07:49.229300+09:00",
-  "label": "22:07",
+  "timestamp": "2026-07-15T00:16:15.884982+09:00",
+  "label": "00:16",
   "items": [
     {
-      "keyword": "연비",
+      "keyword": "캐디",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"연비 22.4km/L의 위엄\" 기름값 걱정 없애주는 '1천만 원대' 국산 하이브리드 세단",
+        "title": "4인 플레이, 캐디 의무는 가라...요즘 골프는 2인 플레이, 노캐디가 대세!",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/golf/2026/07/14/MQYGENRZMEYDQYRUGJSGMMLBGE/"
+      }
+    },
+    {
+      "keyword": "고우림",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "하트시그널",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"나가서 못 볼 수도 있을 것 같다\" 김민주, 엉켜버린 김성민에 냉담 ('하트시그널5')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/xgY6LWvmMK"
+        "url": "https://v.daum.net/v/20260714224810443"
       }
     },
     {
-      "keyword": "김승혜",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘40kg 감량’ 홍윤화, ‘임신’ 김승혜보다 배 나왔다 지적 “임산부가 제일 날씬”(김승혜)[핫피플]",
-        "source": "OSEN",
-        "url": "http://www.osen.co.kr/article/G1112839143"
-      }
-    },
-    {
-      "keyword": "부산광역시",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "부산시의회 서국보 “예산 통합으로 청소년 대중교통 무료 지원해야”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714170704431"
-      }
-    },
-    {
-      "keyword": "xsmb",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Kết quả xổ số miền Trung hôm nay 14.7: Đắk Lắk, Quảng Nam",
-        "source": "Laodong.vn",
-        "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-147-dak-lak-quang-nam-1735077.ldo"
-      }
-    },
-    {
-      "keyword": "ibm",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"
-      }
-    },
-    {
-      "keyword": "cpi 발표",
+      "keyword": "민경욱",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "미국 6월 CPI 발표, 3.5%↑…나스닥 선물 상승",
-        "source": "에너지경제신문",
-        "url": "https://m.ekn.kr/view.php?key=20260714023422501"
-      }
-    },
-    {
-      "keyword": "백운광장",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "전남광주 백운광장 상부 도로 전면 개방…7년만에 10차선 복구",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260714138100054"
-      }
-    },
-    {
-      "keyword": "캄 렐리 주맙",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "HLB, 리라푸그라티닙 앞세워 복수 파이프라인 전략 본격화",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6227061"
+        "title": "민경욱 前 의원 부정선거 강연 도중 쓰러져 심폐소생술 후 응급 이송",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11602670"
       }
     },
     {
       "keyword": "cuaca besok",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "Prakiraan Cuaca Sulawesi Rabu 15 Juli 2026, Cek Kondisi Mamuju, Makassar, Palu, Kendari, Gorontalo, dan Manado",
         "source": "Headline.co.id",
@@ -93,13 +49,53 @@
       }
     },
     {
-      "keyword": "배틀그라운드",
+      "keyword": "디발라",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "배틀그라운드 모바일, 페라리 4종·F1 머신 전시까지…9월까지 컬래버",
+        "title": "[오피셜] 사우디 연봉 1278억 거절하고 로마 잔류, 또 재계약까지…외모만큼 인성도 최고! 디발라, 로마 남는다",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260713n34963"
+      }
+    },
+    {
+      "keyword": "유아인",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "배우 유아인, 나홍진 '호프' 시사회서 포착…복귀 여부 촉각",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6547651"
+      }
+    },
+    {
+      "keyword": "이성민",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Lee Sung-min sheds 10kg and stuns at Korea photoshoot - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-entertainment/2026/07/14/CUDCYH7WMNEN3NFMADD4G36ZLY/"
+      }
+    },
+    {
+      "keyword": "ibm 주가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[속보] IBM 25% 급락·마이크론 4% 반등…뉴욕증시 혼조 출발",
         "source": "Daum",
-        "url": "https://v.daum.net/v/YZ6GmSCEZT"
+        "url": "https://v.daum.net/v/20260714223801376"
+      }
+    },
+    {
+      "keyword": "바가지요금",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"요금표 안 붙이면 바로 철퇴\"…이제 한 번만 걸려도 '영업정지'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260714154600608"
       }
     }
   ]
