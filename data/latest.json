@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-07-15T00:16:15.884982+09:00",
-  "label": "00:16",
+  "timestamp": "2026-07-15T02:02:56.426608+09:00",
+  "label": "02:02",
   "items": [
     {
-      "keyword": "캐디",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "하트시그널5",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "4인 플레이, 캐디 의무는 가라...요즘 골프는 2인 플레이, 노캐디가 대세!",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/golf/2026/07/14/MQYGENRZMEYDQYRUGJSGMMLBGE/"
+        "title": "\"나가서 못 볼 수도 있을 것 같다\" 김민주, 엉켜버린 김성민에 냉담 ('하트시그널5')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260714224810443"
+      }
+    },
+    {
+      "keyword": "도림천",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“오늘 밤이 고비”…이 시각 서울 도림천",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610412"
+      }
+    },
+    {
+      "keyword": "긴급 체포",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "자진출석 피의자 밖으로 불러내 “긴급체포”…현직 경찰 기소",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260714/134298708/1"
       }
     },
     {
@@ -19,13 +39,13 @@
       "news": null
     },
     {
-      "keyword": "하트시그널",
+      "keyword": "유아인",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"나가서 못 볼 수도 있을 것 같다\" 김민주, 엉켜버린 김성민에 냉담 ('하트시그널5')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714224810443"
+        "title": "배우 유아인, 나홍진 '호프' 시사회서 포착…복귀 여부 촉각",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6547651"
       }
     },
     {
@@ -33,19 +53,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "민경욱 前 의원 부정선거 강연 도중 쓰러져 심폐소생술 후 응급 이송",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11602670"
+        "title": "부정선거 강연 중 쓰러진 민경욱…“의식불명·뇌병변 의심” 응급 이송",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260714223741372"
       }
     },
     {
-      "keyword": "cuaca besok",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "모태솔로지만 연애는 하고싶어 시즌2",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Prakiraan Cuaca Sulawesi Rabu 15 Juli 2026, Cek Kondisi Mamuju, Makassar, Palu, Kendari, Gorontalo, dan Manado",
-        "source": "Headline.co.id",
-        "url": "https://www.headline.co.id/107216/prakiraan-cuaca-sulawesi-rabu-15-juli-2026-cek-kondisi-mamuju-makassar-palu-kendari-gorontalo-dan-manado/"
+        "title": "[Y초점] '모솔연애2' 이은지, 리액션보다 빛난 '상황 번역' 능력",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202607140952202772"
       }
     },
     {
@@ -59,16 +79,6 @@
       }
     },
     {
-      "keyword": "유아인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "배우 유아인, 나홍진 '호프' 시사회서 포착…복귀 여부 촉각",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6547651"
-      }
-    },
-    {
       "keyword": "이성민",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -76,16 +86,6 @@
         "title": "Lee Sung-min sheds 10kg and stuns at Korea photoshoot - CHOSUNBIZ",
         "source": "Chosunbiz",
         "url": "https://biz.chosun.com/en/en-entertainment/2026/07/14/CUDCYH7WMNEN3NFMADD4G36ZLY/"
-      }
-    },
-    {
-      "keyword": "ibm 주가",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[속보] IBM 25% 급락·마이크론 4% 반등…뉴욕증시 혼조 출발",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260714223801376"
       }
     },
     {
