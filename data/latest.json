@@ -1,25 +1,15 @@
 {
-  "timestamp": "2026-07-16T02:05:08.312181+09:00",
-  "label": "02:05",
+  "timestamp": "2026-07-16T03:54:46.682355+09:00",
+  "label": "03:54",
   "items": [
     {
-      "keyword": "법원",
+      "keyword": "약",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "법사위 전체회의 출석한 노경필 법원행정처장",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260715137100013"
-      }
-    },
-    {
-      "keyword": "약",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
         "title": "“국민 50%가 모른다” 집에 수두룩한 ‘남은 약’, 전부 쓰레기통에?…이러다 큰일 난다 [지구, 뭐래?]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715194220438"
+        "url": "https://v.daum.net/v/1iUBMRQ958"
       }
     },
     {
@@ -33,6 +23,22 @@
       }
     },
     {
+      "keyword": "하프 타임 쇼",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "BTS 나설 하프타임쇼, 룰도 깼다…\"미국 국가는 왜\" 불만 폭발",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12308441"
+      }
+    },
+    {
+      "keyword": "인벤",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
       "keyword": "자외선 차단제",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -43,13 +49,23 @@
       }
     },
     {
-      "keyword": "배용준",
+      "keyword": "레이더",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "세월이 야속해…유아인·배용준 '흰머리'까지 화제, 확 달라진 스타일링 [엑's 이슈]",
+        "title": "라팔 F4 전투기는 적 레이더를 탐지하기 위해 특별히 설계된 새로운 '오른쪽 팔'을 갖추고 있습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/tiem-kich-rafale-f4-co-canh-tay-phai-moi-chuyen-san-radar-doi-phuong"
+      }
+    },
+    {
+      "keyword": "뇌",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“SK하이닉스로 2억 벌었어” 친구 말에…‘전치 4주’ 고통 느낀다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/KkSbdMPK1j"
+        "url": "https://v.daum.net/v/20260715073128809"
       }
     },
     {
@@ -57,49 +73,29 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'라스' 김성령 \"하지원과 대학교 축제서 헌팅…이제 안 먹혀\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715225037828"
+        "title": "김성령, 하지원 앞세워 대학생 헌팅 \"나 못알아 봐…퇴짜 맞았다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071603014767749"
       }
     },
     {
-      "keyword": "레이더",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "기상레이더 관측망 확대… 홍수레이더 이관·공항 레이더 추가",
-        "source": "에너지데일리",
-        "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201424"
-      }
-    },
-    {
-      "keyword": "택배",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "국토부, 택배 현장 편법 계약 실태 전수 점검‥\"위반 시 엄중 조치\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6837681_36932.html"
-      }
-    },
-    {
-      "keyword": "대한민국 fa컵",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "K리그2 천안시티, K3 목포에 승리…연패 탈출 성공",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260715_0003711186"
-      }
-    },
-    {
-      "keyword": "캐시워크 정답",
+      "keyword": "배준호",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 15일",
-        "source": "BNT뉴스",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202607150077"
+        "title": "'재산 1조6800억' 한국계 女 구단주, 北 내고향도 보더니 코리안리거 쇼핑 나섰나…배준호+남·북 여자 선수 줄줄이 유럽행 기대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715151551579"
+      }
+    },
+    {
+      "keyword": "fifa world cup 2026 final date",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Fifa to break rules with 30-minute half-time in World Cup final",
+        "source": "The Times",
+        "url": "https://www.thetimes.com/sport/football/world-cup/article/fifa-half-time-show-world-cup-final-madonna-shakira-bts-coldplay-justin-bieber-3zvrnt9l6"
       }
     }
   ]
