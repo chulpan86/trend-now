@@ -1,106 +1,98 @@
 {
-  "timestamp": "2026-07-15T16:06:31.218078+09:00",
-  "label": "16:06",
+  "timestamp": "2026-07-15T18:50:34.593200+09:00",
+  "label": "18:50",
   "items": [
     {
-      "keyword": "죽음",
+      "keyword": "삼성",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "(단독)SK하이닉스 ADR 차익거래 대기 중…예탁원 \"상호전환 29일 이후\"",
+        "source": "뉴스토마토",
+        "url": "https://www.newstomato.com/ReadNews.aspx?no=1307208"
+      }
+    },
+    {
+      "keyword": "장항준",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "첫 회부터 시청률 0%대로 무너졌다…'1700만 감독' 장항준 야심작인데, 출발부터 '빨간불' ('시간추적자')[종합]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715114837177"
+      }
+    },
+    {
+      "keyword": "에이치엘비",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "삶을 다시 설계하는 죽음 수업…이나미 신간이 던진 묵직한 질문",
-        "source": "경북일보",
-        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077892"
+        "title": "HLB \"간암 신약, 미국 승인 문제점 대부분 해소\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260715041000017"
       }
     },
     {
-      "keyword": "mlb",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "배구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "Best mic'd up moments at the 2026 All-Star Game",
-        "source": "MLB.com",
-        "url": "https://www.mlb.com/video/best-mic-d-up-moments-at-the-2026-all-star-game"
-      }
-    },
-    {
-      "keyword": "mbk파트너스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독] 눈물의 땡처리 아니었어?…홈플러스 수상한 '반값 세일'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607144811i"
-      }
-    },
-    {
-      "keyword": "원태인",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "후라도 부상만 문제가 아니다…'국민유격수'의 메시지 \"원태인-최원태 더 분발해야\"",
+        "title": "여자배구 A 구단 전 코치, 부적절한 행위 의혹…윤리센터 조사 중",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715082712968"
+        "url": "https://v.daum.net/v/20260715180707958"
       }
     },
     {
-      "keyword": "누리호",
+      "keyword": "이영애",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“실패도 우주개발 역사”...항우연, 폭발한 누리호 75톤 엔진 첫 공개",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20260715000183"
+        "title": "이영애♥75세 남편과 오붓한 근황…동안+풍성한 머리숱 눈길",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202607151436003"
       }
     },
     {
-      "keyword": "asml 실적 발표",
+      "keyword": "전희철",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "ASML, 2분기 호실적…연간 매출 가이던스도 상향(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715152549165"
-      }
-    },
-    {
-      "keyword": "이동하",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "소진 남편 이동하, 이탈리아 태생이었다…군 복무 위해 '국적 포기'",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260712n09791"
-      }
-    },
-    {
-      "keyword": "충주시장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "’124표 차’ 결과는…충주시장 재검표 진행",
+        "title": "농구스타 전희철·우지원, 이번엔 딸들의 미스코리아 경쟁",
         "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260715150446a3p"
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260715142835E6E"
       }
     },
     {
-      "keyword": "이한범",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "노숙",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "韓 축구 초대형 경사! '월드컵 맹활약' 이한범, 마침내 빅 리그 입성 보인다…\"유럽 5대 리그서 관심받고 있어\"",
+        "title": "TV서 기어 나오던 '링' 귀신 배우, 노숙 생활 중 사망",
         "source": "Daum",
-        "url": "https://v.daum.net/v/x12cTlIkLC"
+        "url": "https://v.daum.net/v/91iQCWvmol"
       }
     },
     {
-      "keyword": "game",
+      "keyword": "과천시",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "2026 MLB All-Star Game: AL posts 3-hit shutout, beats NL behind big 1st inning and Miguel Vargas' HR",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/mlb/live/2026-mlb-all-star-game-al-posts-3-hit-shutout-beats-nl-behind-big-1st-inning-and-miguel-vargas-hr-220000147.html"
+        "title": "과천시, 공공하수처리시설 현대화 사업 실시설계 본격 착수",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/RPR20260715005500353"
       }
+    },
+    {
+      "keyword": "헥토파이낸셜",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "배그",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }

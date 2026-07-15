@@ -1,319 +1,5 @@
 [
   {
-    "timestamp": "2026-07-14T04:11:46.152702+09:00",
-    "label": "04:11",
-    "items": [
-      {
-        "keyword": "참교육",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "김채은, ‘오십프로’ 종영소감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QB6ZxImjiA"
-        }
-      },
-      {
-        "keyword": "건강",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'145kg 폭로' 신기루, 의사도 안 믿는 건강검진 결과서 최초 공개(말자쇼)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WkIOLWvmlg"
-        }
-      },
-      {
-        "keyword": "jtbc",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 중앙그룹 고위험채권 ‘돌려막기’ 의혹…최대 3,300억 원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708100319257"
-        }
-      },
-      {
-        "keyword": "미군",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "트럼프 \"호르무즈 안전통항 대가 징수\"…'20% 통행료' 일방선언(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260714022550293"
-        }
-      },
-      {
-        "keyword": "법관",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": null
-      },
-      {
-        "keyword": "2002년 fifa 월드컵",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "충격 \"韓에 진 스페인·이탈리아는 희생양\" 전설 카시야스, 24년 만에 작심 망언 \"2002 월드컵은 유럽 죽이기\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/14/2026071322570133639"
-        }
-      },
-      {
-        "keyword": "아시아나항공",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[속보]대한항공, 아시아나티앤아이 청산 추진",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607132674i"
-        }
-      },
-      {
-        "keyword": "안성재",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'와인 바꿔치기' 논란 힘들었나..안성재 셰프, 핼쑥해진 얼굴 포착[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713205237740"
-        }
-      },
-      {
-        "keyword": "기후",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“45도 폭염에 에어컨 고장, 극도로 위험한 상황”…문 닫은 ‘이 기업’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pODKSQ8B57"
-        }
-      },
-      {
-        "keyword": "하나로마트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[포토] 농협, OK!COOK 더든든한 누룽지 삼계탕 출시",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04250886645514192&mediaCodeNo=257"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T05:49:16.198532+09:00",
-    "label": "05:49",
-    "items": [
-      {
-        "keyword": "참교육",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "김채은, ‘오십프로’ 종영소감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QB6ZxImjiA"
-        }
-      },
-      {
-        "keyword": "넷플릭스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "커지는 OTT 광고시장, 넷플릭스만 웃는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713174707523"
-        }
-      },
-      {
-        "keyword": "jtbc",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 중앙그룹 고위험채권 ‘돌려막기’ 의혹…최대 3,300억 원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708100319257"
-        }
-      },
-      {
-        "keyword": "2002년 fifa 월드컵",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "충격 \"韓에 진 스페인·이탈리아는 희생양\" 전설 카시야스, 24년 만에 작심 망언 \"2002 월드컵은 유럽 죽이기\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/14/2026071322570133639"
-        }
-      },
-      {
-        "keyword": "기후",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전력수요 50GW 급증 전망…김성환 기후장관 “재생E 확대·원전 활용”",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370273"
-        }
-      },
-      {
-        "keyword": "하나로마트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[포토] 농협, OK!COOK 더든든한 누룽지 삼계탕 출시",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04250886645514192&mediaCodeNo=257"
-        }
-      },
-      {
-        "keyword": "스페인 프랑스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"프랑스에 프랑스인 없잖아\"…스페인전 앞두고 또 ‘발칵’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12308023"
-        }
-      },
-      {
-        "keyword": "수성구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "수성구, 반다비체육센터 운영 본격화… 뚜비 공연도 확대",
-          "source": "뉴데일리 대구경북",
-          "url": "https://tk.newdaily.co.kr/site/data/html/2026/07/13/2026071300237.html"
-        }
-      },
-      {
-        "keyword": "손나은",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'김부장' 손나은 '발연기' 떼고 '초대박'→혜리·하니, 시험대 오른 연기돌 2.5세대 센터들 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712060153170?f=m"
-        }
-      },
-      {
-        "keyword": "무인 항공기",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "무인항공기 기술은 화산 감시에 새로운 가능성을 열어줍니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/cong-nghe-uav-mo-huong-moi-trong-giam-sat-nui-lua"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-14T06:44:23.316790+09:00",
-    "label": "06:44",
-    "items": [
-      {
-        "keyword": "서울경제",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 키트루다 2년 뒤 특허만료…삼성에피스, 독자 기술로 ‘47조 시장’ 노린다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20067191"
-        }
-      },
-      {
-        "keyword": "화재",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "순식간에 시뻘건 화염이…방콕 술집 화재 최소 28명 사망",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8609569"
-        }
-      },
-      {
-        "keyword": "에코프로 비엠",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "에코프로, 1.2조 ‘실탄’ 쌓아 인니 니켈 투자",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uNwsF2b0l5"
-        }
-      },
-      {
-        "keyword": "배유나",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘사상 최초’ 한·중·일 여자 프로배구 최고 클럽들이 제주에서 만난다! 슈퍼매치 관전포인트는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713080314989"
-        }
-      },
-      {
-        "keyword": "스테이블코인",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "서클, 美 스테이블코인 전문은행 승인...가상자산 제도권 진입 발판",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260714043300525"
-        }
-      },
-      {
-        "keyword": "수출",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "韓 수출 이대로 가면 ‘세계 4강’ 그러나…",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qfi7VYTsyV"
-        }
-      },
-      {
-        "keyword": "삼성sdi",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "동서발전, AI 활용 에너지저장장치 구축지원 사업에 선정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260713149700057"
-        }
-      },
-      {
-        "keyword": "대만",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "TSMC, 6월 매출 4천426억 대만달러…전년 대비 67.9%↑",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713152701733"
-        }
-      },
-      {
-        "keyword": "이영자",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이영자, 결혼식서 밝힌 속내 \"축의금 엄청 냈다… 혼자 결혼식 하면 안 되나\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026071315560005937"
-        }
-      },
-      {
-        "keyword": "พยากรณ์อากาศ",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "สทนช. อัปเดตน้ำเขื่อนทั่วประเทศ - 3 เขื่อน EEC ล่าสุด ส่อแวววิกฤตไหม?",
-          "source": "bangkokbiznews",
-          "url": "https://www.bangkokbiznews.com/news/news-update/1242916"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-14T07:44:35.914367+09:00",
     "label": "07:44",
     "items": [
@@ -2194,6 +1880,104 @@
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/mlb/live/2026-mlb-all-star-game-al-posts-3-hit-shutout-beats-nl-behind-big-1st-inning-and-miguel-vargas-hr-220000147.html"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-15T18:50:34.593200+09:00",
+    "label": "18:50",
+    "items": [
+      {
+        "keyword": "삼성",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "(단독)SK하이닉스 ADR 차익거래 대기 중…예탁원 \"상호전환 29일 이후\"",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/ReadNews.aspx?no=1307208"
+        }
+      },
+      {
+        "keyword": "장항준",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "첫 회부터 시청률 0%대로 무너졌다…'1700만 감독' 장항준 야심작인데, 출발부터 '빨간불' ('시간추적자')[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715114837177"
+        }
+      },
+      {
+        "keyword": "에이치엘비",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "HLB \"간암 신약, 미국 승인 문제점 대부분 해소\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260715041000017"
+        }
+      },
+      {
+        "keyword": "배구",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "여자배구 A 구단 전 코치, 부적절한 행위 의혹…윤리센터 조사 중",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715180707958"
+        }
+      },
+      {
+        "keyword": "이영애",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이영애♥75세 남편과 오붓한 근황…동안+풍성한 머리숱 눈길",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607151436003"
+        }
+      },
+      {
+        "keyword": "전희철",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "농구스타 전희철·우지원, 이번엔 딸들의 미스코리아 경쟁",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260715142835E6E"
+        }
+      },
+      {
+        "keyword": "노숙",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "TV서 기어 나오던 '링' 귀신 배우, 노숙 생활 중 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/91iQCWvmol"
+        }
+      },
+      {
+        "keyword": "과천시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "과천시, 공공하수처리시설 현대화 사업 실시설계 본격 착수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260715005500353"
+        }
+      },
+      {
+        "keyword": "헥토파이낸셜",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "배그",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
       }
     ]
   }
