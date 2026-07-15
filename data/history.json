@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-13T23:05:09.733663+09:00",
-    "label": "23:05",
-    "items": [
-      {
-        "keyword": "폴드 8",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "\"아직 공개 전인데?\"…'갤럭시Z폴드8' 실물 사진 찰칵",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260713121529"
-        }
-      },
-      {
-        "keyword": "강풍",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "태풍급 강풍에 3천 명 발 묶여‥시설물 피해도 잇따라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PBSh5SCEht"
-        }
-      },
-      {
-        "keyword": "코레 일톡",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“코레일·SR 회원 통합”…다음 달 초 통합앱 출시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9ow7xkjJCq"
-        }
-      },
-      {
-        "keyword": "정호연",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘호프’, 이미 ‘왕사남’ 넘었다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607130827003"
-        }
-      },
-      {
-        "keyword": "투표용지",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독]선관위, 이달중 송파 투표지 재검표…전 과정 영상 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713210237926"
-        }
-      },
-      {
-        "keyword": "앤더스 톨허스트",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이 선수 덕분에 '한화 이기고 우승', 그런데 에이스 본능 잃었다…LG가 기대하는 톨허스트 '면담 효과'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5GXP2WvmXe"
-        }
-      },
-      {
-        "keyword": "김연아",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김연아, 반려견 발로 쓰다듬었다가…누리꾼 반응은",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260713_0003707382"
-        }
-      },
-      {
-        "keyword": "워터파크",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "7세 여아, 물에 엎드린 채…구명조끼 입었지만 '참변' 왜",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713201725100"
-        }
-      },
-      {
-        "keyword": "광주광산경찰서",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "장윤기, 재판 내내 무표정에 고개 푹…성폭행 목적 “인정한다”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/honam/1268085.html"
-        }
-      },
-      {
-        "keyword": "이준영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'신입사원 강회장' PD “입대 앞둔 이준영 없었으면 못 했다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/bGU6GB710q"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-14T02:06:31.239668+09:00",
     "label": "02:06",
     "items": [
@@ -2185,6 +2079,112 @@
           "title": "라이엇 \"LoL 신규 클라이언트 개발 원활…아수라장 계속 유지\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260710078800017"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-15T13:40:42.883292+09:00",
+    "label": "13:40",
+    "items": [
+      {
+        "keyword": "일본 축구 국가대표팀",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "일본 축협 '의견 통일'→성인+올림픽 겸임 이어간다…모리야스 후임으로 U-21 대표팀 감독 확정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715094350175"
+        }
+      },
+      {
+        "keyword": "박준형",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "환갑잔치 끝낸 박준형, 미모의 승무원 출신 아내와 여행 떠났다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260715_0003709718"
+        }
+      },
+      {
+        "keyword": "윤석민",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"내 승 날아간 건 생각 안 해\" 류현진, 선수들에게 하고 싶은 말은 따로 있다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713184038155"
+        }
+      },
+      {
+        "keyword": "mbk 파트너스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "약국이야 마트야?…홈플러스 휴업에 라면·과자 파는 창고형 약국",
+          "source": "데일리팜",
+          "url": "https://dailypharm.com/user/news/340468"
+        }
+      },
+      {
+        "keyword": "채림",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "채림, 두 번의 이혼 뒤 찾은 행복…\"왜 남자한테 기대래?\" 소신 고백",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uPYq2AaeIS"
+        }
+      },
+      {
+        "keyword": "말복",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "초복 삼계탕집 ’문전성시’…’천연 냉장고’ 얼음골 인기",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260715110602Nl9"
+        }
+      },
+      {
+        "keyword": "asml",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Álles wat u over Q2's ASML moet weten (en er is een joker?!)",
+          "source": "https://www.stockwatch.nl/",
+          "url": "https://stockwatch.nl/posts/16962/vooruitblik-q2-cijfers-asml"
+        }
+      },
+      {
+        "keyword": "의료",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "삼성·서울성모병원 권역응급의료센터 ‘탈락’",
+          "source": "데일리메디",
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=938454"
+        }
+      },
+      {
+        "keyword": "김소영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'모텔 살인' 김소영...유족 손배소에 \"평생 일해도 못 갚아\" [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202607150836170499"
+        }
+      },
+      {
+        "keyword": "고민정",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고민정 “온갖 험악한 문자 쏟아져…검찰 사주 받은 것처럼 호도하는 일부 정치인에 유감”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607151148001"
         }
       }
     ]
