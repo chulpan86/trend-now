@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-14T08:42:49.233135+09:00",
-    "label": "08:42",
-    "items": [
-      {
-        "keyword": "weather",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Milwaukee Weather: Sunny and hot most of the week",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/weather-news/articles/milwaukee-weather-sunny-hot-most-093759024.html"
-        }
-      },
-      {
-        "keyword": "가족관계증명서",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'따귀 엔딩' 한고은 vs 임지은, 이젠 장례식장 대치 '숨이 막혀'('가족관계증명서')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Wygye0tWhL"
-        }
-      },
-      {
-        "keyword": "สภาพอากาศ",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "สภาพอากาศวันนี้ 37 จังหวัด เจอฝนถล่ม เหนือ อีสาน ตะวันออก ตกหนัก | Khaosod",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/KwNxkRr"
-        }
-      },
-      {
-        "keyword": "김숙",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김숙, 2주 만에 제주 세컨드 하우스 찾았다가 비상..\"어떡해, 119 불러\" [순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xPxbP5HlWW"
-        }
-      },
-      {
-        "keyword": "погода",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "«Появился свет в конце грозового туннеля»: синоптики рассказали, когда закончатся дожди в Москве",
-          "source": "PravilaMag",
-          "url": "https://www.pravilamag.ru/news/society-news/12-07-2026/774921-sinoptiki-rasskazali-kogda-zakonchatsya-dojdi-v-moskve/"
-        }
-      },
-      {
-        "keyword": "天气",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Inside London’s Sweaty Scramble for Outdoor Swimming",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html"
-        }
-      },
-      {
-        "keyword": "ionq",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Why IonQ Stock Is on a Losing Streak Even as Quantum Sector Booms",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/ionq-stock-quantum-computing-3817f029"
-        }
-      },
-      {
-        "keyword": "디지털 자산",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"모든 금융 자산, 블록체인 위서 거래할 날 머지 않아… 미국 정부가 앞장\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/weeklybiz/2026/07/14/RALZIEI66VFTBBBSNLZR3DECPU/"
-        }
-      },
-      {
-        "keyword": "이정효",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘축구협회장 이정효’는 어떨까...대표팀 감독으로만 쓰기엔 아깝다[이영규의 비욘더매치]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/01oVSQ8Bko"
-        }
-      },
-      {
-        "keyword": "nvda",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-14T10:26:44.151419+09:00",
     "label": "10:26",
     "items": [
@@ -1977,6 +1871,108 @@
           "title": "급거 귀국한 강경화 주미대사 “쿠팡, 제 생각보다 훨씬 오래가는 이슈”",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202607151517001"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-15T22:11:46.719924+09:00",
+    "label": "22:11",
+    "items": [
+      {
+        "keyword": "사고",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "피서객 몰리는 가평 계곡…경찰도 수난사고 초동 대응 나선다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Pw1DidMVl2"
+        }
+      },
+      {
+        "keyword": "하비에르 아기레",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "아버지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“아버지! 사람부터 살려야 해요”…저수지 뛰어든 소방관 딸과 의용소방대원 아버지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715133728185"
+        }
+      },
+      {
+        "keyword": "유시민",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "유시민 “검찰개혁 지연은 이 대통령이 수사·기소 분리 원하지 않기 때문…실패로 끝날 것”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607151708001"
+        }
+      },
+      {
+        "keyword": "넥슨",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "넥슨 '바람의나라' 브리트라 장비 획득확률 전격 공개",
+          "source": "포쓰저널",
+          "url": "https://www.4th.kr/news/articleView.html?idxno=2114826"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Kết quả xổ số miền Bắc hôm nay: Quảng Ninh",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ban-doc/ket-qua-xo-so-mien-bac-hom-nay-quang-ninh-1735704.ldo"
+        }
+      },
+      {
+        "keyword": "ppi",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Inflation Slowed to 3.5% in June, as Americans Got a Break From Gasoline Prices",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/economy/cpi-inflation-report-june-2026-afb89992"
+        }
+      },
+      {
+        "keyword": "al",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Cease, bullpen silence NL in 15-K shutout as AL wins All-Star Game",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/49364253/cease-bullpen-silence-nl-15-k-shutout-al-wins-all-star-game"
+        }
+      },
+      {
+        "keyword": "전국언론노동조합",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"카나리아 같던 동료 떠나… 남은 길은 목소리 내는 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715180307821"
+        }
+      },
+      {
+        "keyword": "zim vs ban",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "ZIM vs BAN Cricket Scorecard, 1st T20I at Bulawayo, July 15, 2026",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/bangladesh-in-zimbabwe-2026-1538288/zimbabwe-vs-bangladesh-1st-t20i-1538301/full-scorecard"
         }
       }
     ]
