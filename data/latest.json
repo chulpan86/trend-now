@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-07-16T03:54:46.682355+09:00",
-  "label": "03:54",
+  "timestamp": "2026-07-16T05:02:09.450162+09:00",
+  "label": "05:02",
   "items": [
+    {
+      "keyword": "치지직",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "숏폼·요약본 찾던 시청자들…월드컵은 '생중계' 화면 찾았다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260713_0003707447"
+      }
+    },
     {
       "keyword": "약",
       "traffic_raw": "2000+",
@@ -9,17 +19,27 @@
       "news": {
         "title": "“국민 50%가 모른다” 집에 수두룩한 ‘남은 약’, 전부 쓰레기통에?…이러다 큰일 난다 [지구, 뭐래?]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/1iUBMRQ958"
+        "url": "https://v.daum.net/v/20260715194220438"
       }
     },
     {
-      "keyword": "부고",
+      "keyword": "축구중계",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[부고]김영희 별세 外",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/People/article/all/20260715/134300215/2"
+        "title": "해외축구중계 에 대한 2026년 전망: 어디로 향하고 있는가 - 톱 5 비교",
+        "source": "www.les24heures.fr",
+        "url": "https://www.les24heures.fr/2012?Game=7070.html"
+      }
+    },
+    {
+      "keyword": "anh đấu với argentina",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "VTV5, VTV6 trực tiếp bóng đá World Cup hôm nay 16/7",
+        "source": "Thể Thao 247",
+        "url": "https://thethao247.vn/world-cup/461-vtv5-vtv6-truc-tiep-bong-da-world-cup-hom-nay-16-7-d428393.html"
       }
     },
     {
@@ -28,8 +48,8 @@
       "traffic": 500,
       "news": {
         "title": "BTS 나설 하프타임쇼, 룰도 깼다…\"미국 국가는 왜\" 불만 폭발",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12308441"
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715201956574"
       }
     },
     {
@@ -39,23 +59,13 @@
       "news": null
     },
     {
-      "keyword": "자외선 차단제",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "배준호",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“다이소 선크림 10개 중 8개가 기준 미달” 유튜버 주장에 다이소 반박 ‘진실 공방’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607151027001"
-      }
-    },
-    {
-      "keyword": "레이더",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "라팔 F4 전투기는 적 레이더를 탐지하기 위해 특별히 설계된 새로운 '오른쪽 팔'을 갖추고 있습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/tiem-kich-rafale-f4-co-canh-tay-phai-moi-chuyen-san-radar-doi-phuong"
+        "title": "'재산 1조6800억' 한국계 女 구단주, 北 내고향도 보더니 코리안리거 쇼핑 나섰나…배준호+남·북 여자 선수 줄줄이 유럽행 기대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715151551579"
       }
     },
     {
@@ -65,27 +75,17 @@
       "news": {
         "title": "“SK하이닉스로 2억 벌었어” 친구 말에…‘전치 4주’ 고통 느낀다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715073128809"
+        "url": "https://v.daum.net/v/VrwIzLJ6N1"
       }
     },
     {
-      "keyword": "김성령",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김성령, 하지원 앞세워 대학생 헌팅 \"나 못알아 봐…퇴짜 맞았다\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071603014767749"
-      }
-    },
-    {
-      "keyword": "배준호",
+      "keyword": "오디세이",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'재산 1조6800억' 한국계 女 구단주, 北 내고향도 보더니 코리안리거 쇼핑 나섰나…배준호+남·북 여자 선수 줄줄이 유럽행 기대",
+        "title": "“섭외력 무엇?”…거장 놀런 감독·맷 데이먼 ‘유퀴즈’ 나온다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715151551579"
+        "url": "https://v.daum.net/v/fkdKapFYTg"
       }
     },
     {
