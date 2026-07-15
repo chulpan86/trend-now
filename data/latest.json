@@ -1,98 +1,106 @@
 {
-  "timestamp": "2026-07-15T18:50:34.593200+09:00",
-  "label": "18:50",
+  "timestamp": "2026-07-15T20:21:25.456627+09:00",
+  "label": "20:21",
   "items": [
     {
-      "keyword": "삼성",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "(단독)SK하이닉스 ADR 차익거래 대기 중…예탁원 \"상호전환 29일 이후\"",
-        "source": "뉴스토마토",
-        "url": "https://www.newstomato.com/ReadNews.aspx?no=1307208"
-      }
-    },
-    {
-      "keyword": "장항준",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "첫 회부터 시청률 0%대로 무너졌다…'1700만 감독' 장항준 야심작인데, 출발부터 '빨간불' ('시간추적자')[종합]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715114837177"
-      }
-    },
-    {
-      "keyword": "에이치엘비",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "HLB \"간암 신약, 미국 승인 문제점 대부분 해소\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260715041000017"
-      }
-    },
-    {
-      "keyword": "배구",
+      "keyword": "방탄소년단",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "여자배구 A 구단 전 코치, 부적절한 행위 의혹…윤리센터 조사 중",
+        "title": "\"FIFA, BTS 공연 위해 규정까지 깬다!\" 월드컵 결승 하프타임 30분 파격…\"슈퍼볼식 끔찍한 쇼\" 분노 폭발",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260715n33289"
+      }
+    },
+    {
+      "keyword": "최저임금위원회",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[성명] 2027년 최저임금 결정에 대한 민주노총 입장",
+        "source": "민주노총",
+        "url": "https://nodong.org/statement/7937363"
+      }
+    },
+    {
+      "keyword": "하이닉스 성과급",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[단독] SK하이닉스, 성과급 절반 자사주 지급 제안…노조 \"합의 취지 훼손\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715180707958"
+        "url": "https://v.daum.net/v/20260715155440742"
       }
     },
     {
-      "keyword": "이영애",
+      "keyword": "카페",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이영애♥75세 남편과 오붓한 근황…동안+풍성한 머리숱 눈길",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607151436003"
+        "title": "처벌 가능한가요?...'여사장 머리채 잡은 할머니' 본 전문가의 답변은 [Y녹취록]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0134_202607151517159652"
       }
     },
     {
-      "keyword": "전희철",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "중흥건설",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "농구스타 전희철·우지원, 이번엔 딸들의 미스코리아 경쟁",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260715142835E6E"
+        "title": "중앙 워크아웃, 계열사 각자도생… JTBC와 통합노조도 분리 수순",
+        "source": "한국기자협회",
+        "url": "https://www.journalist.or.kr/m/m_article.html?no=61278"
       }
     },
     {
-      "keyword": "노숙",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "코리아컵",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "TV서 기어 나오던 '링' 귀신 배우, 노숙 생활 중 사망",
+        "title": "'프로 첫 코리아컵' 운명의 한판 파주, 강릉 넘고 코리아컵 3R 간다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/91iQCWvmol"
+        "url": "https://v.daum.net/v/20260715093438739"
       }
     },
     {
-      "keyword": "과천시",
+      "keyword": "김재희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김재희, 가슴 아픈 가족사…5년 간병 끝 아내와 사별 \"늦둥이 딸 덕분에 버텨\" - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/tv/2026/07/15/MNQTMZDEMY4TSNBWMYZGEMZWME/"
+      }
+    },
+    {
+      "keyword": "ewc 2026",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Two PlayTime members suspended from the Dota 2 Esports World Cup amid integrity investigation",
+        "source": "GosuGamers",
+        "url": "https://www.gosugamers.net/dota2/news/78793-two-playtime-members-suspended-from-the-dota-2-esports-world-cup-amid-integrity-investigation"
+      }
+    },
+    {
+      "keyword": "송가인",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "과천시, 공공하수처리시설 현대화 사업 실시설계 본격 착수",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20260715005500353"
+        "title": "송가인, 소속사 직원들에 통 크게 쐈다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715091127514"
       }
     },
     {
-      "keyword": "헥토파이낸셜",
+      "keyword": "강경화",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "배그",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
+      "news": {
+        "title": "급거 귀국한 강경화 주미대사 “쿠팡, 제 생각보다 훨씬 오래가는 이슈”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607151517001"
+      }
     }
   ]
 }
