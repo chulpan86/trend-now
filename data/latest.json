@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-15T22:11:46.719924+09:00",
-  "label": "22:11",
+  "timestamp": "2026-07-16T00:18:04.162706+09:00",
+  "label": "00:18",
   "items": [
     {
-      "keyword": "사고",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "법원",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "피서객 몰리는 가평 계곡…경찰도 수난사고 초동 대응 나선다",
+        "title": "[속보] '채상병 수사정보 누설' 이시원 전 공직기강비서관 구속영장 기각",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6837748_36918.html"
+      }
+    },
+    {
+      "keyword": "부고",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "",
+        "source": "아주경제",
+        "url": "https://www.ajunews.com/view/20260715131526099"
+      }
+    },
+    {
+      "keyword": "배용준",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "유아인, '복귀설'에도 흰머리는 그대로…달라진 비주얼+밝은 표정 [엑's 이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/Pw1DidMVl2"
+        "url": "https://v.daum.net/v/20260715083307120"
       }
     },
     {
-      "keyword": "하비에르 아기레",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "아버지",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“아버지! 사람부터 살려야 해요”…저수지 뛰어든 소방관 딸과 의용소방대원 아버지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715133728185"
-      }
-    },
-    {
-      "keyword": "유시민",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "유시민 “검찰개혁 지연은 이 대통령이 수사·기소 분리 원하지 않기 때문…실패로 끝날 것”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607151708001"
-      }
-    },
-    {
-      "keyword": "넥슨",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "넥슨 '바람의나라' 브리트라 장비 획득확률 전격 공개",
-        "source": "포쓰저널",
-        "url": "https://www.4th.kr/news/articleView.html?idxno=2114826"
-      }
-    },
-    {
-      "keyword": "xsmb",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Kết quả xổ số miền Bắc hôm nay: Quảng Ninh",
-        "source": "Laodong.vn",
-        "url": "https://laodong.vn/ban-doc/ket-qua-xo-so-mien-bac-hom-nay-quang-ninh-1735704.ldo"
-      }
-    },
-    {
-      "keyword": "ppi",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Inflation Slowed to 3.5% in June, as Americans Got a Break From Gasoline Prices",
-        "source": "WSJ",
-        "url": "https://www.wsj.com/economy/cpi-inflation-report-june-2026-afb89992"
-      }
-    },
-    {
-      "keyword": "al",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Cease, bullpen silence NL in 15-K shutout as AL wins All-Star Game",
-        "source": "ESPN",
-        "url": "https://www.espn.com/mlb/story/_/id/49364253/cease-bullpen-silence-nl-15-k-shutout-al-wins-all-star-game"
-      }
-    },
-    {
-      "keyword": "전국언론노동조합",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"카나리아 같던 동료 떠나… 남은 길은 목소리 내는 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715180307821"
-      }
-    },
-    {
-      "keyword": "zim vs ban",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "zimbabwe vs bangladesh",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "ZIM vs BAN Cricket Scorecard, 1st T20I at Bulawayo, July 15, 2026",
         "source": "Cricinfo",
         "url": "https://www.cricinfo.com/series/bangladesh-in-zimbabwe-2026-1538288/zimbabwe-vs-bangladesh-1st-t20i-1538301/full-scorecard"
+      }
+    },
+    {
+      "keyword": "레이더",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "기상레이더 관측망 확대… 홍수레이더 이관·공항 레이더 추가",
+        "source": "에너지데일리",
+        "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201424"
+      }
+    },
+    {
+      "keyword": "대한민국 fa컵",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "K리그2 천안시티, K3 목포에 승리…연패 탈출 성공",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260715_0003711186"
+      }
+    },
+    {
+      "keyword": "ppi 발표",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "미 6월 생산자물가 전월대비 0.3%↓…예상 밖 하락(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715222948650"
+      }
+    },
+    {
+      "keyword": "어쌔신 크리드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "어쌔신 크리드 코드네임 헥세: 가격 공개 및 선형적 게임플레이로의 전환.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/assassin-s-creed-codename-hexe-lo-dien-gia-ban-va-buoc-chuyen-minh-sang-loi-choi-tuyen-tinh"
+      }
+    },
+    {
+      "keyword": "캐시워크 정답",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 15일",
+        "source": "BNT뉴스",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202607150077"
+      }
+    },
+    {
+      "keyword": "택배",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "국토부, 택배 현장 편법 계약 실태 전수 점검‥\"위반 시 엄중 조치\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6837681_36932.html"
       }
     }
   ]
