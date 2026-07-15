@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-07-14T02:06:31.239668+09:00",
-    "label": "02:06",
-    "items": [
-      {
-        "keyword": "참교육",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "김채은, ‘오십프로’ 종영소감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QB6ZxImjiA"
-        }
-      },
-      {
-        "keyword": "건강",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'145kg 폭로' 신기루, 의사도 안 믿는 건강검진 결과서 최초 공개(말자쇼)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WkIOLWvmlg"
-        }
-      },
-      {
-        "keyword": "jtbc",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 중앙그룹 고위험채권 ‘돌려막기’ 의혹…최대 3,300억 원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708100319257"
-        }
-      },
-      {
-        "keyword": "미군",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[속보]트럼프 “호르무즈 對이란 봉쇄 재개…화물 안전비 20% 받겠다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260713/134292429/2"
-        }
-      },
-      {
-        "keyword": "법관",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": null
-      },
-      {
-        "keyword": "2002년 fifa 월드컵",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "아시아나항공",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[속보]대한항공, 아시아나티앤아이 청산 추진",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607132674i"
-        }
-      },
-      {
-        "keyword": "안성재",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'와인 바꿔치기' 논란 힘들었나..안성재 셰프, 핼쑥해진 얼굴 포착[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713205237740"
-        }
-      },
-      {
-        "keyword": "기후",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "유럽의 미래 망치는 폭염, 한국인 지갑도 털어간다 [손진석의 머니워치]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/europe/2026/07/13/G27TOTNJHBHMBLYFPTWESFIB4Q/"
-        }
-      },
-      {
-        "keyword": "하나로마트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[포토] 농협, OK!COOK 더든든한 누룽지 삼계탕 출시",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04250886645514192&mediaCodeNo=257"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-14T04:11:46.152702+09:00",
     "label": "04:11",
     "items": [
@@ -2185,6 +2087,112 @@
           "title": "고민정 “온갖 험악한 문자 쏟아져…검찰 사주 받은 것처럼 호도하는 일부 정치인에 유감”",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202607151148001"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-15T16:06:31.218078+09:00",
+    "label": "16:06",
+    "items": [
+      {
+        "keyword": "죽음",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "삶을 다시 설계하는 죽음 수업…이나미 신간이 던진 묵직한 질문",
+          "source": "경북일보",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077892"
+        }
+      },
+      {
+        "keyword": "mlb",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Best mic'd up moments at the 2026 All-Star Game",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/video/best-mic-d-up-moments-at-the-2026-all-star-game"
+        }
+      },
+      {
+        "keyword": "mbk파트너스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 눈물의 땡처리 아니었어?…홈플러스 수상한 '반값 세일'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607144811i"
+        }
+      },
+      {
+        "keyword": "원태인",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "후라도 부상만 문제가 아니다…'국민유격수'의 메시지 \"원태인-최원태 더 분발해야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715082712968"
+        }
+      },
+      {
+        "keyword": "누리호",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“실패도 우주개발 역사”...항우연, 폭발한 누리호 75톤 엔진 첫 공개",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260715000183"
+        }
+      },
+      {
+        "keyword": "asml 실적 발표",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "ASML, 2분기 호실적…연간 매출 가이던스도 상향(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715152549165"
+        }
+      },
+      {
+        "keyword": "이동하",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "소진 남편 이동하, 이탈리아 태생이었다…군 복무 위해 '국적 포기'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260712n09791"
+        }
+      },
+      {
+        "keyword": "충주시장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "’124표 차’ 결과는…충주시장 재검표 진행",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260715150446a3p"
+        }
+      },
+      {
+        "keyword": "이한범",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "韓 축구 초대형 경사! '월드컵 맹활약' 이한범, 마침내 빅 리그 입성 보인다…\"유럽 5대 리그서 관심받고 있어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/x12cTlIkLC"
+        }
+      },
+      {
+        "keyword": "game",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2026 MLB All-Star Game: AL posts 3-hit shutout, beats NL behind big 1st inning and Miguel Vargas' HR",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mlb/live/2026-mlb-all-star-game-al-posts-3-hit-shutout-beats-nl-behind-big-1st-inning-and-miguel-vargas-hr-220000147.html"
         }
       }
     ]

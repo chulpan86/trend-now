@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-15T13:40:42.883292+09:00",
-  "label": "13:40",
+  "timestamp": "2026-07-15T16:06:31.218078+09:00",
+  "label": "16:06",
   "items": [
     {
-      "keyword": "일본 축구 국가대표팀",
+      "keyword": "죽음",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "일본 축협 '의견 통일'→성인+올림픽 겸임 이어간다…모리야스 후임으로 U-21 대표팀 감독 확정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715094350175"
+        "title": "삶을 다시 설계하는 죽음 수업…이나미 신간이 던진 묵직한 질문",
+        "source": "경북일보",
+        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077892"
       }
     },
     {
-      "keyword": "박준형",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "환갑잔치 끝낸 박준형, 미모의 승무원 출신 아내와 여행 떠났다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260715_0003709718"
-      }
-    },
-    {
-      "keyword": "윤석민",
+      "keyword": "mlb",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"내 승 날아간 건 생각 안 해\" 류현진, 선수들에게 하고 싶은 말은 따로 있다",
+        "title": "Best mic'd up moments at the 2026 All-Star Game",
+        "source": "MLB.com",
+        "url": "https://www.mlb.com/video/best-mic-d-up-moments-at-the-2026-all-star-game"
+      }
+    },
+    {
+      "keyword": "mbk파트너스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[단독] 눈물의 땡처리 아니었어?…홈플러스 수상한 '반값 세일'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607144811i"
+      }
+    },
+    {
+      "keyword": "원태인",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "후라도 부상만 문제가 아니다…'국민유격수'의 메시지 \"원태인-최원태 더 분발해야\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260713184038155"
+        "url": "https://v.daum.net/v/20260715082712968"
       }
     },
     {
-      "keyword": "mbk 파트너스",
+      "keyword": "누리호",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "약국이야 마트야?…홈플러스 휴업에 라면·과자 파는 창고형 약국",
-        "source": "데일리팜",
-        "url": "https://dailypharm.com/user/news/340468"
+        "title": "“실패도 우주개발 역사”...항우연, 폭발한 누리호 75톤 엔진 첫 공개",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260715000183"
       }
     },
     {
-      "keyword": "채림",
+      "keyword": "asml 실적 발표",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "채림, 두 번의 이혼 뒤 찾은 행복…\"왜 남자한테 기대래?\" 소신 고백",
+        "title": "ASML, 2분기 호실적…연간 매출 가이던스도 상향(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/uPYq2AaeIS"
+        "url": "https://v.daum.net/v/20260715152549165"
       }
     },
     {
-      "keyword": "말복",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "이동하",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "초복 삼계탕집 ’문전성시’…’천연 냉장고’ 얼음골 인기",
+        "title": "소진 남편 이동하, 이탈리아 태생이었다…군 복무 위해 '국적 포기'",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260712n09791"
+      }
+    },
+    {
+      "keyword": "충주시장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "’124표 차’ 결과는…충주시장 재검표 진행",
         "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260715110602Nl9"
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260715150446a3p"
       }
     },
     {
-      "keyword": "asml",
+      "keyword": "이한범",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Álles wat u over Q2's ASML moet weten (en er is een joker?!)",
-        "source": "https://www.stockwatch.nl/",
-        "url": "https://stockwatch.nl/posts/16962/vooruitblik-q2-cijfers-asml"
+        "title": "韓 축구 초대형 경사! '월드컵 맹활약' 이한범, 마침내 빅 리그 입성 보인다…\"유럽 5대 리그서 관심받고 있어\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/x12cTlIkLC"
       }
     },
     {
-      "keyword": "의료",
+      "keyword": "game",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "삼성·서울성모병원 권역응급의료센터 ‘탈락’",
-        "source": "데일리메디",
-        "url": "https://www.dailymedi.com/news/news_view.php?wr_id=938454"
-      }
-    },
-    {
-      "keyword": "김소영",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'모텔 살인' 김소영...유족 손배소에 \"평생 일해도 못 갚아\" [앵커리포트]",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0103_202607150836170499"
-      }
-    },
-    {
-      "keyword": "고민정",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "고민정 “온갖 험악한 문자 쏟아져…검찰 사주 받은 것처럼 호도하는 일부 정치인에 유감”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607151148001"
+        "title": "2026 MLB All-Star Game: AL posts 3-hit shutout, beats NL behind big 1st inning and Miguel Vargas' HR",
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/mlb/live/2026-mlb-all-star-game-al-posts-3-hit-shutout-beats-nl-behind-big-1st-inning-and-miguel-vargas-hr-220000147.html"
       }
     }
   ]
