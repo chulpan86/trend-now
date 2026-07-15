@@ -1,25 +1,45 @@
 {
-  "timestamp": "2026-07-16T00:18:04.162706+09:00",
-  "label": "00:18",
+  "timestamp": "2026-07-16T02:05:08.312181+09:00",
+  "label": "02:05",
   "items": [
     {
       "keyword": "법원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "법사위 전체회의 출석한 노경필 법원행정처장",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260715137100013"
+      }
+    },
+    {
+      "keyword": "약",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[속보] '채상병 수사정보 누설' 이시원 전 공직기강비서관 구속영장 기각",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6837748_36918.html"
+        "title": "“국민 50%가 모른다” 집에 수두룩한 ‘남은 약’, 전부 쓰레기통에?…이러다 큰일 난다 [지구, 뭐래?]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715194220438"
       }
     },
     {
       "keyword": "부고",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[부고]김영희 별세 外",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/People/article/all/20260715/134300215/2"
+      }
+    },
+    {
+      "keyword": "자외선 차단제",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "",
-        "source": "아주경제",
-        "url": "https://www.ajunews.com/view/20260715131526099"
+        "title": "“다이소 선크림 10개 중 8개가 기준 미달” 유튜버 주장에 다이소 반박 ‘진실 공방’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607151027001"
       }
     },
     {
@@ -27,19 +47,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "유아인, '복귀설'에도 흰머리는 그대로…달라진 비주얼+밝은 표정 [엑's 이슈]",
+        "title": "세월이 야속해…유아인·배용준 '흰머리'까지 화제, 확 달라진 스타일링 [엑's 이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715083307120"
+        "url": "https://v.daum.net/v/KkSbdMPK1j"
       }
     },
     {
-      "keyword": "zimbabwe vs bangladesh",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "김성령",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "ZIM vs BAN Cricket Scorecard, 1st T20I at Bulawayo, July 15, 2026",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/bangladesh-in-zimbabwe-2026-1538288/zimbabwe-vs-bangladesh-1st-t20i-1538301/full-scorecard"
+        "title": "'라스' 김성령 \"하지원과 대학교 축제서 헌팅…이제 안 먹혀\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715225037828"
       }
     },
     {
@@ -53,6 +73,16 @@
       }
     },
     {
+      "keyword": "택배",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "국토부, 택배 현장 편법 계약 실태 전수 점검‥\"위반 시 엄중 조치\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6837681_36932.html"
+      }
+    },
+    {
       "keyword": "대한민국 fa컵",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -63,26 +93,6 @@
       }
     },
     {
-      "keyword": "ppi 발표",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "미 6월 생산자물가 전월대비 0.3%↓…예상 밖 하락(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715222948650"
-      }
-    },
-    {
-      "keyword": "어쌔신 크리드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "어쌔신 크리드 코드네임 헥세: 가격 공개 및 선형적 게임플레이로의 전환.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/assassin-s-creed-codename-hexe-lo-dien-gia-ban-va-buoc-chuyen-minh-sang-loi-choi-tuyen-tinh"
-      }
-    },
-    {
       "keyword": "캐시워크 정답",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -90,16 +100,6 @@
         "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 15일",
         "source": "BNT뉴스",
         "url": "https://www.bntnews.co.kr/article/view/bnt202607150077"
-      }
-    },
-    {
-      "keyword": "택배",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "국토부, 택배 현장 편법 계약 실태 전수 점검‥\"위반 시 엄중 조치\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6837681_36932.html"
       }
     }
   ]
