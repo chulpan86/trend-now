@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-14T20:17:33.185966+09:00",
-    "label": "20:17",
-    "items": [
-      {
-        "keyword": "서영교",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[뉴스프라임] 與 보완수사권 이견…野, 토론회로 총공세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260714195531766"
-        }
-      },
-      {
-        "keyword": "현빈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"아들, AI처럼 예뻐\"…현빈·손예진, 이번엔 LA 과학관 포착 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/09/2026070910280148586"
-        }
-      },
-      {
-        "keyword": "홍준표",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] ‘김건희 무죄·윤석열 유죄’ 엇갈린 판결...특검, 대법에 김건희 선고 연기 신청",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12308128"
-        }
-      },
-      {
-        "keyword": "시진핑",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "푸틴을 '롤모델'이라던 시진핑…13년 뒤 주도권은 中으로",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260714_0003709189"
-        }
-      },
-      {
-        "keyword": "공격수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "프로축구 부천 이충현, 독일 2부 마그데부르크 임대 이적",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260714_0003709263"
-        }
-      },
-      {
-        "keyword": "정주영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "정주영 500원으로 英과 인연... 앤 공주, 울산 조선소 방문했다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/07/14/VZC6XFTOXNAWNHP5Y7357KEWOU/"
-        }
-      },
-      {
-        "keyword": "소형모듈원자로",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'중러 대항' 한미일 SMR 협력…\"역내 환영 반응 확인\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/XLjhR31yto"
-        }
-      },
-      {
-        "keyword": "조희대",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[속보]조희대 대법원장 경호 차량 교통사고…3명 다쳐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260714161208930"
-        }
-      },
-      {
-        "keyword": "배준호",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'자산 무려 1조 6800억' 한국계 유럽 명문 구단주, 韓 국가대표 품는다... 배준호 영입 러브콜",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260714100956843"
-        }
-      },
-      {
-        "keyword": "남경필",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[칼럼] 젬백스의 남경필 승부수, '메타 모델'을 꿈꾸다",
-          "source": "팜뉴스",
-          "url": "https://www.pharmnews.com/news/articleView.html?idxno=304839"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-14T22:07:49.229300+09:00",
     "label": "22:07",
     "items": [
@@ -2185,6 +2079,112 @@
           "title": "챗GPT에 월드컵 승률 뜬다…오픈AI, 칼시 예측시장 데이터 첫 연동",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260715n18543"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-16T08:50:05.463865+09:00",
+    "label": "08:50",
+    "items": [
+      {
+        "keyword": "sk하이닉스",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "\"400만닉스 전망에 적금 깼는데…\" 돌연 눈높이 낮춘 증권가에 개미 분통",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026071410420000990"
+        }
+      },
+      {
+        "keyword": "두산에너빌리티",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "두산에너빌리티, 대형원전·SMR·유지보수 '3개의 날개'… 세계 원전 공급망 핵심으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pEFNHYTsv2?f=p"
+        }
+      },
+      {
+        "keyword": "충전소",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“충전하러 20분 달려왔습니다”...수소차 5만 시대 코앞, 차주들은 한숨",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260714210209996"
+        }
+      },
+      {
+        "keyword": "인천일보",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[밀착카메라] 파삭! 이게 끝? \"그래도 행복해\"…'왁뿌볼' 푹 빠진 어른이들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8fDi1tZvUp"
+        }
+      },
+      {
+        "keyword": "노동자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "외국인 2만명 일하는 K조선소…200명 분노의 노조 집단가입",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716050201543"
+        }
+      },
+      {
+        "keyword": "디 오픈 챔피언십",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정비공 출신 난치병 골퍼, 메이저 디오픈 무대에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716043450229"
+        }
+      },
+      {
+        "keyword": "택배기사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "개인 간 택배 늘어나는데…택배기사들 \"집하 부담만 커졌다\"",
+          "source": "물류신문",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=321944&replyAll=&reply_sc_order_by=C"
+        }
+      },
+      {
+        "keyword": "롯데그룹",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "신동빈 \"CEO, 명확한 비전 제시하고 고객관점서 개선해야\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260715036551030"
+        }
+      },
+      {
+        "keyword": "대한축구협회",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "박항서, '축구협회 청문회' 불출석 사유서 제출…박주호도 불참",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715173552534"
+        }
+      },
+      {
+        "keyword": "고기압",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "비 대신 ‘이중 고기압’…올해 TK, 여느 때 보다 뜨겁다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PggR3tZvoG"
         }
       }
     ]
