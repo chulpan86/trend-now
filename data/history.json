@@ -2082,5 +2082,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-16T07:48:52.961035+09:00",
+    "label": "07:48",
+    "items": [
+      {
+        "keyword": "kbo 리그",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"다시 플레이볼!\"…부상·아시안게임 변수 어쩌나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4OdPJex2YN"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 z 시리즈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "펼칠 때마다 신경 쓰였는데…삼성 폴더블, 마침내 '주름 잡았다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/07/16/2026071521174491709"
+        }
+      },
+      {
+        "keyword": "나스닥 지수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "뉴욕증시, 도매물가 둔화·빅테크 강세에 상승…나스닥 0.6%↑(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716060055423"
+        }
+      },
+      {
+        "keyword": "mu",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "The $536 Billion Chip War Threatening Micron Stock",
+          "source": "Barron's",
+          "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-f343ffbb"
+        }
+      },
+      {
+        "keyword": "메시 야말",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "19년 전 메시가 목욕시킨 아기…월드컵 결승서 메시 만날까",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260715/134308573/2"
+        }
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "ProShares Short VIX Short-Term Futures ETF: Not A Viable Option Right Now (BATS:SVXY)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4922313-proshares-short-vix-short-term-futures-etf-not-a-viable-option-right-now"
+        }
+      },
+      {
+        "keyword": "발롱도르",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "음바페, 침묵…메시는 잉글랜드전서 득점 단독 1위 오를까[월드컵24시]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260715_0003709663"
+        }
+      },
+      {
+        "keyword": "kylian mbappé",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Deschamps insists on Tchouaméni and France collapses against Spain - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/15/3FOVPAJJDVC65GOFMPQCYCPB44/"
+        }
+      },
+      {
+        "keyword": "영종대교",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'조 단위' 치솟는 영종대교 손실보상금… 인천시vs국토부 옥신각신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0NlAtvhDrO"
+        }
+      },
+      {
+        "keyword": "폴리마켓",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "챗GPT에 월드컵 승률 뜬다…오픈AI, 칼시 예측시장 데이터 첫 연동",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260715n18543"
+        }
+      }
+    ]
   }
 ]
