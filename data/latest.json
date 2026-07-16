@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-16T16:14:56.696196+09:00",
-  "label": "16:14",
+  "timestamp": "2026-07-16T18:56:48.130033+09:00",
+  "label": "18:56",
   "items": [
     {
-      "keyword": "앤 해서웨이",
+      "keyword": "kia 대 ssg",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "[포토]후반기 첫날 랜더스파크에서 훈련하는 시라카와 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/07/16/2026071617334363362"
+      }
+    },
+    {
+      "keyword": "키움 대 한화",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "'한화와 4연전' 키움, 후반기 선발 로테이션은? \"안우진 하루 더 쉰다, 5선발은 아직 미정\" [오!쎈 대전] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/07/16/202607161733772695O"
+      }
+    },
+    {
+      "keyword": "롯데 대 삼성",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "20년 우정 이어간 삼성과 온나손…16일 롯데전 '온나손 데이' 진행 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/07/16/202607161836773349O"
+      }
+    },
+    {
+      "keyword": "부양",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "내년에 중증장애인 생계급여 부양의무자 폐지…기초연금 선정 기준도 변경",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/rights/1268586.html"
+      }
+    },
+    {
+      "keyword": "kt 대 lg",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'43세 임신' 앤 해서웨이, 드레스로 빛낸 만삭의 D라인 [N해외연예]",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/overseas-entertain/6229934"
+        "title": "[포토] 박지원 '제구는 마음에 안 들어' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/07/16/2026071618342482215"
       }
     },
     {
-      "keyword": "편의점",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "치킨집 알바에 80명 몰린 이유가…점주도 놀란 '충격 실상'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026071576081"
-      }
-    },
-    {
-      "keyword": "연꽃",
+      "keyword": "알 테오 젠",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"황리단길에서 만나는 연꽃 풍경\"…경주 경관 '매력' 더한다",
+        "title": "코스닥 대장주 알테오젠, 코스피 이전 잠정 유보",
         "source": "Daum",
-        "url": "https://v.daum.net/v/0TuVWmDgmY?f=p"
+        "url": "https://v.daum.net/v/20260716174418310"
       }
     },
     {
-      "keyword": "이란 해군",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "美지상군 투입 선택지까지…트럼프, 치명타 예고하며 이란 압박",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260716016400071"
-      }
-    },
-    {
-      "keyword": "오픈 ai 코덱스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "The Risk of Jony Ive’s OpenAI Speaker Is That You’ll Love It",
-        "source": "Bloomberg.com",
-        "url": "https://www.bloomberg.com/opinion/articles/2026-07-16/jony-ive-s-openai-speaker-wants-a-personal-relationship-with-users"
-      }
-    },
-    {
-      "keyword": "일본 프로 야구",
+      "keyword": "หวย",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'고교 140홈런' 日 괴물 유망주, 소프트뱅크 거절→마이애미 입단하나? \"깊은 고민 끝에 결정\"",
+        "title": "ตรวจหวย 16/7/69 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 16 ก.ค. 69",
+        "source": "Sanook",
+        "url": "https://www.sanook.com/news/9899330/"
+      }
+    },
+    {
+      "keyword": "ตรวจหวย",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "สลาก ธ.ก.ส.แตกชุดใหญ่ ผู้โชคดีนนทบุรี ถูกรางวัล 40 ล้าน ผู้โชคดีพัทยา-ราชบุรี รวยคนละ 20 ล้าน",
+        "source": "ข่าวสด",
+        "url": "https://www.khaosod.co.th/lottery/news_10325987"
+      }
+    },
+    {
+      "keyword": "조명우",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“32강 본선리그 험로 예고” 조명우는 바오프엉빈, 김행직은 야스퍼스, 허정한은 쿠드롱 등과 격돌[포르투3쿠션월드컵]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716100708648"
+        "url": "https://v.daum.net/v/20260716080300697"
       }
     },
     {
-      "keyword": "hd현대",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "잭 델라 마달레나",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "HD현대삼호, 목포·영암 지역 취약계층 여름나기 후원",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/gwangju-jeonnam/6230234"
-      }
-    },
-    {
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'It's Always Better to Start with Constraints' — Former Rockstar Producer Explains GTA 6's Lack of PC Port on Launch",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/gta-6s-lack-of-a-pc-port-isnt-out-of-greed-according-to-a-former-rockstar-producer"
-      }
-    },
-    {
-      "keyword": "강재준",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "양세찬 \"돈이 문제가 아니다\"…강재준 아들 등원 도우미에 '30만 조회수' 공약 (기유TV)[종합]",
+        "title": "‘69초 만에’ 맥그리거 이겼다고 “마음만 먹으면 UFC 웰터급 휩쓴다” 대박 평가…전 챔프가 확신하는 이유",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715145223509"
-      }
-    },
-    {
-      "keyword": "코오롱티슈진",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"부활이냐, 몰락이냐\"⋯코오롱티슈진 '인보사' 임상 3상 '운명의 7월'",
-        "source": "아이뉴스24",
-        "url": "http://www.inews24.com/view/1986151"
+        "url": "https://v.daum.net/v/20260716093439828"
       }
     }
   ]
