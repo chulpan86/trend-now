@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-17T06:57:49.228065+09:00",
-  "label": "06:57",
+  "timestamp": "2026-07-17T07:50:55.981007+09:00",
+  "label": "07:50",
   "items": [
     {
-      "keyword": "혈당",
+      "keyword": "주식",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "\"아침엔 이것부터\"…배종옥이 밝힌 혈당 관리 식사법",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260716_0003711698"
-      }
-    },
-    {
-      "keyword": "파운드리",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"누구는 6억, 우리는 2억\"…삼성 파운드리 10명 중 8명 \"이직하겠다\"",
+        "title": "이 대통령 “선거 때문에 주식 마구 사서 주가 올렸냐”…연금공단 “아니다”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/We9gh42upN"
+        "url": "https://v.daum.net/v/20260716205401788"
       }
     },
     {
-      "keyword": "임영웅",
+      "keyword": "영화",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "영웅시대 총집결 예고…임영웅 콘서트 티켓 오늘 밤 풀린다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716104507805"
+        "title": "배우 몸값, 정부가 낮춘다",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202607161154003"
       }
     },
     {
-      "keyword": "오세훈",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "특검, '명태균 여론조사' 尹 유죄판결 내용 오세훈 재판부에 제시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716181952525"
-      }
-    },
-    {
-      "keyword": "임창정",
+      "keyword": "김호령",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "임창정 “노래 하는데 관객들 다 나가…평생 먹을 욕 다 먹었다”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20260716/134310434/1"
+        "title": "문학·새 얼굴 ‘징크스’…KIA, 후반기 첫 경기서 0-6 영봉패",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716234727000"
       }
     },
     {
-      "keyword": "포스코홀딩스",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "schd",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "삼성·SK그룹 등에 이어 포스코그룹도 협력사 상생협력 확대 동참",
+        "title": "SCHD Is Getting Loaded With AI Stocks Now. Is It Still a \"Safe\" Dividend ETF?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/15/schd-is-getting-loaded-with-ai-stocks-now-is-it-still-a-safe-dividend-etf/"
+      }
+    },
+    {
+      "keyword": "파업",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "현대차 최영일 대표 \"수용 불가 항목에 막혀… 공멸 아닌 공존 택해야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716211500183"
+      }
+    },
+    {
+      "keyword": "mu",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Is Micron indicative of a possible chip bubble to come?",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/video/is-micron-indicative-of-a-possible-chip-bubble-to-come-193448630.html"
+      }
+    },
+    {
+      "keyword": "축구 결승",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[월드컵] 지는 법 잊은 스페인 vs '2연패 조준' 아르헨…최후의 승자는",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260716134600007"
+      }
+    },
+    {
+      "keyword": "에코프로비엠",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "에코프로, 유증 추진...“니켈 직접 확보로 원가 격차 실현할 것”",
         "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370378"
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370398"
       }
     },
     {
-      "keyword": "기자",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "경찰이 ‘무혐의’로 봤던 김어준 재판, 1심서 벌금형…이유는?",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8612756"
-      }
-    },
-    {
-      "keyword": "손담비",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "손담비, 출산 후 '반려묘 파양 의혹' 불식시켰다…\"버렸겠냐\" 해명 후 근황 [엑's 이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716125637213"
-      }
-    },
-    {
-      "keyword": "아버지",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“곧 임종입니다” 진단 후 117일 버틴 아버지… 더 힘들었던 건 ‘집으로 가는 길’",
-        "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/07/16/2026071602432.html"
-      }
-    },
-    {
-      "keyword": "대우건설",
+      "keyword": "정호영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "대우건설, 울산 북항 LNG터미널 3단계 준공",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260716053200003"
+        "title": "55세 이영애, 75세 남편과 포착…‘나잇값 못하는’ 얼굴 근황 화제",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Q4BlOImj1W"
+      }
+    },
+    {
+      "keyword": "koru",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "SKHY red but the HBM4 news is kinda bullish?",
+        "source": "Moomoo",
+        "url": "https://www.moomoo.com/community/feed/skhy-red-but-the-hbm4-news-is-kinda-bullish-116922477314054"
       }
     }
   ]
