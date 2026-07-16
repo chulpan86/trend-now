@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T10:23:16.767215+09:00",
-    "label": "10:23",
-    "items": [
-      {
-        "keyword": "gpt",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "Altman warns of \"hiccups\" with new flagship 5.6 Sol",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/07/14/sam-altman-chat-gpt-sol-ultra-warning"
-        }
-      },
-      {
-        "keyword": "한소희",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "한소희, 보면 볼수록 독보적이네…송혜교 '좋아요' 이끈 퇴폐미",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715001840825"
-        }
-      },
-      {
-        "keyword": "윤현숙",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "윤현숙 \"1분만 해도 땀 뻘뻘\"…스텝퍼로 나이 잊은 몸매",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260714_0003707865"
-        }
-      },
-      {
-        "keyword": "사이드카",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[속보] 코스피 6% 급등에 매수 사이드카…하닉 ADR은 27% 폭등",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1268313.html"
-        }
-      },
-      {
-        "keyword": "england vs argentina",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Why England vs. Argentina is World Cup's best, angriest, most chaotic rivalry",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49353029/england-argentina-world-cup-rivalry-antonio-rattin-diego-maradona-hand-god-michael-owen-david-beckham"
-        }
-      },
-      {
-        "keyword": "수소 자동차",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'유재석이 타더니'…7600만원짜리 車, 3000만원대로 산다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607143590g"
-        }
-      },
-      {
-        "keyword": "챗 gpt",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"안 읽은 카톡 999+ 어쩌나\" 카카오, 밀린 대화 한눈에 추리는 'AI 요약' 추가 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/07/15/2026071509322189065"
-        }
-      },
-      {
-        "keyword": "openai",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion"
-        }
-      },
-      {
-        "keyword": "홍기원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[정치쇼] 김남희 \"보완수사권 완전폐지? 민주당 의원 대부분은 걱정…강성당원용 정치도구로 쓰진 말자\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715093324675"
-        }
-      },
-      {
-        "keyword": "리그 오브 레전드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "라이엇 \"LoL 신규 클라이언트 개발 원활…아수라장 계속 유지\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260710078800017"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-15T13:40:42.883292+09:00",
     "label": "13:40",
     "items": [
@@ -1978,6 +1872,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-17T00:25:47.935508+09:00",
+    "label": "00:25",
+    "items": [
+      {
+        "keyword": "이동국",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "자식 농사 대박 났네…이동국 아들 이시안, 브라질행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716145104487"
+        }
+      },
+      {
+        "keyword": "김성령",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김성령 \"주얼리 협찬만 30억…경호원 계속 따라다녀\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/07/16/25LWKK2BRFHK5NQW3ZML6OPMCQ/"
+        }
+      },
+      {
+        "keyword": "반품",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "짝퉁 보내더니 환불 대신 포인트로?…中 플랫폼 황당",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PTHvL1XSZn"
+        }
+      },
+      {
+        "keyword": "india vs england",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "England need urgent ODI turnaround as India eye series win in Cardiff",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-odi-1496580/match-preview"
+        }
+      },
+      {
+        "keyword": "배 나라",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 배나라·한재아 결혼…뮤지컬 배우 부부 탄생",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716185825582"
+        }
+      },
+      {
+        "keyword": "샘킴",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'언더커버' 샘킴, 잡채 만들어 극찬…\"한식 기준 높아져\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716221049113"
+        }
+      },
+      {
+        "keyword": "김나영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김나영, '부실 밥상' 논란 또 해명 \"우리 가족 충분히 배부르다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260716_0003711420"
+        }
+      },
+      {
+        "keyword": "랜스 맥컬러스 주니어",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"예상치 못한 깜짝 트레이드\" 美도 놀랐다…밀워키, 'ML 53승 투수' 맥컬러스 주니어 품었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716152809304"
+        }
+      },
+      {
+        "keyword": "김재희",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "부활 김재희, 5년 암투병 아내와 사별…\"형과 같은 날 떠났다\" (미스트롯 포유)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716210107934"
+        }
+      },
+      {
+        "keyword": "채널a",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김어준 양형사유 “허위사실 반복적시 여론왜곡” 이동재 “벌금이 거의 맥시멈”",
+          "source": "미디어오늘",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335811"
+        }
       }
     ]
   }

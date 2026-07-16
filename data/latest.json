@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-07-16T22:19:54.238538+09:00",
-  "label": "22:19",
+  "timestamp": "2026-07-17T00:25:47.935508+09:00",
+  "label": "00:25",
   "items": [
     {
-      "keyword": "상장폐지",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "오전 운 띄우고 오후 전격 발표…’ETF 대책’ 뚜껑 열어보니 [뉴스더보기]",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260716185328867"
-      }
-    },
-    {
-      "keyword": "연금",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "이 대통령 “선거 때문에 주식 사들였나”…연금공단 “전혀 아냐” [지금뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8612825"
-      }
-    },
-    {
-      "keyword": "노소영",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "이혼 후 늘어난 재산까지 분할대상?...최태원·노소영 '세기의 재산분할' 합리성 따져보니",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716130013312"
-      }
-    },
-    {
-      "keyword": "경기도지사",
+      "keyword": "이동국",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "추미애, 삼성전자·SK하이닉스에 행정권고… 반도체 육성과 환경관리 병행",
+        "title": "자식 농사 대박 났네…이동국 아들 이시안, 브라질행",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716160255016"
+        "url": "https://v.daum.net/v/20260716145104487"
       }
     },
     {
-      "keyword": "협박",
+      "keyword": "김성령",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"장염 걸려서 응급실 다녀왔거든요?\"…전국 횟집 벌벌 떨게 한 '목소리'의 정체 [사기꾼들]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BVajA0tWjS"
+        "title": "김성령 \"주얼리 협찬만 30억…경호원 계속 따라다녀\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/celebrity/2026/07/16/25LWKK2BRFHK5NQW3ZML6OPMCQ/"
       }
     },
     {
-      "keyword": "로리 맥길로이",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "11년 걸린 맥길로이, 6번 눈물 흘린 미컬슨의 '기록' [박호윤의 IN&OUT]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5IO7MSCEA3"
-      }
-    },
-    {
-      "keyword": "england vs india",
+      "keyword": "반품",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Where to watch England vs India live stream, TV channel, start time and lineups for 2nd ODI",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/where-watch-england-vs-india-033002777.html"
+        "title": "짝퉁 보내더니 환불 대신 포인트로?…中 플랫폼 황당",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/PTHvL1XSZn"
       }
     },
     {
-      "keyword": "영주권",
+      "keyword": "india vs england",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "돈 없으면 美 오지마라? 영주권 신청자에 최대 1.5억 보증금 검토",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716153849836"
+        "title": "England need urgent ODI turnaround as India eye series win in Cardiff",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-odi-1496580/match-preview"
       }
     },
     {
-      "keyword": "明天的天氣",
+      "keyword": "배 나라",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] 배나라·한재아 결혼…뮤지컬 배우 부부 탄생",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716185825582"
+      }
+    },
+    {
+      "keyword": "샘킴",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'언더커버' 샘킴, 잡채 만들어 극찬…\"한식 기준 높아져\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716221049113"
+      }
+    },
+    {
+      "keyword": "김나영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김나영, '부실 밥상' 논란 또 해명 \"우리 가족 충분히 배부르다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260716_0003711420"
+      }
+    },
+    {
+      "keyword": "랜스 맥컬러스 주니어",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "又有颱風？　「紅霞」最快明生成、路徑曝光",
-        "source": "鏡新聞",
-        "url": "https://www.mnews.tw/story/20260716sot1954001"
+        "title": "\"예상치 못한 깜짝 트레이드\" 美도 놀랐다…밀워키, 'ML 53승 투수' 맥컬러스 주니어 품었다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716152809304"
       }
     },
     {
-      "keyword": "인천광역시",
+      "keyword": "김재희",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "부활 김재희, 5년 암투병 아내와 사별…\"형과 같은 날 떠났다\" (미스트롯 포유)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716210107934"
+      }
+    },
+    {
+      "keyword": "채널a",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김어준 양형사유 “허위사실 반복적시 여론왜곡” 이동재 “벌금이 거의 맥시멈”",
+        "source": "미디어오늘",
+        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335811"
+      }
     }
   ]
 }
