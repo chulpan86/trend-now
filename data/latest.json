@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-17T00:25:47.935508+09:00",
-  "label": "00:25",
+  "timestamp": "2026-07-17T02:03:00.392224+09:00",
+  "label": "02:03",
   "items": [
     {
       "keyword": "이동국",
@@ -10,6 +10,16 @@
         "title": "자식 농사 대박 났네…이동국 아들 이시안, 브라질행",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260716145104487"
+      }
+    },
+    {
+      "keyword": "배 나라",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[단독] 배나라·한재아 결혼…뮤지컬 배우 부부 탄생",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716185825582"
       }
     },
     {
@@ -23,13 +33,33 @@
       }
     },
     {
+      "keyword": "신혼여행",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "신혼여행 사진이 왜 이래? '새신부' 박은영 \"약으로 버텨..태풍에 물갈이\" [스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716150349161"
+      }
+    },
+    {
+      "keyword": "롤",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "2025 T1 우승 스킨 출시 이벤트",
+        "source": "League of Legends",
+        "url": "https://www.leagueoflegends.com/ko-kr/news/notices/2025-t1-championship-skin-event/"
+      }
+    },
+    {
       "keyword": "반품",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "짝퉁 보내더니 환불 대신 포인트로?…中 플랫폼 황당",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/PTHvL1XSZn"
+        "title": "[단독]쿠팡, '무료 반품' 허들 높여…블랙 컨슈머 막는다",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260716n29423"
       }
     },
     {
@@ -43,16 +73,6 @@
       }
     },
     {
-      "keyword": "배 나라",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독] 배나라·한재아 결혼…뮤지컬 배우 부부 탄생",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716185825582"
-      }
-    },
-    {
       "keyword": "샘킴",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -63,23 +83,13 @@
       }
     },
     {
-      "keyword": "김나영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김나영, '부실 밥상' 논란 또 해명 \"우리 가족 충분히 배부르다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260716_0003711420"
-      }
-    },
-    {
       "keyword": "랜스 맥컬러스 주니어",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"예상치 못한 깜짝 트레이드\" 美도 놀랐다…밀워키, 'ML 53승 투수' 맥컬러스 주니어 품었다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716152809304"
+        "title": "MLB 밀워키, 휴스턴과 트레이드로 매컬러스 주니어 영입",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260716031600007"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "부활 김재희, 5년 암투병 아내와 사별…\"형과 같은 날 떠났다\" (미스트롯 포유)",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260716210107934"
-      }
-    },
-    {
-      "keyword": "채널a",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김어준 양형사유 “허위사실 반복적시 여론왜곡” 이동재 “벌금이 거의 맥시멈”",
-        "source": "미디어오늘",
-        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335811"
       }
     }
   ]
