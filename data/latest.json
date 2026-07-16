@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-07-16T20:29:00.242795+09:00",
-  "label": "20:29",
+  "timestamp": "2026-07-16T22:19:54.238538+09:00",
+  "label": "22:19",
   "items": [
     {
-      "keyword": "영주시",
+      "keyword": "상장폐지",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "오전 운 띄우고 오후 전격 발표…’ETF 대책’ 뚜껑 열어보니 [뉴스더보기]",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260716185328867"
+      }
+    },
+    {
+      "keyword": "연금",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "이 대통령 “선거 때문에 주식 사들였나”…연금공단 “전혀 아냐” [지금뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8612825"
+      }
+    },
+    {
+      "keyword": "노소영",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "이혼 후 늘어난 재산까지 분할대상?...최태원·노소영 '세기의 재산분할' 합리성 따져보니",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716130013312"
+      }
+    },
+    {
+      "keyword": "경기도지사",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "영주시, 2026영주 시원나잇 페스타 안전관리실무위원회 개최",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3638391"
+        "title": "추미애, 삼성전자·SK하이닉스에 행정권고… 반도체 육성과 환경관리 병행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716160255016"
       }
     },
     {
-      "keyword": "임영웅 콘서트",
+      "keyword": "협박",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "임영웅, 오늘 '또 한번 예매 전쟁'",
+        "title": "\"장염 걸려서 응급실 다녀왔거든요?\"…전국 횟집 벌벌 떨게 한 '목소리'의 정체 [사기꾼들]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716084529736"
+        "url": "https://v.daum.net/v/BVajA0tWjS"
       }
     },
     {
-      "keyword": "마이클 올리세",
+      "keyword": "로리 맥길로이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "음바페, 침묵…메시는 잉글랜드전서 득점 단독 1위 오를까[월드컵24시]",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260715_0003709663"
-      }
-    },
-    {
-      "keyword": "tving",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "The repercussions surrounding the large-scale personal information leakage in TVing are growing. Not..",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/en/it/12099555"
-      }
-    },
-    {
-      "keyword": "문천식",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "1년 새 母·아내·자식 잃은 아빠 근황에..문천식 \"방송국 구경 제가 책임질게요\" 미담 확산 [스타이슈]",
+        "title": "11년 걸린 맥길로이, 6번 눈물 흘린 미컬슨의 '기록' [박호윤의 IN&OUT]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716083352370"
+        "url": "https://v.daum.net/v/5IO7MSCEA3"
       }
     },
     {
-      "keyword": "kia vs ssg",
+      "keyword": "england vs india",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[Photo] Avila, 'Good start' - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-photo-spo/2026/07/16/N44RE2HCMFHJBNWAZGCS6VADGI/"
+        "title": "Where to watch England vs India live stream, TV channel, start time and lineups for 2nd ODI",
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/where-watch-england-vs-india-033002777.html"
       }
     },
     {
-      "keyword": "ewc일정",
+      "keyword": "영주권",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[영상] EWC 출전한 젠지·한화생명·T1…첫날 소감은",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260716201400797"
+        "title": "돈 없으면 美 오지마라? 영주권 신청자에 최대 1.5억 보증금 검토",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716153849836"
       }
     },
     {
-      "keyword": "제주특별자치도교육감",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "윤건영 충청북도교육감, 제11대 대한민국교육감협의회 부회장 선출 : 네이버 블로그",
-        "source": "Naver Blog",
-        "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224347628261&redirect=Dlog"
-      }
-    },
-    {
-      "keyword": "디플러스 기아",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "디플러스 기아, LoL 포함 전 종목 선수단 임금 체불 중",
-        "source": "데일리e스포츠",
-        "url": "https://www.dailyesports.com/view.php?ud=202607161324005293b91e133c1f_27"
-      }
-    },
-    {
-      "keyword": "김상식",
+      "keyword": "明天的天氣",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "프로농구 삼성, 제11대 사령탑에 김상식 감독 선임",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716155108450"
+        "title": "又有颱風？　「紅霞」最快明生成、路徑曝光",
+        "source": "鏡新聞",
+        "url": "https://www.mnews.tw/story/20260716sot1954001"
       }
+    },
+    {
+      "keyword": "인천광역시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }
