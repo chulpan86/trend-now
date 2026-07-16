@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-17T07:50:55.981007+09:00",
-  "label": "07:50",
+  "timestamp": "2026-07-17T08:49:54.539054+09:00",
+  "label": "08:49",
   "items": [
     {
-      "keyword": "주식",
+      "keyword": "석유",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "이 대통령 “선거 때문에 주식 마구 사서 주가 올렸냐”…연금공단 “아니다”",
+        "title": "좁아지는 호르무즈…미 '이란 항구 봉쇄' 재개 첫날 13척만 통과",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716205401788"
+        "url": "https://v.daum.net/v/20260717073952806"
       }
     },
     {
-      "keyword": "영화",
+      "keyword": "모욕",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "배우 몸값, 정부가 낮춘다",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607161154003"
+        "title": "16기 영숙, 상철 사생활 폭로전 마무리…대법원서 벌금형 확정 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071622390389643"
+      }
+    },
+    {
+      "keyword": "thời tiết",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Đề phòng ngập, úng, thiếu nước sinh hoạt do ảnh hưởng mưa lớn ở miền Bắc",
+        "source": "BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG",
+        "url": "https://mae.gov.vn/e-phong-ngap-ung-thieu-nuoc-sinh-hoat-do-anh-huong-mua-lon-o-mien-bac-22294.htm"
+      }
+    },
+    {
+      "keyword": "สภาพอากาศ",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 39 จังหวัด เตือน ฝนถล่มหนัก | Khaosod",
+        "source": "LINE TODAY",
+        "url": "https://today.line.me/th/v3/article/l2K9oJG"
       }
     },
     {
       "keyword": "김호령",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'올러 무너지고, 타선도 침묵했다' KIA, SSG에 0-6 완패",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716222042242"
+      }
+    },
+    {
+      "keyword": "에이치엘비",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "문학·새 얼굴 ‘징크스’…KIA, 후반기 첫 경기서 0-6 영봉패",
+        "title": "[특징주] HLB, 간암 신약 美승인 문제 해소 기대에 상한가(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716234727000"
+        "url": "https://v.daum.net/v/20260715155849975?sicode=01"
       }
     },
     {
-      "keyword": "schd",
+      "keyword": "거제대교",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "SCHD Is Getting Loaded With AI Stocks Now. Is It Still a \"Safe\" Dividend ETF?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/15/schd-is-getting-loaded-with-ai-stocks-now-is-it-still-a-safe-dividend-etf/"
-      }
-    },
-    {
-      "keyword": "파업",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "현대차 최영일 대표 \"수용 불가 항목에 막혀… 공멸 아닌 공존 택해야\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716211500183"
-      }
-    },
-    {
-      "keyword": "mu",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Is Micron indicative of a possible chip bubble to come?",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/video/is-micron-indicative-of-a-possible-chip-bubble-to-come-193448630.html"
-      }
-    },
-    {
-      "keyword": "축구 결승",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[월드컵] 지는 법 잊은 스페인 vs '2연패 조준' 아르헨…최후의 승자는",
+        "title": "통영 구 거제대교서 해상 추락 발생…해경 수색 착수",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260716134600007"
+        "url": "https://www.yna.co.kr/view/AKR20260716013600052"
       }
     },
     {
-      "keyword": "에코프로비엠",
+      "keyword": "스토킹",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "에코프로, 유증 추진...“니켈 직접 확보로 원가 격차 실현할 것”",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370398"
-      }
-    },
-    {
-      "keyword": "정호영",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "55세 이영애, 75세 남편과 포착…‘나잇값 못하는’ 얼굴 근황 화제",
+        "title": "“어디로 가면 돼?”…양치승, 최강희 스토킹 피해에 분노",
         "source": "Daum",
-        "url": "https://v.daum.net/v/Q4BlOImj1W"
+        "url": "https://v.daum.net/v/GpzWmKqFWK"
       }
     },
     {
-      "keyword": "koru",
+      "keyword": "비트코인",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[코인시세] 비트코인, 상승 흐름…6만5천 달러선 안착 시도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/GcIwbYTsGj"
+      }
+    },
+    {
+      "keyword": "mls",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "SKHY red but the HBM4 news is kinda bullish?",
-        "source": "Moomoo",
-        "url": "https://www.moomoo.com/community/feed/skhy-red-but-the-hbm4-news-is-kinda-bullish-116922477314054"
+        "title": "MLS return storylines: Berhalter’s future, Son’s goal drought and what’s next for Messi?",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/16/mls-return-storylines-messi-son-berhalter"
       }
     }
   ]
