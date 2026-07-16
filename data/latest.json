@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-17T05:51:12.633896+09:00",
-  "label": "05:51",
+  "timestamp": "2026-07-17T06:57:49.228065+09:00",
+  "label": "06:57",
   "items": [
     {
-      "keyword": "부부",
+      "keyword": "혈당",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"아침엔 이것부터\"…배종옥이 밝힌 혈당 관리 식사법",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260716_0003711698"
+      }
+    },
+    {
+      "keyword": "파운드리",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"누구는 6억, 우리는 2억\"…삼성 파운드리 10명 중 8명 \"이직하겠다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/We9gh42upN"
+      }
+    },
+    {
+      "keyword": "임영웅",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘배그 부부’ 아내 사망 후 근황…“무너지지 않는 아빠 될게” 눈물 예고",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607161027003"
+        "title": "영웅시대 총집결 예고…임영웅 콘서트 티켓 오늘 밤 풀린다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716104507805"
       }
     },
     {
-      "keyword": "원희룡",
+      "keyword": "오세훈",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모”",
+        "title": "특검, '명태균 여론조사' 尹 유죄판결 내용 오세훈 재판부에 제시",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716220751076"
+        "url": "https://v.daum.net/v/20260716181952525"
       }
     },
     {
-      "keyword": "이정효",
+      "keyword": "임창정",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이정효가 망친 한 선수 프로 데뷔전... 꿈에 그렸을 순간이 '악몽'이 됐다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716184707318"
+        "title": "임창정 “노래 하는데 관객들 다 나가…평생 먹을 욕 다 먹었다”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20260716/134310434/1"
       }
     },
     {
-      "keyword": "mu stock",
+      "keyword": "포스코홀딩스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Why Micron (MU) Stock Is Trading Lower Today",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-mu-stock-trading-230421565.html"
+        "title": "삼성·SK그룹 등에 이어 포스코그룹도 협력사 상생협력 확대 동참",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370378"
       }
     },
     {
-      "keyword": "주주",
+      "keyword": "기자",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“이러다 40조 털린다” 뿔난 삼성전자 주주들",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716170108674"
+        "title": "경찰이 ‘무혐의’로 봤던 김어준 재판, 1심서 벌금형…이유는?",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8612756"
       }
     },
     {
-      "keyword": "천위페이",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "손담비",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'긴급 귀국' 안세영 없는데…천위페이는 심유진이 막는다 → 32강+16강 모두 상위 랭커 제압, 8강서 우승후보와 격돌",
+        "title": "손담비, 출산 후 '반려묘 파양 의혹' 불식시켰다…\"버렸겠냐\" 해명 후 근황 [엑's 이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/5KkEJXYCCp"
+        "url": "https://v.daum.net/v/20260716125637213"
       }
     },
     {
-      "keyword": "서든어택",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "아버지",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "넥슨 서든어택, 21주년 기념 무기 스킨 공모전 실시…당선작 인게임 구현",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pgtbHlIkYU"
+        "title": "“곧 임종입니다” 진단 후 117일 버틴 아버지… 더 힘들었던 건 ‘집으로 가는 길’",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/07/16/2026071602432.html"
       }
     },
     {
-      "keyword": "미스 베트남",
+      "keyword": "대우건설",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "2026 미스 베트남 참가자들이 서예를 연습하고 악기를 연주합니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/thi-sinh-hoa-hau-viet-nam-2026-viet-thu-phap-choi-nhac-cu"
-      }
-    },
-    {
-      "keyword": "김강우",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"바라만 봐도 장모님 배부르다\" 김강우·기성용, '유퀴즈' 투샷…훈훈한 동서지간",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/9rLDFYTsla"
-      }
-    },
-    {
-      "keyword": "애니",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“저패니메이션 따라가기보다는 韓 고유성 살려야 K애니 성공”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717014442794"
+        "title": "대우건설, 울산 북항 LNG터미널 3단계 준공",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260716053200003"
       }
     }
   ]

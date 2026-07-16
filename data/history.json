@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T18:50:34.593200+09:00",
-    "label": "18:50",
-    "items": [
-      {
-        "keyword": "삼성",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "(단독)SK하이닉스 ADR 차익거래 대기 중…예탁원 \"상호전환 29일 이후\"",
-          "source": "뉴스토마토",
-          "url": "https://www.newstomato.com/ReadNews.aspx?no=1307208"
-        }
-      },
-      {
-        "keyword": "장항준",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "첫 회부터 시청률 0%대로 무너졌다…'1700만 감독' 장항준 야심작인데, 출발부터 '빨간불' ('시간추적자')[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715114837177"
-        }
-      },
-      {
-        "keyword": "에이치엘비",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "HLB \"간암 신약, 미국 승인 문제점 대부분 해소\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260715041000017"
-        }
-      },
-      {
-        "keyword": "배구",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "여자배구 A 구단 전 코치, 부적절한 행위 의혹…윤리센터 조사 중",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715180707958"
-        }
-      },
-      {
-        "keyword": "이영애",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이영애♥75세 남편과 오붓한 근황…동안+풍성한 머리숱 눈길",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607151436003"
-        }
-      },
-      {
-        "keyword": "전희철",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "농구스타 전희철·우지원, 이번엔 딸들의 미스코리아 경쟁",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260715142835E6E"
-        }
-      },
-      {
-        "keyword": "노숙",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "TV서 기어 나오던 '링' 귀신 배우, 노숙 생활 중 사망",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/91iQCWvmol"
-        }
-      },
-      {
-        "keyword": "과천시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "과천시, 공공하수처리시설 현대화 사업 실시설계 본격 착수",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260715005500353"
-        }
-      },
-      {
-        "keyword": "헥토파이낸셜",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "배그",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-15T20:21:25.456627+09:00",
     "label": "20:21",
     "items": [
@@ -2189,6 +2091,112 @@
           "title": "“저패니메이션 따라가기보다는 韓 고유성 살려야 K애니 성공”",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260717014442794"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-17T06:57:49.228065+09:00",
+    "label": "06:57",
+    "items": [
+      {
+        "keyword": "혈당",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"아침엔 이것부터\"…배종옥이 밝힌 혈당 관리 식사법",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260716_0003711698"
+        }
+      },
+      {
+        "keyword": "파운드리",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"누구는 6억, 우리는 2억\"…삼성 파운드리 10명 중 8명 \"이직하겠다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/We9gh42upN"
+        }
+      },
+      {
+        "keyword": "임영웅",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "영웅시대 총집결 예고…임영웅 콘서트 티켓 오늘 밤 풀린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716104507805"
+        }
+      },
+      {
+        "keyword": "오세훈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "특검, '명태균 여론조사' 尹 유죄판결 내용 오세훈 재판부에 제시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716181952525"
+        }
+      },
+      {
+        "keyword": "임창정",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "임창정 “노래 하는데 관객들 다 나가…평생 먹을 욕 다 먹었다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260716/134310434/1"
+        }
+      },
+      {
+        "keyword": "포스코홀딩스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성·SK그룹 등에 이어 포스코그룹도 협력사 상생협력 확대 동참",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370378"
+        }
+      },
+      {
+        "keyword": "기자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경찰이 ‘무혐의’로 봤던 김어준 재판, 1심서 벌금형…이유는?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8612756"
+        }
+      },
+      {
+        "keyword": "손담비",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "손담비, 출산 후 '반려묘 파양 의혹' 불식시켰다…\"버렸겠냐\" 해명 후 근황 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716125637213"
+        }
+      },
+      {
+        "keyword": "아버지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“곧 임종입니다” 진단 후 117일 버틴 아버지… 더 힘들었던 건 ‘집으로 가는 길’",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/07/16/2026071602432.html"
+        }
+      },
+      {
+        "keyword": "대우건설",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "대우건설, 울산 북항 LNG터미널 3단계 준공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260716053200003"
         }
       }
     ]
