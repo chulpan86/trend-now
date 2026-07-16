@@ -2086,5 +2086,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-17T05:51:12.633896+09:00",
+    "label": "05:51",
+    "items": [
+      {
+        "keyword": "부부",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘배그 부부’ 아내 사망 후 근황…“무너지지 않는 아빠 될게” 눈물 예고",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607161027003"
+        }
+      },
+      {
+        "keyword": "원희룡",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716220751076"
+        }
+      },
+      {
+        "keyword": "이정효",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이정효가 망친 한 선수 프로 데뷔전... 꿈에 그렸을 순간이 '악몽'이 됐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716184707318"
+        }
+      },
+      {
+        "keyword": "mu stock",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Why Micron (MU) Stock Is Trading Lower Today",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-mu-stock-trading-230421565.html"
+        }
+      },
+      {
+        "keyword": "주주",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“이러다 40조 털린다” 뿔난 삼성전자 주주들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716170108674"
+        }
+      },
+      {
+        "keyword": "천위페이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'긴급 귀국' 안세영 없는데…천위페이는 심유진이 막는다 → 32강+16강 모두 상위 랭커 제압, 8강서 우승후보와 격돌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5KkEJXYCCp"
+        }
+      },
+      {
+        "keyword": "서든어택",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "넥슨 서든어택, 21주년 기념 무기 스킨 공모전 실시…당선작 인게임 구현",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pgtbHlIkYU"
+        }
+      },
+      {
+        "keyword": "미스 베트남",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2026 미스 베트남 참가자들이 서예를 연습하고 악기를 연주합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thi-sinh-hoa-hau-viet-nam-2026-viet-thu-phap-choi-nhac-cu"
+        }
+      },
+      {
+        "keyword": "김강우",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"바라만 봐도 장모님 배부르다\" 김강우·기성용, '유퀴즈' 투샷…훈훈한 동서지간",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9rLDFYTsla"
+        }
+      },
+      {
+        "keyword": "애니",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“저패니메이션 따라가기보다는 韓 고유성 살려야 K애니 성공”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717014442794"
+        }
+      }
+    ]
   }
 ]

@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-07-17T04:56:34.227778+09:00",
-  "label": "04:56",
+  "timestamp": "2026-07-17T05:51:12.633896+09:00",
+  "label": "05:51",
   "items": [
     {
+      "keyword": "부부",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘배그 부부’ 아내 사망 후 근황…“무너지지 않는 아빠 될게” 눈물 예고",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202607161027003"
+      }
+    },
+    {
       "keyword": "원희룡",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모”",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260716220751076"
+      }
+    },
+    {
+      "keyword": "이정효",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이정효가 망친 한 선수 프로 데뷔전... 꿈에 그렸을 순간이 '악몽'이 됐다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716184707318"
+      }
+    },
+    {
+      "keyword": "mu stock",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Why Micron (MU) Stock Is Trading Lower Today",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-mu-stock-trading-230421565.html"
       }
     },
     {
@@ -23,33 +53,23 @@
       }
     },
     {
-      "keyword": "심으뜸",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "천위페이",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "심으뜸, ‘골 때리는 그녀들’ 하차한다…“평생 잊지 못할 추억”",
+        "title": "'긴급 귀국' 안세영 없는데…천위페이는 심유진이 막는다 → 32강+16강 모두 상위 랭커 제압, 8강서 우승후보와 격돌",
         "source": "Daum",
-        "url": "https://v.daum.net/v/3nc58B71aN"
+        "url": "https://v.daum.net/v/5KkEJXYCCp"
       }
     },
     {
-      "keyword": "신혼여행",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "서든어택",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "신혼여행 사진이 왜 이래? '새신부' 박은영 \"약으로 버텨..태풍에 물갈이\" [스타이슈]",
+        "title": "넥슨 서든어택, 21주년 기념 무기 스킨 공모전 실시…당선작 인게임 구현",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716150349161"
-      }
-    },
-    {
-      "keyword": "롤",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이번 주 디즈니+ 뭐 보지?",
-        "source": "톱클래스",
-        "url": "http://topclass.chosun.com/news/articleView.html?idxno=36536"
+        "url": "https://v.daum.net/v/pgtbHlIkYU"
       }
     },
     {
@@ -80,26 +100,6 @@
         "title": "“저패니메이션 따라가기보다는 韓 고유성 살려야 K애니 성공”",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260717014442794"
-      }
-    },
-    {
-      "keyword": "오라클",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "AI 투자로 휘청이는 오라클...회장 자산 한 달 새 186조 원 증발",
-        "source": "YTN 사이언스",
-        "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202607151104597786&s_hcd="
-      }
-    },
-    {
-      "keyword": "수도권 광역급행철도",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“GTX 개통땐 수도권 남부 업무중심지 부상”",
-        "source": "대한경제",
-        "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151321005870293"
       }
     }
   ]
