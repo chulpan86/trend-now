@@ -1980,5 +1980,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-17T03:55:26.512902+09:00",
+    "label": "03:55",
+    "items": [
+      {
+        "keyword": "이동국",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "자식 농사 대박 났네…이동국 아들 이시안, 브라질행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716145104487"
+        }
+      },
+      {
+        "keyword": "반품",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독]쿠팡, '무료 반품' 허들 높여…블랙 컨슈머 막는다",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260716n29423?mid=m02&list=recent&cpcd="
+        }
+      },
+      {
+        "keyword": "india vs england",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Ball by Ball Commentary & Live Score - ENG vs IND, 2nd ODI",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-odi-1496580/ball-by-ball-commentary"
+        }
+      },
+      {
+        "keyword": "주주",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“이러다 40조 털린다” 뿔난 삼성전자 주주들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716170108674"
+        }
+      },
+      {
+        "keyword": "원희룡",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]“원희룡, 김건희 일가에 이익 주려 노선 변경 공모”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716220751076"
+        }
+      },
+      {
+        "keyword": "심으뜸",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "심으뜸, ‘골 때리는 그녀들’ 하차한다…“평생 잊지 못할 추억”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3nc58B71aN"
+        }
+      },
+      {
+        "keyword": "신혼여행",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신혼여행 사진이 왜 이래? '새신부' 박은영 \"약으로 버텨..태풍에 물갈이\" [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716150349161"
+        }
+      },
+      {
+        "keyword": "롤",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이번 주 디즈니+ 뭐 보지?",
+          "source": "톱클래스",
+          "url": "http://topclass.chosun.com/news/articleView.html?idxno=36536"
+        }
+      },
+      {
+        "keyword": "랜스 맥컬러스 주니어",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "MLB 밀워키, 휴스턴과 트레이드로 매컬러스 주니어 영입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260716031600007"
+        }
+      },
+      {
+        "keyword": "애니",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“저패니메이션 따라가기보다는 韓 고유성 살려야 K애니 성공”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717014442794"
+        }
+      }
+    ]
   }
 ]
