@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-17T20:14:21.302237+09:00",
-  "label": "20:14",
+  "timestamp": "2026-07-17T22:04:26.678620+09:00",
+  "label": "22:04",
   "items": [
     {
-      "keyword": "정청래",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[뉴스 즉설]'자꾸 맞는 남자' 정청래의 작전, 때리다 지치는 김민석·송영길 왜?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717061327041"
-      }
-    },
-    {
-      "keyword": "에코프로 비엠",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "에코프로비엠, 유증 추진...“니켈 직접 확보로 원가 격차 실현할 것”",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370398"
-      }
-    },
-    {
-      "keyword": "장한별",
+      "keyword": "한국은행",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "곽튜브가 만만한가..또 일자리 뺏어가려는 트로트 가수 \"출연료 안 받겠다\" 초강수(전현무계획4)",
+        "title": "반도체 주가 아닌 ‘가격’ 보라는 신현송…AI시대 메모리 역설",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716173909151"
+        "url": "https://v.daum.net/v/20260717155155014"
       }
     },
     {
-      "keyword": "맷 데이비슨",
+      "keyword": "xsmb",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[사진]황영묵,'이것으로 승부는 원점'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/07/17/HBSWMOBUHBRTAYJYGVSGKYLCMU/"
+        "title": "Kết quả xổ số miền Bắc hôm nay: Hải Phòng",
+        "source": "Laodong.vn",
+        "url": "https://laodong.vn/ban-doc/ket-qua-xo-so-mien-bac-hom-nay-hai-phong-1736747.ldo"
       }
     },
     {
-      "keyword": "당구",
+      "keyword": "계양구",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "인천 계양구 쓰레기집…이웃 피해에 거주자 건강마저 염려 [현장, 그곳&]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/12rHb1XSyM"
+      }
+    },
+    {
+      "keyword": "bangladesh vs zimbabwe",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Ball by Ball Commentary & Live Score - ZIM vs BAN, 2nd T20I",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/bangladesh-in-zimbabwe-2026-1538288/zimbabwe-vs-bangladesh-2nd-t20i-1538302/ball-by-ball-commentary"
+      }
+    },
+    {
+      "keyword": "정찰기",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[단독] 바다 감시하던 美무인정찰기, 왜 한국 내륙까지 들어왔나",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260717510635"
+      }
+    },
+    {
+      "keyword": "평창대관령음악제",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "조명우 ‘24점차 뒤집기’ 16강서 레가즈피와 격돌…김행직-포톰, 허정한-타스데미르[포르투3쿠션월드컵]",
+        "title": "퀸 엘리자베스 콩쿠르 우승자 에토레 파가노, 평창대관령음악제 공연 ‘불투명’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717100901071"
+        "url": "https://v.daum.net/v/20260716134952811"
       }
     },
     {
-      "keyword": "김다현",
+      "keyword": "cuaca besok",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "송가인, 257주째 정상..스타랭킹 女트롯 압도적 1위",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/0O0LmKqFTe"
+        "title": "BMKG Ungkap Daftar 10 Wilayah Berpotensi Hujan Lebat Hari Ini",
+        "source": "CNN Indonesia",
+        "url": "https://www.cnnindonesia.com/teknologi/20260716234757-641-1381663/bmkg-ungkap-daftar-10-wilayah-berpotensi-hujan-lebat-hari-ini"
       }
     },
     {
-      "keyword": "항공",
+      "keyword": "김지유",
       "traffic_raw": "200+",
       "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "동궁 넷플릭스",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "유류할증료 3개월 연속 인하…9월 재인상 가능성",
+        "title": "남주혁X노윤서X조승우, '동궁'의 저주에 다가간다..오늘(17일) 공개",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717105656909"
+        "url": "https://v.daum.net/v/20260717161707358"
       }
     },
     {
-      "keyword": "음문석",
+      "keyword": "ewc lol",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "음문석, 영화 '호프' 양배로 변신한 강렬 근황",
-        "source": "TopStarNews",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16137672"
-      }
-    },
-    {
-      "keyword": "국군간호사관학교",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“보복? 그러면 육사 없애거나 쪼갰을 것”…국방위원장, 사관학교 통합논란 ‘반박’",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11603289"
-      }
-    },
-    {
-      "keyword": "대전광역시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[포토뉴스] 대전시의회 교육위원회, 제10대 의회 본격 의정활동",
-        "source": "데일리한국",
-        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1386881"
+        "title": "Gen.G leads Korea into EWC League of Legends quarterfinals",
+        "source": "Korea JoongAng Daily",
+        "url": "https://www.koreajoongangdaily.com/sports/geng-leads-korea-into-ewc-league-of-legends-quarterfinals/12778164"
       }
     }
   ]
