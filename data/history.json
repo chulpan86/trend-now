@@ -2204,5 +2204,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-18T05:52:51.476188+09:00",
+    "label": "05:52",
+    "items": [
+      {
+        "keyword": "김종국",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김종국, 결혼 이어 또 깜짝 발표…‘런닝맨’ 초토화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717155751081"
+        }
+      },
+      {
+        "keyword": "포수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "프로야구 SSG, LG에서 방출된 포수 전준호 영입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260716090500007"
+        }
+      },
+      {
+        "keyword": "전략폭격기",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260717056200108"
+        }
+      },
+      {
+        "keyword": "진성준",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대전 자운대에 국군사관학교 창설…“대기업 유치 이상 파급효과”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717083210437"
+        }
+      },
+      {
+        "keyword": "잉글랜드 프랑스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"3·4위전 왜 하나? 패자에 대한 모욕\" 월드컵 92년 전통 폐지 요구 속출…\"선수들도 불만, 돈 버는 방송사만 좋아해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260718003148208"
+        }
+      },
+      {
+        "keyword": "강릉시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "강릉시민사회단체, ‘ITS세계총회 성공 개최’ 한마음",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8613198"
+        }
+      },
+      {
+        "keyword": "여론 조사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "특검, '명태균 여론조사' 尹 유죄판결 내용 오세훈 재판부에 제시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260716195400004"
+        }
+      },
+      {
+        "keyword": "배달",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[단독] “순위 밀리면 운임 깎인다”…배달라이더 위험 내모는 ‘등급제’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1268679.html"
+        }
+      },
+      {
+        "keyword": "신도평화대교",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "개통 사흘만에 무슨 일…신도평화대교, 교통 마비 '전면 통제'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717134030112"
+        }
+      },
+      {
+        "keyword": "kone",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Chelsea elbow Man Utd aside in race for France World Cup star as BlueCo ramp up talks",
+          "source": "TEAMtalk",
+          "url": "https://www.teamtalk.com/chelsea/manu-kone-transfer-news-chelsea-talks-man-utd-battle"
+        }
+      }
+    ]
   }
 ]
