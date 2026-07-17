@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-18T06:41:28.517514+09:00",
-  "label": "06:41",
+  "timestamp": "2026-07-18T07:38:28.904079+09:00",
+  "label": "07:38",
   "items": [
     {
-      "keyword": "태풍",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "12호 태풍 노을 발생,현재 위치 및 예상경로.'13호 돌핀', '14호 구지라' 첫 한국행은?...2026년 장마기간!",
-        "source": "이코노미톡뉴스",
-        "url": "http://www.economytalk.kr/news/articleView.html?idxno=422802"
-      }
-    },
-    {
-      "keyword": "김종국",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "김종국, 결혼 이어 또 깜짝 발표…‘런닝맨’ 초토화",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717155751081"
-      }
-    },
-    {
-      "keyword": "영화",
+      "keyword": "현대자동차",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "영화 ‘호프’ 개봉 사흘 만에 100만 돌파... 올해 개봉작 중 가장 빠르다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/culture-life/culture_general/2026/07/17/WQVRHFTSQVDSXGIDKWKVNVJ3JM/"
-      }
-    },
-    {
-      "keyword": "배구",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "여자배구 정관장, 지도자 관련 사안에 공식 사과…\"조사에 성실히 협조\"",
+        "title": "“로봇 노동자 때문에”…현대차 노조 파업에 외신이 주목하는 이유 [잇슈 머니]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717222951489"
+        "url": "https://v.daum.net/v/6Mbg5NoMTm"
       }
     },
     {
-      "keyword": "나성범",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "필라델피아 반도체 지수",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "나성범이 치고 이의리가 지켰다…KIA, 6-3승",
+        "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717214029171"
+        "url": "https://v.daum.net/v/20260718054841086"
       }
     },
     {
-      "keyword": "근육",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "중앙일보",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/It/article/all/20260715/134307021/2"
-      }
-    },
-    {
-      "keyword": "배드민턴",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "11:3→20:22 김가은, 日 에이스에 통한의 역전패…韓 배드민턴 여자단식, 일본 오픈 8강서 '전원 탈락'",
+        "title": "중앙 워크아웃, 계열사 각자도생… JTBC와 통합노조도 분리 수순",
         "source": "Daum",
-        "url": "https://v.daum.net/v/5kEFkdMVGC"
+        "url": "https://v.daum.net/v/20260715092148059"
       }
     },
     {
-      "keyword": "전략폭격기",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "종합부동산세",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260717056200108"
-      }
-    },
-    {
-      "keyword": "진성준",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "대전 자운대에 국군사관학교 창설…“대기업 유치 이상 파급효과”",
+        "title": "“올해 파느냐 내년에 파느냐에 7억 갈린다”…세제 개편 앞둔 ‘1주택자’의 절세법은 [잘살아보세]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717083210437"
+        "url": "https://v.daum.net/v/20260718053509020"
       }
     },
     {
-      "keyword": "손담비",
+      "keyword": "spcx",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "tqqq",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Independent Financial Group LLC Buys New Position in ProShares UltraPro QQQ $TQQQ",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-independent-financial-group-llc-buys-new-position-in-proshares-ultrapro-qqq-tqqq-2026-07-17/"
+      }
+    },
+    {
+      "keyword": "天気",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'21kg 감량' 손담비, 샌드위치 하나도 다 안 먹네…\"양심에 찔려\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qTkIp8V7Yt"
+        "title": "3連休 関東以西は急な雷雨に注意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588343"
+      }
+    },
+    {
+      "keyword": "부산날씨",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "부산·울산·경남 가끔 비…낮 최고 29∼33도",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260718009200057"
+      }
+    },
+    {
+      "keyword": "nvda",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA)",
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4922631-nvidia-the-tsmc-earnings-release-was-a-warning-shot"
+      }
+    },
+    {
+      "keyword": "애플 주가",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260717063900072"
       }
     }
   ]
