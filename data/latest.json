@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-18T07:38:28.904079+09:00",
-  "label": "07:38",
+  "timestamp": "2026-07-18T08:42:30.645413+09:00",
+  "label": "08:42",
   "items": [
     {
-      "keyword": "현대자동차",
+      "keyword": "수성구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "폭우로 통제된 대구 신천동로 10시간 만에 교통 재개",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718064841728"
+      }
+    },
+    {
+      "keyword": "2026",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“로봇 노동자 때문에”…현대차 노조 파업에 외신이 주목하는 이유 [잇슈 머니]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6Mbg5NoMTm"
+        "title": "Live Updates: 2026 NBA Summer League, Day 9 | Kings-Hornets opens Friday's action",
+        "source": "NBA.com",
+        "url": "https://www.nba.com/news/live-updates-2026-nba-summer-league-day-9"
       }
     },
     {
-      "keyword": "필라델피아 반도체 지수",
+      "keyword": "weather",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "GX94 Precision Weather Forecast – Fri. July 17, 2026 (4:30 p.m.)",
+        "source": "GX94 Radio",
+        "url": "https://www.gx94radio.com/2026/07/17/gx94-precision-weather-forecast-fri-july-17-2026-430-p-m/"
+      }
+    },
+    {
+      "keyword": "테슬라",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "테슬라, 자율주행 구독제 도입…소프트웨어 수익모델 강화",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260717090250844?f=p"
+      }
+    },
+    {
+      "keyword": "สภาพอากาศ",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "สภาพอากาศวันนี้ -23 ก.ค.ไทยฝนฟ้าคะนอง เหนือ -กลาง เตรียมรับฝนเพิ่ม",
+        "source": "thansettakij",
+        "url": "https://www.thansettakij.com/general-news/664245"
+      }
+    },
+    {
+      "keyword": "天气",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "政府启动暴雨应急响应……周末“灾难关口”4大脆弱因素叠加(综合)",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/cn/article/2026071718374235001"
+      }
+    },
+    {
+      "keyword": "수사",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)",
+        "title": "장윤기 휴대폰 속 이름만 보고… 경찰, 여고생 ‘2차 가해’ 논란",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718054841086"
+        "url": "https://v.daum.net/v/20260718004914307"
       }
     },
     {
-      "keyword": "중앙일보",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "중앙 워크아웃, 계열사 각자도생… JTBC와 통합노조도 분리 수순",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715092148059"
-      }
-    },
-    {
-      "keyword": "종합부동산세",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“올해 파느냐 내년에 파느냐에 7억 갈린다”…세제 개편 앞둔 ‘1주택자’의 절세법은 [잘살아보세]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260718053509020"
-      }
-    },
-    {
-      "keyword": "spcx",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "tqqq",
+      "keyword": "전시 작전통제권",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Independent Financial Group LLC Buys New Position in ProShares UltraPro QQQ $TQQQ",
-        "source": "MarketBeat",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-independent-financial-group-llc-buys-new-position-in-proshares-ultrapro-qqq-tqqq-2026-07-17/"
+        "title": "지휘권 넘겨받아도 '지휘 능력'이 없다 … 2028 전작권 조기 전환의 민낯",
+        "source": "뉴데일리",
+        "url": "https://www.newdaily.co.kr/site/data/html/2026/07/16/2026071600261.html"
       }
     },
     {
-      "keyword": "天気",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "tsla",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "3連休 関東以西は急な雷雨に注意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588343"
-      }
-    },
-    {
-      "keyword": "부산날씨",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "부산·울산·경남 가끔 비…낮 최고 29∼33도",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260718009200057"
-      }
-    },
-    {
-      "keyword": "nvda",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA)",
+        "title": "Tesla: The Bull Case Is Falling Apart (NASDAQ:TSLA)",
         "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4922631-nvidia-the-tsmc-earnings-release-was-a-warning-shot"
+        "url": "https://seekingalpha.com/article/4922487-tesla-the-bull-case-is-falling-apart-reiterate-sell"
       }
     },
     {
-      "keyword": "애플 주가",
+      "keyword": "경기도교육감",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+        "title": "\"교사의 교육권 보장하라!\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260717063900072"
+        "url": "https://www.yna.co.kr/view/PYH20260717064500013"
       }
     }
   ]
