@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T00:18:04.162706+09:00",
-    "label": "00:18",
-    "items": [
-      {
-        "keyword": "법원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보] '채상병 수사정보 누설' 이시원 전 공직기강비서관 구속영장 기각",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6837748_36918.html"
-        }
-      },
-      {
-        "keyword": "부고",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260715131526099"
-        }
-      },
-      {
-        "keyword": "배용준",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "유아인, '복귀설'에도 흰머리는 그대로…달라진 비주얼+밝은 표정 [엑's 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715083307120"
-        }
-      },
-      {
-        "keyword": "zimbabwe vs bangladesh",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "ZIM vs BAN Cricket Scorecard, 1st T20I at Bulawayo, July 15, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/bangladesh-in-zimbabwe-2026-1538288/zimbabwe-vs-bangladesh-1st-t20i-1538301/full-scorecard"
-        }
-      },
-      {
-        "keyword": "레이더",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "기상레이더 관측망 확대… 홍수레이더 이관·공항 레이더 추가",
-          "source": "에너지데일리",
-          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201424"
-        }
-      },
-      {
-        "keyword": "대한민국 fa컵",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "K리그2 천안시티, K3 목포에 승리…연패 탈출 성공",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260715_0003711186"
-        }
-      },
-      {
-        "keyword": "ppi 발표",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "미 6월 생산자물가 전월대비 0.3%↓…예상 밖 하락(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715222948650"
-        }
-      },
-      {
-        "keyword": "어쌔신 크리드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "어쌔신 크리드 코드네임 헥세: 가격 공개 및 선형적 게임플레이로의 전환.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/assassin-s-creed-codename-hexe-lo-dien-gia-ban-va-buoc-chuyen-minh-sang-loi-choi-tuyen-tinh"
-        }
-      },
-      {
-        "keyword": "캐시워크 정답",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 15일",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202607150077"
-        }
-      },
-      {
-        "keyword": "택배",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "국토부, 택배 현장 편법 계약 실태 전수 점검‥\"위반 시 엄중 조치\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6837681_36932.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-16T02:05:08.312181+09:00",
     "label": "02:05",
     "items": [
@@ -2304,6 +2198,108 @@
           "source": "Daum",
           "url": "https://v.daum.net/v/8t4TZie4S5"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-17T13:54:16.393302+09:00",
+    "label": "13:54",
+    "items": [
+      {
+        "keyword": "최태원",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717103953584"
+        }
+      },
+      {
+        "keyword": "mlb",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "World Cup isn’t putting a dent in local MLB game tune-in",
+          "source": "Sports Business Journal",
+          "url": "https://www.sportsbusinessjournal.com/Articles/2026/07/14/world-cup-isnt-putting-a-dent-in-local-mlb-game-tune-in/"
+        }
+      },
+      {
+        "keyword": "송성문",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"ML 모든 게 힘들다, 다시 한국에 돌아간다면…\" 송성문 솔직 고백, 그런데 이렇게 빨리 적응하다니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Kb22h8V7vX"
+        }
+      },
+      {
+        "keyword": "에어컨",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "폭염이 키운 에어컨 전쟁…유럽서 웃는 한·중·일",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717090209819"
+        }
+      },
+      {
+        "keyword": "신진 서 카 타고",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "카타고, 초반부터 변칙 수…홍민표 감독 \"평생 처음 보는 수\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260717029300007"
+        }
+      },
+      {
+        "keyword": "윌리암 살리바",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "월드컵 탈락에 들끓은 프랑스…'분풀이 난동'에 최소 200명 체포 · 사건 전말은?",
+          "source": "https://spt.co.kr/",
+          "url": "https://supple.kr/news/cmrneicjg000m8xl7irvcdmbd"
+        }
+      },
+      {
+        "keyword": "메가박스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[포커스] 메가박스 회생절차, 한국영화의 산업붕괴로 이어지지 않도록",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110358"
+        }
+      },
+      {
+        "keyword": "박경림",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박경림 자식농사 대박, 전교회장 출신 고2…“키 크고 잘 생겨”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717073837793"
+        }
+      },
+      {
+        "keyword": "박승규",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"같은 운동선수라 버틸 수 있었다\"…'박승규♥' 예비신부, 결혼 발표 후 첫 심경 \"함께할 미래 꿈꿨다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/puCvwbztSd"
+        }
+      },
+      {
+        "keyword": "슈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
       }
     ]
   }

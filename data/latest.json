@@ -1,102 +1,102 @@
 {
-  "timestamp": "2026-07-17T10:46:59.273821+09:00",
-  "label": "10:46",
+  "timestamp": "2026-07-17T13:54:16.393302+09:00",
+  "label": "13:54",
   "items": [
     {
-      "keyword": "선우용여",
+      "keyword": "최태원",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260717103953584"
+      }
+    },
+    {
+      "keyword": "mlb",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "전원주, 하루 400만 원 숙소 듣고 기절…선우용여 통 큰 선물",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717073037726"
+        "title": "World Cup isn’t putting a dent in local MLB game tune-in",
+        "source": "Sports Business Journal",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/07/14/world-cup-isnt-putting-a-dent-in-local-mlb-game-tune-in/"
       }
     },
     {
-      "keyword": "키옥시아 주가",
+      "keyword": "송성문",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "왕년의 낸드 최강자 日 키옥시아, AI용 차세대 양산서 삼성전자·SK하이닉스 앞서",
+        "title": "\"ML 모든 게 힘들다, 다시 한국에 돌아간다면…\" 송성문 솔직 고백, 그런데 이렇게 빨리 적응하다니",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717070252438"
+        "url": "https://v.daum.net/v/Kb22h8V7vX"
       }
     },
     {
-      "keyword": "워터파크",
+      "keyword": "에어컨",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"지켜주지 못해 미안해\" 워터파크서 숨진 7살 아이 어머니 글에 추모 물결",
+        "title": "폭염이 키운 에어컨 전쟁…유럽서 웃는 한·중·일",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716172800675"
+        "url": "https://v.daum.net/v/20260717090209819"
       }
     },
     {
-      "keyword": "두산베어스",
+      "keyword": "신진 서 카 타고",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "카타고, 초반부터 변칙 수…홍민표 감독 \"평생 처음 보는 수\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260717029300007"
+      }
+    },
+    {
+      "keyword": "윌리암 살리바",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "월드컵 탈락에 들끓은 프랑스…'분풀이 난동'에 최소 200명 체포 · 사건 전말은?",
+        "source": "https://spt.co.kr/",
+        "url": "https://supple.kr/news/cmrneicjg000m8xl7irvcdmbd"
+      }
+    },
+    {
+      "keyword": "메가박스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[포커스] 메가박스 회생절차, 한국영화의 산업붕괴로 이어지지 않도록",
+        "source": "씨네21",
+        "url": "https://cine21.com/news/view/?mag_id=110358"
+      }
+    },
+    {
+      "keyword": "박경림",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“순위싸움 부담 없이 해라? 패잔병들의 핑계...두산 2위도 가능” 52억 마무리의 일침, 5위팀 정신무장 외치다 [오!쎈 인터뷰]",
+        "title": "박경림 자식농사 대박, 전교회장 출신 고2…“키 크고 잘 생겨”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716124237774"
+        "url": "https://v.daum.net/v/20260717073837793"
       }
     },
     {
-      "keyword": "김보미",
+      "keyword": "박승규",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "李 대통령, '정청래 직격' 36세 김보미 당 대표 후보 'X' 팔로우",
+        "title": "\"같은 운동선수라 버틸 수 있었다\"…'박승규♥' 예비신부, 결혼 발표 후 첫 심경 \"함께할 미래 꿈꿨다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4zimfvhDGG"
+        "url": "https://v.daum.net/v/puCvwbztSd"
       }
     },
     {
-      "keyword": "유학생",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "공부는 4년만, 고국으로 가라…美, 유학생 비자 4년 제한",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717094708615"
-      }
-    },
-    {
-      "keyword": "3기 신도시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "3기 신도시 1,2년 당겨 착공… 서울 신규 주택공급지 이달 발표",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20260716/134315518/2"
-      }
-    },
-    {
-      "keyword": "롯데시네마",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "태극기",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "오늘 제헌절… 손바닥으로 태극기 찍기, 누가 잘하나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717005009495"
-      }
-    },
-    {
-      "keyword": "송하윤",
+      "keyword": "슈",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "혐의없음 뒤집혔다…송하윤 측 \"학폭 제보자 검찰 송치, 최종판단 기다려\"[공식입장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/8t4TZie4S5"
-      }
+      "news": null
     }
   ]
 }
