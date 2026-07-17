@@ -2098,5 +2098,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-18T03:06:49.177874+09:00",
+    "label": "03:06",
+    "items": [
+      {
+        "keyword": "아덴 만",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "아덴만 유조선에 무단 승선…\"한국 군함 향하는 중\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260717057900108"
+        }
+      },
+      {
+        "keyword": "김용빈",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[TV조선] 임창정이 부른 명곡에 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717004153429"
+        }
+      },
+      {
+        "keyword": "오은영 리포트 - 결혼지옥",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'배그 부부' 아내 투병 끝 사망…\"또 나만 살아있구나\" 남편 근황 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071617085150853"
+        }
+      },
+      {
+        "keyword": "더중앙플러스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "창신메모리 상장, '삼전닉스' 주가 하락 부추겼나?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2v1sW31yUT"
+        }
+      },
+      {
+        "keyword": "김송",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김송, 돌연 사과…\"전액 환불 결정\" 판매 중단 공지 [전문]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/17/GE3GKMRZG4ZDCZRXHFSDQMRWGQ/"
+        }
+      },
+      {
+        "keyword": "도란",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“이번에도 BLG가 이긴다”…中, T1과 EWC 리벤지전서 승리 전망, 해외 예측 플랫폼은?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716150233101"
+        }
+      },
+      {
+        "keyword": "프랑스 잉글랜드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'결승전보다 더 피 터지는' 프랑스 vs 잉글랜드…3위 쟁탈전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Uzy14JRf1h"
+        }
+      },
+      {
+        "keyword": "김예림",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'정신병원 강제입원' 도대윤 \"장범준 매니저로 근무..거절하는 업무만\"[해투][별별TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5PWDKVKpTT"
+        }
+      },
+      {
+        "keyword": "al",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘Today’ Anchor Craig Melvin Chases Intruder From 30 Rock as Show Airs",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/16/us/craig-melvin-today-show-intruder.html"
+        }
+      },
+      {
+        "keyword": "백령도",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "인천 백령·연평 등 서해5도 20일부터 여객선 야간 운항 허용",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/UC1oFbztyF"
+        }
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-18T01:59:33.314954+09:00",
-  "label": "01:59",
+  "timestamp": "2026-07-18T03:06:49.177874+09:00",
+  "label": "03:06",
   "items": [
     {
       "keyword": "아덴 만",
@@ -13,13 +13,13 @@
       }
     },
     {
-      "keyword": "김부장 드라마",
+      "keyword": "김용빈",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[종합] '김부장' 소지섭 납북 엔딩…주상욱 분노의 복수 예고",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260717n14119"
+        "title": "[TV조선] 임창정이 부른 명곡에 도전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260717004153429"
       }
     },
     {
@@ -30,26 +30,6 @@
         "title": "'배그 부부' 아내 투병 끝 사망…\"또 나만 살아있구나\" 남편 근황 - 머니투데이",
         "source": "머니투데이",
         "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071617085150853"
-      }
-    },
-    {
-      "keyword": "t1 한화",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Gen.G leads Korea into EWC League of Legends quarterfinals",
-        "source": "Korea JoongAng Daily",
-        "url": "https://www.koreajoongangdaily.com/sports/geng-leads-korea-into-ewc-league-of-legends-quarterfinals/12778164"
-      }
-    },
-    {
-      "keyword": "문샷",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "문샷, 2.8조 매개변수 '키미 K3' 공개...세계 3위 성능으로 도약",
-        "source": "AI타임스",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=212881"
       }
     },
     {
@@ -73,13 +53,33 @@
       }
     },
     {
-      "keyword": "김상혁",
+      "keyword": "도란",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김상혁, 사업가로 대박 \"월 매출, 대기업 연봉 이상\" [신랑수업2][★밤TView]",
+        "title": "“이번에도 BLG가 이긴다”…中, T1과 EWC 리벤지전서 승리 전망, 해외 예측 플랫폼은?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718003410224"
+        "url": "https://v.daum.net/v/20260716150233101"
+      }
+    },
+    {
+      "keyword": "프랑스 잉글랜드",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'결승전보다 더 피 터지는' 프랑스 vs 잉글랜드…3위 쟁탈전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Uzy14JRf1h"
+      }
+    },
+    {
+      "keyword": "김예림",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'정신병원 강제입원' 도대윤 \"장범준 매니저로 근무..거절하는 업무만\"[해투][별별TV]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/5PWDKVKpTT"
       }
     },
     {
@@ -87,9 +87,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Licensable picture: Al-Quds Mosque reopens in Syria with Turkiye's support",
-        "source": "Reuters Connect",
-        "url": "https://www.reutersconnect.com/item/al-quds-mosque-reopens-in-syria-with-turkiyes-support/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTk41TVVU"
+        "title": "‘Today’ Anchor Craig Melvin Chases Intruder From 30 Rock as Show Airs",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/16/us/craig-melvin-today-show-intruder.html"
       }
     },
     {
