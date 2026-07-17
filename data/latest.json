@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-17T08:49:54.539054+09:00",
-  "label": "08:49",
+  "timestamp": "2026-07-17T10:46:59.273821+09:00",
+  "label": "10:46",
   "items": [
     {
-      "keyword": "석유",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "선우용여",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "좁아지는 호르무즈…미 '이란 항구 봉쇄' 재개 첫날 13척만 통과",
+        "title": "전원주, 하루 400만 원 숙소 듣고 기절…선우용여 통 큰 선물",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717073952806"
+        "url": "https://v.daum.net/v/20260717073037726"
       }
     },
     {
-      "keyword": "모욕",
+      "keyword": "키옥시아 주가",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "16기 영숙, 상철 사생활 폭로전 마무리…대법원서 벌금형 확정 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071622390389643"
-      }
-    },
-    {
-      "keyword": "thời tiết",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Đề phòng ngập, úng, thiếu nước sinh hoạt do ảnh hưởng mưa lớn ở miền Bắc",
-        "source": "BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG",
-        "url": "https://mae.gov.vn/e-phong-ngap-ung-thieu-nuoc-sinh-hoat-do-anh-huong-mua-lon-o-mien-bac-22294.htm"
-      }
-    },
-    {
-      "keyword": "สภาพอากาศ",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 39 จังหวัด เตือน ฝนถล่มหนัก | Khaosod",
-        "source": "LINE TODAY",
-        "url": "https://today.line.me/th/v3/article/l2K9oJG"
-      }
-    },
-    {
-      "keyword": "김호령",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'올러 무너지고, 타선도 침묵했다' KIA, SSG에 0-6 완패",
+        "title": "왕년의 낸드 최강자 日 키옥시아, AI용 차세대 양산서 삼성전자·SK하이닉스 앞서",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260716222042242"
+        "url": "https://v.daum.net/v/20260717070252438"
       }
     },
     {
-      "keyword": "에이치엘비",
+      "keyword": "워터파크",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[특징주] HLB, 간암 신약 美승인 문제 해소 기대에 상한가(종합)",
+        "title": "\"지켜주지 못해 미안해\" 워터파크서 숨진 7살 아이 어머니 글에 추모 물결",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715155849975?sicode=01"
+        "url": "https://v.daum.net/v/20260716172800675"
       }
     },
     {
-      "keyword": "거제대교",
+      "keyword": "두산베어스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "통영 구 거제대교서 해상 추락 발생…해경 수색 착수",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260716013600052"
+        "title": "“순위싸움 부담 없이 해라? 패잔병들의 핑계...두산 2위도 가능” 52억 마무리의 일침, 5위팀 정신무장 외치다 [오!쎈 인터뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716124237774"
       }
     },
     {
-      "keyword": "스토킹",
+      "keyword": "김보미",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“어디로 가면 돼?”…양치승, 최강희 스토킹 피해에 분노",
+        "title": "李 대통령, '정청래 직격' 36세 김보미 당 대표 후보 'X' 팔로우",
         "source": "Daum",
-        "url": "https://v.daum.net/v/GpzWmKqFWK"
+        "url": "https://v.daum.net/v/4zimfvhDGG"
       }
     },
     {
-      "keyword": "비트코인",
+      "keyword": "유학생",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[코인시세] 비트코인, 상승 흐름…6만5천 달러선 안착 시도",
+        "title": "공부는 4년만, 고국으로 가라…美, 유학생 비자 4년 제한",
         "source": "Daum",
-        "url": "https://v.daum.net/v/GcIwbYTsGj"
+        "url": "https://v.daum.net/v/20260717094708615"
       }
     },
     {
-      "keyword": "mls",
+      "keyword": "3기 신도시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "3기 신도시 1,2년 당겨 착공… 서울 신규 주택공급지 이달 발표",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260716/134315518/2"
+      }
+    },
+    {
+      "keyword": "롯데시네마",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "태극기",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "오늘 제헌절… 손바닥으로 태극기 찍기, 누가 잘하나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260717005009495"
+      }
+    },
+    {
+      "keyword": "송하윤",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "MLS return storylines: Berhalter’s future, Son’s goal drought and what’s next for Messi?",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/16/mls-return-storylines-messi-son-berhalter"
+        "title": "혐의없음 뒤집혔다…송하윤 측 \"학폭 제보자 검찰 송치, 최종판단 기다려\"[공식입장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/8t4TZie4S5"
       }
     }
   ]
