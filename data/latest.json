@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-17T16:10:27.728879+09:00",
-  "label": "16:10",
+  "timestamp": "2026-07-17T18:46:59.408512+09:00",
+  "label": "18:46",
   "items": [
     {
-      "keyword": "한동훈",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "정몽규",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'완전 폐지' 강경파 강공에도…\"보완수사권 유지해야\" 61%, 호남서도 절반 넘겨",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717144656000"
+        "title": "“박지성이 뭘 안다고…정몽규는 13년 희생” 전북축구협회장의 말",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11603222"
       }
     },
     {
-      "keyword": "대만",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "대만에 퍼지는 '부산병'…김해·울산·창원까지 '영남 N차' 발길",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/4Z8t0EAiZ8"
-      }
-    },
-    {
-      "keyword": "김태형",
+      "keyword": "당대표",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"아예 공도 못 쫓아간다\" 갈 길은 바쁜데…나승엽-윤동희-전준우, 롯데 지원군 가세는 언제쯤 이뤄질까",
+        "title": "李 대통령, '정청래 직격' 36세 김보미 당 대표 후보 'X' 팔로우",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717105350839"
+        "url": "https://v.daum.net/v/20260716215127774"
       }
     },
     {
-      "keyword": "송해나",
+      "keyword": "호프 쿠키 영상",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "영화 ‘호프’ 개봉 사흘째 100만 돌파... 올해 개봉작 중 가장 빠르다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/culture_general/2026/07/17/WQVRHFTSQVDSXGIDKWKVNVJ3JM/"
+      }
+    },
+    {
+      "keyword": "산사태",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'결별' 김요한, 결국 짐 쌌다",
+        "title": "제헌절 연휴 전국에 집중호우 예보…농업시설 긴급점검",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260717153900866"
+      }
+    },
+    {
+      "keyword": "권창훈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "권창훈, 인니 페르시자 자카르타로 이적…신태용 감독과 한솥밥",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260717050800007"
+      }
+    },
+    {
+      "keyword": "항공사",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "파라타항공, 하늘 위에서 즐기는 특별한 미식 경험",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260716_0003712291"
+        "url": "https://www.newsis.com/view/NISI20260716_0021365882"
       }
     },
     {
-      "keyword": "한겨레",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "내년 최저임금 시간당 1만 700원 올해보다 3.7% 인상",
-        "source": "K-공감",
-        "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10201000000&section_id=NCCD_POLICY&content=NC002&code_cd=0101000000&nPage=1&b_list=9&news_id=1c530477-bfcd-45a1-9b24-712d5f18faf5"
-      }
-    },
-    {
-      "keyword": "수익",
+      "keyword": "최정",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"급등이다!\" 개미 환호 하루만에 끝…삼전닉스 급락 \"이젠 중기 조정\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/07/16/2026071615381474173"
+        "title": "프로야구 SSG 최정, 왼쪽 골반 통증으로 엔트리 말소",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8613708"
       }
     },
     {
-      "keyword": "한국수력원자력",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "이윤지",
+      "keyword": "이다해",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이윤지, '폭풍성장' 붕어빵 두 딸과 여행 \"너흰 좋겠다!\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Xxjx3aLxW5"
+        "title": "이다해, 결혼 3년 만 임신 근황… \"현재 18주차, 태명은 해븐\"",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026071710290002016"
       }
     },
     {
-      "keyword": "국민주권",
+      "keyword": "강릉역",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이 대통령, \"12·3 국민주권의 역사로 이어갈 것\"‥오늘 '빛의 위원회' 시민 초청",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6838138_36911.html"
+        "title": "강릉 남부권 숙원 'KTX 남강릉역'…김중남 시정서 첫 삽 뜰까",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/local/kangwon/6230958"
       }
     },
     {
-      "keyword": "이상일",
+      "keyword": "intel",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이상일 용인시장, 노인대학 종강식서 복지정책 확대 계획 밝혀",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3638344"
+        "title": "INTC Stock Falls To 2-Month Low – Susquehanna Sees 20% Upside, Google Cloud Deepens Its AI Bet",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/intc-stock-falls-2-month-173430067.html"
       }
     }
   ]
