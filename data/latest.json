@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-18T19:09:14.688255+09:00",
-  "label": "19:09",
+  "timestamp": "2026-07-18T20:44:28.786690+09:00",
+  "label": "20:44",
   "items": [
     {
       "keyword": "선우용여",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "선우용여, 전원주에 \"자기 멋대로…뻔뻔스러워져\"",
         "source": "뉴시스",
@@ -13,43 +13,75 @@
       }
     },
     {
-      "keyword": "임채무",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "대전 대 울산",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": null
+    },
+    {
+      "keyword": "강원 대 김천상무",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "“직원 26명에 아파트 선물”…190억 빚 임채무, 이번엔 발달장애인 위해 나섰다",
+        "title": "강원FC, 내일 김천 상대 홈경기…속초시민 할인",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718104501460"
+        "url": "https://v.daum.net/v/q6Y5X1XSSM"
       }
     },
     {
-      "keyword": "마르크 쿠쿠 레야",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "공무원시험",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "폭탄 발언! 27살인데 \"월드컵 우승하면 다음 날 은퇴\" WC 도중 레알 마드리드 이적한 쿠쿠레야 공약 재조명…감독 얼굴 문신까지 예고",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260718n04341"
+        "title": "인사혁신처 \"국가공무원 '7급 공채' 1차 필기시험 잠정 응시율 61.1%\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718164411246"
       }
     },
     {
-      "keyword": "페덱",
+      "keyword": "tving",
       "traffic_raw": "500+",
       "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "송진우",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "페덱 라팍 마운드 올라 투구 동작→박진만도 깜놀! \"외인 투수가 저런 모습 처음, 그만큼 의욕 넘쳐\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260718160237894"
+        "title": "동상이몽2_너는 내 운명 : 송진우, 터질듯한 수집품으로 방 2개 가득 채워 쪽방 신세 지는 가족들",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&type=ucc&content_id=OC480722423"
       }
     },
     {
-      "keyword": "mlb",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "펩 과르디올라",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "MLB games today: Schedule, times, how to watch for July 18",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/sports/mlb/2026/07/18/mlb-games-today-schedule-times-tv-07182026/90965102007/"
+        "title": "충격 폭로! \"과르디올라, 잉글랜드와 구두 합의까지 마쳤었다\"…英, 월드컵 우승할 수도 있었는데 \"최종 단계서 변심→FA는 투헬 선임\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718121210479"
+      }
+    },
+    {
+      "keyword": "오싹한 연애",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "귀신 보는 박은빈, 소지섭·남궁민·지성 잡을까…'오싹한 연애' D-DAY - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/18/2026071815307295685"
+      }
+    },
+    {
+      "keyword": "브라이슨 디섐보",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "디섐보, 디오픈서 '라이 개선'으로 벌타…람은 클럽 던져 경고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Wu5barEo1U"
       }
     },
     {
@@ -57,46 +89,6 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": null
-    },
-    {
-      "keyword": "kia vs ssg",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "SSG manager Lee highlights rookie Kim's need to handle poor-condition pitching - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/07/18/ZEZCYY6XVVD4HOCQDV2PTZXTFY/"
-      }
-    },
-    {
-      "keyword": "용인반도체클러스터",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘직주근접’ 넘어 ‘다(多)세권’ 아파트 뜬다",
-        "source": "대한경제",
-        "url": "https://m.dnews.co.kr/m_home/view.jsp?idxno=202607150921127910208"
-      }
-    },
-    {
-      "keyword": "이소라",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이소라·크러쉬·권진아·연준, 성시경과 환상의 시너지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260718111410808"
-      }
-    },
-    {
-      "keyword": "브라이슨 디섐보",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "디섐보, 디오픈서 '라이 개선'으로 벌타…람은 클럽 던져 경고",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Wu5barEo1U"
-      }
     }
   ]
 }
