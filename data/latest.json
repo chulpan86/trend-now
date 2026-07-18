@@ -1,83 +1,51 @@
 {
-  "timestamp": "2026-07-18T20:44:28.786690+09:00",
-  "label": "20:44",
+  "timestamp": "2026-07-18T21:51:59.720833+09:00",
+  "label": "21:51",
   "items": [
     {
-      "keyword": "선우용여",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "선우용여, 전원주에 \"자기 멋대로…뻔뻔스러워져\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260718_0003713637"
-      }
-    },
-    {
-      "keyword": "대전 대 울산",
+      "keyword": "제헌절",
       "traffic_raw": "5000+",
       "traffic": 5000,
-      "news": null
-    },
-    {
-      "keyword": "강원 대 김천상무",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
       "news": {
-        "title": "강원FC, 내일 김천 상대 홈경기…속초시민 할인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/q6Y5X1XSSM"
+        "title": "이승만 아닌 신익희 앞세운 국회... 野, 제헌절 행사에 \"부적절 처사\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/assembly/2026/07/18/A6QXLMZPTBCHVIYSEYQBYWHEDY/"
       }
     },
     {
-      "keyword": "공무원시험",
+      "keyword": "s&p 500",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "인사혁신처 \"국가공무원 '7급 공채' 1차 필기시험 잠정 응시율 61.1%\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260718164411246"
+        "title": "The S&P 500 is breaking the earnings playbook: Chart of the Day",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/the-sp-500-is-breaking-the-earnings-playbook-chart-of-the-day-115602014.html"
       }
     },
     {
-      "keyword": "tving",
+      "keyword": "xsmb",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Xổ số miền Nam ngày 18 tháng 7: Một người vừa trúng cọc vé đài Hậu Giang",
+        "source": "Thanh Niên",
+        "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-7-mot-nguoi-vua-trung-coc-ve-dai-hau-giang-185260718172238631.htm"
+      }
+    },
+    {
+      "keyword": "k리그1",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "송진우",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
-        "title": "동상이몽2_너는 내 운명 : 송진우, 터질듯한 수집품으로 방 2개 가득 채워 쪽방 신세 지는 가족들",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&type=ucc&content_id=OC480722423"
+        "title": "\"골 결정력, 크로스 정확도 개선해야 해\" 연패 탈출 다짐한 윤정환 인천 감독",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260718n09251"
       }
     },
     {
-      "keyword": "펩 과르디올라",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "충격 폭로! \"과르디올라, 잉글랜드와 구두 합의까지 마쳤었다\"…英, 월드컵 우승할 수도 있었는데 \"최종 단계서 변심→FA는 투헬 선임\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260718121210479"
-      }
-    },
-    {
-      "keyword": "오싹한 연애",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "귀신 보는 박은빈, 소지섭·남궁민·지성 잡을까…'오싹한 연애' D-DAY - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/18/2026071815307295685"
-      }
-    },
-    {
-      "keyword": "브라이슨 디섐보",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "브라이슨 디 섐보",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "디섐보, 디오픈서 '라이 개선'으로 벌타…람은 클럽 던져 경고",
         "source": "Daum",
@@ -85,10 +53,54 @@
       }
     },
     {
-      "keyword": "밤하늘",
+      "keyword": "한두솔",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
+      "news": {
+        "title": "프로야구 SSG 최정, 왼쪽 골반 통증으로 엔트리 말소",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260717048600007"
+      }
+    },
+    {
+      "keyword": "전남 대 충남 아산 fc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "코리아컵서 4-3 승리하고 또 광양 원정…전남과 또 만나는 충남아산, 김종민 앞세워 승리 조준",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260718n04206"
+      }
+    },
+    {
+      "keyword": "뷰캐넌",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'前 삼성' 뷰캐넌, 라팍 전격 방문! 대만 올스타 휴식기 맞아 친정팀 찾았다 \"개인 자격으로 롯데전 관람 예정\" [대구 현장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718171707533"
+      }
+    },
+    {
+      "keyword": "맨유",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "계륵이 돌아왔다…맨유, 래시포드 복귀에 '네덜란드 특급' 서머빌 영입 난항! \"고액 주급자이기 때문에 추가 영입 어려워\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260718n00529"
+      }
+    },
+    {
+      "keyword": "알테오젠",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "알테오젠, 코스피 유보 뒤 다섯째 무증…수급효과 검증대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/0A0LcvhDZu"
+      }
     }
   ]
 }
