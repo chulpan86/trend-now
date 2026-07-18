@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-19T06:40:06.625763+09:00",
-  "label": "06:40",
+  "timestamp": "2026-07-19T07:38:30.348344+09:00",
+  "label": "07:38",
   "items": [
     {
-      "keyword": "프랑스 대 잉글랜드",
-      "traffic_raw": "100000+",
-      "traffic": 100000,
+      "keyword": "메이저 리그 베이스볼",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "김빠진 3,4위전? 프랑스와 잉글랜드 모두 동기부여는 충분!",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8614067"
-      }
-    },
-    {
-      "keyword": "식중독",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "상한 음식보다 위험…조리 때 ‘교차 오염’ 식중독·장염 부른다",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607180900015"
-      }
-    },
-    {
-      "keyword": "석유",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "물가 3% 이내 관리·청년 ISA 출시까지, 하반기 경제정책 총정리 - 정책뉴스 | 뉴스",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968274"
-      }
-    },
-    {
-      "keyword": "비",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "충북 대체로 흐리고 비…최대 60㎜ 예상",
+        "title": "삼성 새 외국인 투수 페덱, 6이닝 1피안타 무실점 강렬한 데뷔승(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260719005400064"
+        "url": "https://www.yna.co.kr/view/AKR20260718043051007"
       }
     },
     {
-      "keyword": "에코프로비엠",
+      "keyword": "ufc",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Du Plessis and Usman clash as Ko Seok-hyun seeks first UFC finish - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/07/18/JS5VDIIFH5ECFFOVTM5CCCIWOM/"
+      }
+    },
+    {
+      "keyword": "world cup",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "김장우 에코프로비엠 대표 \"수주 가시화…주주가치 제고할 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717105039782"
+        "title": "FIFA World Cup 2026™ Final",
+        "source": "FIFA",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/final"
       }
     },
     {
-      "keyword": "안규백",
+      "keyword": "김혜성",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘안규백 리스크’에 삐걱대는 軍 개혁…李는 침묵으로 일관",
+        "title": "“애틀랜타, 다저스 김혜성 트레이드 고려해야” 김하성 대신 김혜성? 이 무슨 운명의 장난인가…말은 된다, 그런데",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718101707117"
+        "url": "https://v.daum.net/v/20260719001127925"
       }
     },
     {
-      "keyword": "pháp đấu với anh",
+      "keyword": "prancis vs inggris",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "+~~$[[SEPAK BOLA]] Perancis Inggris siaran langsung hari ini 18 Juli 2026",
+        "source": "cinemaecerveja.com.br",
+        "url": "https://cinemaecerveja.com.br/news/video/video-fra-eng-liv-siaran-langsung-hari-ini-id-4-5226a.html"
+      }
+    },
+    {
+      "keyword": "франция – англия",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "LIVE | В матче за третье место сборная Англии выигрывает у Франции – 2:0",
+        "source": "ERR",
+        "url": "https://rus.err.ee/1610079970/live-v-matche-za-trete-mesto-sbornaja-anglii-vyigryvaet-u-francii-2-0"
+      }
+    },
+    {
+      "keyword": "박명수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Giá vé trận tranh hạng ba World Cup giảm mạnh",
-        "source": "VnExpress",
-        "url": "https://vnexpress.net/gia-ve-tran-tranh-hang-ba-world-cup-giam-manh-5098907.html"
+        "title": "박명수 의사 아내, 전 매니저 한경호 도왔다 \"형수님 감사해요\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/889xDOrNH0"
       }
     },
     {
-      "keyword": "이의리",
+      "keyword": "청두 j-20",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "꽃감독이 “인대 교체하고 얼마 안 던져서 쌩쌩하던데요?”라던 KIA ‘좌완 파이어볼러’ 이의리, 1.1이닝 3K 무실점 완벽투로 달라졌음을 증명했다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pXgzdDcng3"
+        "title": "Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/hundreds-vs-zero-the-stealth-divide-that-could-define-next-india-china-war-11782805"
       }
     },
     {
-      "keyword": "산사태",
+      "keyword": "상장지수 펀드",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "산청·가평 참사 1년…정부, 산사태 대피체계 전면 손질",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719061054236"
+        "title": "K바이오·스마트카·초단기채·美테크액티브 [이주의 상장ETF]",
+        "source": "IT조선",
+        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092165998"
       }
     },
     {
-      "keyword": "england vs france",
+      "keyword": "이용규",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "France v England: World Cup third-place playoff – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/live/2026/jul/18/france-v-england-world-cup-third-place-playoff-live"
+        "title": "이용규 음주운전 사고 후폭풍…유하나 SNS까지 번진 비판",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2X00i31ycD?f=p"
       }
     }
   ]
