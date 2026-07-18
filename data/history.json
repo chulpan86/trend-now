@@ -2604,5 +2604,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-19T06:40:06.625763+09:00",
+    "label": "06:40",
+    "items": [
+      {
+        "keyword": "프랑스 대 잉글랜드",
+        "traffic_raw": "100000+",
+        "traffic": 100000,
+        "news": {
+          "title": "김빠진 3,4위전? 프랑스와 잉글랜드 모두 동기부여는 충분!",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8614067"
+        }
+      },
+      {
+        "keyword": "식중독",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "상한 음식보다 위험…조리 때 ‘교차 오염’ 식중독·장염 부른다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607180900015"
+        }
+      },
+      {
+        "keyword": "석유",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "물가 3% 이내 관리·청년 ISA 출시까지, 하반기 경제정책 총정리 - 정책뉴스 | 뉴스",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968274"
+        }
+      },
+      {
+        "keyword": "비",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "충북 대체로 흐리고 비…최대 60㎜ 예상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260719005400064"
+        }
+      },
+      {
+        "keyword": "에코프로비엠",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김장우 에코프로비엠 대표 \"수주 가시화…주주가치 제고할 것\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717105039782"
+        }
+      },
+      {
+        "keyword": "안규백",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘안규백 리스크’에 삐걱대는 軍 개혁…李는 침묵으로 일관",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260718101707117"
+        }
+      },
+      {
+        "keyword": "pháp đấu với anh",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Giá vé trận tranh hạng ba World Cup giảm mạnh",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/gia-ve-tran-tranh-hang-ba-world-cup-giam-manh-5098907.html"
+        }
+      },
+      {
+        "keyword": "이의리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "꽃감독이 “인대 교체하고 얼마 안 던져서 쌩쌩하던데요?”라던 KIA ‘좌완 파이어볼러’ 이의리, 1.1이닝 3K 무실점 완벽투로 달라졌음을 증명했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pXgzdDcng3"
+        }
+      },
+      {
+        "keyword": "산사태",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "산청·가평 참사 1년…정부, 산사태 대피체계 전면 손질",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719061054236"
+        }
+      },
+      {
+        "keyword": "england vs france",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "France v England: World Cup third-place playoff – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jul/18/france-v-england-world-cup-third-place-playoff-live"
+        }
+      }
+    ]
   }
 ]
