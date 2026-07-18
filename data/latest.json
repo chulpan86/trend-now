@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-07-19T01:43:42.060720+09:00",
-  "label": "01:43",
+  "timestamp": "2026-07-19T02:46:12.204499+09:00",
+  "label": "02:46",
   "items": [
     {
       "keyword": "폐지",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "이준우 \"고유정 전 남편 토막살해사건 잊었나...묻힐 뻔, 경찰 '쩔쩔 구멍', 검찰 보완수사로 전모\"[여의도 진검승부]",
-        "source": "KBC광주방송",
-        "url": "https://www.ikbc.co.kr/article/view/kbc202607180027"
+        "title": "민주당 지지층서도 ‘檢 보완수사 유지해야’ 응답이 더 많아",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718070314884"
+      }
+    },
+    {
+      "keyword": "로트바이스 오버하우젠 대 도르트문트",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "로트바이스 오버하우젠 vs 보루시아 도르트문트 생중계: 로트바이스 오버하우젠 선제골",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-rot-weiss-oberhausen-vs-borussia-dortmund-rot-weiss-oberhausen-mo-ty-so"
+      }
+    },
+    {
+      "keyword": "man utd đấu với wrexham",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Trực tiếp bóng đá MU - Wrexham: Nỗ lực không thành (Hết giờ)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-wrexham-cho-tan-binh-andrey-santos-ra-mat-c48a1779366.html"
       }
     },
     {
@@ -17,19 +37,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "เช็กชื่อ 25 แข้งแมนยูบุกฟินแลนด์! ซานโตส ลุ้นประเดิมอุ่นเร็กซ์แฮม",
-        "source": "Siamsport",
-        "url": "https://www.siamsport.co.th/football-international/premierleague/106816/"
-      }
-    },
-    {
-      "keyword": "man utd đấu với wrexham",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Trực tiếp bóng đá MU - Wrexham: Nỗ lực tấn công",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-wrexham-cho-tan-binh-andrey-santos-ra-mat-c48a1779366.html"
+        "title": "แมนฯ ยูไนเต็ด พบกับ เร็กซ์แฮม: รายชื่อผู้เล่นตัวจริง ช่องถ่ายทอดสด และการคาดการณ์",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/th/man-united-vs-wrexham-doi-hinh-xuat-phat-kenh-truc-tiep-va-du-doan"
       }
     },
     {
@@ -53,9 +63,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "世界盃｜別毀了純粹的足球！效法美國職業運動首度推出「冠軍戒」 引爆全球球迷怒火",
-        "source": "知新聞",
-        "url": "https://www.knews.com.tw/news/B682D1D523D75F6AAD37C0BBDD491A8E"
+        "title": "法國隊季軍戰前夕爆出「職場危機」：領隊想贏球員想去玩？",
+        "source": "New Monday",
+        "url": "https://www.nmplus.hk/%E4%B8%96%E7%95%8C%E7%9B%832026/2026%E4%B8%96%E7%95%8C%E7%9B%83-%E6%B3%95%E5%9C%8B%E9%9A%8A-%E8%BF%AA%E7%94%98%E6%96%AF-%E8%81%B7%E5%A0%B4%E6%96%87%E5%8C%96-%E8%B6%B3%E7%90%83%E6%96%B0%E8%81%9E-1648303/"
       }
     },
     {
@@ -86,16 +96,6 @@
         "title": "토트넘 잔류에 '손-케 듀오' 웃었다… \"마지막 날 멋진 결과 축하해\"",
         "source": "MSN",
         "url": "https://www.msn.com/ko-kr/sports/soccer/%ED%86%A0%ED%8A%B8%EB%84%98-%EC%9E%94%EB%A5%98%EC%97%90-%EC%86%90-%EC%BC%80-%EB%93%80%EC%98%A4-%EC%9B%83%EC%97%88%EB%8B%A4-%EB%A7%88%EC%A7%80%EB%A7%89-%EB%82%A0-%EB%A9%8B%EC%A7%84-%EA%B2%B0%EA%B3%BC-%EC%B6%95%ED%95%98%ED%95%B4/ar-AA23Z9an"
-      }
-    },
-    {
-      "keyword": "코르티스 콘서트",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "코르티스, 첫 월드투어 오늘(18일) 전석 매진 속 첫걸음",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/PvjV0KqFpp"
       }
     }
   ]
