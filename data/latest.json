@@ -1,91 +1,31 @@
 {
-  "timestamp": "2026-07-18T17:42:06.559291+09:00",
-  "label": "17:42",
+  "timestamp": "2026-07-18T19:09:14.688255+09:00",
+  "label": "19:09",
   "items": [
     {
-      "keyword": "이정후",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "이정후, 후반기 첫 경기부터 3안타 …시즌 30호 멀티 히트",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607181531001"
-      }
-    },
-    {
-      "keyword": "뉴스",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "[속보] 러시아 매체 “최선희 북한 외무상, 오늘 모스크바 방문”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607181510001"
-      }
-    },
-    {
-      "keyword": "파친코",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "전세계가 울었다…재편성에도 '시청률 4.1%' 신드롬→시즌2로 안방 극장 공략 나선 韓 드라마 ('파친코2')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/U2YSNmDgZ6"
-      }
-    },
-    {
-      "keyword": "인천 쿠팡 화재",
+      "keyword": "선우용여",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "인천 쿠팡 물류센터 화재...소방청, 국가소방동원령 발령",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0115_202607181555124069"
+        "title": "선우용여, 전원주에 \"자기 멋대로…뻔뻔스러워져\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260718_0003713637"
       }
     },
     {
-      "keyword": "주식시장",
+      "keyword": "임채무",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“하이닉스 230만 복구하면 탈출”…슈퍼리치들도 국장에 학뗐다",
+        "title": "“직원 26명에 아파트 선물”…190억 빚 임채무, 이번엔 발달장애인 위해 나섰다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717195701904"
+        "url": "https://v.daum.net/v/20260718104501460"
       }
     },
     {
-      "keyword": "염승환",
+      "keyword": "마르크 쿠쿠 레야",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "6800선까지 밀린 코스피…빅테크·SK하이닉스 실적이 반등 가른다 [투자360]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/tSWyB0tWX4"
-      }
-    },
-    {
-      "keyword": "폭력 조직",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "눈 마주친 행인 기절할 때까지 때렸다…수원북문파 조폭들 집유, 왜",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/XxmeSZGhvk"
-      }
-    },
-    {
-      "keyword": "박지영 아나운서",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "박지영 아나운서, 청순 비주얼에 반전 몸매 자랑…강렬한 레드빛 비키니 자태 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/tv/2026/07/18/GRQTCYLCMU3DEYJYME3DSYTCHA/"
-      }
-    },
-    {
-      "keyword": "마르크 쿠쿠레야",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
         "title": "폭탄 발언! 27살인데 \"월드컵 우승하면 다음 날 은퇴\" WC 도중 레알 마드리드 이적한 쿠쿠레야 공약 재조명…감독 얼굴 문신까지 예고",
         "source": "네이트",
@@ -93,13 +33,69 @@
       }
     },
     {
-      "keyword": "유학",
+      "keyword": "페덱",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "페덱 라팍 마운드 올라 투구 동작→박진만도 깜놀! \"외인 투수가 저런 모습 처음, 그만큼 의욕 넘쳐\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718160237894"
+      }
+    },
+    {
+      "keyword": "mlb",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "MLB games today: Schedule, times, how to watch for July 18",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/sports/mlb/2026/07/18/mlb-games-today-schedule-times-tv-07182026/90965102007/"
+      }
+    },
+    {
+      "keyword": "밤하늘",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "kia vs ssg",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "SSG manager Lee highlights rookie Kim's need to handle poor-condition pitching - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/07/18/ZEZCYY6XVVD4HOCQDV2PTZXTFY/"
+      }
+    },
+    {
+      "keyword": "용인반도체클러스터",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘직주근접’ 넘어 ‘다(多)세권’ 아파트 뜬다",
+        "source": "대한경제",
+        "url": "https://m.dnews.co.kr/m_home/view.jsp?idxno=202607150921127910208"
+      }
+    },
+    {
+      "keyword": "이소라",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이소라·크러쉬·권진아·연준, 성시경과 환상의 시너지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718111410808"
+      }
+    },
+    {
+      "keyword": "브라이슨 디섐보",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“美유학 출국 앞두고 날벼락”… 韓학생-가족 등 2만5000명 비상",
+        "title": "디섐보, 디오픈서 '라이 개선'으로 벌타…람은 클럽 던져 경고",
         "source": "Daum",
-        "url": "https://v.daum.net/v/BmUmSTlwuL"
+        "url": "https://v.daum.net/v/Wu5barEo1U"
       }
     }
   ]
