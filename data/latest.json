@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-18T10:27:40.102174+09:00",
-  "label": "10:27",
+  "timestamp": "2026-07-18T13:39:01.395433+09:00",
+  "label": "13:39",
   "items": [
     {
-      "keyword": "김부장",
+      "keyword": "필리조선소",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "'김부장' 시청률 25.5% 또 상승..'북한 송환' 엔딩 발칵",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/18/HE2TCOJWGQ3WKZRZMY3TANBXG4/"
+        "title": "한화 필리조선소, 미국 미사일 계측함 사업 수주",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718104409454"
       }
     },
     {
-      "keyword": "오늘의 운세 중앙일보",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "후보",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "[오늘의 운세] 7월 18일 토요일 (음력 6월 5일 癸巳)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/07/17/JI26KT4555HRHIJT6RZCI3XV4Q/"
+        "title": "김민석·정청래·송영길에 고민정·김보미까지···민주당 당대표 ‘5파전’ 공식화",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607171825001"
       }
     },
     {
-      "keyword": "투폴 레프 tu 95",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260717056200108"
-      }
-    },
-    {
-      "keyword": "축구 선수",
+      "keyword": "선글라스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[대학축구]'초대 챔피언의 귀환' 중앙대 통산 6번째 정상 등극, '신흥 세력' 동명대 1-0 제압 '우승 환호'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/07/17/MQYGIODBMI2GKNJXMI4DOYJTGE/"
-      }
-    },
-    {
-      "keyword": "케빈 워시",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "美연은 총재들 \"물가 아직 높다\"…매파 기조",
+        "title": "“명품인줄 알았더니 다이소였어”…소녀시대 유리 선글라스 품절대란",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717100954087"
+        "url": "https://v.daum.net/v/20260718065400745"
       }
     },
     {
-      "keyword": "실업",
+      "keyword": "성영탁",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "조상우 안도의 한숨, KIA 중요한 고민 아직 안 끝났다… 9회의 수호신은 누가 될까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/QydOTYTsTM"
+      }
+    },
+    {
+      "keyword": "북파공작원",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "국가가 버렸던 '김부장' 만나보니…\"부모상도 휴가도 없었다\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260717049000004"
+      }
+    },
+    {
+      "keyword": "오타니 쇼헤이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[단독] 최저임금보다 더 받는 실업급여 손본다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/labor/2026/07/18/26L7RN2OP5G3TELVAWWLZC56GA/"
+        "title": "이런 선수를 오타니와 트레이드 하려고 했다니…45홈런→28홈런 대폭발, 이젠 다저스 우승→우승→우승 위협한다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260717085328651"
       }
     },
     {
-      "keyword": "항공모함",
+      "keyword": "김시우",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "뷔",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
-        "title": "콧대 높은 문화 선진국 영국도 K컬처 바람",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/all/12101351"
+        "title": "분위기 바뀐 임성재, 디오픈 둘째날 어땠나? [PGA 메이저]",
+        "source": "골프한국",
+        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021192"
       }
     },
     {
-      "keyword": "mls",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "로스앤젤레스 fc",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Licensable picture: MLS Soccer 2026: JUL 16 Seattle Sounders FC Vs Portland Timbers FC",
-        "source": "Reuters Connect",
-        "url": "https://www.reutersconnect.com/item/mls-soccer-2026-jul-16-seattle-sounders-fc-vs-portland-timbers-fc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBGRTBEUEk"
+        "title": "손흥민, 월드컵 이후 소속팀 첫 경기서 리그 1호골 폭발",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260718030000007"
       }
     },
     {
-      "keyword": "주차",
+      "keyword": "배찬승",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘이렇게 잘 뽑다니’ ERA-다승 1위 국대 2루수 배출 감격, 두산 ‘25 드래프트’ 초대박 예감…정우주 배찬승 김영우 부럽지 않다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/07/18/202607180836773409O"
+      }
+    },
+    {
+      "keyword": "스피킹데드",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[단독] 열흘째 실종 50대 여성, 운영 중단 오피스텔 주차타워 바닥서 숨진 채 발견 [세상&]",
+        "title": "'공산화 미화' 논란 딛고 5년 기다림 마침표→'부국제' 휩쓸고 하반기 출격 알린 韓 드라마 ('스피킹 데드')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/bmYIGzUZX3"
+        "url": "https://v.daum.net/v/20260717183209032"
       }
     }
   ]
