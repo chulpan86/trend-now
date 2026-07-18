@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-18T08:42:30.645413+09:00",
-  "label": "08:42",
+  "timestamp": "2026-07-18T10:27:40.102174+09:00",
+  "label": "10:27",
   "items": [
     {
-      "keyword": "수성구",
+      "keyword": "김부장",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "'김부장' 시청률 25.5% 또 상승..'북한 송환' 엔딩 발칵",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/18/HE2TCOJWGQ3WKZRZMY3TANBXG4/"
+      }
+    },
+    {
+      "keyword": "오늘의 운세 중앙일보",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "폭우로 통제된 대구 신천동로 10시간 만에 교통 재개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260718064841728"
+        "title": "[오늘의 운세] 7월 18일 토요일 (음력 6월 5일 癸巳)",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/07/17/JI26KT4555HRHIJT6RZCI3XV4Q/"
       }
     },
     {
-      "keyword": "2026",
+      "keyword": "투폴 레프 tu 95",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "젤렌스키 \"우크라, 러 Tu-95 전략폭격기 파괴\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260717056200108"
+      }
+    },
+    {
+      "keyword": "축구 선수",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Live Updates: 2026 NBA Summer League, Day 9 | Kings-Hornets opens Friday's action",
-        "source": "NBA.com",
-        "url": "https://www.nba.com/news/live-updates-2026-nba-summer-league-day-9"
+        "title": "[대학축구]'초대 챔피언의 귀환' 중앙대 통산 6번째 정상 등극, '신흥 세력' 동명대 1-0 제압 '우승 환호'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/football/2026/07/17/MQYGIODBMI2GKNJXMI4DOYJTGE/"
       }
     },
     {
-      "keyword": "weather",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "GX94 Precision Weather Forecast – Fri. July 17, 2026 (4:30 p.m.)",
-        "source": "GX94 Radio",
-        "url": "https://www.gx94radio.com/2026/07/17/gx94-precision-weather-forecast-fri-july-17-2026-430-p-m/"
-      }
-    },
-    {
-      "keyword": "테슬라",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "테슬라, 자율주행 구독제 도입…소프트웨어 수익모델 강화",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260717090250844?f=p"
-      }
-    },
-    {
-      "keyword": "สภาพอากาศ",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "สภาพอากาศวันนี้ -23 ก.ค.ไทยฝนฟ้าคะนอง เหนือ -กลาง เตรียมรับฝนเพิ่ม",
-        "source": "thansettakij",
-        "url": "https://www.thansettakij.com/general-news/664245"
-      }
-    },
-    {
-      "keyword": "天气",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "政府启动暴雨应急响应……周末“灾难关口”4大脆弱因素叠加(综合)",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/cn/article/2026071718374235001"
-      }
-    },
-    {
-      "keyword": "수사",
+      "keyword": "케빈 워시",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "장윤기 휴대폰 속 이름만 보고… 경찰, 여고생 ‘2차 가해’ 논란",
+        "title": "美연은 총재들 \"물가 아직 높다\"…매파 기조",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718004914307"
+        "url": "https://v.daum.net/v/20260717100954087"
       }
     },
     {
-      "keyword": "전시 작전통제권",
+      "keyword": "실업",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[단독] 최저임금보다 더 받는 실업급여 손본다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/labor/2026/07/18/26L7RN2OP5G3TELVAWWLZC56GA/"
+      }
+    },
+    {
+      "keyword": "항공모함",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "지휘권 넘겨받아도 '지휘 능력'이 없다 … 2028 전작권 조기 전환의 민낯",
-        "source": "뉴데일리",
-        "url": "https://www.newdaily.co.kr/site/data/html/2026/07/16/2026071600261.html"
-      }
+      "news": null
     },
     {
-      "keyword": "tsla",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Tesla: The Bull Case Is Falling Apart (NASDAQ:TSLA)",
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4922487-tesla-the-bull-case-is-falling-apart-reiterate-sell"
-      }
-    },
-    {
-      "keyword": "경기도교육감",
+      "keyword": "뷔",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"교사의 교육권 보장하라!\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260717064500013"
+        "title": "콧대 높은 문화 선진국 영국도 K컬처 바람",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/all/12101351"
+      }
+    },
+    {
+      "keyword": "mls",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Licensable picture: MLS Soccer 2026: JUL 16 Seattle Sounders FC Vs Portland Timbers FC",
+        "source": "Reuters Connect",
+        "url": "https://www.reutersconnect.com/item/mls-soccer-2026-jul-16-seattle-sounders-fc-vs-portland-timbers-fc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBGRTBEUEk"
+      }
+    },
+    {
+      "keyword": "주차",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[단독] 열흘째 실종 50대 여성, 운영 중단 오피스텔 주차타워 바닥서 숨진 채 발견 [세상&]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/bmYIGzUZX3"
       }
     }
   ]
