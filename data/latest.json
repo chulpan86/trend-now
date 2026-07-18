@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-07-18T13:39:01.395433+09:00",
-  "label": "13:39",
+  "timestamp": "2026-07-18T15:52:54.052523+09:00",
+  "label": "15:52",
   "items": [
     {
-      "keyword": "필리조선소",
+      "keyword": "손흥민",
+      "traffic_raw": "100000+",
+      "traffic": 100000,
+      "news": {
+        "title": "‘캡틴’ 손흥민, 월드컵 이후 소속팀 복귀 첫 경기서 1호골 폭발",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/07/18/HSSGDPLGSRHRLCQYL53R5S7UYA/"
+      }
+    },
+    {
+      "keyword": "이정후",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "한화 필리조선소, 미국 미사일 계측함 사업 수주",
+        "title": "이정후, 후반기 첫 경기부터 3안타 …시즌 30호 멀티 히트",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718104409454"
+        "url": "https://v.daum.net/v/20260718153327517"
       }
     },
     {
@@ -23,43 +33,63 @@
       }
     },
     {
-      "keyword": "선글라스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "며느리",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "“명품인줄 알았더니 다이소였어”…소녀시대 유리 선글라스 품절대란",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260718065400745"
+        "title": "퇴근한 며느리 밥 차려주는 시모…\"나 괴롭히는 것\" 남편한테 따진 아내",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/women-family/6230392"
       }
     },
     {
-      "keyword": "성영탁",
+      "keyword": "왕옌청",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "조상우 안도의 한숨, KIA 중요한 고민 아직 안 끝났다… 9회의 수호신은 누가 될까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/QydOTYTsTM"
-      }
-    },
-    {
-      "keyword": "북파공작원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "국가가 버렸던 '김부장' 만나보니…\"부모상도 휴가도 없었다\"",
+        "title": "[프로야구 대전전적] 키움 7-6 한화",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260717049000004"
+        "url": "https://www.yna.co.kr/view/AKR20260717058600007"
       }
     },
     {
-      "keyword": "오타니 쇼헤이",
+      "keyword": "염승환",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이런 선수를 오타니와 트레이드 하려고 했다니…45홈런→28홈런 대폭발, 이젠 다저스 우승→우승→우승 위협한다",
+        "title": "\"일주일 185% 폭등\" 하락장 속 개미가 띄운 기업들...전문가는 \"주의\"[김근희의 증시랩업] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/07/18/2026071617470128256"
+      }
+    },
+    {
+      "keyword": "충돌",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "빗길에 버스-승용차 충돌해 15명 중경상",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6838299_36918.html"
+      }
+    },
+    {
+      "keyword": "프레디 프리먼",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"다저스 떠나면 어쩌려고\" 프리먼 내년까지 계약 남아있는데…벌써 2년 연장 계약 주장 왜?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717085328651"
+        "url": "https://v.daum.net/v/20260718044211735"
+      }
+    },
+    {
+      "keyword": "황인범",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“황인범, 85억에 포르투 간다” 페예노르트와 원칙적 합의…3년+1년 계약-일요일 메디컬",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/BLRDGXYCTp"
       }
     },
     {
@@ -67,39 +97,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "분위기 바뀐 임성재, 디오픈 둘째날 어땠나? [PGA 메이저]",
-        "source": "골프한국",
-        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021192"
-      }
-    },
-    {
-      "keyword": "로스앤젤레스 fc",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "손흥민, 월드컵 이후 소속팀 첫 경기서 리그 1호골 폭발",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260718030000007"
-      }
-    },
-    {
-      "keyword": "배찬승",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘이렇게 잘 뽑다니’ ERA-다승 1위 국대 2루수 배출 감격, 두산 ‘25 드래프트’ 초대박 예감…정우주 배찬승 김영우 부럽지 않다 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/07/18/202607180836773409O"
-      }
-    },
-    {
-      "keyword": "스피킹데드",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'공산화 미화' 논란 딛고 5년 기다림 마침표→'부국제' 휩쓸고 하반기 출격 알린 韓 드라마 ('스피킹 데드')",
+        "title": "김시우, 디오픈 2R 공동 5위 점프…임성재는 공동 25위로 밀려나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717183209032"
+        "url": "https://v.daum.net/v/Yx72Y31ytR"
       }
     }
   ]
