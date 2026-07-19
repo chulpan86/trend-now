@@ -1,11 +1,31 @@
 {
-  "timestamp": "2026-07-20T01:44:16.200784+09:00",
-  "label": "01:44",
+  "timestamp": "2026-07-20T02:48:58.274525+09:00",
+  "label": "02:48",
   "items": [
     {
+      "keyword": "ewc",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "DK's Narrative Complete: 2026 Champions",
+        "source": "Inven Global",
+        "url": "https://www.invenglobal.com/articles/23927/dks-narrative-complete-2026-champions"
+      }
+    },
+    {
+      "keyword": "공희용",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "배드민턴 세계 1위 서승재·김원호 일본오픈 준우승…2연패 무산",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/ViQdy1XS0m"
+      }
+    },
+    {
       "keyword": "변우석",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "파격 장발에 헐벗은 변우석, 누군지 몰라볼 뻔 했네 '깜짝'",
         "source": "OSEN",
@@ -14,8 +34,8 @@
     },
     {
       "keyword": "김혜수",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]",
         "source": "Daum",
@@ -23,23 +43,33 @@
       }
     },
     {
+      "keyword": "현대건설",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719170140931"
+      }
+    },
+    {
       "keyword": "논쟁",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1268923.html"
+        "title": "박홍근 \"전대, 누가 사심없이 대통령 떠받칠 사람인지 선택하는 장 돼야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719220649719"
       }
     },
     {
-      "keyword": "쇼메이커",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "담원기아",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[만나보니] \"파리 e스포츠 월드컵, 역대 최고 시청률·관중 기록\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719210554927"
+        "title": "LCK 프로게임단 디플러스 기아 운영난으로 임금체불",
+        "source": "데일리e스포츠",
+        "url": "https://www.dailyesports.com/view.php?ud=202607161324005293b91e133c1f_27"
       }
     },
     {
@@ -53,16 +83,6 @@
       }
     },
     {
-      "keyword": "디플러스 기아 임금체불",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "LCK 프로게임단 디플러스 기아 운영난으로 임금체불",
-        "source": "데일리e스포츠",
-        "url": "https://www.dailyesports.com/view.php?ud=202607161324005293b91e133c1f_27"
-      }
-    },
-    {
       "keyword": "남주혁",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -73,16 +93,6 @@
       }
     },
     {
-      "keyword": "현대건설",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719170140931"
-      }
-    },
-    {
       "keyword": "케스파컵",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -90,16 +100,6 @@
         "title": "KeSPA컵 20일 시작… 농심-한진 개막전",
         "source": "Daum",
         "url": "https://v.daum.net/v/3yv7sTlwWW"
-      }
-    },
-    {
-      "keyword": "국민일보",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[사설] 국민 대다수가 기술 유출에 경각심, 제도 강화 서둘러야",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720012248348"
       }
     }
   ]
