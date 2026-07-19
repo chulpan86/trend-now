@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-19T10:46:10.590292+09:00",
-  "label": "10:46",
+  "timestamp": "2026-07-19T14:11:40.746584+09:00",
+  "label": "14:11",
   "items": [
     {
-      "keyword": "아르헨티나 축구 국가대표팀",
+      "keyword": "박주호",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": null
+    },
+    {
+      "keyword": "대박",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"42년간 내가 본 최고의 아르헨티나\"…'레전드' 마스체라노, 월드컵 2연패 도전하는 후배들 극찬",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260718n07812"
-      }
-    },
-    {
-      "keyword": "세계일보",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'슈돌' 유토, 벌써 이렇게 컸어?..'15째 의사가문' 어마어마한 대저택 공개",
+        "title": "\"챗GPT가 사란 대로 샀더니 대박\"…AI 조언 듣고 주식한다고? [개미의 세계]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718164551255"
+        "url": "https://v.daum.net/v/20260719060109043"
       }
     },
     {
-      "keyword": "놀면 뭐하니?",
+      "keyword": "이혼 소송",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "이혼 당하자 “땅 돌려달라”며 소송 낸 남편…대법서 패소",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260719/134320911/1"
+      }
+    },
+    {
+      "keyword": "추미애",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "유재석, 장수 욕심 있었네…\"저 100세 이상 삽니다\"('놀뭐')",
+        "title": "추미애, 檢보완수사 일부 인정 주장에 “文정부 전으로 회귀하는 것”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719093507591"
+        "url": "https://v.daum.net/v/20260719092837476"
       }
     },
     {
-      "keyword": "디 오픈 챔피언십",
+      "keyword": "이현중",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "김시우, 디오픈 골프대회 2R 공동 5위로 도약…임성재 25위",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260718017900007"
+        "title": "주특기 3점슛으로 막판 무력시위…이현중, NBA 생존 도장 찍을까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260717095507794?f=p"
       }
     },
     {
-      "keyword": "선박",
+      "keyword": "1인당 국민소득",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "HD현대, 미국 선박건조 협력 확대…현지 인프라 건설사와 맞손",
+        "title": "韓 1인당 GDP, 환율 1456원 아래면 올해 4만달러…5년 만에 최대폭 증가",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719090438135"
+        "url": "https://v.daum.net/v/20260719101328296"
       }
     },
     {
-      "keyword": "제이크 폴",
+      "keyword": "살림하는 남자들",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘I learned my lesson’: Jake Paul on fighting Anthony Joshua, challenge to Brock Lesnar",
-        "source": "Bad Left Hook",
-        "url": "https://www.badlefthook.com/boxing-news/117321/i-learned-my-lesson-jake-paul-fighting-anthony-joshua-challenge-brock-lesnar-boxing-news-2026"
-      }
-    },
-    {
-      "keyword": "두산베어스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "두산 베어스, 26일 삼성전서 '7월 베어스데이' 이벤트 진행",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260718n05066"
-      }
-    },
-    {
-      "keyword": "수익",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "우리금융, 고객기반 확대·비은행 강화 속도…\"하반기 도약 발판 마련\"",
+        "title": "\"솔직히 너무 창피했다\" 박서진 여동생, 손장난 들켜 길거리행 ('살림남2') [순간포착]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719091239248"
+        "url": "https://v.daum.net/v/Vuzok31yT7"
       }
     },
     {
-      "keyword": "월드컵 우승",
+      "keyword": "허경영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "또 트럼프·FIFA에 팬들 분노! 이젠 '월드컵 우승 반지' 만들었다... \"개당 2억원\" 판매까지",
+        "title": "허경영 \"경찰 통화내역 공개해달라\"…항소심도 각하",
         "source": "Daum",
-        "url": "https://v.daum.net/v/FFBRrHWIl4"
+        "url": "https://v.daum.net/v/20260719083601699"
       }
     },
     {
-      "keyword": "국방부",
+      "keyword": "슈퍼맨이 돌아왔다",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "국방부 \"K2C1 소총은 17만여 정이 보급되어 장병들이 실제 사용 중\"",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968268"
+        "title": "심형탁, 갑자기 폭풍 오열…'17개월 子' 하루가 조용히 다가가 건넨 ‘뜻밖의 행동’ ('슈돌') [순간포착]",
+        "source": "OSEN",
+        "url": "http://www.osen.co.kr/article/G1112840312"
+      }
+    },
+    {
+      "keyword": "구계리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "경북도, 지역 특화어종 산업화 사업 추진 박차",
+        "source": "데일리대구경북뉴스",
+        "url": "https://www.dailydgnews.com/news/article.html?no=257349"
       }
     }
   ]

@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T00:05:26.262297+09:00",
-    "label": "00:05",
-    "items": [
-      {
-        "keyword": "의정부시",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "의정부 아파트서 부부 추락사…자녀 2명도 집에서 숨진 채 발견",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260717/134317589/2"
-        }
-      },
-      {
-        "keyword": "김용빈",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[TV조선] 임창정이 부른 명곡에 도전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260717004153429"
-        }
-      },
-      {
-        "keyword": "김부장 드라마",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'김부장' TV와 OTT 동시 흥행…K-콘텐츠 새 '공식' 되나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260717204808560"
-        }
-      },
-      {
-        "keyword": "성과급",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"40조원 성과급 잔치 못 참아\"…삼성전자 개미들 행동 나섰다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026071710937"
-        }
-      },
-      {
-        "keyword": "문샷",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "문샷, 2.8조 매개변수 '키미 K3' 공개...세계 3위 성능으로 도약",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=212881"
-        }
-      },
-      {
-        "keyword": "오은영 리포트 - 결혼지옥",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'배그 부부' 아내 투병 끝 사망…\"또 나만 살아있구나\" 남편 근황 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071617085150853"
-        }
-      },
-      {
-        "keyword": "t1 한화",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "파리서 펼쳐진 LCK 내전…T1, 플레이오프서 한화생명에 완승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260717060500017"
-        }
-      },
-      {
-        "keyword": "김상혁",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘돌싱’ 김상혁, 테일러 숍 운영..“매출? 대기업 연봉 이상” 깜짝 (‘신랑수업2’)[순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260717214148178"
-        }
-      },
-      {
-        "keyword": "페이커",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘페이커’ 이상혁의 끝없는 도전 “전설, 그 너머를 향해”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8613761"
-        }
-      },
-      {
-        "keyword": "明天的天氣",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "「紅霞」明恐生成！雨彈狂砸全台7天 降雨熱區曝光",
-          "source": "Yahoo新聞",
-          "url": "https://tw.news.yahoo.com/%E7%B4%85%E9%9C%9E-%E6%98%8E%E6%81%90%E7%94%9F%E6%88%90-%E9%9B%A8%E5%BD%88%E7%8B%82%E7%A0%B8%E5%85%A8%E5%8F%B07%E5%A4%A9-%E9%99%8D%E9%9B%A8%E7%86%B1%E5%8D%80%E6%9B%9D%E5%85%89-094758257.html"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-18T01:59:33.314954+09:00",
-    "label": "01:59",
-    "items": [
-      {
-        "keyword": "아덴 만",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "아덴만 유조선에 무단 승선…\"한국 군함 향하는 중\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260717057900108"
-        }
-      },
-      {
-        "keyword": "김부장 드라마",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[종합] '김부장' 소지섭 납북 엔딩…주상욱 분노의 복수 예고",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260717n14119"
-        }
-      },
-      {
-        "keyword": "오은영 리포트 - 결혼지옥",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'배그 부부' 아내 투병 끝 사망…\"또 나만 살아있구나\" 남편 근황 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/16/2026071617085150853"
-        }
-      },
-      {
-        "keyword": "t1 한화",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Gen.G leads Korea into EWC League of Legends quarterfinals",
-          "source": "Korea JoongAng Daily",
-          "url": "https://www.koreajoongangdaily.com/sports/geng-leads-korea-into-ewc-league-of-legends-quarterfinals/12778164"
-        }
-      },
-      {
-        "keyword": "문샷",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "문샷, 2.8조 매개변수 '키미 K3' 공개...세계 3위 성능으로 도약",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=212881"
-        }
-      },
-      {
-        "keyword": "더중앙플러스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "창신메모리 상장, '삼전닉스' 주가 하락 부추겼나?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2v1sW31yUT"
-        }
-      },
-      {
-        "keyword": "김송",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김송, 돌연 사과…\"전액 환불 결정\" 판매 중단 공지 [전문]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/17/GE3GKMRZG4ZDCZRXHFSDQMRWGQ/"
-        }
-      },
-      {
-        "keyword": "김상혁",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김상혁, 사업가로 대박 \"월 매출, 대기업 연봉 이상\" [신랑수업2][★밤TView]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718003410224"
-        }
-      },
-      {
-        "keyword": "al",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Licensable picture: Al-Quds Mosque reopens in Syria with Turkiye's support",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/al-quds-mosque-reopens-in-syria-with-turkiyes-support/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTk41TVVU"
-        }
-      },
-      {
-        "keyword": "백령도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "인천 백령·연평 등 서해5도 20일부터 여객선 야간 운항 허용",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/UC1oFbztyF"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-18T03:06:49.177874+09:00",
     "label": "03:06",
     "items": [
@@ -2711,6 +2499,108 @@
           "title": "국방부 \"K2C1 소총은 17만여 정이 보급되어 장병들이 실제 사용 중\"",
           "source": "대한민국 정책브리핑",
           "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968268"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-19T14:11:40.746584+09:00",
+    "label": "14:11",
+    "items": [
+      {
+        "keyword": "박주호",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": null
+      },
+      {
+        "keyword": "대박",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"챗GPT가 사란 대로 샀더니 대박\"…AI 조언 듣고 주식한다고? [개미의 세계]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719060109043"
+        }
+      },
+      {
+        "keyword": "이혼 소송",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이혼 당하자 “땅 돌려달라”며 소송 낸 남편…대법서 패소",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260719/134320911/1"
+        }
+      },
+      {
+        "keyword": "추미애",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "추미애, 檢보완수사 일부 인정 주장에 “文정부 전으로 회귀하는 것”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719092837476"
+        }
+      },
+      {
+        "keyword": "이현중",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "주특기 3점슛으로 막판 무력시위…이현중, NBA 생존 도장 찍을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717095507794?f=p"
+        }
+      },
+      {
+        "keyword": "1인당 국민소득",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "韓 1인당 GDP, 환율 1456원 아래면 올해 4만달러…5년 만에 최대폭 증가",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719101328296"
+        }
+      },
+      {
+        "keyword": "살림하는 남자들",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"솔직히 너무 창피했다\" 박서진 여동생, 손장난 들켜 길거리행 ('살림남2') [순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Vuzok31yT7"
+        }
+      },
+      {
+        "keyword": "허경영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "허경영 \"경찰 통화내역 공개해달라\"…항소심도 각하",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719083601699"
+        }
+      },
+      {
+        "keyword": "슈퍼맨이 돌아왔다",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "심형탁, 갑자기 폭풍 오열…'17개월 子' 하루가 조용히 다가가 건넨 ‘뜻밖의 행동’ ('슈돌') [순간포착]",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112840312"
+        }
+      },
+      {
+        "keyword": "구계리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "경북도, 지역 특화어종 산업화 사업 추진 박차",
+          "source": "데일리대구경북뉴스",
+          "url": "https://www.dailydgnews.com/news/article.html?no=257349"
         }
       }
     ]
