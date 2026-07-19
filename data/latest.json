@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-19T18:51:54.679808+09:00",
-  "label": "18:51",
+  "timestamp": "2026-07-19T20:03:59.533998+09:00",
+  "label": "20:03",
   "items": [
     {
-      "keyword": "은행",
+      "keyword": "부동산",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "“대통령님, 대출 좀 풀어주세요”…대토론회 앞두고 시민제안 쏟아졌다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719135701501"
+      }
+    },
+    {
+      "keyword": "시청률",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "첫방부터 무너졌다…3%대 시청률 굴욕, 주말극 4파전서 '꼴찌 불명예' ('오싹한연애')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719170250955"
+      }
+    },
+    {
+      "keyword": "성과급",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "은행권 가계대출 여력 바닥…금리 상승까지 실수요자 '이중고'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260718001500002"
+        "title": "최태원 “하이닉스 성과급, 이해관계자 행복 해치면 바꿔야”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/35Qcl7pXv8"
       }
     },
     {
-      "keyword": "법원",
+      "keyword": "바지",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "금품 살포 혐의 수협 조합장, 항소심도 징역형",
-        "source": "제민일보",
-        "url": "http://www.jemin.com/news/articleView.html?idxno=840419"
+        "title": "하루 5억원 넘게 팔렸다…폭염·폭우에 편의점서 불티난 제품 [류은혁의 유통기한]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607108188i"
       }
     },
     {
-      "keyword": "야구",
+      "keyword": "부천 대 fc 서울",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘키움전 6연패·후반기 3연패’ 위기의 한화, 결국 믿을건 류현진 뿐이다…韓·美 2500K+후반기 첫 승 도전",
+        "title": "'이기면 2위와 8점 차' 김기동 서울 감독, 부천 원정 앞두고 \"포항전 지켜봐...한 번의 실수가 실점 된다\" [현장인터뷰]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/football/2026/07/19/MM4DINBYHE4WMNBYGFSTQYLDHA/"
+      }
+    },
+    {
+      "keyword": "현대자동차그룹",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "정의선, 사재 1200억 쏟아부었다…보스턴다이내믹스 지분 25%로",
         "source": "Daum",
-        "url": "https://v.daum.net/v/qXIC3zUZCE"
+        "url": "https://v.daum.net/v/tPJMVjgRCI"
       }
     },
     {
-      "keyword": "다이소",
+      "keyword": "제니",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“다이소 아니었어?” 모르고 구경하다 깜짝…조용히 잘 나간다는 ‘이곳’ [언박싱]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719115149337"
+        "title": "제니, 의문의 남성과 투샷",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20260719/134321112/1"
       }
     },
     {
-      "keyword": "트레킹",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[포토] 청정 계곡 가르며 더위 탈출",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260718500251"
-      }
-    },
-    {
-      "keyword": "facebook",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Users of Meta's Facebook, Instagram report suffering some outages",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/users-metas-facebook-instagram-report-suffering-some-outages-2026-07-19/"
-      }
-    },
-    {
-      "keyword": "브라이슨 디섐보",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "매킬로이, 디오픈서 벌타받은 디섐보에 \"관심을 구걸하는 선수\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719072352970"
-      }
-    },
-    {
-      "keyword": "안동시",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "앤 공주 발길 멈춘 사진 한 장…27년 전 안동의 기억이었다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260719_0003713859"
-      }
-    },
-    {
-      "keyword": "아리엘 후라도",
+      "keyword": "백악관",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"대체 외인 언제 오는지\" 후라도 없는 삼성 선발진, '주 1회 등판' 정책 폐기하나 …일단 'KBO 2호' 육성 신인 선발 출격 [오!쎈 대구]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260718190550562"
+        "title": "\"트럼프 가족이익-업무 뒤섞어\" 이해충돌 백악관, 이런 일까지 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/07/19/2026071910422099108"
       }
     },
     {
-      "keyword": "south korea",
+      "keyword": "프로야구 중계",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "KBO, 관중 이어 TV·OTT 시청률도 '사상 최고'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/KZ9GWAaeai"
+      }
+    },
+    {
+      "keyword": "kia vs ssg",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "9 Out of 10 South Koreans Say Impact of Overseas Leakage of Core Technologies Is Severe, Call for Stronger Penalties",
-        "source": "news.sbs.co.kr",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008664004"
+        "title": "SSG Landers seek rebound after roster losses, eyeing cleanup trio against KIA - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/07/19/2WXNVU4CUFFHTL2RTQWV7E4ISE/"
       }
     }
   ]

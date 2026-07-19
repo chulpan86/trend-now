@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T07:38:28.904079+09:00",
-    "label": "07:38",
-    "items": [
-      {
-        "keyword": "현대자동차",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“로봇 노동자 때문에”…현대차 노조 파업에 외신이 주목하는 이유 [잇슈 머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6Mbg5NoMTm"
-        }
-      },
-      {
-        "keyword": "필라델피아 반도체 지수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "뉴욕증시, 반도체 매도세 지속에 하락…나스닥 1.4%↓(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718054841086"
-        }
-      },
-      {
-        "keyword": "중앙일보",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "중앙 워크아웃, 계열사 각자도생… JTBC와 통합노조도 분리 수순",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715092148059"
-        }
-      },
-      {
-        "keyword": "종합부동산세",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“올해 파느냐 내년에 파느냐에 7억 갈린다”…세제 개편 앞둔 ‘1주택자’의 절세법은 [잘살아보세]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718053509020"
-        }
-      },
-      {
-        "keyword": "spcx",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "tqqq",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Independent Financial Group LLC Buys New Position in ProShares UltraPro QQQ $TQQQ",
-          "source": "MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-independent-financial-group-llc-buys-new-position-in-proshares-ultrapro-qqq-tqqq-2026-07-17/"
-        }
-      },
-      {
-        "keyword": "天気",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "3連休 関東以西は急な雷雨に注意",
-          "source": "Yahoo!ニュース",
-          "url": "https://news.yahoo.co.jp/pickup/6588343"
-        }
-      },
-      {
-        "keyword": "부산날씨",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "부산·울산·경남 가끔 비…낮 최고 29∼33도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260718009200057"
-        }
-      },
-      {
-        "keyword": "nvda",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA)",
-          "source": "Seeking Alpha",
-          "url": "https://seekingalpha.com/article/4922631-nvidia-the-tsmc-earnings-release-was-a-warning-shot"
-        }
-      },
-      {
-        "keyword": "애플 주가",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260717063900072"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-18T08:42:30.645413+09:00",
     "label": "08:42",
     "items": [
@@ -2389,6 +2287,112 @@
           "title": "9 Out of 10 South Koreans Say Impact of Overseas Leakage of Core Technologies Is Severe, Call for Stronger Penalties",
           "source": "news.sbs.co.kr",
           "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008664004"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-19T20:03:59.533998+09:00",
+    "label": "20:03",
+    "items": [
+      {
+        "keyword": "부동산",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“대통령님, 대출 좀 풀어주세요”…대토론회 앞두고 시민제안 쏟아졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719135701501"
+        }
+      },
+      {
+        "keyword": "시청률",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "첫방부터 무너졌다…3%대 시청률 굴욕, 주말극 4파전서 '꼴찌 불명예' ('오싹한연애')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719170250955"
+        }
+      },
+      {
+        "keyword": "성과급",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "최태원 “하이닉스 성과급, 이해관계자 행복 해치면 바꿔야”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/35Qcl7pXv8"
+        }
+      },
+      {
+        "keyword": "바지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "하루 5억원 넘게 팔렸다…폭염·폭우에 편의점서 불티난 제품 [류은혁의 유통기한]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607108188i"
+        }
+      },
+      {
+        "keyword": "부천 대 fc 서울",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'이기면 2위와 8점 차' 김기동 서울 감독, 부천 원정 앞두고 \"포항전 지켜봐...한 번의 실수가 실점 된다\" [현장인터뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/07/19/MM4DINBYHE4WMNBYGFSTQYLDHA/"
+        }
+      },
+      {
+        "keyword": "현대자동차그룹",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "정의선, 사재 1200억 쏟아부었다…보스턴다이내믹스 지분 25%로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tPJMVjgRCI"
+        }
+      },
+      {
+        "keyword": "제니",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "제니, 의문의 남성과 투샷",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260719/134321112/1"
+        }
+      },
+      {
+        "keyword": "백악관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"트럼프 가족이익-업무 뒤섞어\" 이해충돌 백악관, 이런 일까지 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/07/19/2026071910422099108"
+        }
+      },
+      {
+        "keyword": "프로야구 중계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KBO, 관중 이어 TV·OTT 시청률도 '사상 최고'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KZ9GWAaeai"
+        }
+      },
+      {
+        "keyword": "kia vs ssg",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "SSG Landers seek rebound after roster losses, eyeing cleanup trio against KIA - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/19/2WXNVU4CUFFHTL2RTQWV7E4ISE/"
         }
       }
     ]
