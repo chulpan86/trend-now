@@ -1,35 +1,55 @@
 {
-  "timestamp": "2026-07-19T23:19:58.637853+09:00",
-  "label": "23:19",
+  "timestamp": "2026-07-20T00:46:08.321096+09:00",
+  "label": "00:46",
   "items": [
-    {
-      "keyword": "월드컵 결승 시간",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[월드컵] \"미래가 영원을 상대한다\"…19세 야말, 39세 메시와 맞대결",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260719039400007"
-      }
-    },
     {
       "keyword": "김정은",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "이동건-김정은 무려 20년 만에 다시 입맞춤…진심 고백 (미우새)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260719/134321411/1"
+        "title": "'파리의 연인' 이동건·김정은·박신양, 20년만 깜짝 재회",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719204316666"
       }
     },
     {
-      "keyword": "나마디 조엘 진",
+      "keyword": "변우석",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이",
+        "title": "파격 장발에 헐벗은 변우석, 누군지 몰라볼 뻔 했네 '깜짝'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/19/MQZDMNZZMNSGEMLGMVTDANZUGM/"
+      }
+    },
+    {
+      "keyword": "김혜수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719162448369"
+        "url": "https://v.daum.net/v/20260719190049156"
+      }
+    },
+    {
+      "keyword": "논쟁",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "문희상 “전대 ‘적통 논쟁’ 한심…대통령 뒷받침·직언하는 당 대표 필요”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1268923.html"
+      }
+    },
+    {
+      "keyword": "현대건설",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719170140931"
       }
     },
     {
@@ -47,9 +67,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "류현진, 한미 통산 2천500탈삼진 돌파…한국 투수 최초 대기록(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705033151007"
+        "title": "프로야구 류현진 한미 통산 2,500K 돌파…전인미답 대기록",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8614347"
       }
     },
     {
@@ -63,13 +83,13 @@
       }
     },
     {
-      "keyword": "야구 순위",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "케스파컵",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "[프로야구] 중간 순위(19일)",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/baseball/6232211"
+        "title": "KeSPA컵 20일 시작… 농심-한진 개막전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/3yv7sTlwWW"
       }
     },
     {
@@ -77,29 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[포토] 베네수 지진 피해자들의 장난감",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719211249995"
-      }
-    },
-    {
-      "keyword": "수원삼성",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "K리그2 수원, 파주와 0-0 무승부…경남·화성·충북청주는 승리",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260719_0003714281"
-      }
-    },
-    {
-      "keyword": "k리그1 순위",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[K리그1] 중간 순위(19일)",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/soccer/6232196"
+        "title": "[포토뉴스]설명회장 밖에서까지…입시 열기 ‘후끈’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607192119005"
       }
     }
   ]
