@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-19T14:11:40.746584+09:00",
-  "label": "14:11",
+  "timestamp": "2026-07-19T16:59:38.675127+09:00",
+  "label": "16:59",
   "items": [
     {
-      "keyword": "박주호",
+      "keyword": "저축",
       "traffic_raw": "5000+",
       "traffic": 5000,
-      "news": null
+      "news": {
+        "title": "“주식 무섭죠? 더 드릴테니 돌아오세요”…은행들 연 10% 특판 쏟아낸다",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12101565"
+      }
     },
     {
-      "keyword": "대박",
+      "keyword": "최태원",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"챗GPT가 사란 대로 샀더니 대박\"…AI 조언 듣고 주식한다고? [개미의 세계]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719060109043"
+        "title": "최태원 \"미국에도 하이닉스 공장 고려...공급 늘려 메모리 가격 낮춰야\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/07/19/H5BBUH3XZJB7JK56FAVNXAL7JU/"
       }
     },
     {
-      "keyword": "이혼 소송",
+      "keyword": "도경완",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "장윤정 7세 딸 화장에 도경완 \"너무 일러\"…딸은 \"엄마 따라하고파\"",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6549763"
+      }
+    },
+    {
+      "keyword": "국내총생산",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "이혼 당하자 “땅 돌려달라”며 소송 낸 남편…대법서 패소",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260719/134320911/1"
+        "title": "올해 1인당 GDP 3만9천달러 추산…5년만에 최대폭 증가",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260718025600002"
       }
     },
     {
-      "keyword": "추미애",
+      "keyword": "두산 베어스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "두산 베어스, 26일 삼성전서 '7월 베어스데이' 이벤트 진행",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260718n05066"
+      }
+    },
+    {
+      "keyword": "서희제",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "추미애, 檢보완수사 일부 인정 주장에 “文정부 전으로 회귀하는 것”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719092837476"
+        "title": "'구준엽 처제' 서희제, 언니 자녀 둘러싼 루머에 분통 \"정말 지친다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260719_0003714073"
       }
     },
     {
-      "keyword": "이현중",
+      "keyword": "도로",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "주특기 3점슛으로 막판 무력시위…이현중, NBA 생존 도장 찍을까",
+        "title": "중대본 \"호우특보 해제 뒤로도 당분간 대응체제 유지·피해수습\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260717095507794?f=p"
+        "url": "https://v.daum.net/v/20260719111953668"
       }
     },
     {
-      "keyword": "1인당 국민소득",
+      "keyword": "찰리 반즈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "韓 1인당 GDP, 환율 1456원 아래면 올해 4만달러…5년 만에 최대폭 증가",
+        "title": "\"대체 외인 언제 오는지\" 후라도 없는 삼성 선발진, '주 1회 등판' 정책 폐기하나 …일단 'KBO 2호' 육성 신인 선발 출격 [오!쎈 대구]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719101328296"
+        "url": "https://v.daum.net/v/20260718190550562"
       }
     },
     {
-      "keyword": "살림하는 남자들",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"솔직히 너무 창피했다\" 박서진 여동생, 손장난 들켜 길거리행 ('살림남2') [순간포착]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Vuzok31yT7"
-      }
-    },
-    {
-      "keyword": "허경영",
+      "keyword": "선수",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "허경영 \"경찰 통화내역 공개해달라\"…항소심도 각하",
+        "title": "[월드컵] 메시 \"한달 버티기 힘든 국민\"…아르헨 정부 \"동의 안 해\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260719001100009"
+      }
+    },
+    {
+      "keyword": "에르난데스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘키움전 6연패·후반기 3연패’ 위기의 한화, 결국 믿을건 류현진 뿐이다…韓·美 2500K+후반기 첫 승 도전",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719083601699"
-      }
-    },
-    {
-      "keyword": "슈퍼맨이 돌아왔다",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "심형탁, 갑자기 폭풍 오열…'17개월 子' 하루가 조용히 다가가 건넨 ‘뜻밖의 행동’ ('슈돌') [순간포착]",
-        "source": "OSEN",
-        "url": "http://www.osen.co.kr/article/G1112840312"
-      }
-    },
-    {
-      "keyword": "구계리",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "경북도, 지역 특화어종 산업화 사업 추진 박차",
-        "source": "데일리대구경북뉴스",
-        "url": "https://www.dailydgnews.com/news/article.html?no=257349"
+        "url": "https://v.daum.net/v/qXIC3zUZCE"
       }
     }
   ]
