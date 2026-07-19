@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-20T06:40:58.182460+09:00",
-  "label": "06:40",
+  "timestamp": "2026-07-20T07:40:59.186507+09:00",
+  "label": "07:40",
   "items": [
     {
-      "keyword": "번개",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "민생지원금",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "[날씨] 오전까지 중부 곳곳 강한 비…밤낮 가리지 않는 무더위",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720054812739"
+        "title": "\"추석 전 1인당 20만원씩 드려요\"…민생지원금 주는 이곳",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=03050406645515504&mediaCodeNo=257"
       }
     },
     {
-      "keyword": "연금",
+      "keyword": "월드컵 결과",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "기초연금 지급 기준 바뀐다는데…대거 수급 탈락하나",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/rights/1268892.html"
+        "title": "‘골이 몇 개 터진 거야?’…‘도파민 축구’ 된 3·4위전",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12309013"
       }
     },
     {
-      "keyword": "미운 우리 새끼",
+      "keyword": "안세영",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "미운 우리 새끼 : [7월 26일 예고] 린, 조진세×황치열과 함께 미식의 도시 군산에서 매운 잡채×호떡 먹방",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480775383"
-      }
-    },
-    {
-      "keyword": "전당 대회",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "친청계 ‘생일 투표’ 전략 공유에 김민석파 ‘격앙’···“이게 진짜 계파 정치, 당원 모독”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607191749001"
-      }
-    },
-    {
-      "keyword": "홍준표",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "홍준표, 한동훈 배우자 정조준...\"제2의 김건희 되나\"",
+        "title": "올해 딱 1번 패한 안세영…'자신과의 싸움'에 무리할 필요 없다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/fug1iNoMr8"
+        "url": "https://v.daum.net/v/BcFJwNoMY1?f=p"
       }
     },
     {
-      "keyword": "hd현대중공업",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "이강인",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "HD현대중공업, 페루서 차세대 잠수함 ‘HDS-MGP’ 확정…중남미 수중시장 석권포석",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607190633019617e8b8a793f7_1"
+        "title": "구자철 “한국축구 망했다”…이대로면 10년 후 더 후퇴",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20260719/134322601/1"
       }
     },
     {
-      "keyword": "류현진",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "고우석",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[그래픽] 류현진 한미 통산 2,500탈삼진 돌파",
+        "title": "고우석, 후반기 첫 등판서 만루 위기 넘기고 1이닝 무실점",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/GYH20260719000800044"
+        "url": "https://www.yna.co.kr/view/AKR20260720010400007"
       }
     },
     {
-      "keyword": "jadwal piala dunia 2026",
+      "keyword": "진태현",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[단독]'이숙캠' 진태현, 작별 인사도 없더니..감사패마저 매니저 통해 전달",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719065548609"
+      }
+    },
+    {
+      "keyword": "육아",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“육아휴직 쓰느니 차라리 야근을…” 직장인 46%가 눈치 보는 현실",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719185508044"
+      }
+    },
+    {
+      "keyword": "월드컵 통계",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "정반대 충격 \"손흥민이 골을 넣었다면 한국 성적은 달라졌을 것\"…홍명보호 조기 탈락, 외국은 다르게 분석했다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716020637432"
+      }
+    },
+    {
+      "keyword": "송성문",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'송성문 결장' 샌디에이고, 캔자스시티에 1-6 패…원정 2연패",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719084049747"
+      }
+    },
+    {
+      "keyword": "김승현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "LIVE Spanyol Vs Argentina 0-0: Enzo Fernandez Diganjar Kartu Merah di Menit Akhir",
-        "source": "Kompas.com",
-        "url": "https://bola.kompas.com/read/2026/07/20/04143378/live-spanyol-vs-argentina-0-0-enzo-fernandez-diganjar-kartu-merah-di-menit-akhir"
-      }
-    },
-    {
-      "keyword": "오타니 쇼헤이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"오타니 이날 등판할 듯\" 로버츠가 직접 답했다…무릎 변수 여전한데, 약속 지킬 수 있을까",
+        "title": "\"앉을 시간이 있냐\"...김승현母, 혼자 삼계탕 끓이다 며느리 장정윤에 ‘폭발’ ('광산김씨패밀리') [순간포착]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719012751209?f=p"
-      }
-    },
-    {
-      "keyword": "로메로",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "토트넘 '손흥민 후임' 내보낸다…\"농구였다면 테크니컬 파울\" 1002억 요구→802억도 OK, 이미 '로메로 없는 팀'으로 새 시즌 준비 착수",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719231239219"
+        "url": "https://v.daum.net/v/p1mYzf9UTP"
       }
     }
   ]
