@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-20T03:51:00.345308+09:00",
-  "label": "03:51",
+  "timestamp": "2026-07-20T05:01:57.243431+09:00",
+  "label": "05:01",
   "items": [
     {
-      "keyword": "ewc",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "DK's Narrative Complete: Crowned 2026 Champions",
-        "source": "Inven Global",
-        "url": "https://www.invenglobal.com/articles/23927/dks-narrative-complete-crowned-2026-champions"
-      }
-    },
-    {
-      "keyword": "공희용",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "배드민턴 세계 1위 서승재·김원호 일본오픈 준우승…2연패 무산",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ViQdy1XS0m"
-      }
-    },
-    {
-      "keyword": "나 마디 조엘 진",
+      "keyword": "tây ban nha đấu với argentina",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ya6GPdMV1R"
+        "title": "Lịch thi đấu World Cup 2026 chung kết: Tây Ban Nha vs Argentina",
+        "source": "Thể Thao 247",
+        "url": "https://thethao247.vn/world-cup/72-lich-thi-dau-world-cup-2026-chung-ket-d423946.html"
       }
     },
     {
-      "keyword": "변우석",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "파격 장발에 헐벗은 변우석, 누군지 몰라볼 뻔 했네 '깜짝'",
-        "source": "OSEN",
-        "url": "http://www.osen.co.kr/article/G1112842429"
-      }
-    },
-    {
-      "keyword": "김혜수",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719190049156"
-      }
-    },
-    {
-      "keyword": "포헨즈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "당대표",
+      "keyword": "스포츠",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "김민석·송영길 부산서 당심 공략…21일 예비경선",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8614403"
+        "title": "김시우, 디오픈 골프서 역대 최고 성적 공동 6위…우승은 폭스",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260720001900007"
       }
     },
     {
-      "keyword": "현대건설",
+      "keyword": "kbs",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719170140931"
+        "title": "Lee Yo-won teases Park Seojin about cosmetic surgery during museum visit - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-entertainment/2026/07/19/OYPGFCEHX5AVPJ4WUE6Z4265TI/"
       }
     },
     {
-      "keyword": "담원기아",
+      "keyword": "붐",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "붐 첫째 딸, 최초 공개…인형 미모+깜찍 미소 (최우수산)",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260720n00742"
+      }
+    },
+    {
+      "keyword": "jtbc 월드컵 중계",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "프랑스 : 잉글랜드 하이라이트…2026 북중미 월드컵 3·4위전",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12308956"
+      }
+    },
+    {
+      "keyword": "강승식",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "LCK 프로게임단 디플러스 기아 운영난으로 임금체불",
-        "source": "데일리e스포츠",
-        "url": "https://www.dailyesports.com/view.php?ud=202607161324005293b91e133c1f_27"
+        "title": "1970년대 큰 인기 ‘춤을 추어요’ 만든 강승식 별세",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719181929392"
       }
     },
     {
-      "keyword": "남주혁",
+      "keyword": "헐크",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'동궁' 노윤서, 미모는 합격 연기력은 숙제 [엑's 초점]",
+        "title": "‘Avengers: Armageddon’ #3 Preview Teases the Fallout of Red Hulk’s Battle with David Colton",
+        "source": "Marvel.com",
+        "url": "https://www.marvel.com/articles/comics/avengers-armageddon-3-preview-teases-red-hulk-david-colton-battle-chip-zdarsky-interview"
+      }
+    },
+    {
+      "keyword": "아프리카",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"감염된 줄 모르고 옮긴다\"…치명률 40% 육박",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719110550376"
+        "url": "https://v.daum.net/v/20260718204250457"
+      }
+    },
+    {
+      "keyword": "북중미 월드컵 결승",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[인터뷰] 박문성이 본 북중미 월드컵…결승 전망부터 축협 문제까지",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260719n14765"
+      }
+    },
+    {
+      "keyword": "월드컵 폐막식",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"또 공중 낙하?\"…톰 크루즈, 월드컵 폐막식 특별출연 [스타이슈]",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260715n22328?mid=e1100"
       }
     }
   ]
