@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-07-19T16:59:38.675127+09:00",
-  "label": "16:59",
+  "timestamp": "2026-07-19T18:51:54.679808+09:00",
+  "label": "18:51",
   "items": [
     {
-      "keyword": "저축",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "“주식 무섭죠? 더 드릴테니 돌아오세요”…은행들 연 10% 특판 쏟아낸다",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12101565"
-      }
-    },
-    {
-      "keyword": "최태원",
+      "keyword": "은행",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "최태원 \"미국에도 하이닉스 공장 고려...공급 늘려 메모리 가격 낮춰야\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/07/19/H5BBUH3XZJB7JK56FAVNXAL7JU/"
-      }
-    },
-    {
-      "keyword": "도경완",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "장윤정 7세 딸 화장에 도경완 \"너무 일러\"…딸은 \"엄마 따라하고파\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6549763"
-      }
-    },
-    {
-      "keyword": "국내총생산",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "올해 1인당 GDP 3만9천달러 추산…5년만에 최대폭 증가",
+        "title": "은행권 가계대출 여력 바닥…금리 상승까지 실수요자 '이중고'",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260718025600002"
+        "url": "https://www.yna.co.kr/view/AKR20260718001500002"
       }
     },
     {
-      "keyword": "두산 베어스",
+      "keyword": "법원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "금품 살포 혐의 수협 조합장, 항소심도 징역형",
+        "source": "제민일보",
+        "url": "http://www.jemin.com/news/articleView.html?idxno=840419"
+      }
+    },
+    {
+      "keyword": "야구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘키움전 6연패·후반기 3연패’ 위기의 한화, 결국 믿을건 류현진 뿐이다…韓·美 2500K+후반기 첫 승 도전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qXIC3zUZCE"
+      }
+    },
+    {
+      "keyword": "다이소",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "두산 베어스, 26일 삼성전서 '7월 베어스데이' 이벤트 진행",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260718n05066"
-      }
-    },
-    {
-      "keyword": "서희제",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'구준엽 처제' 서희제, 언니 자녀 둘러싼 루머에 분통 \"정말 지친다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260719_0003714073"
-      }
-    },
-    {
-      "keyword": "도로",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "중대본 \"호우특보 해제 뒤로도 당분간 대응체제 유지·피해수습\"",
+        "title": "“다이소 아니었어?” 모르고 구경하다 깜짝…조용히 잘 나간다는 ‘이곳’ [언박싱]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260719111953668"
+        "url": "https://v.daum.net/v/20260719115149337"
       }
     },
     {
-      "keyword": "찰리 반즈",
+      "keyword": "트레킹",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[포토] 청정 계곡 가르며 더위 탈출",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260718500251"
+      }
+    },
+    {
+      "keyword": "facebook",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Users of Meta's Facebook, Instagram report suffering some outages",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/users-metas-facebook-instagram-report-suffering-some-outages-2026-07-19/"
+      }
+    },
+    {
+      "keyword": "브라이슨 디섐보",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "매킬로이, 디오픈서 벌타받은 디섐보에 \"관심을 구걸하는 선수\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260719072352970"
+      }
+    },
+    {
+      "keyword": "안동시",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "앤 공주 발길 멈춘 사진 한 장…27년 전 안동의 기억이었다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260719_0003713859"
+      }
+    },
+    {
+      "keyword": "아리엘 후라도",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
@@ -83,23 +93,13 @@
       }
     },
     {
-      "keyword": "선수",
+      "keyword": "south korea",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[월드컵] 메시 \"한달 버티기 힘든 국민\"…아르헨 정부 \"동의 안 해\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260719001100009"
-      }
-    },
-    {
-      "keyword": "에르난데스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘키움전 6연패·후반기 3연패’ 위기의 한화, 결국 믿을건 류현진 뿐이다…韓·美 2500K+후반기 첫 승 도전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qXIC3zUZCE"
+        "title": "9 Out of 10 South Koreans Say Impact of Overseas Leakage of Core Technologies Is Severe, Call for Stronger Penalties",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008664004"
       }
     }
   ]
