@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-20T02:48:58.274525+09:00",
-  "label": "02:48",
+  "timestamp": "2026-07-20T03:51:00.345308+09:00",
+  "label": "03:51",
   "items": [
     {
       "keyword": "ewc",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "DK's Narrative Complete: 2026 Champions",
+        "title": "DK's Narrative Complete: Crowned 2026 Champions",
         "source": "Inven Global",
-        "url": "https://www.invenglobal.com/articles/23927/dks-narrative-complete-2026-champions"
+        "url": "https://www.invenglobal.com/articles/23927/dks-narrative-complete-crowned-2026-champions"
       }
     },
     {
@@ -20,6 +20,16 @@
         "title": "배드민턴 세계 1위 서승재·김원호 일본오픈 준우승…2연패 무산",
         "source": "Daum",
         "url": "https://v.daum.net/v/ViQdy1XS0m"
+      }
+    },
+    {
+      "keyword": "나 마디 조엘 진",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/ya6GPdMV1R"
       }
     },
     {
@@ -43,6 +53,22 @@
       }
     },
     {
+      "keyword": "포헨즈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "당대표",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김민석·송영길 부산서 당심 공략…21일 예비경선",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8614403"
+      }
+    },
+    {
       "keyword": "현대건설",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -50,16 +76,6 @@
         "title": "반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260719170140931"
-      }
-    },
-    {
-      "keyword": "논쟁",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "박홍근 \"전대, 누가 사심없이 대통령 떠받칠 사람인지 선택하는 장 돼야\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719220649719"
       }
     },
     {
@@ -73,16 +89,6 @@
       }
     },
     {
-      "keyword": "포헨즈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“하나의 피아노, 두 명의 천재”…송강·이준영 ‘포핸즈’ 듀오 포스터 공개",
-        "source": "insight.co.kr",
-        "url": "https://www.insight.co.kr/news/563028"
-      }
-    },
-    {
       "keyword": "남주혁",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -90,16 +96,6 @@
         "title": "'동궁' 노윤서, 미모는 합격 연기력은 숙제 [엑's 초점]",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260719110550376"
-      }
-    },
-    {
-      "keyword": "케스파컵",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "KeSPA컵 20일 시작… 농심-한진 개막전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/3yv7sTlwWW"
       }
     }
   ]

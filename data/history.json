@@ -2612,5 +2612,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-20T03:51:00.345308+09:00",
+    "label": "03:51",
+    "items": [
+      {
+        "keyword": "ewc",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "DK's Narrative Complete: Crowned 2026 Champions",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/23927/dks-narrative-complete-crowned-2026-champions"
+        }
+      },
+      {
+        "keyword": "공희용",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "배드민턴 세계 1위 서승재·김원호 일본오픈 준우승…2연패 무산",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ViQdy1XS0m"
+        }
+      },
+      {
+        "keyword": "나 마디 조엘 진",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "나마디 조엘진, 남자 100ｍ 10초13…선수 기준 역대 2위 타이",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ya6GPdMV1R"
+        }
+      },
+      {
+        "keyword": "변우석",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "파격 장발에 헐벗은 변우석, 누군지 몰라볼 뻔 했네 '깜짝'",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112842429"
+        }
+      },
+      {
+        "keyword": "김혜수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김혜수, 11세 연하 김지훈과 '부부 케미' 예고…비주얼 커플 [N샷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719190049156"
+        }
+      },
+      {
+        "keyword": "포헨즈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "당대표",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김민석·송영길 부산서 당심 공략…21일 예비경선",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8614403"
+        }
+      },
+      {
+        "keyword": "현대건설",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "반토막 난 현대건설, 목표가 줄하향에도 “사라”…대체 왜? [종목Pick]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719170140931"
+        }
+      },
+      {
+        "keyword": "담원기아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LCK 프로게임단 디플러스 기아 운영난으로 임금체불",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=202607161324005293b91e133c1f_27"
+        }
+      },
+      {
+        "keyword": "남주혁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'동궁' 노윤서, 미모는 합격 연기력은 숙제 [엑's 초점]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719110550376"
+        }
+      }
+    ]
   }
 ]
