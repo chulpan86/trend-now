@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T20:44:28.786690+09:00",
-    "label": "20:44",
-    "items": [
-      {
-        "keyword": "선우용여",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "선우용여, 전원주에 \"자기 멋대로…뻔뻔스러워져\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260718_0003713637"
-        }
-      },
-      {
-        "keyword": "대전 대 울산",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": null
-      },
-      {
-        "keyword": "강원 대 김천상무",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "강원FC, 내일 김천 상대 홈경기…속초시민 할인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/q6Y5X1XSSM"
-        }
-      },
-      {
-        "keyword": "공무원시험",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "인사혁신처 \"국가공무원 '7급 공채' 1차 필기시험 잠정 응시율 61.1%\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718164411246"
-        }
-      },
-      {
-        "keyword": "tving",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "송진우",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "동상이몽2_너는 내 운명 : 송진우, 터질듯한 수집품으로 방 2개 가득 채워 쪽방 신세 지는 가족들",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&type=ucc&content_id=OC480722423"
-        }
-      },
-      {
-        "keyword": "펩 과르디올라",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "충격 폭로! \"과르디올라, 잉글랜드와 구두 합의까지 마쳤었다\"…英, 월드컵 우승할 수도 있었는데 \"최종 단계서 변심→FA는 투헬 선임\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718121210479"
-        }
-      },
-      {
-        "keyword": "오싹한 연애",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "귀신 보는 박은빈, 소지섭·남궁민·지성 잡을까…'오싹한 연애' D-DAY - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/18/2026071815307295685"
-        }
-      },
-      {
-        "keyword": "브라이슨 디섐보",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "디섐보, 디오픈서 '라이 개선'으로 벌타…람은 클럽 던져 경고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Wu5barEo1U"
-        }
-      },
-      {
-        "keyword": "밤하늘",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-18T21:51:59.720833+09:00",
     "label": "21:51",
     "items": [
@@ -2716,6 +2622,108 @@
           "source": "Daum",
           "url": "https://v.daum.net/v/p1mYzf9UTP"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-20T08:47:13.395361+09:00",
+    "label": "08:47",
+    "items": [
+      {
+        "keyword": "와일드 씽",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"강동원 믿었는데\"…제작비 80억 '와일드 씽'도 결국 넷플릭스행 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/19/2026071907025944825"
+        }
+      },
+      {
+        "keyword": "안정환",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "최현석, JTBC 부도 간접 언급…\"출연료 줄이고 한 명 빼자\" ('냉부해')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720073613742"
+        }
+      },
+      {
+        "keyword": "황신혜",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'63세' 황신혜, 대체 관리를 어떻게 하길래…민소매로 드러난 선명한 '구릿빛 근육'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719211409012"
+        }
+      },
+      {
+        "keyword": "면허",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'평생 무면허' 50대, 만취 운전하다 '쾅, 쾅' 사고까지…결국 실형 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/18/2026071812413835623"
+        }
+      },
+      {
+        "keyword": "월드컵 우승 상금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "스페인 vs 아르헨티나… 월드컵 우승상금 760억원 주인 가린다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_general/2026/07/20/M3W3MUWFEJHYREJGEKECK5L5RM/"
+        }
+      },
+      {
+        "keyword": "철도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"철도 8개 노선 추진 … 안양 교통허브 된다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719171210112"
+        }
+      },
+      {
+        "keyword": "lionel messi",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Spain beat Argentina 1-0 after extra time to win the 2026 World Cup – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates"
+        }
+      },
+      {
+        "keyword": "로또",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "로또 1233회 당첨번호 8억, '곤두박질 와중에 41억 쥐나'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8zkdY6fzkN"
+        }
+      },
+      {
+        "keyword": "기후동행카드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "기후동행카드 종료 코앞…\"난 이제 할인 못 받아?\" 이용자 불만↑",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260716_0003712573"
+        }
+      },
+      {
+        "keyword": "카보베르데",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
       }
     ]
   }
