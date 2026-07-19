@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T17:42:06.559291+09:00",
-    "label": "17:42",
-    "items": [
-      {
-        "keyword": "이정후",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "이정후, 후반기 첫 경기부터 3안타 …시즌 30호 멀티 히트",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607181531001"
-        }
-      },
-      {
-        "keyword": "뉴스",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[속보] 러시아 매체 “최선희 북한 외무상, 오늘 모스크바 방문”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607181510001"
-        }
-      },
-      {
-        "keyword": "파친코",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "전세계가 울었다…재편성에도 '시청률 4.1%' 신드롬→시즌2로 안방 극장 공략 나선 韓 드라마 ('파친코2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/U2YSNmDgZ6"
-        }
-      },
-      {
-        "keyword": "인천 쿠팡 화재",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "인천 쿠팡 물류센터 화재...소방청, 국가소방동원령 발령",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202607181555124069"
-        }
-      },
-      {
-        "keyword": "주식시장",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“하이닉스 230만 복구하면 탈출”…슈퍼리치들도 국장에 학뗐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260717195701904"
-        }
-      },
-      {
-        "keyword": "염승환",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "6800선까지 밀린 코스피…빅테크·SK하이닉스 실적이 반등 가른다 [투자360]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tSWyB0tWX4"
-        }
-      },
-      {
-        "keyword": "폭력 조직",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "눈 마주친 행인 기절할 때까지 때렸다…수원북문파 조폭들 집유, 왜",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/XxmeSZGhvk"
-        }
-      },
-      {
-        "keyword": "박지영 아나운서",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박지영 아나운서, 청순 비주얼에 반전 몸매 자랑…강렬한 레드빛 비키니 자태 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/07/18/GRQTCYLCMU3DEYJYME3DSYTCHA/"
-        }
-      },
-      {
-        "keyword": "마르크 쿠쿠레야",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "폭탄 발언! 27살인데 \"월드컵 우승하면 다음 날 은퇴\" WC 도중 레알 마드리드 이적한 쿠쿠레야 공약 재조명…감독 얼굴 문신까지 예고",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260718n04341"
-        }
-      },
-      {
-        "keyword": "유학",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“美유학 출국 앞두고 날벼락”… 韓학생-가족 등 2만5000명 비상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BmUmSTlwuL"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-18T19:09:14.688255+09:00",
     "label": "19:09",
     "items": [
@@ -2711,6 +2605,112 @@
           "title": "\"또 공중 낙하?\"…톰 크루즈, 월드컵 폐막식 특별출연 [스타이슈]",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260715n22328?mid=e1100"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-20T06:40:58.182460+09:00",
+    "label": "06:40",
+    "items": [
+      {
+        "keyword": "번개",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "[날씨] 오전까지 중부 곳곳 강한 비…밤낮 가리지 않는 무더위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720054812739"
+        }
+      },
+      {
+        "keyword": "연금",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "기초연금 지급 기준 바뀐다는데…대거 수급 탈락하나",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/rights/1268892.html"
+        }
+      },
+      {
+        "keyword": "미운 우리 새끼",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "미운 우리 새끼 : [7월 26일 예고] 린, 조진세×황치열과 함께 미식의 도시 군산에서 매운 잡채×호떡 먹방",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480775383"
+        }
+      },
+      {
+        "keyword": "전당 대회",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "친청계 ‘생일 투표’ 전략 공유에 김민석파 ‘격앙’···“이게 진짜 계파 정치, 당원 모독”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607191749001"
+        }
+      },
+      {
+        "keyword": "홍준표",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "홍준표, 한동훈 배우자 정조준...\"제2의 김건희 되나\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fug1iNoMr8"
+        }
+      },
+      {
+        "keyword": "hd현대중공업",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "HD현대중공업, 페루서 차세대 잠수함 ‘HDS-MGP’ 확정…중남미 수중시장 석권포석",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607190633019617e8b8a793f7_1"
+        }
+      },
+      {
+        "keyword": "류현진",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[그래픽] 류현진 한미 통산 2,500탈삼진 돌파",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20260719000800044"
+        }
+      },
+      {
+        "keyword": "jadwal piala dunia 2026",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LIVE Spanyol Vs Argentina 0-0: Enzo Fernandez Diganjar Kartu Merah di Menit Akhir",
+          "source": "Kompas.com",
+          "url": "https://bola.kompas.com/read/2026/07/20/04143378/live-spanyol-vs-argentina-0-0-enzo-fernandez-diganjar-kartu-merah-di-menit-akhir"
+        }
+      },
+      {
+        "keyword": "오타니 쇼헤이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"오타니 이날 등판할 듯\" 로버츠가 직접 답했다…무릎 변수 여전한데, 약속 지킬 수 있을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719012751209?f=p"
+        }
+      },
+      {
+        "keyword": "로메로",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "토트넘 '손흥민 후임' 내보낸다…\"농구였다면 테크니컬 파울\" 1002억 요구→802억도 OK, 이미 '로메로 없는 팀'으로 새 시즌 준비 착수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260719231239219"
         }
       }
     ]
