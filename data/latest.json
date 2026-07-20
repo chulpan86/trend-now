@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-21T02:22:28.471179+09:00",
-  "label": "02:22",
+  "timestamp": "2026-07-21T04:24:47.168954+09:00",
+  "label": "04:24",
   "items": [
     {
       "keyword": "치어리더",
@@ -13,19 +13,9 @@
       }
     },
     {
-      "keyword": "둠스데이",
+      "keyword": "남도일보",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": {
-        "title": "'어벤져스: 둠스데이' 첫 트레일러, 가면 쓴 로버트 다우니 주니어의 닥터 둠 공개",
-        "source": "Hypebeast.KR",
-        "url": "https://hypebeast.kr/2026/7/marvel-studios-avengers-doomsday-official-trailer-stream"
-      }
-    },
-    {
-      "keyword": "남도일보",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
       "news": {
         "title": "손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”",
         "source": "서울신문",
@@ -33,13 +23,13 @@
       }
     },
     {
-      "keyword": "정지선",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "요르단",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "2026년 창원아카데미, 정지선 토크콘서트 성황리 개최",
-        "source": "케이에스피뉴스",
-        "url": "http://www.kspnews.com/2733206"
+        "title": "이란 “미 전투기 2대 파괴” 영상 공개…이란 전쟁 새 전장 된 요르단",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260720181308100"
       }
     },
     {
@@ -79,7 +69,7 @@
       "news": {
         "title": "박현호·은가은, '살림남' 뜬다…딸바보 일상 최초공개",
         "source": "Daum",
-        "url": "https://v.daum.net/v/5MQsibztvd"
+        "url": "https://v.daum.net/v/20260720183037662?f=p"
       }
     },
     {
@@ -93,13 +83,23 @@
       }
     },
     {
-      "keyword": "홍지민",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "ps",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "'말자쇼' 홍지민, 출산 후 30㎏ 감량 \"온갖 다이어트 다 해봐\"",
+        "title": "PlayStation Store’s Summer Sale arrives on July 15",
+        "source": "PlayStation.Blog",
+        "url": "https://blog.playstation.com/2026/07/14/playstation-stores-summer-sale-arrives-on-july-15/"
+      }
+    },
+    {
+      "keyword": "대구광역시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "임인환 의장 “경청하는 의장 될 것, 무리한 시정엔 분명히 제동”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260720161855467?f=p"
+        "url": "https://v.daum.net/v/20260720144004676"
       }
     }
   ]
