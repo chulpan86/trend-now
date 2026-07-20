@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-07-21T00:01:26.140302+09:00",
-  "label": "00:01",
+  "timestamp": "2026-07-21T02:22:28.471179+09:00",
+  "label": "02:22",
   "items": [
     {
-      "keyword": "장민호",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "치어리더",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "장민호, 김대호와 '무명전설' 시즌2도 MC 확정",
+        "title": "퀸즈아이 서빈,'시구 정말 잘했죠?' [사진]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260720190327333"
+        "url": "https://v.daum.net/v/20260718182011133?f=m"
       }
     },
     {
-      "keyword": "아이유",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "둠스데이",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "아이유, 이관개방증으로 고양 콘서트 취소·앨범 발매 연기",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260720154600005"
+        "title": "'어벤져스: 둠스데이' 첫 트레일러, 가면 쓴 로버트 다우니 주니어의 닥터 둠 공개",
+        "source": "Hypebeast.KR",
+        "url": "https://hypebeast.kr/2026/7/marvel-studios-avengers-doomsday-official-trailer-stream"
       }
     },
     {
       "keyword": "남도일보",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”",
         "source": "서울신문",
@@ -43,39 +43,9 @@
       }
     },
     {
-      "keyword": "홍지민",
+      "keyword": "스파이더맨 브랜드 뉴 데이",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "'말자쇼' 홍지민, 출산 후 30㎏ 감량 \"온갖 다이어트 다 해봐\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1eLejKqF55"
-      }
-    },
-    {
-      "keyword": "하주석",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "유강남? 하주석? \"트레이드, SSG와 엮지 마세요. 관심 없습니다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zhAHuJRfe4"
-      }
-    },
-    {
-      "keyword": "내일도 출근",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘내일도출근’ 관계 전환점",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720083507430"
-      }
-    },
-    {
-      "keyword": "톰홀랜드",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
         "title": "다시 예매 오픈 '스파이더맨: 브랜드 뉴 데이' 50% 육박 1위",
         "source": "Daum",
@@ -83,23 +53,53 @@
       }
     },
     {
-      "keyword": "불꽃야구",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "케빈 키건",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "생중계만 하면 이긴다…불꽃 파이터즈, 동국대 상대로 4연승 도전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720145528457"
+        "title": "잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260721001200085"
       }
     },
     {
-      "keyword": "호프 외계인",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "유병호",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6838759_36918.html"
+      }
+    },
+    {
+      "keyword": "은가은",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "박현호·은가은, '살림남' 뜬다…딸바보 일상 최초공개",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/5MQsibztvd"
+      }
+    },
+    {
+      "keyword": "이동진",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
         "source": "한겨레",
         "url": "https://www.hani.co.kr/arti/culture/culture_general/1269041.html"
+      }
+    },
+    {
+      "keyword": "홍지민",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'말자쇼' 홍지민, 출산 후 30㎏ 감량 \"온갖 다이어트 다 해봐\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260720161855467?f=p"
       }
     }
   ]
