@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-20T18:17:54.257967+09:00",
-  "label": "18:17",
+  "timestamp": "2026-07-20T21:08:16.588601+09:00",
+  "label": "21:08",
   "items": [
     {
-      "keyword": "주가",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "기초 연금법",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "FDA 답변에 '상한가'…삼천당제약, 정말 '허가 문턱' 넘었나",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607203782i"
-      }
-    },
-    {
-      "keyword": "장례",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "‘배그 부부’ 아내, 사망 35일 만 장례…첫째 “왜 하늘나라 갔어” 오열",
+        "title": "\"공무원연금 받아도 기초연금 준다\"…정부, 저소득 수급자 지급 추진",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260720174637045"
+        "url": "https://v.daum.net/v/9RKnaTlwhq"
       }
     },
     {
-      "keyword": "한국경제",
+      "keyword": "유강남",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "[카드뉴스] 한국 경제와 함께 성장한 ‘주식시장’...의미 있는 역사적 순간들",
-        "source": "시선뉴스",
-        "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=242654"
+        "title": "‘홈런-홈런’ 롯데 21세 거포 유망주, 2군행→2경기 연속 홈런 터졌다…유강남, 2G 연속 멀티 히트",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/bzBFO31yyw"
       }
     },
     {
-      "keyword": "원혁",
+      "keyword": "hd 현대 중공업 울산 조선소",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "이용식도 뭉클 \"왜 벌써 은퇴하시나\"…원혁 父, 30년 목회 내려놨다 [MHN:픽]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720154701912"
+        "title": "HD현대중 조선소 26살 참변…60cm 잘못 설치한 안전장치 ‘있으나 마나’",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/area/yeongnam/1269000.html"
       }
     },
     {
-      "keyword": "정부",
+      "keyword": "홍장원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "종합특검 “홍장원, 계엄 실행 위해 구체적 지시 내렸다”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260720/134329084/1"
+      }
+    },
+    {
+      "keyword": "군체",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "연상호 감독, 한국 장르 콘텐츠의 지평을 넓힌 이야기꾼",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/photos/7998775"
+      }
+    },
+    {
+      "keyword": "파미 콰 디르",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"삼전닉스 레버리지, 변동성 높였다\"...카지노판 된 증시? 외신 쓴소리 - 머니투데이",
+        "title": "\"공매도로 돈 벌던 월가 큰손도 돌아섰다\"…한국 증시 향한 글로벌 자금의 시선 By EBN",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-2020387"
+      }
+    },
+    {
+      "keyword": "김재원",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김재원, 왕자님 손 인사 : 네이트 연예",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260715n35038?mid=n1101"
+      }
+    },
+    {
+      "keyword": "오스틴 딘",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[사진]몸 맞는 공 아쉬운 LG 오스틴 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/world/2026/07/20/2026072014351189386"
+        "url": "https://www.mt.co.kr/sports/2026/07/19/202607192048778619O"
       }
     },
     {
-      "keyword": "과잉공급",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독]'데이터센터 철강' 올해분 다 팔려간다…AI·로봇 올라탄 철강·화학 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/07/20/2026071512242442355"
-      }
-    },
-    {
-      "keyword": "뉴데일리",
+      "keyword": "육상 경기",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"나도 2억 까먹어\"…국민의힘 \"국민 돈으로 도박판 ETF 운영\" 김용범 경질 촉구",
+        "title": "‘34년 벽’ 깬 한국 여자 육상",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260720104125342"
+        "url": "https://v.daum.net/v/20260720004509162"
       }
     },
     {
-      "keyword": "김형묵",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘54세 미혼’ 김형묵, 아직 사랑보다 일..“중년 아이돌 되고파” [인터뷰②]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/4G657ie4TZ"
-      }
-    },
-    {
-      "keyword": "정기예금",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "베트남 주요 은행 금리 현황…민간은행, 시장 최고금리 유지",
-        "source": "씬짜오베트남",
-        "url": "https://chaovietnam.co.kr/165831/"
-      }
-    },
-    {
-      "keyword": "기초연금법",
+      "keyword": "대한민국 기획예산처",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "정부 복지사업 '잣대' 기준중위소득 새 산정방식 이달 말 결정",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260720039600530"
+        "title": "李대통령, 기획예산처 차관에 조용범 예산실장 임명",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260720183000644"
       }
     }
   ]
