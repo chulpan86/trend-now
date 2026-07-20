@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T16:59:38.675127+09:00",
-    "label": "16:59",
-    "items": [
-      {
-        "keyword": "저축",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“주식 무섭죠? 더 드릴테니 돌아오세요”…은행들 연 10% 특판 쏟아낸다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12101565"
-        }
-      },
-      {
-        "keyword": "최태원",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "최태원 \"미국에도 하이닉스 공장 고려...공급 늘려 메모리 가격 낮춰야\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/07/19/H5BBUH3XZJB7JK56FAVNXAL7JU/"
-        }
-      },
-      {
-        "keyword": "도경완",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "장윤정 7세 딸 화장에 도경완 \"너무 일러\"…딸은 \"엄마 따라하고파\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6549763"
-        }
-      },
-      {
-        "keyword": "국내총생산",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "올해 1인당 GDP 3만9천달러 추산…5년만에 최대폭 증가",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260718025600002"
-        }
-      },
-      {
-        "keyword": "두산 베어스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "두산 베어스, 26일 삼성전서 '7월 베어스데이' 이벤트 진행",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260718n05066"
-        }
-      },
-      {
-        "keyword": "서희제",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'구준엽 처제' 서희제, 언니 자녀 둘러싼 루머에 분통 \"정말 지친다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260719_0003714073"
-        }
-      },
-      {
-        "keyword": "도로",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "중대본 \"호우특보 해제 뒤로도 당분간 대응체제 유지·피해수습\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719111953668"
-        }
-      },
-      {
-        "keyword": "찰리 반즈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"대체 외인 언제 오는지\" 후라도 없는 삼성 선발진, '주 1회 등판' 정책 폐기하나 …일단 'KBO 2호' 육성 신인 선발 출격 [오!쎈 대구]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718190550562"
-        }
-      },
-      {
-        "keyword": "선수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[월드컵] 메시 \"한달 버티기 힘든 국민\"…아르헨 정부 \"동의 안 해\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260719001100009"
-        }
-      },
-      {
-        "keyword": "에르난데스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘키움전 6연패·후반기 3연패’ 위기의 한화, 결국 믿을건 류현진 뿐이다…韓·美 2500K+후반기 첫 승 도전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qXIC3zUZCE"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-19T18:51:54.679808+09:00",
     "label": "18:51",
     "items": [
@@ -2103,6 +1997,112 @@
           "title": "임인환 의장 “경청하는 의장 될 것, 무리한 시정엔 분명히 제동”",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260720144004676"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-21T06:00:41.800905+09:00",
+    "label": "06:00",
+    "items": [
+      {
+        "keyword": "삼성 엑시노스",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "삼성, ‘4대3 화면비’ 와이드 폴더블폰 선보인다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/20/6PGZDTU3KVCZLPA7JDWERZMN6I/"
+        }
+      },
+      {
+        "keyword": "이혼",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"이혼 도장 찍고 20일 뒤 85억 대박\"...당첨금 노리고 소송 나선 전남편의 최후",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721043209516"
+        }
+      },
+      {
+        "keyword": "영아",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "어린이집 간 1살 영아 낮잠 자다 사망…“CCTV 사각지대서 2시간 방치” 엄마 울분",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720163739261"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“去年之事这么快就忘了？”……加拿大反驳特朗普“山火关税”言论",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/cn/article/2026071918262071140"
+        }
+      },
+      {
+        "keyword": "장영란",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Jang Young-ran stuns with youthful makeover, appears decades younger - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/07/20/A2TRC4QPT5DRPATLKESDNUVVNU/"
+        }
+      },
+      {
+        "keyword": "최준희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘故최진실 딸’ 최준희 “18살부터 입술 필러 맞았다”…시술 과정 공개",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260720/134332515/1"
+        }
+      },
+      {
+        "keyword": "พยากรณ์อากาศ",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "เปิดพิกัดสีส้ม พื้นที่ภาคเหนือ เฝ้าระวังฝนตกหนัก- ดินโคลนถล่ม",
+          "source": "bangkokbiznews",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1243919"
+        }
+      },
+      {
+        "keyword": "회사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "TSMC, 美 투자 400조로 늘렸다...\"AI 이제 시작\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721043001497"
+        }
+      },
+      {
+        "keyword": "가요무대",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘가요무대’ 출연진 김용빈→손빈아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260720173237522"
+        }
+      },
+      {
+        "keyword": "후티",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "예멘 후티 반군, 사우디 대상 해상 봉쇄 선언‥\"즉각 발효\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6838748_36925.html"
         }
       }
     ]

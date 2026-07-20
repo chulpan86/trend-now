@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-21T04:24:47.168954+09:00",
-  "label": "04:24",
+  "timestamp": "2026-07-21T06:00:41.800905+09:00",
+  "label": "06:00",
   "items": [
     {
-      "keyword": "치어리더",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "삼성 엑시노스",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "퀸즈아이 서빈,'시구 정말 잘했죠?' [사진]",
+        "title": "삼성, ‘4대3 화면비’ 와이드 폴더블폰 선보인다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/tech_it/2026/07/20/6PGZDTU3KVCZLPA7JDWERZMN6I/"
+      }
+    },
+    {
+      "keyword": "이혼",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"이혼 도장 찍고 20일 뒤 85억 대박\"...당첨금 노리고 소송 나선 전남편의 최후",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718182011133?f=m"
+        "url": "https://v.daum.net/v/20260721043209516"
       }
     },
     {
-      "keyword": "남도일보",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "영아",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”",
-        "source": "서울신문",
-        "url": "https://www.seoul.co.kr/news/publicnews/2026/07/20/20260720500109"
-      }
-    },
-    {
-      "keyword": "요르단",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이란 “미 전투기 2대 파괴” 영상 공개…이란 전쟁 새 전장 된 요르단",
+        "title": "어린이집 간 1살 영아 낮잠 자다 사망…“CCTV 사각지대서 2시간 방치” 엄마 울분",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260720181308100"
+        "url": "https://v.daum.net/v/20260720163739261"
       }
     },
     {
-      "keyword": "스파이더맨 브랜드 뉴 데이",
+      "keyword": "天气",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“去年之事这么快就忘了？”……加拿大反驳特朗普“山火关税”言论",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/cn/article/2026071918262071140"
+      }
+    },
+    {
+      "keyword": "장영란",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Jang Young-ran stuns with youthful makeover, appears decades younger - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-entertainment/2026/07/20/A2TRC4QPT5DRPATLKESDNUVVNU/"
+      }
+    },
+    {
+      "keyword": "최준희",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "다시 예매 오픈 '스파이더맨: 브랜드 뉴 데이' 50% 육박 1위",
+        "title": "‘故최진실 딸’ 최준희 “18살부터 입술 필러 맞았다”…시술 과정 공개",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260720/134332515/1"
+      }
+    },
+    {
+      "keyword": "พยากรณ์อากาศ",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "เปิดพิกัดสีส้ม พื้นที่ภาคเหนือ เฝ้าระวังฝนตกหนัก- ดินโคลนถล่ม",
+        "source": "bangkokbiznews",
+        "url": "https://www.bangkokbiznews.com/news/news-update/1243919"
+      }
+    },
+    {
+      "keyword": "회사",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "TSMC, 美 투자 400조로 늘렸다...\"AI 이제 시작\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/tVy5yB71u2"
+        "url": "https://v.daum.net/v/20260721043001497"
       }
     },
     {
-      "keyword": "케빈 키건",
+      "keyword": "가요무대",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260721001200085"
+        "title": "‘가요무대’ 출연진 김용빈→손빈아",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260720173237522"
       }
     },
     {
-      "keyword": "유병호",
+      "keyword": "후티",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"",
+        "title": "예멘 후티 반군, 사우디 대상 해상 봉쇄 선언‥\"즉각 발효\"",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6838759_36918.html"
-      }
-    },
-    {
-      "keyword": "은가은",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "박현호·은가은, '살림남' 뜬다…딸바보 일상 최초공개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720183037662?f=p"
-      }
-    },
-    {
-      "keyword": "이동진",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/culture/culture_general/1269041.html"
-      }
-    },
-    {
-      "keyword": "ps",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "PlayStation Store’s Summer Sale arrives on July 15",
-        "source": "PlayStation.Blog",
-        "url": "https://blog.playstation.com/2026/07/14/playstation-stores-summer-sale-arrives-on-july-15/"
-      }
-    },
-    {
-      "keyword": "대구광역시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "임인환 의장 “경청하는 의장 될 것, 무리한 시정엔 분명히 제동”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720144004676"
+        "url": "https://imnews.imbc.com/news/2026/world/article/6838748_36925.html"
       }
     }
   ]
