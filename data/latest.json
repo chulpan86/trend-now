@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-20T11:01:10.635975+09:00",
-  "label": "11:01",
+  "timestamp": "2026-07-20T14:59:29.966111+09:00",
+  "label": "14:59",
   "items": [
     {
-      "keyword": "여론 조사",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "[속보] 유시민 '필연적 실패' 발언에···李대통령 지지율 50% 깨졌다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720082609152"
-      }
+      "keyword": "kf-21 보라매",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
     },
     {
-      "keyword": "삼성전자 주가",
+      "keyword": "간호사",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"삼전닉스 또 떨어져?\"…역대급 실적에도 '반도체주' 급락한 이유",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260720_0003714595"
+        "title": "[초동시각]간호사 태우는 병원, 환자도 위험하다",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026072008590904280"
       }
     },
     {
-      "keyword": "한전",
+      "keyword": "흑해",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "정부, '허수 발전사업' 관리 강화…30GW 계통용량 재배분 추진",
-        "source": "녹색경제신문",
-        "url": "https://www.greened.kr/news/articleView.html?idxno=345368"
+        "title": "[국제]러시아, 최대 규모 탄도미사일 보복...사상자 속출",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0104_202607200354295995_005.html"
       }
     },
     {
-      "keyword": "sk하이닉스 주가",
+      "keyword": "도널드 j. 트럼프",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "블룸버그 “변방이었던 韓 증시, 글로벌 주식시장 좌우해”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VpFcyZGhTJ"
+        "title": "얼굴 넣고 이름 새기고…이번엔 트럼프 주화 나온다",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/visual-news/article/2026071615342552817"
       }
     },
     {
-      "keyword": "현대차 주가",
+      "keyword": "대우건설",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "대우건설, 상도15구역 재개발 시공사 선정…공사비 1조4천억",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260720023600003"
+      }
+    },
+    {
+      "keyword": "한국경제신문사",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "42% 급락한 현대차, 피크아웃?⋯\"로봇으로 보면 지금이 기회\" [찐코노미]",
+        "title": "'안 팔리면 태워버렸는데'…샤넬백 이제 아울렛에 쫙 깔리나",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607203368i"
+      }
+    },
+    {
+      "keyword": "엘지트윈스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "하트오브우먼, 잠실구장 뜬다…LG트윈스 승리 기원 시구·시타",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260720104405504"
+        "url": "https://v.daum.net/v/20260720122027098"
       }
     },
     {
-      "keyword": "알파벳",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "버핏, 이 회사에 '43조' 베팅…\"내 실수, 더 빨리 샀어야\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720092442351"
-      }
-    },
-    {
-      "keyword": "삼천당제약",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "삼천당제약 \"경구용 세마글루타이드 美 FDA 답변서 수령\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6232415"
-      }
-    },
-    {
-      "keyword": "kospi",
+      "keyword": "new york times",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "KOSPI opens lower",
-        "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/PYH20260720033400315?section=image/general"
+        "title": "NYT Connections Answers for July 20, 2026",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/19/crosswords/connections-companion-1135.html"
       }
     },
     {
-      "keyword": "달러 원 환율",
+      "keyword": "유튜버 음독",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "오르기만 하던 환율 어디까지 내려갈까?",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12101664"
+        "title": "방송 중 시청자와 말다툼 뒤 음독한 50대 유튜버 숨져",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0103_202607200811025618"
       }
     },
     {
-      "keyword": "teams",
+      "keyword": "영주권",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "The World Cup winner will earn $51 million under expanded purse",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/19/heres-what-to-know-about-the-world-cup-prize-money.html"
+        "title": "[Q&A]美 영주권 신청하려면 앞으로 보증금 1.5억 필요…돌려받을 수 있을까",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026071914240002703"
       }
     }
   ]
