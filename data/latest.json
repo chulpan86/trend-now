@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-20T14:59:29.966111+09:00",
-  "label": "14:59",
+  "timestamp": "2026-07-20T18:17:54.257967+09:00",
+  "label": "18:17",
   "items": [
     {
-      "keyword": "kf-21 보라매",
+      "keyword": "주가",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "FDA 답변에 '상한가'…삼천당제약, 정말 '허가 문턱' 넘었나",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607203782i"
+      }
+    },
+    {
+      "keyword": "장례",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "‘배그 부부’ 아내, 사망 35일 만 장례…첫째 “왜 하늘나라 갔어” 오열",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260720174637045"
+      }
+    },
+    {
+      "keyword": "한국경제",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "[카드뉴스] 한국 경제와 함께 성장한 ‘주식시장’...의미 있는 역사적 순간들",
+        "source": "시선뉴스",
+        "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=242654"
+      }
+    },
+    {
+      "keyword": "원혁",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": null
+      "news": {
+        "title": "이용식도 뭉클 \"왜 벌써 은퇴하시나\"…원혁 父, 30년 목회 내려놨다 [MHN:픽]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260720154701912"
+      }
     },
     {
-      "keyword": "간호사",
+      "keyword": "정부",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[초동시각]간호사 태우는 병원, 환자도 위험하다",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026072008590904280"
+        "title": "\"삼전닉스 레버리지, 변동성 높였다\"...카지노판 된 증시? 외신 쓴소리 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/07/20/2026072014351189386"
       }
     },
     {
-      "keyword": "흑해",
+      "keyword": "과잉공급",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[국제]러시아, 최대 규모 탄도미사일 보복...사상자 속출",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0104_202607200354295995_005.html"
+        "title": "[단독]'데이터센터 철강' 올해분 다 팔려간다…AI·로봇 올라탄 철강·화학 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/industry/2026/07/20/2026071512242442355"
       }
     },
     {
-      "keyword": "도널드 j. 트럼프",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "얼굴 넣고 이름 새기고…이번엔 트럼프 주화 나온다",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/visual-news/article/2026071615342552817"
-      }
-    },
-    {
-      "keyword": "대우건설",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "대우건설, 상도15구역 재개발 시공사 선정…공사비 1조4천억",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260720023600003"
-      }
-    },
-    {
-      "keyword": "한국경제신문사",
+      "keyword": "뉴데일리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'안 팔리면 태워버렸는데'…샤넬백 이제 아울렛에 쫙 깔리나",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607203368i"
-      }
-    },
-    {
-      "keyword": "엘지트윈스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "하트오브우먼, 잠실구장 뜬다…LG트윈스 승리 기원 시구·시타",
+        "title": "\"나도 2억 까먹어\"…국민의힘 \"국민 돈으로 도박판 ETF 운영\" 김용범 경질 촉구",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260720122027098"
+        "url": "https://v.daum.net/v/20260720104125342"
       }
     },
     {
-      "keyword": "new york times",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "김형묵",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "NYT Connections Answers for July 20, 2026",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/19/crosswords/connections-companion-1135.html"
+        "title": "‘54세 미혼’ 김형묵, 아직 사랑보다 일..“중년 아이돌 되고파” [인터뷰②]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/4G657ie4TZ"
       }
     },
     {
-      "keyword": "유튜버 음독",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "정기예금",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "방송 중 시청자와 말다툼 뒤 음독한 50대 유튜버 숨져",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0103_202607200811025618"
+        "title": "베트남 주요 은행 금리 현황…민간은행, 시장 최고금리 유지",
+        "source": "씬짜오베트남",
+        "url": "https://chaovietnam.co.kr/165831/"
       }
     },
     {
-      "keyword": "영주권",
+      "keyword": "기초연금법",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[Q&A]美 영주권 신청하려면 앞으로 보증금 1.5억 필요…돌려받을 수 있을까",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026071914240002703"
+        "title": "정부 복지사업 '잣대' 기준중위소득 새 산정방식 이달 말 결정",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260720039600530"
       }
     }
   ]
