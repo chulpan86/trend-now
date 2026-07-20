@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-21T06:00:41.800905+09:00",
-  "label": "06:00",
+  "timestamp": "2026-07-21T07:45:53.909216+09:00",
+  "label": "07:45",
   "items": [
     {
-      "keyword": "삼성 엑시노스",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "임영웅",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "삼성, ‘4대3 화면비’ 와이드 폴더블폰 선보인다",
+        "title": "임영웅, 메시 보러 뉴욕行→월드컵 결승전 직관까지..남다른 축구 사랑",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260720184707073?f=p"
+      }
+    },
+    {
+      "keyword": "황강 댐",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "폭우 예보에...북한, 통보 없이 임진강 상류 댐 방류 추정",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/KxAvmqu57p"
+      }
+    },
+    {
+      "keyword": "김숙",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "김숙, 제주살이 로망 위해 주작 강행 \"청게 잡고 싶었을 뿐인데\" ('김숙티비') [순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/4KCKkQ8BCQ"
+      }
+    },
+    {
+      "keyword": "다우 존스 산업평균지수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "뉴욕 증시 좌우하는 이란전, 갈등 다시 고조되자 3대 지수 하락",
         "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/07/20/6PGZDTU3KVCZLPA7JDWERZMN6I/"
+        "url": "https://www.chosun.com/international/international_general/2026/07/21/NZAMLECB2VAF3MLJ3DVPDPRD6I/"
       }
     },
     {
-      "keyword": "이혼",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"이혼 도장 찍고 20일 뒤 85억 대박\"...당첨금 노리고 소송 나선 전남편의 최후",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721043209516"
-      }
-    },
-    {
-      "keyword": "영아",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "어린이집 간 1살 영아 낮잠 자다 사망…“CCTV 사각지대서 2시간 방치” 엄마 울분",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720163739261"
-      }
-    },
-    {
-      "keyword": "天气",
+      "keyword": "погода",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“去年之事这么快就忘了？”……加拿大反驳特朗普“山火关税”言论",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/cn/article/2026071918262071140"
+        "title": "Испытание солнцем: в Израиль пришла экстремальная жара",
+        "source": "9 Канал Израиль",
+        "url": "https://www.9tv.co.il/item/256920"
       }
     },
     {
-      "keyword": "장영란",
+      "keyword": "롯데 자이언츠",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Jang Young-ran stuns with youthful makeover, appears decades younger - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-entertainment/2026/07/20/A2TRC4QPT5DRPATLKESDNUVVNU/"
-      }
-    },
-    {
-      "keyword": "최준희",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘故최진실 딸’ 최준희 “18살부터 입술 필러 맞았다”…시술 과정 공개",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260720/134332515/1"
-      }
-    },
-    {
-      "keyword": "พยากรณ์อากาศ",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "เปิดพิกัดสีส้ม พื้นที่ภาคเหนือ เฝ้าระวังฝนตกหนัก- ดินโคลนถล่ม",
-        "source": "bangkokbiznews",
-        "url": "https://www.bangkokbiznews.com/news/news-update/1243919"
-      }
-    },
-    {
-      "keyword": "회사",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "TSMC, 美 투자 400조로 늘렸다...\"AI 이제 시작\"",
+        "title": "1R 특급유망주 내줄 만했네, 롯데 사상 최고의 트레이드…이젠 대체불가, 전민재가 실력으로 증명한다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260721043001497"
+        "url": "https://v.daum.net/v/HSzu0x6bSE"
       }
     },
     {
-      "keyword": "가요무대",
+      "keyword": "iren",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘가요무대’ 출연진 김용빈→손빈아",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720173237522"
+        "title": "Why Iren Stock Is Soaring Today",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-iren-stock-soaring-today-160718634.html"
       }
     },
     {
-      "keyword": "후티",
+      "keyword": "tsla",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "예멘 후티 반군, 사우디 대상 해상 봉쇄 선언‥\"즉각 발효\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6838748_36925.html"
+        "title": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html"
+      }
+    },
+    {
+      "keyword": "mu",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "$Micron Technology (MU.US)$",
+        "source": "Moomoo",
+        "url": "https://www.moomoo.com/community/feed/micron-technology-mu-us-116954035650965"
+      }
+    },
+    {
+      "keyword": "파리 생제르맹 fc",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Barcelona’s contract woes mount as star attacker’s value rises on World Cup heroics",
+        "source": "Barca Universal",
+        "url": "https://barcauniversal.com/barcelonas-contract-woes-mount-as-star-attackers-value-rises-on-world-cup-heroics/"
       }
     }
   ]
