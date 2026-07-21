@@ -1572,5 +1572,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T01:15:40.377680+09:00",
+    "label": "01:15",
+    "items": [
+      {
+        "keyword": "빌라",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12103526"
+        }
+      },
+      {
+        "keyword": "다이소",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bgWoMx6b5W"
+        }
+      },
+      {
+        "keyword": "국민의힘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "선관위 국조특위ㆍ선관위 개혁특위 연석회의에서 발언하는 장동혁 대표",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260721067500013"
+        }
+      },
+      {
+        "keyword": "시리아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "지중해에서 사라진 러시아 해군… 13년 만의 공백에 글로벌 물류망 비상",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607191615311267fbbec65dfb_1"
+        }
+      },
+      {
+        "keyword": "천록 담",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“아내는 단골 목욕탕 막내딸, 종이 ‘띵’ 울려” 제주도 가서 인생 바뀐 가수",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10814978"
+        }
+      },
+      {
+        "keyword": "관세",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "트럼프, 캐나다에 50% '관세폭탄'‥30일 후 발효",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6838934_36925.html"
+        }
+      },
+      {
+        "keyword": "디아지오",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]위스키 시장 불황에…디아지오코리아, 2년 만에 희망퇴직 단행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721160929515"
+        }
+      },
+      {
+        "keyword": "킬러들의 쇼핑몰 시즌2",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "충남서 찍은 '킬러들의 쇼핑몰 2'…\"지역 상권 소비로 이어져\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721146400063"
+        }
+      },
+      {
+        "keyword": "코스닥",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고점 대비 40% 급락…'삼천닥' 외치다 거래 실종된 코스닥",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607217490i"
+        }
+      },
+      {
+        "keyword": "달",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"8월 초 달 표면서 TNT 3톤 폭발\"…스페이스X 로켓 잔해, 8월에 달 충돌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721154937427"
+        }
+      }
+    ]
   }
 ]
