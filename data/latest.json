@@ -1,61 +1,51 @@
 {
-  "timestamp": "2026-07-21T13:59:07.073304+09:00",
-  "label": "13:59",
+  "timestamp": "2026-07-21T16:32:46.900363+09:00",
+  "label": "16:32",
   "items": [
     {
-      "keyword": "중국 오픈",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "전 성애",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "[오피셜] 안세영 안타까운 소식…중국 오픈 출전 명단서 결국 빠졌다→세계선수권·AG 위해 회복 집중",
+        "title": "미자, 母 전성애 욕실서 쓰러져 119 출동 \"많이 울고 많이 놀라\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/65FiGx6bXK"
+        "url": "https://v.daum.net/v/29eJXHWIaP"
       }
     },
     {
-      "keyword": "윤이나",
+      "keyword": "경매",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'우승이 없는 게 이상한' 윤이나, 스코틀랜드에서 LPGA 첫승 재도전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721073351199"
+        "title": "경매로 시세보다 4억 싸게 산 주택…집 안에서 시신 3구 나왔다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/07/21/2026072115102833712"
       }
     },
     {
-      "keyword": "서울회생법원",
+      "keyword": "소송",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "서울회생법원, 홈플러스 회생절차 폐지결정 취소",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6838873_36918.html"
+        "title": "앤트로픽, AI의 저작권 침해 소송 종결…'사상 최대' 2조 원대 합의",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721130002601"
       }
     },
     {
-      "keyword": "예산",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "외교관",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "전략으로 설계하고, 재정으로 실현하겠습니다! - 전체 | 카드/한컷 | 멀티미디어",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148968466&pWise=sub&pWiseSub=C4"
+        "title": "한국 외교관 전원 정보 해킹 추정…최대 1만건 유출(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721161055578"
       }
     },
     {
-      "keyword": "대한민국 국토교통부",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "세이프티Ⅱ 개념 정립 에릭 홀나겔 교수 등 연사 참여",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260719500216"
-      }
-    },
-    {
-      "keyword": "이더리움",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "이더 리움",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "이더리움 현물 ETF에 다시 돈 몰린다…상승 랠리 이어질까",
         "source": "Daum",
@@ -63,39 +53,53 @@
       }
     },
     {
-      "keyword": "cgv",
+      "keyword": "중구",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "김병만",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
-        "title": "김병만, 핼쑥해진 근황…어딘지 힘들어보이는 표정",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260721_0003716149"
+        "title": "중구, 어르신 교통비 중단 없이 지원한다[서울25]",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607211310001"
       }
     },
     {
-      "keyword": "신진서 카타고 3국",
+      "keyword": "케스파컵 중계",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'인간 자존심 지킬까' 신진서, 오늘 카타고 상대 2연승 도전",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/general-sport/6232906"
-      }
-    },
-    {
-      "keyword": "석유 화학 산업",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "석유화학 위기 노사정이 푼다…첫 사회적 대화 회의체 출범",
+        "title": "농심, KeSPA컵 3연승…A그룹 1위 출발",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260721100242343"
+        "url": "https://v.daum.net/v/BoGhVmDgSR"
+      }
+    },
+    {
+      "keyword": "블랙록",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "블랙록 한국 ETF에 4조원 ‘뭉칫돈’…SK하이닉스·AI 기대감에 역대 최대 자금 유입",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12103182"
+      }
+    },
+    {
+      "keyword": "롯데온",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "중기중앙회, 유통상생 우수기업 포상…현대百·이마트 등 4곳",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260721037200030"
+      }
+    },
+    {
+      "keyword": "비니시우스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘충격’ 비니시우스, 월드컵 탈락 후 비키니 女와 요트에서",
+        "source": "인터풋볼",
+        "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=690608"
       }
     }
   ]
