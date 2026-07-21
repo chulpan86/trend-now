@@ -1788,5 +1788,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T07:44:21.644010+09:00",
+    "label": "07:44",
+    "items": [
+      {
+        "keyword": "커피",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "Five Cups of Coffee a Day Is Fine for Most Adults, Heart Association Says",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/health/wellness/coffee-study-american-heart-association-ab2f6b8c"
+        }
+      },
+      {
+        "keyword": "박나래",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'폭로 안할테니 매출 10% 달라' 요구한 박나래 전 매니저 구속",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721094200004"
+        }
+      },
+      {
+        "keyword": "민지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "멈췄던 뉴진스, 컴백 초읽기? 데뷔 4주년 기념일에 새 단체사진·영상 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722050330136"
+        }
+      },
+      {
+        "keyword": "백하나",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "女 복식 세계 4위 이소희-백하나, 중국 오픈 32강 힘겹게 통과…25위 장징휘-양징툰에 2-1 역전승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YPMdbXYC3H"
+        }
+      },
+      {
+        "keyword": "기상청 동네예보",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "중부 시간당 30㎜ 강한 비…남부는 낮 최고 '37도' 무더위(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722063140409"
+        }
+      },
+      {
+        "keyword": "윤석열",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "유병호 “尹은 두목…관저 이전은 경부고속도로 이후 최고의 결단”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/UFO1PSCEva"
+        }
+      },
+      {
+        "keyword": "mu",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Why Micron Stock Is Rising After SK Hynix Warning",
+          "source": "Barron's",
+          "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-memory-9f3285c7"
+        }
+      },
+      {
+        "keyword": "소유진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "소유진 딸, '100만 뷰' 쇼츠 장인…백종원 닮은 외모에 엄마끼 물려받아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qLaAQu0HwO"
+        }
+      },
+      {
+        "keyword": "나스닥 지수",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[뉴욕증시] 알파벳 실적 앞두고 반도체주 '온기'…강세 마감",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426093"
+        }
+      },
+      {
+        "keyword": "공소장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "검사 서명 없이 공소장 제출… 6건 줄줄이 공소기각",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=223691"
+        }
+      }
+    ]
   }
 ]
