@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-21T10:45:18.047950+09:00",
-  "label": "10:45",
+  "timestamp": "2026-07-21T13:59:07.073304+09:00",
+  "label": "13:59",
   "items": [
     {
-      "keyword": "관광객",
+      "keyword": "중국 오픈",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "[오피셜] 안세영 안타까운 소식…중국 오픈 출전 명단서 결국 빠졌다→세계선수권·AG 위해 회복 집중",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/65FiGx6bXK"
+      }
+    },
+    {
+      "keyword": "윤이나",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "무사증 관광객 타지역 이동 허용 제주에 득일까 실일까",
+        "title": "'우승이 없는 게 이상한' 윤이나, 스코틀랜드에서 LPGA 첫승 재도전",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260721060213704"
+        "url": "https://v.daum.net/v/20260721073351199"
       }
     },
     {
-      "keyword": "삼천당제약 주가",
+      "keyword": "서울회생법원",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "FDA 답변에 '상한가'…삼천당제약, 정말 '허가 문턱' 넘었나",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607203782i"
+        "title": "서울회생법원, 홈플러스 회생절차 폐지결정 취소",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6838873_36918.html"
       }
     },
     {
-      "keyword": "고준희",
+      "keyword": "예산",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "고준희 \"마지막 키스는 어제\" 과감한 고백",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260721_0003716176"
+        "title": "전략으로 설계하고, 재정으로 실현하겠습니다! - 전체 | 카드/한컷 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148968466&pWise=sub&pWiseSub=C4"
       }
     },
     {
-      "keyword": "기생충",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "대한민국 국토교통부",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "양상추 먹고 식중독 걸려 '전량 리콜'...하고 나니 美 당국 기막힌 입장 [자막뉴스]",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0134_202607210822418135"
+        "title": "세이프티Ⅱ 개념 정립 에릭 홀나겔 교수 등 연사 참여",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260719500216"
       }
     },
     {
-      "keyword": "경제학",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "이더리움",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "What’s behind MLB’s aggressive sales pitch to fans ahead of this winter’s labor battle",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/17/sport/mlb-labor-battle-analysis"
-      }
-    },
-    {
-      "keyword": "키미3",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "중국 새 AI 공개 \"미국 따라잡나\"‥반도체 '휘청'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6838795_37012.html"
-      }
-    },
-    {
-      "keyword": "국가수사본부",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'장윤기' 수사 경찰관들 \"단순살인죄 적용, 국수본이 지시\"",
+        "title": "이더리움 현물 ETF에 다시 돈 몰린다…상승 랠리 이어질까",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260721093651088"
+        "url": "https://v.daum.net/v/Gljxru0HNG"
       }
     },
     {
-      "keyword": "태안군",
+      "keyword": "cgv",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "김병만",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "미래 도시 청사진 그린다",
-        "source": "충청신문",
-        "url": "https://www.dailycc.net/news/articleView.html?idxno=870863"
+        "title": "김병만, 핼쑥해진 근황…어딘지 힘들어보이는 표정",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260721_0003716149"
       }
     },
     {
-      "keyword": "한보름",
+      "keyword": "신진서 카타고 3국",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한보름, 비키니 몸매 자랑할 만하네..압도적인 '글래머'",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20260719031143570"
+        "title": "'인간 자존심 지킬까' 신진서, 오늘 카타고 상대 2연승 도전",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/sports/general-sport/6232906"
       }
     },
     {
-      "keyword": "데이터 센터",
+      "keyword": "석유 화학 산업",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "나노, 美 AI 데이터센터 온사이트 발전 SCR 촉매필터 수주",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260721_0003716117"
+        "title": "석유화학 위기 노사정이 푼다…첫 사회적 대화 회의체 출범",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721100242343"
       }
     }
   ]
