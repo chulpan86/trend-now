@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T14:59:29.966111+09:00",
-    "label": "14:59",
-    "items": [
-      {
-        "keyword": "kf-21 보라매",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "간호사",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[초동시각]간호사 태우는 병원, 환자도 위험하다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026072008590904280"
-        }
-      },
-      {
-        "keyword": "흑해",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[국제]러시아, 최대 규모 탄도미사일 보복...사상자 속출",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202607200354295995_005.html"
-        }
-      },
-      {
-        "keyword": "도널드 j. 트럼프",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "얼굴 넣고 이름 새기고…이번엔 트럼프 주화 나온다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/visual-news/article/2026071615342552817"
-        }
-      },
-      {
-        "keyword": "대우건설",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대우건설, 상도15구역 재개발 시공사 선정…공사비 1조4천억",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260720023600003"
-        }
-      },
-      {
-        "keyword": "한국경제신문사",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'안 팔리면 태워버렸는데'…샤넬백 이제 아울렛에 쫙 깔리나",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607203368i"
-        }
-      },
-      {
-        "keyword": "엘지트윈스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "하트오브우먼, 잠실구장 뜬다…LG트윈스 승리 기원 시구·시타",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720122027098"
-        }
-      },
-      {
-        "keyword": "new york times",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "NYT Connections Answers for July 20, 2026",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/19/crosswords/connections-companion-1135.html"
-        }
-      },
-      {
-        "keyword": "유튜버 음독",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "방송 중 시청자와 말다툼 뒤 음독한 50대 유튜버 숨져",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202607200811025618"
-        }
-      },
-      {
-        "keyword": "영주권",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[Q&A]美 영주권 신청하려면 앞으로 보증금 1.5억 필요…돌려받을 수 있을까",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026071914240002703"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-20T18:17:54.257967+09:00",
     "label": "18:17",
     "items": [
@@ -1675,6 +1573,112 @@
           "title": "\"8월 초 달 표면서 TNT 3톤 폭발\"…스페이스X 로켓 잔해, 8월에 달 충돌",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260721154937427"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T03:09:24.518543+09:00",
+    "label": "03:09",
+    "items": [
+      {
+        "keyword": "다이 소",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bgWoMx6b5W"
+        }
+      },
+      {
+        "keyword": "악어",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] 여주 80㎝ 악어, 알고 보니 ‘국제 멸종 위기종’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YQXsM0FYTU"
+        }
+      },
+      {
+        "keyword": "이자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[금리 인상 후폭풍] 취약차주도 '비상'…이자 부담·연체 우려 커진다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721184737889"
+        }
+      },
+      {
+        "keyword": "앤서니 테일러",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 가족에게 감사해\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260722n00454"
+        }
+      },
+      {
+        "keyword": "정철원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QS653lIkvl"
+        }
+      },
+      {
+        "keyword": "킬러들의 쇼핑몰 시즌2",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "충남서 찍은 '킬러들의 쇼핑몰 2'…\"지역 상권 소비로 이어져\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721146400063"
+        }
+      },
+      {
+        "keyword": "코스닥",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "고점 대비 40% 급락…'삼천닥' 외치다 거래 실종된 코스닥",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607217490i"
+        }
+      },
+      {
+        "keyword": "달",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"8월 초 달 표면서 TNT 3톤 폭발\"…스페이스X 로켓 잔해, 8월에 달 충돌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721154937427"
+        }
+      },
+      {
+        "keyword": "하트시그널5",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "강유경 이별 암시? \"오빠랑만 울면서 대화\" 최종선택 직전 눈물[하트시그널5]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HcyEoLJ6CM"
+        }
+      },
+      {
+        "keyword": "박기량",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[사진]리센느 리브, 고향서 시구해요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GM3WIYZZG43DQMDFGBSTSYZXMY/"
         }
       }
     ]
