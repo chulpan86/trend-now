@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T11:01:10.635975+09:00",
-    "label": "11:01",
-    "items": [
-      {
-        "keyword": "여론 조사",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[속보] 유시민 '필연적 실패' 발언에···李대통령 지지율 50% 깨졌다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720082609152"
-        }
-      },
-      {
-        "keyword": "삼성전자 주가",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"삼전닉스 또 떨어져?\"…역대급 실적에도 '반도체주' 급락한 이유",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260720_0003714595"
-        }
-      },
-      {
-        "keyword": "한전",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "정부, '허수 발전사업' 관리 강화…30GW 계통용량 재배분 추진",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=345368"
-        }
-      },
-      {
-        "keyword": "sk하이닉스 주가",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "블룸버그 “변방이었던 韓 증시, 글로벌 주식시장 좌우해”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VpFcyZGhTJ"
-        }
-      },
-      {
-        "keyword": "현대차 주가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "42% 급락한 현대차, 피크아웃?⋯\"로봇으로 보면 지금이 기회\" [찐코노미]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720104405504"
-        }
-      },
-      {
-        "keyword": "알파벳",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "버핏, 이 회사에 '43조' 베팅…\"내 실수, 더 빨리 샀어야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720092442351"
-        }
-      },
-      {
-        "keyword": "삼천당제약",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼천당제약 \"경구용 세마글루타이드 美 FDA 답변서 수령\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6232415"
-        }
-      },
-      {
-        "keyword": "kospi",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "KOSPI opens lower",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/PYH20260720033400315?section=image/general"
-        }
-      },
-      {
-        "keyword": "달러 원 환율",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "오르기만 하던 환율 어디까지 내려갈까?",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12101664"
-        }
-      },
-      {
-        "keyword": "teams",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "The World Cup winner will earn $51 million under expanded purse",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/19/heres-what-to-know-about-the-world-cup-prize-money.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-20T14:59:29.966111+09:00",
     "label": "14:59",
     "items": [
@@ -1570,6 +1464,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-21T23:55:06.472754+09:00",
+    "label": "23:55",
+    "items": [
+      {
+        "keyword": "빌라",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12103526"
+        }
+      },
+      {
+        "keyword": "국민의힘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국민의힘, 원내 복귀 결정‥23일 7개 상임위원장 선출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6838999_36911.html"
+        }
+      },
+      {
+        "keyword": "파업",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "카카오뱅크 노조, 31일 전일 파업…임금교섭 결렬(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721100851017"
+        }
+      },
+      {
+        "keyword": "장예원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "연 매출 500억, 김지원 드레스 만든 '웨딩 백만장자'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721084449976"
+        }
+      },
+      {
+        "keyword": "우원식",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "우원식, 83억 해외출장 아내 매번 동행 … 주진우 \"배우자가 무슨 역할?\"",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/07/21/2026072100287.html"
+        }
+      },
+      {
+        "keyword": "원자력",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "고리·새울원자력본부 새 수장에 1995년 한전 입사 동기 나란히 취임",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370466"
+        }
+      },
+      {
+        "keyword": "한국 영화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "해외에서 선정한 최고의 한국 영화 10",
+          "source": "GQ Korea",
+          "url": "https://www.gqkorea.co.kr/2026/07/21/%ED%95%B4%EC%99%B8%EC%97%90%EC%84%9C-%EC%84%A0%EC%A0%95%ED%95%9C-%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%95%9C%EA%B5%AD-%EC%98%81%ED%99%94-10/"
+        }
+      },
+      {
+        "keyword": "배우",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고창석 01년생 딸, 父 따라 연기자 길 걷는다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260720_0003715916"
+        }
+      },
+      {
+        "keyword": "야구순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[속보] 7월1~20일 수출 549억달러 '역대 최대'…반도체 영향",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6233560"
+        }
+      },
+      {
+        "keyword": "김신영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김신영 \"44kg 때 마른비만에 당뇨위험군+불면증, 요요온 후 싹 사라졌다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-07-21/202607210100130530008271"
+        }
       }
     ]
   }
