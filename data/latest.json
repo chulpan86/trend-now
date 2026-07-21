@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-21T16:32:46.900363+09:00",
-  "label": "16:32",
+  "timestamp": "2026-07-21T19:14:40.650478+09:00",
+  "label": "19:14",
   "items": [
     {
-      "keyword": "전 성애",
+      "keyword": "삼성 대 키움",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "미자, 母 전성애 욕실서 쓰러져 119 출동 \"많이 울고 많이 놀라\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/29eJXHWIaP"
+        "title": "프로야구 삼성, '부상' 후라도 임시 대체 외국인 투수 보스 영입",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260720151400007"
       }
     },
     {
-      "keyword": "경매",
+      "keyword": "ssg 대 롯데",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "끊이지 않는 부상 선수…이숭용 SSG 감독 \"제가 부족한 탓\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260721172200007"
+      }
+    },
+    {
+      "keyword": "압류",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "압류주택 낙찰 받아 갔더니…전 주인 가족 유해 발견",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721100751711"
+      }
+    },
+    {
+      "keyword": "두산 대 kt",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "경매로 시세보다 4억 싸게 산 주택…집 안에서 시신 3구 나왔다 - 머니투데이",
+        "title": "'7연승' 이강철 감독, 두산 바짝 경계 \"제일 무서운 팀 만났다\" [수원 현장] - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/world/2026/07/21/2026072115102833712"
+        "url": "https://www.mt.co.kr/sports/2026/07/21/2026072115134828872"
       }
     },
     {
-      "keyword": "소송",
+      "keyword": "메가프로젝트",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "앤트로픽, AI의 저작권 침해 소송 종결…'사상 최대' 2조 원대 합의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721130002601"
+        "title": "\"반도체는 찬성, 원전은 반대\" … 1500兆 호남 메가프로젝트, 전력에서 좌초되나",
+        "source": "뉴데일리",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/21/2026072100052.html"
       }
     },
     {
-      "keyword": "외교관",
+      "keyword": "구제역",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한국 외교관 전원 정보 해킹 추정…최대 1만건 유출(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721161055578"
+        "title": "쯔양 협박 유튜버 구제역, 항소심서 배상액 8000만원으로 늘어",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607211539001"
       }
     },
     {
-      "keyword": "이더 리움",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "이더리움 현물 ETF에 다시 돈 몰린다…상승 랠리 이어질까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Gljxru0HNG"
-      }
-    },
-    {
-      "keyword": "중구",
+      "keyword": "애플 카드",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "중구, 어르신 교통비 중단 없이 지원한다[서울25]",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607211310001"
+        "title": "\"애플 비켜\"...삼성, 미국에서 '갤럭시 카드' 전격 출시",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202607211247363243"
       }
     },
     {
-      "keyword": "케스파컵 중계",
+      "keyword": "김예림",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "행정",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "농심, KeSPA컵 3연승…A그룹 1위 출발",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BoGhVmDgSR"
+        "title": "세종시의회, 지역경제와 문화관광의 새 방향 제시",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260721501100"
       }
     },
     {
-      "keyword": "블랙록",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "로스앤젤레스 레이커스",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "블랙록 한국 ETF에 4조원 ‘뭉칫돈’…SK하이닉스·AI 기대감에 역대 최대 자금 유입",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12103182"
-      }
-    },
-    {
-      "keyword": "롯데온",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "중기중앙회, 유통상생 우수기업 포상…현대百·이마트 등 4곳",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260721037200030"
-      }
-    },
-    {
-      "keyword": "비니시우스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘충격’ 비니시우스, 월드컵 탈락 후 비키니 女와 요트에서",
-        "source": "인터풋볼",
-        "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=690608"
+        "title": "Sources: Matisse Thybulle agrees to 1-year deal with Lakers",
+        "source": "ESPN",
+        "url": "https://www.espn.com/nba/story/_/id/49411523/sources-matisse-thybulle-agrees-1-year-deal-lakers"
       }
     }
   ]
