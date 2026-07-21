@@ -1894,5 +1894,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T08:47:41.422014+09:00",
+    "label": "08:47",
+    "items": [
+      {
+        "keyword": "아파트",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "5월 서울 아파트값 1.3% '껑충'…전셋값도 1.0% 상승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721179200004"
+        }
+      },
+      {
+        "keyword": "박위",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“기적 같은 순간”…‘전신마비’ 박위, 10년 만에 두 발로 섰다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/padeizu5TT"
+        }
+      },
+      {
+        "keyword": "레오 14세",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "레오 14세 교황, 가톨릭중앙의료원에 감사 서신 전달",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260721027164306"
+        }
+      },
+      {
+        "keyword": "tsla",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Tesla cash burn to test investor faith in AI bets",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/tesla-cash-burn-test-investor-faith-ai-bets-2026-07-21/"
+        }
+      },
+      {
+        "keyword": "줄기세포",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "첨단재생의료 치료길 넓힌다…교모세포종 등 정부주도 임상추진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/FzCH21XSHW"
+        }
+      },
+      {
+        "keyword": "구속영장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] \"본부장님 지시입니다\"‥국수본 '최윗선'까지 나섰나",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6839014_37004.html"
+        }
+      },
+      {
+        "keyword": "논쟁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "李 “온 사방서 노란봉투법 분쟁… 정부가 쟁의기준 정리하라”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722043418763"
+        }
+      },
+      {
+        "keyword": "김민재",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김민재. 케네스컴퍼니 새 출발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721094001212"
+        }
+      },
+      {
+        "keyword": "googl",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Google parent Alphabet to report Q2 earnings in latest test of AI trade",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/google-parent-alphabet-to-report-q2-earnings-in-latest-test-of-ai-trade-110000124.html"
+        }
+      },
+      {
+        "keyword": "hd현대중공업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "울산 조선소 외국인 노동자 사망사고에 안전관리 부실 주장 제기(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZmQVx3tWX3"
+        }
+      }
+    ]
   }
 ]
