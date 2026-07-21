@@ -1682,5 +1682,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T05:13:10.207353+09:00",
+    "label": "05:13",
+    "items": [
+      {
+        "keyword": "다이 소",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bgWoMx6b5W"
+        }
+      },
+      {
+        "keyword": "악어",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721182100061"
+        }
+      },
+      {
+        "keyword": "전쟁",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "홍해 봉쇄선언 후티 “사우디 오가는 모든 선박 표적”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722043505794"
+        }
+      },
+      {
+        "keyword": "이자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "울산시, 시금고 예금금리 인상…\"재정건전성 강화\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721174750912"
+        }
+      },
+      {
+        "keyword": "오현규",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“살라는 동의했는데 에이전트가 35% 요구” 베식타스행 무산 주장…오현규도 반전 맞았다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Uu2t3LJ6lH"
+        }
+      },
+      {
+        "keyword": "앤서니 테일러",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 가족에게 감사해\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260722n00454"
+        }
+      },
+      {
+        "keyword": "하트시그널5",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"부정 했는데 어쨌든 오빠\" 강유경 몰표 불구 결국 '폭스남' 박우열 선택('하시5')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721234907069?t=m&x_mn=6a5f89affbddf26a833d5456"
+        }
+      },
+      {
+        "keyword": "정철원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QS653lIkvl"
+        }
+      },
+      {
+        "keyword": "스파이더맨 브랜드 뉴 데이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "541m 위에서 히어로 데뷔…서울스카이에 '스파이더맨' 떴다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721090640685"
+        }
+      },
+      {
+        "keyword": "박기량",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[사진]리센느 리브, 고향서 시구해요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GM3WIYZZG43DQMDFGBSTSYZXMY/"
+        }
+      }
+    ]
   }
 ]

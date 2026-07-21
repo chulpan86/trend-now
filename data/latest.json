@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-22T03:09:24.518543+09:00",
-  "label": "03:09",
+  "timestamp": "2026-07-22T05:13:10.207353+09:00",
+  "label": "05:13",
   "items": [
     {
       "keyword": "다이 소",
@@ -14,22 +14,42 @@
     },
     {
       "keyword": "악어",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260721182100061"
+      }
+    },
+    {
+      "keyword": "전쟁",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[단독] 여주 80㎝ 악어, 알고 보니 ‘국제 멸종 위기종’",
+        "title": "홍해 봉쇄선언 후티 “사우디 오가는 모든 선박 표적”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/YQXsM0FYTU"
+        "url": "https://v.daum.net/v/20260722043505794"
       }
     },
     {
       "keyword": "이자",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "울산시, 시금고 예금금리 인상…\"재정건전성 강화\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721174750912"
+      }
+    },
+    {
+      "keyword": "오현규",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[금리 인상 후폭풍] 취약차주도 '비상'…이자 부담·연체 우려 커진다",
+        "title": "“살라는 동의했는데 에이전트가 35% 요구” 베식타스행 무산 주장…오현규도 반전 맞았다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260721184737889"
+        "url": "https://v.daum.net/v/Uu2t3LJ6lH"
       }
     },
     {
@@ -43,6 +63,16 @@
       }
     },
     {
+      "keyword": "하트시그널5",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"부정 했는데 어쨌든 오빠\" 강유경 몰표 불구 결국 '폭스남' 박우열 선택('하시5')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721234907069?t=m&x_mn=6a5f89affbddf26a833d5456"
+      }
+    },
+    {
       "keyword": "정철원",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -53,43 +83,13 @@
       }
     },
     {
-      "keyword": "킬러들의 쇼핑몰 시즌2",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "충남서 찍은 '킬러들의 쇼핑몰 2'…\"지역 상권 소비로 이어져\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260721146400063"
-      }
-    },
-    {
-      "keyword": "코스닥",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "고점 대비 40% 급락…'삼천닥' 외치다 거래 실종된 코스닥",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607217490i"
-      }
-    },
-    {
-      "keyword": "달",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"8월 초 달 표면서 TNT 3톤 폭발\"…스페이스X 로켓 잔해, 8월에 달 충돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721154937427"
-      }
-    },
-    {
-      "keyword": "하트시그널5",
+      "keyword": "스파이더맨 브랜드 뉴 데이",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "강유경 이별 암시? \"오빠랑만 울면서 대화\" 최종선택 직전 눈물[하트시그널5]",
+        "title": "541m 위에서 히어로 데뷔…서울스카이에 '스파이더맨' 떴다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/HcyEoLJ6CM"
+        "url": "https://v.daum.net/v/20260721090640685"
       }
     },
     {
