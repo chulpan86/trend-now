@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T13:59:07.073304+09:00",
-    "label": "13:59",
-    "items": [
-      {
-        "keyword": "중국 오픈",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "[오피셜] 안세영 안타까운 소식…중국 오픈 출전 명단서 결국 빠졌다→세계선수권·AG 위해 회복 집중",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/65FiGx6bXK"
-        }
-      },
-      {
-        "keyword": "윤이나",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'우승이 없는 게 이상한' 윤이나, 스코틀랜드에서 LPGA 첫승 재도전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721073351199"
-        }
-      },
-      {
-        "keyword": "서울회생법원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "서울회생법원, 홈플러스 회생절차 폐지결정 취소",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6838873_36918.html"
-        }
-      },
-      {
-        "keyword": "예산",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "전략으로 설계하고, 재정으로 실현하겠습니다! - 전체 | 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148968466&pWise=sub&pWiseSub=C4"
-        }
-      },
-      {
-        "keyword": "대한민국 국토교통부",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "세이프티Ⅱ 개념 정립 에릭 홀나겔 교수 등 연사 참여",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260719500216"
-        }
-      },
-      {
-        "keyword": "이더리움",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이더리움 현물 ETF에 다시 돈 몰린다…상승 랠리 이어질까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Gljxru0HNG"
-        }
-      },
-      {
-        "keyword": "cgv",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "김병만",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김병만, 핼쑥해진 근황…어딘지 힘들어보이는 표정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003716149"
-        }
-      },
-      {
-        "keyword": "신진서 카타고 3국",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'인간 자존심 지킬까' 신진서, 오늘 카타고 상대 2연승 도전",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6232906"
-        }
-      },
-      {
-        "keyword": "석유 화학 산업",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "석유화학 위기 노사정이 푼다…첫 사회적 대화 회의체 출범",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721100242343"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-21T16:32:46.900363+09:00",
     "label": "16:32",
     "items": [
@@ -1887,6 +1785,112 @@
           "title": "종부세 째깍째깍...1주택자도 \"빚 내서 내야\" 발동동 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/estate/2026/07/22/2026072119541116925"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-23T03:01:59.716970+09:00",
+    "label": "03:01",
+    "items": [
+      {
+        "keyword": "이용수",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[SPO 인터뷰] \"내가 범죄를 저지른 것도 아닌데\" 박지성 비판한 서강일 회장 작심 발언 \"진실은 세상에 알려지지 않았다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/K4nGBp3GTT"
+        }
+      },
+      {
+        "keyword": "클럽 친선경기",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "테네리페 vs 헤타페 경기 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tenerife-vs-getafe-doi-hinh-du-kien"
+        }
+      },
+      {
+        "keyword": "교사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "17년째 병가 쓴 ‘유령 교사’…“퇴직하라” 명령에 오히려 소송",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722202736602"
+        }
+      },
+      {
+        "keyword": "극한 호우",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"휴가철 하루 614만 명 이동\"…안전한 휴가 '특별교통대책' 가동",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968575"
+        }
+      },
+      {
+        "keyword": "유골함",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "고인 얼굴 새겨진 유골함이 쓰레기통 옆에…무슨 일?",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260722/134348066/1"
+        }
+      },
+      {
+        "keyword": "홈 플러스 재개 장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/21/2026072180103.html"
+        }
+      },
+      {
+        "keyword": "가수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“한국에서 이런 일이”…주택서 ‘대마’ 재배한 힙합 가수·작곡가 등 12명 기소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722213001801"
+        }
+      },
+      {
+        "keyword": "dc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘Clayface’ Trailer: DC Studios’ Batman Bad Guy Gets His Close-Up",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/07/clayface-trailer-tom-rhys-harries-1237000368/"
+        }
+      },
+      {
+        "keyword": "fm",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "N. Korea FM returns home from Russia trip",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/PYH20260721162700315"
+        }
+      },
+      {
+        "keyword": "fx5",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "The Sony FX5 is Here: Is it Instantly the Best Compact Cinema Camera on the Market?",
+          "source": "No Film School",
+          "url": "https://nofilmschool.com/sony-fx5-announcement"
         }
       }
     ]

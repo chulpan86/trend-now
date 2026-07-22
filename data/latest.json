@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-23T01:14:52.976908+09:00",
-  "label": "01:14",
+  "timestamp": "2026-07-23T03:01:59.716970+09:00",
+  "label": "03:01",
   "items": [
     {
       "keyword": "이용수",
@@ -13,19 +13,19 @@
       }
     },
     {
-      "keyword": "인스타그램",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "클럽 친선경기",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "Facebook and Instagram are down — Live updates on massive outage",
-        "source": "Tom's Guide",
-        "url": "https://www.tomsguide.com/news/live/instagram-down-outage-live-updates-7-22-26"
+        "title": "테네리페 vs 헤타페 경기 예측: 예상 라인업",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-tenerife-vs-getafe-doi-hinh-du-kien"
       }
     },
     {
       "keyword": "교사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "17년째 병가 쓴 ‘유령 교사’…“퇴직하라” 명령에 오히려 소송",
         "source": "Daum",
@@ -33,69 +33,73 @@
       }
     },
     {
-      "keyword": "토트넘",
+      "keyword": "극한 호우",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[속보] '충격' 손흥민에게 받은 '캡틴 완장' 반납 후 떠난다···HERE WE GO \"토트넘과 사실상 결별 확정, 복귀 가능성 없다\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260722n26169"
+        "title": "\"휴가철 하루 614만 명 이동\"…안전한 휴가 '특별교통대책' 가동",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968575"
       }
     },
     {
-      "keyword": "박동원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'저 공을 왜 안 잡아' 번트 타구 놓친 LG 박동원 문책성 교체?…혼란의 LG, 6연패 수렁",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260722155327427"
-      }
-    },
-    {
-      "keyword": "이승우",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "이승우, '홍명보호' 탈락 심경 고백 \"무릎 꿇고 기도\"..김영광 \"감독 고집\" 돌직구 [라스][★밤TView]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260723000707052"
-      }
-    },
-    {
-      "keyword": "가족",
+      "keyword": "유골함",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "김준상",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
-        "title": "‘SK하이닉스 출신’ 김준상 아나운서 “8만원에 전재산 올인…동기 성과급 1억↑”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721234951078?f=m"
+        "title": "고인 얼굴 새겨진 유골함이 쓰레기통 옆에…무슨 일?",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260722/134348066/1"
       }
     },
     {
-      "keyword": "모스 탄",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "홈 플러스 재개 장",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[단독]법무부, ‘이 대통령 명예훼손’ 기소된 모스 탄에 추가 출국정지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/P8kSoupXhW"
+        "title": "김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'",
+        "source": "인베스트조선",
+        "url": "https://www.investchosun.com/site/data/html_dir/2026/07/21/2026072180103.html"
       }
     },
     {
-      "keyword": "한강 벨트",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "가수",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "종부세 째깍째깍...1주택자도 \"빚 내서 내야\" 발동동 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/estate/2026/07/22/2026072119541116925"
+        "title": "“한국에서 이런 일이”…주택서 ‘대마’ 재배한 힙합 가수·작곡가 등 12명 기소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260722213001801"
+      }
+    },
+    {
+      "keyword": "dc",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘Clayface’ Trailer: DC Studios’ Batman Bad Guy Gets His Close-Up",
+        "source": "Deadline",
+        "url": "https://deadline.com/2026/07/clayface-trailer-tom-rhys-harries-1237000368/"
+      }
+    },
+    {
+      "keyword": "fm",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "N. Korea FM returns home from Russia trip",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/PYH20260721162700315"
+      }
+    },
+    {
+      "keyword": "fx5",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "The Sony FX5 is Here: Is it Instantly the Best Compact Cinema Camera on the Market?",
+        "source": "No Film School",
+        "url": "https://nofilmschool.com/sony-fx5-announcement"
       }
     }
   ]
