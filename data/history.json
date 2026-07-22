@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T02:22:28.471179+09:00",
-    "label": "02:22",
-    "items": [
-      {
-        "keyword": "치어리더",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "퀸즈아이 서빈,'시구 정말 잘했죠?' [사진]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718182011133?f=m"
-        }
-      },
-      {
-        "keyword": "둠스데이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'어벤져스: 둠스데이' 첫 트레일러, 가면 쓴 로버트 다우니 주니어의 닥터 둠 공개",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/7/marvel-studios-avengers-doomsday-official-trailer-stream"
-        }
-      },
-      {
-        "keyword": "남도일보",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/publicnews/2026/07/20/20260720500109"
-        }
-      },
-      {
-        "keyword": "정지선",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "2026년 창원아카데미, 정지선 토크콘서트 성황리 개최",
-          "source": "케이에스피뉴스",
-          "url": "http://www.kspnews.com/2733206"
-        }
-      },
-      {
-        "keyword": "스파이더맨 브랜드 뉴 데이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "다시 예매 오픈 '스파이더맨: 브랜드 뉴 데이' 50% 육박 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tVy5yB71u2"
-        }
-      },
-      {
-        "keyword": "케빈 키건",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721001200085"
-        }
-      },
-      {
-        "keyword": "유병호",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6838759_36918.html"
-        }
-      },
-      {
-        "keyword": "은가은",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박현호·은가은, '살림남' 뜬다…딸바보 일상 최초공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5MQsibztvd"
-        }
-      },
-      {
-        "keyword": "이동진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1269041.html"
-        }
-      },
-      {
-        "keyword": "홍지민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'말자쇼' 홍지민, 출산 후 30㎏ 감량 \"온갖 다이어트 다 해봐\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720161855467?f=p"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T04:24:47.168954+09:00",
-    "label": "04:24",
-    "items": [
-      {
-        "keyword": "치어리더",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "퀸즈아이 서빈,'시구 정말 잘했죠?' [사진]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718182011133?f=m"
-        }
-      },
-      {
-        "keyword": "남도일보",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/publicnews/2026/07/20/20260720500109"
-        }
-      },
-      {
-        "keyword": "요르단",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이란 “미 전투기 2대 파괴” 영상 공개…이란 전쟁 새 전장 된 요르단",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720181308100"
-        }
-      },
-      {
-        "keyword": "스파이더맨 브랜드 뉴 데이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "다시 예매 오픈 '스파이더맨: 브랜드 뉴 데이' 50% 육박 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tVy5yB71u2"
-        }
-      },
-      {
-        "keyword": "케빈 키건",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "잉글랜드 축구 레전드 케빈 키건, 암투병 끝 75세로 별세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721001200085"
-        }
-      },
-      {
-        "keyword": "유병호",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'윤석열 관저 이전 부실 감사' 유병호 위원 구속‥\"증거인멸 염려\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6838759_36918.html"
-        }
-      },
-      {
-        "keyword": "은가은",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박현호·은가은, '살림남' 뜬다…딸바보 일상 최초공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720183037662?f=p"
-        }
-      },
-      {
-        "keyword": "이동진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1269041.html"
-        }
-      },
-      {
-        "keyword": "ps",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "PlayStation Store’s Summer Sale arrives on July 15",
-          "source": "PlayStation.Blog",
-          "url": "https://blog.playstation.com/2026/07/14/playstation-stores-summer-sale-arrives-on-july-15/"
-        }
-      },
-      {
-        "keyword": "대구광역시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "임인환 의장 “경청하는 의장 될 것, 무리한 시정엔 분명히 제동”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720144004676"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-21T06:00:41.800905+09:00",
     "label": "06:00",
     "items": [
@@ -1997,6 +1785,112 @@
           "title": "인권위, 군 급식환경 개선 권고…“채식 등 급식 소수자 장병 건강권 보장”",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8617065"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T16:33:30.225579+09:00",
+    "label": "16:33",
+    "items": [
+      {
+        "keyword": "젠 데이 아",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "젠데이아가 찬 금 귀걸이, 알고보니 ‘3000년 전 이란 유물’···고고학계 발칵",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607221007001"
+        }
+      },
+      {
+        "keyword": "정의선",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "젠슨 황·이재용·최태원·이해진, 이번엔 미국서 ‘깐부 회동’···샘 올트먼도 함께?",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607221006001"
+        }
+      },
+      {
+        "keyword": "이란의 핵시설",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "트럼프, 확전 예고했지만…돈은 바닥나고, 무기 부족도 ‘쉬쉬’?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722150308559"
+        }
+      },
+      {
+        "keyword": "예금",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[김윤섭의 Fin포인트] '롤러코스피'에 머니무브 주춤…'최고 10%' 은행 예·적금 다시 뜬다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722154756154"
+        }
+      },
+      {
+        "keyword": "삼전닉스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "SK하이닉스, 장중 200만원 찍고 '추락'...상승세 꺾인 이유는",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722153848622"
+        }
+      },
+      {
+        "keyword": "이탁 수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'정답' 대신 \"어떻게 살고 싶은가\"…키팅 역 배우들의 인생철학",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721171100005"
+        }
+      },
+      {
+        "keyword": "한국여자프로골프협회",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "KLPGA·LPGA 극적 합의…BMW 챔피언십에 26년 15명·27년부터 30명 출전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KK84bU0HmA"
+        }
+      },
+      {
+        "keyword": "로스앤젤레스 에인절스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "끝내기 사구라니...'한국계' 오브라이언, 최하위 LAA전 BS→SV 단독 2위 기회 놓쳐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721173328312"
+        }
+      },
+      {
+        "keyword": "동상이몽 2 - 너는 내 운명",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "故이순재 떠올린 백일섭 \"어렸을 때부터 가깝게 지낸 형 보고 싶어\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6551430"
+        }
+      },
+      {
+        "keyword": "천소윤",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "천소윤 치어리더 '우렁찬 응원' [MK포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260721n33118"
         }
       }
     ]
