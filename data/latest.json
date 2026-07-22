@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-22T23:55:38.634337+09:00",
-  "label": "23:55",
+  "timestamp": "2026-07-23T01:14:52.976908+09:00",
+  "label": "01:14",
   "items": [
     {
-      "keyword": "폴드8",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "이용수",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "삼성전자, 갤럭시 Z 폴드8 울트라·폴드8·플립8 등 폴더블 3종 라인업으로 확대",
-        "source": "Samsung Global Newsroom",
-        "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-z-%ED%8F%B4%EB%93%9C8-%EC%9A%B8%ED%8A%B8%EB%9D%BC%C2%B7%ED%8F%B4%EB%93%9C8%C2%B7%ED%94%8C%EB%A6%BD8-%EB%93%B1-%ED%8F%B4%EB%8D%94"
+        "title": "[SPO 인터뷰] \"내가 범죄를 저지른 것도 아닌데\" 박지성 비판한 서강일 회장 작심 발언 \"진실은 세상에 알려지지 않았다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/K4nGBp3GTT"
       }
     },
     {
@@ -17,9 +17,29 @@
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "Is Instagram down right now? Users reporting issues with Instagram",
-        "source": "Asbury Park Press",
-        "url": "https://www.app.com/story/tech/2026/07/22/instagram-down-downdetector-july-22-2026/91006967007/"
+        "title": "Facebook and Instagram are down — Live updates on massive outage",
+        "source": "Tom's Guide",
+        "url": "https://www.tomsguide.com/news/live/instagram-down-outage-live-updates-7-22-26"
+      }
+    },
+    {
+      "keyword": "교사",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "17년째 병가 쓴 ‘유령 교사’…“퇴직하라” 명령에 오히려 소송",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260722202736602"
+      }
+    },
+    {
+      "keyword": "토트넘",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[속보] '충격' 손흥민에게 받은 '캡틴 완장' 반납 후 떠난다···HERE WE GO \"토트넘과 사실상 결별 확정, 복귀 가능성 없다\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260722n26169"
       }
     },
     {
@@ -37,29 +57,35 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'라디오스타' 김영광, 홍명보 향한 작심 발언⋯\"이상한 고집 있어\"",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2606393"
+        "title": "이승우, '홍명보호' 탈락 심경 고백 \"무릎 꿇고 기도\"..김영광 \"감독 고집\" 돌직구 [라스][★밤TView]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260723000707052"
       }
     },
     {
-      "keyword": "반려견",
+      "keyword": "가족",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "깨끗한나라 포포몽, 출시 3년 만에 매출 16배 성장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Pr68i7UZg8"
-      }
+      "news": null
     },
     {
-      "keyword": "토트넘",
+      "keyword": "김준상",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[속보] '충격' 손흥민에게 받은 '캡틴 완장' 반납 후 떠난다···HERE WE GO \"토트넘과 사실상 결별 확정, 복귀 가능성 없다\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260722n26169"
+        "title": "‘SK하이닉스 출신’ 김준상 아나운서 “8만원에 전재산 올인…동기 성과급 1억↑”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721234951078?f=m"
+      }
+    },
+    {
+      "keyword": "모스 탄",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독]법무부, ‘이 대통령 명예훼손’ 기소된 모스 탄에 추가 출국정지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/P8kSoupXhW"
       }
     },
     {
@@ -67,39 +93,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "초고가 기준 어떻게‥30억이면 한강벨트, 50억이면 강남 3구에 집중",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6839371_37004.html"
-      }
-    },
-    {
-      "keyword": "잔니 인판티노",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"썩어 빠진 FIFA, 인판티노 시대는 끝났다\" 트럼프 전화에 징계 유예+에어컨 켜고 쿨링타임, 라리가 회장의 직격탄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fM66fHYChz"
-      }
-    },
-    {
-      "keyword": "경기도",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "추미애 경기지사 “1420만 도민 위해 한마음 될 것”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260722202005493"
-      }
-    },
-    {
-      "keyword": "모스 탄",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[단독]법무부, ‘이 대통령 명예훼손’ 기소된 모스 탄에 추가 출국정지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/P8kSoupXhW"
+        "title": "종부세 째깍째깍...1주택자도 \"빚 내서 내야\" 발동동 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/estate/2026/07/22/2026072119541116925"
       }
     }
   ]

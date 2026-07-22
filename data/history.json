@@ -1788,5 +1788,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T01:14:52.976908+09:00",
+    "label": "01:14",
+    "items": [
+      {
+        "keyword": "이용수",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[SPO 인터뷰] \"내가 범죄를 저지른 것도 아닌데\" 박지성 비판한 서강일 회장 작심 발언 \"진실은 세상에 알려지지 않았다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/K4nGBp3GTT"
+        }
+      },
+      {
+        "keyword": "인스타그램",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "Facebook and Instagram are down — Live updates on massive outage",
+          "source": "Tom's Guide",
+          "url": "https://www.tomsguide.com/news/live/instagram-down-outage-live-updates-7-22-26"
+        }
+      },
+      {
+        "keyword": "교사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "17년째 병가 쓴 ‘유령 교사’…“퇴직하라” 명령에 오히려 소송",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722202736602"
+        }
+      },
+      {
+        "keyword": "토트넘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보] '충격' 손흥민에게 받은 '캡틴 완장' 반납 후 떠난다···HERE WE GO \"토트넘과 사실상 결별 확정, 복귀 가능성 없다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260722n26169"
+        }
+      },
+      {
+        "keyword": "박동원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'저 공을 왜 안 잡아' 번트 타구 놓친 LG 박동원 문책성 교체?…혼란의 LG, 6연패 수렁",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722155327427"
+        }
+      },
+      {
+        "keyword": "이승우",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이승우, '홍명보호' 탈락 심경 고백 \"무릎 꿇고 기도\"..김영광 \"감독 고집\" 돌직구 [라스][★밤TView]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723000707052"
+        }
+      },
+      {
+        "keyword": "가족",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "김준상",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘SK하이닉스 출신’ 김준상 아나운서 “8만원에 전재산 올인…동기 성과급 1억↑”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721234951078?f=m"
+        }
+      },
+      {
+        "keyword": "모스 탄",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]법무부, ‘이 대통령 명예훼손’ 기소된 모스 탄에 추가 출국정지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/P8kSoupXhW"
+        }
+      },
+      {
+        "keyword": "한강 벨트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "종부세 째깍째깍...1주택자도 \"빚 내서 내야\" 발동동 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/07/22/2026072119541116925"
+        }
+      }
+    ]
   }
 ]
