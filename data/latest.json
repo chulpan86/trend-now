@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-23T06:56:43.819420+09:00",
-  "label": "06:56",
+  "timestamp": "2026-07-23T07:56:33.564614+09:00",
+  "label": "07:56",
   "items": [
     {
-      "keyword": "세종특별자치시",
+      "keyword": "안세영",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "'안세영 빠진 대회'서 이런 일이…2게임 21-1 충격 스코어 나왔다→日 야마구치, 세계랭킹 25위 상대로 압승 '화제'",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260722n37284"
+      }
+    },
+    {
+      "keyword": "운세",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[오늘의 운세] 2026년 07월 23일 별자리 운세",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0121_202607230000000002"
+      }
+    },
+    {
+      "keyword": "군체",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "연비",
-      "traffic_raw": "500+",
-      "traffic": 500,
       "news": {
-        "title": "렉서스 ES300h, BMW 520, 볼보 XC60 브랜드 베스트셀링카 건재...BYD 돌핀은 신고식",
-        "source": "소비자가 만드는 신문",
-        "url": "https://www.consumernews.co.kr/news/articleView.html?idxno=759248"
+        "title": "‘군체’, 오늘(23일)부터 극장 동시 IPTV & 케이블 TV VOD 서비스",
+        "source": "싱글리스트",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=753577"
       }
     },
     {
-      "keyword": "홍수",
+      "keyword": "당구",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "폭우 쏟아지는 홍수 현장서 '빗물 범벅' 도시락 먹는 소방관…中 누리꾼 감동",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026072108350711671"
-      }
-    },
-    {
-      "keyword": "실종자",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "영월서 집중호우로 실종된 40대 숨진 채 발견",
+        "title": "“최강 당구父子 탄생” 조명우-조지언 부자 인천시장배 전국당구대회 복식 우승…전국대회 최초",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260722165841745"
+        "url": "https://v.daum.net/v/20260722231500439"
       }
     },
     {
-      "keyword": "중앙일보",
+      "keyword": "이자",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "중앙일보 인수 의향사 놓고 언론계 '술렁'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260722165538632"
+        "title": "\"매수자 배려\" 17억을 무이자로…장동혁 \"이런 식이면\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12309643"
       }
     },
     {
-      "keyword": "capex",
+      "keyword": "googl",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Google parent Alphabet to report Q2 earnings in latest test of AI trade",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/article/google-parent-alphabet-to-report-q2-earnings-in-latest-test-of-ai-trade-110000124.html"
+      }
+    },
+    {
+      "keyword": "휴대 전화",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Google earnings live updates: Alphabet's AI outlook, cloud growth in focus",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html"
+        "title": "[맵 브리핑] 내년부터 교내 휴대전화 사용금지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721154657261"
       }
     },
     {
-      "keyword": "국가수사본부",
+      "keyword": "nvda",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[뉴스광장 2부 헤드라인]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8616701"
+        "title": "NVIDIA technical analysis: bullish setup across all timeframes",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/nvidia-technical-analysis-bullish-setup-across-all-timeframes-93CH-4806739"
       }
     },
     {
-      "keyword": "중앙그룹",
+      "keyword": "대우건설",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘빚인데 자본’…중앙그룹 사태로 다시 주목받는 영구채",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/07/16/2026071680122.html"
-      }
-    },
-    {
-      "keyword": "박관열",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "박관열 경기 광주시장 경강선 출퇴근 셔틀열차 추진",
-        "source": "매일경제",
-        "url": "https://www.mbn.co.kr/news/society/5207353"
-      }
-    },
-    {
-      "keyword": "슈퍼맨이 돌아왔다",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'슈돌' KCM, 큰딸 교복 치마에 깜짝…\"너무 짧은데?\"",
+        "title": "\"대우건설 2Q 실적 양호…주가에 필요한 건 원전\"[클릭 e종목]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260722212150661"
+        "url": "https://v.daum.net/v/20260723072052919"
+      }
+    },
+    {
+      "keyword": "예산",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "전남광주특별시, 내년 국비 확보 '총력'…기획처 심의 대응",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/bcB5E2Kp58"
       }
     }
   ]

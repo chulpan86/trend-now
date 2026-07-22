@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T19:14:40.650478+09:00",
-    "label": "19:14",
-    "items": [
-      {
-        "keyword": "삼성 대 키움",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "프로야구 삼성, '부상' 후라도 임시 대체 외국인 투수 보스 영입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260720151400007"
-        }
-      },
-      {
-        "keyword": "ssg 대 롯데",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "끊이지 않는 부상 선수…이숭용 SSG 감독 \"제가 부족한 탓\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721172200007"
-        }
-      },
-      {
-        "keyword": "압류",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "압류주택 낙찰 받아 갔더니…전 주인 가족 유해 발견",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721100751711"
-        }
-      },
-      {
-        "keyword": "두산 대 kt",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'7연승' 이강철 감독, 두산 바짝 경계 \"제일 무서운 팀 만났다\" [수원 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/21/2026072115134828872"
-        }
-      },
-      {
-        "keyword": "메가프로젝트",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"반도체는 찬성, 원전은 반대\" … 1500兆 호남 메가프로젝트, 전력에서 좌초되나",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/21/2026072100052.html"
-        }
-      },
-      {
-        "keyword": "구제역",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "쯔양 협박 유튜버 구제역, 항소심서 배상액 8000만원으로 늘어",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607211539001"
-        }
-      },
-      {
-        "keyword": "애플 카드",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"애플 비켜\"...삼성, 미국에서 '갤럭시 카드' 전격 출시",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202607211247363243"
-        }
-      },
-      {
-        "keyword": "김예림",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "행정",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "세종시의회, 지역경제와 문화관광의 새 방향 제시",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260721501100"
-        }
-      },
-      {
-        "keyword": "로스앤젤레스 레이커스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Sources: Matisse Thybulle agrees to 1-year deal with Lakers",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/story/_/id/49411523/sources-matisse-thybulle-agrees-1-year-deal-lakers"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-21T21:19:09.944810+09:00",
     "label": "21:19",
     "items": [
@@ -1989,6 +1887,112 @@
           "title": "'슈돌' KCM, 큰딸 교복 치마에 깜짝…\"너무 짧은데?\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260722212150661"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-23T07:56:33.564614+09:00",
+    "label": "07:56",
+    "items": [
+      {
+        "keyword": "안세영",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'안세영 빠진 대회'서 이런 일이…2게임 21-1 충격 스코어 나왔다→日 야마구치, 세계랭킹 25위 상대로 압승 '화제'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260722n37284"
+        }
+      },
+      {
+        "keyword": "운세",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[오늘의 운세] 2026년 07월 23일 별자리 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202607230000000002"
+        }
+      },
+      {
+        "keyword": "군체",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘군체’, 오늘(23일)부터 극장 동시 IPTV & 케이블 TV VOD 서비스",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=753577"
+        }
+      },
+      {
+        "keyword": "당구",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“최강 당구父子 탄생” 조명우-조지언 부자 인천시장배 전국당구대회 복식 우승…전국대회 최초",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722231500439"
+        }
+      },
+      {
+        "keyword": "이자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"매수자 배려\" 17억을 무이자로…장동혁 \"이런 식이면\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12309643"
+        }
+      },
+      {
+        "keyword": "googl",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Google parent Alphabet to report Q2 earnings in latest test of AI trade",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/google-parent-alphabet-to-report-q2-earnings-in-latest-test-of-ai-trade-110000124.html"
+        }
+      },
+      {
+        "keyword": "휴대 전화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[맵 브리핑] 내년부터 교내 휴대전화 사용금지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721154657261"
+        }
+      },
+      {
+        "keyword": "nvda",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "NVIDIA technical analysis: bullish setup across all timeframes",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-technical-analysis-bullish-setup-across-all-timeframes-93CH-4806739"
+        }
+      },
+      {
+        "keyword": "대우건설",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"대우건설 2Q 실적 양호…주가에 필요한 건 원전\"[클릭 e종목]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723072052919"
+        }
+      },
+      {
+        "keyword": "예산",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "전남광주특별시, 내년 국비 확보 '총력'…기획처 심의 대응",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bcB5E2Kp58"
         }
       }
     ]
