@@ -1890,5 +1890,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T06:56:43.819420+09:00",
+    "label": "06:56",
+    "items": [
+      {
+        "keyword": "세종특별자치시",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": null
+      },
+      {
+        "keyword": "연비",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "렉서스 ES300h, BMW 520, 볼보 XC60 브랜드 베스트셀링카 건재...BYD 돌핀은 신고식",
+          "source": "소비자가 만드는 신문",
+          "url": "https://www.consumernews.co.kr/news/articleView.html?idxno=759248"
+        }
+      },
+      {
+        "keyword": "홍수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "폭우 쏟아지는 홍수 현장서 '빗물 범벅' 도시락 먹는 소방관…中 누리꾼 감동",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026072108350711671"
+        }
+      },
+      {
+        "keyword": "실종자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "영월서 집중호우로 실종된 40대 숨진 채 발견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722165841745"
+        }
+      },
+      {
+        "keyword": "중앙일보",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "중앙일보 인수 의향사 놓고 언론계 '술렁'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722165538632"
+        }
+      },
+      {
+        "keyword": "capex",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Google earnings live updates: Alphabet's AI outlook, cloud growth in focus",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html"
+        }
+      },
+      {
+        "keyword": "국가수사본부",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[뉴스광장 2부 헤드라인]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8616701"
+        }
+      },
+      {
+        "keyword": "중앙그룹",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘빚인데 자본’…중앙그룹 사태로 다시 주목받는 영구채",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/16/2026071680122.html"
+        }
+      },
+      {
+        "keyword": "박관열",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "박관열 경기 광주시장 경강선 출퇴근 셔틀열차 추진",
+          "source": "매일경제",
+          "url": "https://www.mbn.co.kr/news/society/5207353"
+        }
+      },
+      {
+        "keyword": "슈퍼맨이 돌아왔다",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'슈돌' KCM, 큰딸 교복 치마에 깜짝…\"너무 짧은데?\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722212150661"
+        }
+      }
+    ]
   }
 ]
