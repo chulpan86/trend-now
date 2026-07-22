@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T00:01:26.140302+09:00",
-    "label": "00:01",
-    "items": [
-      {
-        "keyword": "장민호",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "장민호, 김대호와 '무명전설' 시즌2도 MC 확정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720190327333"
-        }
-      },
-      {
-        "keyword": "아이유",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "아이유, 이관개방증으로 고양 콘서트 취소·앨범 발매 연기",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260720154600005"
-        }
-      },
-      {
-        "keyword": "남도일보",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "손훈모 순천시장 “시민과 함께 미래경제도시 만들 터”",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/publicnews/2026/07/20/20260720500109"
-        }
-      },
-      {
-        "keyword": "정지선",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "2026년 창원아카데미, 정지선 토크콘서트 성황리 개최",
-          "source": "케이에스피뉴스",
-          "url": "http://www.kspnews.com/2733206"
-        }
-      },
-      {
-        "keyword": "홍지민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'말자쇼' 홍지민, 출산 후 30㎏ 감량 \"온갖 다이어트 다 해봐\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1eLejKqF55"
-        }
-      },
-      {
-        "keyword": "하주석",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "유강남? 하주석? \"트레이드, SSG와 엮지 마세요. 관심 없습니다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zhAHuJRfe4"
-        }
-      },
-      {
-        "keyword": "내일도 출근",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘내일도출근’ 관계 전환점",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720083507430"
-        }
-      },
-      {
-        "keyword": "톰홀랜드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "다시 예매 오픈 '스파이더맨: 브랜드 뉴 데이' 50% 육박 1위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tVy5yB71u2"
-        }
-      },
-      {
-        "keyword": "불꽃야구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "생중계만 하면 이긴다…불꽃 파이터즈, 동국대 상대로 4연승 도전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720145528457"
-        }
-      },
-      {
-        "keyword": "호프 외계인",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "봉준호 놀라운 질문에…나홍진 “호프, 서사라는 살 내주고 디테일 ‘뼈’ 얻어”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1269041.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-21T02:22:28.471179+09:00",
     "label": "02:22",
     "items": [
@@ -1997,6 +1891,112 @@
           "title": "[7월 21일 캐시워크 돈버는퀴즈 종합]\"키토선생,우리은행,픽스 녹음기\" 등 전체 문제+정답!",
           "source": "이코노미톡뉴스",
           "url": "http://www.economytalk.kr/news/articleView.html?idxno=422907"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T13:58:40.589676+09:00",
+    "label": "13:58",
+    "items": [
+      {
+        "keyword": "보이콧",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "국민의힘, 원내 복귀 결정‥23일 7개 상임위원장 선출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6838999_36911.html"
+        }
+      },
+      {
+        "keyword": "asml 홀딩",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "$ASML Holding (ASML.US)$",
+          "source": "Moomoo",
+          "url": "https://www.moomoo.com/community/feed/asml-holding-asml-us-116930880733590"
+        }
+      },
+      {
+        "keyword": "축구",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "日도 놀랐다 \"한국, 벤투·클린스만 때는 20위권... 홍명보 체제서 32위 추락\" 아시아 4위 굴욕",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722103009203"
+        }
+      },
+      {
+        "keyword": "치매",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "뇌 노폐물 배출 통로 확인…뇌질환 연구 전환점 마련 [지금은 과학]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WsJMJ0FYCI"
+        }
+      },
+      {
+        "keyword": "수표",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "3000만원 수표뭉치 주인이 없다?…발행인도 “모르는 일”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260722/134342600/2"
+        }
+      },
+      {
+        "keyword": "대한민국 국세청",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "「국세외수입체납관리단」 기간제 근로자 모집 - 전체 | 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148968555"
+        }
+      },
+      {
+        "keyword": "가짜뉴스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘가짜뉴스 처벌법’ 1호 타격…유튜브, 김어준 ‘다스뵈이다’ 영상 국내 차단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722130245485"
+        }
+      },
+      {
+        "keyword": "한국마사회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한국마사회, 사회적경제기업 ‘자립’ 돕는다",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/07/21/20260721048004"
+        }
+      },
+      {
+        "keyword": "엔화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘달러당 163엔’ 40년만에 바닥친 엔화…한국이 웃을 수 없는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722092707700"
+        }
+      },
+      {
+        "keyword": "군대",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "인권위, 군 급식환경 개선 권고…“채식 등 급식 소수자 장병 건강권 보장”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8617065"
         }
       }
     ]
