@@ -1776,5 +1776,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-24T03:58:58.001712+09:00",
+    "label": "03:58",
+    "items": [
+      {
+        "keyword": "주거",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "3시간 넘게 대통령 앞에서 “민간임대 확대” “잔금 대출 예외” 발언…“부동산 세금에만 치중” 지적도",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607231748001"
+        }
+      },
+      {
+        "keyword": "배정남",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "배정남, 반려견 벨 떠나보낸 지 10개월 만 또 이별…\"마음껏 뛰어놀그레이\" 먹먹",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723212307598"
+        }
+      },
+      {
+        "keyword": "신상출시 편스토랑",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이정현, 7년 만에 운전대 잡았다가..의사 남편과 부부싸움 위기일발 [편스토랑]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723143609542"
+        }
+      },
+      {
+        "keyword": "박세리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "민주당 예비경선 결과",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "金·鄭·宋 당대표 본선行…최고위원 친명 5명 vs 친청 3명",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604619"
+        }
+      },
+      {
+        "keyword": "엔비디아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“GPU보다 58배 크고, 15배 빠르다”...웨이퍼 크기 AI칩 만드는 셀레브라스",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/FLZgxKB3X5"
+        }
+      },
+      {
+        "keyword": "다시보기",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘엿새째 집중호우’ 밤 사이 경기남부·충남북부에 폭우···중대본, 나흘 만에 1단계로 하향",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607221427021"
+        }
+      },
+      {
+        "keyword": "음문석",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] '호프' 소름 유발자 음문석, '유퀴즈' 첫 출연",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723170954546"
+        }
+      },
+      {
+        "keyword": "민희진",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[연예Pick] '민희진 없는 뉴진스' 첫 결과물…\"촌스럽다\" 혹평도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QKCBqxPKp0"
+        }
+      },
+      {
+        "keyword": "인텔 실적발표",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"인텔, 데이터센터 부문 감원 계획\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260722123700009"
+        }
+      }
+    ]
   }
 ]
