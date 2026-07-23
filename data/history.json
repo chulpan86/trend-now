@@ -1878,5 +1878,103 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-24T06:56:28.916666+09:00",
+    "label": "06:56",
+    "items": [
+      {
+        "keyword": "박수홍",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'허위사실 유포 혐의' 박수홍 형수 항소심도 벌금 1천200만원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260723128000004"
+        }
+      },
+      {
+        "keyword": "공무원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "직무태만·소극행정 공무원, 최소 '감봉'…징계기준 강화",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968689"
+        }
+      },
+      {
+        "keyword": "이효리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이효리, 개원 1년 앞두고 수강생들에 사과…\"미안하기도 하고 쩝\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/u78wlt5Tte"
+        }
+      },
+      {
+        "keyword": "오마이뉴스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형'",
+          "source": "뉴스타파",
+          "url": "http://newstapa.org/article/11T8P"
+        }
+      },
+      {
+        "keyword": "나스닥 지수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "중동 긴장·고유가에 뉴욕증시 일제히 하락…나스닥 2.2%↓(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724006851072"
+        }
+      },
+      {
+        "keyword": "보조금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“보조금 없어지면 가성비 더 부각된다”… 韓 투자 늘리는 中 전기차 업체들 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/car/2026/07/23/4ZAH66H6ONEJ3GJ3Z5LUSBQ5O4/"
+        }
+      },
+      {
+        "keyword": "박진만",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이재현 11회 결승 희생플라이에 김영웅 쐐기타, 삼성 천신만고 끝에 3-1 승리→양창섭 6이닝 KK로 승률 100% 고수→키움 상승세 제동[MD고척]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723221042393"
+        }
+      },
+      {
+        "keyword": "프로야구 순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "알 테오 젠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "알파벳 훈풍에 반도체 강세…코스피 7,000선 회복",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723205452960"
+        }
+      },
+      {
+        "keyword": "도시 재개발",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]
