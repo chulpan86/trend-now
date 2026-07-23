@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T10:43:58.375533+09:00",
-    "label": "10:43",
-    "items": [
-      {
-        "keyword": "트레이드",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'연장 협상도 없다' SF, 올스타 아라에스 트레이드 결심 굳혔나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722031050478"
-        }
-      },
-      {
-        "keyword": "트럭",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘총알도 막는다’던 1억 넘는 사이버트럭, 연쇄추돌에 두 동강…10명 부상",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604099"
-        }
-      },
-      {
-        "keyword": "택시",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"뭐라도 사 먹어요\"…힘들어 울던 여성에게 5000원 건넨 택시 기사 '감동'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6234446"
-        }
-      },
-      {
-        "keyword": "코너 맥그리거",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[오피셜] \"희대의 사기극\" 맥그리거, 69초 만에 패배하고도 수백억 이득→조작 논란에 결백 주장…\"ACL·반월상연골 손상, 내년 여름 복귀하겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722001137619"
-        }
-      },
-      {
-        "keyword": "띠별 운세",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[오늘의 운세] 7월 22일 수요일 (음력 6월 9일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260716580286"
-        }
-      },
-      {
-        "keyword": "전국노래자랑",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'전국노래자랑' 인기상 스페셜 방송",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202607180134"
-        }
-      },
-      {
-        "keyword": "병무청",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전북병무청, 한사랑지역아동센터 채희상 사회복무요원 모범사례 소개",
-          "source": "투데이안",
-          "url": "http://www.todayan.com/news/articleView.html?idxno=624037"
-        }
-      },
-      {
-        "keyword": "사직야구장",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "부산시 ‘사직구장 재건축’ 재검토에 국힘 시의원 강력 반발(종합)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260722.22005006383"
-        }
-      },
-      {
-        "keyword": "모티프3",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "모티프, 글로벌 LLM평가에서 세계 11위…\"딥시크V4와 동점\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/future/2026/07/21/2026072110414663593"
-        }
-      },
-      {
-        "keyword": "캐시워크 정답",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[7월 21일 캐시워크 돈버는퀴즈 종합]\"키토선생,우리은행,픽스 녹음기\" 등 전체 문제+정답!",
-          "source": "이코노미톡뉴스",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=422907"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-22T13:58:40.589676+09:00",
     "label": "13:58",
     "items": [
@@ -1785,6 +1679,104 @@
           "title": "SK텔레콤 \"계열사 에스케이하이퍼 주식 3천300억원에 취득\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260723172600008"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-24T00:01:58.636431+09:00",
+    "label": "00:01",
+    "items": [
+      {
+        "keyword": "조민아",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "쥬얼리 출신 조민아, 보험업계서 승승장구 \"전국 6위\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260723_0003720396"
+        }
+      },
+      {
+        "keyword": "나한일",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'이혼 2번' 나한일♥유혜영 \"딸 덕에 재결합\" 고백…또 갈등? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/23/2026072315094441155"
+        }
+      },
+      {
+        "keyword": "자오즈민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "꼬리에 꼬리를 무는 그날 이야기 : 한 여자 선수에게 반해버린 탁구 국가대표 ‘안재형’",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/culture/thetail/clip/70242/OC480831684"
+        }
+      },
+      {
+        "keyword": "노지선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "채널a",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘가짜뉴스 처벌법’ 1호 타격…유튜브, 김어준 ‘다스뵈이다’ 영상 국내 차단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4LfxvOmjTc"
+        }
+      },
+      {
+        "keyword": "최준용",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "야구여왕 시즌2",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "GBMS, 채널A ‘야구여왕 시즌2’와 함께한다… K-헬스케어 건강기능식품 후원",
+          "source": "livesnews.com",
+          "url": "https://livesnews.com/news/article.html?no=62864"
+        }
+      },
+      {
+        "keyword": "크보",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "KBO Roundup: KT Wiz Catch Fire, Lions Add Another Former MLB Arm",
+          "source": "World Baseball Network",
+          "url": "https://worldbaseball.com/kbo-roundup-kt-wiz-catch-fire-lions-add-another-former-mlb-arm/"
+        }
+      },
+      {
+        "keyword": "메자닌",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[단독] 쿠팡 물류센터 최초 발화 CCTV 장면 확보...6층 메자닌 2층서 불",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12309811"
+        }
+      },
+      {
+        "keyword": "김선빈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[사진]김선빈 실책에 진루하는 박정현-심우준 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/07/23/GAZTGMTEGI3DKZRYMIYDAODCGE/"
         }
       }
     ]
