@@ -1,98 +1,106 @@
 {
-  "timestamp": "2026-07-24T06:56:28.916666+09:00",
-  "label": "06:56",
+  "timestamp": "2026-07-24T07:50:40.848097+09:00",
+  "label": "07:50",
   "items": [
     {
-      "keyword": "박수홍",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "2026",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'허위사실 유포 혐의' 박수홍 형수 항소심도 벌금 1천200만원",
+        "title": "2026 National Educators Rising National Conference Competition",
+        "source": "Richardson ISD",
+        "url": "https://web.risd.org/home/2026-national-educators-rising-national-conference-competition/"
+      }
+    },
+    {
+      "keyword": "빌라",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "주차·방음에 보증금 보호까지 '사각지대'…비아파트가 외면받는 이유 [주거사다리의 '밑단'·③]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260724070129147"
+      }
+    },
+    {
+      "keyword": "tsla",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Tesla's profitability deteriorated in the second quarter of this year due to its performance far bel..",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/en/it/12105049"
+      }
+    },
+    {
+      "keyword": "vix",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "India VIX Closes Up 1.35% at 13.47 as Geopolitical Risks and Crude Oil Keep Volatility Elevated",
+        "source": "HDFC Sky",
+        "url": "https://hdfcsky.com/news/india-vix-ends-at-13-47-as-volatility-persists"
+      }
+    },
+    {
+      "keyword": "케이리 호틀",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'고질라' 18세 지아, 사망 직전 참혹했던 녹취록 공개 \"수어 통역 시급\" [Oh!llywood]",
+        "source": "OSEN",
+        "url": "http://www.osen.co.kr/article/G1112844169"
+      }
+    },
+    {
+      "keyword": "tqqq",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "False Breakout",
+        "source": "Moomoo",
+        "url": "https://www.moomoo.com/community/feed/false-breakout-116961863663621"
+      }
+    },
+    {
+      "keyword": "레미콘",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "경남 남부 레미콘노조 총파업 결의대회…\"사측 단체협약 나서야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260722141257989"
+      }
+    },
+    {
+      "keyword": "골프",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "안병훈·이태훈, LIV 골프 영국 대회 첫날 공동 5위",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260723128000004"
+        "url": "https://www.yna.co.kr/view/AKR20260724012400007"
       }
     },
     {
-      "keyword": "공무원",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "직무태만·소극행정 공무원, 최소 '감봉'…징계기준 강화",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968689"
-      }
-    },
-    {
-      "keyword": "이효리",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이효리, 개원 1년 앞두고 수강생들에 사과…\"미안하기도 하고 쩝\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/u78wlt5Tte"
-      }
-    },
-    {
-      "keyword": "오마이뉴스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[변화] 오세훈, '명태균 여론조사 대납' 1심 '당선무효형'",
-        "source": "뉴스타파",
-        "url": "http://newstapa.org/article/11T8P"
-      }
-    },
-    {
-      "keyword": "나스닥 지수",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "중동 긴장·고유가에 뉴욕증시 일제히 하락…나스닥 2.2%↓(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260724006851072"
-      }
-    },
-    {
-      "keyword": "보조금",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“보조금 없어지면 가성비 더 부각된다”… 韓 투자 늘리는 中 전기차 업체들 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/industry/car/2026/07/23/4ZAH66H6ONEJ3GJ3Z5LUSBQ5O4/"
-      }
-    },
-    {
-      "keyword": "박진만",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이재현 11회 결승 희생플라이에 김영웅 쐐기타, 삼성 천신만고 끝에 3-1 승리→양창섭 6이닝 KK로 승률 100% 고수→키움 상승세 제동[MD고척]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260723221042393"
-      }
-    },
-    {
-      "keyword": "프로야구 순위",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "알 테오 젠",
+      "keyword": "스페이스x 주가",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "알파벳 훈풍에 반도체 강세…코스피 7,000선 회복",
+        "title": "스페이스X 주가 반토막…\"공매도 22조원 평가익\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260723205452960"
+        "url": "https://v.daum.net/v/20260724072047544"
       }
     },
     {
-      "keyword": "도시 재개발",
+      "keyword": "wti 유가",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "[속보]브렌트유 배럴당 100달러 돌파…5월 26일 이후 처음",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607232230001"
+      }
     }
   ]
 }
