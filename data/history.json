@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T21:19:09.944810+09:00",
-    "label": "21:19",
-    "items": [
-      {
-        "keyword": "강선우",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "경찰, 강선우 ‘공직 대가 후원금 의혹’ 무혐의…“알선 대가 인정 어려워”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1269262.html"
-        }
-      },
-      {
-        "keyword": "몸매",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "10년 만에 돌아온 지나, 레깅스 입고 드러낸 놀라운 근황",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003717283"
-        }
-      },
-      {
-        "keyword": "부동산 투자",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12103526"
-        }
-      },
-      {
-        "keyword": "k리그1",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "강원 김대원, K리그1 18라운드 MVP…올 시즌 4번째 수상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5yvwKZGhG4"
-        }
-      },
-      {
-        "keyword": "비니시우스 성형",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"전혀 다른 사람 같다\" 비니시우스, 월드컵 탈락 후 성형 시술…몰라보게 달라진 외모 화제 \"표정에 자신감 넘쳐\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260721n26991"
-        }
-      },
-      {
-        "keyword": "전국학교비정규직노동조합",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "학비노조 \"방학 중 무임금은 '현대판 보릿고개'…차별 해소하라\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260721_0003716487"
-        }
-      },
-      {
-        "keyword": "동물 보호소",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "버려진 반려동물, 거리서 죽어간다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260720201447086"
-        }
-      },
-      {
-        "keyword": "반도체 메모리",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "모건스탠리·JP모간 \"반도체 저가매수 기회\"…삼전닉스 반등",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607216838i"
-        }
-      },
-      {
-        "keyword": "전북현대",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'이승우 기티스vs엄원상 서진수' 갈길 바쁜 전북-대전, 선발 라인업 공개 [오!쎈 현장] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/21/202607211719779205O"
-        }
-      },
-      {
-        "keyword": "롯데손해보험",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-21T23:55:06.472754+09:00",
     "label": "23:55",
     "items": [
@@ -2099,6 +1997,112 @@
           "title": "경기 통계 발렌시아 3-0 엘덴세: 발렌시아가 설득력 있게 승리했습니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/thong-ke-tran-dau-valencia-3-0-eldense-valencia-thang-dam-thuyet-phuc"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-23T11:24:25.436672+09:00",
+    "label": "11:24",
+    "items": [
+      {
+        "keyword": "과태료",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "옹진군, 자동차 과태료 체납징수 상반기 역대 최고 실적 달성",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260722005300353"
+        }
+      },
+      {
+        "keyword": "엔화",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "엔화 39년 만에 최저… 달러당 163엔 붕괴",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/07/22/MWNSJXUGOZCJ5ICESEL7JD4OYI/"
+        }
+      },
+      {
+        "keyword": "버스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "보령↔청주 바로 간다…8월부터 하루 4회 우등 고속버스 왕복",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723102951432"
+        }
+      },
+      {
+        "keyword": "부동산 토론회",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[속보] 이 대통령 “일본의 잃어버린 30년…우리도 그 정점으로 가는지 우려”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607231036001"
+        }
+      },
+      {
+        "keyword": "차두리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "우당탕탕…‘감독 차두리’의 질주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QtrYuTSryZ"
+        }
+      },
+      {
+        "keyword": "tsla",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html"
+        }
+      },
+      {
+        "keyword": "코오롱티슈진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "코오롱티슈진 임상 쇼크에 1200억 CB 투자자 '손실구간' 진입",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/22/2026072280114.html"
+        }
+      },
+      {
+        "keyword": "sk이터닉스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한 달 만에 주가 54% 폭등…급락장에 날아오른 종목 정체",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026072299981"
+        }
+      },
+      {
+        "keyword": "오바마",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Obama Takes Aim At Vance Over Wife Usha's Immigrant Roots In Explosive Citizenship Clash",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/videos/international/obama-takes-aim-at-vance-over-wife-ushas-immigrant-roots-in-explosive-citizenship-clash/videoshow/132461271.cms"
+        }
+      },
+      {
+        "keyword": "한라산",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한라산 백록담 몰래 들어가 물 떠 마시고, 고지대 불법 야영까지···제주도, 특별단속 실시 ‘얌체족’ 엄정 대응",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607231008001"
         }
       }
     ]
