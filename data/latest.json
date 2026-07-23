@@ -1,97 +1,101 @@
 {
-  "timestamp": "2026-07-24T00:01:58.636431+09:00",
-  "label": "00:01",
+  "timestamp": "2026-07-24T02:08:35.636406+09:00",
+  "label": "02:08",
   "items": [
     {
-      "keyword": "조민아",
+      "keyword": "tesla stock",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "쥬얼리 출신 조민아, 보험업계서 승승장구 \"전국 6위\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260723_0003720396"
-      }
-    },
-    {
-      "keyword": "나한일",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'이혼 2번' 나한일♥유혜영 \"딸 덕에 재결합\" 고백…또 갈등? - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/23/2026072315094441155"
+        "title": "Tesla Reports 5% Drop in Q2 Net Income",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008670485"
       }
     },
     {
       "keyword": "자오즈민",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "꼬리에 꼬리를 무는 그날 이야기 : 한 여자 선수에게 반해버린 탁구 국가대표 ‘안재형’",
+        "title": "꼬리에 꼬리를 무는 그날 이야기 : 중공 장성의 벽 깨고 금메달리스트로 다시 만난 안재형×자오즈민",
         "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/culture/thetail/clip/70242/OC480831684"
+        "url": "https://programs.sbs.co.kr/culture/thetail/clip/70242/OC480832014"
       }
     },
     {
-      "keyword": "노지선",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "채널a",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "신상출시 편스토랑",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "‘가짜뉴스 처벌법’ 1호 타격…유튜브, 김어준 ‘다스뵈이다’ 영상 국내 차단",
+        "title": "'편스토랑' 하석진, 결혼 압박 고백…\"母와 3분 이상 통화 안 해\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4LfxvOmjTc"
+        "url": "https://v.daum.net/v/20260723214441917"
       }
     },
     {
-      "keyword": "최준용",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "주거",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "추미애 \"청년월세·매입임대 확대…3기 신도시 속도\" 주문",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260723_0003721214"
+      }
+    },
+    {
+      "keyword": "박세리",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": null
     },
     {
-      "keyword": "야구여왕 시즌2",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "박정수",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "GBMS, 채널A ‘야구여왕 시즌2’와 함께한다… K-헬스케어 건강기능식품 후원",
-        "source": "livesnews.com",
-        "url": "https://livesnews.com/news/article.html?no=62864"
+        "title": "‘230억 건물주’ 박정수 “임대수익료가 효자…집은 안 올라” - 스타투데이",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12105832"
       }
     },
     {
-      "keyword": "크보",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "토네이도",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "KBO Roundup: KT Wiz Catch Fire, Lions Add Another Former MLB Arm",
-        "source": "World Baseball Network",
-        "url": "https://worldbaseball.com/kbo-roundup-kt-wiz-catch-fire-lions-add-another-former-mlb-arm/"
+        "title": "눈앞의 차량이 순식간에 ‘붕’…중국 도로 덮친 토네이도 [현장영상]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8618329"
       }
     },
     {
-      "keyword": "메자닌",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "댕구알버섯",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[단독] 쿠팡 물류센터 최초 발화 CCTV 장면 확보...6층 메자닌 2층서 불",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12309811"
+        "title": "축구공 크기 ‘세계 희귀종’ 13년째 발견…남원 과수원에 무슨일?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260724011809313"
       }
     },
     {
-      "keyword": "김선빈",
+      "keyword": "음문석",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[사진]김선빈 실책에 진루하는 박정현-심우준 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/sports_photo/2026/07/23/GAZTGMTEGI3DKZRYMIYDAODCGE/"
+        "title": "[단독] '호프' 소름 유발자 음문석, '유퀴즈' 첫 출연",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260723170954546"
+      }
+    },
+    {
+      "keyword": "wti",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Live updates: Oil tops $100 a barrel as Red Sea attacks mark new escalation in Iran conflict",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/23/world/live-news/iran-war-trump"
       }
     }
   ]
