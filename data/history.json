@@ -1866,5 +1866,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-25T07:54:27.710814+09:00",
+    "label": "07:54",
+    "items": [
+      {
+        "keyword": "검찰",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[단독]민주당 의총에서 ‘보완수사권 전면 폐지’ 위헌 소지 우려…“안전장치 마련해야” 의견도",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607242057001"
+        }
+      },
+      {
+        "keyword": "skhy",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "U.S. expert slams Korea’s SK hynix ADR rush as self-destructive buying - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-finance/2026/07/24/I2HRNOUHRRCIFC4LN2LKYA4M5I/"
+        }
+      },
+      {
+        "keyword": "학교 급식",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“다른 반찬 없이 김만 먹어요”…급식이 무서운 아이들",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619941"
+        }
+      },
+      {
+        "keyword": "브룩스 레일리",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "롯데는 어떻게 이런 선수와 함께한 걸까…ML서 1점대 ERA 맹활약, 트레이드 시장 주목해야 할 이름 됐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724205209497"
+        }
+      },
+      {
+        "keyword": "필라델피아 반도체 지수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "인텔, 실적·가이던스 예상 모두 상회…시간외서 주가 8% 급등(상보)",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426567"
+        }
+      },
+      {
+        "keyword": "погода",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Какую прогнозируют погоду на 25 июля",
+          "source": "Cursorinfo",
+          "url": "https://cursorinfo.co.il/weather/kakuyu-prognoziruyut-pogodu-na-25-iyulya/"
+        }
+      },
+      {
+        "keyword": "엄지원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "엄지원, 이사 후 집 잃었다..친구 집에서 얹혀사는 중 \"쉴 곳이 없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724214048163"
+        }
+      },
+      {
+        "keyword": "파리 생제르맹 fc",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아스날 물 먹였으면 OK.. 리버풀, '1965억' 프랑스 공격수 영입 눈앞.. 살라 반쪽 후계자로 만족?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260723184910099"
+        }
+      },
+      {
+        "keyword": "인천광역시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "인천시교육청, '인천 근대교육의 발자취―인천, 배움의 문을 열다' 전시회 개최",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260724005400353"
+        }
+      },
+      {
+        "keyword": "mu",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Micron: A Generational Short Opportunity With 76% Downside (NASDAQ:MU)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4924359-micron-a-generational-short-opportunity-with-76-percent-downside"
+        }
+      }
+    ]
   }
 ]
