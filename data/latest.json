@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-25T05:10:03.187651+09:00",
-  "label": "05:10",
+  "timestamp": "2026-07-25T06:55:51.358180+09:00",
+  "label": "06:55",
   "items": [
     {
-      "keyword": "피를로",
+      "keyword": "수사",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "[단독]민주당 의총에서 ‘보완수사권 전면 폐지’ 위헌 소지 우려…“안전장치 마련해야” 의견도",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607242057001"
+      }
+    },
+    {
+      "keyword": "홈플러스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'",
+        "source": "인베스트조선",
+        "url": "https://www.investchosun.com/site/data/html_dir/2026/07/21/2026072180103.html"
+      }
+    },
+    {
+      "keyword": "골프",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "남해 품은 27홀…실안노을 물드는 오션뷰 명소[파크골프 내비게이션]",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20071118"
+      }
+    },
+    {
+      "keyword": "아틀레티코 마드리드",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'700억 원의 사나이' 이강인, 아틀레티코 새 시대 연다…한국 축구 역대급 이적 성사",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260725004809895"
+      }
+    },
+    {
+      "keyword": "사이드카",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이탈리아 축구협회 \"안첼로티와도 만났었다\"…새 감독 찾기 난항",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260724015600007"
+        "title": "유가 100달러 충격에 검은 금요일...코스피 다시 6천선으로",
+        "source": "YTN",
+        "url": "https://m.ytn.co.kr/news_view.php?key=202607241824110739&s_mcd=0102"
       }
     },
     {
-      "keyword": "rosenborg vs man united",
+      "keyword": "집",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "15-year-old JJ Gabriel joins Manchester United first-team trip, may debut vs Rosenborg - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/07/24/URLACOXH3JDNXAFDOWLPBN5I2E/"
-      }
-    },
-    {
-      "keyword": "โรเซนบอร์ก พบ แมนยู",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "ผลบอล โรเซนบอร์ก 0-5 แมนยู : เซิร์กซีโชว์เหนือยิง 1 จ่าย 1! ผีประเดิมชัยปรีซีซั่น",
-        "source": "Siamsport",
-        "url": "https://www.siamsport.co.th/football-international/premierleague/107086/"
-      }
-    },
-    {
-      "keyword": "김선태",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'충주맨' 김선태 \"삼성전자 평단가 5만8천원에 1000주\"⋯얼마에 팔았나 보니",
+        "title": "\"58초부터 문자 연습\"…李대통령 검토에도 '집단대출 티켓팅'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/zoJxtDkLCS"
+        "url": "https://v.daum.net/v/20260724170253577"
       }
     },
     {
-      "keyword": "한국마사회",
+      "keyword": "액화천연가스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "EU, 러시아산 LNG 한국 수출 제재 면제…연간 200만t 수입 길 열려",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607242137001"
+      }
+    },
+    {
+      "keyword": "lng선",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한국마사회, '모두의 말문화' 대국민 정책제안 공모",
+        "title": "삼성중공업 2분기 영업익 59%↑…매출 3조2천307억으로 20%↑(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20260723005300353"
+        "url": "https://www.yna.co.kr/view/AKR20260724120601527"
       }
     },
     {
-      "keyword": "rosenborg đấu với man utd",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "농성",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Trực tiếp bóng đá Rosenborg - MU: Zirkzee nhân đôi cách biệt",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-rosenborg-mu-tiep-tuc-thu-nghiem-cho-sao-tre-ra-mat-c48a1781004.html"
-      }
-    },
-    {
-      "keyword": "twitch",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[TUY8S2.2] Dust Storm Event, Creator Collaboration & Updates",
-        "source": "Ubisoft",
-        "url": "https://www.ubisoft.com/ko-kr/game/the-division/the-division-2/news-updates/Wd7cKG6DS4JlRFzbrsYfv/tuy8s22-dust-storm-event-creator-collaboration-updates"
-      }
-    },
-    {
-      "keyword": "고윤정",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘고윤정 효과’ 이 정도라니…젝시믹스 판매량 최대 24배 ‘쑥’",
+        "title": "전남광주특별시 '부서·기능 분산' 조직개편안 반발 확산",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260724085139492"
+        "url": "https://v.daum.net/v/20260724150954181"
       }
     },
     {
-      "keyword": "artificial intelligence news",
+      "keyword": "붉은 진주",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Intel Authorization Act Proposes Limiting Commercial EO Access",
-        "source": "Payload Space",
-        "url": "https://payloadspace.com/intel-authorization-act-proposes-limiting-commercial-eo-access/"
-      }
-    },
-    {
-      "keyword": "mutv",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Man Utd transfer news: Manu Kone and Carlos Baleba strongly considered in search for third midfielder signing",
-        "source": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11667/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing"
+        "title": "“ 사퇴하겠다고 얘기해! ” 박진희&김경보를 협박하는 최재성과 천희주 [붉은 진주] | KBS 260724 방송",
+        "source": "대한민국 대표 공영미디어 KBS",
+        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026133740-01-000_MFSC7&program_code=T2025-0500&program_id=PS-2026133740-01-000&section_code=03&broadcast_complete_yn=N&section_id=26985"
       }
     }
   ]
