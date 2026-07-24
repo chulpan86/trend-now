@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-24T17:07:19.517355+09:00",
-  "label": "17:07",
+  "timestamp": "2026-07-24T19:53:25.044181+09:00",
+  "label": "19:53",
   "items": [
     {
-      "keyword": "서학 개미",
+      "keyword": "키움 대 kia",
+      "traffic_raw": "50000+",
+      "traffic": 50000,
+      "news": {
+        "title": "KIA, 유일한 15년 연속 트레이드…하주석 영입도 이유 있다",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260724070400007"
+      }
+    },
+    {
+      "keyword": "lg 대 한화",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "NC 블레인, 홈런 포함 4타점 폭발…LG, 2천217일 만에 7연패(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260723196100007"
+      }
+    },
+    {
+      "keyword": "황영웅",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "현금 과도 지출에 M7 줄줄이 하락...삼전 닉스도 하락 출발",
+        "title": "KBS 측 \"황영웅 논란, 종영 4회 남기고 알았다…OST 타이틀 불가\"[공식]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260724155409044"
+      }
+    },
+    {
+      "keyword": "폭격기",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"역대 최대 공격\" 트럼프, 이란에 휴전 제안 거절당해",
         "source": "조선일보",
-        "url": "https://www.chosun.com/economy/money/2026/07/24/TE6XQ455ONAQVOTAJBAE37HZHA/"
+        "url": "https://www.chosun.com/international/international_general/2026/07/24/TRXAGBXHY5EU5J2UYVGDRUOUPM/"
       }
     },
     {
-      "keyword": "개",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "공정위, 중견 건설사 30곳과 상생협약…건설업계 불공정 관행 근절",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370652"
-      }
-    },
-    {
-      "keyword": "유강남",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'더 큰 놈이 온다?' 트레이드 마감 시한 일주일...단장들의 전화기, 불이 나고 있다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260724120316794"
-      }
-    },
-    {
-      "keyword": "아이폰",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"주름이 안보이네\" 갤럭시 폴드8에 외신 호평…가격 경쟁력은 시험대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6vsLqlCEce"
-      }
-    },
-    {
-      "keyword": "병무청",
+      "keyword": "한가인",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "병무청, 베트남 거주 한·베 가정 자녀 대상 병역체험 프로그램 실시",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260723_0003720578"
+        "title": "한가인, 솔직함과 무례함의 아슬아슬 줄타기[MD이슈]",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260724n14715"
       }
     },
     {
-      "keyword": "구형",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "권아름",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'내란가담' 여인형·이진우 前사령관 징역30년 구형…\"영달 추구\"",
+        "title": "배우 권아름, 400만 유튜버 '지무비'와 열애 인정 [공식]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260724122651203"
+        "url": "https://v.daum.net/v/20260724172537370"
       }
     },
     {
-      "keyword": "연기금",
+      "keyword": "열대야",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김성주 이사장 “국민연금, 증시 부양·주가 방어 아닌 노후 위한 장기 수익 추구”",
-        "source": "이투데이",
-        "url": "https://bravo.etoday.co.kr/view/atc_view/19681"
+        "title": "폭염·열대야 일찍 시작해 늦게 끝난다…'6∼9월 더위' 일상화",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260724110256386"
       }
     },
     {
-      "keyword": "메가",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "CPTPP 가입론 다시 수면 위로…농업계 \"메가톤급 시장개방 우려\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/economy/2026/07/24/2026072415390267101"
-      }
-    },
-    {
-      "keyword": "최정",
+      "keyword": "경기남부",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "프로야구 SSG 최정, 8월 미국서 고관절 수술…시즌 아웃",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260724144343225"
+        "title": "추미애 지사, 박홍근 기획예산처 장관 만나 재정위기 극복 위한 협조, 경기남부광역철도 국가철도망 반영 요청",
+        "source": "경기도뉴스포털",
+        "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71048"
       }
     },
     {
-      "keyword": "트레이더 조",
+      "keyword": "서민정",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/07/21/2026072180103.html"
+        "title": "'하이킥' 서민정, 47살 된 근황…\"노안 심해서 오타 많이 고쳐\" [MD★스타]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/3IHdbJe4E3"
+      }
+    },
+    {
+      "keyword": "군대",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "CCTV가 병사들 대신 불침번 선다…국방부 행정 예고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/XUNVJmwa0N"
       }
     }
   ]
