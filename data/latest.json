@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-24T10:47:21.610479+09:00",
-  "label": "10:47",
+  "timestamp": "2026-07-24T14:10:49.266776+09:00",
+  "label": "14:10",
   "items": [
     {
-      "keyword": "펩 과르디올라",
+      "keyword": "정책",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "\"연봉 335억 원 요구\" 이탈리아, 과르디올라 요구에 감독 계약 협상 '난항'",
+        "title": "이언주 “부동산 토론회 보며 답답…위험한 제안 걸러야”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/7QwbYBztya"
+        "url": "https://v.daum.net/v/20260724125308687"
       }
     },
     {
-      "keyword": "선박",
+      "keyword": "미국 이란",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "미군, 13일째 이란 공습…중부 내륙까지 폭발음",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260724132700485"
+      }
+    },
+    {
+      "keyword": "필리핀",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "트럼프 “선박·화물 전쟁 피해, 미국 보유 이란 자금으로 배상”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/international/arabafrica/1269753.html"
+        "title": "‘곤봉 폭행’ 파장 사흘 만에 물대포 들고온 중국 [지금뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619397"
       }
     },
     {
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "스페이스x",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "대한체육회, 회원종목단체 회장 선출 기한 최장 240일로 연장",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026072409423675636"
-      }
-    },
-    {
-      "keyword": "김지찬",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[포토]'브레이크 필요없다' 선제득점 김지찬 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/07/23/2026072319272481733"
-      }
-    },
-    {
-      "keyword": "두산베어스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"한국이 그립다, 강남 아파트 진짜 좋았는데…\" ML 돌아간 前 두산 타자의 회상, 왜 잊지 못하나",
+        "title": "스페이스X 상장 6주 만에 공매도 세력 평가이익 23조원",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260723060210523"
+        "url": "https://v.daum.net/v/20260724101952399"
       }
     },
     {
-      "keyword": "국세청",
+      "keyword": "옌스 카스트로프",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"월드컵도 못 뛰고 가족도 못 만났다\"...'홍명보호 단 45분' 카스트로프, 작심발언 \"가족 모두가 휴가 내고 왔는데 안타까워\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260724074907965"
+      }
+    },
+    {
+      "keyword": "현우진",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'체납자 집' 의문의 캐리어‥\"뭔데?\" 뜯자마자 '어억!'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6839580_36932.html"
+        "title": "[속보] 檢, '현직교사와 문항 거래' 현우진에 징역 1년 구형",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260724000532"
       }
     },
     {
-      "keyword": "서민금융진흥원",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "에이치엘지노믹스",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "문샷 ai",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "에이치엘지노믹스, 상장일 주가변동 확대…17% 급등 터치 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/07/24/2026072409244150627"
+        "title": "중국 '키미 쇼크'에 미국 견제구...9월 'AI 담판' 예고",
+        "source": "YTN 사이언스",
+        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202607241103356578"
       }
     },
     {
-      "keyword": "국민신문고",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "사무관",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "의정부시, 전통시장서 '달리는 국민신문고' 행사 개최…주민 고충 상담",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3645038"
+        "title": "'충주맨'도 지적한 병폐…젊은 사무관 벼랑 끝 내몰았나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xTmeqXGhD3"
       }
     },
     {
-      "keyword": "코오롱티슈진",
+      "keyword": "공동구매",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "마산 현동 공동구매상점서 소비자 피해 ‘주의’",
+        "source": "경남도민일보",
+        "url": "https://www.idomin.com/news/articleView.html?idxno=2010801"
+      }
+    },
+    {
+      "keyword": "창원nc파크",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "코오롱티슈진 임상 쇼크에 1200억 CB 투자자 '손실구간' 진입",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/07/22/2026072280114.html"
+        "title": "창원NC파크 배경으로 야구 드라마 나온다",
+        "source": "경남도민일보",
+        "url": "https://www.idomin.com/news/articleView.html?idxno=2010818"
       }
     }
   ]
