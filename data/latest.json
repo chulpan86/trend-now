@@ -1,91 +1,95 @@
 {
-  "timestamp": "2026-07-25T03:10:46.555252+09:00",
-  "label": "03:10",
+  "timestamp": "2026-07-25T05:10:03.187651+09:00",
+  "label": "05:10",
   "items": [
     {
-      "keyword": "로센보르그 대 맨유",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "'2010년생 꼬마'인데...맨유 1군 원정 합류한 '26골 괴물 유망주', 로센보르그전 깜짝 데뷔 눈앞",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/80T7BdRfWD?f=p"
-      }
-    },
-    {
-      "keyword": "르브론",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "전쟁같은 르브론 영입경쟁...마지막 우승 꿈꾸는 그의 선택은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260724150137835"
-      }
-    },
-    {
-      "keyword": "1 박 2 일",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'1박2일' 이준, 또 사고 쳤다…독단적 의견 요청에 멤버들 '황당'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260724143446859"
-      }
-    },
-    {
-      "keyword": "맨유",
+      "keyword": "피를로",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "맨유, '레알 1억 유로 미드필더' 영입 '정조준'...무리뉴도 적정가면 판다 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/07/24/202607232346771060O"
+        "title": "이탈리아 축구협회 \"안첼로티와도 만났었다\"…새 감독 찾기 난항",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260724015600007"
       }
-    },
-    {
-      "keyword": "lebron james",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "LeBron James joins Philadelphia for final title run - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/07/25/R3VIB3RFAZGOJCKMVQI5ZXEUYM/"
-      }
-    },
-    {
-      "keyword": "다시보기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
     },
     {
       "keyword": "rosenborg vs man united",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Rosenborg vs Manchester United: Club friendlies stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cvgjlr6ngzqt"
+        "title": "15-year-old JJ Gabriel joins Manchester United first-team trip, may debut vs Rosenborg - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/07/24/URLACOXH3JDNXAFDOWLPBN5I2E/"
       }
     },
     {
-      "keyword": "야구여왕",
+      "keyword": "โรเซนบอร์ก พบ แมนยู",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "블랙퀸즈, 6:9 호쾌한 역전…송아·김온아, 연속 ‘쓰리런’ 홈런",
+        "title": "ผลบอล โรเซนบอร์ก 0-5 แมนยู : เซิร์กซีโชว์เหนือยิง 1 จ่าย 1! ผีประเดิมชัยปรีซีซั่น",
+        "source": "Siamsport",
+        "url": "https://www.siamsport.co.th/football-international/premierleague/107086/"
+      }
+    },
+    {
+      "keyword": "김선태",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'충주맨' 김선태 \"삼성전자 평단가 5만8천원에 1000주\"⋯얼마에 팔았나 보니",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260724073951819"
+        "url": "https://v.daum.net/v/zoJxtDkLCS"
       }
     },
     {
-      "keyword": "티비",
+      "keyword": "한국마사회",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘Dungeon Crawler Carl’ TV Series Casts Audiobook Star Jeff Hays as Princess Donut’s Voice",
-        "source": "Variety",
-        "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-princess-donut-jeff-hays-1236819828/"
+        "title": "한국마사회, '모두의 말문화' 대국민 정책제안 공모",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/RPR20260723005300353"
+      }
+    },
+    {
+      "keyword": "rosenborg đấu với man utd",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Trực tiếp bóng đá Rosenborg - MU: Zirkzee nhân đôi cách biệt",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-rosenborg-mu-tiep-tuc-thu-nghiem-cho-sao-tre-ra-mat-c48a1781004.html"
+      }
+    },
+    {
+      "keyword": "twitch",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[TUY8S2.2] Dust Storm Event, Creator Collaboration & Updates",
+        "source": "Ubisoft",
+        "url": "https://www.ubisoft.com/ko-kr/game/the-division/the-division-2/news-updates/Wd7cKG6DS4JlRFzbrsYfv/tuy8s22-dust-storm-event-creator-collaboration-updates"
+      }
+    },
+    {
+      "keyword": "고윤정",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘고윤정 효과’ 이 정도라니…젝시믹스 판매량 최대 24배 ‘쑥’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260724085139492"
+      }
+    },
+    {
+      "keyword": "artificial intelligence news",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Intel Authorization Act Proposes Limiting Commercial EO Access",
+        "source": "Payload Space",
+        "url": "https://payloadspace.com/intel-authorization-act-proposes-limiting-commercial-eo-access/"
       }
     },
     {

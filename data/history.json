@@ -1760,5 +1760,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-25T05:10:03.187651+09:00",
+    "label": "05:10",
+    "items": [
+      {
+        "keyword": "피를로",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이탈리아 축구협회 \"안첼로티와도 만났었다\"…새 감독 찾기 난항",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724015600007"
+        }
+      },
+      {
+        "keyword": "rosenborg vs man united",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "15-year-old JJ Gabriel joins Manchester United first-team trip, may debut vs Rosenborg - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/24/URLACOXH3JDNXAFDOWLPBN5I2E/"
+        }
+      },
+      {
+        "keyword": "โรเซนบอร์ก พบ แมนยู",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "ผลบอล โรเซนบอร์ก 0-5 แมนยู : เซิร์กซีโชว์เหนือยิง 1 จ่าย 1! ผีประเดิมชัยปรีซีซั่น",
+          "source": "Siamsport",
+          "url": "https://www.siamsport.co.th/football-international/premierleague/107086/"
+        }
+      },
+      {
+        "keyword": "김선태",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'충주맨' 김선태 \"삼성전자 평단가 5만8천원에 1000주\"⋯얼마에 팔았나 보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zoJxtDkLCS"
+        }
+      },
+      {
+        "keyword": "한국마사회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한국마사회, '모두의 말문화' 대국민 정책제안 공모",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260723005300353"
+        }
+      },
+      {
+        "keyword": "rosenborg đấu với man utd",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Trực tiếp bóng đá Rosenborg - MU: Zirkzee nhân đôi cách biệt",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-rosenborg-mu-tiep-tuc-thu-nghiem-cho-sao-tre-ra-mat-c48a1781004.html"
+        }
+      },
+      {
+        "keyword": "twitch",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[TUY8S2.2] Dust Storm Event, Creator Collaboration & Updates",
+          "source": "Ubisoft",
+          "url": "https://www.ubisoft.com/ko-kr/game/the-division/the-division-2/news-updates/Wd7cKG6DS4JlRFzbrsYfv/tuy8s22-dust-storm-event-creator-collaboration-updates"
+        }
+      },
+      {
+        "keyword": "고윤정",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘고윤정 효과’ 이 정도라니…젝시믹스 판매량 최대 24배 ‘쑥’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724085139492"
+        }
+      },
+      {
+        "keyword": "artificial intelligence news",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Intel Authorization Act Proposes Limiting Commercial EO Access",
+          "source": "Payload Space",
+          "url": "https://payloadspace.com/intel-authorization-act-proposes-limiting-commercial-eo-access/"
+        }
+      },
+      {
+        "keyword": "mutv",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Man Utd transfer news: Manu Kone and Carlos Baleba strongly considered in search for third midfielder signing",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11667/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing"
+        }
+      }
+    ]
   }
 ]
