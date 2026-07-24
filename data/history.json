@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-07-23T03:01:59.716970+09:00",
-    "label": "03:01",
-    "items": [
-      {
-        "keyword": "이용수",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[SPO 인터뷰] \"내가 범죄를 저지른 것도 아닌데\" 박지성 비판한 서강일 회장 작심 발언 \"진실은 세상에 알려지지 않았다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/K4nGBp3GTT"
-        }
-      },
-      {
-        "keyword": "클럽 친선경기",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "테네리페 vs 헤타페 경기 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tenerife-vs-getafe-doi-hinh-du-kien"
-        }
-      },
-      {
-        "keyword": "교사",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "17년째 병가 쓴 ‘유령 교사’…“퇴직하라” 명령에 오히려 소송",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722202736602"
-        }
-      },
-      {
-        "keyword": "극한 호우",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"휴가철 하루 614만 명 이동\"…안전한 휴가 '특별교통대책' 가동",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968575"
-        }
-      },
-      {
-        "keyword": "유골함",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "고인 얼굴 새겨진 유골함이 쓰레기통 옆에…무슨 일?",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260722/134348066/1"
-        }
-      },
-      {
-        "keyword": "홈 플러스 재개 장",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/21/2026072180103.html"
-        }
-      },
-      {
-        "keyword": "가수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“한국에서 이런 일이”…주택서 ‘대마’ 재배한 힙합 가수·작곡가 등 12명 기소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722213001801"
-        }
-      },
-      {
-        "keyword": "dc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘Clayface’ Trailer: DC Studios’ Batman Bad Guy Gets His Close-Up",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/07/clayface-trailer-tom-rhys-harries-1237000368/"
-        }
-      },
-      {
-        "keyword": "fm",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "N. Korea FM returns home from Russia trip",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/PYH20260721162700315"
-        }
-      },
-      {
-        "keyword": "fx5",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "The Sony FX5 is Here: Is it Instantly the Best Compact Cinema Camera on the Market?",
-          "source": "No Film School",
-          "url": "https://nofilmschool.com/sony-fx5-announcement"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-23T05:06:09.434485+09:00",
-    "label": "05:06",
-    "items": [
-      {
-        "keyword": "우 서윤",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "우지원 딸 우서윤, 미스코리아 본선 앞두고 우월한 미모 - 스타투데이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12104529"
-        }
-      },
-      {
-        "keyword": "홍지민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"남편, 결혼 7년째에 '이혼하자'고\" 홍지민, 53평 아파트·외제차 안 통했던 불화 고백 [순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722165451580"
-        }
-      },
-      {
-        "keyword": "한국지엠",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한국지엠 노사, 車업계 첫 임단협 잠정합의안 도출…오랜 갈등 넘어 성장 협력 선택",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370574"
-        }
-      },
-      {
-        "keyword": "마크 도스 산토스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "월드컵 아쉬움 턴다…손흥민, MLS LA 더비 선발 출격",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202607181045245193"
-        }
-      },
-      {
-        "keyword": "spurs vs mk dons",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Fans | Tottenham Hotspur Match Streaming",
-          "source": "MK Dons",
-          "url": "https://www.mkdons.com/news/2026/july/22/fans---tottenham-hotspur-match-streaming/"
-        }
-      },
-      {
-        "keyword": "다시보기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "여신도 성폭행 가담 혐의 JMS 2인자 김지선에 징역 7년 구형",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721102652746"
-        }
-      },
-      {
-        "keyword": "케일럽 보쉴리",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'22이닝 무실점' 한국 新 세운 외인 한국 떠난다, 팬들에게 마지막 인사 \"정말 슬프다…많이 그리울 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722145656159"
-        }
-      },
-      {
-        "keyword": "티비",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "주가 부진에 JTBC 채권 금감원 칼날까지…키움증권, 겹악재 '울상'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721144848767"
-        }
-      },
-      {
-        "keyword": "도시 재개발",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "가르나초",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "고척돔-유럽 최초 전용구장 짓고도 남는다... 첼시의 '미친 2310억', 로저스 영입에 쐈다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tKV2FkAihd"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-23T06:56:43.819420+09:00",
     "label": "06:56",
     "items": [
@@ -1969,6 +1761,112 @@
           "title": "창원NC파크 배경으로 야구 드라마 나온다",
           "source": "경남도민일보",
           "url": "https://www.idomin.com/news/articleView.html?idxno=2010818"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-24T17:07:19.517355+09:00",
+    "label": "17:07",
+    "items": [
+      {
+        "keyword": "서학 개미",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "현금 과도 지출에 M7 줄줄이 하락...삼전 닉스도 하락 출발",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/07/24/TE6XQ455ONAQVOTAJBAE37HZHA/"
+        }
+      },
+      {
+        "keyword": "개",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "공정위, 중견 건설사 30곳과 상생협약…건설업계 불공정 관행 근절",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370652"
+        }
+      },
+      {
+        "keyword": "유강남",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'더 큰 놈이 온다?' 트레이드 마감 시한 일주일...단장들의 전화기, 불이 나고 있다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724120316794"
+        }
+      },
+      {
+        "keyword": "아이폰",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"주름이 안보이네\" 갤럭시 폴드8에 외신 호평…가격 경쟁력은 시험대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6vsLqlCEce"
+        }
+      },
+      {
+        "keyword": "병무청",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "병무청, 베트남 거주 한·베 가정 자녀 대상 병역체험 프로그램 실시",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260723_0003720578"
+        }
+      },
+      {
+        "keyword": "구형",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'내란가담' 여인형·이진우 前사령관 징역30년 구형…\"영달 추구\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724122651203"
+        }
+      },
+      {
+        "keyword": "연기금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김성주 이사장 “국민연금, 증시 부양·주가 방어 아닌 노후 위한 장기 수익 추구”",
+          "source": "이투데이",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/19681"
+        }
+      },
+      {
+        "keyword": "메가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "CPTPP 가입론 다시 수면 위로…농업계 \"메가톤급 시장개방 우려\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/07/24/2026072415390267101"
+        }
+      },
+      {
+        "keyword": "최정",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "프로야구 SSG 최정, 8월 미국서 고관절 수술…시즌 아웃",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724144343225"
+        }
+      },
+      {
+        "keyword": "트레이더 조",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김병주 MBK 회장이 韓 PEF종사자들에게 던진 빚 '무한책임'",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/21/2026072180103.html"
         }
       }
     ]
