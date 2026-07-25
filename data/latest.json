@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-26T00:56:06.909443+09:00",
-  "label": "00:56",
+  "timestamp": "2026-07-26T01:49:46.834684+09:00",
+  "label": "01:49",
   "items": [
     {
       "keyword": "문재인",
@@ -13,10 +13,24 @@
       }
     },
     {
+      "keyword": "구름",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
+        "source": "YTN 사이언스",
+        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607231104277428"
+      }
+    },
+    {
       "keyword": "서훈",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260724137400060"
+      }
     },
     {
       "keyword": "추경호",
@@ -29,13 +43,23 @@
       }
     },
     {
-      "keyword": "비니시우스",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "김아영",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "초대박 이적설! 英 'BBC급' 보도, 아스널 PL 2연패 시동, 비니시우스 정조준!…레알과 재계약 난항→\"구단 전 단계서 승인\"",
-        "source": "네이트 스포츠",
-        "url": "https://sports.news.nate.com/view/20260726n00014"
+        "title": "김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)",
+        "source": "MBC",
+        "url": "https://m.imbc.com/enews/view/512625"
+      }
+    },
+    {
+      "keyword": "블리치",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Bleach Thousand-Year Blood War season 4 release schedule: when is episode 1 on Disney Plus and Hulu?",
+        "source": "GamesRadar+",
+        "url": "https://www.gamesradar.com/entertainment/anime-shows/bleach-thousand-year-blood-war-season-4-release-date-time-schedule-disney-plus-hulu/"
       }
     },
     {
@@ -69,33 +93,13 @@
       }
     },
     {
-      "keyword": "라오스 대 태국",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "라오스 대 태국 축구 경기 영상: '전쟁 코끼리' 라오스가 화려한 시작을 알렸습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/video-bong-da-lao-vs-thai-lan-voi-chien-ra-quan-tung-bung"
-      }
-    },
-    {
-      "keyword": "wi vs pak",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "West Indies slight favourites as Pakistan hope for Test turnaround",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/pakistan-in-west-indies-2026-1538621/west-indies-vs-pakistan-1st-test-1538630/match-preview"
-      }
-    },
-    {
-      "keyword": "경기도교육감",
+      "keyword": "cryptocurrency trading",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "안민석 교육감, “고양지역 학군 전면 재조정... 북부 교육감도 공모”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260725132715068"
+        "title": "BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunistic'",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic"
       }
     }
   ]
