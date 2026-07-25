@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-26T02:50:36.362616+09:00",
-  "label": "02:50",
+  "timestamp": "2026-07-26T03:52:32.082072+09:00",
+  "label": "03:52",
   "items": [
     {
       "keyword": "청계천",
@@ -53,6 +53,16 @@
       }
     },
     {
+      "keyword": "김부장 시즌2",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'시청률 11%' 화력 증명한다…2년 만 화려한 귀환→당당히 출사표 던진 韓 드라마 ('재벌X형사2')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260725090137524"
+      }
+    },
+    {
       "keyword": "블리치",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -70,16 +80,6 @@
         "title": "[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
         "source": "programs.sbs.co.kr",
         "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&cooper=google"
-      }
-    },
-    {
-      "keyword": "twitch",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Twitch Allows Parents To Restrict Teens From Livestreaming 07/22/2026",
-        "source": "MediaPost",
-        "url": "https://www.mediapost.com/publications/article/416695/twitch-allows-parents-to-restrict-teens-from-lives.html"
       }
     },
     {
