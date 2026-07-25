@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-07-26T01:49:46.834684+09:00",
-  "label": "01:49",
+  "timestamp": "2026-07-26T02:50:36.362616+09:00",
+  "label": "02:50",
   "items": [
     {
-      "keyword": "문재인",
+      "keyword": "청계천",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘서해 공무원 피격’ 文 전 대통령 불기소…3년 7개월만",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260725/134363474/1"
+        "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11604985"
       }
     },
     {
       "keyword": "구름",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
         "source": "YTN 사이언스",
@@ -37,9 +37,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VtAX7wEotk"
+        "title": "대구시장, 기획예산처 장관 만나 국비 반영 요청",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8619774"
       }
     },
     {
@@ -57,9 +57,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Bleach Thousand-Year Blood War season 4 release schedule: when is episode 1 on Disney Plus and Hulu?",
-        "source": "GamesRadar+",
-        "url": "https://www.gamesradar.com/entertainment/anime-shows/bleach-thousand-year-blood-war-season-4-release-date-time-schedule-disney-plus-hulu/"
+        "title": "BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes by Hulu",
+        "source": "Anime Corner",
+        "url": "https://animecorner.me/bleach-tybw-part-4-the-calamity-officially-confirmed-for-10-episodes-by-hulu/"
       }
     },
     {
@@ -67,9 +67,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "마침내 17기 영수와 일대일 데이트하는 여자 5호! #나솔사계 EP.175ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+        "title": "[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
         "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&type=ucc&content_id=22000633313"
+        "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&cooper=google"
       }
     },
     {
@@ -83,16 +83,6 @@
       }
     },
     {
-      "keyword": "wehen wiesbaden vs bayern",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Zusammenfassung der Ergebnisprognosen für das Spiel Wehen gegen Bayern München: Werden die Bayern ihre Dominanz unter Beweis stellen oder gelingt der Heimmannschaft eine Überraschung?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/de/tong-hop-du-doan-ti-so-wehen-vs-bayern-munich-hum-xam-thi-uy-hay-chu-nha-tao-bat-ngo"
-      }
-    },
-    {
       "keyword": "cryptocurrency trading",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -100,6 +90,16 @@
         "title": "BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunistic'",
         "source": "Benzinga",
         "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic"
+      }
+    },
+    {
+      "keyword": "what is bitcoin",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Bitcoin treasury companies unwind holdings as the DAT model comes under pressure",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse"
       }
     }
   ]
