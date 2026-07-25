@@ -1792,5 +1792,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-26T00:56:06.909443+09:00",
+    "label": "00:56",
+    "items": [
+      {
+        "keyword": "문재인",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘서해 공무원 피격’ 文 전 대통령 불기소…3년 7개월만",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260725/134363474/1"
+        }
+      },
+      {
+        "keyword": "서훈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "추경호",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VtAX7wEotk"
+        }
+      },
+      {
+        "keyword": "비니시우스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "초대박 이적설! 英 'BBC급' 보도, 아스널 PL 2연패 시동, 비니시우스 정조준!…레알과 재계약 난항→\"구단 전 단계서 승인\"",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260726n00014"
+        }
+      },
+      {
+        "keyword": "나솔사계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "마침내 17기 영수와 일대일 데이트하는 여자 5호! #나솔사계 EP.175ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&type=ucc&content_id=22000633313"
+        }
+      },
+      {
+        "keyword": "twitch",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Twitch Allows Parents To Restrict Teens From Livestreaming 07/22/2026",
+          "source": "MediaPost",
+          "url": "https://www.mediapost.com/publications/article/416695/twitch-allows-parents-to-restrict-teens-from-lives.html"
+        }
+      },
+      {
+        "keyword": "wehen wiesbaden vs bayern",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Zusammenfassung der Ergebnisprognosen für das Spiel Wehen gegen Bayern München: Werden die Bayern ihre Dominanz unter Beweis stellen oder gelingt der Heimmannschaft eine Überraschung?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/de/tong-hop-du-doan-ti-so-wehen-vs-bayern-munich-hum-xam-thi-uy-hay-chu-nha-tao-bat-ngo"
+        }
+      },
+      {
+        "keyword": "라오스 대 태국",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "라오스 대 태국 축구 경기 영상: '전쟁 코끼리' 라오스가 화려한 시작을 알렸습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/video-bong-da-lao-vs-thai-lan-voi-chien-ra-quan-tung-bung"
+        }
+      },
+      {
+        "keyword": "wi vs pak",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "West Indies slight favourites as Pakistan hope for Test turnaround",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/pakistan-in-west-indies-2026-1538621/west-indies-vs-pakistan-1st-test-1538630/match-preview"
+        }
+      },
+      {
+        "keyword": "경기도교육감",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "안민석 교육감, “고양지역 학군 전면 재조정... 북부 교육감도 공모”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725132715068"
+        }
+      }
+    ]
   }
 ]
