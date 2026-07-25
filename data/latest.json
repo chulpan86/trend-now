@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-25T08:55:26.145832+09:00",
-  "label": "08:55",
+  "timestamp": "2026-07-25T10:50:11.063714+09:00",
+  "label": "10:50",
   "items": [
     {
-      "keyword": "검찰",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "코스피",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[단독]민주당 의총에서 ‘보완수사권 전면 폐지’ 위헌 소지 우려…“안전장치 마련해야” 의견도",
+        "title": "10일 내내 사이드카… 도박판 뺨친 코스피",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/07/25/LKUVZBJ3RRD2DCCVZY5N2QBNLI/"
+      }
+    },
+    {
+      "keyword": "태극",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "태극 문양이 왜 이래?…뉴발란스, 논란 티셔츠 판매 중단했다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260724232336156"
+      }
+    },
+    {
+      "keyword": "스페인",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "스페인·프랑스 산불에 수만명 대피···국가 비상사태 선포",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607242057001"
+        "url": "https://www.khan.co.kr/article/202607242117001"
       }
     },
     {
-      "keyword": "축구 감독",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "홍명보 가고 올해는 ‘임시 감독 체제’…아시안컵은 포기?",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8619970"
-      }
-    },
-    {
-      "keyword": "학교 급식",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“다른 반찬 없이 김만 먹어요”…급식이 무서운 아이들",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8619969"
-      }
-    },
-    {
-      "keyword": "엄지원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "엄지원, 이사 후 집 잃었다..친구 집에서 얹혀사는 중 \"쉴 곳이 없어\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260724214048163"
-      }
-    },
-    {
-      "keyword": "погода",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Какую прогнозируют погоду на 25 июля",
-        "source": "Cursorinfo",
-        "url": "https://cursorinfo.co.il/weather/kakuyu-prognoziruyut-pogodu-na-25-iyulya/"
-      }
-    },
-    {
-      "keyword": "인천광역시",
+      "keyword": "김혜준",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "인천시교육청, '인천 근대교육의 발자취―인천, 배움의 문을 열다' 전시회 개최",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20260724005400353"
+        "title": "‘킬러들의 쇼핑몰2’ 이동욱 “시즌1보다 재미없을 거면 시즌2 만들 이유 없었다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260725070312209"
       }
     },
     {
-      "keyword": "파리 생제르맹 fc",
+      "keyword": "나이키",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "그아먈로 '미친 이적'...'발롱도르 위너' 뎀벨레, 세 시즌 만에 PSG 커리어 종료? 알 힐랄 이적 가능성 제기→선수 측과 첫 접촉 완료",
+        "title": "Did Nike Just Leak LeBron James' Move to the Miami Heat? Fact Checking Viral Post",
+        "source": "BasketballNews.com",
+        "url": "https://www.basketballnews.com/news/basketballnews-nba-active-news-did-nike-just-leak-lebron-james-move-to-the-miami-heat-fact-checking-viral-post/"
+      }
+    },
+    {
+      "keyword": "유동규",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대선 전 확성기로 李대통령 비방 유동규, 항소심도 벌금 200만원",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260724010010199?f=p"
+        "url": "https://v.daum.net/v/20260723162809606"
       }
     },
     {
-      "keyword": "매경economy",
+      "keyword": "콩콩팜팜",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "30조부터 160조까지 ‘고무줄 몸값’",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12106396"
+        "title": "도경수, 재력 무시에 발끈 \"저 으르렁이에요\"(콩콩팜팜)",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260724n29423"
       }
     },
     {
-      "keyword": "한고은",
+      "keyword": "런닝맨",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'7년 무직' 한고은 남편 \"맨발로 못 걷는다\"…무지외반증 상태에 '충격'",
+        "title": "‘런닝맨’ 강훈·김혜준·차우민, 심리전",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260724110849679?f=m"
+        "url": "https://v.daum.net/v/20260724163638566"
       }
     },
     {
-      "keyword": "mu",
+      "keyword": "윤정수",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Micron: A Generational Short Opportunity With 76% Downside (NASDAQ:MU)",
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4924359-micron-a-generational-short-opportunity-with-76-percent-downside"
+        "title": "원진서, 김성수 악수 거절…\"♥윤정수에 혼나\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072423424945578"
+      }
+    },
+    {
+      "keyword": "opus5",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Introducing Claude Opus 5",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-opus-5"
       }
     }
   ]
