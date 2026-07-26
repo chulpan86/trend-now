@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-07-27T00:54:45.243890+09:00",
-  "label": "00:54",
+  "timestamp": "2026-07-27T01:47:18.250853+09:00",
+  "label": "01:47",
   "items": [
+    {
+      "keyword": "비비 워터 밤",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "비비, 男 댄서 앞 선정적 퍼포먼스…'워터밤' 공연 후폭풍 '갑론을박' [엑's 이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726184009166"
+      }
+    },
     {
       "keyword": "검사",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "김앤장 출신 검사들 “수사 안 해보면 보완수사 요구도 못 해”",
+        "title": "‘사명감’에 檢 택한 김앤장 출신 검사들…“보완수사 폐지, 국민에 직격탄”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727000737953"
+        "url": "https://v.daum.net/v/20260726173609089"
       }
     },
     {
@@ -33,13 +43,33 @@
       }
     },
     {
+      "keyword": "경찰관",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "서울 노원구서 차량 6대 추돌사고…무더위 속 물놀이 사고도 잇따라",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8620369"
+      }
+    },
+    {
+      "keyword": "김연경",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "다음 달 ‘스포츠 메가 이벤트’ 잇따라 열려",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8620458"
+      }
+    },
+    {
       "keyword": "정전",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "34도 폭염에 최대 10시간 전기 차단… 청주 아파트는 무슨 일이?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726080139357"
+        "title": "폭염 속 부산 해운대구 아파트 정전…4명 승강기 갇혀",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260726006900051"
       }
     },
     {
@@ -67,39 +97,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "APTOPIX Hungary F1 GP Auto Racing",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260726n01541?mid=n1101"
-      }
-    },
-    {
-      "keyword": "k리그1 순위",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[K리그1] 중간 순위(26일)",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/soccer/6239413"
-      }
-    },
-    {
-      "keyword": "박현빈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'43세' 박현빈, 결혼하고도 일주일에 10번 母 집 찾았다...\"엄마 밥 먹기 위해\" ('미우새')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726212307554"
-      }
-    },
-    {
-      "keyword": "오싹한 연애 드라마",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'오싹한 연애' 박은빈, 발칙한 일탈...양세종 얼음 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072514237241438"
+        "title": "F1-GRAND-PRIX-OF-HUNGARY",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3646666"
       }
     }
   ]
