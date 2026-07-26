@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-07-27T07:50:19.923475+09:00",
-  "label": "07:50",
+  "timestamp": "2026-07-27T08:52:04.476428+09:00",
+  "label": "08:52",
   "items": [
     {
-      "keyword": "부동산",
+      "keyword": "결혼식",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[사설]‘3기 신도시’ 발표 8년 만에 첫 입주… 이렇게 느려 터져서야",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Opinion/article/all/20260726/134368055/2"
-      }
-    },
-    {
-      "keyword": "진아름",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독] 남궁민♥진아름 부부 경사 났다…아들 출산",
+        "title": "‘나는 솔로’ 18기 영수♥영숙, 대반전 ‘현실 부부’ 탄생…25일 결혼",
         "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607262216003"
+        "url": "https://sports.khan.co.kr/article/202607261250003"
       }
     },
     {
-      "keyword": "집중호우",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "관광객",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "동두천시 불현동, 연이은 집중호우에 ‘민·관합동 긴급 로드체킹’ 총력",
-        "source": "일간투데이",
-        "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=782884"
-      }
-    },
-    {
-      "keyword": "가격",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "물가 잡으려다 5년…유류세 인하, 출구가 안 보인다 [네버엔딩 유류세 인하]",
+        "title": "펄펄 끓는 밤…열대야에 도심 속 피서지 '북적'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727050019287"
+        "url": "https://v.daum.net/v/20260727045332272"
       }
     },
     {
-      "keyword": "화진포해변",
+      "keyword": "샘 해밍턴",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "샘 해밍턴 \"전 세계 25장 오타니 카드 있어\" 데프콘 \"노후 준비 끝\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260726_0003723587"
+      }
+    },
+    {
+      "keyword": "댐",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "화진포 앞바다에 빠진 10대 형제 구하려 뛰어든 50대 군인 2명 ‘심정지’",
+        "title": "호남권 댐 건설 6건, 모두 진보 정부서 백지화",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/07/27/RKFTKUD4JZDGJKTYKVODX2V7KQ/"
+      }
+    },
+    {
+      "keyword": "옥택연",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "소지섭도 사과한 '김부장'의 카메오..옥택연 \"특출인데 단체사진 있음\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726171108622"
+      }
+    },
+    {
+      "keyword": "퇴장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'146km 직구가 또…' 미야지, 초구 헤드샷 퇴장…삼성 아시아쿼터 고민 점점 깊어진다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726204127023"
+      }
+    },
+    {
+      "keyword": "이정효",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'이정효호' 수원, 최대 숙원 '다이렉트 승격' 흐름 탔다... '우승 후보' 2연속 격파→어느새 선두와 '승점 동률'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726183647106"
+      }
+    },
+    {
+      "keyword": "가덕도신공항",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "부산도시공사, 가덕도 공항복합도시 용역 착수…\"민간투자 유치 전략 마련\"",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260721n31606"
+      }
+    },
+    {
+      "keyword": "녹색경제신문",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘9440억’ 실탄 필요한 최태원, SK 주식 매각 대신 ‘우회로’ 찾나",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607261815001"
+        "url": "https://www.khan.co.kr/article/202607262034035"
       }
     },
     {
-      "keyword": "3기 신도시",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "3기 신도시 착공 1~2년 앞당긴다지만…보상·이주가 최대 변수[코주부]",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20071975"
-      }
-    },
-    {
-      "keyword": "테니스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "일본 선수들은 왜 밴쿠버로 향했나…남녀 17명이 선택한 북미 하드코트 로드맵",
-        "source": "테니스피플",
-        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19120"
-      }
-    },
-    {
-      "keyword": "west indies vs pakistan",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Masood leads Pakistan to 199-3 against West Indies",
-        "source": "RFI",
-        "url": "https://www.rfi.fr/en/sports/20260726-masood-leads-pakistan-to-199-3-against-west-indies"
-      }
-    },
-    {
-      "keyword": "오타니 쇼헤이",
+      "keyword": "호반건설",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "테오스카 에르난데스 ‘한 점 더 앞서가자’ [MK포토]",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/sports/12107908"
-      }
-    },
-    {
-      "keyword": "새마을금고",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "새마을금고중앙회, '2026 유아 금융교육'",
-        "source": "메트로신문",
-        "url": "https://www.metroseoul.co.kr/article/20260726500163"
-      }
+      "news": null
     }
   ]
 }
