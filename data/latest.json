@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-07-27T02:53:59.051139+09:00",
-  "label": "02:53",
+  "timestamp": "2026-07-27T03:56:19.275100+09:00",
+  "label": "03:56",
   "items": [
     {
       "keyword": "비비 워터 밤",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "비비, 男 댄서 앞 선정적 퍼포먼스…'워터밤' 공연 후폭풍 '갑론을박' [엑's 이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260726184009166"
+        "url": "https://v.daum.net/v/5a7YqkAiX0"
+      }
+    },
+    {
+      "keyword": "디즈니+",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "영화는 OTT로 보는데… 넷플릭스·디즈니 주가는 왜 떨어질까",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/stock-finance/2026/07/26/SGO7HIPTVVDPTOHC7GTBL6K2IM/"
+      }
+    },
+    {
+      "keyword": "영장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "손팻말 든 민주당 법사위원들",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260726066200013"
+      }
+    },
+    {
+      "keyword": "경찰관",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "60대 운전자, 신호대기하던 車 5대 들이받아…9명 다쳐",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260726/134365809/2"
       }
     },
     {
@@ -33,36 +63,6 @@
       }
     },
     {
-      "keyword": "디즈니+",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "영화는 OTT로 보는데… 넷플릭스·디즈니 주가는 왜 떨어질까",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/stock-finance/2026/07/26/SGO7HIPTVVDPTOHC7GTBL6K2IM/"
-      }
-    },
-    {
-      "keyword": "영장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“도와달라” 여고생의 다급한 비명…맨발로 뛰쳐나와 흉기 든 10대男 제압한 시민 영웅들",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20071672"
-      }
-    },
-    {
-      "keyword": "경찰관",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "서울 노원구서 차량 6대 추돌사고…무더위 속 물놀이 사고도 잇따라",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8620369"
-      }
-    },
-    {
       "keyword": "정전",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -77,9 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "앤트로픽, 클로드 5 ‘컨텍스트 엔지니어링’ 공개...“규칙 줄여야 성능 올라간다”",
-        "source": "AI타임스",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=213178"
+        "title": "빅테크와 9500억달러 협력… 샌프란시스코 묘한 계산법",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/07/26/TFGVIRISXRHTDPRVE46LN3ME5A/"
       }
     },
     {
