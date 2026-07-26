@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-25T10:50:11.063714+09:00",
-    "label": "10:50",
-    "items": [
-      {
-        "keyword": "코스피",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "10일 내내 사이드카… 도박판 뺨친 코스피",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/25/LKUVZBJ3RRD2DCCVZY5N2QBNLI/"
-        }
-      },
-      {
-        "keyword": "태극",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "태극 문양이 왜 이래?…뉴발란스, 논란 티셔츠 판매 중단했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724232336156"
-        }
-      },
-      {
-        "keyword": "스페인",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "스페인·프랑스 산불에 수만명 대피···국가 비상사태 선포",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607242117001"
-        }
-      },
-      {
-        "keyword": "김혜준",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘킬러들의 쇼핑몰2’ 이동욱 “시즌1보다 재미없을 거면 시즌2 만들 이유 없었다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725070312209"
-        }
-      },
-      {
-        "keyword": "나이키",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Did Nike Just Leak LeBron James' Move to the Miami Heat? Fact Checking Viral Post",
-          "source": "BasketballNews.com",
-          "url": "https://www.basketballnews.com/news/basketballnews-nba-active-news-did-nike-just-leak-lebron-james-move-to-the-miami-heat-fact-checking-viral-post/"
-        }
-      },
-      {
-        "keyword": "유동규",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대선 전 확성기로 李대통령 비방 유동규, 항소심도 벌금 200만원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260723162809606"
-        }
-      },
-      {
-        "keyword": "콩콩팜팜",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "도경수, 재력 무시에 발끈 \"저 으르렁이에요\"(콩콩팜팜)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260724n29423"
-        }
-      },
-      {
-        "keyword": "런닝맨",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘런닝맨’ 강훈·김혜준·차우민, 심리전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724163638566"
-        }
-      },
-      {
-        "keyword": "윤정수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "원진서, 김성수 악수 거절…\"♥윤정수에 혼나\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/25/2026072423424945578"
-        }
-      },
-      {
-        "keyword": "opus5",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Introducing Claude Opus 5",
-          "source": "Anthropic",
-          "url": "https://www.anthropic.com/news/claude-opus-5"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-25T13:56:31.945605+09:00",
     "label": "13:56",
     "items": [
@@ -2209,6 +2103,112 @@
           "title": "'KIA 亞쿼 눈물 펑펑' 얼마나 이별이 슬펐으면, 트레이드로 고향팀 떠나 대전행…\"日 독립구단에서 이런 적 없다고, 한화가 마지막 팀 됐으면\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260726120240842"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-26T23:27:04.664395+09:00",
+    "label": "23:27",
+    "items": [
+      {
+        "keyword": "한지윤",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "한화, 홈런 3방으로 8회에만 10득점…두산 곽빈 다승 공동선두(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260726052051007"
+        }
+      },
+      {
+        "keyword": "함덕주",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "칼 빼든 염갈량, 8연패 끊자마자 이정용-함덕주 2군행…배재준-최지명 1군 콜업 [대전 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726172849956"
+        }
+      },
+      {
+        "keyword": "일기예보",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "비 온다더니 햇볕만 쨍쨍…기상청은 오보청?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726133949482"
+        }
+      },
+      {
+        "keyword": "배재준",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[사진]김광삼 코치, 배재준! 자신있게 던져 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/07/26/GE2DMNTCGVRTOYTBMMZDGNRVGU/"
+        }
+      },
+      {
+        "keyword": "k리그1 순위",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[K리그1] 중간 순위(26일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6239413"
+        }
+      },
+      {
+        "keyword": "박현빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'43세' 박현빈, 결혼하고도 일주일에 10번 母 집 찾았다...\"엄마 밥 먹기 위해\" ('미우새')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726212307554"
+        }
+      },
+      {
+        "keyword": "번개",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경고: 천둥번개가 칠 때 이동하면 사고 위험이 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/canh-bao-nguy-co-tai-nan-khi-di-chuyen-trong-mua-giong"
+        }
+      },
+      {
+        "keyword": "오싹한 연애 드라마",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'오싹한 연애' 박은빈, 양세종 자신 구하고 귀신 됐단 생각에 오열 속 '포옹' [종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726222809181"
+        }
+      },
+      {
+        "keyword": "ssg",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "NC blows ninth-inning lead as bases-loaded walks tie game with SSG - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/26/FOJ7HRKAVRFVHD4TVK2UJIVT4Q/"
+        }
+      },
+      {
+        "keyword": "lg vs hanwha",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Moon Jeong-Bin powers LG to win with clutch hits and homers - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/26/XPHUYVECSFGGHI2BS22JUUU3JM/"
         }
       }
     ]
