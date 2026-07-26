@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-27T01:47:18.250853+09:00",
-  "label": "01:47",
+  "timestamp": "2026-07-27T02:53:59.051139+09:00",
+  "label": "02:53",
   "items": [
     {
       "keyword": "비비 워터 밤",
@@ -13,13 +13,13 @@
       }
     },
     {
-      "keyword": "검사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김연경",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "‘사명감’에 檢 택한 김앤장 출신 검사들…“보완수사 폐지, 국민에 직격탄”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726173609089"
+        "title": "8월 제주 스포츠 이벤트 잇따라…김연경·김민재·박인비 총출동",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260726050200056"
       }
     },
     {
@@ -33,13 +33,23 @@
       }
     },
     {
-      "keyword": "장윤기",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "디즈니+",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "\"인생 망하면 여고생 납치\"…'동창과 나눈 대화' 증거로",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726201509622"
+        "title": "영화는 OTT로 보는데… 넷플릭스·디즈니 주가는 왜 떨어질까",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/stock-finance/2026/07/26/SGO7HIPTVVDPTOHC7GTBL6K2IM/"
+      }
+    },
+    {
+      "keyword": "영장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“도와달라” 여고생의 다급한 비명…맨발로 뛰쳐나와 흉기 든 10대男 제압한 시민 영웅들",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20071672"
       }
     },
     {
@@ -50,16 +60,6 @@
         "title": "서울 노원구서 차량 6대 추돌사고…무더위 속 물놀이 사고도 잇따라",
         "source": "KBS 뉴스",
         "url": "https://news.kbs.co.kr/news/view.do?ncd=8620369"
-      }
-    },
-    {
-      "keyword": "김연경",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "다음 달 ‘스포츠 메가 이벤트’ 잇따라 열려",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8620458"
       }
     },
     {
@@ -77,9 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "삼성SDS, 앤트로픽과 파트너십 체결…기업용 AI 사업 확대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726123937477"
+        "title": "앤트로픽, 클로드 5 ‘컨텍스트 엔지니어링’ 공개...“규칙 줄여야 성능 올라간다”",
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213178"
       }
     },
     {
@@ -87,19 +87,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥와 러브스토리 ('미우새') [순간포착] - 조선비즈",
+        "title": "\"친구 폭로로 연락 끊겼다 다시 만나\"...남창희, '아이유 닮은꼴' 아내♥와 러브스토리 ('미우새') [순간포착]",
         "source": "Chosunbiz",
         "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/26/HFSDOMBTGI3DMOLEGQ3GIZBZMU/"
       }
     },
     {
-      "keyword": "헝가리 그랑프리",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "영종도",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "F1-GRAND-PRIX-OF-HUNGARY",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3646666"
+        "title": "[포토 르포] 신도평화대교 교통체증 해소? 개통 두 번째 주말 영종도 차량 흐름 원활",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726110504639"
       }
     }
   ]
