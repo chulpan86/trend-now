@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-24T23:44:33.789953+09:00",
-    "label": "23:44",
-    "items": [
-      {
-        "keyword": "동티모르 대 베트남",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김상식호 베트남, 2연속 동남아 최정상 도전…\"방심은 없다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9XTAGNgRF4"
-        }
-      },
-      {
-        "keyword": "서장훈의 이웃집 백만장자",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "장예원, 웨딩드레스 자태…서장훈 \"내가 남편도 아닌데\" 미소",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260723506351"
-        }
-      },
-      {
-        "keyword": "đông timor đấu với việt nam",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Timor Leste lột xác với dàn cầu thủ châu Âu trước cuộc chạm trán Việt Nam",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/timor-leste-lot-xac-voi-dan-cau-thu-chau-au-truoc-cuoc-cham-tran-viet-nam-c48a1780702.html"
-        }
-      },
-      {
-        "keyword": "jp모건 체이스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Dimon Warns CRE on Rate Relief Amid Inflation, US Debt Woes",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/real-estate/articles/dimon-warns-cre-rate-relief-055821015.html"
-        }
-      },
-      {
-        "keyword": "빅테크",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김용범 “삼성·SK와 빅테크, 샌프란서 대형 계약 맺을 것”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724212136959"
-        }
-      },
-      {
-        "keyword": "삼성e&a",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“하루 새 10곳이 목표가 올렸다”…삼성E&A에 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607244637i"
-        }
-      },
-      {
-        "keyword": "sbs",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "안치홍",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[프로야구 광주전적] 키움 8-5 KIA",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724178300007"
-        }
-      },
-      {
-        "keyword": "원종현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'153km/h 쾅' 던져도 만족 없다…원종현, 불혹 앞두고 회춘한 비결은 '건강'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fG3bzwEoty"
-        }
-      },
-      {
-        "keyword": "크보",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘야구팬들 분노’ 비도 안 오는데 왜 또 취소인가…그라운드 정비 불가 판정, 수원KT위즈파크 말못할 사연 있었다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/24/202607231751772403O"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-25T03:10:46.555252+09:00",
     "label": "03:10",
     "items": [
@@ -2315,6 +2213,112 @@
           "title": "정영환 고성군의회 의장, 보훈단체 간담회",
           "source": "경남매일",
           "url": "https://www.gnmaeil.com/news/articleView.html?idxno=591329"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-26T14:22:04.598325+09:00",
+    "label": "14:22",
+    "items": [
+      {
+        "keyword": "lg디스플레이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보] ‘한국 맹추격하는 중국 OLED’…中에 기술 넘긴 LG디스플 전 직원들, 징역형",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726101441535"
+        }
+      },
+      {
+        "keyword": "삼전닉스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[비즈토크] \"그거 가지고 되겠냐\" 李 불호령에…레버리지 ETF 규제 딜레마",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726000450992"
+        }
+      },
+      {
+        "keyword": "밥",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“냉동밥, 2주 넘으면 버려야 한다?”…대부분 모르는 ‘진짜 보관기한’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726100107237"
+        }
+      },
+      {
+        "keyword": "황 유민",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "링크스 코스에서 멀어진 '라이벌' 황유민 vs 하라 에리카 [LPGA]",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021257"
+        }
+      },
+      {
+        "keyword": "카페인",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Coffee and heart health: How many cups of caffeinated coffee are safe to drink each day?",
+          "source": "www.heart.org",
+          "url": "https://newsroom.heart.org/news/coffee-and-heart-health-how-many-cups-of-caffeinated-coffee-are-safe-to-drink-each-day"
+        }
+      },
+      {
+        "keyword": "토트넘",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "혁신 앞둔 토트넘 데제르비 감독 \"불만 있는 선수들 떠나라\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260726026300007"
+        }
+      },
+      {
+        "keyword": "나의 지옥은 나를 죽이지 못했다 - 지옥으로 역주행한 어느 탈북 청년의 22일간의 기록",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘지옥으로 역주행’한 탈북 청년의 22일 간 사투 [주성하의 북에서 온 이웃]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260722/134338469/1"
+        }
+      },
+      {
+        "keyword": "기성용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"커서 뭐가 될는지\" 한혜진♥기성용 딸, 알고 보니 유튜버였다 [스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/broadcast-show/2026/07/24/2026072323413330659"
+        }
+      },
+      {
+        "keyword": "sk실트론",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "최태원 회장 '9440억' 어떻게 마련하나…SK실트론 매각 딜레마",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260726n00962"
+        }
+      },
+      {
+        "keyword": "가스인간",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[기획] 시대의 언어를 재창조한다는 것 - 사토 유 평론가의 비평",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110388"
         }
       }
     ]
