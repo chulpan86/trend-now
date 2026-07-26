@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-26T14:22:04.598325+09:00",
-  "label": "14:22",
+  "timestamp": "2026-07-26T17:07:34.580099+09:00",
+  "label": "17:07",
   "items": [
     {
-      "keyword": "lg디스플레이",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "폭염",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[속보] ‘한국 맹추격하는 중국 OLED’…中에 기술 넘긴 LG디스플 전 직원들, 징역형",
+        "title": "이불 2개 덮은 한반도… 40도 육박 폭염에 곳곳 ‘중대경보’",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/transport-environment/2026/07/26/NJ4VPGQ77BH2FB3WCUFTE4XMKE/"
+      }
+    },
+    {
+      "keyword": "황인범",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'韓 국가대표 미드필더' 황인범, '프리미어리그 대세 구단' 아스톤 빌라 상대로 데뷔전서 번뜩였음에도 \"조금 실망스러워, 더 좋은 모습 보여줄 것\" 다짐",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260726101441535"
+        "url": "https://v.daum.net/v/20260726100536365"
       }
     },
     {
-      "keyword": "삼전닉스",
+      "keyword": "창정 로켓",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[비즈토크] \"그거 가지고 되겠냐\" 李 불호령에…레버리지 ETF 규제 딜레마",
+        "title": "중국 로켓 발사하자 ‘쩌억’ 번개 관통…그런데도 계속 우주로? [1분 쇼츠]",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/science/technology/1269947.html"
+      }
+    },
+    {
+      "keyword": "애플",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "중국 메모리 도입 놓고 애플-마이크론 갈등…가운데 낀 트럼프",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260726000450992"
+        "url": "https://v.daum.net/v/20260725184144260"
       }
     },
     {
-      "keyword": "밥",
+      "keyword": "공인중개사",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“냉동밥, 2주 넘으면 버려야 한다?”…대부분 모르는 ‘진짜 보관기한’",
+        "title": "대법 \"중개 없이 전세계약서 써준 공인중개사도 대출사기 책임\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6840122_36918.html"
+      }
+    },
+    {
+      "keyword": "신설도로",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "울산 신현교차로∼옛 강동중 도로확장구간 경주방향 27일 개통",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260726100107237"
+        "url": "https://v.daum.net/v/2OitzRx2Zb?f=p"
       }
     },
     {
-      "keyword": "황 유민",
+      "keyword": "위증",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "링크스 코스에서 멀어진 '라이벌' 황유민 vs 하라 에리카 [LPGA]",
-        "source": "골프한국",
-        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021257"
+        "title": "[다시보기] 그것이 알고싶다 1497회",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000633378"
       }
     },
     {
-      "keyword": "카페인",
+      "keyword": "주상욱",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Coffee and heart health: How many cups of caffeinated coffee are safe to drink each day?",
-        "source": "www.heart.org",
-        "url": "https://newsroom.heart.org/news/coffee-and-heart-health-how-many-cups-of-caffeinated-coffee-are-safe-to-drink-each-day"
+        "title": "'김부장' 지독한 악역 주강찬 열연한 주상욱 종영 소감 \"더 좋은 모습으로\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/90PgyWTssq"
       }
     },
     {
-      "keyword": "토트넘",
+      "keyword": "환율",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "혁신 앞둔 토트넘 데제르비 감독 \"불만 있는 선수들 떠나라\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260726026300007"
+        "title": "국제유가 급등…국내 기름값 반등 조짐",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726161734793"
       }
     },
     {
-      "keyword": "나의 지옥은 나를 죽이지 못했다 - 지옥으로 역주행한 어느 탈북 청년의 22일간의 기록",
+      "keyword": "정우영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘지옥으로 역주행’한 탈북 청년의 22일 간 사투 [주성하의 북에서 온 이웃]",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260722/134338469/1"
-      }
-    },
-    {
-      "keyword": "기성용",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"커서 뭐가 될는지\" 한혜진♥기성용 딸, 알고 보니 유튜버였다 [스타이슈]",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/broadcast-show/2026/07/24/2026072323413330659"
-      }
-    },
-    {
-      "keyword": "sk실트론",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "최태원 회장 '9440억' 어떻게 마련하나…SK실트론 매각 딜레마",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260726n00962"
-      }
-    },
-    {
-      "keyword": "가스인간",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[기획] 시대의 언어를 재창조한다는 것 - 사토 유 평론가의 비평",
-        "source": "씨네21",
-        "url": "https://cine21.com/news/view/?mag_id=110388"
+        "title": "‘볼볼볼볼볼볼볼볼’ 8연속 볼 강판...LG 사이드암 정우영, 제구 난조 끝이 안 보인다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/07/26/202607251952774567O"
       }
     }
   ]

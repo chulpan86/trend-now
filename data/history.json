@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-25T03:10:46.555252+09:00",
-    "label": "03:10",
-    "items": [
-      {
-        "keyword": "로센보르그 대 맨유",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "'2010년생 꼬마'인데...맨유 1군 원정 합류한 '26골 괴물 유망주', 로센보르그전 깜짝 데뷔 눈앞",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/80T7BdRfWD?f=p"
-        }
-      },
-      {
-        "keyword": "르브론",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "전쟁같은 르브론 영입경쟁...마지막 우승 꿈꾸는 그의 선택은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724150137835"
-        }
-      },
-      {
-        "keyword": "1 박 2 일",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'1박2일' 이준, 또 사고 쳤다…독단적 의견 요청에 멤버들 '황당'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724143446859"
-        }
-      },
-      {
-        "keyword": "맨유",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "맨유, '레알 1억 유로 미드필더' 영입 '정조준'...무리뉴도 적정가면 판다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/24/202607232346771060O"
-        }
-      },
-      {
-        "keyword": "lebron james",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "LeBron James joins Philadelphia for final title run - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/07/25/R3VIB3RFAZGOJCKMVQI5ZXEUYM/"
-        }
-      },
-      {
-        "keyword": "다시보기",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "rosenborg vs man united",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Rosenborg vs Manchester United: Club friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cvgjlr6ngzqt"
-        }
-      },
-      {
-        "keyword": "야구여왕",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "블랙퀸즈, 6:9 호쾌한 역전…송아·김온아, 연속 ‘쓰리런’ 홈런",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260724073951819"
-        }
-      },
-      {
-        "keyword": "티비",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘Dungeon Crawler Carl’ TV Series Casts Audiobook Star Jeff Hays as Princess Donut’s Voice",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-princess-donut-jeff-hays-1236819828/"
-        }
-      },
-      {
-        "keyword": "mutv",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Man Utd transfer news: Manu Kone and Carlos Baleba strongly considered in search for third midfielder signing",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11667/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-25T05:10:03.187651+09:00",
     "label": "05:10",
     "items": [
@@ -2319,6 +2217,112 @@
           "title": "[기획] 시대의 언어를 재창조한다는 것 - 사토 유 평론가의 비평",
           "source": "씨네21",
           "url": "https://cine21.com/news/view/?mag_id=110388"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-26T17:07:34.580099+09:00",
+    "label": "17:07",
+    "items": [
+      {
+        "keyword": "폭염",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이불 2개 덮은 한반도… 40도 육박 폭염에 곳곳 ‘중대경보’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/07/26/NJ4VPGQ77BH2FB3WCUFTE4XMKE/"
+        }
+      },
+      {
+        "keyword": "황인범",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'韓 국가대표 미드필더' 황인범, '프리미어리그 대세 구단' 아스톤 빌라 상대로 데뷔전서 번뜩였음에도 \"조금 실망스러워, 더 좋은 모습 보여줄 것\" 다짐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726100536365"
+        }
+      },
+      {
+        "keyword": "창정 로켓",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "중국 로켓 발사하자 ‘쩌억’ 번개 관통…그런데도 계속 우주로? [1분 쇼츠]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/science/technology/1269947.html"
+        }
+      },
+      {
+        "keyword": "애플",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "중국 메모리 도입 놓고 애플-마이크론 갈등…가운데 낀 트럼프",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725184144260"
+        }
+      },
+      {
+        "keyword": "공인중개사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "대법 \"중개 없이 전세계약서 써준 공인중개사도 대출사기 책임\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6840122_36918.html"
+        }
+      },
+      {
+        "keyword": "신설도로",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "울산 신현교차로∼옛 강동중 도로확장구간 경주방향 27일 개통",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2OitzRx2Zb?f=p"
+        }
+      },
+      {
+        "keyword": "위증",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[다시보기] 그것이 알고싶다 1497회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000633378"
+        }
+      },
+      {
+        "keyword": "주상욱",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'김부장' 지독한 악역 주강찬 열연한 주상욱 종영 소감 \"더 좋은 모습으로\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/90PgyWTssq"
+        }
+      },
+      {
+        "keyword": "환율",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "국제유가 급등…국내 기름값 반등 조짐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726161734793"
+        }
+      },
+      {
+        "keyword": "정우영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘볼볼볼볼볼볼볼볼’ 8연속 볼 강판...LG 사이드암 정우영, 제구 난조 끝이 안 보인다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/26/202607251952774567O"
         }
       }
     ]
