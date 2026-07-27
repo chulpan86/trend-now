@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-27T14:48:13.815559+09:00",
-  "label": "14:48",
+  "timestamp": "2026-07-27T18:30:23.132455+09:00",
+  "label": "18:30",
   "items": [
     {
-      "keyword": "주차",
+      "keyword": "히가시노 게이고",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "日 베스트셀러 작가 히가시노 게이고, 대장암으로 사망",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/culture_general/2026/07/27/JY5AAD2IFFAHVI4B77E6TAFO7Q/"
+      }
+    },
+    {
+      "keyword": "000660",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "SK Hynix Debuted July 10 in a Monster $29 Billion Offering. GraniteShares Offers Leveraged Long (SKUU) and Short (SKDD) ETFs",
+        "source": "Barchart.com",
+        "url": "https://www.barchart.com/story/news/3257043/sk-hynix-debuts-july-10-in-a-monster-29-billion-offering-graniteshares-offers-leveraged-long-skuu-and-short-skdd-etfs"
+      }
+    },
+    {
+      "keyword": "진선 규",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": null
+    },
+    {
+      "keyword": "삼천당제약",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "이런 사람이 아직도? 주차장서 “차 금방 온다” 몸으로 버틴 중년",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11605113"
+        "title": "“FDA가 정말 허가 길 열어줬나”…삼천당 발표 뜯어보니 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/science-chosun/bio/2026/07/27/QKTA32S5LVC5JKJ4CW57EFIW64/"
       }
     },
     {
-      "keyword": "연상호",
+      "keyword": "nam vs nep",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"타미야 료코의 고뇌\" 연상호 감독+넷플릭스(일본), '기생수:타미야' 제작",
-        "source": "KBS연예",
-        "url": "https://kstar.kbs.co.kr/list_view.html?idx=406562"
+        "title": "Apple Upgrade Program Launching This Week: You Can Now Official Rent iPhone, Mac Instead Of Buying",
+        "source": "News18",
+        "url": "https://www.news18.com/topics/apple-upgrade-program-details/"
       }
     },
     {
-      "keyword": "이란 전쟁",
+      "keyword": "064350",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“이란戰에 갇혔다” 트럼프, 공습·제재·철수 ‘최후카드’ 놓고 좌절",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/W28vmKB31C"
+        "title": "Hyundai Rotem Price Targets Cut as Order Uncertainty Lingers",
+        "source": "Seoul Economic Daily",
+        "url": "https://en.sedaily.com/finance/2026/07/27/hyundai-rotem-price-targets-cut-as-order-uncertainty-lingers"
       }
     },
     {
-      "keyword": "배종옥",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "배종옥, 노희경 작가와 몸싸움 고백 \"목 졸리고 손 깨물어...윤여정도 눈치\" [순간포착]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/26/MYZTKOBZG44WGMZWMY2GKZDGGE/"
-      }
-    },
-    {
-      "keyword": "야생생물",
+      "keyword": "케스파컵 중계",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘생태계 보고 지리산’ 멸종위기 야생생물 Ⅰ·Ⅱ급 서식 잇단 확인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726155747447"
+        "title": "KeSPA컵 예선 마지막 날⋯대진ㆍ중계 일정은?",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2607625"
       }
     },
     {
-      "keyword": "양지마을",
+      "keyword": "양산 무지개폭포",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "분당 선도지구 4곳 사업시행자 지정…양지마을에 대신자산신탁",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727095538459"
+        "title": "양산시, 무지개폭포 계곡 공공 진입로 확보한다",
+        "source": "경남도민일보",
+        "url": "https://www.idomin.com/news/articleView.html?idxno=2010912"
       }
     },
     {
-      "keyword": "판결",
+      "keyword": "조국",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "헌재 결정 안 나왔는데…대법, '위헌 전제' 판결 파기환송",
+        "title": "조국 \"'와인만 마시고 소주 인증' 아니다…소주도 와인도 모두 마셨다\" 해명",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727094251796"
+        "url": "https://v.daum.net/v/20260727052130599"
       }
     },
     {
-      "keyword": "폭탄",
+      "keyword": "東野圭吾",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"폭탄 터진 듯\"‥차량 6대 연쇄 추돌로 경찰관 등 7명 다쳐",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840180_37004.html"
-      }
-    },
-    {
-      "keyword": "현대로템",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "개미 홀로 버티다 결국 '반락'…20% 급락 현대로템 '신저가'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727112241332"
-      }
-    },
-    {
-      "keyword": "경상남도",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "한여름에도 빨간 사과 나올까…경남농기원, 품종 개발 연구",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727114250348"
+        "title": "作家・東野圭吾さん、大腸がんのため死去 68歳 『白夜行』『容疑者Xの献身』『ガリレオ』シリーズ、『新参者』シリーズなど",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/e1989e890e533f4cfa4aa559ce531a272ff50f63"
       }
     }
   ]

@@ -1,323 +1,5 @@
 [
   {
-    "timestamp": "2026-07-26T02:50:36.362616+09:00",
-    "label": "02:50",
-    "items": [
-      {
-        "keyword": "청계천",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604985"
-        }
-      },
-      {
-        "keyword": "구름",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607231104277428"
-        }
-      },
-      {
-        "keyword": "서훈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724137400060"
-        }
-      },
-      {
-        "keyword": "추경호",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대구시장, 기획예산처 장관 만나 국비 반영 요청",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619774"
-        }
-      },
-      {
-        "keyword": "김아영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/512625"
-        }
-      },
-      {
-        "keyword": "블리치",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes by Hulu",
-          "source": "Anime Corner",
-          "url": "https://animecorner.me/bleach-tybw-part-4-the-calamity-officially-confirmed-for-10-episodes-by-hulu/"
-        }
-      },
-      {
-        "keyword": "나솔사계",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&cooper=google"
-        }
-      },
-      {
-        "keyword": "twitch",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Twitch Allows Parents To Restrict Teens From Livestreaming 07/22/2026",
-          "source": "MediaPost",
-          "url": "https://www.mediapost.com/publications/article/416695/twitch-allows-parents-to-restrict-teens-from-lives.html"
-        }
-      },
-      {
-        "keyword": "cryptocurrency trading",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunistic'",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic"
-        }
-      },
-      {
-        "keyword": "what is bitcoin",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Bitcoin treasury companies unwind holdings as the DAT model comes under pressure",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-26T03:52:32.082072+09:00",
-    "label": "03:52",
-    "items": [
-      {
-        "keyword": "청계천",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604985"
-        }
-      },
-      {
-        "keyword": "구름",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607231104277428"
-        }
-      },
-      {
-        "keyword": "서훈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724137400060"
-        }
-      },
-      {
-        "keyword": "추경호",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대구시장, 기획예산처 장관 만나 국비 반영 요청",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619774"
-        }
-      },
-      {
-        "keyword": "김아영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/512625"
-        }
-      },
-      {
-        "keyword": "김부장 시즌2",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'시청률 11%' 화력 증명한다…2년 만 화려한 귀환→당당히 출사표 던진 韓 드라마 ('재벌X형사2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725090137524"
-        }
-      },
-      {
-        "keyword": "블리치",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes by Hulu",
-          "source": "Anime Corner",
-          "url": "https://animecorner.me/bleach-tybw-part-4-the-calamity-officially-confirmed-for-10-episodes-by-hulu/"
-        }
-      },
-      {
-        "keyword": "나솔사계",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&cooper=google"
-        }
-      },
-      {
-        "keyword": "cryptocurrency trading",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunistic'",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic"
-        }
-      },
-      {
-        "keyword": "what is bitcoin",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Bitcoin treasury companies unwind holdings as the DAT model comes under pressure",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-26T05:05:24.649910+09:00",
-    "label": "05:05",
-    "items": [
-      {
-        "keyword": "청계천",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "청계천 한복판서 비누칠에 때밀이까지…대낮 '목욕 빌런' 등장",
-          "source": "주간조선",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53785"
-        }
-      },
-      {
-        "keyword": "구름",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607231104277428"
-        }
-      },
-      {
-        "keyword": "서훈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260724137400060"
-        }
-      },
-      {
-        "keyword": "추경호",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대구시장, 기획예산처 장관 만나 국비 반영 요청",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619774"
-        }
-      },
-      {
-        "keyword": "김아영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/512625"
-        }
-      },
-      {
-        "keyword": "블리치",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "BLEACH: TYBW Part 4 - The Calamity Officially Confirmed for 10 Episodes by Hulu",
-          "source": "Anime Corner",
-          "url": "https://animecorner.me/bleach-tybw-part-4-the-calamity-officially-confirmed-for-10-episodes-by-hulu/"
-        }
-      },
-      {
-        "keyword": "나솔사계",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&cooper=google"
-        }
-      },
-      {
-        "keyword": "que hacer este fin de semana",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Qué hacer este fin de semana en Vigo y su área",
-          "source": "Cadena SER",
-          "url": "https://cadenaser.com/galicia/2026/07/24/que-hacer-este-fin-de-semana-en-vigo-y-su-area-radio-vigo/"
-        }
-      },
-      {
-        "keyword": "cryptocurrency trading",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunistic'",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic"
-        }
-      },
-      {
-        "keyword": "what is bitcoin",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Bitcoin treasury companies unwind holdings as the DAT model comes under pressure",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-26T06:43:41.826597+09:00",
     "label": "06:43",
     "items": [
@@ -2421,6 +2103,108 @@
           "title": "한여름에도 빨간 사과 나올까…경남농기원, 품종 개발 연구",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260727114250348"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T18:30:23.132455+09:00",
+    "label": "18:30",
+    "items": [
+      {
+        "keyword": "히가시노 게이고",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "日 베스트셀러 작가 히가시노 게이고, 대장암으로 사망",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/07/27/JY5AAD2IFFAHVI4B77E6TAFO7Q/"
+        }
+      },
+      {
+        "keyword": "000660",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "SK Hynix Debuted July 10 in a Monster $29 Billion Offering. GraniteShares Offers Leveraged Long (SKUU) and Short (SKDD) ETFs",
+          "source": "Barchart.com",
+          "url": "https://www.barchart.com/story/news/3257043/sk-hynix-debuts-july-10-in-a-monster-29-billion-offering-graniteshares-offers-leveraged-long-skuu-and-short-skdd-etfs"
+        }
+      },
+      {
+        "keyword": "진선 규",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": null
+      },
+      {
+        "keyword": "삼천당제약",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“FDA가 정말 허가 길 열어줬나”…삼천당 발표 뜯어보니 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/07/27/QKTA32S5LVC5JKJ4CW57EFIW64/"
+        }
+      },
+      {
+        "keyword": "nam vs nep",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Apple Upgrade Program Launching This Week: You Can Now Official Rent iPhone, Mac Instead Of Buying",
+          "source": "News18",
+          "url": "https://www.news18.com/topics/apple-upgrade-program-details/"
+        }
+      },
+      {
+        "keyword": "064350",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Hyundai Rotem Price Targets Cut as Order Uncertainty Lingers",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/07/27/hyundai-rotem-price-targets-cut-as-order-uncertainty-lingers"
+        }
+      },
+      {
+        "keyword": "케스파컵 중계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KeSPA컵 예선 마지막 날⋯대진ㆍ중계 일정은?",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2607625"
+        }
+      },
+      {
+        "keyword": "양산 무지개폭포",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "양산시, 무지개폭포 계곡 공공 진입로 확보한다",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2010912"
+        }
+      },
+      {
+        "keyword": "조국",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "조국 \"'와인만 마시고 소주 인증' 아니다…소주도 와인도 모두 마셨다\" 해명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727052130599"
+        }
+      },
+      {
+        "keyword": "東野圭吾",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "作家・東野圭吾さん、大腸がんのため死去 68歳 『白夜行』『容疑者Xの献身』『ガリレオ』シリーズ、『新参者』シリーズなど",
+          "source": "Yahoo!ニュース",
+          "url": "https://news.yahoo.co.jp/articles/e1989e890e533f4cfa4aa559ce531a272ff50f63"
         }
       }
     ]
