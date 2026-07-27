@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-07-27T08:52:04.476428+09:00",
-  "label": "08:52",
+  "timestamp": "2026-07-27T10:57:57.382865+09:00",
+  "label": "10:57",
   "items": [
     {
-      "keyword": "결혼식",
+      "keyword": "류현진",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘나는 솔로’ 18기 영수♥영숙, 대반전 ‘현실 부부’ 탄생…25일 결혼",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607261250003"
-      }
-    },
-    {
-      "keyword": "관광객",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "펄펄 끓는 밤…열대야에 도심 속 피서지 '북적'",
+        "title": "류현진, 시즌 최악투 이유 밝혀졌다···김경문 감독 “본인 더 던지려고 했지만 팔 근육 뭉침 증세로 조기 교체”[스경X현장]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727045332272"
+        "url": "https://v.daum.net/v/20260726155708427"
       }
     },
     {
-      "keyword": "샘 해밍턴",
+      "keyword": "유상증자",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "샘 해밍턴 \"전 세계 25장 오타니 카드 있어\" 데프콘 \"노후 준비 끝\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260726_0003723587"
-      }
-    },
-    {
-      "keyword": "댐",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "호남권 댐 건설 6건, 모두 진보 정부서 백지화",
+        "title": "엔비디아, 1조4800억에 네이버 4.5% 주주 된다",
         "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/07/27/RKFTKUD4JZDGJKTYKVODX2V7KQ/"
+        "url": "https://www.chosun.com/economy/tech_it/2026/07/27/FQATUBKDHZE4XKXWI5FLLVOEPE/"
       }
     },
     {
-      "keyword": "옥택연",
+      "keyword": "청년미래적금",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "소지섭도 사과한 '김부장'의 카메오..옥택연 \"특출인데 단체사진 있음\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726171108622"
+        "title": "“이 정도 인기였나?” 청년미래적금 가입 첫날…우리은행 계좌 개설 페이지 오류",
+        "source": "이코노미스트",
+        "url": "https://economist.co.kr/article/view/ecn202607270007"
       }
     },
     {
-      "keyword": "퇴장",
+      "keyword": "김소영",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'146km 직구가 또…' 미야지, 초구 헤드샷 퇴장…삼성 아시아쿼터 고민 점점 깊어진다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726204127023"
+        "title": "'오상진♥' 김소영, 출산 3개월 만에 \"셋째?\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260727_0003723945"
       }
     },
     {
-      "keyword": "이정효",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "별사랑",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'이정효호' 수원, 최대 숙원 '다이렉트 승격' 흐름 탔다... '우승 후보' 2연속 격파→어느새 선두와 '승점 동률'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726183647106"
-      }
-    },
-    {
-      "keyword": "가덕도신공항",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "부산도시공사, 가덕도 공항복합도시 용역 착수…\"민간투자 유치 전략 마련\"",
+        "title": "'아침마당' 별사랑♥김완 \"임신 7개월, 성별은 아들⋯태명은 뽀기\"",
         "source": "네이트",
-        "url": "https://news.nate.com/view/20260721n31606"
+        "url": "https://news.nate.com/view/20260727n04592"
       }
     },
     {
-      "keyword": "녹색경제신문",
+      "keyword": "opus 5",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Introducing Claude Opus 5",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-opus-5"
+      }
+    },
+    {
+      "keyword": "루이스 아라에즈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"힘들었던 7월, 선풍기에 가까웠다\"…이정후에게는 지옥의 7월, 홈런이 반전 신호탄 될까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727014010566"
+      }
+    },
+    {
+      "keyword": "최윤아",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[인터뷰] 3년 연속 1순위 신한은행, 후보는 2~3명... 최윤아 감독 \"와서 얼마나 노력하느냐가 중요\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VurwDwEoW1"
+      }
+    },
+    {
+      "keyword": "농협은행",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘9440억’ 실탄 필요한 최태원, SK 주식 매각 대신 ‘우회로’ 찾나",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607262034035"
+        "title": "농협은행, 농가 탄소배출권 5254톤 매입…‘저탄소 상생’ 속도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727101327573"
       }
     },
     {
-      "keyword": "호반건설",
+      "keyword": "주일 미군",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "주일미군 사령관 “사령부 200여 명 증원…24시간 대응 체제”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726140337089"
+      }
     }
   ]
 }

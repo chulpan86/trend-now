@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-25T22:00:52.827162+09:00",
-    "label": "22:00",
-    "items": [
-      {
-        "keyword": "사랑이 온다",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "＂우리 구면 맞죠?＂일하는 레스토랑에서 다시 만난 하석진과 안희연 [사랑이 온다] | KBS 260725 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026034678-01-000_MFSC2&program_code=T2026-0039&program_id=PS-2026034678-01-000&section_code=03&broadcast_complete_yn=N&section_id=27798"
-        }
-      },
-      {
-        "keyword": "india vs zimbabwe",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "ZIM vs IND Cricket Scorecard, 2nd T20I at Harare, July 25, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/india-in-zimbabwe-2026-1530058/zimbabwe-vs-india-2nd-t20i-1530061/full-scorecard"
-        }
-      },
-      {
-        "keyword": "로켓",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[영상]세계 최대 발사체 ‘스타십’ 13차 시험발사 성공…첫 위성 배치",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607250909001"
-        }
-      },
-      {
-        "keyword": "이호재",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'포항 FW' 이호재, 모든 합의는 끝났다! 독일 다름슈타트행 확정...25일 전북전이 고별전→26일 출국",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/07/24/GZSDGNLBMVSDKNJXMU3DOYLEG4/"
-        }
-      },
-      {
-        "keyword": "신상진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[경기] 성남시, 전기차 충전구역 화재예방시설 설치 지원",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202607241434327662"
-        }
-      },
-      {
-        "keyword": "보증금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“집주인 바뀌었는데, 보증금 어떡하죠?”…전세금 지키려면 ‘이것’부터",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725151500488"
-        }
-      },
-      {
-        "keyword": "전남 대 경남",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[K리그2]무승 탈출한 전남, 경남 잡고 홈 2연승 도전",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=917919"
-        }
-      },
-      {
-        "keyword": "조국혁신당",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "조국 “상위 1% 부동산 공화국 해체해야…2028 총선 준비해달라”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260725/134363312/1"
-        }
-      },
-      {
-        "keyword": "lg vs hanwha",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "LG Twins vs Hanwha Eagles Best Bet, July 25: Ron Crawford Rides Ryu and the Eagles at Home",
-          "source": "Tony's Picks",
-          "url": "https://www.tonyspicks.com/2026/07/24/lg-twins-vs-hanwha-eagles-best-bet-july-25-ron-crawford/"
-        }
-      },
-      {
-        "keyword": "열대야",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[뉴스초점] ’체감 38도’ 극한 더위…월요일 내륙 장마 끝",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260725160122XCS"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-25T23:54:05.914286+09:00",
     "label": "23:54",
     "items": [
@@ -2630,6 +2524,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T10:57:57.382865+09:00",
+    "label": "10:57",
+    "items": [
+      {
+        "keyword": "류현진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "류현진, 시즌 최악투 이유 밝혀졌다···김경문 감독 “본인 더 던지려고 했지만 팔 근육 뭉침 증세로 조기 교체”[스경X현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726155708427"
+        }
+      },
+      {
+        "keyword": "유상증자",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "엔비디아, 1조4800억에 네이버 4.5% 주주 된다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/27/FQATUBKDHZE4XKXWI5FLLVOEPE/"
+        }
+      },
+      {
+        "keyword": "청년미래적금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“이 정도 인기였나?” 청년미래적금 가입 첫날…우리은행 계좌 개설 페이지 오류",
+          "source": "이코노미스트",
+          "url": "https://economist.co.kr/article/view/ecn202607270007"
+        }
+      },
+      {
+        "keyword": "김소영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'오상진♥' 김소영, 출산 3개월 만에 \"셋째?\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260727_0003723945"
+        }
+      },
+      {
+        "keyword": "별사랑",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'아침마당' 별사랑♥김완 \"임신 7개월, 성별은 아들⋯태명은 뽀기\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260727n04592"
+        }
+      },
+      {
+        "keyword": "opus 5",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Introducing Claude Opus 5",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
+        }
+      },
+      {
+        "keyword": "루이스 아라에즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"힘들었던 7월, 선풍기에 가까웠다\"…이정후에게는 지옥의 7월, 홈런이 반전 신호탄 될까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727014010566"
+        }
+      },
+      {
+        "keyword": "최윤아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[인터뷰] 3년 연속 1순위 신한은행, 후보는 2~3명... 최윤아 감독 \"와서 얼마나 노력하느냐가 중요\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VurwDwEoW1"
+        }
+      },
+      {
+        "keyword": "농협은행",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "농협은행, 농가 탄소배출권 5254톤 매입…‘저탄소 상생’ 속도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727101327573"
+        }
+      },
+      {
+        "keyword": "주일 미군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "주일미군 사령관 “사령부 200여 명 증원…24시간 대응 체제”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726140337089"
+        }
       }
     ]
   }
