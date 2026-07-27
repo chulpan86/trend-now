@@ -1,35 +1,65 @@
 {
-  "timestamp": "2026-07-28T04:12:18.142320+09:00",
-  "label": "04:12",
+  "timestamp": "2026-07-28T06:02:01.326829+09:00",
+  "label": "06:02",
   "items": [
     {
-      "keyword": "은행",
+      "keyword": "박수홍",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "기업은행 2분기 순이익 6천895억원…전년 대비 0.7%↓(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260727134651527"
-      }
-    },
-    {
-      "keyword": "elle",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Ces parfums format voyage méritent une place dans votre valise d'été",
-        "source": "ELLE",
-        "url": "https://www.elle.fr/Beaute/Parfums/Tendances/Ces-parfums-format-voyage-meritent-une-place-dans-votre-valise-d-ete"
-      }
-    },
-    {
-      "keyword": "국가기술자격",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "국가기술자격 시험서 문제 사전공개 사고…응시생 57명 재시험",
+        "title": "“경솔했다” 선처 호소했던 박수홍 형수, ‘벌금 1200만원’ 2심 불복·대법원까지 간다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727214853099"
+        "url": "https://v.daum.net/v/20260727170610454"
+      }
+    },
+    {
+      "keyword": "간",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[진료실에서] B형 간염은 ‘간암 시한폭탄’…비활동기 환자도 꼭 6개월 주기 검사",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260728.22015008131"
+      }
+    },
+    {
+      "keyword": "k9 자주포",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "한화에어로, 6600억 규모 상품공급 계약 체결…스페인 K9 자주포 추정",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/tiVmL0FYNS"
+      }
+    },
+    {
+      "keyword": "별사랑",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'아침마당' 별사랑 \"2세는 아들…임신 26주차, 17㎏ 쪄 68㎏\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727125041540"
+      }
+    },
+    {
+      "keyword": "치마",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "물놀이 갈 때나 입던 ‘이 치마’가 유행이라고?",
+        "source": "엘르 코리아 │ ELLE KOREA",
+        "url": "https://www.elle.co.kr/article/1906945"
+      }
+    },
+    {
+      "keyword": "철구",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'왕 지킨' 유해진, 영부인 저격사건 수사 '암살자(들)' 형사 변신",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/bxWgVIsAFU"
       }
     },
     {
@@ -43,39 +73,19 @@
       }
     },
     {
-      "keyword": "한진칼",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "호반 맹공에 배수진 친 한진…한진칼 경영권 분쟁 ‘시계제로’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727165336835?f=p"
-      }
-    },
-    {
-      "keyword": "중국 duv",
+      "keyword": "스포티비뉴스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[미국 특징주] ASML, 중국發 경쟁 위협 보도에 7%대 급락",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260727001367"
-      }
-    },
-    {
-      "keyword": "duv",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "China Begins Mass Production of Homegrown DUV Chip Tools",
-        "source": "The Information",
-        "url": "https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry"
+        "title": "'비매너 뭇매' 손담비 \"적당히 하시길\"…호텔 객실 안 신발 직접 해명 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072717550562075"
       }
     },
     {
       "keyword": "성리",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "'52초 전석 매진' 성리, 첫 팬미팅으로 증명한 압도적 티켓 파워",
         "source": "Daum",
@@ -90,16 +100,6 @@
         "title": "First PS Plus Essential Game for August 2026 Already Confirmed",
         "source": "Push Square",
         "url": "https://www.pushsquare.com/news/2026/07/first-ps-plus-essential-game-for-august-2026-already-confirmed"
-      }
-    },
-    {
-      "keyword": "정선희",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'짠한형' 정선희 \"신동엽 어색…친오빠 클럽서 본 느낌\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727200240349"
       }
     }
   ]
