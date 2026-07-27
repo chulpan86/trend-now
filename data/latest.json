@@ -1,31 +1,51 @@
 {
-  "timestamp": "2026-07-28T00:36:42.258804+09:00",
-  "label": "00:36",
+  "timestamp": "2026-07-28T02:29:27.244935+09:00",
+  "label": "02:29",
   "items": [
     {
       "keyword": "사랑이 온다",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "'사랑이 온다' 하석진·안희연, 애틋한 포옹…시청률 13% 기록",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727093650524?f=p"
+      }
+    },
+    {
+      "keyword": "은행",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "김용빈 1위-손태진 2위 ‘사랑이 온다’ OST 주인공",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727171127707"
+        "title": "기업은행 2분기 순이익 6천895억원…전년 대비 0.7%↓(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260727134651527"
       }
     },
     {
       "keyword": "elle",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "Vous avez aimé « Borgen » ? La politique australienne «Total Control » est faite pour vous",
-        "source": "ELLE",
-        "url": "https://www.elle.fr/Loisirs/Series/Vous-avez-aime-Borgen-La-politique-australienne-Total-Control-est-faite-pour-vous-4480726"
+        "title": "\"Elle m’a mis le pied à l’étrier pour pratiquer le sport de haut niveau.\" L’Alésienne Ghislène Gervais Mares, basketteuse internationale, est morte à l’âge de 89 ans",
+        "source": "Midi Libre",
+        "url": "https://www.midilibre.fr/2026/07/27/elle-ma-mis-le-pied-a-letrier-pour-pratiquer-le-sport-de-haut-niveau-lalesienne-ghislene-gervais-mares-basketteuse-internationale-est-morte-a-lage-de-13486071.php"
+      }
+    },
+    {
+      "keyword": "국가기술자격",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "국가기술자격 시험 문제 유출로 재시험",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/labor/2026/07/27/TOALS5XLWRANLD6GZIYM2GRUDE/"
       }
     },
     {
       "keyword": "외환시장",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "엔화 추락·원화 강세…뚜렷해진 디커플링",
         "source": "한국경제",
@@ -33,33 +53,23 @@
       }
     },
     {
-      "keyword": "강남구",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "중국 duv",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "강남구, 어린이 눈으로 위험 찾는다…안전모니터링단 모집",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=710375"
+        "title": "[미국 특징주] ASML, 중국發 경쟁 위협 보도에 7%대 급락",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260727001367"
       }
     },
     {
-      "keyword": "지연수",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "duv",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "임우일, '싱글맘' 지연수와 소개팅... \"왜 자꾸 웃으세요, 제가 마음에 드시나 봐요\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727184525020"
-      }
-    },
-    {
-      "keyword": "인도네시아 대 캄보디아",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "인도네시아 2-0 캄보디아 (전반전): 리드가 두 배로 늘어납니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/truc-tiep-indonesia-2-0-campuchia-hiep-1-cach-biet-nhan-doi"
+        "title": "China Starts Mass-Producing Homegrown DUV Chipmaking Tools, An Advance for Local Chip Industry",
+        "source": "The Information",
+        "url": "https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry"
       }
     },
     {
@@ -83,23 +93,13 @@
       }
     },
     {
-      "keyword": "기온",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "폭염 위기경보 '심각' 격상…중대본 가동 범정부 총력 대응",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968860"
-      }
-    },
-    {
-      "keyword": "건설근로자공제회",
+      "keyword": "정선희",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "건설근로자공제회, 건설노동자 휴가지원 대상자 추가 모집 실시",
-        "source": "서울Pn",
-        "url": "https://go.seoul.co.kr/news/prnewsView.php?id=439305"
+        "title": "정선희 \"아버지 빚 10년 넘게 갚아…항상 빚에 쪼들려\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260727_0003725491"
       }
     }
   ]
