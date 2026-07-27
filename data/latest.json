@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-27T21:50:05.000345+09:00",
-  "label": "21:50",
+  "timestamp": "2026-07-28T00:36:42.258804+09:00",
+  "label": "00:36",
   "items": [
     {
-      "keyword": "이루 네",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "사랑이 온다",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'무명전설' 이루네 \"서지오와 사귄지 얼마안돼\" 폭탄 발언…父 생일도 챙겼다",
+        "title": "김용빈 1위-손태진 2위 ‘사랑이 온다’ OST 주인공",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727103108437"
+        "url": "https://v.daum.net/v/20260727171127707"
       }
     },
     {
-      "keyword": "악어",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "elle",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "여주 하천서 발견된 ‘샴악어’… 30대 주인 검거",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/07/27/2QJR3PC6CJE67DMDARZTXEV57I/"
+        "title": "Vous avez aimé « Borgen » ? La politique australienne «Total Control » est faite pour vous",
+        "source": "ELLE",
+        "url": "https://www.elle.fr/Loisirs/Series/Vous-avez-aime-Borgen-La-politique-australienne-Total-Control-est-faite-pour-vous-4480726"
       }
     },
     {
-      "keyword": "재산세",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "외환시장",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "수원특례시, 신탁재산 체납 대응 강화…다가구·다세대 장기 공실 막는다",
+        "title": "엔화 추락·원화 강세…뚜렷해진 디커플링",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026072666311"
+      }
+    },
+    {
+      "keyword": "강남구",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "강남구, 어린이 눈으로 위험 찾는다…안전모니터링단 모집",
         "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=710479"
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=710375"
       }
     },
     {
-      "keyword": "안규백",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "경찰 \"안규백 위증 의혹 법리검토…이혜훈 '로또 청약'은 곧 결론\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260727079400004"
-      }
-    },
-    {
-      "keyword": "hd현대중공업",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "HD현대重, 중대재해 잇따르자 전 사업장 생산 중단",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/07/27/YHGDVYFWUBHM7EIQK5CCWKGWQY/"
-      }
-    },
-    {
-      "keyword": "고발",
+      "keyword": "지연수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'전직 시민감사관'을 '현직 감사관'으로…전남광주지방의원 고발",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260727129900054"
-      }
-    },
-    {
-      "keyword": "용인반도체클러스터",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "연애전쟁",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "남친 동의하에 외도, 충격 사유…\"이숙캠도 못 나올 사건\" [연애전쟁]",
+        "title": "임우일, '싱글맘' 지연수와 소개팅... \"왜 자꾸 웃으세요, 제가 마음에 드시나 봐요\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727083154744"
+        "url": "https://v.daum.net/v/20260727184525020"
       }
     },
     {
-      "keyword": "xsmb",
+      "keyword": "인도네시아 대 캄보디아",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Kết quả xổ số TPHCM ngày 27.7",
-        "source": "Laodong.vn",
-        "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-tphcm-ngay-277-1741759.ldo"
+        "title": "인도네시아 2-0 캄보디아 (전반전): 리드가 두 배로 늘어납니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/truc-tiep-indonesia-2-0-campuchia-hiep-1-cach-biet-nhan-doi"
       }
     },
     {
-      "keyword": "헌법소원심판",
+      "keyword": "한진칼",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "도수치료 관리급여 논란 국회로…'원점 재검토' 청원 6만명 돌파",
-        "source": "청년의사",
-        "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041246"
+        "title": "호반 맹공에 배수진 친 한진…한진칼 경영권 분쟁 ‘시계제로’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727165336835"
+      }
+    },
+    {
+      "keyword": "고준희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'아근진' 강남 \"다시 태어나도 이상화 만난 정글은 안 가\"…무슨 일?",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202607271553023770"
+      }
+    },
+    {
+      "keyword": "기온",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "폭염 위기경보 '심각' 격상…중대본 가동 범정부 총력 대응",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968860"
+      }
+    },
+    {
+      "keyword": "건설근로자공제회",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "건설근로자공제회, 건설노동자 휴가지원 대상자 추가 모집 실시",
+        "source": "서울Pn",
+        "url": "https://go.seoul.co.kr/news/prnewsView.php?id=439305"
       }
     }
   ]
