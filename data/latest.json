@@ -1,81 +1,41 @@
 {
-  "timestamp": "2026-07-28T06:02:01.326829+09:00",
-  "label": "06:02",
+  "timestamp": "2026-07-28T07:51:39.960418+09:00",
+  "label": "07:51",
   "items": [
     {
-      "keyword": "박수홍",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“경솔했다” 선처 호소했던 박수홍 형수, ‘벌금 1200만원’ 2심 불복·대법원까지 간다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727170610454"
-      }
-    },
-    {
-      "keyword": "간",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[진료실에서] B형 간염은 ‘간암 시한폭탄’…비활동기 환자도 꼭 6개월 주기 검사",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260728.22015008131"
-      }
-    },
-    {
-      "keyword": "k9 자주포",
+      "keyword": "약사",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한화에어로, 6600억 규모 상품공급 계약 체결…스페인 K9 자주포 추정",
+        "title": "편의점에서 인공눈물까지…상비약 확대 조짐에 약사들 발칵",
         "source": "Daum",
-        "url": "https://v.daum.net/v/tiVmL0FYNS"
+        "url": "https://v.daum.net/v/20260727181308185"
       }
     },
     {
-      "keyword": "별사랑",
+      "keyword": "종합부동산세",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'아침마당' 별사랑 \"2세는 아들…임신 26주차, 17㎏ 쪄 68㎏\"",
+        "title": "부동산 세제개편 밑그림 나왔다…'1주택 보호·초고가 조정' 무게",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727125041540"
+        "url": "https://v.daum.net/v/20260728050320260"
       }
     },
     {
-      "keyword": "치마",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "물놀이 갈 때나 입던 ‘이 치마’가 유행이라고?",
-        "source": "엘르 코리아 │ ELLE KOREA",
-        "url": "https://www.elle.co.kr/article/1906945"
-      }
-    },
-    {
-      "keyword": "철구",
+      "keyword": "전현무",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'왕 지킨' 유해진, 영부인 저격사건 수사 '암살자(들)' 형사 변신",
+        "title": "전현무, 멕시코서 손흥민 흔적 찾았다 \"가족들도 찾은 한식 맛집\" ('사당귀')[순간포착]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/bxWgVIsAFU"
+        "url": "https://v.daum.net/v/WgPUHRx2lK"
       }
     },
     {
-      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola kamboja",
+      "keyword": "스포 티비 뉴스",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "Seperti Enrique, John Herdman Pantau Pemain dari Tribun di Piala AFF",
-        "source": "CNN Indonesia",
-        "url": "https://www.cnnindonesia.com/olahraga/20260727215646-142-1385520/seperti-enrique-john-herdman-pantau-pemain-dari-tribun-di-piala-aff"
-      }
-    },
-    {
-      "keyword": "스포티비뉴스",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
         "title": "'비매너 뭇매' 손담비 \"적당히 하시길\"…호텔 객실 안 신발 직접 해명 - 머니투데이",
         "source": "머니투데이",
@@ -83,23 +43,59 @@
       }
     },
     {
-      "keyword": "성리",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "ionq",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'52초 전석 매진' 성리, 첫 팬미팅으로 증명한 압도적 티켓 파워",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BnViQGWIjR"
+        "title": "Benchmark initiates IonQ stock coverage with buy rating on quantum computing outlook",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/analyst-ratings/benchmark-initiates-ionq-stock-coverage-with-buy-rating-on-quantum-computing-outlook-93CH-4814625"
       }
     },
     {
-      "keyword": "ps",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "심장병",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "다우 존스 산업평균지수",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "First PS Plus Essential Game for August 2026 Already Confirmed",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/07/first-ps-plus-essential-game-for-august-2026-already-confirmed"
+        "title": "뉴욕증시, 유가 급락 속 혼조 마감…반도체주 하락(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260728054750680"
+      }
+    },
+    {
+      "keyword": "schd",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Here’s Why SCHD is Beating the S&P 500 in 2026 YTD",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-schd-beating-p-500-220743617.html"
+      }
+    },
+    {
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'베트남 마법사' 김상식 감독의 질주는 또 시작됐다...현대컵 첫 경기에서 동티모르 7-0 대파",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Hj3fgmwaCy"
+      }
+    },
+    {
+      "keyword": "nvda",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-drops-nearly-5-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html"
       }
     }
   ]
