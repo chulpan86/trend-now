@@ -1992,5 +1992,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T04:12:18.142320+09:00",
+    "label": "04:12",
+    "items": [
+      {
+        "keyword": "은행",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "기업은행 2분기 순이익 6천895억원…전년 대비 0.7%↓(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727134651527"
+        }
+      },
+      {
+        "keyword": "elle",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Ces parfums format voyage méritent une place dans votre valise d'été",
+          "source": "ELLE",
+          "url": "https://www.elle.fr/Beaute/Parfums/Tendances/Ces-parfums-format-voyage-meritent-une-place-dans-votre-valise-d-ete"
+        }
+      },
+      {
+        "keyword": "국가기술자격",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국가기술자격 시험서 문제 사전공개 사고…응시생 57명 재시험",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727214853099"
+        }
+      },
+      {
+        "keyword": "klasemen timnas indonesia vs tim nasional sepak bola kamboja",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Seperti Enrique, John Herdman Pantau Pemain dari Tribun di Piala AFF",
+          "source": "CNN Indonesia",
+          "url": "https://www.cnnindonesia.com/olahraga/20260727215646-142-1385520/seperti-enrique-john-herdman-pantau-pemain-dari-tribun-di-piala-aff"
+        }
+      },
+      {
+        "keyword": "한진칼",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "호반 맹공에 배수진 친 한진…한진칼 경영권 분쟁 ‘시계제로’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727165336835?f=p"
+        }
+      },
+      {
+        "keyword": "중국 duv",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[미국 특징주] ASML, 중국發 경쟁 위협 보도에 7%대 급락",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260727001367"
+        }
+      },
+      {
+        "keyword": "duv",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "China Begins Mass Production of Homegrown DUV Chip Tools",
+          "source": "The Information",
+          "url": "https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry"
+        }
+      },
+      {
+        "keyword": "성리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'52초 전석 매진' 성리, 첫 팬미팅으로 증명한 압도적 티켓 파워",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BnViQGWIjR"
+        }
+      },
+      {
+        "keyword": "ps",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "First PS Plus Essential Game for August 2026 Already Confirmed",
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/07/first-ps-plus-essential-game-for-august-2026-already-confirmed"
+        }
+      },
+      {
+        "keyword": "정선희",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'짠한형' 정선희 \"신동엽 어색…친오빠 클럽서 본 느낌\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727200240349"
+        }
+      }
+    ]
   }
 ]
