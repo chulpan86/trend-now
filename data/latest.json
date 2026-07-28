@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-29T04:06:58.249783+09:00",
-  "label": "04:06",
+  "timestamp": "2026-07-29T05:58:33.985288+09:00",
+  "label": "05:58",
   "items": [
     {
-      "keyword": "열대야",
+      "keyword": "중위소득",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "내년 기준 중위소득 역대 최대 6.7% 인상…'K자형 양극화' 대응",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968956"
+      }
+    },
+    {
+      "keyword": "홍명보",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[날씨] 찜통더위 기승, 전국 열대야…경남 체감 38℃ 폭염",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728234531966"
+        "title": "\"홍명보, 자택 인근서 법인카드 1400만원 결제... 소명서 미제출\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/politics_general/2026/07/28/ZV6ADUSZARBA3EBCEV66QCHTJQ/"
       }
     },
     {
-      "keyword": "어 도어",
+      "keyword": "대통령",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "어도어, 하니 비자정보 유출 혐의로 피고발…\"불법체류자 낙인\"",
+        "title": "7월 27일 (월) 브라질 브라질리아 현장 📸 | 카드뉴스 | 뉴스룸",
+        "source": "대한민국 청와대",
+        "url": "https://www.president.go.kr/card-news/jCdoWAqC"
+      }
+    },
+    {
+      "keyword": "아틀레티코 마드리드",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "이강인, AT 마드리드 합류시기는?…\"병무청 승인에 달렸다\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260728140600004"
+        "url": "https://www.yna.co.kr/view/AKR20260728046400007"
       }
     },
     {
-      "keyword": "롤",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "애스턴 빌라 대 레알 소시에다드",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "DK·BNK, KeSPA컵 예선 탈락",
+        "title": "아스톤 빌라 대 레알 소시에다드: 우나이 에메리 감독의 임시방편으로 구성된 스쿼드를 시험하는 월솔 원정 경기.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/aston-villa-gap-real-sociedad-bai-kiem-tra-doi-hinh-chap-va-cua-unai-emery-tai-walsall"
+      }
+    },
+    {
+      "keyword": "sk그룹",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대체불가 대한민국, 대도약 위한 글로벌 AI투자 이니셔티브 - 전체 | 카드/한컷 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148968913&pWise=sub&pWiseSub=C1"
+      }
+    },
+    {
+      "keyword": "바가지요금",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "숙박업소 걸리면 바로 문 닫고, 택시는 자격정지 30일···“휴가철 ‘바가지’ 이젠 안 봐줘”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607281414001"
+      }
+    },
+    {
+      "keyword": "로베르토 데 제르비",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "토트넘 감독 작심 발언...\"팀을 자랑스럽게 생각하지 않는다면 떠나라\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727222537444"
+        "url": "https://v.daum.net/v/20260727191149508"
       }
     },
     {
-      "keyword": "리그오브레전드",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[오피셜] 'LS' 닉 드 체사레, T1 리프트바운드 선수로 입단",
-        "source": "인벤",
-        "url": "https://www.inven.co.kr/webzine/news/?news=318924"
-      }
-    },
-    {
-      "keyword": "롤렉스",
+      "keyword": "황재균",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12310459"
+        "title": "장발에 너무 야윈 황재균 \"난 추노…머리 계속 기른다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260728_0003726902"
       }
     },
     {
-      "keyword": "싸이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'싸이 흠뻑쇼' 여학생 \"저 연습생 아닙니다\" 직접 입 열었다[스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/2FbSaCOclu"
-      }
-    },
-    {
-      "keyword": "기아 셀토스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“넓어진 공간과 첨단 기능… 패밀리카로 진화”",
-        "source": "미주한국일보",
-        "url": "http://www.koreatimes.com/article/20260726/1623015"
-      }
-    },
-    {
-      "keyword": "샌디스크 주가",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "SanDisk 주가, 오늘 왜 하락할까?",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2031521"
-      }
-    },
-    {
-      "keyword": "레알마드리드",
+      "keyword": "종합격투기",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"2부 뛰던 애한테 1951억이라고?\" PSG, 디오망데 영입전 전격 철수.. 레알의 과도한 머니게임 대놓고 비판",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728092009555"
-      }
-    },
-    {
-      "keyword": "요시다 슈헤이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "요시다 슈헤이가 ‘블러드본 PC판 미출시'에 대해 언급했다",
-        "source": "게임메카",
-        "url": "https://www.gamemeca.com/view.php?gid=1778379"
+        "title": "종합격투기 블랙컴뱃 잠실학생체육관대회 계체 결과",
+        "source": "매일경제TV",
+        "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886949"
       }
     }
   ]
