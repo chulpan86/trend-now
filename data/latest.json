@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-29T02:18:27.654886+09:00",
-  "label": "02:18",
+  "timestamp": "2026-07-29T04:06:58.249783+09:00",
+  "label": "04:06",
   "items": [
     {
-      "keyword": "유해란",
+      "keyword": "열대야",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "유해란, 메이저 대회 3연승 이룰까…AIG 여자오픈 30일 개막",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260728110200007"
+        "title": "[날씨] 찜통더위 기승, 전국 열대야…경남 체감 38℃ 폭염",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260728234531966"
       }
     },
     {
@@ -27,9 +27,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "롤 'KeSPA컵' 예선서 T1ㆍNS 결선 진출",
-        "source": "더게임스",
-        "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406021"
+        "title": "DK·BNK, KeSPA컵 예선 탈락",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727222537444"
       }
     },
     {
@@ -37,19 +37,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "T1 홈그라운드, LCK 경기 홈 좌석 전석 매진…8월 DK·젠지 빅매치 예고",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728105653506"
+        "title": "[오피셜] 'LS' 닉 드 체사레, T1 리프트바운드 선수로 입단",
+        "source": "인벤",
+        "url": "https://www.inven.co.kr/webzine/news/?news=318924"
       }
     },
     {
-      "keyword": "문희준",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "롤렉스",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "굶지 않는 '장원영 다이어트'…문희준, 19㎏ 감량 도전장",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260728_0003726225"
+        "title": "‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12310459"
       }
     },
     {
@@ -57,9 +57,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "싸이도 즉석 캐스팅 제안…'1200만뷰' 주인공, 정체 직접 밝혔다",
+        "title": "'싸이 흠뻑쇼' 여학생 \"저 연습생 아닙니다\" 직접 입 열었다[스타이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260728152052849"
+        "url": "https://v.daum.net/v/2FbSaCOclu"
+      }
+    },
+    {
+      "keyword": "기아 셀토스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“넓어진 공간과 첨단 기능… 패밀리카로 진화”",
+        "source": "미주한국일보",
+        "url": "http://www.koreatimes.com/article/20260726/1623015"
       }
     },
     {
@@ -73,33 +83,23 @@
       }
     },
     {
-      "keyword": "최권",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘김수현 절친’ 최권, 부친상 비보…슬픔 속 빈소 지키며 조문객 맞이 [단독]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728133508825"
-      }
-    },
-    {
-      "keyword": "마이크론",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "뉴욕증시, 유가 급락 속 혼조 마감…반도체주 하락(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260728006251072"
-      }
-    },
-    {
-      "keyword": "기아 셀토스",
+      "keyword": "레알마드리드",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[2027 올 뉴 셀토스 시승기] 더 커지고 조용해진 기아 콤팩트 SUV",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20260726200113878"
+        "title": "\"2부 뛰던 애한테 1951억이라고?\" PSG, 디오망데 영입전 전격 철수.. 레알의 과도한 머니게임 대놓고 비판",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260728092009555"
+      }
+    },
+    {
+      "keyword": "요시다 슈헤이",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "요시다 슈헤이가 ‘블러드본 PC판 미출시'에 대해 언급했다",
+        "source": "게임메카",
+        "url": "https://www.gamemeca.com/view.php?gid=1778379"
       }
     }
   ]
