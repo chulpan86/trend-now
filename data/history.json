@@ -1788,5 +1788,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-29T08:50:57.287455+09:00",
+    "label": "08:50",
+    "items": [
+      {
+        "keyword": "노동자",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "李 대통령 \"취임 후 해외 순방 많이 다니는 편…경제협력 등에 큰 도움\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729080050593"
+        }
+      },
+      {
+        "keyword": "환율",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "외국인 5조 순매도에도 하이닉스 ADR 효과…환율 소폭 하락",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260728125200002"
+        }
+      },
+      {
+        "keyword": "msft",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Microsoft to report Q4 earnings as investors look for return on AI investments",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html"
+        }
+      },
+      {
+        "keyword": "오마이뉴스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "가족 여행 중 발견한 봉투, 머릿속이 하얘졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728165250334"
+        }
+      },
+      {
+        "keyword": "배종옥",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "배종옥, 과거 싱글맘 심경 고백 “홀가분했다…재혼 생각 없어”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12109873"
+        }
+      },
+      {
+        "keyword": "메이저 리그 사커",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'생애 첫 올스타' 손흥민‥뮐러도 \"손흥민과 뛰고 싶어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728210710985"
+        }
+      },
+      {
+        "keyword": "물",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"청계천에 발 담그고 피서\"…서울시 '물 첨벙첨벙' 행사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729060217375"
+        }
+      },
+      {
+        "keyword": "aston villa vs real sociedad",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Aston Villa Team News vs Real Sociedad: Kamara, Garnacho, Abraham",
+          "source": "The Sports Bank",
+          "url": "https://www.thesportsbank.net/football/aston-villa/kamara-garnacho-abraham/"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "IonQ Receives Regulatory Approval for SkyWater Acquisition",
+          "source": "IonQ",
+          "url": "https://www.ionq.com/news/ionq-receives-regulatory-approval-to-complete-acquisition-of-skywater-technology"
+        }
+      },
+      {
+        "keyword": "voo",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Cinco pilotos e seis turnos: veja como a Airbus realizou o histórico voo ininterrupto de 24 horas",
+          "source": "AEROIN",
+          "url": "https://aeroin.net/cinco-pilotos-e-seis-turnos-veja-como-a-airbus-realizou-o-historico-voo-ininterrupto-de-24-horas/"
+        }
+      }
+    ]
   }
 ]
