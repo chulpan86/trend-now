@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-07-28T08:54:58.471959+09:00",
-  "label": "08:54",
+  "timestamp": "2026-07-28T10:40:54.887696+09:00",
+  "label": "10:40",
   "items": [
     {
-      "keyword": "임우일",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "반도체",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'치과의사 재혼설 부인' 지연수, 1살 연하 개그맨과 '깜짝' 소개팅",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/4ptnEKB3CM"
+        "title": "[속보]코스피, 8% 폭락에 서킷브레이커…올 들어 8번째",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607281019001"
       }
     },
     {
-      "keyword": "양도소득세",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "양도",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "[단독] 양도세 실거주 공제 10억대로 제한",
         "source": "조선일보",
@@ -23,79 +23,83 @@
       }
     },
     {
-      "keyword": "노르웨이",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "United States, Norway Complete North Atlantic Interoperability Exercise",
-        "source": "Marine News Magazine",
-        "url": "https://www.marinelink.com/news/united-states-norway-complete-north-541555"
-      }
-    },
-    {
-      "keyword": "아이폰",
+      "keyword": "찰리 반즈",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "5000mAh 품은 갤Z8…사용시간 26%↑ 배터리수명 40%↓",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728063146648"
+        "title": "Barnes Rejects Samsung, Shines in MLB Return with Dodgers",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/07/28/VHC2PKHF2JA2BGBPUDERRW6WFE/"
       }
     },
     {
-      "keyword": "아스널 fc",
+      "keyword": "하이닉스 실적발표",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"SK하이닉스, 배당 확대 가능성 극도로 높아졌다\" 메리츠證",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260728060108886"
+      }
+    },
+    {
+      "keyword": "신발",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'비매너 뭇매' 손담비 \"적당히 하시길\"…호텔 객실 안 신발 직접 해명 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072717550562075"
+      }
+    },
+    {
+      "keyword": "구희아",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "HERE WE GO 컨펌! 맨유 떠난 뒤 저니맨 신세하다 브라이튼서 재능 꽃핀 웰백, 첼시행 급부상",
+        "title": "구희아 \"가정폭력 휘두르던 아버지, 축의금도 가로채…결국 절연\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072709491593704"
+      }
+    },
+    {
+      "keyword": "fomc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "EUR/USD, GBP/USD Outlook: Same Sunday TACO, Same Monday Reaction",
+        "source": "FOREX.com",
+        "url": "https://www.forex.com/en-us/news-and-analysis/eur-usd-gbp-usd-outlook-same-sunday-taco-same-monday-reaction/"
+      }
+    },
+    {
+      "keyword": "충청투데이",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] 대전 2곳·세종 5곳·충북 6곳…CTX 정차역 밑그림 나왔다",
+        "source": "충청투데이",
+        "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233892"
+      }
+    },
+    {
+      "keyword": "orca",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Watch: Orcas ram into fish so hard they explode",
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/videos/c0l5z9p1nwgo"
+      }
+    },
+    {
+      "keyword": "원격",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[모빌리티 NOW] 자율주행보다 먼저 온 '원격 운전기사'",
         "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260727n33495"
-      }
-    },
-    {
-      "keyword": "워싱턴 내셔널스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "열린음악회",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'열린음악회' 진짜 활짝 열렸다…조혜련 출격, 수준 미달 '아나까나' 품었다 [엑's 이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727140110601"
-      }
-    },
-    {
-      "keyword": "pltr",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Palantir shares may move 9.6% on Aug. 3 earnings report",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/palantir-shares-may-move-96-on-aug-3-earnings-report-93CH-4814665"
-      }
-    },
-    {
-      "keyword": "의과대학",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "의대 설립 전제, 전남광주 초광역의료벨트 '현실성 있나'(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260727193255873"
-      }
-    },
-    {
-      "keyword": "한국지엠",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“믿고 싶다, 믿게 해달라” 한국지엠 노조, 정부에 미래를 당부한 이유…국회서 토론회 개최",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370706"
+        "url": "https://news.nate.com/view/20260728n04263"
       }
     }
   ]
