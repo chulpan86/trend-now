@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-07-28T02:29:27.244935+09:00",
-    "label": "02:29",
-    "items": [
-      {
-        "keyword": "사랑이 온다",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'사랑이 온다' 하석진·안희연, 애틋한 포옹…시청률 13% 기록",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727093650524?f=p"
-        }
-      },
-      {
-        "keyword": "은행",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "기업은행 2분기 순이익 6천895억원…전년 대비 0.7%↓(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727134651527"
-        }
-      },
-      {
-        "keyword": "elle",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"Elle m’a mis le pied à l’étrier pour pratiquer le sport de haut niveau.\" L’Alésienne Ghislène Gervais Mares, basketteuse internationale, est morte à l’âge de 89 ans",
-          "source": "Midi Libre",
-          "url": "https://www.midilibre.fr/2026/07/27/elle-ma-mis-le-pied-a-letrier-pour-pratiquer-le-sport-de-haut-niveau-lalesienne-ghislene-gervais-mares-basketteuse-internationale-est-morte-a-lage-de-13486071.php"
-        }
-      },
-      {
-        "keyword": "국가기술자격",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "국가기술자격 시험 문제 유출로 재시험",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/labor/2026/07/27/TOALS5XLWRANLD6GZIYM2GRUDE/"
-        }
-      },
-      {
-        "keyword": "외환시장",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "엔화 추락·원화 강세…뚜렷해진 디커플링",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026072666311"
-        }
-      },
-      {
-        "keyword": "중국 duv",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[미국 특징주] ASML, 중국發 경쟁 위협 보도에 7%대 급락",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260727001367"
-        }
-      },
-      {
-        "keyword": "duv",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "China Starts Mass-Producing Homegrown DUV Chipmaking Tools, An Advance for Local Chip Industry",
-          "source": "The Information",
-          "url": "https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry"
-        }
-      },
-      {
-        "keyword": "한진칼",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "호반 맹공에 배수진 친 한진…한진칼 경영권 분쟁 ‘시계제로’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727165336835"
-        }
-      },
-      {
-        "keyword": "고준희",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'아근진' 강남 \"다시 태어나도 이상화 만난 정글은 안 가\"…무슨 일?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202607271553023770"
-        }
-      },
-      {
-        "keyword": "정선희",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "정선희 \"아버지 빚 10년 넘게 갚아…항상 빚에 쪼들려\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260727_0003725491"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-28T04:12:18.142320+09:00",
-    "label": "04:12",
-    "items": [
-      {
-        "keyword": "은행",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "기업은행 2분기 순이익 6천895억원…전년 대비 0.7%↓(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727134651527"
-        }
-      },
-      {
-        "keyword": "elle",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Ces parfums format voyage méritent une place dans votre valise d'été",
-          "source": "ELLE",
-          "url": "https://www.elle.fr/Beaute/Parfums/Tendances/Ces-parfums-format-voyage-meritent-une-place-dans-votre-valise-d-ete"
-        }
-      },
-      {
-        "keyword": "국가기술자격",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "국가기술자격 시험서 문제 사전공개 사고…응시생 57명 재시험",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727214853099"
-        }
-      },
-      {
-        "keyword": "klasemen timnas indonesia vs tim nasional sepak bola kamboja",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Seperti Enrique, John Herdman Pantau Pemain dari Tribun di Piala AFF",
-          "source": "CNN Indonesia",
-          "url": "https://www.cnnindonesia.com/olahraga/20260727215646-142-1385520/seperti-enrique-john-herdman-pantau-pemain-dari-tribun-di-piala-aff"
-        }
-      },
-      {
-        "keyword": "한진칼",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "호반 맹공에 배수진 친 한진…한진칼 경영권 분쟁 ‘시계제로’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727165336835?f=p"
-        }
-      },
-      {
-        "keyword": "중국 duv",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[미국 특징주] ASML, 중국發 경쟁 위협 보도에 7%대 급락",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260727001367"
-        }
-      },
-      {
-        "keyword": "duv",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "China Begins Mass Production of Homegrown DUV Chip Tools",
-          "source": "The Information",
-          "url": "https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry"
-        }
-      },
-      {
-        "keyword": "성리",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'52초 전석 매진' 성리, 첫 팬미팅으로 증명한 압도적 티켓 파워",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BnViQGWIjR"
-        }
-      },
-      {
-        "keyword": "ps",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "First PS Plus Essential Game for August 2026 Already Confirmed",
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/07/first-ps-plus-essential-game-for-august-2026-already-confirmed"
-        }
-      },
-      {
-        "keyword": "정선희",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'짠한형' 정선희 \"신동엽 어색…친오빠 클럽서 본 느낌\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727200240349"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-28T06:02:01.326829+09:00",
     "label": "06:02",
     "items": [
@@ -1887,6 +1675,112 @@
           "title": "도로교통공단, 제22회 도로교통사고감정사 자격시험 응시자 모집",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260729087500062"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-29T16:44:37.569035+09:00",
+    "label": "16:44",
+    "items": [
+      {
+        "keyword": "코스피 하락 이유",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "코스피, 코스닥 이어 서킷브레이커 발동‥사상 처음 이틀 연속 걸려",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6840904_36932.html"
+        }
+      },
+      {
+        "keyword": "레버리지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "단일종목 레버리지 '금융위·금감원발 人災' 지적에 금융당국 두 수장 \"책임통감\"... 전문투자자로 제한도 검토",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/07/29/RHTIMCZ5VNEPTPRMRXV7BGFSXY/"
+        }
+      },
+      {
+        "keyword": "정유라",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "정유라 \"엄마, 대화도 안 될 정도로 위중…병원비 감당 못 해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003728233"
+        }
+      },
+      {
+        "keyword": "계엄",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 비상계엄 연루됐다고 불명예 전역 당했는데 특검은 “무혐의” 결론",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729050148228"
+        }
+      },
+      {
+        "keyword": "남궁민",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'결혼의 완성' 남궁민, 싸늘한 시신 목격 후..처참한 만신창이 몰골",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729083453524"
+        }
+      },
+      {
+        "keyword": "전승재",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'고려거란전쟁' 촬영 중 뇌출혈 전승재, 2년 의식불명 끝 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729141738057"
+        }
+      },
+      {
+        "keyword": "주가순자산비율",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "드디어 나온 ‘저PBR 제재’…상승 가능성 높은 톱10 종목 꼽아보니",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607292050i"
+        }
+      },
+      {
+        "keyword": "조복래",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'김부장' 금이빨 떠난다..조복래, 7년 동행 마침표 'BH엔터와 결별' [공식]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729091937085"
+        }
+      },
+      {
+        "keyword": "신현송",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘삼전닉스’ 주가 급락에도…한은 “반도체 실적이 추가 하락 막을 것”",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030176706"
+        }
+      },
+      {
+        "keyword": "이억원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'김용범 호통설' 등장…금융위원장은 머리 숙였다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729161205150"
         }
       }
     ]

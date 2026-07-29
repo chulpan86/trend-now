@@ -1,97 +1,105 @@
 {
-  "timestamp": "2026-07-29T13:59:36.664165+09:00",
-  "label": "13:59",
+  "timestamp": "2026-07-29T16:44:37.569035+09:00",
+  "label": "16:44",
   "items": [
     {
-      "keyword": "에어컨",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "코스피 하락 이유",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "에어컨 빵빵한 한국, 이유 있었네...일본의 '반값'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260729065551400"
+        "title": "코스피, 코스닥 이어 서킷브레이커 발동‥사상 처음 이틀 연속 걸려",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6840904_36932.html"
       }
     },
     {
-      "keyword": "권순우",
+      "keyword": "레버리지",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "단일종목 레버리지 '금융위·금감원발 人災' 지적에 금융당국 두 수장 \"책임통감\"... 전문투자자로 제한도 검토",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/07/29/RHTIMCZ5VNEPTPRMRXV7BGFSXY/"
+      }
+    },
+    {
+      "keyword": "정유라",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "정유라 \"엄마, 대화도 안 될 정도로 위중…병원비 감당 못 해\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260729_0003728233"
+      }
+    },
+    {
+      "keyword": "계엄",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "권순우 1회전 상대는 아르튀르 헤아, 29일 오전 예상 [미펠테니스오픈]",
+        "title": "[단독] 비상계엄 연루됐다고 불명예 전역 당했는데 특검은 “무혐의” 결론",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260728053937646"
+        "url": "https://v.daum.net/v/20260729050148228"
       }
     },
     {
-      "keyword": "셰프",
+      "keyword": "남궁민",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "조서형 셰프 \"협박과 성희롱 있었다\"…전 직원 문제로 법적 대응",
+        "title": "'결혼의 완성' 남궁민, 싸늘한 시신 목격 후..처참한 만신창이 몰골",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260729081908103"
+        "url": "https://v.daum.net/v/20260729083453524"
       }
     },
     {
-      "keyword": "삼전 주가",
+      "keyword": "전승재",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“삼전닉스 레버리지, 주가 돌아와도 최대 75% 손실”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8622949"
-      }
-    },
-    {
-      "keyword": "cgv",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "암벽등반",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "빅베어 암벽등반 중 추락...30대 남성 숨져",
-        "source": "RadioKorea",
-        "url": "https://www.radiokorea.com/news/article.php?uid=500289"
-      }
-    },
-    {
-      "keyword": "고양시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "고양시, 일산테크노밸리 기업유치 총력…맞춤형 세일즈 돌입",
+        "title": "'고려거란전쟁' 촬영 중 뇌출혈 전승재, 2년 의식불명 끝 사망",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260729130339447"
+        "url": "https://v.daum.net/v/20260729141738057"
       }
     },
     {
-      "keyword": "도루",
+      "keyword": "주가순자산비율",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한화 2군에 3할6푼 때리는 도루 괴물이 있다…어떻게 이런 선수가 육성선수로 들어온 걸까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728025707500?f=p"
+        "title": "드디어 나온 ‘저PBR 제재’…상승 가능성 높은 톱10 종목 꼽아보니",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607292050i"
       }
     },
     {
-      "keyword": "롯데손해보험",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
+      "keyword": "조복래",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'김부장' 금이빨 떠난다..조복래, 7년 동행 마침표 'BH엔터와 결별' [공식]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260729091937085"
+      }
     },
     {
-      "keyword": "교통 사고",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "신현송",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "도로교통공단, 제22회 도로교통사고감정사 자격시험 응시자 모집",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260729087500062"
+        "title": "‘삼전닉스’ 주가 급락에도…한은 “반도체 실적이 추가 하락 막을 것”",
+        "source": "국민일보",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030176706"
+      }
+    },
+    {
+      "keyword": "이억원",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'김용범 호통설' 등장…금융위원장은 머리 숙였다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260729161205150"
       }
     }
   ]
