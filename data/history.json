@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-07-28T07:51:39.960418+09:00",
-    "label": "07:51",
-    "items": [
-      {
-        "keyword": "약사",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "편의점에서 인공눈물까지…상비약 확대 조짐에 약사들 발칵",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727181308185"
-        }
-      },
-      {
-        "keyword": "종합부동산세",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "부동산 세제개편 밑그림 나왔다…'1주택 보호·초고가 조정' 무게",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728050320260"
-        }
-      },
-      {
-        "keyword": "전현무",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "전현무, 멕시코서 손흥민 흔적 찾았다 \"가족들도 찾은 한식 맛집\" ('사당귀')[순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WgPUHRx2lK"
-        }
-      },
-      {
-        "keyword": "스포 티비 뉴스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'비매너 뭇매' 손담비 \"적당히 하시길\"…호텔 객실 안 신발 직접 해명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072717550562075"
-        }
-      },
-      {
-        "keyword": "ionq",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Benchmark initiates IonQ stock coverage with buy rating on quantum computing outlook",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/analyst-ratings/benchmark-initiates-ionq-stock-coverage-with-buy-rating-on-quantum-computing-outlook-93CH-4814625"
-        }
-      },
-      {
-        "keyword": "심장병",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "다우 존스 산업평균지수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "뉴욕증시, 유가 급락 속 혼조 마감…반도체주 하락(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728054750680"
-        }
-      },
-      {
-        "keyword": "schd",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Here’s Why SCHD is Beating the S&P 500 in 2026 YTD",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-schd-beating-p-500-220743617.html"
-        }
-      },
-      {
-        "keyword": "베트남 축구 국가대표팀",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'베트남 마법사' 김상식 감독의 질주는 또 시작됐다...현대컵 첫 경기에서 동티모르 7-0 대파",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Hj3fgmwaCy"
-        }
-      },
-      {
-        "keyword": "nvda",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-drops-nearly-5-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-28T08:54:58.471959+09:00",
-    "label": "08:54",
-    "items": [
-      {
-        "keyword": "임우일",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'치과의사 재혼설 부인' 지연수, 1살 연하 개그맨과 '깜짝' 소개팅",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4ptnEKB3CM"
-        }
-      },
-      {
-        "keyword": "양도소득세",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 양도세 실거주 공제 10억대로 제한",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/28/Z5TXDYDB5JAPNEXLB67NZR2WPQ/"
-        }
-      },
-      {
-        "keyword": "노르웨이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "United States, Norway Complete North Atlantic Interoperability Exercise",
-          "source": "Marine News Magazine",
-          "url": "https://www.marinelink.com/news/united-states-norway-complete-north-541555"
-        }
-      },
-      {
-        "keyword": "아이폰",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "5000mAh 품은 갤Z8…사용시간 26%↑ 배터리수명 40%↓",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728063146648"
-        }
-      },
-      {
-        "keyword": "아스널 fc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "HERE WE GO 컨펌! 맨유 떠난 뒤 저니맨 신세하다 브라이튼서 재능 꽃핀 웰백, 첼시행 급부상",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260727n33495"
-        }
-      },
-      {
-        "keyword": "워싱턴 내셔널스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "열린음악회",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'열린음악회' 진짜 활짝 열렸다…조혜련 출격, 수준 미달 '아나까나' 품었다 [엑's 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727140110601"
-        }
-      },
-      {
-        "keyword": "pltr",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Palantir shares may move 9.6% on Aug. 3 earnings report",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/palantir-shares-may-move-96-on-aug-3-earnings-report-93CH-4814665"
-        }
-      },
-      {
-        "keyword": "의과대학",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "의대 설립 전제, 전남광주 초광역의료벨트 '현실성 있나'(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727193255873"
-        }
-      },
-      {
-        "keyword": "한국지엠",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“믿고 싶다, 믿게 해달라” 한국지엠 노조, 정부에 미래를 당부한 이유…국회서 토론회 개최",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370706"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-28T10:40:54.887696+09:00",
     "label": "10:40",
     "items": [
@@ -1781,6 +1577,112 @@
           "title": "거래 마를수록 커지는 업비트…빗썸은 ‘고립무원’",
           "source": "데일리안",
           "url": "https://www.dailian.co.kr/news/view/1671760/%EA%B1%B0%EB%9E%98-%EB%A7%88%EB%A5%BC%EC%88%98%EB%A1%9D-%EC%BB%A4%EC%A7%80%EB%8A%94-%EC%97%85%EB%B9%84%ED%8A%B8%EB%B9%97%EC%8D%B8-%E2%80%98%EA%B3%A0-2026"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-29T21:55:26.246755+09:00",
+    "label": "21:55",
+    "items": [
+      {
+        "keyword": "어머니",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "'슈돌' 한다감, 육아 15분만에 진땀…\"촬영보다 힘들어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729210550997"
+        }
+      },
+      {
+        "keyword": "보이콧",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“음악을 지역·언어로 구분 말아야”…BTS, 내년 그래미상 출품 거부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729211127143"
+        }
+      },
+      {
+        "keyword": "제주 대 화성",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "18경기 무승 늪 … 광주FC, 코리아컵서 ‘반등의 슛’ 쏜다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728220435038"
+        }
+      },
+      {
+        "keyword": "수의사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729122553559"
+        }
+      },
+      {
+        "keyword": "코리아컵",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "체면 구긴 K리그1 강호들…서울·울산 나란히 코리아컵 탈락",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729180900007"
+        }
+      },
+      {
+        "keyword": "윤경호",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727101600005"
+        }
+      },
+      {
+        "keyword": "파키스탄",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Pakistan accused of fatally shooting 30 unarmed protesters in Kashmir",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/28/pakistan-accused-firing-unarmed-protesters-kashmir-killings"
+        }
+      },
+      {
+        "keyword": "spurs vs sydney fc",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt"
+        }
+      },
+      {
+        "keyword": "킥보드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "킥보드 타고 행인에 침 뱉고 욕설한 중학생들…한 명은 ‘촉법소년’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729103740376"
+        }
+      },
+      {
+        "keyword": "돈선태",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/29/GM4WEMJZGMZGKODDMU3TEN3EGU/"
         }
       }
     ]
