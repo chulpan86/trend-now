@@ -1,25 +1,15 @@
 {
-  "timestamp": "2026-07-30T00:04:47.679755+09:00",
-  "label": "00:04",
+  "timestamp": "2026-07-30T02:03:58.490311+09:00",
+  "label": "02:03",
   "items": [
     {
-      "keyword": "잠수함",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "임금",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260729121900504"
-      }
-    },
-    {
-      "keyword": "수의사",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다",
+        "title": "\"월 200 남는데…\" 최저임금 이어 새벽배송까지 '사면초가' 소상공인",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260729122553559"
+        "url": "https://v.daum.net/v/20260728154940429?f=p"
       }
     },
     {
@@ -27,49 +17,29 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘김건희 주가 조작 부인’ 윤석열 송치",
+        "title": "\"집사람은 손해\" 송치‥'尹 유죄' 판결에 탄력",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260729122540552"
+        "url": "https://v.daum.net/v/20260730010711850"
       }
     },
     {
-      "keyword": "임금",
+      "keyword": "글렌 한사드",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "카카오 노사, 임금 협상 잠정 합의...\"최종 타결시 내용 공개\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260729194410006"
-      }
-    },
-    {
-      "keyword": "원자력",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "한수원-영덕군, 신규원전 상생협약…지역발전 첫걸음",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370783"
-      }
-    },
-    {
-      "keyword": "spurs vs sydney fc",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt"
+        "title": "영화 ‘원스’ 주인공 글렌 핸사드, 오토바이 사고로 사망···향년 56세",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607292136001"
       }
     },
     {
       "keyword": "전북특별자치도지사",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607291900001"
+        "title": "이원택 전북지사 경찰 출석…허위사실 유포 혐의",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260730004212587"
       }
     },
     {
@@ -83,23 +53,53 @@
       }
     },
     {
-      "keyword": "키움",
+      "keyword": "노웨이홈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "양 팀 합계 40안타·29득점…키움, 난타전 끝에 LG에 승리",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260729186100007"
+        "title": "‘Spider-Man: Brand New Day’ Review: Can We Do Whatever a Spider Can?",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html"
       }
     },
     {
-      "keyword": "김태군",
+      "keyword": "차영현",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "홈런 선두 김도영, 31호 스리런 '쾅'…KIA, 삼성 잡고 4위 복귀",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260729183500007"
+        "title": "문보경 '6점차로 따라잡는 홈런'[포토]",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260729n36385"
+      }
+    },
+    {
+      "keyword": "glen hansard",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Oscar-winning musician and actor Glen Hansard dies in Dublin motorbike crash",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/culture/music/2026/07/29/glen-hansard-dies-in-dublin-motorbike-crash/"
+      }
+    },
+    {
+      "keyword": "sadie sink",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
+        "source": "Entertainment Weekly",
+        "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953"
+      }
+    },
+    {
+      "keyword": "donald trump",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "CNN Poll: Americans doubt Trump is paying enough attention to the country’s most important problems",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/29/politics/cnn-poll-donald-trump-midterms-polls-iran-war"
       }
     }
   ]
