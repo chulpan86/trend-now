@@ -1898,5 +1898,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T08:52:59.464633+09:00",
+    "label": "08:52",
+    "items": [
+      {
+        "keyword": "군인",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "속초해경, 비지정 해변 사고 막는다…인명구조요원 배치 추진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729175351899"
+        }
+      },
+      {
+        "keyword": "장민호",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "장민호·천록담·김용필·나태주, 9월 LA서 K-트로트 빅쇼 연다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728141136227?f=p"
+        }
+      },
+      {
+        "keyword": "재벌x형사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'재벌X형사2' 안보현, 철부지 교육생…정은채와 첫 만남",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bdCrTHYCAq"
+        }
+      },
+      {
+        "keyword": "이청아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'41세' 이청아, 여자의 나이는 와인···올 블랙 뼈마름 코디 눈길",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729205539736"
+        }
+      },
+      {
+        "keyword": "이윤진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이윤진, 이범수와 이혼 후 홀로 자는 새 침실 공개 “윤진스러운 분위기”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729074609241"
+        }
+      },
+      {
+        "keyword": "서울양양고속도로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서울양양고속도로 졸음쉼터 가드레일로 화물차 돌진‥\"졸음운전 가능성\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6841102_36918.html"
+        }
+      },
+      {
+        "keyword": "tqqq",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Daily ETF Flows: TQQQ Pulls In $368M",
+          "source": "ETF.com",
+          "url": "https://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tqqq-pulls-368m"
+        }
+      },
+      {
+        "keyword": "삼성전자 실적발표",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼성전자, 사상 최대 2Q 실적 발표…반도체 피크아웃 우려 종식 주목",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730063143931"
+        }
+      },
+      {
+        "keyword": "msft",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Microsoft jumps 7% as it boosts capital spending plans, citing demand",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html"
+        }
+      },
+      {
+        "keyword": "aapl",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Apple set for strongest June-quarter sales growth in 5 years",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-set-strongest-june-quarter-102841504.html"
+        }
+      }
+    ]
   }
 ]
