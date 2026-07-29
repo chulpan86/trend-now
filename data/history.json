@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-28T10:40:54.887696+09:00",
-    "label": "10:40",
-    "items": [
-      {
-        "keyword": "반도체",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[속보]코스피, 8% 폭락에 서킷브레이커…올 들어 8번째",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607281019001"
-        }
-      },
-      {
-        "keyword": "양도",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 양도세 실거주 공제 10억대로 제한",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/28/Z5TXDYDB5JAPNEXLB67NZR2WPQ/"
-        }
-      },
-      {
-        "keyword": "찰리 반즈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Barnes Rejects Samsung, Shines in MLB Return with Dodgers",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/28/VHC2PKHF2JA2BGBPUDERRW6WFE/"
-        }
-      },
-      {
-        "keyword": "하이닉스 실적발표",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"SK하이닉스, 배당 확대 가능성 극도로 높아졌다\" 메리츠證",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728060108886"
-        }
-      },
-      {
-        "keyword": "신발",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'비매너 뭇매' 손담비 \"적당히 하시길\"…호텔 객실 안 신발 직접 해명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072717550562075"
-        }
-      },
-      {
-        "keyword": "구희아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "구희아 \"가정폭력 휘두르던 아버지, 축의금도 가로채…결국 절연\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/27/2026072709491593704"
-        }
-      },
-      {
-        "keyword": "fomc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "EUR/USD, GBP/USD Outlook: Same Sunday TACO, Same Monday Reaction",
-          "source": "FOREX.com",
-          "url": "https://www.forex.com/en-us/news-and-analysis/eur-usd-gbp-usd-outlook-same-sunday-taco-same-monday-reaction/"
-        }
-      },
-      {
-        "keyword": "충청투데이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독] 대전 2곳·세종 5곳·충북 6곳…CTX 정차역 밑그림 나왔다",
-          "source": "충청투데이",
-          "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233892"
-        }
-      },
-      {
-        "keyword": "orca",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Watch: Orcas ram into fish so hard they explode",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/videos/c0l5z9p1nwgo"
-        }
-      },
-      {
-        "keyword": "원격",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[모빌리티 NOW] 자율주행보다 먼저 온 '원격 운전기사'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260728n04263"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-28T13:54:32.362393+09:00",
     "label": "13:54",
     "items": [
@@ -1683,6 +1577,112 @@
           "title": "또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/enter_general/2026/07/29/GM4WEMJZGMZGKODDMU3TEN3EGU/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-30T00:04:47.679755+09:00",
+    "label": "00:04",
+    "items": [
+      {
+        "keyword": "잠수함",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729121900504"
+        }
+      },
+      {
+        "keyword": "수의사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729122553559"
+        }
+      },
+      {
+        "keyword": "선거법",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘김건희 주가 조작 부인’ 윤석열 송치",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729122540552"
+        }
+      },
+      {
+        "keyword": "임금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "카카오 노사, 임금 협상 잠정 합의...\"최종 타결시 내용 공개\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729194410006"
+        }
+      },
+      {
+        "keyword": "원자력",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "한수원-영덕군, 신규원전 상생협약…지역발전 첫걸음",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370783"
+        }
+      },
+      {
+        "keyword": "spurs vs sydney fc",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt"
+        }
+      },
+      {
+        "keyword": "전북특별자치도지사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607291900001"
+        }
+      },
+      {
+        "keyword": "최정원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607290600091"
+        }
+      },
+      {
+        "keyword": "키움",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "양 팀 합계 40안타·29득점…키움, 난타전 끝에 LG에 승리",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729186100007"
+        }
+      },
+      {
+        "keyword": "김태군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "홈런 선두 김도영, 31호 스리런 '쾅'…KIA, 삼성 잡고 4위 복귀",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729183500007"
         }
       }
     ]

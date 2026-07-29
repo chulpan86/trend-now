@@ -1,35 +1,15 @@
 {
-  "timestamp": "2026-07-29T21:55:26.246755+09:00",
-  "label": "21:55",
+  "timestamp": "2026-07-30T00:04:47.679755+09:00",
+  "label": "00:04",
   "items": [
     {
-      "keyword": "어머니",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "'슈돌' 한다감, 육아 15분만에 진땀…\"촬영보다 힘들어\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260729210550997"
-      }
-    },
-    {
-      "keyword": "보이콧",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "“음악을 지역·언어로 구분 말아야”…BTS, 내년 그래미상 출품 거부",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260729211127143"
-      }
-    },
-    {
-      "keyword": "제주 대 화성",
+      "keyword": "잠수함",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "18경기 무승 늪 … 광주FC, 코리아컵서 ‘반등의 슛’ 쏜다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728220435038"
+        "title": "국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260729121900504"
       }
     },
     {
@@ -43,39 +23,39 @@
       }
     },
     {
-      "keyword": "코리아컵",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "체면 구긴 K리그1 강호들…서울·울산 나란히 코리아컵 탈락",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260729180900007"
-      }
-    },
-    {
-      "keyword": "윤경호",
+      "keyword": "선거법",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260727101600005"
+        "title": "‘김건희 주가 조작 부인’ 윤석열 송치",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260729122540552"
       }
     },
     {
-      "keyword": "파키스탄",
+      "keyword": "임금",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Pakistan accused of fatally shooting 30 unarmed protesters in Kashmir",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/28/pakistan-accused-firing-unarmed-protesters-kashmir-killings"
+        "title": "카카오 노사, 임금 협상 잠정 합의...\"최종 타결시 내용 공개\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260729194410006"
+      }
+    },
+    {
+      "keyword": "원자력",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "한수원-영덕군, 신규원전 상생협약…지역발전 첫걸음",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370783"
       }
     },
     {
       "keyword": "spurs vs sydney fc",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties",
         "source": "BBC",
@@ -83,23 +63,43 @@
       }
     },
     {
-      "keyword": "킥보드",
+      "keyword": "전북특별자치도지사",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "킥보드 타고 행인에 침 뱉고 욕설한 중학생들…한 명은 ‘촉법소년’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260729103740376"
+        "title": "이원택 전북지사 ‘김관영 내란 방조 의혹 제기’ 혐의 경찰 조사···피고발인 신분 출석",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607291900001"
       }
     },
     {
-      "keyword": "돈선태",
+      "keyword": "최정원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/enter_general/2026/07/29/GM4WEMJZGMZGKODDMU3TEN3EGU/"
+        "title": "[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607290600091"
+      }
+    },
+    {
+      "keyword": "키움",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "양 팀 합계 40안타·29득점…키움, 난타전 끝에 LG에 승리",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260729186100007"
+      }
+    },
+    {
+      "keyword": "김태군",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "홈런 선두 김도영, 31호 스리런 '쾅'…KIA, 삼성 잡고 4위 복귀",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260729183500007"
       }
     }
   ]
