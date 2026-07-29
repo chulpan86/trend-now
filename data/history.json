@@ -1792,5 +1792,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T06:49:24.946625+09:00",
+    "label": "06:49",
+    "items": [
+      {
+        "keyword": "미군",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "트럼프 “이란 강하게 타격할 것”···요르단 미군 기지 기습 공격에 ‘격분’ 확전 예고",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607292247001"
+        }
+      },
+      {
+        "keyword": "농성",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "곽동윤 안양시의원, 의장 선출 파행에 ‘1인 무기한 단식농성’ 돌입",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260729580367"
+        }
+      },
+      {
+        "keyword": "이한 범",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"PL 클럽들이 원한다\" 김민재 이을 한국 '대형 수비수' 이한범, 빅리그 아닌 벨기에 향한다...\"클럽 브뤼헤 이적 유력\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729174137420?f=p"
+        }
+      },
+      {
+        "keyword": "금리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美연준 금리 동결 했지만 의견 갈렸다...3명 ‘인상’ 주장",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/07/30/PUZDYMI74FHWTHZBBD7UQROQ2M/"
+        }
+      },
+      {
+        "keyword": "stock market news today",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Dow dives, S&P 500 trades lower in volatile market following Fed decision: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html"
+        }
+      },
+      {
+        "keyword": "latest iphone rumors",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
+          "source": "9to5Mac",
+          "url": "https://9to5mac.com/2026/07/29/iphone-18-pro-vs-iphone-ultra-here-are-biggest-differences/"
+        }
+      },
+      {
+        "keyword": "what is a data breach",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Download the Cost of a Data Breach Report 2026",
+          "source": "IBM",
+          "url": "https://www.ibm.com/forms/mkt-whitepaper-90d12"
+        }
+      },
+      {
+        "keyword": "best shows on hbo max",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Ted Lasso to The Shards: 10 of the best TV shows to watch this August",
+          "source": "BBC",
+          "url": "https://www.bbc.com/culture/article/20260727-10-of-the-best-tv-shows-to-watch-this-august"
+        }
+      },
+      {
+        "keyword": "지네딘 지단",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘아트 사커’ 지단, 佛대표팀 사령탑 맡았다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tNrmS9b07h"
+        }
+      },
+      {
+        "keyword": "한국농어촌공사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "거창군수 가뭄피해 우려지역 현장방문 점검",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20260729006100353"
+        }
+      }
+    ]
   }
 ]
