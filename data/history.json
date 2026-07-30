@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29T13:59:36.664165+09:00",
-    "label": "13:59",
-    "items": [
-      {
-        "keyword": "에어컨",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "에어컨 빵빵한 한국, 이유 있었네...일본의 '반값'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729065551400"
-        }
-      },
-      {
-        "keyword": "권순우",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "권순우 1회전 상대는 아르튀르 헤아, 29일 오전 예상 [미펠테니스오픈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728053937646"
-        }
-      },
-      {
-        "keyword": "셰프",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "조서형 셰프 \"협박과 성희롱 있었다\"…전 직원 문제로 법적 대응",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729081908103"
-        }
-      },
-      {
-        "keyword": "삼전 주가",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“삼전닉스 레버리지, 주가 돌아와도 최대 75% 손실”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8622949"
-        }
-      },
-      {
-        "keyword": "cgv",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "암벽등반",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "빅베어 암벽등반 중 추락...30대 남성 숨져",
-          "source": "RadioKorea",
-          "url": "https://www.radiokorea.com/news/article.php?uid=500289"
-        }
-      },
-      {
-        "keyword": "고양시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "고양시, 일산테크노밸리 기업유치 총력…맞춤형 세일즈 돌입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729130339447"
-        }
-      },
-      {
-        "keyword": "도루",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한화 2군에 3할6푼 때리는 도루 괴물이 있다…어떻게 이런 선수가 육성선수로 들어온 걸까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728025707500?f=p"
-        }
-      },
-      {
-        "keyword": "롯데손해보험",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "교통 사고",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "도로교통공단, 제22회 도로교통사고감정사 자격시험 응시자 모집",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729087500062"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-29T16:44:37.569035+09:00",
     "label": "16:44",
     "items": [
@@ -1785,6 +1687,112 @@
           "title": "민경선 고양시장, 국토부 2차관에게 고양은평선 일산 연장 등 건의",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260729182403025?f=p"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-31T02:14:31.885417+09:00",
+    "label": "02:14",
+    "items": [
+      {
+        "keyword": "미확인 비행체",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'미확인 비행체'에 민통선 대피 소동‥합참 \"훈련하던 美측 무인기\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6841293_36911.html"
+        }
+      },
+      {
+        "keyword": "마이크로소프트",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"고수익 초지능 AI 개발 노리는 메타\"...저커버그, 클라우드 진출 언급 자제",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202607302345076007"
+        }
+      },
+      {
+        "keyword": "이영애",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'55세' 이영애, 얼굴선 타고 내린 더듬이 헤어…'시크미의 정석' [MD★스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YUjJkRx2EO?f=p"
+        }
+      },
+      {
+        "keyword": "대한민국 법무부",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "우수 청년 난민, 국내 대학 진학과 자립 돕는다",
+          "source": "재외동포신문",
+          "url": "http://www.dongponews.net/news/articleView.html?idxno=59563"
+        }
+      },
+      {
+        "keyword": "비디디",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "팀원과 갈등→KRX 行 ‘에이밍’ 김하람, SNS 통해 심경 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PY5KdOmjSx"
+        }
+      },
+      {
+        "keyword": "간선 급행 버스 체계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010&pWise=main&pWiseMain=A9"
+        }
+      },
+      {
+        "keyword": "샌디스크 주가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "샌디스크 주가, 오늘 급등한 이유는?",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2037495"
+        }
+      },
+      {
+        "keyword": "sadie sink",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
+          "source": "Entertainment Weekly",
+          "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953"
+        }
+      },
+      {
+        "keyword": "ramayana trailer 2026",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘Ramayana’ Trailer: Ranbir Kapoor and Yash Face Off in First Part of Nitesh Tiwari’s Epic",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/ramayana-trailer-ranbir-kapoor-yash-1236819671/"
+        }
+      },
+      {
+        "keyword": "톰 홀랜드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'스파이더맨' 톰홀랜드, 가수 거미 '샤라웃' 실화..에픽하이 만났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730201338017"
         }
       }
     ]
