@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-07-30T19:12:22.156062+09:00",
-  "label": "19:12",
+  "timestamp": "2026-07-30T21:23:06.501629+09:00",
+  "label": "21:23",
   "items": [
     {
-      "keyword": "레버리지",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "[단독] 레버리지ETF 변동성 키웠나…당국, 외국인 초고빈도매매 조사",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607305306i"
-      }
-    },
-    {
-      "keyword": "윤용근",
+      "keyword": "농지",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "홍명보 “연봉 38억 절대 아냐…훨씬 적다” [이런뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8624372"
+        "title": "사상 처음 진행되는 농지 전수조사, 농지 4곳 중 1곳은 ‘위법농지’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260730163727822"
       }
     },
     {
-      "keyword": "탁구",
+      "keyword": "산불",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'올림픽 탁구 동메달 듀오' 신유빈-임종훈 \"이번엔 금메달\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260730170000007"
+        "title": "프랑스·스페인 산불 경보 최고조...그리스 소방관 3명 사망",
+        "source": "YTN 사이언스",
+        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607301603306258"
       }
     },
     {
-      "keyword": "도쿄 바나나",
+      "keyword": "박맹우",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "박맹우 \"트램 건설 중단해야\"…울산시장 공약 지지 '촉각'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260730148200057"
+      }
+    },
+    {
+      "keyword": "예금",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "한은, '프로젝트 아고라' 실거래 테스트 참여",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260730180301839"
+      }
+    },
+    {
+      "keyword": "미확인비행체",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘日 브랜드 카피 논란’ 도쿄베리, 게시물 대거 삭제…백화점 팝업도 중단",
-        "source": "아시아투데이",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260730010011247"
-      }
-    },
-    {
-      "keyword": "신현준",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "배우 신현준 가족 등 '서울베이비앰배서더 4기' 8팀 선정",
+        "title": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260730111703956"
+        "url": "https://v.daum.net/v/20260730203338466"
       }
     },
     {
-      "keyword": "지민",
+      "keyword": "진주남강유등축제",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "하프타임 공연서 입은 BTS ‘지민 셔츠’, 월드컵 결승전 경기구와 같은 1억5800만원에 낙찰",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607301528001"
-      }
-    },
-    {
-      "keyword": "장 한별",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“적수 없는 7주 천하”…장한별, ‘K탑스타’ 107회차도 싹쓸이",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/entertain/12108140"
-      }
-    },
-    {
-      "keyword": "이호재",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"차범근의 친정팀으로\"…포항 공격수 이호재, 독일 다름슈타트 이적",
+        "title": "진주시, 하반기 축제 개최 계획 보고회…\"글로벌 명품축제로 도약\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260730070049276?f=p"
+        "url": "https://v.daum.net/v/20260730101813381"
       }
     },
     {
-      "keyword": "홍영기",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "대피소",
+      "keyword": "허태정",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "강진에 멈춰선 구마모토 TSMC…“반도체 장비 미세 진동에도 취약, 재개에 시일 걸려” [르포]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260730183908851"
+        "title": "충청권 초광역 협력 오찬 간담회 - 사진 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72797&pageIndex=1"
+      }
+    },
+    {
+      "keyword": "sk하이닉스 주가 전망",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[윤영숙의 시선] '회장님, 회장님! 어디 계세요?'",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427667"
+      }
+    },
+    {
+      "keyword": "간선급행버스체계",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010&pWise=main&pWiseMain=A9"
+      }
+    },
+    {
+      "keyword": "페라리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "디자인 조롱받던 페라리 전기차, 중국 덕에 목표 완판 '반전'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260730101600009"
       }
     }
   ]

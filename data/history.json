@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29T08:50:57.287455+09:00",
-    "label": "08:50",
-    "items": [
-      {
-        "keyword": "노동자",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "李 대통령 \"취임 후 해외 순방 많이 다니는 편…경제협력 등에 큰 도움\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729080050593"
-        }
-      },
-      {
-        "keyword": "환율",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "외국인 5조 순매도에도 하이닉스 ADR 효과…환율 소폭 하락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728125200002"
-        }
-      },
-      {
-        "keyword": "msft",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Microsoft to report Q4 earnings as investors look for return on AI investments",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html"
-        }
-      },
-      {
-        "keyword": "오마이뉴스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "가족 여행 중 발견한 봉투, 머릿속이 하얘졌다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728165250334"
-        }
-      },
-      {
-        "keyword": "배종옥",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "배종옥, 과거 싱글맘 심경 고백 “홀가분했다…재혼 생각 없어”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12109873"
-        }
-      },
-      {
-        "keyword": "메이저 리그 사커",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'생애 첫 올스타' 손흥민‥뮐러도 \"손흥민과 뛰고 싶어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728210710985"
-        }
-      },
-      {
-        "keyword": "물",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"청계천에 발 담그고 피서\"…서울시 '물 첨벙첨벙' 행사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729060217375"
-        }
-      },
-      {
-        "keyword": "aston villa vs real sociedad",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Aston Villa Team News vs Real Sociedad: Kamara, Garnacho, Abraham",
-          "source": "The Sports Bank",
-          "url": "https://www.thesportsbank.net/football/aston-villa/kamara-garnacho-abraham/"
-        }
-      },
-      {
-        "keyword": "ionq",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "IonQ Receives Regulatory Approval for SkyWater Acquisition",
-          "source": "IonQ",
-          "url": "https://www.ionq.com/news/ionq-receives-regulatory-approval-to-complete-acquisition-of-skywater-technology"
-        }
-      },
-      {
-        "keyword": "voo",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Cinco pilotos e seis turnos: veja como a Airbus realizou o histórico voo ininterrupto de 24 horas",
-          "source": "AEROIN",
-          "url": "https://aeroin.net/cinco-pilotos-e-seis-turnos-veja-como-a-airbus-realizou-o-historico-voo-ininterrupto-de-24-horas/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-29T10:42:41.183600+09:00",
     "label": "10:42",
     "items": [
@@ -1785,6 +1679,112 @@
           "title": "강진에 멈춰선 구마모토 TSMC…“반도체 장비 미세 진동에도 취약, 재개에 시일 걸려” [르포]",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260730183908851"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-30T21:23:06.501629+09:00",
+    "label": "21:23",
+    "items": [
+      {
+        "keyword": "농지",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "사상 처음 진행되는 농지 전수조사, 농지 4곳 중 1곳은 ‘위법농지’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730163727822"
+        }
+      },
+      {
+        "keyword": "산불",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "프랑스·스페인 산불 경보 최고조...그리스 소방관 3명 사망",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607301603306258"
+        }
+      },
+      {
+        "keyword": "박맹우",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "박맹우 \"트램 건설 중단해야\"…울산시장 공약 지지 '촉각'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260730148200057"
+        }
+      },
+      {
+        "keyword": "예금",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "한은, '프로젝트 아고라' 실거래 테스트 참여",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730180301839"
+        }
+      },
+      {
+        "keyword": "미확인비행체",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730203338466"
+        }
+      },
+      {
+        "keyword": "진주남강유등축제",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "진주시, 하반기 축제 개최 계획 보고회…\"글로벌 명품축제로 도약\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730101813381"
+        }
+      },
+      {
+        "keyword": "허태정",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "충청권 초광역 협력 오찬 간담회 - 사진 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72797&pageIndex=1"
+        }
+      },
+      {
+        "keyword": "sk하이닉스 주가 전망",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[윤영숙의 시선] '회장님, 회장님! 어디 계세요?'",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427667"
+        }
+      },
+      {
+        "keyword": "간선급행버스체계",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010&pWise=main&pWiseMain=A9"
+        }
+      },
+      {
+        "keyword": "페라리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "디자인 조롱받던 페라리 전기차, 중국 덕에 목표 완판 '반전'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260730101600009"
         }
       }
     ]
