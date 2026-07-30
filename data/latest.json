@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-07-30T16:27:01.321433+09:00",
-  "label": "16:27",
+  "timestamp": "2026-07-30T19:12:22.156062+09:00",
+  "label": "19:12",
   "items": [
     {
-      "keyword": "주주",
+      "keyword": "레버리지",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "[단독] 레버리지ETF 변동성 키웠나…당국, 외국인 초고빈도매매 조사",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607305306i"
+      }
+    },
+    {
+      "keyword": "윤용근",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "삼성전자 \"특별배당 포함 주주환원 곧 공개, 믿고 기다려달라\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260730113211889"
+        "title": "홍명보 “연봉 38억 절대 아냐…훨씬 적다” [이런뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8624372"
       }
     },
     {
-      "keyword": "김진규",
+      "keyword": "탁구",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "김진규 “남아공전 손흥민, 이재성 빠져서 진 것 아냐…보복 아니다”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1270681.html"
+        "title": "'올림픽 탁구 동메달 듀오' 신유빈-임종훈 \"이번엔 금메달\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260730170000007"
       }
     },
     {
-      "keyword": "팔공산",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "대구 팔공산서 60대 부부 실족, 남편 숨지고 아내 구조",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026073009350005980"
-      }
-    },
-    {
-      "keyword": "김동관",
+      "keyword": "도쿄 바나나",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한화家 3형제 나란히 승진…김동관 수석부회장·김동원 부회장·김동선 사장",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/07/30/2026073080125.html"
+        "title": "‘日 브랜드 카피 논란’ 도쿄베리, 게시물 대거 삭제…백화점 팝업도 중단",
+        "source": "아시아투데이",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260730010011247"
       }
     },
     {
-      "keyword": "경제성장",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"한국은 치고 나가는데\"…'꼴찌 전락 위기' 日 초비상 [최만수의 재팬 인사이트]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607305414i"
-      }
-    },
-    {
-      "keyword": "dl이앤씨",
+      "keyword": "신현준",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "DL이앤씨, 2Q 영업익 1594억원…전년비 26% 증가(1보)",
+        "title": "배우 신현준 가족 등 '서울베이비앰배서더 4기' 8팀 선정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260730153644326"
+        "url": "https://v.daum.net/v/20260730111703956"
       }
     },
     {
-      "keyword": "육군",
+      "keyword": "지민",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "뒤엉킨 차량 보자 사이렌 켰다…응급처치 나선 남녀 정체",
+        "title": "하프타임 공연서 입은 BTS ‘지민 셔츠’, 월드컵 결승전 경기구와 같은 1억5800만원에 낙찰",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607301528001"
+      }
+    },
+    {
+      "keyword": "장 한별",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“적수 없는 7주 천하”…장한별, ‘K탑스타’ 107회차도 싹쓸이",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/entertain/12108140"
+      }
+    },
+    {
+      "keyword": "이호재",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"차범근의 친정팀으로\"…포항 공격수 이호재, 독일 다름슈타트 이적",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260730104800063"
+        "url": "https://v.daum.net/v/20260730070049276?f=p"
       }
     },
     {
-      "keyword": "상장지수펀드",
+      "keyword": "홍영기",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "한투운용 ACE 미국 대표지수 ETF에 개인자금 ‘1000억’ 몰렸다",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1130490"
-      }
+      "news": null
     },
     {
-      "keyword": "t 멤버십",
+      "keyword": "대피소",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "SKT, 에어 요금제 혜택 강화…통신비 부담 낮춘다",
+        "title": "강진에 멈춰선 구마모토 TSMC…“반도체 장비 미세 진동에도 취약, 재개에 시일 걸려” [르포]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260730114457611"
-      }
-    },
-    {
-      "keyword": "미국 국가정보국 국장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "트럼프의 새 美정보당국 수장 후보자, 美상원 인준 통과",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260729092017124"
+        "url": "https://v.daum.net/v/20260730183908851"
       }
     }
   ]
