@@ -1796,5 +1796,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-31T04:09:10.326698+09:00",
+    "label": "04:09",
+    "items": [
+      {
+        "keyword": "rottach-egern 대 바이에른",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Rottach-Egern 대 FC 바이에른 뮌헨 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-rottach-egern-vs-fc-bayern-munchen-doi-hinh-du-kien"
+        }
+      },
+      {
+        "keyword": "미확인 비행체",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260730187600504"
+        }
+      },
+      {
+        "keyword": "이영애",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'55세' 이영애, 얼굴선 타고 내린 더듬이 헤어…'시크미의 정석' [MD★스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YUjJkRx2EO?f=p"
+        }
+      },
+      {
+        "keyword": "대한민국 법무부",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "법무부, 수형자 가상현실 심리치료 도입…\"피해자 고통 체험\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969098"
+        }
+      },
+      {
+        "keyword": "비디디",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘에이밍’ 김하람, KRX 行…‘지우’ 정지우와 트레이드",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730213936121"
+        }
+      },
+      {
+        "keyword": "간선 급행 버스 체계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010&pWise=main&pWiseMain=A9"
+        }
+      },
+      {
+        "keyword": "샌디스크 주가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "샌디스크 주가, 오늘 급등한 이유는?",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2037495"
+        }
+      },
+      {
+        "keyword": "sadie sink",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Steve Lacy May Have Accidentally Revealed a ‘Spider-Man’ Spoiler",
+          "source": "American Top 40",
+          "url": "https://www.americantop40.com/content/2026-07-29-steve-lacy-may-have-accidentally-revealed-a-spider-man-spoiler/"
+        }
+      },
+      {
+        "keyword": "ramayana trailer 2026",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Viral Comparison Suggests Ranbir Kapoor's Ram Scene Was Reworked For Ramayana Trailer",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/entertainment/viral-comparison-suggests-ranbir-kapoors-ram-scene-was-reworked-for-ramayana-trailer-11843460"
+        }
+      },
+      {
+        "keyword": "톰 홀랜드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'스파이더맨' 톰홀랜드, 가수 거미 '샤라웃' 실화..에픽하이 만났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730201338017"
+        }
+      }
+    ]
   }
 ]

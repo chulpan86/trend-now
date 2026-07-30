@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-07-31T02:14:31.885417+09:00",
-  "label": "02:14",
+  "timestamp": "2026-07-31T04:09:10.326698+09:00",
+  "label": "04:09",
   "items": [
+    {
+      "keyword": "rottach-egern 대 바이에른",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Rottach-Egern 대 FC 바이에른 뮌헨 예측: 예상 라인업",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-rottach-egern-vs-fc-bayern-munchen-doi-hinh-du-kien"
+      }
+    },
     {
       "keyword": "미확인 비행체",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'미확인 비행체'에 민통선 대피 소동‥합참 \"훈련하던 美측 무인기\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6841293_36911.html"
-      }
-    },
-    {
-      "keyword": "마이크로소프트",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"고수익 초지능 AI 개발 노리는 메타\"...저커버그, 클라우드 진출 언급 자제",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0104_202607302345076007"
+        "title": "軍, 연합훈련 참가 美무인기에 '두루미' 발령…자칫 격추할 뻔",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260730187600504"
       }
     },
     {
       "keyword": "이영애",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "'55세' 이영애, 얼굴선 타고 내린 더듬이 헤어…'시크미의 정석' [MD★스타]",
         "source": "Daum",
@@ -34,12 +34,12 @@
     },
     {
       "keyword": "대한민국 법무부",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "우수 청년 난민, 국내 대학 진학과 자립 돕는다",
-        "source": "재외동포신문",
-        "url": "http://www.dongponews.net/news/articleView.html?idxno=59563"
+        "title": "법무부, 수형자 가상현실 심리치료 도입…\"피해자 고통 체험\"",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969098"
       }
     },
     {
@@ -47,9 +47,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "팀원과 갈등→KRX 行 ‘에이밍’ 김하람, SNS 통해 심경 공개",
+        "title": "‘에이밍’ 김하람, KRX 行…‘지우’ 정지우와 트레이드",
         "source": "Daum",
-        "url": "https://v.daum.net/v/PY5KdOmjSx"
+        "url": "https://v.daum.net/v/20260730213936121"
       }
     },
     {
@@ -77,9 +77,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
-        "source": "Entertainment Weekly",
-        "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953"
+        "title": "Steve Lacy May Have Accidentally Revealed a ‘Spider-Man’ Spoiler",
+        "source": "American Top 40",
+        "url": "https://www.americantop40.com/content/2026-07-29-steve-lacy-may-have-accidentally-revealed-a-spider-man-spoiler/"
       }
     },
     {
@@ -87,9 +87,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘Ramayana’ Trailer: Ranbir Kapoor and Yash Face Off in First Part of Nitesh Tiwari’s Epic",
-        "source": "Variety",
-        "url": "https://variety.com/2026/film/news/ramayana-trailer-ranbir-kapoor-yash-1236819671/"
+        "title": "Viral Comparison Suggests Ranbir Kapoor's Ram Scene Was Reworked For Ramayana Trailer",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/entertainment/viral-comparison-suggests-ranbir-kapoors-ram-scene-was-reworked-for-ramayana-trailer-11843460"
       }
     },
     {
