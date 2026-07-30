@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29T02:18:27.654886+09:00",
-    "label": "02:18",
-    "items": [
-      {
-        "keyword": "유해란",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "유해란, 메이저 대회 3연승 이룰까…AIG 여자오픈 30일 개막",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728110200007"
-        }
-      },
-      {
-        "keyword": "어 도어",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "어도어, 하니 비자정보 유출 혐의로 피고발…\"불법체류자 낙인\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728140600004"
-        }
-      },
-      {
-        "keyword": "롤",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "롤 'KeSPA컵' 예선서 T1ㆍNS 결선 진출",
-          "source": "더게임스",
-          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406021"
-        }
-      },
-      {
-        "keyword": "리그오브레전드",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "T1 홈그라운드, LCK 경기 홈 좌석 전석 매진…8월 DK·젠지 빅매치 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728105653506"
-        }
-      },
-      {
-        "keyword": "문희준",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "굶지 않는 '장원영 다이어트'…문희준, 19㎏ 감량 도전장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260728_0003726225"
-        }
-      },
-      {
-        "keyword": "싸이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "싸이도 즉석 캐스팅 제안…'1200만뷰' 주인공, 정체 직접 밝혔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728152052849"
-        }
-      },
-      {
-        "keyword": "샌디스크 주가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "SanDisk 주가, 오늘 왜 하락할까?",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2031521"
-        }
-      },
-      {
-        "keyword": "최권",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘김수현 절친’ 최권, 부친상 비보…슬픔 속 빈소 지키며 조문객 맞이 [단독]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728133508825"
-        }
-      },
-      {
-        "keyword": "마이크론",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "뉴욕증시, 유가 급락 속 혼조 마감…반도체주 하락(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728006251072"
-        }
-      },
-      {
-        "keyword": "기아 셀토스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[2027 올 뉴 셀토스 시승기] 더 커지고 조용해진 기아 콤팩트 SUV",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260726200113878"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-29T04:06:58.249783+09:00",
-    "label": "04:06",
-    "items": [
-      {
-        "keyword": "열대야",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[날씨] 찜통더위 기승, 전국 열대야…경남 체감 38℃ 폭염",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728234531966"
-        }
-      },
-      {
-        "keyword": "어 도어",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "어도어, 하니 비자정보 유출 혐의로 피고발…\"불법체류자 낙인\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728140600004"
-        }
-      },
-      {
-        "keyword": "롤",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "DK·BNK, KeSPA컵 예선 탈락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260727222537444"
-        }
-      },
-      {
-        "keyword": "리그오브레전드",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[오피셜] 'LS' 닉 드 체사레, T1 리프트바운드 선수로 입단",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318924"
-        }
-      },
-      {
-        "keyword": "롤렉스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘친구 살해’ 정재환, 알몸으로 돌아와 롤렉스부터 챙겼다",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12310459"
-        }
-      },
-      {
-        "keyword": "싸이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'싸이 흠뻑쇼' 여학생 \"저 연습생 아닙니다\" 직접 입 열었다[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2FbSaCOclu"
-        }
-      },
-      {
-        "keyword": "기아 셀토스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“넓어진 공간과 첨단 기능… 패밀리카로 진화”",
-          "source": "미주한국일보",
-          "url": "http://www.koreatimes.com/article/20260726/1623015"
-        }
-      },
-      {
-        "keyword": "샌디스크 주가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "SanDisk 주가, 오늘 왜 하락할까?",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2031521"
-        }
-      },
-      {
-        "keyword": "레알마드리드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"2부 뛰던 애한테 1951억이라고?\" PSG, 디오망데 영입전 전격 철수.. 레알의 과도한 머니게임 대놓고 비판",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728092009555"
-        }
-      },
-      {
-        "keyword": "요시다 슈헤이",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "요시다 슈헤이가 ‘블러드본 PC판 미출시'에 대해 언급했다",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/view.php?gid=1778379"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-29T05:58:33.985288+09:00",
     "label": "05:58",
     "items": [
@@ -2001,6 +1789,112 @@
           "title": "삼성, 29일 KIA전 선발 라인업 변화…김영웅 대신 전병우 선발 3루수 [오!쎈 대구]",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260729155337042"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-30T16:27:01.321433+09:00",
+    "label": "16:27",
+    "items": [
+      {
+        "keyword": "주주",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "삼성전자 \"특별배당 포함 주주환원 곧 공개, 믿고 기다려달라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730113211889"
+        }
+      },
+      {
+        "keyword": "김진규",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김진규 “남아공전 손흥민, 이재성 빠져서 진 것 아냐…보복 아니다”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1270681.html"
+        }
+      },
+      {
+        "keyword": "팔공산",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "대구 팔공산서 60대 부부 실족, 남편 숨지고 아내 구조",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026073009350005980"
+        }
+      },
+      {
+        "keyword": "김동관",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "한화家 3형제 나란히 승진…김동관 수석부회장·김동원 부회장·김동선 사장",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/30/2026073080125.html"
+        }
+      },
+      {
+        "keyword": "경제성장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"한국은 치고 나가는데\"…'꼴찌 전락 위기' 日 초비상 [최만수의 재팬 인사이트]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607305414i"
+        }
+      },
+      {
+        "keyword": "dl이앤씨",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "DL이앤씨, 2Q 영업익 1594억원…전년비 26% 증가(1보)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730153644326"
+        }
+      },
+      {
+        "keyword": "육군",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "뒤엉킨 차량 보자 사이렌 켰다…응급처치 나선 남녀 정체",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730104800063"
+        }
+      },
+      {
+        "keyword": "상장지수펀드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한투운용 ACE 미국 대표지수 ETF에 개인자금 ‘1000억’ 몰렸다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1130490"
+        }
+      },
+      {
+        "keyword": "t 멤버십",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SKT, 에어 요금제 혜택 강화…통신비 부담 낮춘다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260730114457611"
+        }
+      },
+      {
+        "keyword": "미국 국가정보국 국장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "트럼프의 새 美정보당국 수장 후보자, 美상원 인준 통과",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729092017124"
         }
       }
     ]
