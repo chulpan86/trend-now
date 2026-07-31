@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-07-30T06:49:24.946625+09:00",
-    "label": "06:49",
-    "items": [
-      {
-        "keyword": "미군",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "트럼프 “이란 강하게 타격할 것”···요르단 미군 기지 기습 공격에 ‘격분’ 확전 예고",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607292247001"
-        }
-      },
-      {
-        "keyword": "농성",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "곽동윤 안양시의원, 의장 선출 파행에 ‘1인 무기한 단식농성’ 돌입",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260729580367"
-        }
-      },
-      {
-        "keyword": "이한 범",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"PL 클럽들이 원한다\" 김민재 이을 한국 '대형 수비수' 이한범, 빅리그 아닌 벨기에 향한다...\"클럽 브뤼헤 이적 유력\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729174137420?f=p"
-        }
-      },
-      {
-        "keyword": "금리",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "美연준 금리 동결 했지만 의견 갈렸다...3명 ‘인상’ 주장",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/07/30/PUZDYMI74FHWTHZBBD7UQROQ2M/"
-        }
-      },
-      {
-        "keyword": "stock market news today",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Dow dives, S&P 500 trades lower in volatile market following Fed decision: Live updates",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html"
-        }
-      },
-      {
-        "keyword": "latest iphone rumors",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/07/29/iphone-18-pro-vs-iphone-ultra-here-are-biggest-differences/"
-        }
-      },
-      {
-        "keyword": "what is a data breach",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Download the Cost of a Data Breach Report 2026",
-          "source": "IBM",
-          "url": "https://www.ibm.com/forms/mkt-whitepaper-90d12"
-        }
-      },
-      {
-        "keyword": "best shows on hbo max",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Ted Lasso to The Shards: 10 of the best TV shows to watch this August",
-          "source": "BBC",
-          "url": "https://www.bbc.com/culture/article/20260727-10-of-the-best-tv-shows-to-watch-this-august"
-        }
-      },
-      {
-        "keyword": "지네딘 지단",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘아트 사커’ 지단, 佛대표팀 사령탑 맡았다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tNrmS9b07h"
-        }
-      },
-      {
-        "keyword": "한국농어촌공사",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "거창군수 가뭄피해 우려지역 현장방문 점검",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260729006100353"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T07:50:05.704325+09:00",
-    "label": "07:50",
-    "items": [
-      {
-        "keyword": "창신메모리테크놀로지",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "CXMT, 애플에 “싸게 줄 이유 없다”…삼성·SK하이닉스보다 비싼 값 제시",
-          "source": "테크월드",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=404816"
-        }
-      },
-      {
-        "keyword": "tsmc",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Earthquake Destruction in Japan May Affect Production of Thousands of Nissan and Lexus Vehicles",
-          "source": "Car and Driver",
-          "url": "https://www.caranddriver.com/news/a73297750/toyota-nissan-suspend-production-japan-earthquake/"
-        }
-      },
-      {
-        "keyword": "다우 존스 산업평균지수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘매파 연준’에 뉴욕 증시 와르르…삼전ㆍSK하닉 더 커진 부담감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730054327162"
-        }
-      },
-      {
-        "keyword": "김도영",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김도영 31호·오스틴 30호·힐리어드 26·27호…불붙은 홈런쇼(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/78UtiWTsHs"
-        }
-      },
-      {
-        "keyword": "운전",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "앞으론 깜빡이 안 켜면 ‘벌점 10점’···안전띠 미착용 ‘무인 단속’도",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607291200001"
-        }
-      },
-      {
-        "keyword": "송도동",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "인천 송도동 롯데캐슬캠퍼스타운아파트 59㎡ 6억4000만원에 거래",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260729n31357"
-        }
-      },
-      {
-        "keyword": "마이크로소프트 주가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "MS, 애저 연매출 1000억달러 돌파…투자 결실에 시간외 주가 상승",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730070000246"
-        }
-      },
-      {
-        "keyword": "언더커버 셰프",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "tvN '언더커버 셰프' 스핀오프 제작…주방 선배들 한국 온다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729173138048"
-        }
-      },
-      {
-        "keyword": "임우일",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "지연수, 소개팅 \"16년 만에 남자 만나\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260728_0003727137"
-        }
-      },
-      {
-        "keyword": "레알 베티스 대 리옹",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "레알 베티스 vs 리옹 생중계: 레알 베티스, 추가골로 리드 두 배 확보",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-real-betis-vs-lyon-real-betis-nhan-doi-cach-biet"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-30T08:52:59.464633+09:00",
     "label": "08:52",
     "items": [
@@ -1790,6 +1578,108 @@
         "traffic_raw": "200+",
         "traffic": 200,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-31T20:19:55.792717+09:00",
+    "label": "20:19",
+    "items": [
+      {
+        "keyword": "주일 미군",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "北 “한반도 물리적 충돌 시간문제…주일미군이 우리 겨눠”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731080749426"
+        }
+      },
+      {
+        "keyword": "김의겸",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보]김의겸 “‘노무현 죽여버리겠다’ 24년 전 김민석 기사 사실과 달라”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11606404"
+        }
+      },
+      {
+        "keyword": "현대건설",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "현대건설, 2분기 영업이익 2618억·전년比 20.7%↑…수주잔고 100조 돌파",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731174848457"
+        }
+      },
+      {
+        "keyword": "sk실트론",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "SK실트론, 2.3조원에 두산 품으로…최태원 회장 지분은 추후 협상",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/31/2026073180148.html"
+        }
+      },
+      {
+        "keyword": "동티모르 대 인도네시아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "동티모르 감독이 인도네시아 국가대표팀에 이상한 메시지를 보냈다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-timor-leste-gui-thong-diep-la-den-tuyen-indonesia"
+        }
+      },
+      {
+        "keyword": "조재호",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'당구여제' 김가영, 다 잡은 승리 놓쳤다…'통산 20승·누적 상금 10억' 대기록 달성 또 무산",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731003137063"
+        }
+      },
+      {
+        "keyword": "28기 영자",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'나솔' 28기 돌싱 커플 영자·영철, 결혼 6개월 만에 이혼…\"혼인신고는 안 해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731163728684"
+        }
+      },
+      {
+        "keyword": "젠지",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "킨텍스 도서관 만든 T1… ‘톰’ 임재현 “평소 단단한 젠지, 이날은 굳어있다고 느껴”",
+          "source": "스포츠한국",
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6937287"
+        }
+      },
+      {
+        "keyword": "베스킨라빈스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "레바논",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "튀르키예, 레바논 파병 검토하나…“유엔군 철수 후 안보 기여”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731184337022"
+        }
       }
     ]
   }
