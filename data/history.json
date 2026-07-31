@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-30T19:12:22.156062+09:00",
-    "label": "19:12",
-    "items": [
-      {
-        "keyword": "레버리지",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[단독] 레버리지ETF 변동성 키웠나…당국, 외국인 초고빈도매매 조사",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607305306i"
-        }
-      },
-      {
-        "keyword": "윤용근",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "홍명보 “연봉 38억 절대 아냐…훨씬 적다” [이런뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8624372"
-        }
-      },
-      {
-        "keyword": "탁구",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'올림픽 탁구 동메달 듀오' 신유빈-임종훈 \"이번엔 금메달\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730170000007"
-        }
-      },
-      {
-        "keyword": "도쿄 바나나",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘日 브랜드 카피 논란’ 도쿄베리, 게시물 대거 삭제…백화점 팝업도 중단",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260730010011247"
-        }
-      },
-      {
-        "keyword": "신현준",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "배우 신현준 가족 등 '서울베이비앰배서더 4기' 8팀 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730111703956"
-        }
-      },
-      {
-        "keyword": "지민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "하프타임 공연서 입은 BTS ‘지민 셔츠’, 월드컵 결승전 경기구와 같은 1억5800만원에 낙찰",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607301528001"
-        }
-      },
-      {
-        "keyword": "장 한별",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“적수 없는 7주 천하”…장한별, ‘K탑스타’ 107회차도 싹쓸이",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12108140"
-        }
-      },
-      {
-        "keyword": "이호재",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"차범근의 친정팀으로\"…포항 공격수 이호재, 독일 다름슈타트 이적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730070049276?f=p"
-        }
-      },
-      {
-        "keyword": "홍영기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "대피소",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "강진에 멈춰선 구마모토 TSMC…“반도체 장비 미세 진동에도 취약, 재개에 시일 걸려” [르포]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730183908851"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-30T21:23:06.501629+09:00",
     "label": "21:23",
     "items": [
@@ -1891,6 +1789,112 @@
           "title": "Sukhoi Su-35 Flanker-E — History, Specs & Stories",
           "source": "MiGFlug",
           "url": "https://migflug.com/ru/%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82/su-35-flanker-e/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-01T07:54:47.919324+09:00",
+    "label": "07:54",
+    "items": [
+      {
+        "keyword": "폴더 블 스마트 폰",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'마이 팬캠'으로 동영상 콘텐츠 뚝딱…'갤럭시 Z 폴드8' 써보니[토요리뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801060527074"
+        }
+      },
+      {
+        "keyword": "디지털타임스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "청계천 ‘물 첨벙’ 첫날 가보니…“시원하고 여유로워” vs “자연 즐기는데 제재 느껴”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801053113686"
+        }
+      },
+      {
+        "keyword": "방탄소년단",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "45억 주고 산 집인데…BTS 진, 7년 만에 '깜짝' [집코노미-핫!부동산]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026073187087"
+        }
+      },
+      {
+        "keyword": "전원주",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'86세' 전원주, 33세 몸짱남 가슴 더듬더듬…\"성희롱\" vs \"예능\" 시끌 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073120421397999"
+        }
+      },
+      {
+        "keyword": "s&p 500",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "S&P 500 Top Stock Gainers Today, 7/31/26",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/sp-500-top-stock-gainers-today-7-31-26-2"
+        }
+      },
+      {
+        "keyword": "서인영",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "다이어트 성공한 서인영, '원조 신상녀' 귀환 예고→드디어 '워터밤' 출격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731100046460"
+        }
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "India VIX Ends July at 11.75 as Volatility Moderates",
+          "source": "HDFC Sky",
+          "url": "https://hdfcsky.com/news/india-vix-falls-3-37-percent-july-end-volatility-rbi-rule-changes-july-31-2026"
+        }
+      },
+      {
+        "keyword": "nvda",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Cathie Wood’s ARK buys $15.6M in Nvidia shares across five ETFs",
+          "source": "eciks.org",
+          "url": "https://eciks.org/17444-cathie-wood-ark-nvidia-purchase"
+        }
+      },
+      {
+        "keyword": "tqqq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "TQQQ's $10K investment since Nov 2022 grew to $60K amid AI-driven tech surge, but with high risk.",
+          "source": "Pluang",
+          "url": "https://pluang.com/en/news-feed/tqqq-investasi-10000-dolar-nilai-sekarang"
+        }
+      },
+      {
+        "keyword": "연합뉴스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "보수화하는 남미…브라질 좌파 생존전략은 '80대 대부' 룰라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801070059453"
         }
       }
     ]
