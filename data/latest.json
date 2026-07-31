@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-07-31T10:51:52.112435+09:00",
-  "label": "10:51",
+  "timestamp": "2026-07-31T14:25:17.948160+09:00",
+  "label": "14:25",
   "items": [
     {
-      "keyword": "상한가",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "주한 미국 대사",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "뉴욕증시, 반도체주 반등에 강세 마감…하이닉스ADR 18%↑(종합)",
+        "title": "\"가족 향한 책임감\"에 공직 택한 한국계…주한美대사로 돌아왔다",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260731008251072"
+        "url": "https://www.yna.co.kr/view/AKR20260731028700504?section=politics/diplomacy"
       }
     },
     {
-      "keyword": "하이닉스 주가",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "의료법",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "최태원, 처음으로 SK하이닉스 주식 샀다···보통주 3620주 매수 “책임경영 차원”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607301943001"
+        "title": "'간병인 석션' 유죄 판결에 요양병원은 한숨…醫 \"현실 무시\"",
+        "source": "청년의사",
+        "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041368"
       }
     },
     {
-      "keyword": "달러 환율",
+      "keyword": "주차",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "소방서 앞 막아선 황당한 불법주차…연락했더니 \"쉬는 날인 줄\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260730_0003729748"
+      }
+    },
+    {
+      "keyword": "두류공원",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "원화값 올라도 넉다운…코스피는 긴축이 걱정스럽다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731000447412"
+        "title": "군산 월명공원, 국내 첫 ‘국가도시공원’ 도전",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607311120001"
       }
     },
     {
-      "keyword": "aig 여자오픈",
+      "keyword": "정우주",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "유해란, 5언더파 신바람…'메이저 3연승 진군은 시작됐다'",
+        "title": "\"(정)우주 공 던지기 시작했고\" ML 스카우트 홀린 재능, 서산서 다시 준비한다…日 단기 유학파들은 어떻게 되나 \"정말 좋다는 말은\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260731060237299"
+        "url": "https://v.daum.net/v/20260731044251683"
       }
     },
     {
-      "keyword": "민주당 전당대회",
+      "keyword": "형사소송법",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김영환 “정청래, 대통령과 사선 함께 넘은 동지…일부 ‘반명몰이’ ”",
+        "title": "박지원 “수사권 박탈된 검사들, 윤석열·한동훈을 원망하라”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1270848.html"
+      }
+    },
+    {
+      "keyword": "태풍 돌핀 경로",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "초강력 태풍 돌핀 북상…한반도 향할까, 북태평양고기압이 변수",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=53872"
+      }
+    },
+    {
+      "keyword": "포모",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "고꾸라진 증시, 오르는 집값…李정부 ‘경제 쌍끌이 리스크’ 시험대",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260729154048379"
+        "url": "https://v.daum.net/v/7GjvJhIk7w"
       }
     },
     {
-      "keyword": "삼성전기 주가",
+      "keyword": "수에즈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "빅테크와 직접 거래 늘린 삼성전기…MLCC·기판 슈퍼사이클 올라탔다 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/it-science/ict/2026/07/30/IGOXANO4WZEX3GQ4TTGY3SYVXY/"
+        "title": "사우디, '홍해 선박 보호' 14개국 해상 방위 연합 창설 발표",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260731006400099"
       }
     },
     {
-      "keyword": "kospi",
+      "keyword": "세우타",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "KRX activates buy-side sidecar for KOSPI on sharp rise",
-        "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20260731002400320"
-      }
-    },
-    {
-      "keyword": "삼성전자 주식",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "제일기획, 삼성생명 특계 장내 매도에 최대주주 지분 28.32%로 하락",
-        "source": "데이터투자",
-        "url": "https://www.datatooza.com/article/20260731093157520952ef34b547_80"
-      }
-    },
-    {
-      "keyword": "코스피 주가",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“단순한 도박장 됐다” “비이성적인 현상”···‘한 달 만에 34% 폭락’ 코스피, 전 세계 하락률 1위",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607301706001"
-      }
-    },
-    {
-      "keyword": "한미반도체 주가",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[특징주] 한미반도체, 美 반도체 반등 힘입어 21%대 급등 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/stock/stock_general/2026/07/31/L5EUGOPMCVFXZM72QNRGHPKUXA/"
+        "title": "바다로 수천명 밀입국에 군대 동원한 스페인…백악관까지 참전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731132851005"
       }
     }
   ]
