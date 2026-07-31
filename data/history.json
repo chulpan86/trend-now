@@ -1576,5 +1576,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-01T00:54:08.399085+09:00",
+    "label": "00:54",
+    "items": [
+      {
+        "keyword": "제이쓴",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘홍현희♥’ 제이쓴 아들, 단체 운동 체질?..첫 축구수업 “매일 새롭다” [순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/31/HBRTGOJXHA4GKZBXGBTDSNTDMU/"
+        }
+      },
+      {
+        "keyword": "마니산",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "인천 강화도 마니산 등산로서 60대 사망…부검 의뢰",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731084900065"
+        }
+      },
+      {
+        "keyword": "박지현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[포토] 박지훈, 대세",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/07/31/MZRDQOJYMI3TGY3FG5SDMNZQG4/"
+        }
+      },
+      {
+        "keyword": "코스피 야간선물",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "뉴욕증시, 반도체주 반등에 강세 마감…하이닉스ADR 18%↑(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731008251072"
+        }
+      },
+      {
+        "keyword": "은중과 상연",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김고은, '청룡시리즈어워즈' 대상 영예…박해수·신혜선 주연상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731230512804?f=m"
+        }
+      },
+      {
+        "keyword": "허수아비",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[포토] 청룡시리즈어워즈 대상 김고은-임윤아, 행복한 순간",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/08/01/MY2TOZJWGNQTGMLGHBQWIMZRME/"
+        }
+      },
+      {
+        "keyword": "이선민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'나혼산' 구성환 \"이선민, 개그계의 최수종\"…집들이 선물에 감동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731234928393"
+        }
+      },
+      {
+        "keyword": "김혜준",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'킬러들의 쇼핑몰' 시즌2, 김혜준 매력 성장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731221414008"
+        }
+      },
+      {
+        "keyword": "유칼",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "DRX, ‘에이밍’ 영입 효과 톡톡 3연패 탈출…브리온 6연패(종합) [LCK]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/P1zqyTSrvB"
+        }
+      },
+      {
+        "keyword": "테더",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"비트코인보다 무섭다\"…블룸버그도 주목한 코스피 변동성",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=08193446645520096"
+        }
+      }
+    ]
   }
 ]
