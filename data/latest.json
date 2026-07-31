@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-01T04:07:49.257823+09:00",
-  "label": "04:07",
+  "timestamp": "2026-08-01T05:53:19.966717+09:00",
+  "label": "05:53",
   "items": [
     {
       "keyword": "버밍엄 대 바르셀로나",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명",
         "source": "Daum",
@@ -23,23 +23,43 @@
       }
     },
     {
-      "keyword": "복도",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"내 집 좁아\" 아파트 복도에 실외기 둔 입주민…\"전선 잘라라\" 뜻밖의 결과",
-        "source": "땅집고",
-        "url": "https://realty.chosun.com/site/data/html_dir/2026/07/31/2026073102437.html"
-      }
-    },
-    {
       "keyword": "데드캣",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "악몽의 7월 끝, 8월은 웃을까…팔란티어·샌디스크 실적까지 확인해야 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/07/31/2026073116493843008"
+        "title": "“믿음이 없어요” 개미 오늘 10조 던졌다…역대 최대",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11606477"
+      }
+    },
+    {
+      "keyword": "아틀레티코 마드리드",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "마드리드보다 빨랐던 ‘이강인’ 도림동 피셜의 전말은?",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8622574"
+      }
+    },
+    {
+      "keyword": "주식시장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'코스피 폭등의 역설' 돈 필요한 기업들 \"주식시장 No, 은행 대출 Yes!\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/uaUHCid8jf"
+      }
+    },
+    {
+      "keyword": "birmingham vs barcelona",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "¿Cómo ver el partido del Barcelona vs Birmingham en TV y streaming?",
+        "source": "Sports Illustrated",
+        "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-barcelona-vs-birmingham-en-tv-y-streaming-31-07-2026"
       }
     },
     {
@@ -63,23 +83,13 @@
       }
     },
     {
-      "keyword": "덕분",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[오피셜] '도핑 징계' 무드리크가 돌아왔다! CAS 항소 후 즉시 복귀→\"내 커리어 통틀어 가장 힘든 시기, 매일 열심히 훈련할 것\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260801n00293"
-      }
-    },
-    {
       "keyword": "디즈니",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "머더클럽",
-        "source": "Disney Plus",
-        "url": "https://www.disneyplus.com/ko-kr/browse/entity-02b192fc-8bd3-498e-ac64-65245666fc39"
+        "title": "절박한 디즈니+ 구원투수로 떠오른 MLB와 롤라팔루자 [엔터그알]",
+        "source": "MTN 머니투데이방송",
+        "url": "https://news.mtn.co.kr/news-detail/2026072916122161334"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "스카이스캐너, ‘스마트 트래블 어워즈’ 한국에서 최초로 선보여",
+        "title": "외국인에 인천~제주 항공권 무료 지원…지역관광 활성화 나선다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260730104440876"
-      }
-    },
-    {
-      "keyword": "이선민",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"어떤 미친X이 이걸…\" 구성환, 이선민 집들이 선물에 경악 '뭐길래?' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080102412237921"
+        "url": "https://v.daum.net/v/20260730173304610"
       }
     }
   ]
