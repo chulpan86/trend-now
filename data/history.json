@@ -1788,5 +1788,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-01T06:56:49.004031+09:00",
+    "label": "06:56",
+    "items": [
+      {
+        "keyword": "노소영",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "최태원ㆍ노소영, 세기의 이혼소송… 네 번째 반전은 날짜였다",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53904"
+        }
+      },
+      {
+        "keyword": "aig 여자오픈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "유해란, 메이저 3연승 향해 순항…AIG 여자오픈 2R 선두",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801010500007"
+        }
+      },
+      {
+        "keyword": "아성다이소",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607292298i"
+        }
+      },
+      {
+        "keyword": "투표",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"선관위, 작년 대선 투표자 수 수정 81건…재작년 총선은 65건\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801060151941"
+        }
+      },
+      {
+        "keyword": "마이클 버리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SK하이닉스 상한가 찍은 날…‘빅쇼트’ 버리, 반도체주 공매도 늘렸다 [머니+]",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260731021058303"
+        }
+      },
+      {
+        "keyword": "бирмингем сити – барселона",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "«Барселона» не удержала победный счёт в контрольном матче с «Бирмингем Сити»",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6565918-birmingem-siti-barselona-rezultat-matcha-31-iyulya-schet-2-2-tovarischeskij-match.html"
+        }
+      },
+      {
+        "keyword": "염정아",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "염정아, SNS 개설 후 반전 일상…남편·동료와 다정한 투샷 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003732033"
+        }
+      },
+      {
+        "keyword": "엔비디아 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "8월 26일 2분기 실적 발표 예정…시간외 약세로 190달러 이탈",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02364886645519768"
+        }
+      },
+      {
+        "keyword": "사기",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "병원-보험설계사 짜고 치아보험 사기…보험금 22억원 가로채",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731105452869"
+        }
+      },
+      {
+        "keyword": "록히드 마틴 f-35 라이트닝 ii",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Sukhoi Su-35 Flanker-E — History, Specs & Stories",
+          "source": "MiGFlug",
+          "url": "https://migflug.com/ru/%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82/su-35-flanker-e/"
+        }
+      }
+    ]
   }
 ]
