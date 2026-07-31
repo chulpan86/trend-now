@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29T21:55:26.246755+09:00",
-    "label": "21:55",
-    "items": [
-      {
-        "keyword": "어머니",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "'슈돌' 한다감, 육아 15분만에 진땀…\"촬영보다 힘들어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729210550997"
-        }
-      },
-      {
-        "keyword": "보이콧",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "“음악을 지역·언어로 구분 말아야”…BTS, 내년 그래미상 출품 거부",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729211127143"
-        }
-      },
-      {
-        "keyword": "제주 대 화성",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "18경기 무승 늪 … 광주FC, 코리아컵서 ‘반등의 슛’ 쏜다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728220435038"
-        }
-      },
-      {
-        "keyword": "수의사",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729122553559"
-        }
-      },
-      {
-        "keyword": "코리아컵",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "체면 구긴 K리그1 강호들…서울·울산 나란히 코리아컵 탈락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729180900007"
-        }
-      },
-      {
-        "keyword": "윤경호",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727101600005"
-        }
-      },
-      {
-        "keyword": "파키스탄",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Pakistan accused of fatally shooting 30 unarmed protesters in Kashmir",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/28/pakistan-accused-firing-unarmed-protesters-kashmir-killings"
-        }
-      },
-      {
-        "keyword": "spurs vs sydney fc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt"
-        }
-      },
-      {
-        "keyword": "킥보드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "킥보드 타고 행인에 침 뱉고 욕설한 중학생들…한 명은 ‘촉법소년’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729103740376"
-        }
-      },
-      {
-        "keyword": "돈선태",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "또 '무섭노' 내걸었다 아차차...리센느+'돈선태' 썸네일 긴급 수정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/07/29/GM4WEMJZGMZGKODDMU3TEN3EGU/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-30T00:04:47.679755+09:00",
     "label": "00:04",
     "items": [
@@ -2005,6 +1899,112 @@
           "title": "4조원대 시설투자 재검토…조지훈 전주시장 \"재정 정상화 올인\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260730113907307"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-31T10:51:52.112435+09:00",
+    "label": "10:51",
+    "items": [
+      {
+        "keyword": "상한가",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "뉴욕증시, 반도체주 반등에 강세 마감…하이닉스ADR 18%↑(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731008251072"
+        }
+      },
+      {
+        "keyword": "하이닉스 주가",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "최태원, 처음으로 SK하이닉스 주식 샀다···보통주 3620주 매수 “책임경영 차원”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607301943001"
+        }
+      },
+      {
+        "keyword": "달러 환율",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "원화값 올라도 넉다운…코스피는 긴축이 걱정스럽다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731000447412"
+        }
+      },
+      {
+        "keyword": "aig 여자오픈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "유해란, 5언더파 신바람…'메이저 3연승 진군은 시작됐다'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731060237299"
+        }
+      },
+      {
+        "keyword": "민주당 전당대회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김영환 “정청래, 대통령과 사선 함께 넘은 동지…일부 ‘반명몰이’ ”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729154048379"
+        }
+      },
+      {
+        "keyword": "삼성전기 주가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "빅테크와 직접 거래 늘린 삼성전기…MLCC·기판 슈퍼사이클 올라탔다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/07/30/IGOXANO4WZEX3GQ4TTGY3SYVXY/"
+        }
+      },
+      {
+        "keyword": "kospi",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KRX activates buy-side sidecar for KOSPI on sharp rise",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260731002400320"
+        }
+      },
+      {
+        "keyword": "삼성전자 주식",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "제일기획, 삼성생명 특계 장내 매도에 최대주주 지분 28.32%로 하락",
+          "source": "데이터투자",
+          "url": "https://www.datatooza.com/article/20260731093157520952ef34b547_80"
+        }
+      },
+      {
+        "keyword": "코스피 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“단순한 도박장 됐다” “비이성적인 현상”···‘한 달 만에 34% 폭락’ 코스피, 전 세계 하락률 1위",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607301706001"
+        }
+      },
+      {
+        "keyword": "한미반도체 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[특징주] 한미반도체, 美 반도체 반등 힘입어 21%대 급등 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/07/31/L5EUGOPMCVFXZM72QNRGHPKUXA/"
         }
       }
     ]
