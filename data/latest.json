@@ -1,35 +1,55 @@
 {
-  "timestamp": "2026-08-01T00:54:08.399085+09:00",
-  "label": "00:54",
+  "timestamp": "2026-08-01T02:18:57.701812+09:00",
+  "label": "02:18",
   "items": [
     {
-      "keyword": "제이쓴",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "thứ hạng của đội tuyển bóng đá quốc gia việt nam gặp đội tuyển bóng đá quốc gia singapore",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "‘홍현희♥’ 제이쓴 아들, 단체 운동 체질?..첫 축구수업 “매일 새롭다” [순간포착]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/31/HBRTGOJXHA4GKZBXGBTDSNTDMU/"
+        "title": "HLV Kim khó chịu với Đình Bắc",
+        "source": "Znews",
+        "url": "https://znews.vn/hlv-kim-kho-chiu-voi-dinh-bac-post1673965.html"
       }
     },
     {
-      "keyword": "마니산",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "복도",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "인천 강화도 마니산 등산로서 60대 사망…부검 의뢰",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260731084900065"
+        "title": "작년에도 그러더니…\"집 좁아\" 아파트 복도에 에어컨 '실외기' 둔 이웃",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260731n17224"
       }
     },
     {
-      "keyword": "박지현",
+      "keyword": "데드캣",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "코스피 역대 기록 다 깼다…‘단숨에 1001p’ 사상 최대 폭등",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12311174"
+      }
+    },
+    {
+      "keyword": "넥슨",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[포토] 박지훈, 대세",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/entertain_photo/2026/07/31/MZRDQOJYMI3TGY3FG5SDMNZQG4/"
+        "title": "넥슨, 화상 아동 18명 첫 수술 돕는다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731105250775"
+      }
+    },
+    {
+      "keyword": "덕분",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“명퇴 후 체인점 2곳 운영… 철저한 시장 분석 덕분”[은퇴 레시피]",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260731/134403611/2"
       }
     },
     {
@@ -43,23 +63,23 @@
       }
     },
     {
-      "keyword": "은중과 상연",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "디즈니",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "김고은, '청룡시리즈어워즈' 대상 영예…박해수·신혜선 주연상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731230512804?f=m"
+        "title": "절박한 디즈니+ 구원투수로 떠오른 MLB와 롤라팔루자 [엔터그알]",
+        "source": "MTN 머니투데이방송",
+        "url": "https://news.mtn.co.kr/news-detail/2026072916122161334"
       }
     },
     {
-      "keyword": "허수아비",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "제주항공",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "[포토] 청룡시리즈어워즈 대상 김고은-임윤아, 행복한 순간",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/entertain_photo/2026/08/01/MY2TOZJWGNQTGMLGHBQWIMZRME/"
+        "title": "스카이스캐너, ‘스마트 트래블 어워즈’ 한국에서 최초로 선보여",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260730104440876"
       }
     },
     {
@@ -80,26 +100,6 @@
         "title": "'킬러들의 쇼핑몰' 시즌2, 김혜준 매력 성장",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260731221414008"
-      }
-    },
-    {
-      "keyword": "유칼",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "DRX, ‘에이밍’ 영입 효과 톡톡 3연패 탈출…브리온 6연패(종합) [LCK]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/P1zqyTSrvB"
-      }
-    },
-    {
-      "keyword": "테더",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"비트코인보다 무섭다\"…블룸버그도 주목한 코스피 변동성",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=08193446645520096"
       }
     }
   ]
