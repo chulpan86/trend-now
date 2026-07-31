@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-01T07:54:47.919324+09:00",
-  "label": "07:54",
+  "timestamp": "2026-08-01T08:53:12.158162+09:00",
+  "label": "08:53",
   "items": [
     {
-      "keyword": "폴더 블 스마트 폰",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "화재",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'마이 팬캠'으로 동영상 콘텐츠 뚝딱…'갤럭시 Z 폴드8' 써보니[토요리뷰]",
+        "title": "전 재산 날리고 목숨도 위태…무개념 창 닫고 ‘에어컨 풀가동’ [세상&]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801060527074"
+        "url": "https://v.daum.net/v/20260731164652127"
       }
     },
     {
-      "keyword": "디지털타임스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "청계천 ‘물 첨벙’ 첫날 가보니…“시원하고 여유로워” vs “자연 즐기는데 제재 느껴”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801053113686"
-      }
-    },
-    {
-      "keyword": "방탄소년단",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "45억 주고 산 집인데…BTS 진, 7년 만에 '깜짝' [집코노미-핫!부동산]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026073187087"
-      }
-    },
-    {
-      "keyword": "전원주",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'86세' 전원주, 33세 몸짱남 가슴 더듬더듬…\"성희롱\" vs \"예능\" 시끌 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073120421397999"
-      }
-    },
-    {
-      "keyword": "s&p 500",
+      "keyword": "넬리 코다",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "S&P 500 Top Stock Gainers Today, 7/31/26",
-        "source": "TipRanks",
-        "url": "https://www.tipranks.com/news/sp-500-top-stock-gainers-today-7-31-26-2"
+        "title": "유해란, 메이저 3연승 향해 순항…AIG 여자오픈 2R 선두",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260801010500007"
       }
     },
     {
-      "keyword": "서인영",
+      "keyword": "경제",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "다이어트 성공한 서인영, '원조 신상녀' 귀환 예고→드디어 '워터밤' 출격",
+        "title": "\"안 입는 옷 빌려줬더니 月 수천만원\"…美서 뜨는 이 사업 뭐길래",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260731100046460"
+        "url": "https://v.daum.net/v/20260731154041776"
       }
     },
     {
-      "keyword": "vix",
+      "keyword": "복권",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "억쑤로 운 좋은 베트남 거주 한인, 한화 54억원 복권 당첨",
+        "source": "재외동포신문",
+        "url": "https://www.dongponews.net/news/articleView.html?idxno=59619"
+      }
+    },
+    {
+      "keyword": "대구 도시철도 1호선",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "대구도시철도 1호선 연장 공청회…경산·영천 주민 ‘거센 반발’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731184953203"
+      }
+    },
+    {
+      "keyword": "임신",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "India VIX Ends July at 11.75 as Volatility Moderates",
-        "source": "HDFC Sky",
-        "url": "https://hdfcsky.com/news/india-vix-falls-3-37-percent-july-end-volatility-rbi-rule-changes-july-31-2026"
+        "title": "언제까지 임신한 여성을 방치할 겁니까",
+        "source": "한겨레21",
+        "url": "https://h21.hani.co.kr/arti/society/society_general/59707.html"
       }
     },
     {
-      "keyword": "nvda",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "싸이",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Cathie Wood’s ARK buys $15.6M in Nvidia shares across five ETFs",
-        "source": "eciks.org",
-        "url": "https://eciks.org/17444-cathie-wood-ark-nvidia-purchase"
-      }
-    },
-    {
-      "keyword": "tqqq",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "TQQQ's $10K investment since Nov 2022 grew to $60K amid AI-driven tech surge, but with high risk.",
-        "source": "Pluang",
-        "url": "https://pluang.com/en/news-feed/tqqq-investasi-10000-dolar-nilai-sekarang"
-      }
-    },
-    {
-      "keyword": "연합뉴스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "보수화하는 남미…브라질 좌파 생존전략은 '80대 대부' 룰라",
+        "title": "“가사 반이 ‘뛰어’, 안 지겹냐” 악플 고정한 싸이…“와보시면 아실 거예요”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801070059453"
+        "url": "https://v.daum.net/v/20260731144500644"
+      }
+    },
+    {
+      "keyword": "파리 생제르맹 fc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"가장 필요한 포지션은 아니다\"…리버풀 레전드 소신 발언, 'LEE 전 동료' 영입 우려",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731110549378"
+      }
+    },
+    {
+      "keyword": "휴머노이드 로봇",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "삼성전자, 휴머노이드 로봇에 꽂히다",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12113331"
+      }
+    },
+    {
+      "keyword": "인천 도시철도 2호선",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘인천 2호선 개통 10주년’ 기념식 열려",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8625097"
       }
     }
   ]
