@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-08-01T23:24:31.544638+09:00",
-  "label": "23:24",
+  "timestamp": "2026-08-02T00:52:08.974167+09:00",
+  "label": "00:52",
   "items": [
     {
       "keyword": "당대표",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "민주당 충청서 경선 시작‥오후 첫 결과 발표",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6841688_36967.html"
+        "title": "민주당 당대표 첫 경선지 충청권서 김민석 1위···정청래와 불과 0.44%P차 ‘초박빙’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608012054001"
       }
     },
     {
-      "keyword": "로또1235",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "하비에르 아기레",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "로또 1235회 1등 '9명' 30.9억씩 받는다…당첨번호는? - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/01/2026080119140324843"
+        "title": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801182809885"
       }
     },
     {
@@ -33,13 +33,43 @@
       }
     },
     {
+      "keyword": "uap",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Top-secret files reveal 'metallic triangle UFO' lurking over Brit holiday hotspot",
+        "source": "Daily Star",
+        "url": "https://www.dailystar.co.uk/news/latest-news/top-secret-files-reveal-metallic-37500129"
+      }
+    },
+    {
+      "keyword": "옥수수 버거",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“돌 씹힌다”…출시 2주만에 100만개나 팔린 인기 버거 ‘조기 종료’",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/society/12114299"
+      }
+    },
+    {
       "keyword": "원자력",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한수원 포천양수건설소, 발전소 주변 지역 지원사업 공모",
+        "title": "한울본부, 2027년 한수원 지원사업 공모…8월 말까지 접수",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6556679"
+      }
+    },
+    {
+      "keyword": "아옳이",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'돌싱' 아옳이, 미남 남자친구 얼굴 최초 공개 '미남 배우 뺨치는 상남자'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/qouZbEcn58"
+        "url": "https://v.daum.net/v/20260801212211610"
       }
     },
     {
@@ -47,19 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "united-v-atletico-de-madrid-1-august | Manchester United",
-        "source": "Manchester United Website",
-        "url": "https://www.manutd.com/en/mutv/matches/mens-team/united-v-atletico-de-madrid-1-august"
-      }
-    },
-    {
-      "keyword": "옥수수 버거",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111&pWise=sub&pWiseSub=R4"
+        "title": "Manchester United Edges Atlético Madrid 2-1 in Preseason",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/08/02/5P3FPQCHURCOLBE5BVO4L4FEGM/"
       }
     },
     {
@@ -67,29 +87,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'우승 후보' 수원, 충북청주와 극적 2-2 무승부…화성은 대구 대파",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260801_0003732712"
-      }
-    },
-    {
-      "keyword": "표승주",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "흥국생명·현대건설, 여자배구 슈퍼매치서 나란히 패배(종합)",
+        "title": "K리그2 수원 팬들, 역전골 취소 판정에 \"심판 나와\" 점거 시위(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260801036151007"
-      }
-    },
-    {
-      "keyword": "원이 논란",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘충주맨’ 김선태, ‘돈선태 성공시대’ 자진 하차···리센느 ‘사투리 논란’에 “능력 부족”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607311730001"
+        "url": "https://www.yna.co.kr/view/AKR20260801053951064"
       }
     },
     {

@@ -1890,5 +1890,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T00:52:08.974167+09:00",
+    "label": "00:52",
+    "items": [
+      {
+        "keyword": "당대표",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "민주당 당대표 첫 경선지 충청권서 김민석 1위···정청래와 불과 0.44%P차 ‘초박빙’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608012054001"
+        }
+      },
+      {
+        "keyword": "하비에르 아기레",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801182809885"
+        }
+      },
+      {
+        "keyword": "lck",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Nongshim Defeats BFX 2-1, Secures Second Consecutive Win in Round 3",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24368/nongshim-defeats-bfx-2-1-secures-second-consecutive-win-in-round-3"
+        }
+      },
+      {
+        "keyword": "uap",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Top-secret files reveal 'metallic triangle UFO' lurking over Brit holiday hotspot",
+          "source": "Daily Star",
+          "url": "https://www.dailystar.co.uk/news/latest-news/top-secret-files-reveal-metallic-37500129"
+        }
+      },
+      {
+        "keyword": "옥수수 버거",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“돌 씹힌다”…출시 2주만에 100만개나 팔린 인기 버거 ‘조기 종료’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12114299"
+        }
+      },
+      {
+        "keyword": "원자력",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "한울본부, 2027년 한수원 지원사업 공모…8월 말까지 접수",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6556679"
+        }
+      },
+      {
+        "keyword": "아옳이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'돌싱' 아옳이, 미남 남자친구 얼굴 최초 공개 '미남 배우 뺨치는 상남자'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801212211610"
+        }
+      },
+      {
+        "keyword": "mutv",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Manchester United Edges Atlético Madrid 2-1 in Preseason",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/02/5P3FPQCHURCOLBE5BVO4L4FEGM/"
+        }
+      },
+      {
+        "keyword": "수원삼성",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "K리그2 수원 팬들, 역전골 취소 판정에 \"심판 나와\" 점거 시위(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801053951064"
+        }
+      },
+      {
+        "keyword": "시바이누코인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "시바이누, 일주일간 13% '쑥'…韓 투자자 '인기 코인' 부상[코인현미경]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801070136483"
+        }
+      }
+    ]
   }
 ]
