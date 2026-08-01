@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-07-31T00:01:54.901558+09:00",
-    "label": "00:01",
-    "items": [
-      {
-        "keyword": "치매",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "Limiting sugar before age two linked to better brain health",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/clyx85z1ld5o"
-        }
-      },
-      {
-        "keyword": "이도윤",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'10만달러의 기적' 왕옌청, 아시안게임서 한국에 부메랑되나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730091255736"
-        }
-      },
-      {
-        "keyword": "언니네 산지직송3",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김선영 \"태어나서 한 번도 이불 갠 적 없어\"..염정아 '경악' [언니네3][별별TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730211050370"
-        }
-      },
-      {
-        "keyword": "sh공사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "SH, 재개발 임대주택 3421가구 청약 접수… 27년 2월 입주 예정 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/07/30/PFMZJOU56BDWXCJ76LRYQXFZIM/"
-        }
-      },
-      {
-        "keyword": "음료",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "스타벅스 \"'피치 리프레셔' 한 달 만에 30만잔…2030이 71%\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730094154346"
-        }
-      },
-      {
-        "keyword": "비디디",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "팀원과 갈등→KRX 行 ‘에이밍’ 김하람, SNS 통해 심경 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PY5KdOmjSx"
-        }
-      },
-      {
-        "keyword": "노웨이홈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘범죄도시4·인피니티 워’ 급으로 무섭게 질주···‘스파이더맨4’ 개봉 이틀 만에 100만 돌파",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607301725001"
-        }
-      },
-      {
-        "keyword": "krx",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "South Korea’s stock-market boom is collapsing spectacularly",
-          "source": "The Economist",
-          "url": "https://www.economist.com/business/2026/07/29/south-koreas-stock-market-boom-is-collapsing-spectacularly"
-        }
-      },
-      {
-        "keyword": "순천향대학교 의과대학",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독]의대 11명 초과 선발 순천향대…징계는 경고·주의에 그쳐(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730162702255"
-        }
-      },
-      {
-        "keyword": "광역철도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "민경선 고양시장, 국토부 2차관에게 고양은평선 일산 연장 등 건의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729182403025?f=p"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-31T02:14:31.885417+09:00",
-    "label": "02:14",
-    "items": [
-      {
-        "keyword": "미확인 비행체",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'미확인 비행체'에 민통선 대피 소동‥합참 \"훈련하던 美측 무인기\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6841293_36911.html"
-        }
-      },
-      {
-        "keyword": "마이크로소프트",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"고수익 초지능 AI 개발 노리는 메타\"...저커버그, 클라우드 진출 언급 자제",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202607302345076007"
-        }
-      },
-      {
-        "keyword": "이영애",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'55세' 이영애, 얼굴선 타고 내린 더듬이 헤어…'시크미의 정석' [MD★스타]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YUjJkRx2EO?f=p"
-        }
-      },
-      {
-        "keyword": "대한민국 법무부",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "우수 청년 난민, 국내 대학 진학과 자립 돕는다",
-          "source": "재외동포신문",
-          "url": "http://www.dongponews.net/news/articleView.html?idxno=59563"
-        }
-      },
-      {
-        "keyword": "비디디",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "팀원과 갈등→KRX 行 ‘에이밍’ 김하람, SNS 통해 심경 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PY5KdOmjSx"
-        }
-      },
-      {
-        "keyword": "간선 급행 버스 체계",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010&pWise=main&pWiseMain=A9"
-        }
-      },
-      {
-        "keyword": "샌디스크 주가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "샌디스크 주가, 오늘 급등한 이유는?",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2037495"
-        }
-      },
-      {
-        "keyword": "sadie sink",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
-          "source": "Entertainment Weekly",
-          "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953"
-        }
-      },
-      {
-        "keyword": "ramayana trailer 2026",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘Ramayana’ Trailer: Ranbir Kapoor and Yash Face Off in First Part of Nitesh Tiwari’s Epic",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/ramayana-trailer-ranbir-kapoor-yash-1236819671/"
-        }
-      },
-      {
-        "keyword": "톰 홀랜드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'스파이더맨' 톰홀랜드, 가수 거미 '샤라웃' 실화..에픽하이 만났다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730201338017"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-31T04:09:10.326698+09:00",
     "label": "04:09",
     "items": [
@@ -2001,6 +1789,112 @@
           "title": "[음악중심M] 김용빈의 청량한 눈웃음, 무더위도 지워냈다",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/513074"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-01T14:18:14.329474+09:00",
+    "label": "14:18",
+    "items": [
+      {
+        "keyword": "손예진",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"월 이자만 5천만원\" 손예진이 244억 쓴 빌딩, 공실에 벼랑 끝 선택",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/31/2026073102310.html"
+        }
+      },
+      {
+        "keyword": "열대야",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "양산 나흘째 40도 넘겨...최고기온 기록 또 경신할 듯",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/08/01/XOR2DHB7FNCF7AV5QOB5SZ62UM/"
+        }
+      },
+      {
+        "keyword": "국민연금공단",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국민연금 리밸런싱 숙제 미뤘나…7월 수천억 '순매수' 전환",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801050325568?f=p"
+        }
+      },
+      {
+        "keyword": "거점국립대학교",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "거점국립대 3곳 우선 선정…“충남대, 사활 걸어야”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731195140943"
+        }
+      },
+      {
+        "keyword": "f-35b",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "F-35 jet ‘mishap’ on San Diego Marine base, pilot ejected",
+          "source": "FOX 5 San Diego & KUSI News",
+          "url": "https://fox5sandiego.com/news/local-news/smoke-fire-mcas-miramar/"
+        }
+      },
+      {
+        "keyword": "오픈ai",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "오픈AI, 차세대 '아스트라' 비공개 시연…\"에이전트 패러다임 전환\"",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213427"
+        }
+      },
+      {
+        "keyword": "김현정",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "빅히트뮤직 김현정 부대표, 美 빌보드 '2026 40 언더 40' 선정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731201246462"
+        }
+      },
+      {
+        "keyword": "시장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美연준위원 3인, 금리인상 공개 촉구…\"늦기 전에 행동해야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801005700072"
+        }
+      },
+      {
+        "keyword": "질병관리청",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "연구용 혈액·유전체 정보 등 10만명분 인체자원 추가 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731042700530"
+        }
+      },
+      {
+        "keyword": "알뜰폰",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "알뜰폰도 '데이터 안심옵션' 도입…다 써도 계속 쓴다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969169"
         }
       }
     ]

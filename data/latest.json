@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-01T10:53:07.706908+09:00",
-  "label": "10:53",
+  "timestamp": "2026-08-01T14:18:14.329474+09:00",
+  "label": "14:18",
   "items": [
     {
-      "keyword": "자오즈민",
+      "keyword": "손예진",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "\"월 이자만 5천만원\" 손예진이 244억 쓴 빌딩, 공실에 벼랑 끝 선택",
+        "source": "땅집고",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/07/31/2026073102310.html"
+      }
+    },
+    {
+      "keyword": "열대야",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "탁구 안 시키길 잘했네…우승 없이 '310억' 번 탁구 전설 아들의 눈물",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260729512179"
+        "title": "양산 나흘째 40도 넘겨...최고기온 기록 또 경신할 듯",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/transport-environment/2026/08/01/XOR2DHB7FNCF7AV5QOB5SZ62UM/"
       }
     },
     {
-      "keyword": "하주석",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "국민연금공단",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"하주석 트레이드, 하늘의 선견지명인지\" 결국 터지는 80억 박찬호 공백, KIA 숙제 안 끝난다",
+        "title": "국민연금 리밸런싱 숙제 미뤘나…7월 수천억 '순매수' 전환",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801011151413"
+        "url": "https://v.daum.net/v/20260801050325568?f=p"
       }
     },
     {
-      "keyword": "박미선",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "거점국립대학교",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'항암 16번' 이겨낸 박미선에 누가 돌을 던지나..\"그만 나오라고\" 악플 고충 토로 [핫피플]",
+        "title": "거점국립대 3곳 우선 선정…“충남대, 사활 걸어야”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801071810734"
+        "url": "https://v.daum.net/v/20260731195140943"
       }
     },
     {
-      "keyword": "구성환",
+      "keyword": "f-35b",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "구성환, 집 옥상에 꽃분이 새겼다…펫로스증후군 극복 추모에 '먹먹'",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260801n02615"
+        "title": "F-35 jet ‘mishap’ on San Diego Marine base, pilot ejected",
+        "source": "FOX 5 San Diego & KUSI News",
+        "url": "https://fox5sandiego.com/news/local-news/smoke-fire-mcas-miramar/"
       }
     },
     {
-      "keyword": "전병우",
+      "keyword": "오픈ai",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "폭염과 싸운 선수들, 얼마나 힘들었으면…3안타 2타점 소감이 \"상대도 우리도 어지럼증, 빨리 시원해졌으면\"",
+        "title": "오픈AI, 차세대 '아스트라' 비공개 시연…\"에이전트 패러다임 전환\"",
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213427"
+      }
+    },
+    {
+      "keyword": "김현정",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "빅히트뮤직 김현정 부대표, 美 빌보드 '2026 40 언더 40' 선정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801000507646"
+        "url": "https://v.daum.net/v/20260731201246462"
       }
     },
     {
-      "keyword": "서울역",
+      "keyword": "시장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "월수금은 서울역, 목금은 청량리역… 지하철역 비둘기 민원 급증 왜?",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/08/01/GIKYG3NU2REQ5GXN4AATWM3F6E/"
+        "title": "美연준위원 3인, 금리인상 공개 촉구…\"늦기 전에 행동해야\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260801005700072"
       }
     },
     {
-      "keyword": "동맹",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "스틸 美대사, 부임 첫날 부모 다녔던 영락교회 방문",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260731/134404651/2"
-      }
-    },
-    {
-      "keyword": "한국여자바둑리그",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'무패 소녀' 정유진, 철원한탄강 주상절리길 승리 견인",
-        "source": "사이버오로",
-        "url": "https://www.cyberoro.com/news/news_view.oro?num=532681"
-      }
-    },
-    {
-      "keyword": "사마라 위빙",
+      "keyword": "질병관리청",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘X-Men’: Samara Weaving Lands Role Of Emma Frost In Upcoming Marvel Studios Pic",
-        "source": "Deadline",
-        "url": "https://deadline.com/2026/07/x-men-samara-weaving-emma-frost-marvel-studios-1237013568/"
+        "title": "연구용 혈액·유전체 정보 등 10만명분 인체자원 추가 공개",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260731042700530"
       }
     },
     {
-      "keyword": "손태진",
+      "keyword": "알뜰폰",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[음악중심M] 김용빈의 청량한 눈웃음, 무더위도 지워냈다",
-        "source": "iMBC 연예",
-        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/513074"
+        "title": "알뜰폰도 '데이터 안심옵션' 도입…다 써도 계속 쓴다",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969169"
       }
     }
   ]
