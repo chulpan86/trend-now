@@ -1788,5 +1788,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-01T21:57:41.158143+09:00",
+    "label": "21:57",
+    "items": [
+      {
+        "keyword": "첼시 대 토트넘",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "'양민혁 결장' 토트넘, 프리시즌 친선경기서 첼시에 2-1 승리...히샬리송 결승골",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112850858"
+        }
+      },
+      {
+        "keyword": "산드로 토날리",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'구단 역대 최고액' 토날리 \"토트넘행 결심에 단 10분 걸렸다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731072939692?f=p"
+        }
+      },
+      {
+        "keyword": "이동석",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이동석 충주시장 \"전국 최연소 시장, 젊고 진취적인 충주\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6556801"
+        }
+      },
+      {
+        "keyword": "창원시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "맨시티",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "필 포든, 마레스카 감독의 '맨시티 데뷔' 인터밀란전에서 주장 완장 차다",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/inter-hong-kong-tour-team-news-tactics-63921176"
+        }
+      },
+      {
+        "keyword": "정해인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정해인, 김동현과 세기의 연기 챌린지 펼친다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260801/134405419/1"
+        }
+      },
+      {
+        "keyword": "문현빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "문현빈 4회말 조기교체 왜? → 노시환-강백호 앞에서 '삼중살' 재앙 됐다…한화 추격 분위기에 '찬물' [수원현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/01/GY4GCYJSGRTDQODFHE4WGMZYGI/"
+        }
+      },
+      {
+        "keyword": "프로 야구",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘너무 더워서 경기 못합니다’···프로야구 부산 사직·창원 경기 ‘폭염 취소’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608011435001"
+        }
+      },
+      {
+        "keyword": "인터뷰",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“‘소지섭 아내’ 아닌 ♥조은정으로 살았으면”..결혼 7년차 남편의 진심",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/31/GFSGGYTBGJTDONDCG5QTEMBQGM/"
+        }
+      },
+      {
+        "keyword": "tennis scores today",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Jodar claws past Musetti to guarantee Top-20 breakthrough, Tabilo stuns Shelton",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/jodar-musetti-washington-2026-friday"
+        }
+      }
+    ]
   }
 ]
