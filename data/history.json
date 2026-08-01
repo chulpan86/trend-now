@@ -2102,5 +2102,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T03:53:58.682221+09:00",
+    "label": "03:53",
+    "items": [
+      {
+        "keyword": "하비에르 아기레",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801182809885"
+        }
+      },
+      {
+        "keyword": "lg에너지솔루션",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "배터리 3사 다시 질주하나…시장 침체 뚫고 흑자전환 성공",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GvbvmdRfcK"
+        }
+      },
+      {
+        "keyword": "맨유",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "오른쪽 아닌 중앙에서도 통했다...음뵈모, ATM전 멀티골 \"명확한 계획이 있었다\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112850941"
+        }
+      },
+      {
+        "keyword": "uap",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "UAP Disclosure is No Longer Optional",
+          "source": "Avi Loeb – Medium",
+          "url": "https://avi-loeb.medium.com/uap-disclosure-is-no-longer-optional-564443bd77ed"
+        }
+      },
+      {
+        "keyword": "아옳이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "아옳이, 커플 사진 공개…열애 상대는 한의사 김형배",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260801_0003732667"
+        }
+      },
+      {
+        "keyword": "옥수수 버거",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111&pWise=sub&pWiseSub=R5"
+        }
+      },
+      {
+        "keyword": "아스날",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "전 세계 뒤흔드는 ‘세기의 이적’ 나온다, ESPN “비니시우스 레알 떠날 가능성…아스널 영입 검토”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4F7SIckLhj"
+        }
+      },
+      {
+        "keyword": "세이디싱크",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080109340608b"
+        }
+      },
+      {
+        "keyword": "mutv",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Man United overturns Atlético 2-1 as Mbeumo scores twice before Lee Kang-in joins - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/02/MS3UZ2UF2JH3NGEPUSX3KIR4IQ/"
+        }
+      },
+      {
+        "keyword": "한서희",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한서희, 아이 품에 안고 공개한 근황…누구?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003731149"
+        }
+      }
+    ]
   }
 ]
