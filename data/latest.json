@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-02T06:43:56.866575+09:00",
-  "label": "06:43",
+  "timestamp": "2026-08-02T07:43:43.601891+09:00",
+  "label": "07:43",
   "items": [
     {
       "keyword": "이천수",
@@ -23,19 +23,29 @@
       }
     },
     {
-      "keyword": "하비에르 아기 레",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "로스앤젤레스 fc",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
+        "title": "손흥민 어쩌나...요리스 분노 터뜨렸는데, '오히려 악화'된 밴쿠버 홈구장 잔디 상태→LAFC '승점 6' 맞대결 앞두고 변수 직면",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801182809885"
+        "url": "https://v.daum.net/v/20260802002307961"
+      }
+    },
+    {
+      "keyword": "송혜교",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "송혜교, 여행을 간 거야 화보를 찍는 거야…일본 뒤집은 '여신 비주얼' [MD★스타]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801075551082"
       }
     },
     {
       "keyword": "일본인",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "\"이런 적은 처음\" 일본인이 사라지고 있다는데…대체 무슨 일",
         "source": "Daum",
@@ -43,33 +53,43 @@
       }
     },
     {
-      "keyword": "고우림",
+      "keyword": "대한민국 축구 국가대표팀",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'고우림♥' 김연아, D사 행사 뜨자 감탄…명품보다 빛난 미모 [★해시태그]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260801n06600"
-      }
-    },
-    {
-      "keyword": "latest iphone rumors",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "iPhone 18 Pro may launch at $1,399 starting price, per report",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/07/31/iphone-18-pro-may-launch-at-1399-starting-price-per-report/"
+        "title": "고대 출신에 놀고 계신 선배는 정진석? 정몽규 동공지진",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12311183"
       }
     },
     {
       "keyword": "아리아나 그란데",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "아리아나 그란데, 8집 '페탈' 발매…2년 만 정규앨범",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260731154753997"
+      }
+    },
+    {
+      "keyword": "정경호",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "효연, '정경호와 결별' 수영 걱정…\"기력 없어 보여\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260801_0003732673"
+      }
+    },
+    {
+      "keyword": "김원형",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[IS 잠실] 승기 잡고도 무승부...김원형 두산 베어스 감독은 왜 격분했나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xOqQKyWIri"
       }
     },
     {
@@ -80,26 +100,6 @@
         "title": "장동민 “가정의 평화 깨지지 않길…” 눈물 (독박투어)",
         "source": "스포츠동아",
         "url": "https://sports.donga.com/ent/article/all/20260801/134405076/1"
-      }
-    },
-    {
-      "keyword": "정경호",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "효연, '정경호와 결별' 수영 걱정…\"기력 없어 보여\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260801_0003732673"
-      }
-    },
-    {
-      "keyword": "김원형",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'혼돈의' 잠실 연장 11회말→경기 다 끝났는데 '격렬 항의' 왜 두산 김원형 감독은 더그아웃 박차고 나갔나 [잠실 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801214809969"
       }
     }
   ]
