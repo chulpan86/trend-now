@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-08-02T01:48:14.607205+09:00",
-  "label": "01:48",
+  "timestamp": "2026-08-02T02:52:22.750636+09:00",
+  "label": "02:52",
   "items": [
-    {
-      "keyword": "민주당 전당 대회",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "민주당 당대표 첫 경선지 충청권서 김민석 1위···정청래와 불과 0.44%P차 ‘초박빙’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608012054001"
-      }
-    },
     {
       "keyword": "맨유",
       "traffic_raw": "2000+",
@@ -27,9 +17,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘캐즘’ 빠졌던 K배터리 3사, ESS 등 AI 수요 업고 흑자 전환",
-        "source": "동아비즈니스리뷰 | DBR",
-        "url": "https://dbr.donga.com/kfocus/view/article_no/3306"
+        "title": "배터리 3사 다시 질주하나…시장 침체 뚫고 흑자전환 성공",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/GvbvmdRfcK"
       }
     },
     {
@@ -43,23 +33,13 @@
       }
     },
     {
-      "keyword": "lck",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Nongshim Defeats BFX 2-1, Secures Second Consecutive Win in Round 3",
-        "source": "Inven Global",
-        "url": "https://www.invenglobal.com/articles/24368/nongshim-defeats-bfx-2-1-secures-second-consecutive-win-in-round-3"
-      }
-    },
-    {
       "keyword": "uap",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Top-secret files reveal 'metallic triangle UFO' lurking over Brit holiday hotspot",
-        "source": "Daily Star",
-        "url": "https://www.dailystar.co.uk/news/latest-news/top-secret-files-reveal-metallic-37500129"
+        "title": "The secret history of America’s UFO ‘legacy program’ explained | Reality Check",
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/the-secret-history-of-americas-ufo-legacy-program-explained-reality-check/"
       }
     },
     {
@@ -67,9 +47,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'돌싱' 아옳이, 미남 남자친구 얼굴 최초 공개 '미남 배우 뺨치는 상남자'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801212211610"
+        "title": "\"예쁘게 봐 주세요\" 아옳이, 새 남친 공개…상대는 한의사 김형배 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080122185217143"
       }
     },
     {
@@ -79,7 +59,17 @@
       "news": {
         "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
         "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111&pWise=sub&pWiseSub=R4"
+        "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111&pWise=sub&pWiseSub=R5"
+      }
+    },
+    {
+      "keyword": "아스날",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "전 세계 뒤흔드는 ‘세기의 이적’ 나온다, ESPN “비니시우스 레알 떠날 가능성…아스널 영입 검토”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/4F7SIckLhj"
       }
     },
     {
@@ -97,9 +87,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "음뵈mo Shines as Central Striker, Scores Two in United's Comeback",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/02/QEXVWNE4GRADHCLITSW6JHTAUQ/"
+        "title": "Man United overturns Atlético 2-1 as Mbeumo scores twice before Lee Kang-in joins - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/08/02/MS3UZ2UF2JH3NGEPUSX3KIR4IQ/"
+      }
+    },
+    {
+      "keyword": "한서희",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "한서희, 아이 품에 안고 공개한 근황…누구?",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260731_0003731149"
       }
     }
   ]
