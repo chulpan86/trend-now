@@ -1,9 +1,29 @@
 {
-  "timestamp": "2026-08-02T05:04:54.833608+09:00",
-  "label": "05:04",
+  "timestamp": "2026-08-02T06:43:56.866575+09:00",
+  "label": "06:43",
   "items": [
     {
-      "keyword": "하비에르 아기레",
+      "keyword": "이천수",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "청문회 향한 이천수의 작심 발언! \"질문하는 사람과 대답하는 사람 꼬여 있어\"…'왜 졌냐'는 황당 질문엔 \"지려고 나가는 사람은 없다, 당황했다\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260801n11016"
+      }
+    },
+    {
+      "keyword": "박진만",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'연패 끊은' 1위 삼성·'4연승' 2위 kt…반게임 차 선두 경쟁(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260731171351007"
+      }
+    },
+    {
+      "keyword": "하비에르 아기 레",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
@@ -13,63 +33,23 @@
       }
     },
     {
-      "keyword": "lg에너지솔루션",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "일본인",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "‘캐즘’ 빠졌던 K배터리 3사, ESS 등 AI 수요 업고 흑자 전환",
-        "source": "동아비즈니스리뷰 | DBR",
-        "url": "https://dbr.donga.com/kfocus/view/article_no/3306"
-      }
-    },
-    {
-      "keyword": "맨유",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "오른쪽 아닌 중앙에서도 통했다...음뵈모, ATM전 멀티골 \"명확한 계획이 있었다\"",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112850941"
-      }
-    },
-    {
-      "keyword": "아스날",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "전 세계 뒤흔드는 ‘세기의 이적’ 나온다, ESPN “비니시우스 레알 떠날 가능성…아스널 영입 검토”",
+        "title": "\"이런 적은 처음\" 일본인이 사라지고 있다는데…대체 무슨 일",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801174751520"
+        "url": "https://v.daum.net/v/41UfzANdga?f=p"
       }
     },
     {
-      "keyword": "uap",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "고우림",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "UAP Disclosure is No Longer Optional",
-        "source": "Avi Loeb – Medium",
-        "url": "https://avi-loeb.medium.com/uap-disclosure-is-no-longer-optional-564443bd77ed"
-      }
-    },
-    {
-      "keyword": "세이디싱크",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080109340608b"
-      }
-    },
-    {
-      "keyword": "아옳이",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "아옳이, 커플 사진 공개…열애 상대는 한의사 김형배",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260801_0003732667"
+        "title": "'고우림♥' 김연아, D사 행사 뜨자 감탄…명품보다 빛난 미모 [★해시태그]",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260801n06600"
       }
     },
     {
@@ -83,23 +63,43 @@
       }
     },
     {
-      "keyword": "mutv",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Departures: Reds leave for Stockholm",
-        "source": "Manchester United Website",
-        "url": "https://www.manutd.com/en/mutv/videos/detail/departures-reds-leave-for-stockholm"
-      }
-    },
-    {
-      "keyword": "고우림",
+      "keyword": "아리아나 그란데",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'고우림♥' 김연아, D사 행사 뜨자 감탄…명품보다 빛난 미모 [★해시태그]",
+        "title": "아리아나 그란데, 8집 '페탈' 발매…2년 만 정규앨범",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801135938898"
+        "url": "https://v.daum.net/v/20260731154753997"
+      }
+    },
+    {
+      "keyword": "장동민",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "장동민 “가정의 평화 깨지지 않길…” 눈물 (독박투어)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260801/134405076/1"
+      }
+    },
+    {
+      "keyword": "정경호",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "효연, '정경호와 결별' 수영 걱정…\"기력 없어 보여\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260801_0003732673"
+      }
+    },
+    {
+      "keyword": "김원형",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'혼돈의' 잠실 연장 11회말→경기 다 끝났는데 '격렬 항의' 왜 두산 김원형 감독은 더그아웃 박차고 나갔나 [잠실 현장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801214809969"
       }
     }
   ]
