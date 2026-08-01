@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-02T03:53:58.682221+09:00",
-  "label": "03:53",
+  "timestamp": "2026-08-02T05:04:54.833608+09:00",
+  "label": "05:04",
   "items": [
     {
       "keyword": "하비에르 아기레",
@@ -17,9 +17,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "배터리 3사 다시 질주하나…시장 침체 뚫고 흑자전환 성공",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/GvbvmdRfcK"
+        "title": "‘캐즘’ 빠졌던 K배터리 3사, ESS 등 AI 수요 업고 흑자 전환",
+        "source": "동아비즈니스리뷰 | DBR",
+        "url": "https://dbr.donga.com/kfocus/view/article_no/3306"
       }
     },
     {
@@ -33,6 +33,16 @@
       }
     },
     {
+      "keyword": "아스날",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "전 세계 뒤흔드는 ‘세기의 이적’ 나온다, ESPN “비니시우스 레알 떠날 가능성…아스널 영입 검토”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801174751520"
+      }
+    },
+    {
       "keyword": "uap",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -40,6 +50,16 @@
         "title": "UAP Disclosure is No Longer Optional",
         "source": "Avi Loeb – Medium",
         "url": "https://avi-loeb.medium.com/uap-disclosure-is-no-longer-optional-564443bd77ed"
+      }
+    },
+    {
+      "keyword": "세이디싱크",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080109340608b"
       }
     },
     {
@@ -53,33 +73,13 @@
       }
     },
     {
-      "keyword": "옥수수 버거",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111&pWise=sub&pWiseSub=R5"
-      }
-    },
-    {
-      "keyword": "아스날",
+      "keyword": "latest iphone rumors",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "전 세계 뒤흔드는 ‘세기의 이적’ 나온다, ESPN “비니시우스 레알 떠날 가능성…아스널 영입 검토”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/4F7SIckLhj"
-      }
-    },
-    {
-      "keyword": "세이디싱크",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080109340608b"
+        "title": "iPhone 18 Pro may launch at $1,399 starting price, per report",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/07/31/iphone-18-pro-may-launch-at-1399-starting-price-per-report/"
       }
     },
     {
@@ -87,19 +87,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Man United overturns Atlético 2-1 as Mbeumo scores twice before Lee Kang-in joins - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/08/02/MS3UZ2UF2JH3NGEPUSX3KIR4IQ/"
+        "title": "Departures: Reds leave for Stockholm",
+        "source": "Manchester United Website",
+        "url": "https://www.manutd.com/en/mutv/videos/detail/departures-reds-leave-for-stockholm"
       }
     },
     {
-      "keyword": "한서희",
+      "keyword": "고우림",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한서희, 아이 품에 안고 공개한 근황…누구?",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260731_0003731149"
+        "title": "'고우림♥' 김연아, D사 행사 뜨자 감탄…명품보다 빛난 미모 [★해시태그]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801135938898"
       }
     }
   ]
