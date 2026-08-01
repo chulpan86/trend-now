@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-01T08:53:12.158162+09:00",
-  "label": "08:53",
+  "timestamp": "2026-08-01T10:53:07.706908+09:00",
+  "label": "10:53",
   "items": [
     {
-      "keyword": "화재",
+      "keyword": "자오즈민",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "탁구 안 시키길 잘했네…우승 없이 '310억' 번 탁구 전설 아들의 눈물",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260729512179"
+      }
+    },
+    {
+      "keyword": "하주석",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "전 재산 날리고 목숨도 위태…무개념 창 닫고 ‘에어컨 풀가동’ [세상&]",
+        "title": "\"하주석 트레이드, 하늘의 선견지명인지\" 결국 터지는 80억 박찬호 공백, KIA 숙제 안 끝난다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260731164652127"
+        "url": "https://v.daum.net/v/20260801011151413"
       }
     },
     {
-      "keyword": "넬리 코다",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "박미선",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "유해란, 메이저 3연승 향해 순항…AIG 여자오픈 2R 선두",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260801010500007"
-      }
-    },
-    {
-      "keyword": "경제",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"안 입는 옷 빌려줬더니 月 수천만원\"…美서 뜨는 이 사업 뭐길래",
+        "title": "'항암 16번' 이겨낸 박미선에 누가 돌을 던지나..\"그만 나오라고\" 악플 고충 토로 [핫피플]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260731154041776"
+        "url": "https://v.daum.net/v/20260801071810734"
       }
     },
     {
-      "keyword": "복권",
+      "keyword": "구성환",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "억쑤로 운 좋은 베트남 거주 한인, 한화 54억원 복권 당첨",
-        "source": "재외동포신문",
-        "url": "https://www.dongponews.net/news/articleView.html?idxno=59619"
+        "title": "구성환, 집 옥상에 꽃분이 새겼다…펫로스증후군 극복 추모에 '먹먹'",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260801n02615"
       }
     },
     {
-      "keyword": "대구 도시철도 1호선",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "대구도시철도 1호선 연장 공청회…경산·영천 주민 ‘거센 반발’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731184953203"
-      }
-    },
-    {
-      "keyword": "임신",
+      "keyword": "전병우",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "언제까지 임신한 여성을 방치할 겁니까",
-        "source": "한겨레21",
-        "url": "https://h21.hani.co.kr/arti/society/society_general/59707.html"
+        "title": "폭염과 싸운 선수들, 얼마나 힘들었으면…3안타 2타점 소감이 \"상대도 우리도 어지럼증, 빨리 시원해졌으면\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801000507646"
       }
     },
     {
-      "keyword": "싸이",
+      "keyword": "서울역",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“가사 반이 ‘뛰어’, 안 지겹냐” 악플 고정한 싸이…“와보시면 아실 거예요”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731144500644"
+        "title": "월수금은 서울역, 목금은 청량리역… 지하철역 비둘기 민원 급증 왜?",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/08/01/GIKYG3NU2REQ5GXN4AATWM3F6E/"
       }
     },
     {
-      "keyword": "파리 생제르맹 fc",
+      "keyword": "동맹",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"가장 필요한 포지션은 아니다\"…리버풀 레전드 소신 발언, 'LEE 전 동료' 영입 우려",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731110549378"
+        "title": "스틸 美대사, 부임 첫날 부모 다녔던 영락교회 방문",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260731/134404651/2"
       }
     },
     {
-      "keyword": "휴머노이드 로봇",
+      "keyword": "한국여자바둑리그",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'무패 소녀' 정유진, 철원한탄강 주상절리길 승리 견인",
+        "source": "사이버오로",
+        "url": "https://www.cyberoro.com/news/news_view.oro?num=532681"
+      }
+    },
+    {
+      "keyword": "사마라 위빙",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "삼성전자, 휴머노이드 로봇에 꽂히다",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12113331"
+        "title": "‘X-Men’: Samara Weaving Lands Role Of Emma Frost In Upcoming Marvel Studios Pic",
+        "source": "Deadline",
+        "url": "https://deadline.com/2026/07/x-men-samara-weaving-emma-frost-marvel-studios-1237013568/"
       }
     },
     {
-      "keyword": "인천 도시철도 2호선",
+      "keyword": "손태진",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘인천 2호선 개통 10주년’ 기념식 열려",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8625097"
+        "title": "[음악중심M] 김용빈의 청량한 눈웃음, 무더위도 지워냈다",
+        "source": "iMBC 연예",
+        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/513074"
       }
     }
   ]
