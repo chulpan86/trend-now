@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-07-31T20:19:55.792717+09:00",
-    "label": "20:19",
-    "items": [
-      {
-        "keyword": "주일 미군",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "北 “한반도 물리적 충돌 시간문제…주일미군이 우리 겨눠”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731080749426"
-        }
-      },
-      {
-        "keyword": "김의겸",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보]김의겸 “‘노무현 죽여버리겠다’ 24년 전 김민석 기사 사실과 달라”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606404"
-        }
-      },
-      {
-        "keyword": "현대건설",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "현대건설, 2분기 영업이익 2618억·전년比 20.7%↑…수주잔고 100조 돌파",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731174848457"
-        }
-      },
-      {
-        "keyword": "sk실트론",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "SK실트론, 2.3조원에 두산 품으로…최태원 회장 지분은 추후 협상",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/31/2026073180148.html"
-        }
-      },
-      {
-        "keyword": "동티모르 대 인도네시아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "동티모르 감독이 인도네시아 국가대표팀에 이상한 메시지를 보냈다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hlv-timor-leste-gui-thong-diep-la-den-tuyen-indonesia"
-        }
-      },
-      {
-        "keyword": "조재호",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'당구여제' 김가영, 다 잡은 승리 놓쳤다…'통산 20승·누적 상금 10억' 대기록 달성 또 무산",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731003137063"
-        }
-      },
-      {
-        "keyword": "28기 영자",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'나솔' 28기 돌싱 커플 영자·영철, 결혼 6개월 만에 이혼…\"혼인신고는 안 해\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731163728684"
-        }
-      },
-      {
-        "keyword": "젠지",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "킨텍스 도서관 만든 T1… ‘톰’ 임재현 “평소 단단한 젠지, 이날은 굳어있다고 느껴”",
-          "source": "스포츠한국",
-          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6937287"
-        }
-      },
-      {
-        "keyword": "베스킨라빈스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "레바논",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "튀르키예, 레바논 파병 검토하나…“유엔군 철수 후 안보 기여”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731184337022"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-31T22:39:42.316488+09:00",
     "label": "22:39",
     "items": [
@@ -2421,6 +2319,108 @@
           "title": "장동민 “가정의 평화 깨지지 않길…” 눈물 (독박투어)",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/ent/article/all/20260801/134405076/1"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-02T08:48:00.164535+09:00",
+    "label": "08:48",
+    "items": [
+      {
+        "keyword": "화이트캡스 대 엘에이 fc",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": null
+      },
+      {
+        "keyword": "삼성전자",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막 수준",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802062659929"
+        }
+      },
+      {
+        "keyword": "월드컵",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"전 세계적 반발에 백기\"…FIFA, 민간에 지분 매각 계획 무산(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801018051007"
+        }
+      },
+      {
+        "keyword": "박서진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "박서진, 은가은에 서운함 토로...\"결혼식 초대 안 해\" (살림남)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801230449550"
+        }
+      },
+      {
+        "keyword": "로스앤젤레스 fc",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "손흥민 어쩌나...요리스 분노 터뜨렸는데, '오히려 악화'된 밴쿠버 홈구장 잔디 상태→LAFC '승점 6' 맞대결 앞두고 변수 직면",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802002307961"
+        }
+      },
+      {
+        "keyword": "김희철",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김희철, 수입 고백 \"13인조 슈퍼주니어 보다 '아형' 때 더 벌어\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/02/2026080207491830231"
+        }
+      },
+      {
+        "keyword": "송혜교",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "송혜교, 여행을 간 거야 화보를 찍는 거야…일본 뒤집은 '여신 비주얼' [MD★스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801075551082"
+        }
+      },
+      {
+        "keyword": "햄버거",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"햄버거 3만원=사치\"?…중학생 혼낸 부모, 역풍 맞았다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260731n08658"
+        }
+      },
+      {
+        "keyword": "살림하는 남자들",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박서진, 유재석x임영웅과 어깨 나란히...\"감개무량해\" [살림남]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801224307474"
+        }
+      },
+      {
+        "keyword": "김요한",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘건물주’ 김요한, 집에서 만화만 본다..탁재훈 “일 안 하니?” (‘신랑수업2’)[순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4lqQg4V7vU"
         }
       }
     ]
