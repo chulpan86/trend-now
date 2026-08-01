@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-08-02T00:52:08.974167+09:00",
-  "label": "00:52",
+  "timestamp": "2026-08-02T01:48:14.607205+09:00",
+  "label": "01:48",
   "items": [
     {
-      "keyword": "당대표",
+      "keyword": "민주당 전당 대회",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
         "title": "민주당 당대표 첫 경선지 충청권서 김민석 1위···정청래와 불과 0.44%P차 ‘초박빙’",
         "source": "경향신문",
         "url": "https://www.khan.co.kr/article/202608012054001"
+      }
+    },
+    {
+      "keyword": "맨유",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "오른쪽 아닌 중앙에서도 통했다...음뵈모, ATM전 멀티골 \"명확한 계획이 있었다\"",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112850941"
+      }
+    },
+    {
+      "keyword": "lg에너지솔루션",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘캐즘’ 빠졌던 K배터리 3사, ESS 등 AI 수요 업고 흑자 전환",
+        "source": "동아비즈니스리뷰 | DBR",
+        "url": "https://dbr.donga.com/kfocus/view/article_no/3306"
       }
     },
     {
@@ -43,29 +63,9 @@
       }
     },
     {
-      "keyword": "옥수수 버거",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“돌 씹힌다”…출시 2주만에 100만개나 팔린 인기 버거 ‘조기 종료’",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/society/12114299"
-      }
-    },
-    {
-      "keyword": "원자력",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "한울본부, 2027년 한수원 지원사업 공모…8월 말까지 접수",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6556679"
-      }
-    },
-    {
       "keyword": "아옳이",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "'돌싱' 아옳이, 미남 남자친구 얼굴 최초 공개 '미남 배우 뺨치는 상남자'",
         "source": "Daum",
@@ -73,33 +73,33 @@
       }
     },
     {
+      "keyword": "옥수수 버거",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111&pWise=sub&pWiseSub=R4"
+      }
+    },
+    {
+      "keyword": "스파이더맨 브랜드 뉴 데이 쿠키영상",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "’스파이더맨 4’, 개봉 4일 만에 200만 돌파…올해 최단 기록",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080109340608b"
+      }
+    },
+    {
       "keyword": "mutv",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Manchester United Edges Atlético Madrid 2-1 in Preseason",
+        "title": "음뵈mo Shines as Central Striker, Scores Two in United's Comeback",
         "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/02/5P3FPQCHURCOLBE5BVO4L4FEGM/"
-      }
-    },
-    {
-      "keyword": "수원삼성",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "K리그2 수원 팬들, 역전골 취소 판정에 \"심판 나와\" 점거 시위(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260801053951064"
-      }
-    },
-    {
-      "keyword": "시바이누코인",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "시바이누, 일주일간 13% '쑥'…韓 투자자 '인기 코인' 부상[코인현미경]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801070136483"
+        "url": "https://www.chosun.com/english/sports-en/2026/08/02/QEXVWNE4GRADHCLITSW6JHTAUQ/"
       }
     }
   ]
