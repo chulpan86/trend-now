@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-02T08:48:00.164535+09:00",
-  "label": "08:48",
+  "timestamp": "2026-08-02T10:49:26.109012+09:00",
+  "label": "10:49",
   "items": [
     {
-      "keyword": "화이트캡스 대 엘에이 fc",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": null
-    },
-    {
-      "keyword": "삼성전자",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막 수준",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802062659929"
-      }
-    },
-    {
-      "keyword": "월드컵",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"전 세계적 반발에 백기\"…FIFA, 민간에 지분 매각 계획 무산(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260801018051007"
-      }
-    },
-    {
-      "keyword": "박서진",
+      "keyword": "aig 여자오픈",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "박서진, 은가은에 서운함 토로...\"결혼식 초대 안 해\" (살림남)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801230449550"
+        "title": "유해란, AIG 여자오픈 3R 부진…선두 내주고 3타 차 공동 2위",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626257"
       }
     },
     {
-      "keyword": "로스앤젤레스 fc",
+      "keyword": "mls",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "손흥민 어쩌나...요리스 분노 터뜨렸는데, '오히려 악화'된 밴쿠버 홈구장 잔디 상태→LAFC '승점 6' 맞대결 앞두고 변수 직면",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802002307961"
+        "title": "Lionel Messi starts on Miami bench following World Cup heartbreak",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49507355/lionel-messi-inter-miami-lineup-columbus-crew-mls-world-cup"
       }
     },
     {
-      "keyword": "김희철",
+      "keyword": "lafc",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "김희철, 수입 고백 \"13인조 슈퍼주니어 보다 '아형' 때 더 벌어\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/02/2026080207491830231"
+        "title": "PREVIEW: 'Caps return to BC Place for enticing clash with rivals LAFC | Watch on Apple TV",
+        "source": "www.whitecapsfc.com",
+        "url": "https://www.whitecapsfc.com/news/preview-caps-return-to-bc-place-lafc"
       }
     },
     {
-      "keyword": "송혜교",
+      "keyword": "코트디부아르 축구 국가대표팀",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "송혜교, 여행을 간 거야 화보를 찍는 거야…일본 뒤집은 '여신 비주얼' [MD★스타]",
+        "title": "한국 4-0 대파했는데 중도 하차라니…사상 첫 월드컵 토너먼트 이끈 뒤 사실상 경질→파에 감독, 코트디부아르와 결별",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801075551082"
+        "url": "https://v.daum.net/v/20260801211031451"
       }
     },
     {
-      "keyword": "햄버거",
+      "keyword": "지방 선거",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"햄버거 3만원=사치\"?…중학생 혼낸 부모, 역풍 맞았다",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260731n08658"
+        "title": "[단독] 3시간 넘게 투표자 수 '0명'…전국 51곳서 '허위 입력' 정황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801212129601"
       }
     },
     {
-      "keyword": "살림하는 남자들",
+      "keyword": "이수현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'30㎏ 감량' 악뮤 수현 \"7㎏ 더 빼고 싶어\" 몰라보게 달라진 근황",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260731_0003731541"
+      }
+    },
+    {
+      "keyword": "이정효",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "K리그2 수원팬들 역전골 취소 판정에 점거 시위",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8626271"
+      }
+    },
+    {
+      "keyword": "gq",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "GQ Eye: 5 coolest things of the week you need to know about",
+        "source": "GQ India",
+        "url": "https://www.gqindia.com/content/gq-eye-coolest-things-of-the-week-you-need-to-know-about"
+      }
+    },
+    {
+      "keyword": "방파제",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "박서진, 유재석x임영웅과 어깨 나란히...\"감개무량해\" [살림남]",
+        "title": "방파제 벽 잡고 버텨.. 제주 해안가서 40·50대 물놀이객 5명 구조",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801224307474"
+        "url": "https://v.daum.net/v/20260801101259755"
       }
     },
     {
-      "keyword": "김요한",
+      "keyword": "투자 전략",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘건물주’ 김요한, 집에서 만화만 본다..탁재훈 “일 안 하니?” (‘신랑수업2’)[순간포착]",
+        "title": "'상한가 폭등' 뒤 엇갈린 승부수…외인·기관은 레버리지, 개인은 인버스로 맞섰다 [증시는 왜]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4lqQg4V7vU"
+        "url": "https://v.daum.net/v/20260802060227700"
       }
     }
   ]
