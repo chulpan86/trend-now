@@ -1,101 +1,97 @@
 {
-  "timestamp": "2026-08-02T17:04:56.151407+09:00",
-  "label": "17:04",
+  "timestamp": "2026-08-02T19:25:14.340370+09:00",
+  "label": "19:25",
   "items": [
     {
-      "keyword": "코오롱 티슈 진",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": null
-    },
-    {
-      "keyword": "태풍 루사",
+      "keyword": "경제",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "[꼬꼬무 찐리뷰] \"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 '루사', 우리가 잊고 있던 그날의 비극",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008684240"
-      }
-    },
-    {
-      "keyword": "김의겸",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "김의겸 \"김민석 '노무현 내가 죽인다' 24년 전 기사 정정\"",
-        "source": "JIBS제주방송",
-        "url": "https://www.jibs.co.kr/news/articles/articlesDetail/64041?feed=da"
-      }
-    },
-    {
-      "keyword": "집",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "20억 아파트에 20년 장기전세… “평생 살겠다” 호소",
+        "title": "중국도 우주 AI 데이터센터 눈 돌려… “컴퓨팅 격차 해소” [차이나우]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/ZGreCJiPho"
+        "url": "https://v.daum.net/v/20260801193309389"
       }
     },
     {
-      "keyword": "스파이더맨 홈커밍",
+      "keyword": "송아지",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "송아지에 우유 먹이다 참변…70대 농장주, 어미 소에 들이받혀 숨져",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/society/12114474"
+      }
+    },
+    {
+      "keyword": "임성근",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "’순직 해병’ 임성근 2심 선고…내일 차가원 구속기로",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH202608021900520xs"
+      }
+    },
+    {
+      "keyword": "원이",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": ", 흥행 역사를 갈아 치우다",
-        "source": "네이버 프리미엄콘텐츠",
-        "url": "https://contents.premium.naver.com/dailyost/film/contents/260802062211771jf"
-      }
-    },
-    {
-      "keyword": "기온",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "경남 양산 ’42.5도‘ 찍었다...국내 최고기온 재차 경신",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/08/02/LAXPICP4PVCV7MZ5ZXCCAAJ6B4/"
-      }
-    },
-    {
-      "keyword": "암벽등반",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "설악산서 암벽등반하던 50대 추락…구조 완료",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6xOem6PKYp"
-      }
-    },
-    {
-      "keyword": "옥순이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘나는 솔로’ 32기 옥순♥광수, ‘현커’ 이어 결혼까지…“암사자와 시컴이”",
+        "title": "[스경X이슈] 리센느 원이, 일진설 제기에 중학교 담임 직접 반박…“근거 없는 비난 멈춰달라”",
         "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607311140003"
+        "url": "https://sports.khan.co.kr/article/202608021026003"
       }
     },
     {
-      "keyword": "지석진",
+      "keyword": "표식",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "광주광역시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "해군",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "태평양 군사판 다시 짜는 美…한국은 어디에 설 것인가 [Focus 인사이드]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802050214407"
+      }
+    },
+    {
+      "keyword": "정지선",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'60세' 지석진 \"30㎝ 샌드위치 3개 먹는다\" 충격…이성민 \"그러니 살 찌셨지\" (풍향중)",
+        "title": "'사당귀' 정지선 \"5년 이상 근속자에 고급차·명품백 선물\" 통큰 복지",
         "source": "Daum",
-        "url": "https://v.daum.net/v/QvgUFmsAZD"
+        "url": "https://v.daum.net/v/20260802134503152"
       }
     },
     {
-      "keyword": "이찬원",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "대한민국",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'월수입 1억' 히밥 \"한 달 식비만 1000만원\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260730_0003730689"
+        "title": "법률소비자연맹 “22대 국회 전반기 의정활동 ‘F학점’…평균 55.69점”",
+        "source": "아시아투데이",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000120"
+      }
+    },
+    {
+      "keyword": "의령군",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "의령군, 전 군민에 민생지원금 50만원…이달 초 지급 목표",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802080953930?f=p"
       }
     }
   ]
