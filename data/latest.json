@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-08-02T23:27:04.191638+09:00",
-  "label": "23:27",
+  "timestamp": "2026-08-03T00:52:40.263987+09:00",
+  "label": "00:52",
   "items": [
-    {
-      "keyword": "박소현",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "47세 신봉선, 핑크빛 사심 고백에 허경환 묘한 분위기 ‘뭐야뭐야’ (미우새)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260731/134403362/1"
-      }
-    },
     {
       "keyword": "재벌x형사",
       "traffic_raw": "2000+",
@@ -20,6 +10,26 @@
         "title": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260802180137229"
+      }
+    },
+    {
+      "keyword": "박소현",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“실버타운 가면 받아주지도 않아” 양정아, 나이 공격하는 신봉선에 언짢♨",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480941624"
+      }
+    },
+    {
+      "keyword": "lck",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we need to regroup\"",
+        "source": "Inven Global",
+        "url": "https://www.invenglobal.com/articles/24385/hanjin-brion-head-coach-kim-sang-soo-our-performance-was-poor-we-need-to-regroup"
       }
     },
     {
@@ -33,33 +43,33 @@
       }
     },
     {
-      "keyword": "영탁",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "임영웅 생일파티 주인공 등장…영탁 \"중요한 녹화 앞뒀다\" 고백",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260802n03161"
-      }
-    },
-    {
-      "keyword": "대구광역시",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "대구 건설현장 사망자 72% 급감…추경호 시장 ‘현장 안전행정’ 성과",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802133244896"
-      }
-    },
-    {
-      "keyword": "유재석",
+      "keyword": "달 탐사",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "100억 벌고 세금만 41억...방송 중 돌연 은행 달려간 유재석",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/0wtRlRe4c9"
+        "title": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/chau-au-muon-la-doi-tac-dong-hanh-voi-my-trong-su-menh-mat-trang"
+      }
+    },
+    {
+      "keyword": "박기량",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260802n14647"
+      }
+    },
+    {
+      "keyword": "앤드류 가필드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Exclusive | How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal",
+        "source": "Page Six",
+        "url": "https://pagesix.com/2026/07/30/celebrity-news/how-andrew-garfield-feels-about-successor-tom-hollands-spider-man-portrayal/"
       }
     },
     {
@@ -73,33 +83,23 @@
       }
     },
     {
-      "keyword": "송가인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "제철리 마을회관 : 수빈, 트로트 귀공자로 다시 태어난 데뷔 무대 ♬ (ft. 힙한 마이크)",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/jecheolrifamily/clip/90047/OC480938327"
-      }
-    },
-    {
-      "keyword": "데이터 센터",
+      "keyword": "잠실대교",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "AI 지출 붐, 두 가지 핵심 정책 리스크에 직면",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/economy-news/article-2040515"
+        "title": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260802580286"
       }
     },
     {
-      "keyword": "김서연",
+      "keyword": "서주원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'흑백' 김도윤 셰프 여친, 배우 김서연이었다 \"내 존재 숨기더라\" [핫피플]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/02/GU4TEZTGGM4WIYRZGRSWCNZWMI/"
+        "title": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6246534"
       }
     }
   ]
