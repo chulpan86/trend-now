@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-02T21:58:05.375447+09:00",
-  "label": "21:58",
+  "timestamp": "2026-08-02T23:27:04.191638+09:00",
+  "label": "23:27",
   "items": [
     {
-      "keyword": "미군",
+      "keyword": "박소현",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "주한미군, 무인기 비행 승인 ‘통상절차’ 안 밟았나…한·미 군사훈련 중 ‘두루미’ 발령, 무슨 일이",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608021721001"
+        "title": "47세 신봉선, 핑크빛 사심 고백에 허경환 묘한 분위기 ‘뭐야뭐야’ (미우새)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260731/134403362/1"
       }
     },
     {
-      "keyword": "산악인",
+      "keyword": "재벌x형사",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'히말라야 14좌 6개월 등정' 네팔 산악인 눈사태로 사망",
+        "title": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260802163327656"
+        "url": "https://v.daum.net/v/20260802180137229"
       }
     },
     {
-      "keyword": "대전 대 광주",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
+      "keyword": "제임스 네일",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "KIA 선수들은 왜 텅 빈 경기장에 나왔을까… 네일은 맨발로 뛰었다, 운명의 15연전 기다린다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802183137841"
+      }
     },
     {
-      "keyword": "맷 데이비슨",
+      "keyword": "영탁",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "임영웅 생일파티 주인공 등장…영탁 \"중요한 녹화 앞뒀다\" 고백",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260802n03161"
+      }
+    },
+    {
+      "keyword": "대구광역시",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "대구 건설현장 사망자 72% 급감…추경호 시장 ‘현장 안전행정’ 성과",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802133244896"
+      }
+    },
+    {
+      "keyword": "유재석",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "데이비슨·김웅빈 '쾅쾅'…꼴찌 키움, 9위 SSG에 설욕",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260802041200007"
+        "title": "100억 벌고 세금만 41억...방송 중 돌연 은행 달려간 유재석",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/0wtRlRe4c9"
       }
     },
     {
-      "keyword": "맥도날드",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260801050900030"
-      }
-    },
-    {
-      "keyword": "김채현",
+      "keyword": "마이클세일러",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[사진] 케플러(Kep1er) 김채현, 깜찍한 시구",
-        "source": "OSEN",
-        "url": "http://www.osen.co.kr/article/G1112851208"
+        "title": "마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1132049"
       }
     },
     {
-      "keyword": "조한선",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "송가인",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "이동욱 “다시 만난 정진만, 기뻤죠…액션 비결은 반복연습뿐”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802152809528"
+        "title": "제철리 마을회관 : 수빈, 트로트 귀공자로 다시 태어난 데뷔 무대 ♬ (ft. 힙한 마이크)",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/jecheolrifamily/clip/90047/OC480938327"
       }
     },
     {
-      "keyword": "월명공원",
+      "keyword": "데이터 센터",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "장기미집행 ‘청주 월명공원’ 58년 만에 시민 품으로",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802133815019"
+        "title": "AI 지출 붐, 두 가지 핵심 정책 리스크에 직면",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/economy-news/article-2040515"
       }
     },
     {
-      "keyword": "시내버스",
+      "keyword": "김서연",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010"
-      }
-    },
-    {
-      "keyword": "마이크론 테크놀로지",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "하이닉스ADR 3.5% 마이크론 5.90% 급락 … 또 '잿빛 월요일' 공포 떠는 韓 증시",
-        "source": "뉴데일리 경제",
-        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/01/2026080100027.html"
+        "title": "'흑백' 김도윤 셰프 여친, 배우 김서연이었다 \"내 존재 숨기더라\" [핫피플]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/02/GU4TEZTGGM4WIYRZGRSWCNZWMI/"
       }
     }
   ]
