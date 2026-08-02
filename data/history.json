@@ -2616,5 +2616,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-03T08:50:19.885519+09:00",
+    "label": "08:50",
+    "items": [
+      {
+        "keyword": "아는 형님",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김희철, 11년 '아형' 스스로 멈춘 이유…강호동 보고 \"이건 안 되겠다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qXr4LPQ9wH"
+        }
+      },
+      {
+        "keyword": "당구",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'아마 휩쓴 김가영 제자' 박정현, 프로당구 '여왕'이 되다[스한 이슈人]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9IRL1vTsl7"
+        }
+      },
+      {
+        "keyword": "신천지예수교 증거장막성전",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]6·3지선 앞두고 ‘신천지 시몬지파’ 與 집단가입 정황 수사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802212449390"
+        }
+      },
+      {
+        "keyword": "진기주",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "미켈 아르테타",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아르테타, '비니시우스 이적설'에 응답 X…\"앞으로 움직임이 있을 거\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802082242041"
+        }
+      },
+      {
+        "keyword": "사학연금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "사학연금, 국내 VC 블라인드펀드 위탁운용사 5곳 선정",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260801000037"
+        }
+      },
+      {
+        "keyword": "포스코",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "포스코퓨처엠, 전기차 판매 부진에 실적회복 더뎌…목표가↓-하나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/08/03/2026080307543075287"
+        }
+      },
+      {
+        "keyword": "전소미",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "전소미, 수영복이 핫걸 담기에 너무 작은 거 아냐? 여름 미모에 '깜짝' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/03/GY4TOMRYGAZWCNJQGMZTGY3CGY/"
+        }
+      },
+      {
+        "keyword": "시바이누코인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "시바이누, 일주일간 13% '쑥'…韓 투자자 '인기 코인' 부상[코인현미경]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801070136483"
+        }
+      },
+      {
+        "keyword": "보조금",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘식재료비 0원’에 널뛰는 전기료… 영양군립요양원 보조금 ‘무법지대’ 파문",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=308133"
+        }
+      }
+    ]
   }
 ]
