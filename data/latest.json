@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-08-03T03:54:39.916719+09:00",
-  "label": "03:54",
+  "timestamp": "2026-08-03T05:05:37.445207+09:00",
+  "label": "05:05",
   "items": [
+    {
+      "keyword": "기상",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "내일(3일)부터 폭염 양상 바뀐다…서쪽 지역도 ‘극한 폭염’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802211811304"
+      }
+    },
     {
       "keyword": "여객선",
       "traffic_raw": "1000+",
@@ -17,9 +27,19 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802194736973"
+        "title": "'양민혁 결장' 토트넘, 프리시즌 친선경기서 첼시에 2-1 승리...히샬리송 결승골 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/01/202608012100778431O"
+      }
+    },
+    {
+      "keyword": "수영",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'효리수' 수영, 냉장고 공개",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260802_0003733088"
       }
     },
     {
@@ -33,13 +53,13 @@
       }
     },
     {
-      "keyword": "lck",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "태풍 돌핀 경로",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/"
+        "title": "폭염 끝낼까, 더 키울까… 초강력 태풍 ‘돌핀’, 한반도 날씨 흔든다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802133002844"
       }
     },
     {
@@ -53,13 +73,13 @@
       }
     },
     {
-      "keyword": "태풍 돌핀 경로",
+      "keyword": "투기",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "태풍 ‘돌핀 ’폭염 잠재우나…다음주초 윤곽 드러나",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260802.99099000055"
+        "title": "투기 잡으려다…농민만 잡았다",
+        "source": "경북일보",
+        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080008"
       }
     },
     {
@@ -73,33 +93,13 @@
       }
     },
     {
-      "keyword": "앤드류 가필드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal",
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/entertainment/movies/articles/andrew-garfield-feels-successor-tom-200709948.html"
-      }
-    },
-    {
-      "keyword": "마이클세일러",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1132049"
-      }
-    },
-    {
-      "keyword": "서주원",
+      "keyword": "이흥구",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/celebrity-topic/6246534"
+        "title": "[사설]대법관 공백 5개월, 조 대법원장은 언제까지 책무 방기할 텐가",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802181409504"
       }
     }
   ]
