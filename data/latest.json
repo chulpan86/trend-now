@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-08-03T02:53:20.098162+09:00",
-  "label": "02:53",
+  "timestamp": "2026-08-03T03:54:39.916719+09:00",
+  "label": "03:54",
   "items": [
     {
-      "keyword": "재벌x형사",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "여객선",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')",
+        "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260802180137229"
+        "url": "https://v.daum.net/v/20260802202450516"
+      }
+    },
+    {
+      "keyword": "히샬리송",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802194736973"
+      }
+    },
+    {
+      "keyword": "달 탐사",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/chau-au-muon-la-doi-tac-dong-hanh-voi-my-trong-su-menh-mat-trang"
       }
     },
     {
@@ -23,43 +43,23 @@
       }
     },
     {
-      "keyword": "여객선",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802202450516"
-      }
-    },
-    {
-      "keyword": "히샬리송",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802194736973"
-      }
-    },
-    {
-      "keyword": "달 탐사",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/chau-au-muon-la-doi-tac-dong-hanh-voi-my-trong-su-menh-mat-trang"
-      }
-    },
-    {
       "keyword": "잠실대교",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260802181440512"
+      }
+    },
+    {
+      "keyword": "태풍 돌핀 경로",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "태풍 ‘돌핀 ’폭염 잠재우나…다음주초 윤곽 드러나",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260802.99099000055"
       }
     },
     {

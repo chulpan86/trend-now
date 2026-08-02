@@ -2400,5 +2400,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-03T03:54:39.916719+09:00",
+    "label": "03:54",
+    "items": [
+      {
+        "keyword": "여객선",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802202450516"
+        }
+      },
+      {
+        "keyword": "히샬리송",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802194736973"
+        }
+      },
+      {
+        "keyword": "달 탐사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chau-au-muon-la-doi-tac-dong-hanh-voi-my-trong-su-menh-mat-trang"
+        }
+      },
+      {
+        "keyword": "lck",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/"
+        }
+      },
+      {
+        "keyword": "잠실대교",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802181440512"
+        }
+      },
+      {
+        "keyword": "태풍 돌핀 경로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "태풍 ‘돌핀 ’폭염 잠재우나…다음주초 윤곽 드러나",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260802.99099000055"
+        }
+      },
+      {
+        "keyword": "박기량",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260802n14647"
+        }
+      },
+      {
+        "keyword": "앤드류 가필드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/andrew-garfield-feels-successor-tom-200709948.html"
+        }
+      },
+      {
+        "keyword": "마이클세일러",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1132049"
+        }
+      },
+      {
+        "keyword": "서주원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6246534"
+        }
+      }
+    ]
   }
 ]
