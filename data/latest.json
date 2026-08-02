@@ -1,52 +1,32 @@
 {
-  "timestamp": "2026-08-02T20:53:57.390722+09:00",
-  "label": "20:53",
+  "timestamp": "2026-08-02T21:58:05.375447+09:00",
+  "label": "21:58",
   "items": [
     {
-      "keyword": "울산 대 안양",
+      "keyword": "미군",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "2일 울산 HD, FC안양과 맞대결",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801181018724?t=m&x_mn=6a6db841a2e9ff7ce6229b5d"
-      }
-    },
-    {
-      "keyword": "맥도날드",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260801050900030"
-      }
-    },
-    {
-      "keyword": "대전 대 광주",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "경향신문",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "검찰동우회 \"李 대통령 보완수사폐지법 거부권 행사해야\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6841803_36918.html"
+        "title": "주한미군, 무인기 비행 승인 ‘통상절차’ 안 밟았나…한·미 군사훈련 중 ‘두루미’ 발령, 무슨 일이",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608021721001"
       }
     },
     {
       "keyword": "산악인",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "‘14좌 정복’ 네팔 등반가 푸르자, 눈사태로 사망…英특수부대 용병 출신",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20260802/134406679/1"
+        "title": "'히말라야 14좌 6개월 등정' 네팔 산악인 눈사태로 사망",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802163327656"
       }
+    },
+    {
+      "keyword": "대전 대 광주",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
     },
     {
       "keyword": "맷 데이비슨",
@@ -56,6 +36,16 @@
         "title": "데이비슨·김웅빈 '쾅쾅'…꼴찌 키움, 9위 SSG에 설욕",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260802041200007"
+      }
+    },
+    {
+      "keyword": "맥도날드",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260801050900030"
       }
     },
     {
@@ -69,13 +59,23 @@
       }
     },
     {
-      "keyword": "대한불교조계종 삼화사",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "조한선",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "동해 삼화사 템플스테이 건물서 화재…진화 중(종합)",
+        "title": "이동욱 “다시 만난 정진만, 기뻤죠…액션 비결은 반복연습뿐”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260801165852041?f=p"
+        "url": "https://v.daum.net/v/20260802152809528"
+      }
+    },
+    {
+      "keyword": "월명공원",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "장기미집행 ‘청주 월명공원’ 58년 만에 시민 품으로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802133815019"
       }
     },
     {

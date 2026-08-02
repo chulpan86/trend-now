@@ -2086,5 +2086,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T21:58:05.375447+09:00",
+    "label": "21:58",
+    "items": [
+      {
+        "keyword": "미군",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "주한미군, 무인기 비행 승인 ‘통상절차’ 안 밟았나…한·미 군사훈련 중 ‘두루미’ 발령, 무슨 일이",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608021721001"
+        }
+      },
+      {
+        "keyword": "산악인",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'히말라야 14좌 6개월 등정' 네팔 산악인 눈사태로 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802163327656"
+        }
+      },
+      {
+        "keyword": "대전 대 광주",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "맷 데이비슨",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "데이비슨·김웅빈 '쾅쾅'…꼴찌 키움, 9위 SSG에 설욕",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260802041200007"
+        }
+      },
+      {
+        "keyword": "맥도날드",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801050900030"
+        }
+      },
+      {
+        "keyword": "김채현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[사진] 케플러(Kep1er) 김채현, 깜찍한 시구",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112851208"
+        }
+      },
+      {
+        "keyword": "조한선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이동욱 “다시 만난 정진만, 기뻤죠…액션 비결은 반복연습뿐”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802152809528"
+        }
+      },
+      {
+        "keyword": "월명공원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "장기미집행 ‘청주 월명공원’ 58년 만에 시민 품으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802133815019"
+        }
+      },
+      {
+        "keyword": "시내버스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010"
+        }
+      },
+      {
+        "keyword": "마이크론 테크놀로지",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "하이닉스ADR 3.5% 마이크론 5.90% 급락 … 또 '잿빛 월요일' 공포 떠는 韓 증시",
+          "source": "뉴데일리 경제",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/01/2026080100027.html"
+        }
+      }
+    ]
   }
 ]
