@@ -2510,5 +2510,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-03T06:44:20.117640+09:00",
+    "label": "06:44",
+    "items": [
+      {
+        "keyword": "배당",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "급락장에 개미들 비명 터질 때…버핏이 38년 장투한 회사는 ‘사상 최고치’ 찍었다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20073249"
+        }
+      },
+      {
+        "keyword": "건설",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[경제 단신] 현대엔지니어링, 새 가치체계 선포 외",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803050320827"
+        }
+      },
+      {
+        "keyword": "전국노래자랑",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3653040"
+        }
+      },
+      {
+        "keyword": "장기 기증",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "상견례 앞두고 6명 장기기증…‘윤길아빠’가 띄운 5000개 답변",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030190611"
+        }
+      },
+      {
+        "keyword": "국민일보",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "7월 수출 역대 2위…반도체 두 달째 400억달러대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KwhvCMRf1j"
+        }
+      },
+      {
+        "keyword": "김다예",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박수홍♥김다예, 딸 광고 17개 딸 이어 또 '경사'…부부 동반 홈쇼핑서 \"전체 매진\" [★해시태그]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802081137943?f=p"
+        }
+      },
+      {
+        "keyword": "건설 회사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[건설] 베트남 주요 건설사 2분기 실적 엇갈려…비나코넥스·코테콘스·호아빈 수익성 둔화",
+          "source": "굿모닝베트남미디어",
+          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=82898"
+        }
+      },
+      {
+        "keyword": "가자지구",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"철수 안 해\" 이스라엘 반기…트럼프 '합의' 48시간 만에 가자 병원 '쾅'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802101203799"
+        }
+      },
+      {
+        "keyword": "리버풀",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "BBC도 놀란 리버풀 충돌...'2008년생 결승골'보다 조명받은 집단 언쟁→\"캡틴 완장 내던지고 동료끼리 언성 높여\" 이라올라號 이상기류 흐르나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801120508928?f=p"
+        }
+      },
+      {
+        "keyword": "박성광",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'여성암 투병' 이솔이 \"숯불도 술도 피해야…저녁은 조용히 집에서\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260801_0003732523"
+        }
+      }
+    ]
   }
 ]

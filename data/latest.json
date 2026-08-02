@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-03T05:05:37.445207+09:00",
-  "label": "05:05",
+  "timestamp": "2026-08-03T06:44:20.117640+09:00",
+  "label": "06:44",
   "items": [
     {
-      "keyword": "기상",
+      "keyword": "배당",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "급락장에 개미들 비명 터질 때…버핏이 38년 장투한 회사는 ‘사상 최고치’ 찍었다",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20073249"
+      }
+    },
+    {
+      "keyword": "건설",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "내일(3일)부터 폭염 양상 바뀐다…서쪽 지역도 ‘극한 폭염’",
+        "title": "[경제 단신] 현대엔지니어링, 새 가치체계 선포 외",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260802211811304"
+        "url": "https://v.daum.net/v/20260803050320827"
       }
     },
     {
-      "keyword": "여객선",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802202450516"
-      }
-    },
-    {
-      "keyword": "히샬리송",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'양민혁 결장' 토트넘, 프리시즌 친선경기서 첼시에 2-1 승리...히샬리송 결승골 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/01/202608012100778431O"
-      }
-    },
-    {
-      "keyword": "수영",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'효리수' 수영, 냉장고 공개",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260802_0003733088"
-      }
-    },
-    {
-      "keyword": "달 탐사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/chau-au-muon-la-doi-tac-dong-hanh-voi-my-trong-su-menh-mat-trang"
-      }
-    },
-    {
-      "keyword": "태풍 돌핀 경로",
+      "keyword": "전국노래자랑",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "폭염 끝낼까, 더 키울까… 초강력 태풍 ‘돌핀’, 한반도 날씨 흔든다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802133002844"
+        "title": "'전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3653040"
       }
     },
     {
-      "keyword": "잠실대교",
+      "keyword": "장기 기증",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조",
+        "title": "상견례 앞두고 6명 장기기증…‘윤길아빠’가 띄운 5000개 답변",
+        "source": "국민일보",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030190611"
+      }
+    },
+    {
+      "keyword": "국민일보",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "7월 수출 역대 2위…반도체 두 달째 400억달러대",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260802181440512"
+        "url": "https://v.daum.net/v/KwhvCMRf1j"
       }
     },
     {
-      "keyword": "투기",
+      "keyword": "김다예",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "투기 잡으려다…농민만 잡았다",
-        "source": "경북일보",
-        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080008"
+        "title": "박수홍♥김다예, 딸 광고 17개 딸 이어 또 '경사'…부부 동반 홈쇼핑서 \"전체 매진\" [★해시태그]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802081137943?f=p"
       }
     },
     {
-      "keyword": "박기량",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260802n14647"
-      }
-    },
-    {
-      "keyword": "이흥구",
+      "keyword": "건설 회사",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[사설]대법관 공백 5개월, 조 대법원장은 언제까지 책무 방기할 텐가",
+        "title": "[건설] 베트남 주요 건설사 2분기 실적 엇갈려…비나코넥스·코테콘스·호아빈 수익성 둔화",
+        "source": "굿모닝베트남미디어",
+        "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=82898"
+      }
+    },
+    {
+      "keyword": "가자지구",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"철수 안 해\" 이스라엘 반기…트럼프 '합의' 48시간 만에 가자 병원 '쾅'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260802181409504"
+        "url": "https://v.daum.net/v/20260802101203799"
+      }
+    },
+    {
+      "keyword": "리버풀",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "BBC도 놀란 리버풀 충돌...'2008년생 결승골'보다 조명받은 집단 언쟁→\"캡틴 완장 내던지고 동료끼리 언성 높여\" 이라올라號 이상기류 흐르나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801120508928?f=p"
+      }
+    },
+    {
+      "keyword": "박성광",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'여성암 투병' 이솔이 \"숯불도 술도 피해야…저녁은 조용히 집에서\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260801_0003732523"
       }
     }
   ]
