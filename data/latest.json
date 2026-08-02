@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-02T10:49:26.109012+09:00",
-  "label": "10:49",
+  "timestamp": "2026-08-02T14:17:21.566907+09:00",
+  "label": "14:17",
   "items": [
     {
-      "keyword": "aig 여자오픈",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "오세훈",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "유해란, AIG 여자오픈 3R 부진…선두 내주고 3타 차 공동 2위",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626257"
+        "title": "오세훈 2심, 5개 여론조사 쪼개 반격…‘의뢰·대납 연결고리’ 깬다",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260802/134405648/1"
       }
     },
     {
-      "keyword": "mls",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "김빈우",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "Lionel Messi starts on Miami bench following World Cup heartbreak",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/49507355/lionel-messi-inter-miami-lineup-columbus-crew-mls-world-cup"
-      }
-    },
-    {
-      "keyword": "lafc",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "PREVIEW: 'Caps return to BC Place for enticing clash with rivals LAFC | Watch on Apple TV",
-        "source": "www.whitecapsfc.com",
-        "url": "https://www.whitecapsfc.com/news/preview-caps-return-to-bc-place-lafc"
-      }
-    },
-    {
-      "keyword": "코트디부아르 축구 국가대표팀",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "한국 4-0 대파했는데 중도 하차라니…사상 첫 월드컵 토너먼트 이끈 뒤 사실상 경질→파에 감독, 코트디부아르와 결별",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801211031451"
-      }
-    },
-    {
-      "keyword": "지방 선거",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[단독] 3시간 넘게 투표자 수 '0명'…전국 51곳서 '허위 입력' 정황",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801212129601"
-      }
-    },
-    {
-      "keyword": "이수현",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'30㎏ 감량' 악뮤 수현 \"7㎏ 더 빼고 싶어\" 몰라보게 달라진 근황",
+        "title": "김빈우, 결국 한국 떠난다",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260731_0003731541"
+        "url": "https://www.newsis.com/view/NISX20260802_0003732799"
       }
     },
     {
-      "keyword": "이정효",
+      "keyword": "차은우",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "차은우, ‘130억 세금’ 불복 신청…“법률적 판단 받겠다”",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608021058013"
+      }
+    },
+    {
+      "keyword": "이준수",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'아형' 이탁수, '아빠! 어디가?' 동생 이준수 키 공개 \"194㎝\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802084952301"
+      }
+    },
+    {
+      "keyword": "코오롱티슈진",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "스쿠발",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "MLB 다저스, FA 앞둔 좌완 특급 스쿠벌 영입…대형 트레이드",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260802024900007"
+      }
+    },
+    {
+      "keyword": "삼성 갤럭시 z 플립",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"갤럭시Z플립8 193만원→78만원...제휴카드 필요없다\" 예판기간 매장 가보니",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260801204502"
+      }
+    },
+    {
+      "keyword": "수원 삼성 블루윙즈",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "K리그2 수원 팬들, 역전골 취소 판정에 \"심판 나와\" 점거 시위(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802002850996"
+      }
+    },
+    {
+      "keyword": "양산 날씨",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "K리그2 수원팬들 역전골 취소 판정에 점거 시위",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8626271"
+        "title": "양산 기온 기상관측 사상 초유 '42.5도'까지 올라…43도선 위협",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260802026600530"
       }
     },
     {
-      "keyword": "gq",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "GQ Eye: 5 coolest things of the week you need to know about",
-        "source": "GQ India",
-        "url": "https://www.gqindia.com/content/gq-eye-coolest-things-of-the-week-you-need-to-know-about"
-      }
-    },
-    {
-      "keyword": "방파제",
+      "keyword": "지원이",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "방파제 벽 잡고 버텨.. 제주 해안가서 40·50대 물놀이객 5명 구조",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801101259755"
-      }
-    },
-    {
-      "keyword": "투자 전략",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'상한가 폭등' 뒤 엇갈린 승부수…외인·기관은 레버리지, 개인은 인버스로 맞섰다 [증시는 왜]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802060227700"
+        "title": "'전국노래자랑' 광주 남구 편, 초대가수 라인업 장민호→지원이",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3653040"
       }
     }
   ]
