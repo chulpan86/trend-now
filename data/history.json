@@ -1980,5 +1980,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-04T04:18:24.660886+09:00",
+    "label": "04:18",
+    "items": [
+      {
+        "keyword": "화산분화",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "대피소",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“한국·대만을 봐라”…열악한 대피소에 일본 내 ‘불만’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627390"
+        }
+      },
+      {
+        "keyword": "물고기",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Global Fish Box 시장 규모 상위 20개 기업",
+          "source": "Spherical Insights",
+          "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-the-global-fish-box-market-2026-2035-spherical-insights-analysis"
+        }
+      },
+      {
+        "keyword": "산초",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803230150236"
+        }
+      },
+      {
+        "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Keamanan diperketat menjelang pertandingan sengit antara tim nasional Vietnam dan Indonesia; kendaraan lapis baja dan perisai anti huru hara dikerahkan.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/id/an-ninh-that-chat-tran-nong-dau-doi-tuyen-viet-nam-indonesia-dieu-xe-boc-thep-va-khien-chong-bao-dong"
+        }
+      },
+      {
+        "keyword": "lg이노텍",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"피지컬 AI 시대 전환점… '위닝 테크'로 핵심 파트너가 될 것\" [오늘의 DT인]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802100328639"
+        }
+      },
+      {
+        "keyword": "인터 마이애미 cf",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'손흥민 우승 경쟁팀' 인터 마이애미, 드림팀 결성한다...메시+수아레즈+카세미루 이어 더 브라위너 영입 작업 착수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803162728782"
+        }
+      },
+      {
+        "keyword": "이찬원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이번엔 이지혜 저격한 고영욱 \"허세를 학습한 걸까\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260803_0003733440"
+        }
+      },
+      {
+        "keyword": "내 남은 연애",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"머리 밀고 자기혐오 심해져\"...친언니 골수 이식 받은 미모의 청순녀[내남은연애][별별TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803230049220"
+        }
+      },
+      {
+        "keyword": "김용빈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16154010"
+        }
+      }
+    ]
   }
 ]
