@@ -1,319 +1,5 @@
 [
   {
-    "timestamp": "2026-08-02T06:43:56.866575+09:00",
-    "label": "06:43",
-    "items": [
-      {
-        "keyword": "이천수",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "청문회 향한 이천수의 작심 발언! \"질문하는 사람과 대답하는 사람 꼬여 있어\"…'왜 졌냐'는 황당 질문엔 \"지려고 나가는 사람은 없다, 당황했다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260801n11016"
-        }
-      },
-      {
-        "keyword": "박진만",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'연패 끊은' 1위 삼성·'4연승' 2위 kt…반게임 차 선두 경쟁(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731171351007"
-        }
-      },
-      {
-        "keyword": "하비에르 아기 레",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'명문 클럽 거절, 韓 대표팀 원한다'…\"이강인 내 아들!\" 외쳤던 그 감독, 태극전사 지휘하나→\"한국 축구에 매력 느껴\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801182809885"
-        }
-      },
-      {
-        "keyword": "일본인",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"이런 적은 처음\" 일본인이 사라지고 있다는데…대체 무슨 일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/41UfzANdga?f=p"
-        }
-      },
-      {
-        "keyword": "고우림",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'고우림♥' 김연아, D사 행사 뜨자 감탄…명품보다 빛난 미모 [★해시태그]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260801n06600"
-        }
-      },
-      {
-        "keyword": "latest iphone rumors",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "iPhone 18 Pro may launch at $1,399 starting price, per report",
-          "source": "9to5Mac",
-          "url": "https://9to5mac.com/2026/07/31/iphone-18-pro-may-launch-at-1399-starting-price-per-report/"
-        }
-      },
-      {
-        "keyword": "아리아나 그란데",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "아리아나 그란데, 8집 '페탈' 발매…2년 만 정규앨범",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731154753997"
-        }
-      },
-      {
-        "keyword": "장동민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "장동민 “가정의 평화 깨지지 않길…” 눈물 (독박투어)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260801/134405076/1"
-        }
-      },
-      {
-        "keyword": "정경호",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "효연, '정경호와 결별' 수영 걱정…\"기력 없어 보여\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260801_0003732673"
-        }
-      },
-      {
-        "keyword": "김원형",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'혼돈의' 잠실 연장 11회말→경기 다 끝났는데 '격렬 항의' 왜 두산 김원형 감독은 더그아웃 박차고 나갔나 [잠실 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801214809969"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-02T07:43:43.601891+09:00",
-    "label": "07:43",
-    "items": [
-      {
-        "keyword": "이천수",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "청문회 향한 이천수의 작심 발언! \"질문하는 사람과 대답하는 사람 꼬여 있어\"…'왜 졌냐'는 황당 질문엔 \"지려고 나가는 사람은 없다, 당황했다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260801n11016"
-        }
-      },
-      {
-        "keyword": "박진만",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'연패 끊은' 1위 삼성·'4연승' 2위 kt…반게임 차 선두 경쟁(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731171351007"
-        }
-      },
-      {
-        "keyword": "로스앤젤레스 fc",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "손흥민 어쩌나...요리스 분노 터뜨렸는데, '오히려 악화'된 밴쿠버 홈구장 잔디 상태→LAFC '승점 6' 맞대결 앞두고 변수 직면",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802002307961"
-        }
-      },
-      {
-        "keyword": "송혜교",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "송혜교, 여행을 간 거야 화보를 찍는 거야…일본 뒤집은 '여신 비주얼' [MD★스타]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801075551082"
-        }
-      },
-      {
-        "keyword": "일본인",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"이런 적은 처음\" 일본인이 사라지고 있다는데…대체 무슨 일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/41UfzANdga?f=p"
-        }
-      },
-      {
-        "keyword": "대한민국 축구 국가대표팀",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "고대 출신에 놀고 계신 선배는 정진석? 정몽규 동공지진",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12311183"
-        }
-      },
-      {
-        "keyword": "아리아나 그란데",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "아리아나 그란데, 8집 '페탈' 발매…2년 만 정규앨범",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731154753997"
-        }
-      },
-      {
-        "keyword": "정경호",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "효연, '정경호와 결별' 수영 걱정…\"기력 없어 보여\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260801_0003732673"
-        }
-      },
-      {
-        "keyword": "김원형",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[IS 잠실] 승기 잡고도 무승부...김원형 두산 베어스 감독은 왜 격분했나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xOqQKyWIri"
-        }
-      },
-      {
-        "keyword": "장동민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "장동민 “가정의 평화 깨지지 않길…” 눈물 (독박투어)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260801/134405076/1"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-02T08:48:00.164535+09:00",
-    "label": "08:48",
-    "items": [
-      {
-        "keyword": "화이트캡스 대 엘에이 fc",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": null
-      },
-      {
-        "keyword": "삼성전자",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막 수준",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802062659929"
-        }
-      },
-      {
-        "keyword": "월드컵",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"전 세계적 반발에 백기\"…FIFA, 민간에 지분 매각 계획 무산(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260801018051007"
-        }
-      },
-      {
-        "keyword": "박서진",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "박서진, 은가은에 서운함 토로...\"결혼식 초대 안 해\" (살림남)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801230449550"
-        }
-      },
-      {
-        "keyword": "로스앤젤레스 fc",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "손흥민 어쩌나...요리스 분노 터뜨렸는데, '오히려 악화'된 밴쿠버 홈구장 잔디 상태→LAFC '승점 6' 맞대결 앞두고 변수 직면",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802002307961"
-        }
-      },
-      {
-        "keyword": "김희철",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김희철, 수입 고백 \"13인조 슈퍼주니어 보다 '아형' 때 더 벌어\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/02/2026080207491830231"
-        }
-      },
-      {
-        "keyword": "송혜교",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "송혜교, 여행을 간 거야 화보를 찍는 거야…일본 뒤집은 '여신 비주얼' [MD★스타]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801075551082"
-        }
-      },
-      {
-        "keyword": "햄버거",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"햄버거 3만원=사치\"?…중학생 혼낸 부모, 역풍 맞았다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260731n08658"
-        }
-      },
-      {
-        "keyword": "살림하는 남자들",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박서진, 유재석x임영웅과 어깨 나란히...\"감개무량해\" [살림남]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801224307474"
-        }
-      },
-      {
-        "keyword": "김요한",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘건물주’ 김요한, 집에서 만화만 본다..탁재훈 “일 안 하니?” (‘신랑수업2’)[순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4lqQg4V7vU"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-02T10:49:26.109012+09:00",
     "label": "10:49",
     "items": [
@@ -2189,6 +1875,112 @@
           "title": "'FNC 신인' AxMxP, 무대로 다진 존재감…12일 미니 2집 컴백",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260803115609800"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-03T21:49:09.195967+09:00",
+    "label": "21:49",
+    "items": [
+      {
+        "keyword": "전기 요금",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "“에어컨 끌 수도 없고” 폭염 속 냉방비 걱정↑…8월 전기요금 폭탄 어쩌나",
+          "source": "영남일보",
+          "url": "https://www.yeongnam.com/web/view.php?key=20260802020159623"
+        }
+      },
+      {
+        "keyword": "크리스토퍼 놀란",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "크리스토퍼 놀란 첫 내한…“‘오디세이’로 한국 관객 만나 기쁘다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803135609829"
+        }
+      },
+      {
+        "keyword": "남궁민",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'결혼의 완성' 조윤서, 미스터리 중심축…반전 열쇠 쥔 존재감",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803144951345"
+        }
+      },
+      {
+        "keyword": "김병지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"강원FC 700억 원 홍보효과 거뒀다\" 김병지 축협부회장, 청문회 비판 정면 반박...축구팬들 싸늘한 반응 \"적자운영 시민구단이 할 소리냐?\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802205908043"
+        }
+      },
+      {
+        "keyword": "양평군",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[속보]카페 주차장서 후진하던 SUV, 울타리 뚫고 10m 아래로 추락",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11606896"
+        }
+      },
+      {
+        "keyword": "임신",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김준호, 확 달라졌다…'먹덧' 김지민 위해 직접 요리 '특급 내조'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/03/GYYGCNTGMEZGKY3EGJSDMNRZMU/"
+        }
+      },
+      {
+        "keyword": "김윤희 아나운서",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"사생활.안전 지켜달라\" 김윤희 아나, 스토킹 피해 호소 \"법적 대응\" [전문]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112851705"
+        }
+      },
+      {
+        "keyword": "최애의 사원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "좀비에 쫓기고 불륜 잡아내다가...데뷔 11년 만에 첫 로코",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7nU7cRe4Fb"
+        }
+      },
+      {
+        "keyword": "오버워치 서버",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Is Overwatch still down? When will overwatch servers be back up",
+          "source": "Asbury Park Press",
+          "url": "https://www.app.com/story/news/2026/08/02/when-will-overwatch-be-back-up-is-overwatch-back-up/91143614007/"
+        }
+      },
+      {
+        "keyword": "골드만삭스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "골드만, 삼전 목표가 '48만원→49만원'…\"펀더멘털 변화없어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803153207301"
         }
       }
     ]
