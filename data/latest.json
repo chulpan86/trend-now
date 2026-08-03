@@ -1,77 +1,41 @@
 {
-  "timestamp": "2026-08-04T04:18:24.660886+09:00",
-  "label": "04:18",
+  "timestamp": "2026-08-04T05:54:27.542879+09:00",
+  "label": "05:54",
   "items": [
     {
-      "keyword": "화산분화",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
+      "keyword": "종부세 개편안",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[속보]32억 이상 고가·비거주·다주택자 종부세 강화한다[2026 세제개편안]",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608031800021"
+      }
     },
     {
-      "keyword": "대피소",
+      "keyword": "잭 그릴리시",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“한국·대만을 봐라”…열악한 대피소에 일본 내 ‘불만’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627390"
-      }
-    },
-    {
-      "keyword": "물고기",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Global Fish Box 시장 규모 상위 20개 기업",
-        "source": "Spherical Insights",
-        "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-the-global-fish-box-market-2026-2035-spherical-insights-analysis"
-      }
-    },
-    {
-      "keyword": "산초",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중",
+        "title": "'659억' 이강인 막 입단했는데, 뒤통수 세게 맞는다?…ATM '만취 논란' 맨시티 사나이 깜짝 영입 고려→하필이면 LEE 합류 직후 추진",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260803230150236"
+        "url": "https://v.daum.net/v/20260804024537656"
       }
     },
     {
-      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "이민성",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Keamanan diperketat menjelang pertandingan sengit antara tim nasional Vietnam dan Indonesia; kendaraan lapis baja dan perisai anti huru hara dikerahkan.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/id/an-ninh-that-chat-tran-nong-dau-doi-tuyen-viet-nam-indonesia-dieu-xe-boc-thep-va-khien-chong-bao-dong"
-      }
-    },
-    {
-      "keyword": "lg이노텍",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"피지컬 AI 시대 전환점… '위닝 테크'로 핵심 파트너가 될 것\" [오늘의 DT인]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802100328639"
-      }
-    },
-    {
-      "keyword": "인터 마이애미 cf",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'손흥민 우승 경쟁팀' 인터 마이애미, 드림팀 결성한다...메시+수아레즈+카세미루 이어 더 브라위너 영입 작업 착수",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803162728782"
+        "title": "2026 아이치·나고야 아시안게임 남녀축구 킥오프 시간 확정",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260803116900007"
       }
     },
     {
       "keyword": "이찬원",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "이번엔 이지혜 저격한 고영욱 \"허세를 학습한 걸까\"",
         "source": "뉴시스",
@@ -79,23 +43,63 @@
       }
     },
     {
-      "keyword": "내 남은 연애",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "물고기",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "\"머리 밀고 자기혐오 심해져\"...친언니 골수 이식 받은 미모의 청순녀[내남은연애][별별TV]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803230049220"
+        "title": "Global Fish Box 시장 규모 상위 20개 기업",
+        "source": "Spherical Insights",
+        "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-the-global-fish-box-market-2026-2035-spherical-insights-analysis"
       }
     },
     {
-      "keyword": "김용빈",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "국민연금공단",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경",
-        "source": "톱스타뉴스",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16154010"
+        "title": "국민연금 '리밸런싱 '딜레마'…상승장엔 못 팔고, 하락장엔 못 사고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803060235546?f=p"
+      }
+    },
+    {
+      "keyword": "미국 중간선거",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "중간선거 석달 앞, 골드만 \"8월부터 악영향\"…알고 보면 기회? [김현석의 퀵브리프]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608031508i"
+      }
+    },
+    {
+      "keyword": "농업",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "「농업·농촌 2045전략」 수립을 위한 국민제안 공모전 접수 시작",
+        "source": "서울Pn",
+        "url": "https://go.seoul.co.kr/news/prnewsView.php?id=440342"
+      }
+    },
+    {
+      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Vietnam mengamankan kemenangan telak melawan Indonesia pada pertandingan pekan ke-4 Kejuaraan ASEAN.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/id/viet-nam-thang-dam-indonesia-o-luot-tran-4-asean-championship"
+      }
+    },
+    {
+      "keyword": "제이든 산초",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803230150236"
       }
     }
   ]

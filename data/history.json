@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-02T17:04:56.151407+09:00",
-    "label": "17:04",
-    "items": [
-      {
-        "keyword": "코오롱 티슈 진",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": null
-      },
-      {
-        "keyword": "태풍 루사",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[꼬꼬무 찐리뷰] \"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 '루사', 우리가 잊고 있던 그날의 비극",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008684240"
-        }
-      },
-      {
-        "keyword": "김의겸",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김의겸 \"김민석 '노무현 내가 죽인다' 24년 전 기사 정정\"",
-          "source": "JIBS제주방송",
-          "url": "https://www.jibs.co.kr/news/articles/articlesDetail/64041?feed=da"
-        }
-      },
-      {
-        "keyword": "집",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "20억 아파트에 20년 장기전세… “평생 살겠다” 호소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ZGreCJiPho"
-        }
-      },
-      {
-        "keyword": "스파이더맨 홈커밍",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": ", 흥행 역사를 갈아 치우다",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/dailyost/film/contents/260802062211771jf"
-        }
-      },
-      {
-        "keyword": "기온",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "경남 양산 ’42.5도‘ 찍었다...국내 최고기온 재차 경신",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/08/02/LAXPICP4PVCV7MZ5ZXCCAAJ6B4/"
-        }
-      },
-      {
-        "keyword": "암벽등반",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "설악산서 암벽등반하던 50대 추락…구조 완료",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6xOem6PKYp"
-        }
-      },
-      {
-        "keyword": "옥순이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘나는 솔로’ 32기 옥순♥광수, ‘현커’ 이어 결혼까지…“암사자와 시컴이”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607311140003"
-        }
-      },
-      {
-        "keyword": "지석진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'60세' 지석진 \"30㎝ 샌드위치 3개 먹는다\" 충격…이성민 \"그러니 살 찌셨지\" (풍향중)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QvgUFmsAZD"
-        }
-      },
-      {
-        "keyword": "이찬원",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'월수입 1억' 히밥 \"한 달 식비만 1000만원\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260730_0003730689"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-02T19:25:14.340370+09:00",
     "label": "19:25",
     "items": [
@@ -2079,6 +1977,112 @@
           "title": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경",
           "source": "톱스타뉴스",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16154010"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-04T05:54:27.542879+09:00",
+    "label": "05:54",
+    "items": [
+      {
+        "keyword": "종부세 개편안",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보]32억 이상 고가·비거주·다주택자 종부세 강화한다[2026 세제개편안]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608031800021"
+        }
+      },
+      {
+        "keyword": "잭 그릴리시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'659억' 이강인 막 입단했는데, 뒤통수 세게 맞는다?…ATM '만취 논란' 맨시티 사나이 깜짝 영입 고려→하필이면 LEE 합류 직후 추진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804024537656"
+        }
+      },
+      {
+        "keyword": "이민성",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "2026 아이치·나고야 아시안게임 남녀축구 킥오프 시간 확정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260803116900007"
+        }
+      },
+      {
+        "keyword": "이찬원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이번엔 이지혜 저격한 고영욱 \"허세를 학습한 걸까\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260803_0003733440"
+        }
+      },
+      {
+        "keyword": "물고기",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Global Fish Box 시장 규모 상위 20개 기업",
+          "source": "Spherical Insights",
+          "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-the-global-fish-box-market-2026-2035-spherical-insights-analysis"
+        }
+      },
+      {
+        "keyword": "국민연금공단",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "국민연금 '리밸런싱 '딜레마'…상승장엔 못 팔고, 하락장엔 못 사고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803060235546?f=p"
+        }
+      },
+      {
+        "keyword": "미국 중간선거",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "중간선거 석달 앞, 골드만 \"8월부터 악영향\"…알고 보면 기회? [김현석의 퀵브리프]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608031508i"
+        }
+      },
+      {
+        "keyword": "농업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "「농업·농촌 2045전략」 수립을 위한 국민제안 공모전 접수 시작",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=440342"
+        }
+      },
+      {
+        "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Vietnam mengamankan kemenangan telak melawan Indonesia pada pertandingan pekan ke-4 Kejuaraan ASEAN.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/id/viet-nam-thang-dam-indonesia-o-luot-tran-4-asean-championship"
+        }
+      },
+      {
+        "keyword": "제이든 산초",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803230150236"
         }
       }
     ]
