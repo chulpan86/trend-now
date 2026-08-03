@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-03T14:32:02.620222+09:00",
-  "label": "14:32",
+  "timestamp": "2026-08-03T18:20:59.785359+09:00",
+  "label": "18:20",
   "items": [
     {
-      "keyword": "상어",
+      "keyword": "여에스더",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "'3000억 CEO' 여에스더 \"♥홍혜걸 몫 유산 20%…조치해놨다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026080313200493589"
+      }
+    },
+    {
+      "keyword": "전설 의 사내",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "'무명전설' 우승 성리 \"제주도 집 계약, 상금 1억원도 입금 돼\"('전설의사내')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803100107783"
+      }
+    },
+    {
+      "keyword": "국방부",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "상어에 끌려간 철인3종 선수, 40km 떨어진 해변서 숨진 채 발견",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260802083050KvT"
-      }
-    },
-    {
-      "keyword": "lpga",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Ryu Hae-ran Falls Short of Historic Third Straight Major Title",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/03/AIAWYS6QUFDJ7BVXRKQ6OIO2RE/"
-      }
-    },
-    {
-      "keyword": "기름",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“혈관 깨끗해져”… 흡연자 꼭 챙겨 먹어야 할 ‘기름’은?",
-        "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/07/31/2026073102819.html"
-      }
-    },
-    {
-      "keyword": "최영중",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "최영중 휴대전화서 다른 여성 나체 사진 발견…수사 확대",
+        "title": "[속보] 국방부, '실탄 미장착'·'美무인기 소동' 1군단장 직무배제",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260802043400064"
+        "url": "https://www.yna.co.kr/view/AKR20260803089200504"
       }
     },
     {
-      "keyword": "연예인",
+      "keyword": "폭염중대경보",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "[속보] 서울·경기에 첫 ‘폭염 중대경보’…야외작업 멈춰야",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/environment/1271159.html"
+      }
+    },
+    {
+      "keyword": "손아섭",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "손아섭, 이대로 두산과 이별하나...애초에 잠실에 어울리는 선수가 아니었다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803093205316"
+      }
+    },
+    {
+      "keyword": "환급금",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "신청 안하면 못 받는다는 '이 돈'…혹시 나도 대상?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803083901261"
+      }
+    },
+    {
+      "keyword": "문진희",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'29년 만에 첫 혼밥' 백예린, 식당서 \"연예인이냐\" 묻자..너스레 반전 답변",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802212537399"
+        "title": "바지에 손 넣고 \"끼어들지 말라\"던 축구협회 임원 결국 사임",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12311443"
       }
     },
     {
-      "keyword": "공형진",
+      "keyword": "아리아나 그란데",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“너무 말랐다” 악플 피해…아리아나 그란데, 결국 활동 멈춘다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803140302195"
+      }
+    },
+    {
+      "keyword": "국민성장펀드",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'사망설' 공형진, 근황 공개",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260802_0003733206"
+        "title": "뺄 수도 없는데...'20% 손실 보전' 국민성장펀드, 두 달만 마이너스? - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/08/02/2026073115554976987"
       }
     },
     {
-      "keyword": "만평",
+      "keyword": "스타뉴스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[만평] 내가 해봐서 아는데…",
+        "title": "'FNC 신인' AxMxP, 무대로 다진 존재감…12일 미니 2집 컴백",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260803030635855"
-      }
-    },
-    {
-      "keyword": "빅터 레이예스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "3년째 진화하는 레이예스, 올해는 더 무섭다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802165307955"
-      }
-    },
-    {
-      "keyword": "김현수",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'와 무실점→무실점→무실점' 이러면 107억이 전혀 아깝지 않지, 한화도 방법이 없었다…\"최근 느낌이 좋다, 야수들 고맙다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803084241353"
-      }
-    },
-    {
-      "keyword": "수능",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[단독] 수능 전 과목 절대평가… 서술·논술형 문제 도입",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/education/2026/08/03/TW6E46L5ZRE6NNYKAEGHNZ3CAQ/"
+        "url": "https://v.daum.net/v/20260803115609800"
       }
     }
   ]
