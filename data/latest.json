@@ -1,7 +1,13 @@
 {
-  "timestamp": "2026-08-04T00:37:04.815144+09:00",
-  "label": "00:37",
+  "timestamp": "2026-08-04T02:46:41.155143+09:00",
+  "label": "02:46",
   "items": [
+    {
+      "keyword": "화산분화",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
     {
       "keyword": "인도네시아 대 베트남",
       "traffic_raw": "2000+",
@@ -13,39 +19,33 @@
       }
     },
     {
-      "keyword": "indonesia đấu với việt nam",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Indonesia 0-3 Việt Nam: Xuân Son tỏa sáng",
-        "source": "Znews",
-        "url": "https://znews.vn/indonesia-0-3-viet-nam-xuan-son-toa-sang-post1674483.html"
-      }
-    },
-    {
-      "keyword": "화산분화",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "반포자이",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "비싼 집 가진 은퇴자에 퇴로…\"이 나이에 어디로\" 반응도",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803194726569"
-      }
-    },
-    {
-      "keyword": "낚시",
+      "keyword": "대피소",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "포항 낚시객 2명 사망‥전국 곳곳 수난사고",
+        "title": "TSMC 구마모토 공장 지진 피해 복구 완료",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260804_0003734935"
+      }
+    },
+    {
+      "keyword": "반포자이",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "부동산 세금 기준 '거주'로 대전환‥'양도세 보유 공제' 없앤다",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842105_37004.html"
+      }
+    },
+    {
+      "keyword": "제이든 산초",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260802120413418"
+        "url": "https://v.daum.net/v/20260803230150236"
       }
     },
     {
@@ -59,16 +59,6 @@
       }
     },
     {
-      "keyword": "대피소",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“한국·대만을 봐라”…열악한 대피소에 일본 내 ‘불만’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8627220"
-      }
-    },
-    {
       "keyword": "인터 마이애미 cf",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -76,6 +66,16 @@
         "title": "'손흥민 우승 경쟁팀' 인터 마이애미, 드림팀 결성한다...메시+수아레즈+카세미루 이어 더 브라위너 영입 작업 착수",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260803162728782"
+      }
+    },
+    {
+      "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Video: Van Vi mencetak gol pembuka untuk tim nasional Vietnam.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/id/video-van-vi-mo-ty-so-som-cho-tuyen-viet-nam"
       }
     },
     {
@@ -93,9 +93,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김용빈 89점 충격…춘길, 100점으로 제2대 골든컵 등극",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260801082951400"
+        "title": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경",
+        "source": "톱스타뉴스",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16154010"
       }
     }
   ]
