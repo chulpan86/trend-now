@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-08-02T19:25:14.340370+09:00",
-    "label": "19:25",
-    "items": [
-      {
-        "keyword": "경제",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "중국도 우주 AI 데이터센터 눈 돌려… “컴퓨팅 격차 해소” [차이나우]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801193309389"
-        }
-      },
-      {
-        "keyword": "송아지",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "송아지에 우유 먹이다 참변…70대 농장주, 어미 소에 들이받혀 숨져",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12114474"
-        }
-      },
-      {
-        "keyword": "임성근",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "’순직 해병’ 임성근 2심 선고…내일 차가원 구속기로",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202608021900520xs"
-        }
-      },
-      {
-        "keyword": "원이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[스경X이슈] 리센느 원이, 일진설 제기에 중학교 담임 직접 반박…“근거 없는 비난 멈춰달라”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608021026003"
-        }
-      },
-      {
-        "keyword": "표식",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "광주광역시",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "해군",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "태평양 군사판 다시 짜는 美…한국은 어디에 설 것인가 [Focus 인사이드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802050214407"
-        }
-      },
-      {
-        "keyword": "정지선",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'사당귀' 정지선 \"5년 이상 근속자에 고급차·명품백 선물\" 통큰 복지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802134503152"
-        }
-      },
-      {
-        "keyword": "대한민국",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "법률소비자연맹 “22대 국회 전반기 의정활동 ‘F학점’…평균 55.69점”",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000120"
-        }
-      },
-      {
-        "keyword": "의령군",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "의령군, 전 군민에 민생지원금 50만원…이달 초 지급 목표",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802080953930?f=p"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-02T20:53:57.390722+09:00",
     "label": "20:53",
     "items": [
@@ -2189,6 +2091,112 @@
           "title": "팔란티어, 깜짝 실적에 시간외 10% 폭등",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260804055129959"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-04T07:57:51.417527+09:00",
+    "label": "07:57",
+    "items": [
+      {
+        "keyword": "순천향대 학교 의과 대학",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "순천향대 의대 11명 이어…대학 과실 초과선발 56명(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803091803683"
+        }
+      },
+      {
+        "keyword": "트레이드",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "시즌 포기한 MLB 샌프란시스코, 레이·아라에스 트레이드",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627654"
+        }
+      },
+      {
+        "keyword": "폐지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정성호, 검사 임관식 마치고 “빛의 속도로 행소법 개정돼” [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8627003"
+        }
+      },
+      {
+        "keyword": "한화에어로스페이스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한화에어로, 4천548억원 UAM 부품 공급계약 해지…사업정리 수순",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803174538963"
+        }
+      },
+      {
+        "keyword": "반포 디에이치 클래스트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'반포디에이치클래스트' 등판…8월 아파트 2.8만가구 분양",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260803_0003733571"
+        }
+      },
+      {
+        "keyword": "학교 폭력",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "무안교육지원청 위센터, 학교폭력 피해학생 가족 대상 마음공감 가족캠프 운영 > 뉴스",
+          "source": "더코리아",
+          "url": "http://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=534652"
+        }
+      },
+      {
+        "keyword": "메이저 리그 베이스볼",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'이물질 적발 혐의' 고우석, 출장정지 징계 10G서 8G로 감경→사유는 불명... 항소 반영된 듯",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZxhEhjAiyv"
+        }
+      },
+      {
+        "keyword": "nvda",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3"
+        }
+      },
+      {
+        "keyword": "포항시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "포항시 농업기술센터, ‘2026년 하반기 우리쌀·밀 가공식품 활용 전문교육’ 운영",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711162"
+        }
+      },
+      {
+        "keyword": "qwen",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Alibaba Adds to China AI Breakthroughs With New Qwen Model",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance"
         }
       }
     ]
