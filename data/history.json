@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-03T10:51:58.597713+09:00",
-    "label": "10:51",
-    "items": [
-      {
-        "keyword": "암",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "“검캉스 가자” 국가암검진 수검 이벤트",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026080310322398699"
-        }
-      },
-      {
-        "keyword": "유산",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "진주성 영웅·사비 백제의 박사…빛으로 물든 국가유산 만나볼까",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260803018900005"
-        }
-      },
-      {
-        "keyword": "이솔이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'박성광과 이혼 부인' 이솔이 \"남은 건 이별뿐\"..서글픈 심경 고백",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GG47NnLxvt"
-        }
-      },
-      {
-        "keyword": "tvn",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Top of the Top Sopot Festival 2026. Małgorzata Ostrowska o swoim występie",
-          "source": "TVN24",
-          "url": "https://tvn24.pl/polska/top-of-the-top-sopot-festival-2026-malgorzata-ostrowska-o-swoim-wystepie-st9170460"
-        }
-      },
-      {
-        "keyword": "전장연",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "1호선 노량진역 무정차 통과중…혜화역 하행선은 운행 재개(상보)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803095441429"
-        }
-      },
-      {
-        "keyword": "차두리",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "깜짝돌풍 아니었네…판 흔드는 ‘차두리 축구’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803000209861"
-        }
-      },
-      {
-        "keyword": "재산",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "캠코, 3~5일 1조65억원 규모 압류재산 2천254건 공매",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030482"
-        }
-      },
-      {
-        "keyword": "연료전지",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“수억원 들여 설치해도 안 쓴다”···현실 고려 못한 ‘의무화’에 애물단지 전락한 연료전지",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608030600101"
-        }
-      },
-      {
-        "keyword": "다슬기",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "문경시, 여름철 물놀이·다슬기 채취 안전수칙 집중 홍보",
-          "source": "http://www.reporternside.com/",
-          "url": "https://www.reporternside.com/news/articleView.html?idxno=422500"
-        }
-      },
-      {
-        "keyword": "직장갑질119",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "소중한 연차 쓰고도…직장인 절반이 \"나도 당했다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0soh4F3G7a"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-03T14:32:02.620222+09:00",
     "label": "14:32",
     "items": [
@@ -1675,6 +1569,112 @@
           "title": "웰백 이어 36세 헨더슨까지…'베테랑 수집' 나선 첼시",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260804071043133"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-05T01:06:44.793516+09:00",
+    "label": "01:06",
+    "items": [
+      {
+        "keyword": "장동건",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804195928728"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 z 폴드 6",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[써보니] 대박 난 ‘삼성 여권폰’ 4 대 3 화면비·착붙 그립감까지 참신하긴 한데···",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608041700001"
+        }
+      },
+      {
+        "keyword": "저축",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"수신고 넉넉해서\"… 예금금리 낮추는 저축銀",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804182712678"
+        }
+      },
+      {
+        "keyword": "비행기",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[이원주의 하늘속談]비행기도 ‘하이브리드’ 있습니다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260804/134421408/2"
+        }
+      },
+      {
+        "keyword": "이투데이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[이투데이 말투데이] 자강불식(自强不息)/A7",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2610561"
+        }
+      },
+      {
+        "keyword": "투신",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "인천대교서 투신 사고 잇따라…11일 동안 3건 발생",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804101552093"
+        }
+      },
+      {
+        "keyword": "셀트리온",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "셀트리온제약, 2분기 영업이익 193억원…\"분기 최대 실적\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804190027481"
+        }
+      },
+      {
+        "keyword": "양산시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "점심시간 텅 빈 거리…폭염 덮친 '양프리카'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260803009400038"
+        }
+      },
+      {
+        "keyword": "이윤지",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이윤지, 한쪽 눈 퉁퉁 부은 치과의사 남편 공개…“제가 친 거 아닙니다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zhVb3AcnoB"
+        }
+      },
+      {
+        "keyword": "송영규",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "넷플릭스 1위 '참교육'이 유작 됐다…故 송영규, 떠난 지 1년",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804080812153"
         }
       }
     ]
