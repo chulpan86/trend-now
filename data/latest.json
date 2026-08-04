@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-05T07:03:26.695469+09:00",
-  "label": "07:03",
+  "timestamp": "2026-08-05T08:54:29.761573+09:00",
+  "label": "08:54",
   "items": [
     {
-      "keyword": "시청률",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "김연경",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "넷플릭스 \"광고 성패, 노출 아닌 주목도가 결정\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260804034700017"
+        "title": "\"한국전 충격패 뒤 그만두려고 했다\"…198cm 세계 최고 MB, 김연경에 지고 '눈물 펑펑'→은퇴 고민 쓰라린 아픔 털어놨다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260805020249623"
       }
     },
     {
-      "keyword": "운세",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "재건축",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[오늘의 운세] 8월 5일 수요일 (음력 6월 23일 辛亥)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/08/04/NUHGIWDR3JADJAZGBM3RWPX46U/"
+        "title": "성남시, 분당 재건축·백현마이스 대비 ‘미래 교통망’ 짠다",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/article/2026080507185053529"
       }
     },
     {
-      "keyword": "잠수함",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "LIG D&A, 3천t급 잠수함 전자전 체계 설계검토 마쳐",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260804137100003"
-      }
-    },
-    {
-      "keyword": "두산에너 빌리티",
+      "keyword": "심판",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "두산에너빌리티 전망, 하반기 원전·가스터빈 수주 모멘텀 본격화",
-        "source": "www.gukjenews.com",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654857"
+        "title": "이천수 “손을 다 잘라야 돼, 명보 형도 그렇고…” 청문회 ‘주머니 손’ 직격",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/society_general/1271274.html"
       }
     },
     {
-      "keyword": "ionq",
+      "keyword": "ลำดับของ ฟุตบอลทีมชาติฟิลิปปินส์ พบ ฟุตบอลทีมชาติไทย",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "LIVE ดูบอลสด ฟิลิปปินส์ พบ ทีมชาติไทย บอลไทยวันนี้ (4 ส.ค.) 20.00 น. อาเซียน คัพ 2026",
+        "source": "Thairath.co.th",
+        "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2949199"
+      }
+    },
+    {
+      "keyword": "해고",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Wedbush assumes coverage on IonQ stock with outperform rating",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/analyst-ratings/wedbush-assumes-coverage-on-ionq-stock-with-outperform-rating-93CH-4831365"
+        "title": "11년 일한 부당해고 프리랜서에 대법 “정규직과 동일 임금 줘야”",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260804510177"
       }
     },
     {
-      "keyword": "필라델피아 필리스",
+      "keyword": "신영균",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘간판’ 이정후 꽉 잡고 7명 내보낸 SF",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260805/134421577/2"
-      }
-    },
-    {
-      "keyword": "pltr",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Palantir stock jumps after 'otherworldly' quarter as US commercial business booms",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html"
-      }
-    },
-    {
-      "keyword": "대한축구협회",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "대한축구협회장 선거인단 2만 명 되나…전자투표도 추진",
+        "title": "‘98세 배우’ 신영균, 꾸준한 운동…신현준 “큰 자극 받았다”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260804184129049"
+        "url": "https://v.daum.net/v/20260804094737634"
       }
     },
     {
-      "keyword": "테니스",
+      "keyword": "처서",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "한국 14세 女 대표팀, 슬로바키아에 충격패.. 8강 진출 불투명",
-        "source": "테니스코리아",
-        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53396"
-      }
+      "news": null
     },
     {
-      "keyword": "불",
+      "keyword": "아반떼",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한밤 부천 원미구 아파트서 불…60대 주민 중상",
+        "title": "'가격 공개 임박' 신형 아반떼, 기본사양 변수",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260805052252670"
+        "url": "https://v.daum.net/v/udpezed8wc"
+      }
+    },
+    {
+      "keyword": "pga 투어 챔피언스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Padraig Harrington denied by Zach Johnson in Portugal Invitational",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/golf/articles/c24mrrr6yz7o"
+      }
+    },
+    {
+      "keyword": "qqqm",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Cheaper Nasdaq-100 ETFs Arrived, But QQQM Still Wins for Most Retail Investors",
+        "source": "Tech Times",
+        "url": "https://www.techtimes.com/articles/322842/20260803/cheaper-nasdaq-100-etfs-arrived-qqqm-still-wins-most-retail-investors.htm"
       }
     }
   ]
