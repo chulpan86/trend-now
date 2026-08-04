@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-03T01:46:57.465291+09:00",
-    "label": "01:46",
-    "items": [
-      {
-        "keyword": "재벌x형사",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802180137229"
-        }
-      },
-      {
-        "keyword": "lck",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
-          "source": "Crypto Briefing",
-          "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/"
-        }
-      },
-      {
-        "keyword": "여객선",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802202450516"
-        }
-      },
-      {
-        "keyword": "히샬리송",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802194736973"
-        }
-      },
-      {
-        "keyword": "달 탐사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chau-au-muon-la-doi-tac-dong-hanh-voi-my-trong-su-menh-mat-trang"
-        }
-      },
-      {
-        "keyword": "잠실대교",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한강 잠실대교서 수영하던 30대 남성 수문으로 빨려들어가 심정지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1eduDRe477?f=p"
-        }
-      },
-      {
-        "keyword": "박기량",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260802n14647"
-        }
-      },
-      {
-        "keyword": "앤드류 가필드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/andrew-garfield-feels-successor-tom-200709948.html"
-        }
-      },
-      {
-        "keyword": "마이클세일러",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1132049"
-        }
-      },
-      {
-        "keyword": "서주원",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6246534"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-03T02:53:20.098162+09:00",
-    "label": "02:53",
-    "items": [
-      {
-        "keyword": "재벌x형사",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802180137229"
-        }
-      },
-      {
-        "keyword": "lck",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
-          "source": "Crypto Briefing",
-          "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/"
-        }
-      },
-      {
-        "keyword": "여객선",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802202450516"
-        }
-      },
-      {
-        "keyword": "히샬리송",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802194736973"
-        }
-      },
-      {
-        "keyword": "달 탐사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chau-au-muon-la-doi-tac-dong-hanh-voi-my-trong-su-menh-mat-trang"
-        }
-      },
-      {
-        "keyword": "잠실대교",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802181440512"
-        }
-      },
-      {
-        "keyword": "박기량",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260802n14647"
-        }
-      },
-      {
-        "keyword": "앤드류 가필드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/andrew-garfield-feels-successor-tom-200709948.html"
-        }
-      },
-      {
-        "keyword": "마이클세일러",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1132049"
-        }
-      },
-      {
-        "keyword": "서주원",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6246534"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-03T03:54:39.916719+09:00",
     "label": "03:54",
     "items": [
@@ -1993,6 +1781,108 @@
           "title": "러, 90분간 활공폭탄 8발 퍼부었다…방공망 뚫린 우크라 속수무책",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260804001813079"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-04T15:23:56.486995+09:00",
+    "label": "15:23",
+    "items": [
+      {
+        "keyword": "박현주",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "아름다운재단-미래에셋박현주재단, 가족돌봄청년 위한 금융투자 특강 개최",
+          "source": "소셜임팩트뉴스",
+          "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=6941"
+        }
+      },
+      {
+        "keyword": "실종자",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "속초시, 해양 사고 실종자 위치 예측 기술 개발 추진…공모 선정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804110222739"
+        }
+      },
+      {
+        "keyword": "거부권",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "한동훈 “李, 거부권을 거부…급속도로 몰락할 것”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11607159"
+        }
+      },
+      {
+        "keyword": "압수수색",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] 공수처, ‘서해 공무원 피격 위증’ 관련 제주해경청 압수수색",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804120855859"
+        }
+      },
+      {
+        "keyword": "송성문",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이정후, 코리안더비서 멀티히트 작렬…송성문은 무안타",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803085729780"
+        }
+      },
+      {
+        "keyword": "사장님 귀는 당나귀 귀",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정지선, 역대급 '통 큰' 사내 복지…장기 근속자에 '고급 자동차' 선물 (사당귀)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803172250037"
+        }
+      },
+      {
+        "keyword": "대한민국 해군",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "해군, 대령 지휘 함장에 여군 최초로 ‘배선영 대령’ 임명",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260804/134416587/1"
+        }
+      },
+      {
+        "keyword": "롯데콘서트홀",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "조선의 사랑꾼",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘심혜진 조카’ 심재원, 00년생 소개팅녀 앞 상의 탈의 “웃통 벗은 사람 처음 봐?”(조선의 사랑꾼)[순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804074052590"
+        }
+      },
+      {
+        "keyword": "심현섭",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "심현섭 \"하루에 3.2억 벌었는데…母 빚 15억 떠안아\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026080313351352936"
         }
       }
     ]
