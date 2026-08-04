@@ -1,25 +1,15 @@
 {
-  "timestamp": "2026-08-05T03:22:21.040155+09:00",
-  "label": "03:22",
+  "timestamp": "2026-08-05T05:18:18.167874+09:00",
+  "label": "05:18",
   "items": [
     {
       "keyword": "장동건",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260804195928728"
-      }
-    },
-    {
-      "keyword": "나경원",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "시가 30억 ‘마·용·성’도 피해간 증세…‘똘똘한 한 채’ 억제 퇴색",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608032131005"
       }
     },
     {
@@ -33,29 +23,9 @@
       }
     },
     {
-      "keyword": "감염",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "미국서 기생충 감염사태 사망자 2명 발생",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804052354707"
-      }
-    },
-    {
-      "keyword": "돼지",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "입찰가 가리자 열린 단톡방‥\"삼겹살 1만 8천 원 하시죠\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6842325_36932.html"
-      }
-    },
-    {
       "keyword": "양희은",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "양희은, 지팡이 짚고 생일 모임",
         "source": "뉴시스",
@@ -63,33 +33,63 @@
       }
     },
     {
-      "keyword": "양산시",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "돼지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "40도 폭염, 수도권까지 확산‥'2018년 재현' 넘어 '여름철 일상'될까?",
+        "title": "입찰가 가리자 열린 단톡방‥\"삼겹살 1만 8천 원 하시죠\"",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842394_37004.html"
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6842325_36932.html"
+      }
+    },
+    {
+      "keyword": "감염",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "미국서 기생충 감염사태 사망자 2명 발생",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260804002100038"
       }
     },
     {
       "keyword": "유가증권",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "거래소, 다음달 14일 주식선물 18종목·옵션 2종목 추가 상장",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260804054100008"
+        "title": "[단독]올해 코스피 사이드카 43회 중 25회, 삼전닉스 레버리지 출시 이후 발동",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260804/134418777/1"
       }
     },
     {
-      "keyword": "스파이더맨: 브랜드 뉴 데이",
+      "keyword": "휴가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이 대통령, 오늘부터 업무보고 재개…외교 등 점검",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260804001300038"
+      }
+    },
+    {
+      "keyword": "양산시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[르포]\"폰 꺼지게 하는 더위에 소들도 비쩍 말라\"…122년 만의 韓 최고기온 '양프리카' 43.3도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804111150228"
+      }
+    },
+    {
+      "keyword": "토비 맥과이어",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'어벤져스' 꺾은 '스파이더맨4'…개봉주말 美 역대최고 흥행",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260804056200075"
+        "title": "또 올해 최단 기록... ‘스파이더맨’ 개봉 7일 만에 400만 돌파",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/culture_general/2026/08/04/VLHUAAJ2JFBX3BHVRWSXGYHBSU/"
       }
     },
     {

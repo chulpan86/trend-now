@@ -1678,5 +1678,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T05:18:18.167874+09:00",
+    "label": "05:18",
+    "items": [
+      {
+        "keyword": "장동건",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804195928728"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 z 폴드 6",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[써보니] 대박 난 ‘삼성 여권폰’ 4 대 3 화면비·착붙 그립감까지 참신하긴 한데···",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608041700001"
+        }
+      },
+      {
+        "keyword": "양희은",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "양희은, 지팡이 짚고 생일 모임",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260804_0003736317"
+        }
+      },
+      {
+        "keyword": "돼지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "입찰가 가리자 열린 단톡방‥\"삼겹살 1만 8천 원 하시죠\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6842325_36932.html"
+        }
+      },
+      {
+        "keyword": "감염",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "미국서 기생충 감염사태 사망자 2명 발생",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260804002100038"
+        }
+      },
+      {
+        "keyword": "유가증권",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]올해 코스피 사이드카 43회 중 25회, 삼전닉스 레버리지 출시 이후 발동",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260804/134418777/1"
+        }
+      },
+      {
+        "keyword": "휴가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이 대통령, 오늘부터 업무보고 재개…외교 등 점검",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260804001300038"
+        }
+      },
+      {
+        "keyword": "양산시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[르포]\"폰 꺼지게 하는 더위에 소들도 비쩍 말라\"…122년 만의 韓 최고기온 '양프리카' 43.3도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804111150228"
+        }
+      },
+      {
+        "keyword": "토비 맥과이어",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "또 올해 최단 기록... ‘스파이더맨’ 개봉 7일 만에 400만 돌파",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/04/VLHUAAJ2JFBX3BHVRWSXGYHBSU/"
+        }
+      },
+      {
+        "keyword": "이윤지",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이윤지, 한쪽 눈 퉁퉁 부은 치과의사 남편 공개…“제가 친 거 아닙니다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zhVb3AcnoB"
+        }
+      }
+    ]
   }
 ]
