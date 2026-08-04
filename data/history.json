@@ -1572,5 +1572,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-04T22:49:35.421047+09:00",
+    "label": "22:49",
+    "items": [
+      {
+        "keyword": "오산 공군기지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보]“美공군 박살” 평택기지 침입 대진연 8명 검거",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11607176"
+        }
+      },
+      {
+        "keyword": "삼전닉스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘상한가 가길래 기대 했는데’…삼전닉스 하루 만에 8%대 급락 ‘허탈’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Gau2RwrNSp"
+        }
+      },
+      {
+        "keyword": "고용노동부",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "자발적 퇴사 청년에도 실업급여 준다… 정년연장은 연내 입법",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804175609602"
+        }
+      },
+      {
+        "keyword": "한유라",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정형돈, 기러기 아빠 생활 청산…아내 한유라, 쌍둥이 딸과 5년 만에 귀국",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804140338797"
+        }
+      },
+      {
+        "keyword": "산골총각 영웅",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘산골총각 영웅’ 임영웅, 특별 신청곡으로 마지막 산골 콘서트",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12116298"
+        }
+      },
+      {
+        "keyword": "허재원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "제주SK 유망주들 독일로…세계 축구 꿈나무와 기량 겨룬다",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=841300"
+        }
+      },
+      {
+        "keyword": "서범수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서범수·진종오, 돌려차기 피해자 불러놓고 “돌려차기 한번 하죠”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804202409481"
+        }
+      },
+      {
+        "keyword": "osan air base",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Student Activists Detained for Unauthorized Entry into Pyeongtaek US Base",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/national-en/2026/08/04/AZBGD6GYQRAILIATTMVCMMTWFM/"
+        }
+      },
+      {
+        "keyword": "한문철",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "갑자기 튀어나온 우산에 차량 파손…\"운이 나빴을 뿐 누구 잘못도 아냐\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804095613024"
+        }
+      },
+      {
+        "keyword": "첼시 fc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "웰백 이어 36세 헨더슨까지…'베테랑 수집' 나선 첼시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804071043133"
+        }
+      }
+    ]
   }
 ]
