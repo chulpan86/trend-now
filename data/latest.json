@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-04T18:33:21.940312+09:00",
-  "label": "18:33",
+  "timestamp": "2026-08-04T20:55:39.899022+09:00",
+  "label": "20:55",
   "items": [
     {
-      "keyword": "kt 대 kia",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "제주 대 바이에른",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "잠실야구장 잔디 50도 넘어 측정이 안 돼…서울·광주 경기 취소",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1271312.html"
+        "title": "제주 도착한 바이에른 뮌헨 선수단...공항에 몰린 팬들 (포토)",
+        "source": "헤드라인제주",
+        "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596861"
       }
     },
     {
-      "keyword": "한화 대 삼성",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "2위 내려앉은 삼성, 맏형부터 움직였다…최형우, 폭염 속 특타 자청 [오!쎈 대구]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804144937055"
-      }
-    },
-    {
-      "keyword": "13 호 태풍 돌핀 예상 경로",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "열기 몰고 오는 태풍 ’돌핀’…폭염 더 심해지나",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260804110124Wny"
-      }
-    },
-    {
-      "keyword": "lg 대 ssg",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘1위→최하위’ ERA 1.79→6.14 추락…LG 아시아쿼터, 20만 달러 몸값 다했지만 언제 반등할까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804131937210"
-      }
-    },
-    {
-      "keyword": "광주날씨",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/environment/1271343.html"
-      }
-    },
-    {
-      "keyword": "한국경제tv",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "이란 전쟁 출구 못 찾는 미국…\"방법 없나요\" 외부에 이례적 SOS - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/world/2026/08/04/2026080410310920894"
-      }
-    },
-    {
-      "keyword": "에릭 라우 어",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"더는 안 쓰겠구나\" 강정호 진단 현실로? 김혜성, 트리플A에서도 이틀 연속 무안타",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803153609496"
-      }
-    },
-    {
-      "keyword": "군함",
+      "keyword": "디에이치 클래스트",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "이란 \"호르무즈 별도 항로 불허…필요하면 미 군함 타격\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804084336014"
+        "title": "8월 전국 아파트 2만8천15가구 분양…수도권 80% 몰리고 경기도 ‘최대’",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260803580338"
       }
     },
     {
-      "keyword": "중수청",
+      "keyword": "식사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "식사부터 간식까지…이디야커피, 간편 샌드위치 4종 한정 출시",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260804_0003735192"
+      }
+    },
+    {
+      "keyword": "김서현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "35구 던졌는데, 볼이 무려 25개…“투구 폼이 바뀌었다” 김서현, 그러나 日 유학 효과 아직이다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804075210760"
+      }
+    },
+    {
+      "keyword": "jeju vs bayern",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "중수청 2874명 확정… 10년차 미만 검사는 직급 낮아져",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/08/04/5P5KZRA3RBB6TLTV46ANHOTP3I/"
+        "title": "K League's Jeju SK FC ready to learn from Bayern Munich in exhibition match",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20260803011800315"
       }
     },
     {
-      "keyword": "뮌헨 제주",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "시흥시",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'독일 최강' 뮌헨과 격돌…제주 코스타 감독 \"내게도 좋은 경험\"",
+        "title": "경기 시흥서도 투표자 수 3천600여명 '대규모 오입력'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/XlNPJSvmtE"
+      }
+    },
+    {
+      "keyword": "크리스토퍼 놀란",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "영화 '오디세이' 레드카펫, 한국 팬들 만난 맷 데이먼",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260803157100007"
+        "url": "https://www.yna.co.kr/view/IPT20260804000015365?section=gallery/index"
+      }
+    },
+    {
+      "keyword": "이란 대통령",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "트럼프와 MOU 서명했는데…이란 대통령, ‘사임설’ 강경파 공세에 “버틸 것”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804193041092"
+      }
+    },
+    {
+      "keyword": "체리 자동차",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "KG모빌리티, 中 체리차 투자 유치… 위탁 생산 기지화 우려",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/auto/2026/08/04/AISXLBU6JBFPBFK6UV7WJWF5NE/"
+      }
+    },
+    {
+      "keyword": "토토",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[토토 투데이] '46억 잭팟' 또 안 터졌다…축구토토 승무패, 5회 연속 1등 실종",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/08/03/GRRGKYRRGFQTKODGMY4GIYZSMI/"
       }
     }
   ]
