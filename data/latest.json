@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-04T15:23:56.486995+09:00",
-  "label": "15:23",
+  "timestamp": "2026-08-04T18:33:21.940312+09:00",
+  "label": "18:33",
   "items": [
     {
-      "keyword": "박현주",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "kt 대 kia",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "아름다운재단-미래에셋박현주재단, 가족돌봄청년 위한 금융투자 특강 개최",
-        "source": "소셜임팩트뉴스",
-        "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=6941"
+        "title": "잠실야구장 잔디 50도 넘어 측정이 안 돼…서울·광주 경기 취소",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/society_general/1271312.html"
       }
     },
     {
-      "keyword": "실종자",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "한화 대 삼성",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "속초시, 해양 사고 실종자 위치 예측 기술 개발 추진…공모 선정",
+        "title": "2위 내려앉은 삼성, 맏형부터 움직였다…최형우, 폭염 속 특타 자청 [오!쎈 대구]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260804110222739"
+        "url": "https://v.daum.net/v/20260804144937055"
       }
     },
     {
-      "keyword": "거부권",
+      "keyword": "13 호 태풍 돌핀 예상 경로",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "열기 몰고 오는 태풍 ’돌핀’…폭염 더 심해지나",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260804110124Wny"
+      }
+    },
+    {
+      "keyword": "lg 대 ssg",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘1위→최하위’ ERA 1.79→6.14 추락…LG 아시아쿼터, 20만 달러 몸값 다했지만 언제 반등할까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804131937210"
+      }
+    },
+    {
+      "keyword": "광주날씨",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“폭염 강도, 여기서 더 심해질 듯”…내일 중대경보 인천·안산·김포까지",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/environment/1271343.html"
+      }
+    },
+    {
+      "keyword": "한국경제tv",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "이란 전쟁 출구 못 찾는 미국…\"방법 없나요\" 외부에 이례적 SOS - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/08/04/2026080410310920894"
+      }
+    },
+    {
+      "keyword": "에릭 라우 어",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"더는 안 쓰겠구나\" 강정호 진단 현실로? 김혜성, 트리플A에서도 이틀 연속 무안타",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803153609496"
+      }
+    },
+    {
+      "keyword": "군함",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한동훈 “李, 거부권을 거부…급속도로 몰락할 것”",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11607159"
-      }
-    },
-    {
-      "keyword": "압수수색",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[단독] 공수처, ‘서해 공무원 피격 위증’ 관련 제주해경청 압수수색",
+        "title": "이란 \"호르무즈 별도 항로 불허…필요하면 미 군함 타격\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260804120855859"
+        "url": "https://v.daum.net/v/20260804084336014"
       }
     },
     {
-      "keyword": "송성문",
+      "keyword": "중수청",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이정후, 코리안더비서 멀티히트 작렬…송성문은 무안타",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803085729780"
+        "title": "중수청 2874명 확정… 10년차 미만 검사는 직급 낮아져",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/08/04/5P5KZRA3RBB6TLTV46ANHOTP3I/"
       }
     },
     {
-      "keyword": "사장님 귀는 당나귀 귀",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "정지선, 역대급 '통 큰' 사내 복지…장기 근속자에 '고급 자동차' 선물 (사당귀)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803172250037"
-      }
-    },
-    {
-      "keyword": "대한민국 해군",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "해군, 대령 지휘 함장에 여군 최초로 ‘배선영 대령’ 임명",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260804/134416587/1"
-      }
-    },
-    {
-      "keyword": "롯데콘서트홀",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "조선의 사랑꾼",
+      "keyword": "뮌헨 제주",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘심혜진 조카’ 심재원, 00년생 소개팅녀 앞 상의 탈의 “웃통 벗은 사람 처음 봐?”(조선의 사랑꾼)[순간포착]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804074052590"
-      }
-    },
-    {
-      "keyword": "심현섭",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "심현섭 \"하루에 3.2억 벌었는데…母 빚 15억 떠안아\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026080313351352936"
+        "title": "'독일 최강' 뮌헨과 격돌…제주 코스타 감독 \"내게도 좋은 경험\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260803157100007"
       }
     }
   ]
