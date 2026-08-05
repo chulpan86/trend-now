@@ -1,11 +1,31 @@
 {
-  "timestamp": "2026-08-05T08:54:29.761573+09:00",
-  "label": "08:54",
+  "timestamp": "2026-08-05T10:41:26.122387+09:00",
+  "label": "10:41",
   "items": [
     {
+      "keyword": "남자친구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘돌싱’ 아옳이, 예쁘게 꾸미고 한의원 갔더니…♥한의사 남친이 먼저 DM [종합]",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608031016013"
+      }
+    },
+    {
+      "keyword": "과태료",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "차는 넘치고 길은 막혔다…포항 주차 대란의 경고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803152915189?f=p"
+      }
+    },
+    {
       "keyword": "김연경",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "\"한국전 충격패 뒤 그만두려고 했다\"…198cm 세계 최고 MB, 김연경에 지고 '눈물 펑펑'→은퇴 고민 쓰라린 아픔 털어놨다",
         "source": "Daum",
@@ -13,89 +33,69 @@
       }
     },
     {
-      "keyword": "재건축",
+      "keyword": "파라타항공",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "성남시, 분당 재건축·백현마이스 대비 ‘미래 교통망’ 짠다",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026080507185053529"
+        "title": "이것저것 시도해 보지만 신통치 않다 … 생존 위협 파라타항공",
+        "source": "뉴데일리",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400114.html"
       }
     },
     {
-      "keyword": "심판",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이천수 “손을 다 잘라야 돼, 명보 형도 그렇고…” 청문회 ‘주머니 손’ 직격",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1271274.html"
-      }
-    },
-    {
-      "keyword": "ลำดับของ ฟุตบอลทีมชาติฟิลิปปินส์ พบ ฟุตบอลทีมชาติไทย",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "LIVE ดูบอลสด ฟิลิปปินส์ พบ ทีมชาติไทย บอลไทยวันนี้ (4 ส.ค.) 20.00 น. อาเซียน คัพ 2026",
-        "source": "Thairath.co.th",
-        "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2949199"
-      }
-    },
-    {
-      "keyword": "해고",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "11년 일한 부당해고 프리랜서에 대법 “정규직과 동일 임금 줘야”",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260804510177"
-      }
-    },
-    {
-      "keyword": "신영균",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘98세 배우’ 신영균, 꾸준한 운동…신현준 “큰 자극 받았다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804094737634"
-      }
-    },
-    {
-      "keyword": "처서",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "오마이뉴스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": null
     },
     {
-      "keyword": "아반떼",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "선예",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'가격 공개 임박' 신형 아반떼, 기본사양 변수",
+        "title": "원더걸스 선예, 세 딸과 속초 여행…훌쩍 큰 딸들 눈길",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260804_0003736196"
+      }
+    },
+    {
+      "keyword": "박하선",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "박하선, C사 백 포인트 더한 수영복 자태…‘럭셔리 썸머룩’ 정석 [IS하이컷]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/udpezed8wc"
+        "url": "https://v.daum.net/v/20260804155727399"
       }
     },
     {
-      "keyword": "pga 투어 챔피언스",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "브라이스 하퍼",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Padraig Harrington denied by Zach Johnson in Portugal Invitational",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/golf/articles/c24mrrr6yz7o"
+        "title": "늦은 밤 사장에게 문자→이정후 동료 트레이드 성사…하퍼, 내야→외야 이동까지 감수한다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804101045797?f=p"
       }
     },
     {
-      "keyword": "qqqm",
+      "keyword": "묵호항",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Cheaper Nasdaq-100 ETFs Arrived, But QQQM Still Wins for Most Retail Investors",
-        "source": "Tech Times",
-        "url": "https://www.techtimes.com/articles/322842/20260803/cheaper-nasdaq-100-etfs-arrived-qqqm-still-wins-most-retail-investors.htm"
+        "title": "잠 깨운 '빵빵빵' 소리…\"4년 만에 또\" 속타는 묵호시장",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804210605341"
+      }
+    },
+    {
+      "keyword": "김혜경",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "부동산 여론 심상치 않자…이 대통령 “주택 공급 최대한 빨리, 많이” 지시",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/bluehouse/1271414.html"
       }
     }
   ]
