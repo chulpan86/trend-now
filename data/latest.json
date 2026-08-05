@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-06T02:19:32.440976+09:00",
-  "label": "02:19",
+  "timestamp": "2026-08-06T04:13:59.900852+09:00",
+  "label": "04:13",
   "items": [
     {
       "keyword": "고현정",
@@ -10,6 +10,16 @@
         "title": "\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]",
         "source": "파이낸셜뉴스",
         "url": "https://www.fnnews.com/news/202608051426257305"
+      }
+    },
+    {
+      "keyword": "계엄",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'尹계엄' 반란수괴 적용 불가 근거는…\"1980년 5·17 내란 판례\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260804165800004"
       }
     },
     {
@@ -23,23 +33,13 @@
       }
     },
     {
-      "keyword": "lck",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "DNS Sharvel: \"I'm confident I can play Qiyana better than anyone in the world\"",
-        "source": "Sheep Esports",
-        "url": "https://www.sheepesports.com/en/all/articles/dns-sharvel-i-m-confident-i-can-play-qiyana-better-than-anyone-in-the-world/en"
-      }
-    },
-    {
-      "keyword": "계엄",
+      "keyword": "아스날",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[단독] 종합특검, 'HID 북파 훈련' 의혹 속초서 현장 검증",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6842656_36918.html"
+        "title": "아스날, 1345억 거절에도 포기 없다...BBC, \"기마랑이스 영입 위해 뉴캐슬과 직접 협상\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804211707592?f=p"
       }
     },
     {
@@ -53,13 +53,23 @@
       }
     },
     {
-      "keyword": "나는솔로",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "알테오젠",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[다시보기] 나는 SOLO 265회",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000633646"
+        "title": "[특징주] 알테오젠, 5천억원 규모 라이선스 계약에 상승(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260805154007236?sicode=01"
+      }
+    },
+    {
+      "keyword": "덕분",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "고양이 덕분에 힐링…통영 용호도서 축제",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260804.22008000630"
       }
     },
     {
@@ -83,23 +93,13 @@
       }
     },
     {
-      "keyword": "경로당",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "화성시 효행구, 기록적 무더위 총력 대응…생활권 냉방시설 안전 강화",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711508"
-      }
-    },
-    {
-      "keyword": "덕분",
+      "keyword": "lg 의인상",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "K기업과 초밀착…머스크, 한국 찾나",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026080447761"
+        "title": "수심 3m 가라앉던 19개월 아기 구한 60대… ‘LG 의인상’ 포상금도 기부",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260805181732463"
       }
     }
   ]

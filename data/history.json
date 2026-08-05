@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-04T15:23:56.486995+09:00",
-    "label": "15:23",
-    "items": [
-      {
-        "keyword": "박현주",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "아름다운재단-미래에셋박현주재단, 가족돌봄청년 위한 금융투자 특강 개최",
-          "source": "소셜임팩트뉴스",
-          "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=6941"
-        }
-      },
-      {
-        "keyword": "실종자",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "속초시, 해양 사고 실종자 위치 예측 기술 개발 추진…공모 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804110222739"
-        }
-      },
-      {
-        "keyword": "거부권",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "한동훈 “李, 거부권을 거부…급속도로 몰락할 것”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11607159"
-        }
-      },
-      {
-        "keyword": "압수수색",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[단독] 공수처, ‘서해 공무원 피격 위증’ 관련 제주해경청 압수수색",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804120855859"
-        }
-      },
-      {
-        "keyword": "송성문",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이정후, 코리안더비서 멀티히트 작렬…송성문은 무안타",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803085729780"
-        }
-      },
-      {
-        "keyword": "사장님 귀는 당나귀 귀",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "정지선, 역대급 '통 큰' 사내 복지…장기 근속자에 '고급 자동차' 선물 (사당귀)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803172250037"
-        }
-      },
-      {
-        "keyword": "대한민국 해군",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "해군, 대령 지휘 함장에 여군 최초로 ‘배선영 대령’ 임명",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260804/134416587/1"
-        }
-      },
-      {
-        "keyword": "롯데콘서트홀",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "조선의 사랑꾼",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘심혜진 조카’ 심재원, 00년생 소개팅녀 앞 상의 탈의 “웃통 벗은 사람 처음 봐?”(조선의 사랑꾼)[순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804074052590"
-        }
-      },
-      {
-        "keyword": "심현섭",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "심현섭 \"하루에 3.2억 벌었는데…母 빚 15억 떠안아\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026080313351352936"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-04T18:33:21.940312+09:00",
     "label": "18:33",
     "items": [
@@ -1675,6 +1573,112 @@
           "title": "K기업과 초밀착…머스크, 한국 찾나",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026080447761"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-06T04:13:59.900852+09:00",
+    "label": "04:13",
+    "items": [
+      {
+        "keyword": "고현정",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608051426257305"
+        }
+      },
+      {
+        "keyword": "계엄",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'尹계엄' 반란수괴 적용 불가 근거는…\"1980년 5·17 내란 판례\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804165800004"
+        }
+      },
+      {
+        "keyword": "장항준",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260805_0003737839"
+        }
+      },
+      {
+        "keyword": "아스날",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "아스날, 1345억 거절에도 포기 없다...BBC, \"기마랑이스 영입 위해 뉴캐슬과 직접 협상\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804211707592?f=p"
+        }
+      },
+      {
+        "keyword": "채리나",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805163251932"
+        }
+      },
+      {
+        "keyword": "알테오젠",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[특징주] 알테오젠, 5천억원 규모 라이선스 계약에 상승(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805154007236?sicode=01"
+        }
+      },
+      {
+        "keyword": "덕분",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "고양이 덕분에 힐링…통영 용호도서 축제",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260804.22008000630"
+        }
+      },
+      {
+        "keyword": "fa컵",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2026-27 FA Cup Fixture Finder Map",
+          "source": "TheFA.com",
+          "url": "https://www.thefa.com/news/2026/aug/03/emirates-fa-cup-fixture-finder-map-2025-26-season"
+        }
+      },
+      {
+        "keyword": "주소",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328924"
+        }
+      },
+      {
+        "keyword": "lg 의인상",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "수심 3m 가라앉던 19개월 아기 구한 60대… ‘LG 의인상’ 포상금도 기부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805181732463"
         }
       }
     ]
