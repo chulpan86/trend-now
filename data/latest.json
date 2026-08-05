@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-08-05T13:55:08.608357+09:00",
-  "label": "13:55",
+  "timestamp": "2026-08-05T16:32:31.573979+09:00",
+  "label": "16:32",
   "items": [
     {
-      "keyword": "최저임금",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "이지한",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "내년 최저임금 1만700원 확정···월급 기준 223만6300원",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608050952001"
+        "title": "“엄마, 신발이 벗겨져”…못 돌아온 아들, 거실 쪽으로 새 구두 놔뒀어",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/society_general/1271453.html"
       }
     },
     {
-      "keyword": "민주당 전당 대회",
+      "keyword": "홍경민",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“청래 야호” “민석초코”…살벌한 난타전 뒤, 앙증맞은 구애",
+        "title": "'동상이몽2' 홍경민, 아내와 '육아'이몽 \"그렇게 해서 대학 가야 하나\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/broadcast-tv/6249742"
+      }
+    },
+    {
+      "keyword": "수요",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"8월 3째주에 올여름 전력피크\"…남동발전 `비상대응반` 가동",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260805.99099001058"
+      }
+    },
+    {
+      "keyword": "전설의 사내",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘무명전설 우승’ 성리 “제주도 집 계약 완료, 상금 1억도 수령” (‘전설의 사내’)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260805050225310"
+        "url": "https://v.daum.net/v/20260803132127620"
       }
     },
     {
-      "keyword": "허지웅",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'수사 검사' 사라졌다‥이젠 경찰에 강력 경고",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6842458_37012.html"
-      }
-    },
-    {
-      "keyword": "로스앤젤레스 다저스",
+      "keyword": "대한민국 해병대",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "MLB 다저스, 시즌 최다 5연패…스쿠벌 첫 등판서 6이닝 2실점",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629150"
+        "title": "북한, ‘한국 주도’ 림팩에 “아태 안보위기 고착…새 억제력으로 대응” 위협",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804101538083"
       }
     },
     {
-      "keyword": "말복",
+      "keyword": "인천대교",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "군위군, 말복 앞두고 로컬푸드 직매장 ‘복날 이벤트’ 운영",
-        "source": "KNS뉴스통신",
-        "url": "https://www.kns.tv/news/articleView.html?idxno=1012012"
+        "title": "“사람 떨어졌어요” 11일동안 3명 숨졌다…인천대교 비극",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804163649377"
       }
     },
     {
-      "keyword": "압수수색",
+      "keyword": "zhbm",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "野, 스타벅스 압색에 \"경찰, 정권의 충견인가\" \"중국식 공안 국가의 서막\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/assembly/2026/08/05/LZ6Y4G7BSVBUZBRORI5HAFJY4U/"
+        "title": "Samsung unveils industry's 1st zHBM concept, targeting 8-fold HBM5 performance",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20260805002600320"
       }
     },
     {
-      "keyword": "배지환",
+      "keyword": "지그재그",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘결국 ML 콜업 기회 없었다’ 배지환, 메츠에서 방출…ML 복귀 희망 사라지나",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112852478"
+        "title": "[단독] 지그재그 회원 개인정보 1253만건 유출 주장 나와…다크웹서 판매",
+        "source": "뉴스저널리즘",
+        "url": "https://www.ngetnews.com/news/articleView.html?idxno=552140"
       }
     },
     {
-      "keyword": "대탈출",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "용인 반도체 클러스터",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'대탈출' 새 시즌에 김종민·신동 복귀…승관 합류",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026080510285068419"
-      }
-    },
-    {
-      "keyword": "하원미",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'美5500평 대저택' 하원미, 세상 다 가졌네..추신수 똑닮은 아들에 흐뭇",
+        "title": "“농업용수에 반도체 폐수 뿌리나” 안성 주민 400여 명 트랙터 행진",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260804203056640"
+        "url": "https://v.daum.net/v/20260803193748434"
       }
     },
     {
-      "keyword": "하이닉스 채용",
+      "keyword": "skc",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "\"10월이 벌써 두렵다\"…이재용 특명에 삼성 임원들 '비상' [김대영의 노무스쿨]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607318046g"
-      }
+      "news": null
     }
   ]
 }

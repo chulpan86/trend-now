@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-08-04T02:46:41.155143+09:00",
-    "label": "02:46",
-    "items": [
-      {
-        "keyword": "화산분화",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "인도네시아 대 베트남",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'싱가포르와 무승부' 김상식, 오늘 인니전 필승 각오...인니 매체는 \"당황한 듯\" 직격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803142233030"
-        }
-      },
-      {
-        "keyword": "대피소",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "TSMC 구마모토 공장 지진 피해 복구 완료",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003734935"
-        }
-      },
-      {
-        "keyword": "반포자이",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "부동산 세금 기준 '거주'로 대전환‥'양도세 보유 공제' 없앤다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842105_37004.html"
-        }
-      },
-      {
-        "keyword": "제이든 산초",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803230150236"
-        }
-      },
-      {
-        "keyword": "lg이노텍",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"피지컬 AI 시대 전환점… '위닝 테크'로 핵심 파트너가 될 것\" [오늘의 DT인]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802100328639"
-        }
-      },
-      {
-        "keyword": "인터 마이애미 cf",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'손흥민 우승 경쟁팀' 인터 마이애미, 드림팀 결성한다...메시+수아레즈+카세미루 이어 더 브라위너 영입 작업 착수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803162728782"
-        }
-      },
-      {
-        "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Video: Van Vi mencetak gol pembuka untuk tim nasional Vietnam.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/id/video-van-vi-mo-ty-so-som-cho-tuyen-viet-nam"
-        }
-      },
-      {
-        "keyword": "내 남은 연애",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"한 사람의 큰 흔적\"..'내 남은 연애', 투병 연프 논란 딛을까[★FOCUS]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HH0BnICEve"
-        }
-      },
-      {
-        "keyword": "김용빈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16154010"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-04T04:18:24.660886+09:00",
-    "label": "04:18",
-    "items": [
-      {
-        "keyword": "화산분화",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "대피소",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“한국·대만을 봐라”…열악한 대피소에 일본 내 ‘불만’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627390"
-        }
-      },
-      {
-        "keyword": "물고기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Global Fish Box 시장 규모 상위 20개 기업",
-          "source": "Spherical Insights",
-          "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-the-global-fish-box-market-2026-2035-spherical-insights-analysis"
-        }
-      },
-      {
-        "keyword": "산초",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803230150236"
-        }
-      },
-      {
-        "keyword": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Keamanan diperketat menjelang pertandingan sengit antara tim nasional Vietnam dan Indonesia; kendaraan lapis baja dan perisai anti huru hara dikerahkan.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/id/an-ninh-that-chat-tran-nong-dau-doi-tuyen-viet-nam-indonesia-dieu-xe-boc-thep-va-khien-chong-bao-dong"
-        }
-      },
-      {
-        "keyword": "lg이노텍",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"피지컬 AI 시대 전환점… '위닝 테크'로 핵심 파트너가 될 것\" [오늘의 DT인]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802100328639"
-        }
-      },
-      {
-        "keyword": "인터 마이애미 cf",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'손흥민 우승 경쟁팀' 인터 마이애미, 드림팀 결성한다...메시+수아레즈+카세미루 이어 더 브라위너 영입 작업 착수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803162728782"
-        }
-      },
-      {
-        "keyword": "이찬원",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이번엔 이지혜 저격한 고영욱 \"허세를 학습한 걸까\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260803_0003733440"
-        }
-      },
-      {
-        "keyword": "내 남은 연애",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"머리 밀고 자기혐오 심해져\"...친언니 골수 이식 받은 미모의 청순녀[내남은연애][별별TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803230049220"
-        }
-      },
-      {
-        "keyword": "김용빈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16154010"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-04T05:54:27.542879+09:00",
     "label": "05:54",
     "items": [
@@ -1884,6 +1680,108 @@
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/202607318046g"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-05T16:32:31.573979+09:00",
+    "label": "16:32",
+    "items": [
+      {
+        "keyword": "이지한",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“엄마, 신발이 벗겨져”…못 돌아온 아들, 거실 쪽으로 새 구두 놔뒀어",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1271453.html"
+        }
+      },
+      {
+        "keyword": "홍경민",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'동상이몽2' 홍경민, 아내와 '육아'이몽 \"그렇게 해서 대학 가야 하나\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6249742"
+        }
+      },
+      {
+        "keyword": "수요",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"8월 3째주에 올여름 전력피크\"…남동발전 `비상대응반` 가동",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260805.99099001058"
+        }
+      },
+      {
+        "keyword": "전설의 사내",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘무명전설 우승’ 성리 “제주도 집 계약 완료, 상금 1억도 수령” (‘전설의 사내’)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803132127620"
+        }
+      },
+      {
+        "keyword": "대한민국 해병대",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "북한, ‘한국 주도’ 림팩에 “아태 안보위기 고착…새 억제력으로 대응” 위협",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804101538083"
+        }
+      },
+      {
+        "keyword": "인천대교",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“사람 떨어졌어요” 11일동안 3명 숨졌다…인천대교 비극",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804163649377"
+        }
+      },
+      {
+        "keyword": "zhbm",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Samsung unveils industry's 1st zHBM concept, targeting 8-fold HBM5 performance",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260805002600320"
+        }
+      },
+      {
+        "keyword": "지그재그",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 지그재그 회원 개인정보 1253만건 유출 주장 나와…다크웹서 판매",
+          "source": "뉴스저널리즘",
+          "url": "https://www.ngetnews.com/news/articleView.html?idxno=552140"
+        }
+      },
+      {
+        "keyword": "용인 반도체 클러스터",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“농업용수에 반도체 폐수 뿌리나” 안성 주민 400여 명 트랙터 행진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803193748434"
+        }
+      },
+      {
+        "keyword": "skc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
       }
     ]
   }
