@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-05T05:18:18.167874+09:00",
-    "label": "05:18",
-    "items": [
-      {
-        "keyword": "장동건",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804195928728"
-        }
-      },
-      {
-        "keyword": "삼성 갤럭시 z 폴드 6",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[써보니] 대박 난 ‘삼성 여권폰’ 4 대 3 화면비·착붙 그립감까지 참신하긴 한데···",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608041700001"
-        }
-      },
-      {
-        "keyword": "양희은",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "양희은, 지팡이 짚고 생일 모임",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003736317"
-        }
-      },
-      {
-        "keyword": "돼지",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "입찰가 가리자 열린 단톡방‥\"삼겹살 1만 8천 원 하시죠\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6842325_36932.html"
-        }
-      },
-      {
-        "keyword": "감염",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "미국서 기생충 감염사태 사망자 2명 발생",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260804002100038"
-        }
-      },
-      {
-        "keyword": "유가증권",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독]올해 코스피 사이드카 43회 중 25회, 삼전닉스 레버리지 출시 이후 발동",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260804/134418777/1"
-        }
-      },
-      {
-        "keyword": "휴가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이 대통령, 오늘부터 업무보고 재개…외교 등 점검",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260804001300038"
-        }
-      },
-      {
-        "keyword": "양산시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[르포]\"폰 꺼지게 하는 더위에 소들도 비쩍 말라\"…122년 만의 韓 최고기온 '양프리카' 43.3도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804111150228"
-        }
-      },
-      {
-        "keyword": "토비 맥과이어",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "또 올해 최단 기록... ‘스파이더맨’ 개봉 7일 만에 400만 돌파",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/04/VLHUAAJ2JFBX3BHVRWSXGYHBSU/"
-        }
-      },
-      {
-        "keyword": "이윤지",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이윤지, 한쪽 눈 퉁퉁 부은 치과의사 남편 공개…“제가 친 거 아닙니다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zhVb3AcnoB"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T07:03:26.695469+09:00",
-    "label": "07:03",
-    "items": [
-      {
-        "keyword": "시청률",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "넷플릭스 \"광고 성패, 노출 아닌 주목도가 결정\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804034700017"
-        }
-      },
-      {
-        "keyword": "운세",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[오늘의 운세] 8월 5일 수요일 (음력 6월 23일 辛亥)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/04/NUHGIWDR3JADJAZGBM3RWPX46U/"
-        }
-      },
-      {
-        "keyword": "잠수함",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "LIG D&A, 3천t급 잠수함 전자전 체계 설계검토 마쳐",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804137100003"
-        }
-      },
-      {
-        "keyword": "두산에너 빌리티",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "두산에너빌리티 전망, 하반기 원전·가스터빈 수주 모멘텀 본격화",
-          "source": "www.gukjenews.com",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654857"
-        }
-      },
-      {
-        "keyword": "ionq",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Wedbush assumes coverage on IonQ stock with outperform rating",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/analyst-ratings/wedbush-assumes-coverage-on-ionq-stock-with-outperform-rating-93CH-4831365"
-        }
-      },
-      {
-        "keyword": "필라델피아 필리스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘간판’ 이정후 꽉 잡고 7명 내보낸 SF",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260805/134421577/2"
-        }
-      },
-      {
-        "keyword": "pltr",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Palantir stock jumps after 'otherworldly' quarter as US commercial business booms",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html"
-        }
-      },
-      {
-        "keyword": "대한축구협회",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "대한축구협회장 선거인단 2만 명 되나…전자투표도 추진",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804184129049"
-        }
-      },
-      {
-        "keyword": "테니스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한국 14세 女 대표팀, 슬로바키아에 충격패.. 8강 진출 불투명",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53396"
-        }
-      },
-      {
-        "keyword": "불",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한밤 부천 원미구 아파트서 불…60대 주민 중상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805052252670"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-05T08:54:29.761573+09:00",
     "label": "08:54",
     "items": [
@@ -1782,6 +1570,112 @@
         "traffic_raw": "500+",
         "traffic": 500,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-06T19:27:35.137271+09:00",
+    "label": "19:27",
+    "items": [
+      {
+        "keyword": "살인",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "강북구 오피스텔 살인 피의자, 13세 미만 성폭력 15차례…전자발찌 부착 전력",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806074022391"
+        }
+      },
+      {
+        "keyword": "음문석",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "19년 무명·330일 라면·아버지 그리움…음문석, 눈물의 삶",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806154801398"
+        }
+      },
+      {
+        "keyword": "서울특별시교육청",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "올해 2번째 검정고시, 11일 시행…5908명 지원 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/08/05/2026080508570140479"
+        }
+      },
+      {
+        "keyword": "축협",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[르포] 극한 폭염 속 사과도 검게 타들어갔다…추석 앞두고 '비상'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806135352635"
+        }
+      },
+      {
+        "keyword": "골드만삭스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "골드만삭스 \"코스피 급락은 조정일 뿐…목표치 12,000 유지\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806143056560"
+        }
+      },
+      {
+        "keyword": "진종오",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘돌려차기 망언’ 궁지 몰린 친한계…징계 칼날 앞에 “형평성 맞나”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260806/134431590/1"
+        }
+      },
+      {
+        "keyword": "민형배",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경남 38도 찜통더위 지속…온열질환 229명·17개 시군 가뭄(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806153100350"
+        }
+      },
+      {
+        "keyword": "입법고시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[인터뷰] 2026년 입법고시 재경직 수석 최원준 씨 “내가 할 수 있는 노력에 집중”",
+          "source": "법률저널",
+          "url": "https://www.lec.co.kr/news/articleView.html?idxno=752513"
+        }
+      },
+      {
+        "keyword": "부산항",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘대한민국 해양수산부’ 2030년 부산 북항시대 연다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806183525308"
+        }
+      },
+      {
+        "keyword": "북한 미사일",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "북, 동해 상으로 단거리 탄도미사일 발사",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608061758283486&s_mcd=0101"
+        }
       }
     ]
   }

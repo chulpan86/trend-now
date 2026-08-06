@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-08-06T16:33:35.249695+09:00",
-  "label": "16:33",
+  "timestamp": "2026-08-06T19:27:35.137271+09:00",
+  "label": "19:27",
   "items": [
     {
-      "keyword": "대통령",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "가뭄-폭염 대처현황 현장점검 - 사진 | 멀티미디어",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72845&pWise=sub&pWiseSub=D4"
-      }
-    },
-    {
-      "keyword": "태국",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260806095351128"
-      }
-    },
-    {
-      "keyword": "테슬라",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "그랜저도 제치고 잘나가는 테슬라",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260805204329571"
-      }
-    },
-    {
-      "keyword": "이찬원",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "이찬원, 연예계 마당발 맞네…전화 한통에 '韓 최고 걸그룹' 출격 [편스토랑]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/uA9wbDwaDM"
-      }
-    },
-    {
-      "keyword": "구윤철",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "구윤철 \"기초·퇴직연금 개편 방안 조만간 발표\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260806038400002"
-      }
-    },
-    {
-      "keyword": "전술 핵무기",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "美, 한국 방어에 핵 꺼내드나…중·러 대비 ‘단거리 전술핵’ 검토",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260806144907686"
-      }
-    },
-    {
-      "keyword": "엘에이 fc",
+      "keyword": "살인",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "CF Monterrey vs. Orlando City enters weather delay",
-        "source": "MLSsoccer.com",
-        "url": "https://www.mlssoccer.com/competitions/leagues-cup/news/cf-monterrey-vs-orlando-city-enters-weather-delay"
+        "title": "강북구 오피스텔 살인 피의자, 13세 미만 성폭력 15차례…전자발찌 부착 전력",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806074022391"
       }
     },
     {
-      "keyword": "인플루언서",
+      "keyword": "음문석",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "용산 거주 일본인 인플루언서, 라이브방송 도중 사망",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260805145500004"
+        "title": "19년 무명·330일 라면·아버지 그리움…음문석, 눈물의 삶",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806154801398"
       }
     },
     {
-      "keyword": "엘에이 fc vs 과달라하라",
+      "keyword": "서울특별시교육청",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘4경기 연속골’ 손흥민, 북중미 리그스컵 경기에서 침묵… LAFC는 승부차기 승리",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/08/06/3M6GGMJICJB6ZAELSBVUKJ6CBE/"
+        "title": "올해 2번째 검정고시, 11일 시행…5908명 지원 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/policy/2026/08/05/2026080508570140479"
       }
     },
     {
-      "keyword": "아동수당",
+      "keyword": "축협",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "[르포] 극한 폭염 속 사과도 검게 타들어갔다…추석 앞두고 '비상'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806135352635"
+      }
+    },
+    {
+      "keyword": "골드만삭스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "골드만삭스 \"코스피 급락은 조정일 뿐…목표치 12,000 유지\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806143056560"
+      }
+    },
+    {
+      "keyword": "진종오",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘돌려차기 망언’ 궁지 몰린 친한계…징계 칼날 앞에 “형평성 맞나”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260806/134431590/1"
+      }
+    },
+    {
+      "keyword": "민형배",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "경남 38도 찜통더위 지속…온열질환 229명·17개 시군 가뭄(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806153100350"
+      }
+    },
+    {
+      "keyword": "입법고시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[인터뷰] 2026년 입법고시 재경직 수석 최원준 씨 “내가 할 수 있는 노력에 집중”",
+        "source": "법률저널",
+        "url": "https://www.lec.co.kr/news/articleView.html?idxno=752513"
+      }
+    },
+    {
+      "keyword": "부산항",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘대한민국 해양수산부’ 2030년 부산 북항시대 연다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806183525308"
+      }
+    },
+    {
+      "keyword": "북한 미사일",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "북, 동해 상으로 단거리 탄도미사일 발사",
+        "source": "YTN",
+        "url": "https://m.ytn.co.kr/news_view.php?key=202608061758283486&s_mcd=0101"
+      }
     }
   ]
 }
