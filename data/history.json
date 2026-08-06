@@ -1,319 +1,5 @@
 [
   {
-    "timestamp": "2026-08-05T13:55:08.608357+09:00",
-    "label": "13:55",
-    "items": [
-      {
-        "keyword": "최저임금",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "내년 최저임금 1만700원 확정···월급 기준 223만6300원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608050952001"
-        }
-      },
-      {
-        "keyword": "민주당 전당 대회",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“청래 야호” “민석초코”…살벌한 난타전 뒤, 앙증맞은 구애",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805050225310"
-        }
-      },
-      {
-        "keyword": "허지웅",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'수사 검사' 사라졌다‥이젠 경찰에 강력 경고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6842458_37012.html"
-        }
-      },
-      {
-        "keyword": "로스앤젤레스 다저스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "MLB 다저스, 시즌 최다 5연패…스쿠벌 첫 등판서 6이닝 2실점",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629150"
-        }
-      },
-      {
-        "keyword": "말복",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "군위군, 말복 앞두고 로컬푸드 직매장 ‘복날 이벤트’ 운영",
-          "source": "KNS뉴스통신",
-          "url": "https://www.kns.tv/news/articleView.html?idxno=1012012"
-        }
-      },
-      {
-        "keyword": "압수수색",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "野, 스타벅스 압색에 \"경찰, 정권의 충견인가\" \"중국식 공안 국가의 서막\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/08/05/LZ6Y4G7BSVBUZBRORI5HAFJY4U/"
-        }
-      },
-      {
-        "keyword": "배지환",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘결국 ML 콜업 기회 없었다’ 배지환, 메츠에서 방출…ML 복귀 희망 사라지나",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112852478"
-        }
-      },
-      {
-        "keyword": "대탈출",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'대탈출' 새 시즌에 김종민·신동 복귀…승관 합류",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026080510285068419"
-        }
-      },
-      {
-        "keyword": "하원미",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'美5500평 대저택' 하원미, 세상 다 가졌네..추신수 똑닮은 아들에 흐뭇",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804203056640"
-        }
-      },
-      {
-        "keyword": "하이닉스 채용",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"10월이 벌써 두렵다\"…이재용 특명에 삼성 임원들 '비상' [김대영의 노무스쿨]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607318046g"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T16:32:31.573979+09:00",
-    "label": "16:32",
-    "items": [
-      {
-        "keyword": "이지한",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "“엄마, 신발이 벗겨져”…못 돌아온 아들, 거실 쪽으로 새 구두 놔뒀어",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1271453.html"
-        }
-      },
-      {
-        "keyword": "홍경민",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'동상이몽2' 홍경민, 아내와 '육아'이몽 \"그렇게 해서 대학 가야 하나\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6249742"
-        }
-      },
-      {
-        "keyword": "수요",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"8월 3째주에 올여름 전력피크\"…남동발전 `비상대응반` 가동",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260805.99099001058"
-        }
-      },
-      {
-        "keyword": "전설의 사내",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘무명전설 우승’ 성리 “제주도 집 계약 완료, 상금 1억도 수령” (‘전설의 사내’)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803132127620"
-        }
-      },
-      {
-        "keyword": "대한민국 해병대",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "북한, ‘한국 주도’ 림팩에 “아태 안보위기 고착…새 억제력으로 대응” 위협",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804101538083"
-        }
-      },
-      {
-        "keyword": "인천대교",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“사람 떨어졌어요” 11일동안 3명 숨졌다…인천대교 비극",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804163649377"
-        }
-      },
-      {
-        "keyword": "zhbm",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Samsung unveils industry's 1st zHBM concept, targeting 8-fold HBM5 performance",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260805002600320"
-        }
-      },
-      {
-        "keyword": "지그재그",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독] 지그재그 회원 개인정보 1253만건 유출 주장 나와…다크웹서 판매",
-          "source": "뉴스저널리즘",
-          "url": "https://www.ngetnews.com/news/articleView.html?idxno=552140"
-        }
-      },
-      {
-        "keyword": "용인 반도체 클러스터",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“농업용수에 반도체 폐수 뿌리나” 안성 주민 400여 명 트랙터 행진",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803193748434"
-        }
-      },
-      {
-        "keyword": "skc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-05T19:24:42.489467+09:00",
-    "label": "19:24",
-    "items": [
-      {
-        "keyword": "병역",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "병무청, 청년 병역이행 지원 등 역점 추진과제 보고",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=440898"
-        }
-      },
-      {
-        "keyword": "전현무계획",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'17kg 감량' 김민하 실물에 전현무 충격 \"김성균 첨 봤을 때 느낌\" ('전현무계획4')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GpboqPQ9Ts"
-        }
-      },
-      {
-        "keyword": "정동영",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "정동영 \"북한 ‘조선’이라 불러야\" 이재명 대통령 \"꼬투리 잡힐 수도\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12311840"
-        }
-      },
-      {
-        "keyword": "농업",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "농업가뭄 상황 점검 - 사진 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72847&pWise=sub&pWiseSub=D4"
-        }
-      },
-      {
-        "keyword": "예멘",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "후티 반군 “홍해 얀부 앞바다서 사우디 유조선 공격”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8629262"
-        }
-      },
-      {
-        "keyword": "대한민국 기상청",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "태풍 '돌핀' 중국행 또는 북진?…각국 기상청 예보는",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805143155559"
-        }
-      },
-      {
-        "keyword": "일론 머스크",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'삼전닉스 고점 아직 멀었다'…머스크 등판에 '대반전' [빈난새의 빈틈없이마켓]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608055883i"
-        }
-      },
-      {
-        "keyword": "네이처셀",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"법적 근거없는 우월성 기준 적용 위법\"...식약처 허가 거부 제동",
-          "source": "팜뉴스",
-          "url": "https://www.pharmnews.com/news/articleView.html?idxno=305401"
-        }
-      },
-      {
-        "keyword": "화이자",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "화이자 '개발중단'에 디앤디파마텍 \"오랄링크 문제 아니다\"",
-          "source": "약사공론",
-          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539779"
-        }
-      },
-      {
-        "keyword": "대학수학능력시험",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "李대통령 \"채점 편하려 객관식, 아이들 망쳐\"… 차정인 \"수능 논술·서술 도입\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805151950231"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-05T21:47:03.750560+09:00",
     "label": "21:47",
     "items": [
@@ -1679,6 +1365,112 @@
           "title": "영탁, 지승현 노래 듣다 녹음 중단 선언 (편스토랑) - 스타투데이",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/news/broadcasting-service/12117821"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-07T08:49:14.971923+09:00",
+    "label": "08:49",
+    "items": [
+      {
+        "keyword": "티 웨이 항공",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "통합 대한항공 맞설 카드 꺼냈다… 트리니티항공이 공개한 ‘SSC’ 전략은?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/08/06/KXATEKQECNDHXGKCVB7TZHBIXI/"
+        }
+      },
+      {
+        "keyword": "러시아",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이젠 민간시설까지 때린다…선넘는 러·우크라 전쟁",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806175050755"
+        }
+      },
+      {
+        "keyword": "이수현",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "악뮤 이수현, '김성주子' 김민국과 스위스 여행 \"첫 만남에 2시간 넘게 기다렸다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807012308028"
+        }
+      },
+      {
+        "keyword": "노동조합",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "3대 국책은행 노조, '지방 이전 반대' 결의대회…\"2천여명 참가\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260806133600002"
+        }
+      },
+      {
+        "keyword": "박완수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "폭염에 타들어간 과일..올추석 금사과 재현되나?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806214316660"
+        }
+      },
+      {
+        "keyword": "단거리 탄도 미사일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "북한, 한미훈련 앞두고 동해상으로 단거리 탄도미사일 발사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6842945_36911.html"
+        }
+      },
+      {
+        "keyword": "양양군",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[현장in] '문란한 동네' 허위 소문에 시달린 양양…올여름 피서객 급증",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806162357203"
+        }
+      },
+      {
+        "keyword": "베트남 축구 국가대표팀",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한국인이 3-0으로 이겼는데…이젠 한국인에 0-3으로 무너지네→인니 홈 30년 징크스 '와르르', STY 끝내 소환",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806193337428"
+        }
+      },
+      {
+        "keyword": "lg이노텍",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LG이노텍 직원 구미 기숙사서 사망···고용노동부 중대재해 조사",
+          "source": "시사저널e",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422925"
+        }
+      },
+      {
+        "keyword": "대학수학능력시험",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이 대통령 \"객관식이 아이들 망쳐\"…수능 '대수술' 시동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806201324187"
         }
       }
     ]
