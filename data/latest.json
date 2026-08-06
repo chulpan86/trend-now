@@ -1,41 +1,21 @@
 {
-  "timestamp": "2026-08-06T08:48:34.017259+09:00",
-  "label": "08:48",
+  "timestamp": "2026-08-06T10:29:50.340201+09:00",
+  "label": "10:29",
   "items": [
     {
-      "keyword": "운세",
+      "keyword": "종합부동산세",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "[오늘의 별자리 운세] 8월 6일 목요일 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/culture/culture_general/2026/08/05/ORVCLALJOFHFLMENPLYTFTP55Q/"
-      }
-    },
-    {
-      "keyword": "이정후",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"이정후 판단은 옳았다\" 꽈당 실수→끝내기 헌납, SF 감독은 감쌌다…\"홈 송구 생각하다 마지막 포구 놓쳤을 뿐\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260806023538539"
-      }
-    },
-    {
-      "keyword": "배구",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"사람 맞아?\" 3.59m 괴물 점프! 전세계 배구계가 놀랐다…美 초신성에 '시선집중'→VNL 준우승에도 존재감 폭발",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803200536890"
+        "title": "10차 방정식 된 보유세... ‘양포 세무사’ 재등장할 판",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/real_estate/2026/08/06/CH5KQBUBTJECFL3RHPX5CH3LSU/"
       }
     },
     {
       "keyword": "이유비",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "'견미리 딸' 이유비, '90억 한남동 집' 금수저의 침실...순백 파자마 입은 '공주님 미모'",
         "source": "스포츠조선",
@@ -44,32 +24,72 @@
     },
     {
       "keyword": "재테크",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[게시판] 케이뱅크, 게임하며 현금 받는 '게임라운지' 서비스",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260805036500002"
+      }
+    },
+    {
+      "keyword": "손태진",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "역사적인 저점에 빠진 주식들, 기회인가? 손절인가?",
-        "source": "네이버 프리미엄콘텐츠",
-        "url": "https://contents.premium.naver.com/finfarmer00/finfarmer/contents/260805210150896hn"
+        "title": "손태진, 라디오·음악방송·스포츠 예능 오가며 활동 확장",
+        "source": "싱글리스트",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=756908"
       }
     },
     {
-      "keyword": "임종언",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "inter miami vs san luis",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'행정 미숙'이 부른 비극…쇼트트랙 임종언, 태극마크 내려놓을 '중징계 위기'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260805213900684"
+        "title": "BetMGM bonus code POSTBET: Get up to $1,500 in bonuses for Inter Miami vs. Atlético de San Luis",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/05/betting/betmgm-bonus-code-postbet-get-up-to-1500-in-bonuses-for-inter-miami-vs-atletico-de-san-luis/"
       }
     },
     {
-      "keyword": "환자경험평가",
+      "keyword": "다대포",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "상급종합 47곳 모두 환자경험평가 '80점 이상'인데…종합병원은 3곳 중 1곳이 80점 미만",
-        "source": "MEDI:GATE NEWS",
-        "url": "https://www.medigatenews.com/news/1257820087"
+        "title": "[도청도설] 다대포 부산바다축제",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260806.22018001256"
+      }
+    },
+    {
+      "keyword": "포수",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "다저스 큰일났다! IL 등재된 '욕쟁이 포수' 검진 결과 팔꿈치 인대 손상…시즌 아웃 가능성",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-baseball/2026/08/05/MJSTSNZXMJRDSMBUHA4TMNBUMI/"
+      }
+    },
+    {
+      "keyword": "windy",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Windy and humid Wednesday on Key Biscayne",
+        "source": "IslanderNews.com",
+        "url": "https://www.islandernews.com/news/keybiscayne/windy-and-humid-wednesday-on-key-biscayne/article_3ef9b932-a9e4-46cd-bb70-c63d693e3386.html"
+      }
+    },
+    {
+      "keyword": "백악관",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "백악관 \"美해군 전투함 등 4척 해외 건조해야\"…의회에 요구",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260805016700071"
       }
     },
     {
@@ -80,26 +100,6 @@
         "title": "뉴욕 금값, 약달러에 급등...현물 4.3%↑",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260806075203636"
-      }
-    },
-    {
-      "keyword": "kt wiz",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Heat Cancellations Postpone Daniel's Korean Debut",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/06/4UTWYCZDPRDY7BBN62LGGXBNZQ/"
-      }
-    },
-    {
-      "keyword": "연합뉴스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[불법동물거래 실태] ① 택배로 악어가 왔다",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260805042700061"
       }
     }
   ]
