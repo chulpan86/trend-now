@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-08-07T15:04:06.125390+09:00",
-  "label": "15:04",
+  "timestamp": "2026-08-07T17:06:13.474811+09:00",
+  "label": "17:06",
   "items": [
     {
-      "keyword": "대통령기록관",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "‘윤석열·김건희 특활비 공개’ 대법원서 뒤집혔다···“대통령기록관에 이미 이관돼”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807103209733"
-      }
-    },
-    {
-      "keyword": "홍수",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "군사 기지",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "北 군사기지, 홍수로 심각한 피해…주택 수백채 파괴",
         "source": "연합뉴스",
@@ -23,83 +13,93 @@
       }
     },
     {
-      "keyword": "서장훈",
+      "keyword": "주상욱",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“너무 많이 맞아 불쌍하다”…주상욱 위해 차예련이 준비한 보양식",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807100303309"
+      }
+    },
+    {
+      "keyword": "결혼식",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "서장훈, 28억에 산 양재역 빌딩 450억에 내놨다 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/07/U3X6AIJVMBHZNAVDLBBAK7TUEQ/"
+        "title": "톰 홀랜드·젠데이아, 9억 들여 극비리에 피로연…\"휴대폰 소지 금지\"",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608070124H"
       }
     },
     {
-      "keyword": "골프장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "재건축",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "골프존 아메리카, 美 내슈빌 실내 18홀 골프장 '시티골프 USA' 오픈 로드맵 발표",
+        "title": "서울시 “주택 부족은 박원순 시절 공급 억제 때문... 재개발·재건축이 유일한 답\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260807103749046"
+        "url": "https://v.daum.net/v/20260807142609781"
       }
     },
     {
-      "keyword": "테슬라",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "멕시코",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "4천만원대 테슬라 '모델Y' 돌풍…필랑트·액티언 판매 '직격탄'",
+        "title": "‘아보카도 대국’ 멕시코 비상…미국 수출 막히자 군 1500명 투입",
         "source": "Daum",
-        "url": "https://v.daum.net/v/Y6TkEqB31a"
+        "url": "https://v.daum.net/v/20260807094802635"
       }
     },
     {
-      "keyword": "탄도 미사일",
+      "keyword": "송성문",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[속보] 북한 탄도미사일 발사에···안보실 긴급회의 개최",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608061832001"
+        "title": "한국인 향한 폭언 쏟아지네 \"타율 0.068인데 왜 남겼어?\"…냉혹 시선 더 커졌다→\"실력 아닌 투자 금액 때문에 살아남아\" 美 매체 작심 비판",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807101610000"
       }
     },
     {
-      "keyword": "고문",
+      "keyword": "여자 배구",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[공식발표] 이다영, 언니 이재영과 한솥밥... 유럽 무대 복귀→투란VC 입단",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807105349865"
+      }
+    },
+    {
+      "keyword": "주주",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "외도 의심해 ‘불에 달군 공구’로 아내 고문 남편, 경찰 붙잡혀",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11607954"
+        "title": "SK하이닉스, 주당 375원 분기배당…추가 주주환원 예고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807163847573"
       }
     },
     {
-      "keyword": "타릭 스쿠발",
+      "keyword": "사미자",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"다저스에 속았다\" 트레이드 대실패라니…\"더 큰 대가 받았어야\" 디트로이트에 지적",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807085727689"
+        "title": "\"일 없어 서러워\" '원로배우' 사미자, 전원주·선우용여 따라 유튜버 도전",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/MJSDQYTBHBQTCNJUGY4WEZJUME/"
       }
     },
     {
-      "keyword": "김종민",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "시바이누코인",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "김종민→이준, 코인 투자 수익률 300%…대박 터졌다 (1박 2일)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260807/134435447/1"
-      }
-    },
-    {
-      "keyword": "김하영",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김하영, 결혼 1년 만에 지상렬 축의금…\"오라버니 장가 기다려\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260806_0003739386"
+        "title": "시바이누 1700% 대폭발 시나리오 떴다…분석가가 본 '운명의 저항선'",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260807n00171?mid=n0100"
       }
     }
   ]
