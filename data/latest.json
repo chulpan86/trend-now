@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-08-07T18:50:57.946516+09:00",
-  "label": "18:50",
+  "timestamp": "2026-08-07T19:42:02.680186+09:00",
+  "label": "19:42",
   "items": [
     {
-      "keyword": "육사",
+      "keyword": "골프",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "보수야권, 李대통령 ‘육사 쿠데타’ 발언 규탄 국회 결의안 추진",
+        "title": "이민규, KPGA 데이비드골프 투어 15회 대회서 시즌 2승",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260807154510489"
+        "url": "https://v.daum.net/v/20260807165953330"
+      }
+    },
+    {
+      "keyword": "타릭 스쿠 발",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"다저스에 속았다\" 트레이드 대실패라니…\"더 큰 대가 받았어야\" 디트로이트에 지적",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807085727689"
+      }
+    },
+    {
+      "keyword": "투표율",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "윤상현 \"투표율 허위 입력을 득표수 조작이라고 하는 것은 선동\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807172950416"
       }
     },
     {
@@ -23,33 +43,43 @@
       }
     },
     {
-      "keyword": "구금",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "중앙은행",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "특검, '계엄 수용공간 점검' 신용해 前교정본부장 불구속 기소",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260807103300004"
+        "title": "월가 \"무기화된 엔화…캐리 트레이드 셈법 바뀐다\"",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429147"
       }
     },
     {
-      "keyword": "의사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "고척스카이돔",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "대장내시경 중 장 천공으로 환자 숨지게 한 의사 2심도 집행유예",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807150213977"
+        "title": "에스파, 고척돔 콘서트 오늘(8월 7일) 개막",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711663"
+      }
+    },
+    {
+      "keyword": "두산 대 삼성",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "무서운 삼성, 아시아 쿼터까지 교체…한 달 사이 외인 3명 영입",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260807137000007"
       }
     },
     {
       "keyword": "축제",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "2027논산세계딸기산업엑스포, 보령머드축제서 글로벌 홍보 전개",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/daejeon-chungnam/6252647"
+        "title": "3만명 몰려오더니 먹거리만 6300만원 사갔다는 축제 [페스티벌 플러스]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/FfDk8tFYyV"
       }
     },
     {
@@ -63,43 +93,13 @@
       }
     },
     {
-      "keyword": "고흥군",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "전남광주 '섬 반값여행'…관광경비 50%, 지역화폐 환급",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/7SoUTNjJGY"
-      }
-    },
-    {
-      "keyword": "위원장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "전정, 방이초등학교 양궁부 찾아 훈련환경 개선 논의",
-        "source": "송파타임즈",
-        "url": "https://www.songpatimes.com/news/articleView.html?idxno=332423"
-      }
-    },
-    {
-      "keyword": "그늘로",
+      "keyword": "화성 fc",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "폭염이 낳은 시민 개발자들…'그늘길''에어컨 정거장' 안내",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260805154400004"
-      }
-    },
-    {
-      "keyword": "항소",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "임성근 징역 3년에 채 해병 모친 \"책임자에 관대한 나라, 억장 무너져\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807141737493"
+        "title": "화성FC, 수원대 출신 골키퍼 안광문 영입…골문 보강",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260804000344"
       }
     }
   ]
