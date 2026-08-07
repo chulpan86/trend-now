@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-08-08T04:43:37.374297+09:00",
-  "label": "04:43",
+  "timestamp": "2026-08-08T05:29:11.382069+09:00",
+  "label": "05:29",
   "items": [
+    {
+      "keyword": "이시영",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "이시영, '이혼 후 임신' 9개월 딸 없이...첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807150938276"
+      }
+    },
     {
       "keyword": "김구라",
       "traffic_raw": "1000+",
@@ -17,19 +27,29 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "프리마켓 하이닉스 하한가 논란…넥스트레이드 \"재발 막겠다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807160902365"
+        "title": "11주에 SK하닉 '하한가' 직행…프리마켓 상·하한가 주문, 한달간 금지 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/08/07/2026080716173453746"
       }
     },
     {
-      "keyword": "이시영",
+      "keyword": "북한이탈주민",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이시영, '이혼 후 임신' 9개월 딸 없이...첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807150938276"
+        "title": "경인방송 '북한이탈주민' 이야기 담은 음악 방송 선보인다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260807_0003740794"
+      }
+    },
+    {
+      "keyword": "최현석",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260807_0003739877"
       }
     },
     {
@@ -53,33 +73,13 @@
       }
     },
     {
-      "keyword": "최현석",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260807_0003739877"
-      }
-    },
-    {
-      "keyword": "정해인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "정해인, 예능이 이렇게까지 긴장됐나…녹화 전 '급체'까지 (옥문아)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807223107453"
-      }
-    },
-    {
       "keyword": "klasemen tim nasional sepak bola singapura vs timnas indonesia",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Update Klasemen Grup A dan B Piala AFF 2026 Terbaru, Jadwal Terakhir Fase Grup, Bagan, Hasil Lengkap",
-        "source": "Bangkapos.com",
-        "url": "https://bangka.tribunnews.com/superball/1692350/update-klasemen-grup-a-dan-b-piala-aff-2026-terbaru-jadwal-terakhir-fase-grup-bagan-hasil-lengkap"
+        "title": "Rizki Ridho Minta Maaf Setelah Timnas Indonesia Kandas di Fase Grup Piala AFF 2026",
+        "source": "Bola.com",
+        "url": "https://www.bola.com/indonesia/read/8264703/rizki-ridho-minta-maaf-setelah-timnas-indonesia-kandas-di-fase-grup-piala-aff-2026"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "민주콩고 에볼라 확진자 4천명 넘어…수도까지 번질라 비상",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260808001100099"
+        "title": "고성군, ‘고성한우 우수 유전자 기부제’ 첫 시행",
+        "source": "한방통신사",
+        "url": "https://www.kbsn.kr/news/article.html?no=787277"
       }
     }
   ]
