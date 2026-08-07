@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-08-08T00:43:47.178627+09:00",
-  "label": "00:43",
+  "timestamp": "2026-08-08T01:41:09.471911+09:00",
+  "label": "01:41",
   "items": [
     {
       "keyword": "việt nam đấu với campuchia",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Video Đình Bắc lập cú đúp ấn định chiến thắng cho ĐT Việt Nam",
-        "source": "Báo VietNamNet",
-        "url": "https://vietnamnet.vn/video-dinh-bac-lap-cu-dup-an-dinh-chien-thang-cho-dt-viet-nam-2543078.html"
+        "title": "Báo Indonesia ngả mũ trước thành tích xuất sắc của đội tuyển Việt Nam",
+        "source": "Báo điện tử Tiền Phong",
+        "url": "https://tienphong.vn/bao-indonesia-nga-mu-truoc-thanh-tich-xuat-sac-cua-doi-tuyen-viet-nam-post1866096.tpo"
+      }
+    },
+    {
+      "keyword": "류혜영",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807205639312"
+      }
+    },
+    {
+      "keyword": "김구라",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112853635"
+      }
+    },
+    {
+      "keyword": "하한가",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807155539851"
       }
     },
     {
@@ -19,7 +49,7 @@
       "news": {
         "title": "[뉴스 분석] 취임 후 지지율 최저치 기록한 이재명 대통령…왜?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/G0eB4yWIwP"
+        "url": "https://v.daum.net/v/20260807101502943"
       }
     },
     {
@@ -33,53 +63,23 @@
       }
     },
     {
-      "keyword": "전고체 전지",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "삼성SDI·SK온, 솔리드파워와 전고체 배터리 상용화 '성큼'",
-        "source": "더구루",
-        "url": "https://www.theguru.co.kr/news/article.html?no=105428"
-      }
-    },
-    {
       "keyword": "정해인",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아') - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GZRWKZRTGEYTAZBVMJRWCYJUME/"
+        "title": "정해인 “홍진경 누나가 야관문주 담가줬다”…송은이 질투 폭발",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260806/134428668/1"
       }
     },
     {
-      "keyword": "trực tiếp bóng đá hôm nay",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "기사",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "Video bóng đá Singapore - Indonesia: Sai lầm phòng ngự chí mạng (AFF Cup)",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/video-bong-da-singapore-indonesia-thot-tim-phut-thu-2-tiec-nuoi-tuyet-tac-danh-got-aff-cup-c48a1784722.html"
-      }
-    },
-    {
-      "keyword": "김상혁",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'신랑수업2' 47세 돌싱 김상혁, 소개팅女 첫만남…\"하얀 튤립 같아\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807115653404"
-      }
-    },
-    {
-      "keyword": "엘니뇨",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "진짜 더웠던 해 따로 있다…1994년 폭염 어땠길래? [이런뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8630362"
+        "title": "폭염에 또 쓰러진 쿠팡 택배기사···“앞서 2명 응급실 실려갔지만 아무런 대책 안 나와”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608071942001"
       }
     },
     {
