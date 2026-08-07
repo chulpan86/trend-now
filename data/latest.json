@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-07T17:06:13.474811+09:00",
-  "label": "17:06",
+  "timestamp": "2026-08-07T18:50:57.946516+09:00",
+  "label": "18:50",
   "items": [
     {
-      "keyword": "군사 기지",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "육사",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "北 군사기지, 홍수로 심각한 피해…주택 수백채 파괴",
+        "title": "보수야권, 李대통령 ‘육사 쿠데타’ 발언 규탄 국회 결의안 추진",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807154510489"
+      }
+    },
+    {
+      "keyword": "롯데 대 kt",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "KIA 정해영·삼성 이승현 등 11명, 상무 최종 합격… 12월 입대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807104851628"
+      }
+    },
+    {
+      "keyword": "구금",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "특검, '계엄 수용공간 점검' 신용해 前교정본부장 불구속 기소",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260807046400009"
+        "url": "https://www.yna.co.kr/view/AKR20260807103300004"
       }
     },
     {
-      "keyword": "주상욱",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "“너무 많이 맞아 불쌍하다”…주상욱 위해 차예련이 준비한 보양식",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807100303309"
-      }
-    },
-    {
-      "keyword": "결혼식",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "톰 홀랜드·젠데이아, 9억 들여 극비리에 피로연…\"휴대폰 소지 금지\"",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608070124H"
-      }
-    },
-    {
-      "keyword": "재건축",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "서울시 “주택 부족은 박원순 시절 공급 억제 때문... 재개발·재건축이 유일한 답\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807142609781"
-      }
-    },
-    {
-      "keyword": "멕시코",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘아보카도 대국’ 멕시코 비상…미국 수출 막히자 군 1500명 투입",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807094802635"
-      }
-    },
-    {
-      "keyword": "송성문",
+      "keyword": "의사",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한국인 향한 폭언 쏟아지네 \"타율 0.068인데 왜 남겼어?\"…냉혹 시선 더 커졌다→\"실력 아닌 투자 금액 때문에 살아남아\" 美 매체 작심 비판",
+        "title": "대장내시경 중 장 천공으로 환자 숨지게 한 의사 2심도 집행유예",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260807101610000"
+        "url": "https://v.daum.net/v/20260807150213977"
       }
     },
     {
-      "keyword": "여자 배구",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "축제",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[공식발표] 이다영, 언니 이재영과 한솥밥... 유럽 무대 복귀→투란VC 입단",
+        "title": "2027논산세계딸기산업엑스포, 보령머드축제서 글로벌 홍보 전개",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/local/daejeon-chungnam/6252647"
+      }
+    },
+    {
+      "keyword": "qwen",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-charge-big-users-its-next-open-source-ai-model-sources-say-2026-08-07/"
+      }
+    },
+    {
+      "keyword": "고흥군",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "전남광주 '섬 반값여행'…관광경비 50%, 지역화폐 환급",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260807105349865"
+        "url": "https://v.daum.net/v/7SoUTNjJGY"
       }
     },
     {
-      "keyword": "주주",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "위원장",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "SK하이닉스, 주당 375원 분기배당…추가 주주환원 예고",
+        "title": "전정, 방이초등학교 양궁부 찾아 훈련환경 개선 논의",
+        "source": "송파타임즈",
+        "url": "https://www.songpatimes.com/news/articleView.html?idxno=332423"
+      }
+    },
+    {
+      "keyword": "그늘로",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "폭염이 낳은 시민 개발자들…'그늘길''에어컨 정거장' 안내",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260805154400004"
+      }
+    },
+    {
+      "keyword": "항소",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "임성근 징역 3년에 채 해병 모친 \"책임자에 관대한 나라, 억장 무너져\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260807163847573"
-      }
-    },
-    {
-      "keyword": "사미자",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"일 없어 서러워\" '원로배우' 사미자, 전원주·선우용여 따라 유튜버 도전",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/MJSDQYTBHBQTCNJUGY4WEZJUME/"
-      }
-    },
-    {
-      "keyword": "시바이누코인",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "시바이누 1700% 대폭발 시나리오 떴다…분석가가 본 '운명의 저항선'",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260807n00171?mid=n0100"
+        "url": "https://v.daum.net/v/20260807141737493"
       }
     }
   ]
