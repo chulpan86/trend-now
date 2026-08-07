@@ -1,55 +1,65 @@
 {
-  "timestamp": "2026-08-07T23:04:47.615867+09:00",
-  "label": "23:04",
+  "timestamp": "2026-08-08T00:43:47.178627+09:00",
+  "label": "00:43",
   "items": [
     {
-      "keyword": "변기",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "[속보]변기 고쳐주던 70대 집주인 찌른 30대女 검거",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11608078"
-      }
-    },
-    {
-      "keyword": "사과",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "“더워서 못 짜내겠소”…젖소도 폭염에 ‘헉헉’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807151055300"
-      }
-    },
-    {
-      "keyword": "베트남 대 캄보디아",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'이게 김상식 매직' 30년 새 역사 쓰자, 신태용 감독 대체 '잉글랜드 출신' 세계적 지도자 엄지척...\"존경을 표했다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807061510717"
-      }
-    },
-    {
       "keyword": "việt nam đấu với campuchia",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Video Đình Bắc lập cú đúp ấn định chiến thắng cho ĐT Việt Nam",
+        "source": "Báo VietNamNet",
+        "url": "https://vietnamnet.vn/video-dinh-bac-lap-cu-dup-an-dinh-chien-thang-cho-dt-viet-nam-2543078.html"
+      }
+    },
+    {
+      "keyword": "뉴데일리",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Trực tiếp bóng đá Việt Nam vs Campuchia: Giữ ngôi đầu vào bán kết",
-        "source": "Báo VietNamNet",
-        "url": "https://vietnamnet.vn/truc-tiep-bong-da-viet-nam-vs-campuchia-bang-a-asean-cup-2026-2542755.html"
+        "title": "[뉴스 분석] 취임 후 지지율 최저치 기록한 이재명 대통령…왜?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/G0eB4yWIwP"
+      }
+    },
+    {
+      "keyword": "재벌형사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'재벌X형사2' 안보현, 첫방부터 위기...'인간 시한폭탄' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080713167227354"
       }
     },
     {
       "keyword": "전고체 전지",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "삼성SDI·SK온, 솔리드파워와 전고체 배터리 상용화 '성큼'",
         "source": "더구루",
         "url": "https://www.theguru.co.kr/news/article.html?no=105428"
+      }
+    },
+    {
+      "keyword": "정해인",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "송은이, 정해인 '찐팬' 인정 \"한때 같은 소속사, 내가 질척거렸다\" ('옥문아') - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/07/GZRWKZRTGEYTAZBVMJRWCYJUME/"
+      }
+    },
+    {
+      "keyword": "trực tiếp bóng đá hôm nay",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Video bóng đá Singapore - Indonesia: Sai lầm phòng ngự chí mạng (AFF Cup)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/video-bong-da-singapore-indonesia-thot-tim-phut-thu-2-tiec-nuoi-tuyet-tac-danh-got-aff-cup-c48a1784722.html"
       }
     },
     {
@@ -67,39 +77,29 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'찜통 더위' 언제 끝나나…전문가 \"올해가 가장 덜 더운 여름 될 수도\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807044110452"
+        "title": "진짜 더웠던 해 따로 있다…1994년 폭염 어땠길래? [이런뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8630362"
       }
     },
     {
-      "keyword": "구급차",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "폭염에 쓰러진 배달라이더가 구급차 거부하며 남긴 한마디",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807134253445"
-      }
-    },
-    {
-      "keyword": "배틀그라운드",
+      "keyword": "싱가포르 대 인도네시아",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[개발일지] 새로운 건 플레이의 시작, 메타 로테이션 - 뉴스 - PUBG: 배틀그라운드",
-        "source": "PUBG: BATTLEGROUNDS",
-        "url": "https://pubg.com/ko/news/10874"
+        "title": "8월 7일 저녁 8시에 열리는 싱가포르와 인도네시아의 축구 경기를 생중계로 시청할 수 있는 링크입니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/link-xem-truc-tiep-bong-da-singapore-vs-indonesia-20h00-ngay-7-8"
       }
     },
     {
-      "keyword": "이준영",
+      "keyword": "박항서",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "송강·이준영 아름다운 화음 끝→비극의 변주 시작 (포핸즈)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260807/134435532/1"
+        "title": "박항서, 태국 2부리그서 새 도전 \"원팀 이끌어 반드시 승격\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807175946477"
       }
     }
   ]
