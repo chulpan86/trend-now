@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-06T02:19:32.440976+09:00",
-    "label": "02:19",
-    "items": [
-      {
-        "keyword": "고현정",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608051426257305"
-        }
-      },
-      {
-        "keyword": "장항준",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260805_0003737839"
-        }
-      },
-      {
-        "keyword": "lck",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "DNS Sharvel: \"I'm confident I can play Qiyana better than anyone in the world\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/all/articles/dns-sharvel-i-m-confident-i-can-play-qiyana-better-than-anyone-in-the-world/en"
-        }
-      },
-      {
-        "keyword": "계엄",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[단독] 종합특검, 'HID 북파 훈련' 의혹 속초서 현장 검증",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6842656_36918.html"
-        }
-      },
-      {
-        "keyword": "채리나",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805163251932"
-        }
-      },
-      {
-        "keyword": "나는솔로",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[다시보기] 나는 SOLO 265회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/vod/69610/22000633646"
-        }
-      },
-      {
-        "keyword": "fa컵",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "2026-27 FA Cup Fixture Finder Map",
-          "source": "TheFA.com",
-          "url": "https://www.thefa.com/news/2026/aug/03/emirates-fa-cup-fixture-finder-map-2025-26-season"
-        }
-      },
-      {
-        "keyword": "주소",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328924"
-        }
-      },
-      {
-        "keyword": "경로당",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "화성시 효행구, 기록적 무더위 총력 대응…생활권 냉방시설 안전 강화",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711508"
-        }
-      },
-      {
-        "keyword": "덕분",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "K기업과 초밀착…머스크, 한국 찾나",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026080447761"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-06T04:13:59.900852+09:00",
     "label": "04:13",
     "items": [
@@ -1471,6 +1365,112 @@
           "title": "아이맥스 20년 숙제, 놀런 감독이 풀었다",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260806092100470"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-07T15:04:06.125390+09:00",
+    "label": "15:04",
+    "items": [
+      {
+        "keyword": "대통령기록관",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "‘윤석열·김건희 특활비 공개’ 대법원서 뒤집혔다···“대통령기록관에 이미 이관돼”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807103209733"
+        }
+      },
+      {
+        "keyword": "홍수",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "北 군사기지, 홍수로 심각한 피해…주택 수백채 파괴",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807046400009"
+        }
+      },
+      {
+        "keyword": "서장훈",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "서장훈, 28억에 산 양재역 빌딩 450억에 내놨다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/07/U3X6AIJVMBHZNAVDLBBAK7TUEQ/"
+        }
+      },
+      {
+        "keyword": "골프장",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "골프존 아메리카, 美 내슈빌 실내 18홀 골프장 '시티골프 USA' 오픈 로드맵 발표",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807103749046"
+        }
+      },
+      {
+        "keyword": "테슬라",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "4천만원대 테슬라 '모델Y' 돌풍…필랑트·액티언 판매 '직격탄'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Y6TkEqB31a"
+        }
+      },
+      {
+        "keyword": "탄도 미사일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보] 북한 탄도미사일 발사에···안보실 긴급회의 개최",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608061832001"
+        }
+      },
+      {
+        "keyword": "고문",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "외도 의심해 ‘불에 달군 공구’로 아내 고문 남편, 경찰 붙잡혀",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11607954"
+        }
+      },
+      {
+        "keyword": "타릭 스쿠발",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"다저스에 속았다\" 트레이드 대실패라니…\"더 큰 대가 받았어야\" 디트로이트에 지적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807085727689"
+        }
+      },
+      {
+        "keyword": "김종민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김종민→이준, 코인 투자 수익률 300%…대박 터졌다 (1박 2일)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260807/134435447/1"
+        }
+      },
+      {
+        "keyword": "김하영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김하영, 결혼 1년 만에 지상렬 축의금…\"오라버니 장가 기다려\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260806_0003739386"
         }
       }
     ]
