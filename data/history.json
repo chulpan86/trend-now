@@ -1792,5 +1792,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T03:39:32.420095+09:00",
+    "label": "03:39",
+    "items": [
+      {
+        "keyword": "하한가",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807155539851"
+        }
+      },
+      {
+        "keyword": "류혜영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "류혜영 머리 정리해주는 고경표, '찐친'이 설레도 되나요?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807205639312"
+        }
+      },
+      {
+        "keyword": "김구라",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853635"
+        }
+      },
+      {
+        "keyword": "블랙핑크",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608071756001"
+        }
+      },
+      {
+        "keyword": "이시영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한국은 폭염인데…이시영 “캐나다는 에어컨 필요 없어” 근황",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807113149517"
+        }
+      },
+      {
+        "keyword": "최현석",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003739877"
+        }
+      },
+      {
+        "keyword": "정해인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정해인, 김해숙 집까지 초대받았는데…\"너 나가\" 쫓겨날 뻔 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080801435929297"
+        }
+      },
+      {
+        "keyword": "klasemen tim nasional sepak bola singapura vs timnas indonesia",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Imbangi Garuda, Media Singapura Heran Ranking FIFA Timnas Indonesia Padahal Jauh di Atas The Lions",
+          "source": "VIVA.co.id",
+          "url": "https://www.viva.co.id/bola/1919822-imbangi-garuda-media-singapura-heran-ranking-fifa-timnas-indonesia-padahal-jauh-di-atas-the-lions"
+        }
+      },
+      {
+        "keyword": "놀면 뭐하니?",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080710427213010"
+        }
+      },
+      {
+        "keyword": "기사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "민선 9기 강원도지사-18개 시장·군수 첫 간담회…\"초당적 협력\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807192650205"
+        }
+      }
+    ]
   }
 ]
