@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-08T07:24:48.451513+09:00",
-  "label": "07:24",
+  "timestamp": "2026-08-08T08:24:38.297546+09:00",
+  "label": "08:24",
   "items": [
     {
-      "keyword": "지수",
+      "keyword": "박서진",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "박서진, 2000만원 쏟아부은 '취미방' 공개('살림남')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807104637508"
+      }
+    },
+    {
+      "keyword": "신유빈",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"블랙핑크였기 때문\"…데뷔 10주년 앞두고 팬들 불만",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807084803448"
+        "title": "[스포츠 영상] 인도 복병 제친 신유빈‥세계랭킹 3위와 8강전",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843249_37004.html"
       }
     },
     {
-      "keyword": "상속",
+      "keyword": "thời tiết",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "지방 신산업 창업 소득·법인세 최대 100% 감면…성장 지원 강화",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969636&pWise=sub&pWiseSub=R5"
+        "title": "Thời tiết ngày 8/8: Bắc Bộ có nơi nắng nóng, Trung Bộ và Nam Bộ cảnh báo mưa dông cục bộ",
+        "source": "thuonghieucongluan.com.vn",
+        "url": "https://thuonghieucongluan.com.vn/thoi-tiet-ngay-8-8-bac-bo-co-noi-nang-nong-trung-bo-va-nam-bo-canh-bao-mua-dong-cuc-bo-a329610.html"
       }
     },
     {
-      "keyword": "전차",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "정해영",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[단독] 육군 5기갑여단 사격훈련 중 전차 ‘전소’…합동 감식 예정",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8630213"
+        "title": "KIA 정해영·삼성 이승현 등 11명 상무 합격…12월 입대",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260807056900007"
       }
     },
     {
-      "keyword": "드래프트",
+      "keyword": "정청래",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "KBO 드래프트에 155㎞ 던지는 20대 중반 투수 등장한다고? “도대체 무슨 문제였을까” 관심",
+        "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 '초접전' 속 2차전",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260807210137361"
+        "url": "https://v.daum.net/v/20260808061933095"
       }
     },
     {
-      "keyword": "필라델피아 반도체 지수",
+      "keyword": "교사",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "8월부터 다시 반도체 장세?...삼전닉스·이노텍 최선호주",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12119007"
+        "title": "방콕 외곽 고교서 14세 학생 총기 난사···교직원 5명 포함 7명 사망",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608072100001"
       }
     },
     {
-      "keyword": "ionq",
+      "keyword": "활옥동굴",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "IonQ Stock Falls After Revenue Nearly Quadruples",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/ionq-earnings-stock-price-f61c493a"
-      }
-    },
-    {
-      "keyword": "송혜교",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "송혜교, 흰티에 청바지 일상 사진 공개하자..절친 다 몰려왔다",
+        "title": "이동석 충주시장 \"활옥동굴 불법 운영 용납할 수 없어\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260806151007109"
+        "url": "https://v.daum.net/v/yWeVMZ5TY0"
       }
     },
     {
-      "keyword": "bmw 레이디스 챔피언십",
+      "keyword": "이한범",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "BMW 코리아, 'BMW 레이디스 챔피언십 2026' 얼리버드 티켓 오픈",
-        "source": "다나와 자동차",
-        "url": "https://mauto.danawa.com/news/?Tab=N1&Work=detail&no=6044037"
+        "title": "'제2의 김민재' 이한범, 벨기에 명문팀 브뤼헤 입단",
+        "source": "스포츠한국",
+        "url": "https://sports.hankooki.com/news/articleView.html?idxno=6937447"
       }
     },
     {
-      "keyword": "이혼숙려캠프: 새로고침",
+      "keyword": "디지털 자산",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "두나무, 경찰청 '압수 가상자산 커스터디' 최종 낙찰",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260807112500002"
+      }
+    },
+    {
+      "keyword": "펍지",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'알코올 중독' 남편, 술 취한 채 밥솥에다가 소변을? \"제정신이냐\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080702043285129"
-      }
-    },
-    {
-      "keyword": "이투데이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[아파트값 상승 톱10] 서울 강동구 ‘올림픽파크포레온’ 등",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807083104021"
+        "title": "[개발일지] 새로운 건 플레이의 시작, 메타 로테이션 - 뉴스 - PUBG: 배틀그라운드",
+        "source": "PUBG: BATTLEGROUNDS",
+        "url": "https://pubg.com/ko/news/10874"
       }
     }
   ]
