@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-08-08T03:39:32.420095+09:00",
-  "label": "03:39",
+  "timestamp": "2026-08-08T04:43:37.374297+09:00",
+  "label": "04:43",
   "items": [
+    {
+      "keyword": "김구라",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112853635"
+      }
+    },
     {
       "keyword": "하한가",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
+        "title": "프리마켓 하이닉스 하한가 논란…넥스트레이드 \"재발 막겠다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260807155539851"
+        "url": "https://v.daum.net/v/20260807160902365"
+      }
+    },
+    {
+      "keyword": "이시영",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이시영, '이혼 후 임신' 9개월 딸 없이...첫째와 한 달 캐나다 떠났다 \"내년엔 같이\" [엑's 이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807150938276"
       }
     },
     {
@@ -23,16 +43,6 @@
       }
     },
     {
-      "keyword": "김구라",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112853635"
-      }
-    },
-    {
       "keyword": "블랙핑크",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -40,16 +50,6 @@
         "title": "블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다",
         "source": "경향신문",
         "url": "https://www.khan.co.kr/article/202608071756001"
-      }
-    },
-    {
-      "keyword": "이시영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한국은 폭염인데…이시영 “캐나다는 에어컨 필요 없어” 근황",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807113149517"
       }
     },
     {
@@ -67,9 +67,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "정해인, 김해숙 집까지 초대받았는데…\"너 나가\" 쫓겨날 뻔 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080801435929297"
+        "title": "정해인, 예능이 이렇게까지 긴장됐나…녹화 전 '급체'까지 (옥문아)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807223107453"
       }
     },
     {
@@ -77,9 +77,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Imbangi Garuda, Media Singapura Heran Ranking FIFA Timnas Indonesia Padahal Jauh di Atas The Lions",
-        "source": "VIVA.co.id",
-        "url": "https://www.viva.co.id/bola/1919822-imbangi-garuda-media-singapura-heran-ranking-fifa-timnas-indonesia-padahal-jauh-di-atas-the-lions"
+        "title": "Update Klasemen Grup A dan B Piala AFF 2026 Terbaru, Jadwal Terakhir Fase Grup, Bagan, Hasil Lengkap",
+        "source": "Bangkapos.com",
+        "url": "https://bangka.tribunnews.com/superball/1692350/update-klasemen-grup-a-dan-b-piala-aff-2026-terbaru-jadwal-terakhir-fase-grup-bagan-hasil-lengkap"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "민선 9기 강원도지사-18개 시장·군수 첫 간담회…\"초당적 협력\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807192650205"
+        "title": "민주콩고 에볼라 확진자 4천명 넘어…수도까지 번질라 비상",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260808001100099"
       }
     }
   ]
