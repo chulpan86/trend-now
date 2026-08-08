@@ -1,75 +1,91 @@
 {
-  "timestamp": "2026-08-08T19:20:43.912707+09:00",
-  "label": "19:20",
+  "timestamp": "2026-08-08T20:19:50.227570+09:00",
+  "label": "20:19",
   "items": [
     {
-      "keyword": "최우수산",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "전북 대 제주",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“더럽게 재미없다” 시청률 1% ‘최우수산’, 90도 사과 이어 추가연장 소원 ‘마지막 몸부림’",
+        "title": "전북현대, 내일 제주와 홈경기…폭염 속 시작 30분 늦춰",
         "source": "Daum",
-        "url": "https://v.daum.net/v/8h2I2f4qSi"
+        "url": "https://v.daum.net/v/20260807214939915"
       }
     },
     {
-      "keyword": "간호사",
+      "keyword": "한동훈",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "응급실 난동범 주짓수로 한번에 제압한 호주 간호사 화제 [잇슈 SNS]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8629874"
-      }
-    },
-    {
-      "keyword": "배구",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
+        "title": "홍준표 “검사는 정의에 살고 죽어야 하지만, 한동훈은 권력에 살고 죽어”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/BA6XFVfzlt"
+        "url": "https://v.daum.net/v/20260808123009914"
       }
     },
     {
-      "keyword": "mlb",
+      "keyword": "안양 대 대전",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "Dodgers' Seventh Straight Loss: Walk-Off Homer",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/08/FFVMDV6AMJBGXH3BTFK5EAFEGA/"
-      }
+      "news": null
     },
     {
-      "keyword": "생맥주",
+      "keyword": "오픈ai",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "퇴근길 생맥주 한잔도 부담?...술맛 떨어질 소식 나왔다",
+        "title": "\"너무 똑똑해서\" 브레이크 걸렸다...오픈AI, 차세대 모델 '아스트라' 개발 중단",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260808030900918?f=p"
+        "url": "https://v.daum.net/v/20260808142705000"
       }
     },
     {
-      "keyword": "배지환",
+      "keyword": "기욤 패트리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'방출된 해외파, 다 KBO로 오라고?' 최지만, 배지환, 심준석의 엇갈린 거취와 현실",
+        "title": "한동안 소식 없던 '캐나다 출신' 男 방송인, 다시 시청자 앞에 선다...'슈돌' 합류",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260808061048043"
+        "url": "https://v.daum.net/v/7VpgFbKpd6?f=p"
       }
     },
     {
-      "keyword": "페이커",
+      "keyword": "현진영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112853784"
+        "title": "노이즈 - 이별공식 | KBS 260808 방송",
+        "source": "대한민국 대표 공영미디어 KBS",
+        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026141730-01-000_MFSC13&program_code=T2011-0781&program_id=PS-2026141730-01-000&section_code=04&broadcast_complete_yn=N&section_id=10739"
+      }
+    },
+    {
+      "keyword": "딴지일보",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "냉정한 김어준! 정청래 대하는 태도 바뀐? 이유 (260805 수요일 클립) 박진영 장성철 유선희 허재무",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/video/article/202608052000001"
+      }
+    },
+    {
+      "keyword": "전참시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘대세’ 리센느 메이, 솔직 심경 고백…“팀 떠날 생각했었다” (전참시)",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608081316003"
+      }
+    },
+    {
+      "keyword": "xsmn",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Kết quả xổ số Đà Nẵng, Quảng Ngãi, Đắk Nông hôm nay 8.8",
+        "source": "Laodong.vn",
+        "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-da-nang-quang-ngai-dak-nong-hom-nay-88-1747945.ldo"
       }
     },
     {
@@ -77,29 +93,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[14F] '기쁜데 슬프다'... ‘오디세이’, ‘스파이더맨 4’ 흥행에도 영화관이 못 웃는 이유",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/original/14f/6843218_29052.html"
-      }
-    },
-    {
-      "keyword": "페이즈",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "몬스타엑스, 9월 가요계 컴백 확정…'더 페이즈' 발매",
-        "source": "MBC",
-        "url": "https://m.imbc.com/enews/view/514030"
-      }
-    },
-    {
-      "keyword": "독도",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "독도 주변 우리 바다 조사하는 건데···일본, 또 태클 “해양조사 벌였다” 한국 정부에 항의",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608081308001"
+        "title": "크리스토퍼 놀란, 거장의 고백 \"아이맥스 필름 비싼데..배우들 NG내면 화나\"(유퀴즈)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808154011717"
       }
     }
   ]
