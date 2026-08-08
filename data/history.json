@@ -3142,5 +3142,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-09T00:19:15.411434+09:00",
+    "label": "00:19",
+    "items": [
+      {
+        "keyword": "토트넘",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "손흥민 다음은 이강인! '쏘니 후임' 아틀레티코와 개인 합의 완료...선수 매각으로 이적 자금 확보, 토트넘에 '660억' 제안 예정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808053549295"
+        }
+      },
+      {
+        "keyword": "리그컵",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'2부 강등' 울버햄튼 황희찬, 새 시즌 공식 첫 경기 결장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808192928129"
+        }
+      },
+      {
+        "keyword": "슈퍼주니어",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[스경X이슈] 슈퍼주니어 김희철, 거꾸로 단 태극기에 일침…“쳐돌았네”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608081519003"
+        }
+      },
+      {
+        "keyword": "트로이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'오디세이' 벌써 백만영화…놀런 감독 의도대로 보려면?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808204206784"
+        }
+      },
+      {
+        "keyword": "정화조",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "제주 양돈장서 정화조 빠진 외국인 근로자 2명 숨져",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/08/08/EQUONXBG5FCN7FEWVVYNNIVKAE/"
+        }
+      },
+      {
+        "keyword": "k리그1",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "K리그1 울산, 동해안 더비 2-0 완승…3연승·선두와 승점 7 차이",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260808053100007"
+        }
+      },
+      {
+        "keyword": "chelsea vs milan",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Chelsea 3-0 AC Milan: Joao Pedro scores twice in pre-season win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c330p1p84e3t"
+        }
+      },
+      {
+        "keyword": "효성중공업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "60% 빠졌던 효성중공업의 반전…주가 되살린 ‘12조 수주’의 힘 [이주의 Bull기둥]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808125700059"
+        }
+      },
+      {
+        "keyword": "k리그1 순위",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[K리그1] 중간 순위(8일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6253218"
+        }
+      },
+      {
+        "keyword": "라스트 하우스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘The Last House’ Review: An Unthrilling Thriller on Netflix",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/arts-culture/television/the-last-house-review-an-unthrilling-thriller-on-netflix-74c1374f"
+        }
+      }
+    ]
   }
 ]
