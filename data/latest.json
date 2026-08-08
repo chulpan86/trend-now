@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-08T20:19:50.227570+09:00",
-  "label": "20:19",
+  "timestamp": "2026-08-08T21:25:51.824260+09:00",
+  "label": "21:25",
   "items": [
     {
-      "keyword": "전북 대 제주",
+      "keyword": "전당 대회",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "전북현대, 내일 제주와 홈경기…폭염 속 시작 30분 늦춰",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807214939915"
+        "title": "[속보]김민석, 민주당 제주·인천 순회경선서 승리···2위 정청래·3위 송영길",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608081858001"
       }
     },
     {
-      "keyword": "한동훈",
+      "keyword": "김천상무 대 fc 서울",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "홍준표 “검사는 정의에 살고 죽어야 하지만, 한동훈은 권력에 살고 죽어”",
+        "title": "세 경기째 주춤한 선두 FC서울, 껄끄러운 김천과 폭염 속 격돌",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260808123009914"
+        "url": "https://v.daum.net/v/20260806114733319"
       }
     },
     {
-      "keyword": "안양 대 대전",
+      "keyword": "순항 미사일 잠수함",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": null
+      "news": {
+        "title": "美, 공격잠수함 19척 순항미사일잠수함 전환…中 견제 강화",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808162541164"
+      }
     },
     {
-      "keyword": "오픈ai",
+      "keyword": "상수도",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"너무 똑똑해서\" 브레이크 걸렸다...오픈AI, 차세대 모델 '아스트라' 개발 중단",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808142705000"
-      }
-    },
-    {
-      "keyword": "기욤 패트리",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한동안 소식 없던 '캐나다 출신' 男 방송인, 다시 시청자 앞에 선다...'슈돌' 합류",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/7VpgFbKpd6?f=p"
-      }
-    },
-    {
-      "keyword": "현진영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "노이즈 - 이별공식 | KBS 260808 방송",
-        "source": "대한민국 대표 공영미디어 KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026141730-01-000_MFSC13&program_code=T2011-0781&program_id=PS-2026141730-01-000&section_code=04&broadcast_complete_yn=N&section_id=10739"
-      }
-    },
-    {
-      "keyword": "딴지일보",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "냉정한 김어준! 정청래 대하는 태도 바뀐? 이유 (260805 수요일 클립) 박진영 장성철 유선희 허재무",
+        "title": "폭염특보 내려진 부산, 상수도관 파열로 2000여 가구 6시간 단수",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/video/article/202608052000001"
+        "url": "https://www.khan.co.kr/article/202608081729001"
       }
     },
     {
-      "keyword": "전참시",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "아리엘 후라도",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "‘대세’ 리센느 메이, 솔직 심경 고백…“팀 떠날 생각했었다” (전참시)",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608081316003"
-      }
-    },
-    {
-      "keyword": "xsmn",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Kết quả xổ số Đà Nẵng, Quảng Ngãi, Đắk Nông hôm nay 8.8",
-        "source": "Laodong.vn",
-        "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-da-nang-quang-ngai-dak-nong-hom-nay-88-1747945.ldo"
-      }
-    },
-    {
-      "keyword": "아이맥스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "크리스토퍼 놀란, 거장의 고백 \"아이맥스 필름 비싼데..배우들 NG내면 화나\"(유퀴즈)",
+        "title": "후라도 재검진 받았다, 어깨 상태 어떨까…알쏭달쏭 보스, 박진만이 밝힌 후라도 복귀 시점은?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260808154011717"
+        "url": "https://v.daum.net/v/20260808133736487"
+      }
+    },
+    {
+      "keyword": "메시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "충격 \"폭탄 4개 두르고 메시에게\" 자폭 테러 0순위 표적 됐었다... 월드컵 테러 문건 유출 \"호날두 호텔 무단침입도\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/08/2026080722353782497"
+      }
+    },
+    {
+      "keyword": "반포동",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "압구정현대, 직접 증여가 매각 후 현금 증여보다 세금 7억 덜 낸다…계산기 두드리는 강남 고령층 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/08/6SODFOKN3VDZVB77VXSV4RTMJE/"
+      }
+    },
+    {
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'박항서도 못다 한 꿈 보인다' 김상식호, 베트남 사상 최초 '22G 무패' 대기록...조 1위로 아세안 챔피언십 4강행→대회 2연패 도전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808101539482"
+      }
+    },
+    {
+      "keyword": "t1 hle",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "T1, Fielding 'Painter' Instead of 'Oner', Falls to Hanwha Life",
+        "source": "Inven Global",
+        "url": "https://www.invenglobal.com/articles/24583/t1-fielding-painter-instead-of-oner-falls-to-hanwha-life"
+      }
+    },
+    {
+      "keyword": "j리그",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "A매치도 아닌데 6만 3960명 '역대 최다 관중'... '추춘제 전환' 日 J리그 개막전부터 '초대박' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/08/2026080723061262663"
       }
     }
   ]
