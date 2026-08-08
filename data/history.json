@@ -2530,5 +2530,103 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T16:40:17.399065+09:00",
+    "label": "16:40",
+    "items": [
+      {
+        "keyword": "한국경제",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "트럼프 2년 차엔 주식이 춥다?…내년 '큰 장' 노리려면",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608071490i"
+        }
+      },
+      {
+        "keyword": "회사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "아이오케이이엔엠, 공연·IP·콘텐츠 강화 본격화…\"수익성 제고 속도\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260808n01541?mid=e1100"
+        }
+      },
+      {
+        "keyword": "서정희",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "서정희, 으리으리한 자택 공개..\"앞치마 둘렀는데도 드레스 자태!\" 화보급 근황",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808100528386"
+        }
+      },
+      {
+        "keyword": "해군 특수전전단",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": null
+      },
+      {
+        "keyword": "강재준",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“다시 홀쭉해졌네” 강재준 요요 이겨낸 근황… 실천한 ‘두 가지’ 봤더니?",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080701443.html"
+        }
+      },
+      {
+        "keyword": "보행자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독]“경적 항의해 홧김에 돌진”…‘살인미수’ 구속",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000543823.do"
+        }
+      },
+      {
+        "keyword": "김포시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김포 구도심 10곳 정비예정구역 지정…축구장 52개 면적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808071855667"
+        }
+      },
+      {
+        "keyword": "토토",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "황인호 대전 동구청장, 폭염 속 '토토즐 푸드페스타' 준비 점검",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260807001100"
+        }
+      },
+      {
+        "keyword": "김상혁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'돌싱' 김상혁, 소개팅녀에 \"시술 많이 하셨냐\"…이승철 \"미친 X\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080809303537079"
+        }
+      },
+      {
+        "keyword": "대전날씨",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]

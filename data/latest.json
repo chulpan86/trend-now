@@ -1,106 +1,98 @@
 {
-  "timestamp": "2026-08-08T15:34:00.810561+09:00",
-  "label": "15:34",
+  "timestamp": "2026-08-08T16:40:17.399065+09:00",
+  "label": "16:40",
   "items": [
     {
-      "keyword": "민생회복 소비쿠폰",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "전북 완주·부안·고창…30만원씩 민생지원금 추석 전 지급(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qZ7VIinQYM?f=p"
-      }
-    },
-    {
-      "keyword": "입양",
+      "keyword": "한국경제",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "해외 입양 떠난 지 사흘 만에 숨진 구조견 '도담'…관리 공백 드러났다",
+        "title": "트럼프 2년 차엔 주식이 춥다?…내년 '큰 장' 노리려면",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608071490i"
+      }
+    },
+    {
+      "keyword": "회사",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "아이오케이이엔엠, 공연·IP·콘텐츠 강화 본격화…\"수익성 제고 속도\"",
         "source": "네이트",
-        "url": "https://news.nate.com/view/20260808n04288"
+        "url": "https://news.nate.com/view/20260808n01541?mid=e1100"
       }
     },
     {
-      "keyword": "김하성",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "서정희",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "38일 만에 돌아온 김하성, 2타수 무안타 부진…시즌 타율 0.067",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260808031100007"
+        "title": "서정희, 으리으리한 자택 공개..\"앞치마 둘렀는데도 드레스 자태!\" 화보급 근황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808100528386"
       }
     },
     {
-      "keyword": "파크 골프",
+      "keyword": "해군 특수전전단",
       "traffic_raw": "1000+",
       "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "강재준",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "“암 수술하고 파크골프 덕에 체력 회복”…시니어 전신 운동으로 각광",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1271964.html"
+        "title": "“다시 홀쭉해졌네” 강재준 요요 이겨낸 근황… 실천한 ‘두 가지’ 봤더니?",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080701443.html"
       }
     },
     {
-      "keyword": "기안84",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "보행자",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "\"너 고졸 아니었어?\" 기안84, 샤이니 민호 학력에 '충격' - 머니투데이",
+        "title": "[단독]“경적 항의해 홧김에 돌진”…‘살인미수’ 구속",
+        "source": "채널A",
+        "url": "https://ichannela.com/news/detail/000000543823.do"
+      }
+    },
+    {
+      "keyword": "김포시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김포 구도심 10곳 정비예정구역 지정…축구장 52개 면적",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808071855667"
+      }
+    },
+    {
+      "keyword": "토토",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "황인호 대전 동구청장, 폭염 속 '토토즐 푸드페스타' 준비 점검",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260807001100"
+      }
+    },
+    {
+      "keyword": "김상혁",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'돌싱' 김상혁, 소개팅녀에 \"시술 많이 하셨냐\"…이승철 \"미친 X\" - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080802273258261"
+        "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080809303537079"
       }
     },
     {
-      "keyword": "손현보",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "손현보 목사, 백악관서 트럼프 접견…美정부 인사들과 잇단 접촉",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808112655244"
-      }
-    },
-    {
-      "keyword": "그랜드 테 프트 오토 vi",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "테이크투인터랙티브, GTA VI 출시 앞두고 부진한 가이던스에 주가 하락",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/stock-market-news/article-2052343"
-      }
-    },
-    {
-      "keyword": "르윈 디아즈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"최대한 살려야 하는데\" 박진만 감독의 한숨…'7번' 디아즈에서 드러난 삼성의 고민",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260806160251234"
-      }
-    },
-    {
-      "keyword": "삼성 갤럭시 z 시리즈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[테크톡노트] 폴드는 어떻게 '아재폰'에서 'MZ폰'이 됐나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808131147246"
-      }
-    },
-    {
-      "keyword": "하리수",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "하리수 \"미키정 보내주고 싶어 이혼…애 못 낳아 미안했다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260807_0003741138"
-      }
+      "keyword": "대전날씨",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }
