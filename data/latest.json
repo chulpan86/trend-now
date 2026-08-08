@@ -1,57 +1,61 @@
 {
-  "timestamp": "2026-08-09T05:16:55.253090+09:00",
-  "label": "05:16",
+  "timestamp": "2026-08-09T06:20:25.749954+09:00",
+  "label": "06:20",
   "items": [
     {
-      "keyword": "페렌츠바로시 대 레알 마드리드",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "민생지원금",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "Hungary Ferencvaros Real Madrid Soccer",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260809n00537?mid=n1101"
+        "title": "전북 완주·부안·고창…30만원씩 민생지원금 추석 전 지급(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qZ7VIinQYM?f=p"
       }
     },
     {
-      "keyword": "가능한 사랑",
+      "keyword": "암",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“대장암 씨앗 된다” 매일 먹던 음식에 발암물질이… 대체 뭐야?",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080701299.html"
+      }
+    },
+    {
+      "keyword": "습관",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807153857272"
+        "title": "\"과하면 오히려 몸 해친다\"…의사가 경고한 '건강 습관' 5가지",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260808_0003741249"
       }
     },
     {
-      "keyword": "면목동",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "서울서 60대 지인끼리 서로 칼부림…2명 모두 사망",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/uzySickLp6"
-      }
-    },
-    {
-      "keyword": "오상진",
+      "keyword": "범죄",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"수학 최우수상\" 김소영♥오상진 딸, 연세대 핏줄 어디 안 가네('띵그리TV')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/PaTsKckLvh"
+        "title": "[의학:너머] 폭염에 불안 초조…마음 건강도 ‘비상’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632037"
       }
     },
     {
-      "keyword": "정가은",
+      "keyword": "디에고 시메오네",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
+      "news": {
+        "title": "\"이강인의 새 출발 응원\"…아틀레티코 훈련 달군 뜨거운 팬심",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260808049400007"
+      }
     },
     {
       "keyword": "송가인",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "역시 김의영이네…바캉스 패션이 가장 기대되는 여자 트로트 가수 1위 [TEN차트]",
         "source": "Daum",
@@ -59,43 +63,43 @@
       }
     },
     {
-      "keyword": "ps",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Almost 40% of all Switch game sales are physical",
-        "source": "Gamereactor UK",
-        "url": "https://www.gamereactor.eu/almost-40-of-the-switch-game-sales-are-physical-1757303/"
-      }
-    },
-    {
-      "keyword": "레알마드리드",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "바르셀로나",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "'코치에서 사령탑으로' 마레스카와 재회한 루이스, \"명확한 방향성 갖고 있어\"...로드리 바르셀로나 이적설에는 \"축구의 일부\" [MD현장]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260808213149274"
+        "url": "https://v.daum.net/v/uLA9oGHlmY"
       }
     },
     {
-      "keyword": "서점가",
+      "keyword": "도경완",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "인기 없던 소설, 다시 '역주행' 중…판매량 2배 훌쩍, 서점가에 무슨일 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/culture/2026/08/08/2026080513572417827"
+        "title": "도경완, ♥장윤정·두 자녀 생각뿐…美서 신차 보더니 “아빠 열심히 할게” [SD톡톡]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808151051460"
       }
     },
     {
-      "keyword": "fotmob",
+      "keyword": "기사",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "How the Real Madrid Dressing Room Has Reacted as Jose Mourinho Introduces Three Strict New Rules",
-        "source": "GiveMeSport",
-        "url": "https://www.givemesport.com/real-madrid-dressing-room-reaction-jose-mourinho-strict-new-rules/"
+        "title": "이재명 대통령, 부동산 정책 점검 2차 회의 관련 강유정 수석대변인 서면 브리핑",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/presidentView.do?newsId=148969717"
+      }
+    },
+    {
+      "keyword": "고흥군",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "전남광주, 전국 최초 ‘섬 반값 여행’…최대 10만원 환급",
+        "source": "국민일보",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030223686"
       }
     }
   ]
