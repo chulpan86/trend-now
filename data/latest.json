@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-08-09T02:20:24.110421+09:00",
-  "label": "02:20",
+  "timestamp": "2026-08-09T03:21:35.617337+09:00",
+  "label": "03:21",
   "items": [
-    {
-      "keyword": "psg 대 맨유",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "클럽 친선경기: PSG는 캐릭 감독의 맨유가 얼마나 잘 할 수 있을지 시험한다",
-        "source": "티스토리",
-        "url": "https://sbotopkr.tistory.com/2458"
-      }
-    },
     {
       "keyword": "맨유",
       "traffic_raw": "1000+",
@@ -20,6 +10,26 @@
         "title": "바르셀로나가 돈 아끼는 사이 맨유가 낚아챈다! '19세 스페인 특급 LB' 260억 바이아웃 \"지불할 준비 돼 있어\"",
         "source": "네이트",
         "url": "https://sports.news.nate.com/view/20260808n09715"
+      }
+    },
+    {
+      "keyword": "가능한 사랑",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807153857272"
+      }
+    },
+    {
+      "keyword": "면목동",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/08/08/3UWOHFLA4BF3XNO7JK6L47LB3A/"
       }
     },
     {
@@ -33,59 +43,19 @@
       }
     },
     {
-      "keyword": "가능한 사랑",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807153857272"
-      }
-    },
-    {
-      "keyword": "면목동",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/08/08/3UWOHFLA4BF3XNO7JK6L47LB3A/"
-      }
-    },
-    {
-      "keyword": "psg",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Où et quand regarder PSG-Manchester United ?",
-        "source": "Football365",
-        "url": "https://www.football365.fr/ou-et-quand-regarder-psg-manchester-united-10306790.html"
-      }
-    },
-    {
-      "keyword": "mutv",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Paris Saint-Germain",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cdx7rvr4z3yt"
-      }
-    },
-    {
       "keyword": "fotmob",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Salah joins Trabzonspor and secures record Turkish salary - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/08/08/BHDOHWCOLFAZNKV2LKSEWV3NV4/"
+        "title": "Pre-season friendly LIVE: Chelsea vs AC Milan - text commentary, score updates, match stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c330p1p84e3t"
       }
     },
     {
       "keyword": "ewc 철권",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "'EWC 2026 철권' DNS '울산' 3연패 도전",
         "source": "더게임스",
@@ -93,14 +63,40 @@
       }
     },
     {
-      "keyword": "서하얀",
+      "keyword": "psg",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Mercato : Ferran Torres s'est mis d'accord avec le PSG pour un contrat de 5 ans, négociations en cours entre Paris et le Barça",
+        "source": "L'Équipe",
+        "url": "https://www.lequipe.fr/Football/Actualites/Mercato-ferran-torres-s-est-mis-d-accord-avec-le-psg-pour-un-contrat-de-5-ans-negociations-en-cours-entre-paris-et-le-barca/1709669"
+      }
+    },
+    {
+      "keyword": "mutv",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Man Utd 1-1 Paris Saint-Germain: How Michael Carrick's players rated",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cdx7rvr4z3yt"
+      }
+    },
+    {
+      "keyword": "서점가",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "임창정, 재혼하길 정말 잘했네..더 어려진 ♥서하얀과 달달 투샷 “맛난 것 먹자”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808201047523"
+        "title": "인기 없던 소설, 다시 '역주행' 중…판매량 2배 훌쩍, 서점가에 무슨일 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/culture/2026/08/08/2026080513572417827"
       }
+    },
+    {
+      "keyword": "정가은",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }
