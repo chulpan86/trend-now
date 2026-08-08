@@ -2828,5 +2828,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T19:20:43.912707+09:00",
+    "label": "19:20",
+    "items": [
+      {
+        "keyword": "최우수산",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“더럽게 재미없다” 시청률 1% ‘최우수산’, 90도 사과 이어 추가연장 소원 ‘마지막 몸부림’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8h2I2f4qSi"
+        }
+      },
+      {
+        "keyword": "간호사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "응급실 난동범 주짓수로 한번에 제압한 호주 간호사 화제 [잇슈 SNS]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8629874"
+        }
+      },
+      {
+        "keyword": "배구",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BA6XFVfzlt"
+        }
+      },
+      {
+        "keyword": "mlb",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Dodgers' Seventh Straight Loss: Walk-Off Homer",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/08/FFVMDV6AMJBGXH3BTFK5EAFEGA/"
+        }
+      },
+      {
+        "keyword": "생맥주",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "퇴근길 생맥주 한잔도 부담?...술맛 떨어질 소식 나왔다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808030900918?f=p"
+        }
+      },
+      {
+        "keyword": "배지환",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'방출된 해외파, 다 KBO로 오라고?' 최지만, 배지환, 심준석의 엇갈린 거취와 현실",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808061048043"
+        }
+      },
+      {
+        "keyword": "페이커",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853784"
+        }
+      },
+      {
+        "keyword": "아이맥스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[14F] '기쁜데 슬프다'... ‘오디세이’, ‘스파이더맨 4’ 흥행에도 영화관이 못 웃는 이유",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/original/14f/6843218_29052.html"
+        }
+      },
+      {
+        "keyword": "페이즈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "몬스타엑스, 9월 가요계 컴백 확정…'더 페이즈' 발매",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/514030"
+        }
+      },
+      {
+        "keyword": "독도",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "독도 주변 우리 바다 조사하는 건데···일본, 또 태클 “해양조사 벌였다” 한국 정부에 항의",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608081308001"
+        }
+      }
+    ]
   }
 ]

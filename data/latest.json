@@ -1,97 +1,105 @@
 {
-  "timestamp": "2026-08-08T18:27:22.331576+09:00",
-  "label": "18:27",
+  "timestamp": "2026-08-08T19:20:43.912707+09:00",
+  "label": "19:20",
   "items": [
     {
-      "keyword": "치지직",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": null
-    },
-    {
-      "keyword": "당구",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "“25:0” 전국당구대회 女3쿠션서 ‘퍼펙트 게임’ 나왔다…국내1위 박세정, 황령인에 완승",
-        "source": "mkbn.mk.co.kr",
-        "url": "https://mkbn.mk.co.kr/news/sports/12121693"
-      }
-    },
-    {
-      "keyword": "lck",
+      "keyword": "최우수산",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Kiin becomes the first toplaner to reach 500 wins in LCK",
-        "source": "Sheep Esports",
-        "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en"
-      }
-    },
-    {
-      "keyword": "이은형",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
+        "title": "“더럽게 재미없다” 시청률 1% ‘최우수산’, 90도 사과 이어 추가연장 소원 ‘마지막 몸부림’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260806171137226"
+        "url": "https://v.daum.net/v/8h2I2f4qSi"
       }
     },
     {
-      "keyword": "최애의 사원",
+      "keyword": "간호사",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "강훈vs차우민 판타지 충족…김혜준 선택장애 서막 (최애의 사원)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260807/134435794/1"
-      }
-    },
-    {
-      "keyword": "오너",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[현장 SNS] 실험실 가동한 T1, ‘오너’ 문현준 선발 제외…2007년 생 신인 ‘페인터’ 출전",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112853798"
+        "title": "응급실 난동범 주짓수로 한번에 제압한 호주 간호사 화제 [잇슈 SNS]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8629874"
       }
     },
     {
       "keyword": "배구",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "U-17 여자 배구대표팀, 세계선수권 2연승 질주…대만 3-1 제압",
+        "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/xAGyU7zt5A"
+        "url": "https://v.daum.net/v/BA6XFVfzlt"
       }
     },
     {
-      "keyword": "숲",
+      "keyword": "mlb",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": null
+      "news": {
+        "title": "Dodgers' Seventh Straight Loss: Walk-Off Homer",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/08/08/FFVMDV6AMJBGXH3BTFK5EAFEGA/"
+      }
     },
     {
-      "keyword": "마이데일리",
+      "keyword": "생맥주",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "퇴근길 생맥주 한잔도 부담?...술맛 떨어질 소식 나왔다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808030900918?f=p"
+      }
+    },
+    {
+      "keyword": "배지환",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'44세' 슈, 충격적 얼굴 상태…눈에 띄게 처진 피부 \"손 봐야 할 데 많아\" [엑's 이슈]",
+        "title": "'방출된 해외파, 다 KBO로 오라고?' 최지만, 배지환, 심준석의 엇갈린 거취와 현실",
         "source": "Daum",
-        "url": "https://v.daum.net/v/9omqYhlw14"
+        "url": "https://v.daum.net/v/20260808061048043"
       }
     },
     {
       "keyword": "페이커",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐",
         "source": "OSEN",
         "url": "https://www.osen.co.kr/article/G1112853784"
+      }
+    },
+    {
+      "keyword": "아이맥스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[14F] '기쁜데 슬프다'... ‘오디세이’, ‘스파이더맨 4’ 흥행에도 영화관이 못 웃는 이유",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/original/14f/6843218_29052.html"
+      }
+    },
+    {
+      "keyword": "페이즈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "몬스타엑스, 9월 가요계 컴백 확정…'더 페이즈' 발매",
+        "source": "MBC",
+        "url": "https://m.imbc.com/enews/view/514030"
+      }
+    },
+    {
+      "keyword": "독도",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "독도 주변 우리 바다 조사하는 건데···일본, 또 태클 “해양조사 벌였다” 한국 정부에 항의",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608081308001"
       }
     }
   ]
