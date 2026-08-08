@@ -2322,5 +2322,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T14:34:37.344202+09:00",
+    "label": "14:34",
+    "items": [
+      {
+        "keyword": "김선태",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'리센느 논란' 김선태, 충주시장에 복직 제안 받았다…\"돌아올 생각 있냐\" 수척 근황까지 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808062107119"
+        }
+      },
+      {
+        "keyword": "홍서범",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'아들 불륜 사과' 홍서범♥조갑경 근황…\"하나 되기로\" 지인과 '활짝' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080715213837969"
+        }
+      },
+      {
+        "keyword": "김하성",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "38일 만에 돌아온 김하성, 2타수 무안타 부진…시즌 타율 0.067",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260808031100007"
+        }
+      },
+      {
+        "keyword": "파크 골프",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“암 수술하고 파크골프 덕에 체력 회복”…시니어 전신 운동으로 각광",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1271964.html"
+        }
+      },
+      {
+        "keyword": "기안84",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"너 고졸 아니었어?\" 기안84, 샤이니 민호 학력에 '충격' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080802273258261"
+        }
+      },
+      {
+        "keyword": "자녀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“부모 ADHD, 자녀에게도 이어진다?”… ADHD 진단 위험 4.47배 높아",
+          "source": "하이닥",
+          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=65742"
+        }
+      },
+      {
+        "keyword": "김지선",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "하리수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "하리수 \"미키정 보내주고 싶어 이혼…애 못 낳아 미안했다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003741138"
+        }
+      },
+      {
+        "keyword": "그랜드 테 프트 오토 vi",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[미국 특징주] 테이크투, 연간 예약 전망 유지 \"'GTA VI 예정대로 11월 출시\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260808000006"
+        }
+      },
+      {
+        "keyword": "포탄",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고속도로에 60cm 포탄 발견돼 '화들짝'…알고 보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807072107721"
+        }
+      }
+    ]
   }
 ]
