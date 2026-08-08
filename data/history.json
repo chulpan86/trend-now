@@ -2628,5 +2628,107 @@
         "news": null
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T17:27:39.085086+09:00",
+    "label": "17:27",
+    "items": [
+      {
+        "keyword": "열대야",
+        "traffic_raw": "500000+",
+        "traffic": 500000,
+        "news": {
+          "title": "강릉 시간당 60mm 폭우‥영동 곳곳 호우특보",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6843299_36918.html"
+        }
+      },
+      {
+        "keyword": "조중연",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이임생이 밝힌 홍명보 선임 내막…\"정몽규, TD판단 믿는다고 해\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807140751004"
+        }
+      },
+      {
+        "keyword": "정준하",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "유재석, 정준하 희롱에 \"모멸감 느껴…변호사 부를 것\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260808_0003741321"
+        }
+      },
+      {
+        "keyword": "보행자",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독]“경적 항의해 홧김에 돌진”…‘살인미수’ 구속",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000543823.do"
+        }
+      },
+      {
+        "keyword": "키",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "샤이니 키, 하차한 '나혼산' 그리운가...1일 1브이로그 폭주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807201148670"
+        }
+      },
+      {
+        "keyword": "t1",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "그래미 어워드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "BTS '더 시티 뉴욕', 타임스스퀘어 등 랜드마크 빛냈다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260807049800005"
+        }
+      },
+      {
+        "keyword": "신구",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "아내 발인 당일에도 무대에…신구가 전한 연극의 의미",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6557459"
+        }
+      },
+      {
+        "keyword": "청주날씨",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망",
+          "source": "뉴스인사이드",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4903747"
+        }
+      },
+      {
+        "keyword": "빅터 레이예스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "베네수엘라 언론, 레이예스에 자부심 \"폭염에도 불망망이, 카스트로 역시 매 경기 발전→페라자도...\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808003251423?f=p"
+        }
+      }
+    ]
   }
 ]
