@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-09T03:21:35.617337+09:00",
-  "label": "03:21",
+  "timestamp": "2026-08-09T04:21:05.807352+09:00",
+  "label": "04:21",
   "items": [
     {
-      "keyword": "맨유",
+      "keyword": "페렌츠바로시 대 레알 마드리드",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "바르셀로나가 돈 아끼는 사이 맨유가 낚아챈다! '19세 스페인 특급 LB' 260억 바이아웃 \"지불할 준비 돼 있어\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260808n09715"
+        "title": "페렌츠바로시 대 레알 마드리드 예측: 예상 라인업",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-ferencvarosi-vs-real-madrid-doi-hinh-du-kien"
       }
     },
     {
@@ -37,19 +37,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112853900"
+        "title": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/08/GYZWGZRVGZRDAYJZMQ3GGOBSMM/"
       }
     },
     {
-      "keyword": "fotmob",
+      "keyword": "정가은",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Pre-season friendly LIVE: Chelsea vs AC Milan - text commentary, score updates, match stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c330p1p84e3t"
+        "title": "‘갱년기 약 복용’ 정가은, 동안 메이크업으로 아이돌 미모 자신감 “20대 같냐”(롤코언니 가은이)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808194737256"
       }
     },
     {
@@ -73,13 +73,13 @@
       }
     },
     {
-      "keyword": "mutv",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "레알마드리드",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "Man Utd 1-1 Paris Saint-Germain: How Michael Carrick's players rated",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cdx7rvr4z3yt"
+        "title": "'코치에서 사령탑으로' 마레스카와 재회한 루이스, \"명확한 방향성 갖고 있어\"...로드리 바르셀로나 이적설에는 \"축구의 일부\" [MD현장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808213149274"
       }
     },
     {
@@ -93,10 +93,14 @@
       }
     },
     {
-      "keyword": "정가은",
+      "keyword": "fotmob",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "How the Real Madrid Dressing Room Has Reacted as Jose Mourinho Introduces Three Strict New Rules",
+        "source": "GiveMeSport",
+        "url": "https://www.givemesport.com/real-madrid-dressing-room-reaction-jose-mourinho-strict-new-rules/"
+      }
     }
   ]
 }
