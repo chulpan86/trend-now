@@ -2424,5 +2424,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T15:34:00.810561+09:00",
+    "label": "15:34",
+    "items": [
+      {
+        "keyword": "민생회복 소비쿠폰",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "전북 완주·부안·고창…30만원씩 민생지원금 추석 전 지급(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qZ7VIinQYM?f=p"
+        }
+      },
+      {
+        "keyword": "입양",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "해외 입양 떠난 지 사흘 만에 숨진 구조견 '도담'…관리 공백 드러났다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260808n04288"
+        }
+      },
+      {
+        "keyword": "김하성",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "38일 만에 돌아온 김하성, 2타수 무안타 부진…시즌 타율 0.067",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260808031100007"
+        }
+      },
+      {
+        "keyword": "파크 골프",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“암 수술하고 파크골프 덕에 체력 회복”…시니어 전신 운동으로 각광",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1271964.html"
+        }
+      },
+      {
+        "keyword": "기안84",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"너 고졸 아니었어?\" 기안84, 샤이니 민호 학력에 '충격' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080802273258261"
+        }
+      },
+      {
+        "keyword": "손현보",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "손현보 목사, 백악관서 트럼프 접견…美정부 인사들과 잇단 접촉",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808112655244"
+        }
+      },
+      {
+        "keyword": "그랜드 테 프트 오토 vi",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "테이크투인터랙티브, GTA VI 출시 앞두고 부진한 가이던스에 주가 하락",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2052343"
+        }
+      },
+      {
+        "keyword": "르윈 디아즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"최대한 살려야 하는데\" 박진만 감독의 한숨…'7번' 디아즈에서 드러난 삼성의 고민",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806160251234"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 z 시리즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[테크톡노트] 폴드는 어떻게 '아재폰'에서 'MZ폰'이 됐나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808131147246"
+        }
+      },
+      {
+        "keyword": "하리수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "하리수 \"미키정 보내주고 싶어 이혼…애 못 낳아 미안했다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260807_0003741138"
+        }
+      }
+    ]
   }
 ]
