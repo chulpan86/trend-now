@@ -1,101 +1,97 @@
 {
-  "timestamp": "2026-08-08T17:27:39.085086+09:00",
-  "label": "17:27",
+  "timestamp": "2026-08-08T18:27:22.331576+09:00",
+  "label": "18:27",
   "items": [
     {
-      "keyword": "열대야",
-      "traffic_raw": "500000+",
-      "traffic": 500000,
-      "news": {
-        "title": "강릉 시간당 60mm 폭우‥영동 곳곳 호우특보",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6843299_36918.html"
-      }
-    },
-    {
-      "keyword": "조중연",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "이임생이 밝힌 홍명보 선임 내막…\"정몽규, TD판단 믿는다고 해\"(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260807140751004"
-      }
-    },
-    {
-      "keyword": "정준하",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "유재석, 정준하 희롱에 \"모멸감 느껴…변호사 부를 것\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260808_0003741321"
-      }
-    },
-    {
-      "keyword": "보행자",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독]“경적 항의해 홧김에 돌진”…‘살인미수’ 구속",
-        "source": "채널A",
-        "url": "https://ichannela.com/news/detail/000000543823.do"
-      }
-    },
-    {
-      "keyword": "키",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "샤이니 키, 하차한 '나혼산' 그리운가...1일 1브이로그 폭주",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260807201148670"
-      }
-    },
-    {
-      "keyword": "t1",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "치지직",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": null
     },
     {
-      "keyword": "그래미 어워드",
+      "keyword": "당구",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“25:0” 전국당구대회 女3쿠션서 ‘퍼펙트 게임’ 나왔다…국내1위 박세정, 황령인에 완승",
+        "source": "mkbn.mk.co.kr",
+        "url": "https://mkbn.mk.co.kr/news/sports/12121693"
+      }
+    },
+    {
+      "keyword": "lck",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Kiin becomes the first toplaner to reach 500 wins in LCK",
+        "source": "Sheep Esports",
+        "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en"
+      }
+    },
+    {
+      "keyword": "이은형",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806171137226"
+      }
+    },
+    {
+      "keyword": "최애의 사원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "강훈vs차우민 판타지 충족…김혜준 선택장애 서막 (최애의 사원)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260807/134435794/1"
+      }
+    },
+    {
+      "keyword": "오너",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[현장 SNS] 실험실 가동한 T1, ‘오너’ 문현준 선발 제외…2007년 생 신인 ‘페인터’ 출전",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112853798"
+      }
+    },
+    {
+      "keyword": "배구",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "U-17 여자 배구대표팀, 세계선수권 2연승 질주…대만 3-1 제압",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xAGyU7zt5A"
+      }
+    },
+    {
+      "keyword": "숲",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "마이데일리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "BTS '더 시티 뉴욕', 타임스스퀘어 등 랜드마크 빛냈다",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260807049800005"
-      }
-    },
-    {
-      "keyword": "신구",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "아내 발인 당일에도 무대에…신구가 전한 연극의 의미",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6557459"
-      }
-    },
-    {
-      "keyword": "청주날씨",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망",
-        "source": "뉴스인사이드",
-        "url": "https://www.newsinside.kr/news/articleView.html?idxno=4903747"
-      }
-    },
-    {
-      "keyword": "빅터 레이예스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "베네수엘라 언론, 레이예스에 자부심 \"폭염에도 불망망이, 카스트로 역시 매 경기 발전→페라자도...\"",
+        "title": "'44세' 슈, 충격적 얼굴 상태…눈에 띄게 처진 피부 \"손 봐야 할 데 많아\" [엑's 이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260808003251423?f=p"
+        "url": "https://v.daum.net/v/9omqYhlw14"
+      }
+    },
+    {
+      "keyword": "페이커",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112853784"
       }
     }
   ]

@@ -2730,5 +2730,103 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T18:27:22.331576+09:00",
+    "label": "18:27",
+    "items": [
+      {
+        "keyword": "치지직",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": null
+      },
+      {
+        "keyword": "당구",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“25:0” 전국당구대회 女3쿠션서 ‘퍼펙트 게임’ 나왔다…국내1위 박세정, 황령인에 완승",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12121693"
+        }
+      },
+      {
+        "keyword": "lck",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Kiin becomes the first toplaner to reach 500 wins in LCK",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en"
+        }
+      },
+      {
+        "keyword": "이은형",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806171137226"
+        }
+      },
+      {
+        "keyword": "최애의 사원",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "강훈vs차우민 판타지 충족…김혜준 선택장애 서막 (최애의 사원)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260807/134435794/1"
+        }
+      },
+      {
+        "keyword": "오너",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[현장 SNS] 실험실 가동한 T1, ‘오너’ 문현준 선발 제외…2007년 생 신인 ‘페인터’ 출전",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853798"
+        }
+      },
+      {
+        "keyword": "배구",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "U-17 여자 배구대표팀, 세계선수권 2연승 질주…대만 3-1 제압",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xAGyU7zt5A"
+        }
+      },
+      {
+        "keyword": "숲",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": null
+      },
+      {
+        "keyword": "마이데일리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'44세' 슈, 충격적 얼굴 상태…눈에 띄게 처진 피부 \"손 봐야 할 데 많아\" [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9omqYhlw14"
+        }
+      },
+      {
+        "keyword": "페이커",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853784"
+        }
+      }
+    ]
   }
 ]
