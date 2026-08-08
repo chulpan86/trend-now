@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-08T08:24:38.297546+09:00",
-  "label": "08:24",
+  "timestamp": "2026-08-08T09:53:14.122791+09:00",
+  "label": "09:53",
   "items": [
     {
-      "keyword": "박서진",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "자동차",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "박서진, 2000만원 쏟아부은 '취미방' 공개('살림남')",
+        "title": "제네시스 청주, 2026 레드닷 디자인 어워드 브랜드 & 커뮤니케이션 디자인 부문 2관왕",
+        "source": "Genesis Newsroom",
+        "url": "https://newsroom.genesis.com/ko-ko/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%EC%B2%AD%EC%A3%BC-%252C-2026-%EB%A0%88%EB%93%9C%EB%8B%B7-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%96%B4%EC%9B%8C%EB%93%9C-%EB%B8%8C%EB%9E%9C%EB%93%9C-%2526-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B6%80%EB%AC%B8-2%EA%B4%80%EC%99%95/"
+      }
+    },
+    {
+      "keyword": "혼외자",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"난 20년 병수발했는데…'배다른 형제' 존재, 유산 절반 가져가나\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6252247"
+      }
+    },
+    {
+      "keyword": "이혜영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이혜영, 폐암 ‘졸업’ 이어 또 경사…“할머니 됐어요” [SD셀픽]",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260808/134441153/1"
+      }
+    },
+    {
+      "keyword": "안젤리나 졸리",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "안젤리나 졸리 오빠, 이혼 후 전처 앞에서 커밍아웃 “남들과 달랐다”[Oh!llywood]",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260807023455839"
+      }
+    },
+    {
+      "keyword": "보그",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "한때 방탄소년단 회의론자였던 사람의 고백",
+        "source": "Vogue korea",
+        "url": "https://www.vogue.co.kr/2026/08/07/%ED%95%9C%EB%95%8C-%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8-%ED%9A%8C%EC%9D%98%EB%A1%A0%EC%9E%90%EC%98%80%EB%8D%98-%EC%82%AC%EB%9E%8C%EC%9D%98-%EA%B3%A0%EB%B0%B1/"
+      }
+    },
+    {
+      "keyword": "해피투게더",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'조규찬♥' 해이, 주립대 영문과 교수였다…\"힘들면 남편이 美까지 와 집안일\" [해투]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260807104637508"
+        "url": "https://v.daum.net/v/20260807083638182"
       }
     },
     {
-      "keyword": "신유빈",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "잔니 인판티노",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[스포츠 영상] 인도 복병 제친 신유빈‥세계랭킹 3위와 8강전",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843249_37004.html"
-      }
-    },
-    {
-      "keyword": "thời tiết",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Thời tiết ngày 8/8: Bắc Bộ có nơi nắng nóng, Trung Bộ và Nam Bộ cảnh báo mưa dông cục bộ",
-        "source": "thuonghieucongluan.com.vn",
-        "url": "https://thuonghieucongluan.com.vn/thoi-tiet-ngay-8-8-bac-bo-co-noi-nang-nong-trung-bo-va-nam-bo-canh-bao-mua-dong-cuc-bo-a329610.html"
-      }
-    },
-    {
-      "keyword": "정해영",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "KIA 정해영·삼성 이승현 등 11명 상무 합격…12월 입대",
+        "title": "\"인판티노, UEFA 사무총장 시절 내연 여직원에 특혜 의혹\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260807056900007"
+        "url": "https://www.yna.co.kr/view/AKR20260808016200009"
       }
     },
     {
-      "keyword": "정청래",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "민주당 전대, 오늘 제주·인천 경선…정청래·김민석 '초접전' 속 2차전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808061933095"
-      }
-    },
-    {
-      "keyword": "교사",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "방콕 외곽 고교서 14세 학생 총기 난사···교직원 5명 포함 7명 사망",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608072100001"
-      }
-    },
-    {
-      "keyword": "활옥동굴",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이동석 충주시장 \"활옥동굴 불법 운영 용납할 수 없어\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yWeVMZ5TY0"
-      }
-    },
-    {
-      "keyword": "이한범",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'제2의 김민재' 이한범, 벨기에 명문팀 브뤼헤 입단",
-        "source": "스포츠한국",
-        "url": "https://sports.hankooki.com/news/articleView.html?idxno=6937447"
-      }
-    },
-    {
-      "keyword": "디지털 자산",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "두나무, 경찰청 '압수 가상자산 커스터디' 최종 낙찰",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260807112500002"
-      }
-    },
-    {
-      "keyword": "펍지",
+      "keyword": "天気",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[개발일지] 새로운 건 플레이의 시작, 메타 로테이션 - 뉴스 - PUBG: 배틀그라운드",
-        "source": "PUBG: BATTLEGROUNDS",
-        "url": "https://pubg.com/ko/news/10874"
+        "title": "２０５０年の天気予報",
+        "source": "47NEWS",
+        "url": "https://www.47news.jp/14760425.html"
+      }
+    },
+    {
+      "keyword": "pltr",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Palantir-linked covered-call ETFs draw attention with annual dividend yields up to 28%",
+        "source": "헤럴드경제",
+        "url": "https://mbiz.heraldcorp.com/article/10833831"
+      }
+    },
+    {
+      "keyword": "광진구",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "40도 육박 폭염…신청사 입주 1년 반 광진구청 직원들 “이렇게 좋을 수가”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260807111251709"
       }
     }
   ]
