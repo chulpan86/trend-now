@@ -1,25 +1,61 @@
 {
-  "timestamp": "2026-08-10T04:24:37.660633+09:00",
-  "label": "04:24",
+  "timestamp": "2026-08-10T05:19:37.953111+09:00",
+  "label": "05:19",
   "items": [
     {
-      "keyword": "피부암",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "선크림, 그렇게 바르면 차단이 아니라 차단 당해요! - 영상 | 멀티미디어",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148969466"
-      }
+      "keyword": "광주광역시",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
     },
     {
       "keyword": "유격수",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'초대형 트레이드' 메인 칩은 결국 '거포 유격수'였나…1년 만에 넘어간 무게중심, '신인왕' 투수 다시 가치 증명할 수 있나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809194650811"
+      }
+    },
+    {
+      "keyword": "계엄",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "대통령기록관, '윤석열 페이지' 추가…12·3 비상계엄담화 제외",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809130950219"
+      }
+    },
+    {
+      "keyword": "독사",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "2타석 기회 주고 다시 벤치…김하성, ‘PS 유력’ 애틀랜타에 자리 있나",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260809/134443022/1"
+        "title": "우아한 독사 사냥꾼…멸종위기 ‘뱀잡이수리’ 영국 동물원서 부화 [잇슈 SNS]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8630990"
+      }
+    },
+    {
+      "keyword": "뱅크 오브 아메리카",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
+        "source": "블록미디어",
+        "url": "https://www.blockmedia.co.kr/archives/1125768"
+      }
+    },
+    {
+      "keyword": "한혜진",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "젠슨 황의 굴욕, 화사 \"누군지 몰랐다\"…샤라웃 후 손편지로 인사 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080912282565465"
       }
     },
     {
@@ -33,13 +69,23 @@
       }
     },
     {
-      "keyword": "liverpool vs monaco",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "쓰레기 봉투",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cj75g1p2dpr7t"
+        "title": "\"너무 부끄럽다…이러니 한국인 욕먹지\" 日 유명 관광지서 발견된 쓰레기 '충격'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809165550690"
+      }
+    },
+    {
+      "keyword": "ai",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
       }
     },
     {
@@ -47,52 +93,6 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": null
-    },
-    {
-      "keyword": "뱅크 오브 아메리카",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
-        "source": "블록미디어",
-        "url": "https://www.blockmedia.co.kr/archives/1125768"
-      }
-    },
-    {
-      "keyword": "한혜진",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"경제에 무지…누군지 몰랐다\" 화사, 젠슨 황에게 직접 편지 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081003053136095"
-      }
-    },
-    {
-      "keyword": "ลิเวอร์พูล พบ มอนาโก",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "ลิเวอร์พูลประสบความพ่ายแพ้อย่างไม่น่าเชื่อที่แอนฟิลด์",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/th/liverpool-that-bai-kho-tin-ngay-tai-anfield"
-      }
-    },
-    {
-      "keyword": "앤 해서웨이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "arsenal",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Guimarães Welcomed by Rice at Arsenal",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/09/TSJDPW4YHZB6FL7LDAJJ7H55YE/"
-      }
     }
   ]
 }
