@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-07T20:37:37.511032+09:00",
-    "label": "20:37",
-    "items": [
-      {
-        "keyword": "교도관",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "조폭 수용자 뇌물받고 불닭 소스 건넨 교도관, 1심 징역 7년",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/08/07/NFZSRQHLNNDMHJ77Q5E7Z3J6Y4/"
-        }
-      },
-      {
-        "keyword": "남궁민",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "남궁민 믿고 본 '결혼의 완성'…시청률 이탈없는 뒷심 [N이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807133640259"
-        }
-      },
-      {
-        "keyword": "조갑경",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'아들 불륜 사과' 홍서범♥조갑경 근황…\"하나 되기로\" 지인과 '활짝' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/07/2026080715213837969"
-        }
-      },
-      {
-        "keyword": "농협은행",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "NH농협은행, 'NH모두트래블리적금' 조기 완판",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026080710003555539"
-        }
-      },
-      {
-        "keyword": "벨기에",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "벨기에 ‘월급 330만원에 1년 군복무’ 인기 폭발…경쟁률 6대 1",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806115249577"
-        }
-      },
-      {
-        "keyword": "미드필더",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "광주FC, 중원 강화 위해 김종석 영입…충남아산·용인서 활약",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806150743929"
-        }
-      },
-      {
-        "keyword": "태풍 돌핀 경로",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "제13호 태풍 ‘돌핀’ 제주도 강풍 몰아친다…휴가철 안전 ‘비상’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807175155180"
-        }
-      },
-      {
-        "keyword": "규제",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이 대통령, 규제합리화위 부위원장에 김태유 교수 위촉·국립외교원장 김흥규 임명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807141712485"
-        }
-      },
-      {
-        "keyword": "이데일리",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[르포]빈 매대 채우며 북적북적···천신만고 끝 “우리 홈플러스 정상영업합니다”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608071542001"
-        }
-      },
-      {
-        "keyword": "강릉시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "강릉시, 100일간 경제살리기 프로젝트…소비 촉진 총력",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807044200062"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-07T21:39:35.505436+09:00",
-    "label": "21:39",
-    "items": [
-      {
-        "keyword": "화성 대 서울e",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[그래도 K리그] 차두리 매직, 선두까지 넘본다...화성-서울E '운명의 빅매치'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807103736035"
-        }
-      },
-      {
-        "keyword": "온도",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“여름엔 이 차 사는 거 다시 생각해야”...차량 내부온도, 85도까지 올랐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807073601942"
-        }
-      },
-      {
-        "keyword": "amd",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "AMD Buys Toronto AI Chip Startup Taalas — Retail Says It’s A Move To ‘Compete More Directly With Nvidia’",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/amd-buys-toronto-ai-chip-232552419.html"
-        }
-      },
-      {
-        "keyword": "충남 아산 fc 대 안산 그리너스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "안산그리너스, ‘공격축구’ 충남아산 원정서 승점 3점 정조준",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1675634/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4-%E2%80%98%EA%B3%B5%EA%B2%A9%EC%B6%95%EA%B5%AC%E2%80%99-%EC%B6%A9%EB%82%A8%EC%95%84%EC%82%B0-%EC%9B%90-2026"
-        }
-      },
-      {
-        "keyword": "오재원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "힘 빠진 한화 타선에 '반깁스' 오재원 언제 오나… \"상체 훈련 중, 시즌 내 복귀 가능\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807120442632"
-        }
-      },
-      {
-        "keyword": "교도소",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"에어컨 설치 중단\" 수용자에 얼음물 지급…37도까지 치솟은 교도소 상황",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260807n09699"
-        }
-      },
-      {
-        "keyword": "전북 현대 모터스 fc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "제주SK \"전주성 함락, 아이아스 너만 믿는다\"",
-          "source": "한라일보",
-          "url": "https://m.ihalla.com/article.php?aid=1786003258789014051"
-        }
-      },
-      {
-        "keyword": "데이브 로버츠",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'오타니와 MVP 경쟁' 크로암스트롱, '발'로 끝내기 승리 견인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807090253886"
-        }
-      },
-      {
-        "keyword": "훈련",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "제13호 태풍 '돌핀' 대비…'배수 펌프장' 8곳 대응 훈련 등[울진소식]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740921"
-        }
-      },
-      {
-        "keyword": "동전주",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "벼랑 끝 몰린 동전주…'상폐 위기' 기업 왜 급증했나",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/visual-news/article/2026080709003887929"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-07T23:04:47.615867+09:00",
     "label": "23:04",
     "items": [
@@ -3551,6 +3339,112 @@
           "title": "\"헉, 완전 동안\"·\"잔나비 최정훈 닮은꼴\" 등장에 솔로녀 '술렁'('나솔사계')",
           "source": "Daum",
           "url": "https://v.daum.net/v/0CGW4Bb0SM"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-09T09:55:50.747377+09:00",
+    "label": "09:55",
+    "items": [
+      {
+        "keyword": "하이브리드 차량",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“10년이면 된다더니 30년” 바뀐 세법에 당황한 사장님…보험사에서 계산기 두드린 이유 [이보소]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0JNbZu71HV"
+        }
+      },
+      {
+        "keyword": "인터 마이애미 대 몬테레이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "8월 9일 오전 7시, 인터 마이애미 대 몬테레이 경기 생중계 링크: 메시 결장.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/link-truc-tiep-inter-miami-vs-monterrey-7h-ngay-9-8-messi-vang-mat"
+        }
+      },
+      {
+        "keyword": "sbs",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Today's SBS News Hunters Preview (August 7)",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008695563"
+        }
+      },
+      {
+        "keyword": "허양임",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'고지용과 이혼' 허양임, 새 출발했다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260808_0003741330"
+        }
+      },
+      {
+        "keyword": "천하람",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "천하람, 현역의원 최초 논산훈련소 입소…행군·각개전투 훈련",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260808/134441333/1"
+        }
+      },
+      {
+        "keyword": "메릴 켈리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "韓에서 성장한 KBO 출신 투수, 드디어 살아났다! 564억 받는 켈리, '슈퍼팀' 다저스 상대 압도적 투구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808224108931"
+        }
+      },
+      {
+        "keyword": "경매",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[경매통임윤곤 칼럼]관악구 아파트 시장 견조한 보합세, 신축 상단 지지와 구축 전세가 방어 뚜렷",
+          "source": "한국AI부동산신문",
+          "url": "https://www.kairnews.com/news/509246"
+        }
+      },
+      {
+        "keyword": "홍현희",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "홍현희, 60kg→49kg 감량하더니…“등근육 장난 아냐” 실물 목격담",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260808/134441319/1"
+        }
+      },
+      {
+        "keyword": "공공기관",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2차 공공기관 이전 초읽기…대전·충남 ‘빈손’ 벗어날까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808083003295"
+        }
+      },
+      {
+        "keyword": "러시아",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“한국서 선적한 정제유 약 3만t 러시아행…이례적 거래”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fywssgaeSl"
         }
       }
     ]

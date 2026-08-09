@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-09T08:18:09.951249+09:00",
-  "label": "08:18",
+  "timestamp": "2026-08-09T09:55:50.747377+09:00",
+  "label": "09:55",
   "items": [
     {
-      "keyword": "일본",
+      "keyword": "하이브리드 차량",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“10년이면 된다더니 30년” 바뀐 세법에 당황한 사장님…보험사에서 계산기 두드린 이유 [이보소]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/0JNbZu71HV"
+      }
+    },
+    {
+      "keyword": "인터 마이애미 대 몬테레이",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "우린 1000만명 갔는데…일본인 '한국' 안 오는 뜻밖의 이유 [도쿄나우]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608070630i"
+        "title": "8월 9일 오전 7시, 인터 마이애미 대 몬테레이 경기 생중계 링크: 메시 결장.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/link-truc-tiep-inter-miami-vs-monterrey-7h-ngay-9-8-messi-vang-mat"
       }
     },
     {
-      "keyword": "한화 이글스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'대반전' 한화 33살 원클럽맨 혼자 남다니…정우주-김서현-김범수-한승혁 아무도 없는데, 김경문 믿음 \"큰 탈 안 나면 계속 간다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808214251370"
-      }
-    },
-    {
-      "keyword": "임영웅",
+      "keyword": "sbs",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'최고의 가수' 꿈꾸던 임영웅, 데뷔 10주년 소감 \"사랑합니다 영웅시대\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808174200817"
+        "title": "Today's SBS News Hunters Preview (August 7)",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008695563"
       }
     },
     {
-      "keyword": "발전",
+      "keyword": "허양임",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "햇빛이 산업이 되고, 에너지가 일자리가 됩니다",
-        "source": "대한민국 청와대",
-        "url": "https://www.president.go.kr/social-media/MKoET9SG"
+        "title": "'고지용과 이혼' 허양임, 새 출발했다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260808_0003741330"
       }
     },
     {
-      "keyword": "정철원",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "트레이드 효과는 1년 뿐인가...지난해 21홀드→올해 3홀드, 폭염 휴식기에 또 1군 말소→시즌 4번째 2군행",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809011047571"
-      }
-    },
-    {
-      "keyword": "psg vs man united",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Confirmed: United squad for PSG",
-        "source": "Manchester United Website",
-        "url": "https://www.manutd.com/en/news/confirmed-united-squad-for-psg-in-gothenburg"
-      }
-    },
-    {
-      "keyword": "블랙 핑크 10 주년",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "’데뷔 10주년’ 블랙핑크, 라이브 방송서 팬들에 감사 인사…이벤트 논란에는 사과",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR2026080907470318G"
-      }
-    },
-    {
-      "keyword": "노동조합",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "3445억 자사주 지급 마쳤는데...삼성전자 DX노조, 뒤늦은 '떼쓰기 집회'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809080006454"
-      }
-    },
-    {
-      "keyword": "에너지",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/US-Energy-Helps-Cushion-Global-Supply-Shock-From-Hormuz.html"
-      }
-    },
-    {
-      "keyword": "나솔",
+      "keyword": "천하람",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"헉, 완전 동안\"·\"잔나비 최정훈 닮은꼴\" 등장에 솔로녀 '술렁'('나솔사계')",
+        "title": "천하람, 현역의원 최초 논산훈련소 입소…행군·각개전투 훈련",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260808/134441333/1"
+      }
+    },
+    {
+      "keyword": "메릴 켈리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "韓에서 성장한 KBO 출신 투수, 드디어 살아났다! 564억 받는 켈리, '슈퍼팀' 다저스 상대 압도적 투구",
         "source": "Daum",
-        "url": "https://v.daum.net/v/0CGW4Bb0SM"
+        "url": "https://v.daum.net/v/20260808224108931"
+      }
+    },
+    {
+      "keyword": "경매",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[경매통임윤곤 칼럼]관악구 아파트 시장 견조한 보합세, 신축 상단 지지와 구축 전세가 방어 뚜렷",
+        "source": "한국AI부동산신문",
+        "url": "https://www.kairnews.com/news/509246"
+      }
+    },
+    {
+      "keyword": "홍현희",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "홍현희, 60kg→49kg 감량하더니…“등근육 장난 아냐” 실물 목격담",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260808/134441319/1"
+      }
+    },
+    {
+      "keyword": "공공기관",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "2차 공공기관 이전 초읽기…대전·충남 ‘빈손’ 벗어날까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808083003295"
+      }
+    },
+    {
+      "keyword": "러시아",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“한국서 선적한 정제유 약 3만t 러시아행…이례적 거래”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/fywssgaeSl"
       }
     }
   ]
