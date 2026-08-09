@@ -1,71 +1,75 @@
 {
-  "timestamp": "2026-08-09T13:16:05.644819+09:00",
-  "label": "13:16",
+  "timestamp": "2026-08-09T14:40:17.057380+09:00",
+  "label": "14:40",
   "items": [
     {
-      "keyword": "톨루카 대 엘에이 fc",
-      "traffic_raw": "50000+",
-      "traffic": 50000,
-      "news": null
-    },
-    {
-      "keyword": "택배기사",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "구렁이",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "우체국 택배기사 '촉' 적중‥정장 남성의 최후",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6843404_36918.html"
+        "title": "\"뱀도 폭염 못 참았나\"… 안동 물놀이장서 헤엄친 1.5m 구렁이",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026080713420003138"
       }
     },
     {
-      "keyword": "리그 컵",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "집행유예",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "배준호, 스토크시티 쐐기골 도움…4부리그 올덤과 컵대회 승리",
+        "title": "엘베 타려던 휠체어 환자 발로 밀어 숨지게 한 간병인 집유, 이유는",
         "source": "Daum",
-        "url": "https://v.daum.net/v/P7r0DpUZ3e"
+        "url": "https://v.daum.net/v/20260808100143307"
       }
     },
     {
-      "keyword": "장교",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[단독]장교·생도 56% \"현 사관학교는 20위권 대학 수준\"…통합 명분 뒷받침",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809050318252"
-      }
-    },
-    {
-      "keyword": "서울특별시",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[게시판] 서울교육청, 목포서 '서울학생 선상 해양평화 캠프'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260807128000530"
-      }
-    },
-    {
-      "keyword": "개혁",
+      "keyword": "상장지수 펀드",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"혼인신고 하면 호구?\"‥22개 불이익 바꾼다",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6843392_37012.html"
+        "title": "“ETF로 퇴직연금·휴가비 다 날렸다”…7월에만 78% 하락·78조 증발",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260808000002"
       }
     },
     {
-      "keyword": "홈런",
+      "keyword": "공매도",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'홈런-홈런-홈런-홈런-홈런-홈런' 423홈런 레전드가 생일을 자축했다…156km 강속구 넘겼다 \"내일도 생일이었으면\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Kofmj51ysY"
+        "title": "하루 만에 30% 급등…공매도 세력 '4조' 증발시킨 이 회사 [허진의 테크토닉]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608070996i"
+      }
+    },
+    {
+      "keyword": "황정민 홈마",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘황정민 스토킹’ 재판, 11일 결심 공판…첫 구형량 촉각",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10834796"
+      }
+    },
+    {
+      "keyword": "오징어 게임",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'오징어 게임' 미국판 결국 못 보나…\"넷플릭스 우선순위 변경\"",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/article/2026080913445437843"
+      }
+    },
+    {
+      "keyword": "toluca vs lafc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"No olvidamos la derrota por 0-4\": Son Heung-min titular contra el Toluca... busca revancha tras la humillante derrota de hace tres meses con la \"orden especial de reactivar la potencia ofensiva\"",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/es/sports/2026/08/09/2026080911041098218"
       }
     },
     {
@@ -79,24 +83,20 @@
       }
     },
     {
-      "keyword": "맥도날드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“햄버거 팔아서 얼마나 남긴다고”...세계 1위 맥도날드가 진짜 돈 버는 법",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/society/12121845"
-      }
-    },
-    {
-      "keyword": "디에고 포를란",
+      "keyword": "교통 사고",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[오피셜] ‘전설적인 공격수’ 임시 사령탑 확정, 오는 9월 韓 찾는다…‘남미 강호’ 우루과이, 내년 3월까지 포를란 감독 체제로",
-        "source": "Goal.com",
-        "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF--%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8%E1%84%89%E1%85%AE-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%89%E1%85%B5-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A7%E1%86%BC%E1%84%90%E1%85%A1%E1%86%B8-%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%BC-%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AB-9%E1%84%8B%E1%85%AF%E1%86%AF-%E9%9F%93-%E1%84%8E%E1%85%A1%E1%86%BD%E1%84%82%E1%85%B3%E1%86%AB%E1%84%83%E1%85%A1--%E1%84%82%E1%85%A1%E1%86%B7%E1%84%86%E1%85%B5-%E1%84%80%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A9-%E1%84%8B%E1%85%AE%E1%84%85%E1%85%AE%E1%84%80%E1%85%AA%E1%84%8B%E1%85%B5-%E1%84%82%E1%85%A2%E1%84%82%E1%85%A7%E1%86%AB-3%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%91%E1%85%A9%E1%84%85%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%E1%84%85%E1%85%A9/blt12543d2648d133ba"
+        "title": "교통사고 수습하다 중상입은 경찰…2년 투병·우울증 끝 숨져",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260808026300004"
       }
+    },
+    {
+      "keyword": "장쯔위",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }
