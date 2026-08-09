@@ -3330,5 +3330,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-09T19:22:02.627778+09:00",
+    "label": "19:22",
+    "items": [
+      {
+        "keyword": "오스틴 딘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "LG의 추락…구단 최초 MVP, 오스틴의 꿈도 사라지나, 강력한 경쟁자 등장하다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809115411973"
+        }
+      },
+      {
+        "keyword": "수건",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "사용한 호텔 수건, 어디에 둬야 하나···침대 위? 바닥? 수건 걸이? 직원이 말하는 정답은",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608091400001"
+        }
+      },
+      {
+        "keyword": "지안",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "배우 지안, 야구선수 출신 엄정욱과 결혼 '깜짝 발표'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026080926087"
+        }
+      },
+      {
+        "keyword": "폭염 경보",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "일단 잦아든 수도권 녹조 현상…재확산 예의주시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809110952243"
+        }
+      },
+      {
+        "keyword": "김지유",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'런닝맨' 김지유, 유재석 옆에 찰싹…야무진 '분량 사수'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809184352875"
+        }
+      },
+      {
+        "keyword": "이더리움",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "11년 잠자던 이더리움 지갑 움직였다…6184배 수익 실현",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1125747"
+        }
+      },
+      {
+        "keyword": "미국 국방부",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美 단거리 전술핵 새전략 파장...‘공포의 균형’ 흔들리나 [이우탁의 인사이트]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809000205370"
+        }
+      },
+      {
+        "keyword": "허가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "올해 끝나는 토허제 실거주 유예 연장될까…세법 후속책도 속도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809102443395"
+        }
+      },
+      {
+        "keyword": "초등교사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[OK제보] 학교민원 매뉴얼 배포 넉달…\"초등교사 10명 중 7명 존재 몰라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809060206590"
+        }
+      },
+      {
+        "keyword": "윤혜진",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘엄태웅♥’ 윤혜진, 14년만에 발레리나 복귀…엄정화 “자랑스러워”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808171709567"
+        }
+      }
+    ]
   }
 ]

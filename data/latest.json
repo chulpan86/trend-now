@@ -1,75 +1,65 @@
 {
-  "timestamp": "2026-08-09T18:28:48.511662+09:00",
-  "label": "18:28",
+  "timestamp": "2026-08-09T19:22:02.627778+09:00",
+  "label": "19:22",
   "items": [
     {
-      "keyword": "폭염 경보",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
-      "news": {
-        "title": "[날씨] 서쪽 폭염·동해안 비바람…내륙 곳곳 소나기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809153353862"
-      }
-    },
-    {
-      "keyword": "볼로디미르 젤 렌스키",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "젤렌스키 “北, 러시아에 최대 5만명 파병 결정…韓, 방공 지원해달라”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20260809/134443273/1"
-      }
-    },
-    {
-      "keyword": "오마이 뉴스",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "껌팔이에서 공무원, 그리고 지금은... '불사조'의 삶 사는 사람",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Pvt11zqFpQ"
-      }
-    },
-    {
-      "keyword": "공동 명의 다주택자",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“수십년 한집 살았는데 투기꾼이냐”…강남 노인들의 분노",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809165707714"
-      }
-    },
-    {
-      "keyword": "옥순이",
+      "keyword": "오스틴 딘",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'나솔' 29기 옥순, 연하남 사로잡던 미모 어디가나…단아함으로 부산 접수 제대로 했다",
+        "title": "LG의 추락…구단 최초 MVP, 오스틴의 꿈도 사라지나, 강력한 경쟁자 등장하다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809110225058"
+        "url": "https://v.daum.net/v/20260809115411973"
       }
     },
     {
-      "keyword": "에코프로비엠",
+      "keyword": "수건",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'1.2조 유증' 에코프로비엠, 금감원에 자진정정…\"BNSI 제련소 내년 3월 완공\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808221007727"
+        "title": "사용한 호텔 수건, 어디에 둬야 하나···침대 위? 바닥? 수건 걸이? 직원이 말하는 정답은",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608091400001"
       }
     },
     {
-      "keyword": "부산 날씨",
+      "keyword": "지안",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[르포]\"조금 추울 수도…\" 폭염 한풀 꺾인 부산, 거리 나선 시민들",
+        "title": "배우 지안, 야구선수 출신 엄정욱과 결혼 '깜짝 발표'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026080926087"
+      }
+    },
+    {
+      "keyword": "폭염 경보",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "일단 잦아든 수도권 녹조 현상…재확산 예의주시",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809150900279"
+        "url": "https://v.daum.net/v/20260809110952243"
+      }
+    },
+    {
+      "keyword": "김지유",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'런닝맨' 김지유, 유재석 옆에 찰싹…야무진 '분량 사수'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809184352875"
+      }
+    },
+    {
+      "keyword": "이더리움",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "11년 잠자던 이더리움 지갑 움직였다…6184배 수익 실현",
+        "source": "블록미디어",
+        "url": "https://www.blockmedia.co.kr/archives/1125747"
       }
     },
     {
@@ -77,9 +67,29 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"미, 이란 전쟁으로 패트리엇 급감‥한국 전력 이전해 대북 태세 우려\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6843398_36925.html"
+        "title": "美 단거리 전술핵 새전략 파장...‘공포의 균형’ 흔들리나 [이우탁의 인사이트]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809000205370"
+      }
+    },
+    {
+      "keyword": "허가",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "올해 끝나는 토허제 실거주 유예 연장될까…세법 후속책도 속도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809102443395"
+      }
+    },
+    {
+      "keyword": "초등교사",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[OK제보] 학교민원 매뉴얼 배포 넉달…\"초등교사 10명 중 7명 존재 몰라\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809060206590"
       }
     },
     {
@@ -89,17 +99,7 @@
       "news": {
         "title": "‘엄태웅♥’ 윤혜진, 14년만에 발레리나 복귀…엄정화 “자랑스러워”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/0t0MuVfzyl"
-      }
-    },
-    {
-      "keyword": "fc 바르셀로나",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "라피냐는 FC 바르셀로나가 캄프 누에서 노팅엄 포레스트를 꺾는 경기에서 득점을 기록했습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/raphinha-lap-cong-fc-barcelona-danh-bai-nottingham-forest-tai-camp-nou"
+        "url": "https://v.daum.net/v/20260808171709567"
       }
     }
   ]
