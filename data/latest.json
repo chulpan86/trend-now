@@ -1,51 +1,41 @@
 {
-  "timestamp": "2026-08-10T00:21:02.458345+09:00",
-  "label": "00:21",
+  "timestamp": "2026-08-10T01:21:58.499675+09:00",
+  "label": "01:21",
   "items": [
     {
+      "keyword": "트로이",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "영웅담 아니었다…놀런이 다시 쓴 고전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810000737280"
+      }
+    },
+    {
       "keyword": "저수지",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "“위성으로 찍어보니 너무 처참했다”…남부 저수지 90% 사라져, 비가 안 오더니 결국",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809201508294"
+        "url": "https://v.daum.net/v/yVILK86bHZ"
       }
     },
     {
-      "keyword": "아스날",
+      "keyword": "피부암",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "뉴캐슬 주장 기마랑이스, 아스널 이적 \"인생의 가장 힘든 결정\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809110852220"
-      }
-    },
-    {
-      "keyword": "리버풀",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "코나테 떠난 안필드에 아라우호가 온다… 리버풀, 바르사와 임대 합의하고 급여 전액 부담",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808210537034"
-      }
-    },
-    {
-      "keyword": "관리종목",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "동전주 상폐 카운트다운…48곳 무더기 관리종목 지정 임박",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809144215470"
+        "title": "선크림, 그렇게 바르면 차단이 아니라 차단 당해요! - 영상 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148969466"
       }
     },
     {
       "keyword": "경기도",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "[사설]‘재정 비상’ 바람 잡더니 ‘반도체 세금’ 내놓으라는 秋",
         "source": "동아일보",
@@ -53,43 +43,53 @@
       }
     },
     {
-      "keyword": "탁재훈",
+      "keyword": "전주시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'5개월 뒤 환갑' 탁재훈, 지팡이 선물 받았다…\"완전 노인 취급하네\" ('미우새')",
+        "title": "전주 송천동 농수산물시장 활어동에서 화재…대응 2단계 발령",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809225851613"
+        "url": "https://v.daum.net/v/20260809235747012"
       }
     },
     {
-      "keyword": "아스날 도르트문트",
+      "keyword": "관리종목",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "아스널 대 도르트문트, 8월 9일 오후 8시: 생중계 링크, 선발 라인업 및 예상 스코어.",
+        "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260809/134445151/2"
+      }
+    },
+    {
+      "keyword": "혼전연애",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
+        "source": "OSEN",
+        "url": "http://www.osen.co.kr/article/G1112854351"
+      }
+    },
+    {
+      "keyword": "ลิเวอร์พูล พบ มอนาโก",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "ถ่ายทอดสด ลิเวอร์พูล พบ โมนาโก: รายชื่อผู้เล่นตัวจริง",
         "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/arsenal-vs-dortmund-20h-9-8-link-truc-tiep-doi-hinh-va-du-doan-ty-so"
+        "url": "https://www.vietnam.vn/th/truc-tieptruc-tiep-liverpool-vs-monaco-doi-hinh-xuat-phat"
       }
     },
     {
-      "keyword": "อาร์เซนอล พบ ดอร์ทมุนท์",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "arsenal",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "LIVE : ดูบอลสด อาร์เซน่อล vs ดอร์ทมุนด์ 9 ส.ค. 69 ฟุตบอลอุ่นเครื่องปรีซีซั่น 2026 พร้อมช่องทางถ่ายทอดสด",
-        "source": "Siamsport",
-        "url": "https://www.siamsport.co.th/football-international/107746/"
-      }
-    },
-    {
-      "keyword": "경인고속도로",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "경인고속도로서 차량 4대 추돌…7세 남아 등 4명 부상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809142250826"
+        "title": "Guimarães Welcomed by Rice at Arsenal",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/08/09/TSJDPW4YHZB6FL7LDAJJ7H55YE/"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"침대에 묶여 있었다\"...교회서 사망한 11세, 아동학대 정황 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/economy/2026/08/08/2026080815195488974"
+        "title": "교회서 지내던 11세 아동 고열·의식 저하 뒤 숨져···경찰 수사",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608072325001"
       }
     }
   ]
