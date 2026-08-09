@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-08T11:49:43.470353+09:00",
-    "label": "11:49",
-    "items": [
-      {
-        "keyword": "삼성 라이온즈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "프로야구 삼성, 우완 미야모리 계약…한 달 사이 외인 3명 영입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GVDYJVfz1T"
-        }
-      },
-      {
-        "keyword": "태장동",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "폭염 속 대구 아파트 1200세대 한밤 정전…“차에서 에어컨 틀고 기다려”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1271978.html"
-        }
-      },
-      {
-        "keyword": "샤이니",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'나혼산' 샤이니 민호 \"류혜영과 대학 동기…불량 학생인 줄 알았다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807233330934"
-        }
-      },
-      {
-        "keyword": "알렉산드라 에알라",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "천성호",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "천성호→송찬의→문정빈 ‘21홈런 합작’…50억 FA 김현수 떠난 자리는 잘 메웠는데, '홍신문문오박' 언제 살아날까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GlD64Uu5Si"
-        }
-      },
-      {
-        "keyword": "대전광역시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "교복 공유부터 'D-패스'까지…대전시, 청소년정책제안대회 개최",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260806000869"
-        }
-      },
-      {
-        "keyword": "보조금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"유가 부담 던다\"…정읍시, 하반기 전기차 270대 추가 보급",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807034000055"
-        }
-      },
-      {
-        "keyword": "테니스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[한국 테니스의 DNA] 최부길, 한국 챔피언은 되지 못했지만, 한국 테니스의 길을 남겼다",
-          "source": "테니스피플",
-          "url": "http://m.tennispeople.kr/news/articleView.html?idxno=19213"
-        }
-      },
-      {
-        "keyword": "경상남도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "경남도, 우주청에 '사천에어쇼 우주항공방위사업전' 참여 건의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807091000052"
-        }
-      },
-      {
-        "keyword": "경마공원",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“경마공원 이전 끝까지 막는다”…뿔난 과천 시민들, 정부에 전면 철회 촉구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807161025419"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-08T13:03:49.176149+09:00",
     "label": "13:03",
     "items": [
@@ -3535,6 +3433,112 @@
           "title": "아스널 대 도르트문트, 8월 9일 오후 8시: 생중계 링크, 선발 라인업 및 예상 스코어.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/arsenal-vs-dortmund-20h-9-8-link-truc-tiep-doi-hinh-va-du-doan-ty-so"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-10T00:21:02.458345+09:00",
+    "label": "00:21",
+    "items": [
+      {
+        "keyword": "저수지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“위성으로 찍어보니 너무 처참했다”…남부 저수지 90% 사라져, 비가 안 오더니 결국",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809201508294"
+        }
+      },
+      {
+        "keyword": "아스날",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "뉴캐슬 주장 기마랑이스, 아스널 이적 \"인생의 가장 힘든 결정\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809110852220"
+        }
+      },
+      {
+        "keyword": "리버풀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "코나테 떠난 안필드에 아라우호가 온다… 리버풀, 바르사와 임대 합의하고 급여 전액 부담",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808210537034"
+        }
+      },
+      {
+        "keyword": "관리종목",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "동전주 상폐 카운트다운…48곳 무더기 관리종목 지정 임박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809144215470"
+        }
+      },
+      {
+        "keyword": "경기도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[사설]‘재정 비상’ 바람 잡더니 ‘반도체 세금’ 내놓으라는 秋",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260809/134445979/2"
+        }
+      },
+      {
+        "keyword": "탁재훈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'5개월 뒤 환갑' 탁재훈, 지팡이 선물 받았다…\"완전 노인 취급하네\" ('미우새')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809225851613"
+        }
+      },
+      {
+        "keyword": "아스날 도르트문트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아스널 대 도르트문트, 8월 9일 오후 8시: 생중계 링크, 선발 라인업 및 예상 스코어.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/arsenal-vs-dortmund-20h-9-8-link-truc-tiep-doi-hinh-va-du-doan-ty-so"
+        }
+      },
+      {
+        "keyword": "อาร์เซนอล พบ ดอร์ทมุนท์",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LIVE : ดูบอลสด อาร์เซน่อล vs ดอร์ทมุนด์ 9 ส.ค. 69 ฟุตบอลอุ่นเครื่องปรีซีซั่น 2026 พร้อมช่องทางถ่ายทอดสด",
+          "source": "Siamsport",
+          "url": "https://www.siamsport.co.th/football-international/107746/"
+        }
+      },
+      {
+        "keyword": "경인고속도로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경인고속도로서 차량 4대 추돌…7세 남아 등 4명 부상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809142250826"
+        }
+      },
+      {
+        "keyword": "교회",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"침대에 묶여 있었다\"...교회서 사망한 11세, 아동학대 정황 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/08/08/2026080815195488974"
         }
       }
     ]
