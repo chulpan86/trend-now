@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-10T03:24:24.087107+09:00",
-  "label": "03:24",
+  "timestamp": "2026-08-10T04:24:37.660633+09:00",
+  "label": "04:24",
   "items": [
     {
       "keyword": "피부암",
@@ -13,19 +13,9 @@
       }
     },
     {
-      "keyword": "관리종목",
+      "keyword": "유격수",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810003211572"
-      }
-    },
-    {
-      "keyword": "유격수",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
         "title": "2타석 기회 주고 다시 벤치…김하성, ‘PS 유력’ 애틀랜타에 자리 있나",
         "source": "동아일보",
@@ -53,13 +43,19 @@
       }
     },
     {
-      "keyword": "전주시",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "다음 뉴스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "뱅크 오브 아메리카",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810015950897"
+        "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
+        "source": "블록미디어",
+        "url": "https://www.blockmedia.co.kr/archives/1125768"
       }
     },
     {
@@ -67,9 +63,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "젠슨황 누군지 몰랐던 화사…손편지로 감사 인사했다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/celebrity/2026/08/09/RHWW34PAEBHVLNIUJWQN43GCFY/"
+        "title": "\"경제에 무지…누군지 몰랐다\" 화사, 젠슨 황에게 직접 편지 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081003053136095"
       }
     },
     {
@@ -93,9 +89,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Tottenham Refuses to Sell Romero to Arch-Rival Arsenal",
+        "title": "Guimarães Welcomed by Rice at Arsenal",
         "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/09/LWBWXM54N5CWFFHARRHYERW5SU/"
+        "url": "https://www.chosun.com/english/sports-en/2026/08/09/TSJDPW4YHZB6FL7LDAJJ7H55YE/"
       }
     }
   ]
