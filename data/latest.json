@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-09T19:22:02.627778+09:00",
-  "label": "19:22",
+  "timestamp": "2026-08-09T20:20:39.555957+09:00",
+  "label": "20:20",
   "items": [
     {
-      "keyword": "오스틴 딘",
+      "keyword": "맨 시티 대 아틀레티코",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "이제는 ATM 7번 이강인…\"120% 발휘하겠다\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260808013800038"
+      }
+    },
+    {
+      "keyword": "상속",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "사남매에 '30억 집 한 채'..99세 노모가 택한 '분쟁 없는 상속' [PB의 머니 레시피]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809152730709"
+      }
+    },
+    {
+      "keyword": "유튜버",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“기대했던 모습 아닌데”…‘갤Z8’ 반대로 접은 유튜버, 당황한 이유는",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/it/12122116"
+      }
+    },
+    {
+      "keyword": "오윤아",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'11년만에 재혼' 오윤아, 한국 떠났다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809144241476"
+      }
+    },
+    {
+      "keyword": "엄정욱",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "LG의 추락…구단 최초 MVP, 오스틴의 꿈도 사라지나, 강력한 경쟁자 등장하다",
+        "title": "배우 지안 깜짝 '결혼' 발표…신랑은 '광속구' 투수 엄정욱",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809115411973"
+        "url": "https://v.daum.net/v/20260809151503429?f=m"
       }
     },
     {
-      "keyword": "수건",
+      "keyword": "물고기",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "사용한 호텔 수건, 어디에 둬야 하나···침대 위? 바닥? 수건 걸이? 직원이 말하는 정답은",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608091400001"
+        "title": "해수부, 경북 포항 강도다리 양식어가 점검",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260808027600013"
       }
     },
     {
-      "keyword": "지안",
+      "keyword": "마이클 버리",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "배우 지안, 야구선수 출신 엄정욱과 결혼 '깜짝 발표'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026080926087"
+        "title": "[김대호 인물] 빅쇼트 마이클 버리... 반도체 공매도 전면전",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608060906371760906806b77b_1"
       }
     },
     {
-      "keyword": "폭염 경보",
+      "keyword": "포헨즈",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "일단 잦아든 수도권 녹조 현상…재확산 예의주시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809110952243"
-      }
+      "news": null
     },
     {
-      "keyword": "김지유",
+      "keyword": "케리아",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'런닝맨' 김지유, 유재석 옆에 찰싹…야무진 '분량 사수'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809184352875"
+        "title": "[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112853784"
       }
     },
     {
-      "keyword": "이더리움",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "11년 잠자던 이더리움 지갑 움직였다…6184배 수익 실현",
-        "source": "블록미디어",
-        "url": "https://www.blockmedia.co.kr/archives/1125747"
-      }
-    },
-    {
-      "keyword": "미국 국방부",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "美 단거리 전술핵 새전략 파장...‘공포의 균형’ 흔들리나 [이우탁의 인사이트]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809000205370"
-      }
-    },
-    {
-      "keyword": "허가",
+      "keyword": "new york times",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "올해 끝나는 토허제 실거주 유예 연장될까…세법 후속책도 속도",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809102443395"
-      }
-    },
-    {
-      "keyword": "초등교사",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[OK제보] 학교민원 매뉴얼 배포 넉달…\"초등교사 10명 중 7명 존재 몰라\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809060206590"
-      }
-    },
-    {
-      "keyword": "윤혜진",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘엄태웅♥’ 윤혜진, 14년만에 발레리나 복귀…엄정화 “자랑스러워”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808171709567"
+        "title": "Trump Crypto Took $100 Million From a Businessman With Red Flags",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html"
       }
     }
   ]
