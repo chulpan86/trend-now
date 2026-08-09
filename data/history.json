@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-08T09:53:14.122791+09:00",
-    "label": "09:53",
-    "items": [
-      {
-        "keyword": "자동차",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "제네시스 청주, 2026 레드닷 디자인 어워드 브랜드 & 커뮤니케이션 디자인 부문 2관왕",
-          "source": "Genesis Newsroom",
-          "url": "https://newsroom.genesis.com/ko-ko/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%EC%B2%AD%EC%A3%BC-%252C-2026-%EB%A0%88%EB%93%9C%EB%8B%B7-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%96%B4%EC%9B%8C%EB%93%9C-%EB%B8%8C%EB%9E%9C%EB%93%9C-%2526-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B6%80%EB%AC%B8-2%EA%B4%80%EC%99%95/"
-        }
-      },
-      {
-        "keyword": "혼외자",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"난 20년 병수발했는데…'배다른 형제' 존재, 유산 절반 가져가나\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6252247"
-        }
-      },
-      {
-        "keyword": "이혜영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이혜영, 폐암 ‘졸업’ 이어 또 경사…“할머니 됐어요” [SD셀픽]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260808/134441153/1"
-        }
-      },
-      {
-        "keyword": "안젤리나 졸리",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "안젤리나 졸리 오빠, 이혼 후 전처 앞에서 커밍아웃 “남들과 달랐다”[Oh!llywood]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260807023455839"
-        }
-      },
-      {
-        "keyword": "보그",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한때 방탄소년단 회의론자였던 사람의 고백",
-          "source": "Vogue korea",
-          "url": "https://www.vogue.co.kr/2026/08/07/%ED%95%9C%EB%95%8C-%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8-%ED%9A%8C%EC%9D%98%EB%A1%A0%EC%9E%90%EC%98%80%EB%8D%98-%EC%82%AC%EB%9E%8C%EC%9D%98-%EA%B3%A0%EB%B0%B1/"
-        }
-      },
-      {
-        "keyword": "해피투게더",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'조규찬♥' 해이, 주립대 영문과 교수였다…\"힘들면 남편이 美까지 와 집안일\" [해투]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807083638182"
-        }
-      },
-      {
-        "keyword": "잔니 인판티노",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"인판티노, UEFA 사무총장 시절 내연 여직원에 특혜 의혹\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808016200009"
-        }
-      },
-      {
-        "keyword": "天気",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "２０５０年の天気予報",
-          "source": "47NEWS",
-          "url": "https://www.47news.jp/14760425.html"
-        }
-      },
-      {
-        "keyword": "pltr",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Palantir-linked covered-call ETFs draw attention with annual dividend yields up to 28%",
-          "source": "헤럴드경제",
-          "url": "https://mbiz.heraldcorp.com/article/10833831"
-        }
-      },
-      {
-        "keyword": "광진구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "40도 육박 폭염…신청사 입주 1년 반 광진구청 직원들 “이렇게 좋을 수가”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807111251709"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-08T11:49:43.470353+09:00",
     "label": "11:49",
     "items": [
@@ -3429,6 +3323,112 @@
           "title": "\"엄마 돌아가신 뒤 이틀 만에…\" 방은희, 고독사 죄책감에 눈물",
           "source": "노컷뉴스",
           "url": "https://www.nocutnews.co.kr/news/6559871"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-09T22:40:55.528675+09:00",
+    "label": "22:40",
+    "items": [
+      {
+        "keyword": "거북",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "등딱지에 주소·이름 빼곡…부산서 발견된 ‘낙서 거북이’ 정체",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809193409592"
+        }
+      },
+      {
+        "keyword": "1박 2일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'1박2일' 이준, 집념의 삼바댄스로 10코인 획득…손실 만회",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809215149858"
+        }
+      },
+      {
+        "keyword": "arsenal vs dortmund",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "How to watch all of our pre-season matches",
+          "source": "Arsenal.com",
+          "url": "https://www.arsenal.com/news/how-to-watch-all-of-our-pre-season-matches-aAYHu8K0fsn7"
+        }
+      },
+      {
+        "keyword": "세메뇨",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "후반에는 나오겠지? '이강인 벤치' 아틀레티코, 전반 43분 도밍게스 선제골 앞세워 맨시티에 1-0 리드[전반 종료]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/09/MQ3TCOBYGY3GIMZTGM2GKOBWGI/"
+        }
+      },
+      {
+        "keyword": "노라노",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "99세 노라노, 윤복희 결혼식 웨딩드레스 제작자였다…극찬 세례",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260809n04959"
+        }
+      },
+      {
+        "keyword": "왕옌청",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"한화는 가을야구 바라 보고 있다\"…노시환의 짧고 굵은 각오, 푹 쉬고 5위 도약 겨냥",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808131010226"
+        }
+      },
+      {
+        "keyword": "신용점수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "온라인쇼핑 이력도 신용 반영 … 당국 '신용성장스코어' 도입",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1138181"
+        }
+      },
+      {
+        "keyword": "돈나룸마",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[사진]맨시티 돈나룸마, 즐거운 오픈 트레이닝 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/08/202608081957777465O"
+        }
+      },
+      {
+        "keyword": "손서연",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘리틀 김연경’ 손서연 23점 폭발, 배구 강호 이탈리아 잡았다!",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qn5vgkEoyB"
+        }
+      },
+      {
+        "keyword": "man city đấu với atlético madrid",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Lập tức ra sân trong trận ra mắt Atletico Madrid của Lee Kang-in! ATEEZ San thực hiện nghi lễ chào sân · RESCENE diễn halftime được xác nhận",
+          "source": "씨네플레이",
+          "url": "https://www.cineplay.co.kr/vi-vn/articles/29135"
         }
       }
     ]
