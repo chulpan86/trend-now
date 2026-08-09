@@ -1,41 +1,91 @@
 {
-  "timestamp": "2026-08-09T22:40:55.528675+09:00",
-  "label": "22:40",
+  "timestamp": "2026-08-09T23:24:13.327746+09:00",
+  "label": "23:24",
   "items": [
     {
-      "keyword": "거북",
+      "keyword": "리버풀 대 as 모나코",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "Liverpool vs Monaco: Club Friendlies stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cj75g1p2dpr7t"
+      }
+    },
+    {
+      "keyword": "조희대",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "등딱지에 주소·이름 빼곡…부산서 발견된 ‘낙서 거북이’ 정체",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809193409592"
+        "title": "[사설] 대법관 제청 미루던 조희대 대법원장, 거래하자는 건가",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/opinion/editorial/1272088.html"
       }
     },
     {
-      "keyword": "1박 2일",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'1박2일' 이준, 집념의 삼바댄스로 10코인 획득…손실 만회",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809215149858"
-      }
-    },
-    {
-      "keyword": "arsenal vs dortmund",
+      "keyword": "아스날",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "How to watch all of our pre-season matches",
-        "source": "Arsenal.com",
-        "url": "https://www.arsenal.com/news/how-to-watch-all-of-our-pre-season-matches-aAYHu8K0fsn7"
+        "title": "뉴캐슬 주장 기마랑이스, 아스널 이적 \"인생의 가장 힘든 결정\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809110852220"
       }
     },
     {
-      "keyword": "세메뇨",
+      "keyword": "리버풀",
       "traffic_raw": "500+",
       "traffic": 500,
+      "news": {
+        "title": "코나테 떠난 안필드에 아라우호가 온다… 리버풀, 바르사와 임대 합의하고 급여 전액 부담",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808210537034"
+      }
+    },
+    {
+      "keyword": "lg전자",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "LG전자, 미국 MLB 다저스 홈구장에 235ｍ LED 띠전광판 설치",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809071654183"
+      }
+    },
+    {
+      "keyword": "อาร์เซนอล พบ ดอร์ทมุนท์",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "LIVE : ดูบอลสด อาร์เซน่อล vs ดอร์ทมุนด์ 9 ส.ค. 69 ฟุตบอลอุ่นเครื่องปรีซีซั่น 2026 พร้อมช่องทางถ่ายทอดสด",
+        "source": "Siamsport",
+        "url": "https://www.siamsport.co.th/football-international/107746/"
+      }
+    },
+    {
+      "keyword": "경인고속도로",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "경인고속도로서 차량 4대 추돌…7세 남아 등 4명 부상",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809142250826"
+      }
+    },
+    {
+      "keyword": "arsenal đấu với dortmund",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Trực tiếp bóng đá Arsenal - Dortmund: Gyokeres lĩnh xướng hàng công (Emirates Cup)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-arsenal-dortmund-phao-thu-san-cup-thu-10-emirates-cup-c48a1784924.html"
+      }
+    },
+    {
+      "keyword": "시메오네",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "후반에는 나오겠지? '이강인 벤치' 아틀레티코, 전반 43분 도밍게스 선제골 앞세워 맨시티에 1-0 리드[전반 종료]",
         "source": "조선일보",
@@ -43,63 +93,13 @@
       }
     },
     {
-      "keyword": "노라노",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "99세 노라노, 윤복희 결혼식 웨딩드레스 제작자였다…극찬 세례",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260809n04959"
-      }
-    },
-    {
-      "keyword": "왕옌청",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"한화는 가을야구 바라 보고 있다\"…노시환의 짧고 굵은 각오, 푹 쉬고 5위 도약 겨냥",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808131010226"
-      }
-    },
-    {
-      "keyword": "신용점수",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "온라인쇼핑 이력도 신용 반영 … 당국 '신용성장스코어' 도입",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1138181"
-      }
-    },
-    {
-      "keyword": "돈나룸마",
+      "keyword": "아스날 도르트문트",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[사진]맨시티 돈나룸마, 즐거운 오픈 트레이닝 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/08/202608081957777465O"
-      }
-    },
-    {
-      "keyword": "손서연",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘리틀 김연경’ 손서연 23점 폭발, 배구 강호 이탈리아 잡았다!",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qn5vgkEoyB"
-      }
-    },
-    {
-      "keyword": "man city đấu với atlético madrid",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Lập tức ra sân trong trận ra mắt Atletico Madrid của Lee Kang-in! ATEEZ San thực hiện nghi lễ chào sân · RESCENE diễn halftime được xác nhận",
-        "source": "씨네플레이",
-        "url": "https://www.cineplay.co.kr/vi-vn/articles/29135"
+        "title": "아스널 대 도르트문트, 8월 9일 오후 8시: 생중계 링크, 선발 라인업 및 예상 스코어.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/arsenal-vs-dortmund-20h-9-8-link-truc-tiep-doi-hinh-va-du-doan-ty-so"
       }
     }
   ]
