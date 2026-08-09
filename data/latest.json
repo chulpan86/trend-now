@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-09T11:57:56.334445+09:00",
-  "label": "11:57",
+  "timestamp": "2026-08-09T13:16:05.644819+09:00",
+  "label": "13:16",
   "items": [
     {
-      "keyword": "유재석",
+      "keyword": "톨루카 대 엘에이 fc",
+      "traffic_raw": "50000+",
+      "traffic": 50000,
+      "news": null
+    },
+    {
+      "keyword": "택배기사",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "'놀뭐' 유재석, 하하·허경환 옆에 서니 모델? \"파크골프웨어 구매 문의 폭주\"",
+        "title": "우체국 택배기사 '촉' 적중‥정장 남성의 최후",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6843404_36918.html"
+      }
+    },
+    {
+      "keyword": "리그 컵",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "배준호, 스토크시티 쐐기골 도움…4부리그 올덤과 컵대회 승리",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809090840242"
+        "url": "https://v.daum.net/v/P7r0DpUZ3e"
       }
     },
     {
-      "keyword": "인터 마이애미 대 몬테레이",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "'득점 후 메시에게 위로 건넸다'…유니폼 2겹 입고 뛴 '호위무사' 데 파울, 선제골 작렬 후 세리머니→ 팀은 1-2 역전패",
-        "source": "네이트",
-        "url": "https://m.news.nate.com/view/20260809n04882"
-      }
-    },
-    {
-      "keyword": "홍석천",
+      "keyword": "장교",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "홍석천 \"6개월마다 성병 검사, 그래야 맘 편히 성생활\"…질병청 과장과 깜짝 만남",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6253248"
-      }
-    },
-    {
-      "keyword": "심현섭",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "심현섭, ♥11살 연하 정영림과 2세 준비 울상 \"하루에 8번 하다 기절\" (동치미)",
+        "title": "[단독]장교·생도 56% \"현 사관학교는 20위권 대학 수준\"…통합 명분 뒷받침",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809063116814"
+        "url": "https://v.daum.net/v/20260809050318252"
       }
     },
     {
-      "keyword": "김기동",
+      "keyword": "서울특별시",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'2연속 무득점' 1위 FC서울, '4경기 무패' 김천 상무와 0-0 무승부",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/08/08/GQ2GCOJQMQYTIZRVMQZWENDBHE/"
+        "title": "[게시판] 서울교육청, 목포서 '서울학생 선상 해양평화 캠프'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260807128000530"
       }
     },
     {
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"아스널 보내줘→절대 안 팔아→2군으로 가\" 부끄러운 손흥민 '주장 완장', 영혼 없는 행보 '대충격'…로메로, 토트넘 떠난다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/08/09/GBTGMODGHE4TAMBVHA4DAOJVG4/"
-      }
-    },
-    {
-      "keyword": "수원 fc",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "K리그2 수원FC, 파주 꺾고 3위 점프…프리조 시즌 11호 골",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808225440986"
-      }
-    },
-    {
-      "keyword": "그렉 아벨",
+      "keyword": "개혁",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "버핏이 쌓은 500조원 ‘현금 성벽’ 허문 아벨… 버크셔, 3년 만에 주식 순매수",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/int_economy/2026/08/09/QL7TC4JCANHITEIUBZV6FYZZGM/"
+        "title": "\"혼인신고 하면 호구?\"‥22개 불이익 바꾼다",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6843392_37012.html"
       }
     },
     {
-      "keyword": "inter miami vs monterrey",
+      "keyword": "홈런",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Lionel Messi misses Inter Miami game after father's death",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/49563774/lionel-messi-inter-miami-game-father-death-tribute"
+        "title": "'홈런-홈런-홈런-홈런-홈런-홈런' 423홈런 레전드가 생일을 자축했다…156km 강속구 넘겼다 \"내일도 생일이었으면\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Kofmj51ysY"
       }
     },
     {
-      "keyword": "천하람",
+      "keyword": "inter miami vs c.f. monterrey standings",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "WATCH: Brais Méndez scores ANOTHER golazo in red-hot start",
+        "source": "MLSsoccer.com",
+        "url": "https://www.mlssoccer.com/video/goal-b-mendez-vs-pac-19"
+      }
+    },
+    {
+      "keyword": "맥도날드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“햄버거 팔아서 얼마나 남긴다고”...세계 1위 맥도날드가 진짜 돈 버는 법",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/society/12121845"
+      }
+    },
+    {
+      "keyword": "디에고 포를란",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "천하람, 현역의원 최초 논산훈련소 입소…행군·각개전투 훈련",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260808/134441333/1"
+        "title": "[오피셜] ‘전설적인 공격수’ 임시 사령탑 확정, 오는 9월 韓 찾는다…‘남미 강호’ 우루과이, 내년 3월까지 포를란 감독 체제로",
+        "source": "Goal.com",
+        "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF--%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8%E1%84%89%E1%85%AE-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%89%E1%85%B5-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A7%E1%86%BC%E1%84%90%E1%85%A1%E1%86%B8-%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%BC-%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AB-9%E1%84%8B%E1%85%AF%E1%86%AF-%E9%9F%93-%E1%84%8E%E1%85%A1%E1%86%BD%E1%84%82%E1%85%B3%E1%86%AB%E1%84%83%E1%85%A1--%E1%84%82%E1%85%A1%E1%86%B7%E1%84%86%E1%85%B5-%E1%84%80%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A9-%E1%84%8B%E1%85%AE%E1%84%85%E1%85%AE%E1%84%80%E1%85%AA%E1%84%8B%E1%85%B5-%E1%84%82%E1%85%A2%E1%84%82%E1%85%A7%E1%86%AB-3%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%91%E1%85%A9%E1%84%85%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%E1%84%85%E1%85%A9/blt12543d2648d133ba"
       }
     }
   ]
