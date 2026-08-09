@@ -3546,5 +3546,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-10T02:21:25.413457+09:00",
+    "label": "02:21",
+    "items": [
+      {
+        "keyword": "피부암",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "선크림, 그렇게 바르면 차단이 아니라 차단 당해요! - 영상 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148969466"
+        }
+      },
+      {
+        "keyword": "관리종목",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이르면 10월 동전주 첫 퇴출… 39곳 ‘관리종목 우려’ 대상에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810003211572"
+        }
+      },
+      {
+        "keyword": "트로이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "영웅담 아니었다…놀런이 다시 쓴 고전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810000737280"
+        }
+      },
+      {
+        "keyword": "혼전연애",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112854351"
+        }
+      },
+      {
+        "keyword": "liverpool vs monaco",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cj75g1p2dpr7t"
+        }
+      },
+      {
+        "keyword": "전주시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "전주시의회, AI·영화영상산업 활성화에 머리 맞댄다",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260809102552399"
+        }
+      },
+      {
+        "keyword": "ลิเวอร์พูล พบ มอนาโก",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "ถ่ายทอดสด ลิเวอร์พูล พบ โมนาโก: รายชื่อผู้เล่นตัวจริง",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/truc-tieptruc-tiep-liverpool-vs-monaco-doi-hinh-xuat-phat"
+        }
+      },
+      {
+        "keyword": "앤 해서웨이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "arsenal",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Club Friendlies: Liverpool and Arsenal beaten as Man City win and Chelsea draw",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6n9n81zpzg8t"
+        }
+      },
+      {
+        "keyword": "교회",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"침대에 묶여 있었다\"...교회서 사망한 11세, 아동학대 정황 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/08/08/2026080815195488974"
+        }
+      }
+    ]
   }
 ]
