@@ -1,47 +1,21 @@
 {
-  "timestamp": "2026-08-10T05:19:37.953111+09:00",
-  "label": "05:19",
+  "timestamp": "2026-08-10T06:21:21.677242+09:00",
+  "label": "06:21",
   "items": [
     {
-      "keyword": "광주광역시",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "유격수",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'초대형 트레이드' 메인 칩은 결국 '거포 유격수'였나…1년 만에 넘어간 무게중심, '신인왕' 투수 다시 가치 증명할 수 있나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809194650811"
-      }
-    },
-    {
       "keyword": "계엄",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "대통령기록관, '윤석열 페이지' 추가…12·3 비상계엄담화 제외",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809130950219"
-      }
-    },
-    {
-      "keyword": "독사",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "우아한 독사 사냥꾼…멸종위기 ‘뱀잡이수리’ 영국 동물원서 부화 [잇슈 SNS]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8630990"
+        "title": "대통령기록관, ’윤석열 페이지’ 추가…계엄선포문 제외",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260810053658lYL"
       }
     },
     {
       "keyword": "뱅크 오브 아메리카",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
         "source": "블록미디어",
@@ -49,29 +23,25 @@
       }
     },
     {
-      "keyword": "한혜진",
+      "keyword": "이재룡",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "젠슨 황의 굴욕, 화사 \"누군지 몰랐다\"…샤라웃 후 손편지로 인사 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080912282565465"
+        "title": "“소주 4잔” 자백한 이재룡 무혐의…“자네 부인 잘 끝날거야” 강남서 경찰 구속 [금주의 사건사고]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809221311114"
       }
     },
     {
-      "keyword": "혼전연애",
+      "keyword": "광주광역시",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112854351"
-      }
+      "news": null
     },
     {
       "keyword": "쓰레기 봉투",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "\"너무 부끄럽다…이러니 한국인 욕먹지\" 日 유명 관광지서 발견된 쓰레기 '충격'",
         "source": "Daum",
@@ -79,20 +49,50 @@
       }
     },
     {
+      "keyword": "다음 뉴스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "홍콩",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"168명 사망 홍콩 아파트 화재원인은 담뱃불\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810054053013"
+      }
+    },
+    {
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "꽝하이 선수가 베트남 국가대표팀에서 제 기량을 잃지 않도록 해야 합니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/dung-de-quang-hai-lac-nhip-o-doi-tuyen-viet-nam"
+      }
+    },
+    {
+      "keyword": "나마디 조엘 진",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "육상 나마디 조엘진, 100ｍ 비공인 10초07…한국 기록 보인다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809211659346"
+      }
+    },
+    {
       "keyword": "ai",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
+        "title": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661"
       }
-    },
-    {
-      "keyword": "다음 뉴스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }

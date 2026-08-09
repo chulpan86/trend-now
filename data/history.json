@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-08T17:27:39.085086+09:00",
-    "label": "17:27",
-    "items": [
-      {
-        "keyword": "열대야",
-        "traffic_raw": "500000+",
-        "traffic": 500000,
-        "news": {
-          "title": "강릉 시간당 60mm 폭우‥영동 곳곳 호우특보",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6843299_36918.html"
-        }
-      },
-      {
-        "keyword": "조중연",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이임생이 밝힌 홍명보 선임 내막…\"정몽규, TD판단 믿는다고 해\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807140751004"
-        }
-      },
-      {
-        "keyword": "정준하",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "유재석, 정준하 희롱에 \"모멸감 느껴…변호사 부를 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260808_0003741321"
-        }
-      },
-      {
-        "keyword": "보행자",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독]“경적 항의해 홧김에 돌진”…‘살인미수’ 구속",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000543823.do"
-        }
-      },
-      {
-        "keyword": "키",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "샤이니 키, 하차한 '나혼산' 그리운가...1일 1브이로그 폭주",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807201148670"
-        }
-      },
-      {
-        "keyword": "t1",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "그래미 어워드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "BTS '더 시티 뉴욕', 타임스스퀘어 등 랜드마크 빛냈다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807049800005"
-        }
-      },
-      {
-        "keyword": "신구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "아내 발인 당일에도 무대에…신구가 전한 연극의 의미",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6557459"
-        }
-      },
-      {
-        "keyword": "청주날씨",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[오늘의 날씨] 충북 청주시 흥덕구 지역 날씨 및 주간 전망",
-          "source": "뉴스인사이드",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=4903747"
-        }
-      },
-      {
-        "keyword": "빅터 레이예스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "베네수엘라 언론, 레이예스에 자부심 \"폭염에도 불망망이, 카스트로 역시 매 경기 발전→페라자도...\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808003251423?f=p"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-08T18:27:22.331576+09:00",
     "label": "18:27",
     "items": [
@@ -3638,6 +3536,104 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-10T06:21:21.677242+09:00",
+    "label": "06:21",
+    "items": [
+      {
+        "keyword": "계엄",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "대통령기록관, ’윤석열 페이지’ 추가…계엄선포문 제외",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260810053658lYL"
+        }
+      },
+      {
+        "keyword": "뱅크 오브 아메리카",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1125768"
+        }
+      },
+      {
+        "keyword": "이재룡",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“소주 4잔” 자백한 이재룡 무혐의…“자네 부인 잘 끝날거야” 강남서 경찰 구속 [금주의 사건사고]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809221311114"
+        }
+      },
+      {
+        "keyword": "광주광역시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "쓰레기 봉투",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"너무 부끄럽다…이러니 한국인 욕먹지\" 日 유명 관광지서 발견된 쓰레기 '충격'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809165550690"
+        }
+      },
+      {
+        "keyword": "다음 뉴스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "홍콩",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"168명 사망 홍콩 아파트 화재원인은 담뱃불\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810054053013"
+        }
+      },
+      {
+        "keyword": "베트남 축구 국가대표팀",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "꽝하이 선수가 베트남 국가대표팀에서 제 기량을 잃지 않도록 해야 합니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/dung-de-quang-hai-lac-nhip-o-doi-tuyen-viet-nam"
+        }
+      },
+      {
+        "keyword": "나마디 조엘 진",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "육상 나마디 조엘진, 100ｍ 비공인 10초07…한국 기록 보인다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809211659346"
+        }
+      },
+      {
+        "keyword": "ai",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661"
+        }
       }
     ]
   }
