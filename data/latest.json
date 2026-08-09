@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-08-10T07:19:02.955525+09:00",
-  "label": "07:19",
+  "timestamp": "2026-08-10T08:20:14.986236+09:00",
+  "label": "08:20",
   "items": [
     {
-      "keyword": "여행",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "시청률",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "전남광주, 섬 여행비 절반 지역화폐로 환급",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20077332"
+        "title": "'시청률1%'대에 결국 폐지…\"누가 결정한 거냐\" 최우수산 종영에 폭주",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260810n02735"
       }
     },
     {
-      "keyword": "반도체",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "“코스피 9000? 올해엔 다시 못 볼듯”…전문가가 추천한 하반기 투자전략",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810054800077"
-      }
-    },
-    {
-      "keyword": "손주",
+      "keyword": "현대 아반떼",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'폐암 졸업' 이혜영, 건강 되찾고 물오른 미모…굴욕 없는 초근접 셀카",
+        "title": "3000만원대 중반까지 가는 아반떼…쏘나타·K5와 ‘모호해진 경계’[이자Car야]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809202009373?f=p"
+        "url": "https://v.daum.net/v/20260810060128268"
       }
     },
     {
-      "keyword": "박서진",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "32살 박서진, 모태솔로 탈출각…미녀 개그우먼과 핑크빛 기류 '시청률도 껑충' [美친 시청률]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/z2NagChDvf"
-      }
-    },
-    {
-      "keyword": "집",
+      "keyword": "운세",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "세입자 있는 주택 사면 ‘실거주 유예’ 연장 추진",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20260810/134446417/2"
+        "title": "[오늘의 운세] 2026년 08월 10일 띠별 운세",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0121_202608100000000001"
       }
     },
     {
       "keyword": "성심당",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“성심당만 있는 게 아니다”…새롭게 뜨는 ‘빵지순례’ 도시 5곳은",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12122293"
+      }
+    },
+    {
+      "keyword": "경기북부",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“성심당만 있는 게 아니다”…새롭게 뜨는 ‘빵지순례’ 도시 5곳은",
+        "title": "\"공공기관 이전 파급효과 제한적…혁신도시 거점화 전략 필요\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/UYBuRsOcve"
+        "url": "https://v.daum.net/v/20260809111500314"
       }
     },
     {
-      "keyword": "허양임",
+      "keyword": "오지헌",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'고지용과 이혼' 허양임, 새 출발했다",
+        "title": "오지헌 \"어릴 때 100평에 수영장 있는 집…안 행복했다\"",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260808_0003741330"
+        "url": "https://www.newsis.com/view/NISX20260809_0003741943"
       }
     },
     {
-      "keyword": "권상우",
+      "keyword": "사관학교",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "권상우 \"내 또래 중 내가 제일 빠른데 아들은 못 이겨\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260809_0003741874"
+        "title": "[기고]“국군사관학교, 국민혈세 낭비 하책 중 하책”…사관학교 통합, 정치 논리 아닌 국방 논리로 풀어야",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11608251"
       }
     },
     {
-      "keyword": "이탁수",
+      "keyword": "디지털 자산",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "배우 데뷔하더니...‘이종혁 장남’ 이탁수, 몰라보게 폭풍 성장",
+        "title": "거래대금 ‘반토막’에 업비트·빗썸 상장 봇물…‘수수료 방어전’ 총력",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809175112911?f=p"
+        "url": "https://v.daum.net/v/20260809182843605"
       }
     },
     {
-      "keyword": "jtbc",
+      "keyword": "개발제한구역",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"100가구도 다 찾아라\"…공급 대책으로 국유지 틈새 부지 발굴",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608103159i"
+      }
+    },
+    {
+      "keyword": "이혼 소송",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "최태원, 노소영에 1조 지급?‥이르면 다음주 확정",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6843431_36967.html"
+      }
     }
   ]
 }
