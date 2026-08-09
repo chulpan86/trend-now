@@ -1,98 +1,102 @@
 {
-  "timestamp": "2026-08-10T06:21:21.677242+09:00",
-  "label": "06:21",
+  "timestamp": "2026-08-10T07:19:02.955525+09:00",
+  "label": "07:19",
   "items": [
     {
-      "keyword": "계엄",
+      "keyword": "여행",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "전남광주, 섬 여행비 절반 지역화폐로 환급",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20077332"
+      }
+    },
+    {
+      "keyword": "반도체",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“코스피 9000? 올해엔 다시 못 볼듯”…전문가가 추천한 하반기 투자전략",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810054800077"
+      }
+    },
+    {
+      "keyword": "손주",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "대통령기록관, ’윤석열 페이지’ 추가…계엄선포문 제외",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260810053658lYL"
+        "title": "'폐암 졸업' 이혜영, 건강 되찾고 물오른 미모…굴욕 없는 초근접 셀카",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809202009373?f=p"
       }
     },
     {
-      "keyword": "뱅크 오브 아메리카",
+      "keyword": "박서진",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "32살 박서진, 모태솔로 탈출각…미녀 개그우먼과 핑크빛 기류 '시청률도 껑충' [美친 시청률]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/z2NagChDvf"
+      }
+    },
+    {
+      "keyword": "집",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "세입자 있는 주택 사면 ‘실거주 유예’ 연장 추진",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260810/134446417/2"
+      }
+    },
+    {
+      "keyword": "성심당",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
-        "source": "블록미디어",
-        "url": "https://www.blockmedia.co.kr/archives/1125768"
+        "title": "“성심당만 있는 게 아니다”…새롭게 뜨는 ‘빵지순례’ 도시 5곳은",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/UYBuRsOcve"
       }
     },
     {
-      "keyword": "이재룡",
+      "keyword": "허양임",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“소주 4잔” 자백한 이재룡 무혐의…“자네 부인 잘 끝날거야” 강남서 경찰 구속 [금주의 사건사고]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809221311114"
+        "title": "'고지용과 이혼' 허양임, 새 출발했다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260808_0003741330"
       }
     },
     {
-      "keyword": "광주광역시",
+      "keyword": "권상우",
       "traffic_raw": "200+",
       "traffic": 200,
+      "news": {
+        "title": "권상우 \"내 또래 중 내가 제일 빠른데 아들은 못 이겨\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260809_0003741874"
+      }
+    },
+    {
+      "keyword": "이탁수",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "배우 데뷔하더니...‘이종혁 장남’ 이탁수, 몰라보게 폭풍 성장",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809175112911?f=p"
+      }
+    },
+    {
+      "keyword": "jtbc",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": null
-    },
-    {
-      "keyword": "쓰레기 봉투",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"너무 부끄럽다…이러니 한국인 욕먹지\" 日 유명 관광지서 발견된 쓰레기 '충격'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809165550690"
-      }
-    },
-    {
-      "keyword": "다음 뉴스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "홍콩",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"168명 사망 홍콩 아파트 화재원인은 담뱃불\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810054053013"
-      }
-    },
-    {
-      "keyword": "베트남 축구 국가대표팀",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "꽝하이 선수가 베트남 국가대표팀에서 제 기량을 잃지 않도록 해야 합니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/dung-de-quang-hai-lac-nhip-o-doi-tuyen-viet-nam"
-      }
-    },
-    {
-      "keyword": "나마디 조엘 진",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "육상 나마디 조엘진, 100ｍ 비공인 10초07…한국 기록 보인다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809211659346"
-      }
-    },
-    {
-      "keyword": "ai",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661"
-      }
     }
   ]
 }
