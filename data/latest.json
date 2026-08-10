@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-11T00:50:30.088458+09:00",
-  "label": "00:50",
+  "timestamp": "2026-08-11T01:42:28.052017+09:00",
+  "label": "01:42",
   "items": [
     {
-      "keyword": "트럭",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "레임덕",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "'국민 트럭' 마저 안 팔린다…'38년 만에 최악' 무슨 일이",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026081051041"
+        "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2j7yJICEaU"
       }
     },
     {
@@ -20,16 +20,6 @@
         "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260810039000008"
-      }
-    },
-    {
-      "keyword": "교도소",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독] 간병도, 진료비도 무료… ‘요양원’이 된 감옥 [탐사기획-노인과 교도소]",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260810518720"
       }
     },
     {
@@ -47,9 +37,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "기록적 폭염에 가축도 비명…두달 새 재해보험 접수 2100건 넘어",
+        "title": "닭·돼지 폐사 속출…가축 폭염피해 보험접수 이미 2천건 훌쩍",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260808049000002"
+      }
+    },
+    {
+      "keyword": "아이맥스 영화관",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'오디세이' 아이맥스 전석 매진‥영화 '경험'하러 극장간다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/052MVF3GTm"
+        "url": "https://v.daum.net/v/20260810205405548"
       }
     },
     {
@@ -77,9 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성공 미쳤다",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260810n22071"
+        "title": "피겨 선수 이모저모",
+        "source": "ZUM 뉴스",
+        "url": "https://m.news.zum.com/photo/57980086/107113555?cm=news_photolist&r=3&thumb=1"
       }
     },
     {
@@ -93,13 +93,13 @@
       }
     },
     {
-      "keyword": "조원태",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "콜롬비아",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "조원태와 불과 0.42%p 차이…한진칼 파고드는 호반 2세들",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810103503270"
+        "title": "콜롬비아 규모 7.4 강진...최소한 18명 사망",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608110024421092"
       }
     }
   ]

@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-09T13:16:05.644819+09:00",
-    "label": "13:16",
-    "items": [
-      {
-        "keyword": "톨루카 대 엘에이 fc",
-        "traffic_raw": "50000+",
-        "traffic": 50000,
-        "news": null
-      },
-      {
-        "keyword": "택배기사",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "우체국 택배기사 '촉' 적중‥정장 남성의 최후",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6843404_36918.html"
-        }
-      },
-      {
-        "keyword": "리그 컵",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "배준호, 스토크시티 쐐기골 도움…4부리그 올덤과 컵대회 승리",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/P7r0DpUZ3e"
-        }
-      },
-      {
-        "keyword": "장교",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독]장교·생도 56% \"현 사관학교는 20위권 대학 수준\"…통합 명분 뒷받침",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809050318252"
-        }
-      },
-      {
-        "keyword": "서울특별시",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[게시판] 서울교육청, 목포서 '서울학생 선상 해양평화 캠프'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807128000530"
-        }
-      },
-      {
-        "keyword": "개혁",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"혼인신고 하면 호구?\"‥22개 불이익 바꾼다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6843392_37012.html"
-        }
-      },
-      {
-        "keyword": "홈런",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'홈런-홈런-홈런-홈런-홈런-홈런' 423홈런 레전드가 생일을 자축했다…156km 강속구 넘겼다 \"내일도 생일이었으면\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Kofmj51ysY"
-        }
-      },
-      {
-        "keyword": "inter miami vs c.f. monterrey standings",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "WATCH: Brais Méndez scores ANOTHER golazo in red-hot start",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/video/goal-b-mendez-vs-pac-19"
-        }
-      },
-      {
-        "keyword": "맥도날드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“햄버거 팔아서 얼마나 남긴다고”...세계 1위 맥도날드가 진짜 돈 버는 법",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12121845"
-        }
-      },
-      {
-        "keyword": "디에고 포를란",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[오피셜] ‘전설적인 공격수’ 임시 사령탑 확정, 오는 9월 韓 찾는다…‘남미 강호’ 우루과이, 내년 3월까지 포를란 감독 체제로",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF--%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8%E1%84%89%E1%85%AE-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%89%E1%85%B5-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A7%E1%86%BC%E1%84%90%E1%85%A1%E1%86%B8-%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%BC-%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AB-9%E1%84%8B%E1%85%AF%E1%86%AF-%E9%9F%93-%E1%84%8E%E1%85%A1%E1%86%BD%E1%84%82%E1%85%B3%E1%86%AB%E1%84%83%E1%85%A1--%E1%84%82%E1%85%A1%E1%86%B7%E1%84%86%E1%85%B5-%E1%84%80%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A9-%E1%84%8B%E1%85%AE%E1%84%85%E1%85%AE%E1%84%80%E1%85%AA%E1%84%8B%E1%85%B5-%E1%84%82%E1%85%A2%E1%84%82%E1%85%A7%E1%86%AB-3%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%91%E1%85%A9%E1%84%85%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%E1%84%85%E1%85%A9/blt12543d2648d133ba"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-09T14:40:17.057380+09:00",
     "label": "14:40",
     "items": [
@@ -3123,6 +3021,112 @@
           "title": "조원태와 불과 0.42%p 차이…한진칼 파고드는 호반 2세들",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260810103503270"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-11T01:42:28.052017+09:00",
+    "label": "01:42",
+    "items": [
+      {
+        "keyword": "레임덕",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2j7yJICEaU"
+        }
+      },
+      {
+        "keyword": "대한 광통신",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810039000008"
+        }
+      },
+      {
+        "keyword": "케스파컵",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "협곡에 나타난 '괴물 로크'⋯'제카' 18/0/2으로 젠지 제압",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2612902"
+        }
+      },
+      {
+        "keyword": "한우",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "닭·돼지 폐사 속출…가축 폭염피해 보험접수 이미 2천건 훌쩍",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260808049000002"
+        }
+      },
+      {
+        "keyword": "아이맥스 영화관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'오디세이' 아이맥스 전석 매진‥영화 '경험'하러 극장간다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810205405548"
+        }
+      },
+      {
+        "keyword": "더트롯쇼",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260810508965"
+        }
+      },
+      {
+        "keyword": "컴퓨터 공학",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260810/134453294/1"
+        }
+      },
+      {
+        "keyword": "김유재",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "피겨 선수 이모저모",
+          "source": "ZUM 뉴스",
+          "url": "https://m.news.zum.com/photo/57980086/107113555?cm=news_photolist&r=3&thumb=1"
+        }
+      },
+      {
+        "keyword": "전북특별자치도교육청",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "천호성 교육감 \"수업 우수교사 발굴·포상 시스템 마련해야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003742885"
+        }
+      },
+      {
+        "keyword": "콜롬비아",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "콜롬비아 규모 7.4 강진...최소한 18명 사망",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608110024421092"
         }
       }
     ]
