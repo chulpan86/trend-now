@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-08-09T02:20:24.110421+09:00",
-    "label": "02:20",
-    "items": [
-      {
-        "keyword": "psg 대 맨유",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "클럽 친선경기: PSG는 캐릭 감독의 맨유가 얼마나 잘 할 수 있을지 시험한다",
-          "source": "티스토리",
-          "url": "https://sbotopkr.tistory.com/2458"
-        }
-      },
-      {
-        "keyword": "맨유",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "바르셀로나가 돈 아끼는 사이 맨유가 낚아챈다! '19세 스페인 특급 LB' 260억 바이아웃 \"지불할 준비 돼 있어\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260808n09715"
-        }
-      },
-      {
-        "keyword": "김소영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853900"
-        }
-      },
-      {
-        "keyword": "가능한 사랑",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807153857272"
-        }
-      },
-      {
-        "keyword": "면목동",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/08/3UWOHFLA4BF3XNO7JK6L47LB3A/"
-        }
-      },
-      {
-        "keyword": "psg",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Où et quand regarder PSG-Manchester United ?",
-          "source": "Football365",
-          "url": "https://www.football365.fr/ou-et-quand-regarder-psg-manchester-united-10306790.html"
-        }
-      },
-      {
-        "keyword": "mutv",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Paris Saint-Germain",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cdx7rvr4z3yt"
-        }
-      },
-      {
-        "keyword": "fotmob",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Salah joins Trabzonspor and secures record Turkish salary - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/08/08/BHDOHWCOLFAZNKV2LKSEWV3NV4/"
-        }
-      },
-      {
-        "keyword": "ewc 철권",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'EWC 2026 철권' DNS '울산' 3연패 도전",
-          "source": "더게임스",
-          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406185"
-        }
-      },
-      {
-        "keyword": "서하얀",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "임창정, 재혼하길 정말 잘했네..더 어려진 ♥서하얀과 달달 투샷 “맛난 것 먹자”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808201047523"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-09T03:21:35.617337+09:00",
-    "label": "03:21",
-    "items": [
-      {
-        "keyword": "맨유",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "바르셀로나가 돈 아끼는 사이 맨유가 낚아챈다! '19세 스페인 특급 LB' 260억 바이아웃 \"지불할 준비 돼 있어\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260808n09715"
-        }
-      },
-      {
-        "keyword": "가능한 사랑",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807153857272"
-        }
-      },
-      {
-        "keyword": "면목동",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/08/3UWOHFLA4BF3XNO7JK6L47LB3A/"
-        }
-      },
-      {
-        "keyword": "김소영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112853900"
-        }
-      },
-      {
-        "keyword": "fotmob",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Pre-season friendly LIVE: Chelsea vs AC Milan - text commentary, score updates, match stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c330p1p84e3t"
-        }
-      },
-      {
-        "keyword": "ewc 철권",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'EWC 2026 철권' DNS '울산' 3연패 도전",
-          "source": "더게임스",
-          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=406185"
-        }
-      },
-      {
-        "keyword": "psg",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Mercato : Ferran Torres s'est mis d'accord avec le PSG pour un contrat de 5 ans, négociations en cours entre Paris et le Barça",
-          "source": "L'Équipe",
-          "url": "https://www.lequipe.fr/Football/Actualites/Mercato-ferran-torres-s-est-mis-d-accord-avec-le-psg-pour-un-contrat-de-5-ans-negociations-en-cours-entre-paris-et-le-barca/1709669"
-        }
-      },
-      {
-        "keyword": "mutv",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Man Utd 1-1 Paris Saint-Germain: How Michael Carrick's players rated",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cdx7rvr4z3yt"
-        }
-      },
-      {
-        "keyword": "서점가",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "인기 없던 소설, 다시 '역주행' 중…판매량 2배 훌쩍, 서점가에 무슨일 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/08/08/2026080513572417827"
-        }
-      },
-      {
-        "keyword": "정가은",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-09T04:21:05.807352+09:00",
     "label": "04:21",
     "items": [
@@ -3323,6 +3115,112 @@
           "title": "[14F] '기쁜데 슬프다'... ‘오디세이’, ‘스파이더맨 4’ 흥행에도 영화관이 못 웃는 이유",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/original/14f/6843218_29052.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-10T16:09:57.168257+09:00",
+    "label": "16:09",
+    "items": [
+      {
+        "keyword": "고영욱",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "고영욱 \"'류수영♥' 박하선, 감당 안 될 여자…계속 명품 사 나를 것\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6254005"
+        }
+      },
+      {
+        "keyword": "연애 전쟁",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "서장훈 분노 터졌다 “통장에 100만원도 없는데 무슨…” (연애전쟁)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260810/134447328/1"
+        }
+      },
+      {
+        "keyword": "정연",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[이슈] 새 둥지 찾은 정연, 배우 도전 “트와이스는 계속 지킬 것”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810155138812"
+        }
+      },
+      {
+        "keyword": "sbs 가요대전",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "`가요대전` 생방송 촌극…MC 우왕좌왕, 결국 제작진 투입 [MD이슈]",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026081008124845088"
+        }
+      },
+      {
+        "keyword": "도라이버",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'활동 중단' 조세호, 또 품었다…시즌6로 돌아오는 '도라이버' 오늘(8일) 첫 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808070140437"
+        }
+      },
+      {
+        "keyword": "대구고등검찰청",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'대장동 의혹 수사' 강백신 대구고검 검사 사직서 제출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810121253957"
+        }
+      },
+      {
+        "keyword": "오동도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "여수 오동도 앞바다 일가족 태운 모터보트 전복···20대 여성·선장 사망",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608090833001"
+        }
+      },
+      {
+        "keyword": "모델",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "OnlyFans model and ex-child actress nabbed a senior role on Dem governor campaign",
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/08/08/us-news/onlyfans-model-renee-olstead-nabbed-role-on-francesca-hongs-governor-campaign/"
+        }
+      },
+      {
+        "keyword": "최지만",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"하위 순위여도 괜찮다\" ML 67홈런 최지만, 상위 라운드 지명설 솔솔",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tAvwtmsAW2"
+        }
+      },
+      {
+        "keyword": "편의점",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "농심, 편의점 4사 전용 맞춤형 '포테토칩' 4종 출시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810028100030"
         }
       }
     ]
