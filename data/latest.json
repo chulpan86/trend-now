@@ -1,75 +1,85 @@
 {
-  "timestamp": "2026-08-11T05:30:51.769590+09:00",
-  "label": "05:30",
+  "timestamp": "2026-08-11T06:31:45.272757+09:00",
+  "label": "06:31",
   "items": [
     {
-      "keyword": "레임덕",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "pga 투어",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
+        "title": "[위너스 클럽] 윈덤 챔피언십 우승자 브레넌 \"티샷 연습이 통했다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/2j7yJICEaU"
+        "url": "https://v.daum.net/v/20260811010149290"
       }
     },
     {
-      "keyword": "대한 광통신",
+      "keyword": "미사일",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260810039000008"
+        "title": "젤렌스키 \"러, 북한군 추가 배치 준비…탄도미사일 또 받아\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811052453491"
       }
     },
     {
-      "keyword": "케스파컵",
+      "keyword": "물고기",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한화생명, 젠지에 2-1 역전승⋯KeSPA컵 결선 스테이지 2 직행",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2612919"
+        "title": "이미 수백만 죽었다…\"이대로 두면 몰살\" 눈물의 방류",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810201807055"
       }
     },
     {
-      "keyword": "아이맥스 영화관",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "에코프로 비엠",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[특집] 2700년 전의 번개를 마주하다 – 김우형 촬영감독의 촬영 분석",
-        "source": "씨네21",
-        "url": "https://cine21.com/news/view/?mag_id=110472"
+        "title": "에코프로비엠, 1.2조 유증 정정신고서 제출…발행 규모는 유지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9Z6lqVfzk8"
       }
     },
     {
-      "keyword": "더트롯쇼",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260810508965"
+        "title": "포옛 \"축구대표팀 임시감독 공개채용 지원 완료\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/38qCaBb00M"
       }
     },
     {
-      "keyword": "컴퓨터 공학",
+      "keyword": "리처드 기어",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260810141500004"
+        "title": "“48살 차이? 역겹다” 76세 리차드 기어, 20대 女배우와 ‘로맨스물’…“손녀뻘” 비난[월드픽]",
+        "source": "TWIG",
+        "url": "https://www.twig24.com/news/world/global-topic/2026/08/07/20260807500198"
       }
     },
     {
-      "keyword": "전북특별자치도교육청",
+      "keyword": "윤상현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "전북교육청, 10~12일 '고3 학생부종합전형 전문상담'",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260810_0003742637"
+        "title": "\"득표수 조작은 비약\" \"선관위 편 들어주나\"‥국힘 의원끼리 충돌",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843753_37004.html"
+      }
+    },
+    {
+      "keyword": "노동자",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "여주서 밭일하던 30대 외국인 여성노동자 실종 하루 만에 숨져",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VKSHsF3GY1"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해 안에 어렵나",
         "source": "Daum",
         "url": "https://v.daum.net/v/p6spnlSr1r?f=p"
-      }
-    },
-    {
-      "keyword": "수능",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "전남광주 통합에도 수능 시험지구 지난해와 동일",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260810114200054"
       }
     }
   ]
