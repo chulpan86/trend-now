@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-10T08:20:14.986236+09:00",
-  "label": "08:20",
+  "timestamp": "2026-08-10T09:58:04.368303+09:00",
+  "label": "09:58",
   "items": [
     {
-      "keyword": "시청률",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "대한민국 문화체육관광부",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'시청률1%'대에 결국 폐지…\"누가 결정한 거냐\" 최우수산 종영에 폭주",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260810n02735"
+        "title": "문화체육관광부, 해외에서 아파도 대한민국 119",
+        "source": "한국글로벌뉴스",
+        "url": "https://kgfnews.com/news/article.html?no=474567"
       }
     },
     {
-      "keyword": "현대 아반떼",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "결혼식",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "3000만원대 중반까지 가는 아반떼…쏘나타·K5와 ‘모호해진 경계’[이자Car야]",
+        "title": "'1박 210만원 5성급 호텔 두 층 예약' 호날두의 럭셔리 결혼식 피로연",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6560081"
+      }
+    },
+    {
+      "keyword": "배구",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "일본 꺾고 또 정상! 한국 남자배구, 동아시아선수권 2연패 달성",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260810060128268"
+        "url": "https://v.daum.net/v/20260810060209375"
       }
     },
     {
-      "keyword": "운세",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[오늘의 운세] 2026년 08월 10일 띠별 운세",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0121_202608100000000001"
-      }
-    },
-    {
-      "keyword": "성심당",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“성심당만 있는 게 아니다”…새롭게 뜨는 ‘빵지순례’ 도시 5곳은",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12122293"
-      }
-    },
-    {
-      "keyword": "경기북부",
+      "keyword": "주유소",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"공공기관 이전 파급효과 제한적…혁신도시 거점화 전략 필요\"",
+        "title": "휘발유·경유 1천800원대 유지",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809111500314"
+        "url": "https://v.daum.net/v/6ZwQj1tWG1"
       }
     },
     {
-      "keyword": "오지헌",
+      "keyword": "주거",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "오지헌 \"어릴 때 100평에 수영장 있는 집…안 행복했다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260809_0003741943"
+        "title": "가구 수보다 주택 수가 더 많지만···판잣집·여관 사는 주거취약가구 55만 달해",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608100737001"
       }
     },
     {
-      "keyword": "사관학교",
+      "keyword": "이다영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[기고]“국군사관학교, 국민혈세 낭비 하책 중 하책”…사관학교 통합, 정치 논리 아닌 국방 논리로 풀어야",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11608251"
+        "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112853514"
       }
     },
     {
-      "keyword": "디지털 자산",
+      "keyword": "전장연",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "거래대금 ‘반토막’에 업비트·빗썸 상장 봇물…‘수수료 방어전’ 총력",
+        "title": "장애인 시위로 1호선 용산역 상행선 무정차 통과",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260810021300004"
+      }
+    },
+    {
+      "keyword": "오타니 쇼헤이",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"오타니, 이대로는 MVP 못 탄다?\" ML 저명 기자 \"마운드 복귀가 운명 가를 것\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/10/202608100229772029O"
+      }
+    },
+    {
+      "keyword": "이승우",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"이렇게 져서 슬프다\" 굳은 얼굴 이승우 \"포옛 전술도 처음엔 못 믿었지만...빨리 결과 내고 신뢰 쌓아야\"[현장 인터뷰]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260809182843605"
+        "url": "https://v.daum.net/v/K7y3udJ6yx"
       }
     },
     {
-      "keyword": "개발제한구역",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"100가구도 다 찾아라\"…공급 대책으로 국유지 틈새 부지 발굴",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608103159i"
-      }
-    },
-    {
-      "keyword": "이혼 소송",
+      "keyword": "벤 셸턴",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "최태원, 노소영에 1조 지급?‥이르면 다음주 확정",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6843431_36967.html"
+        "title": "'2연패 도전' 셸턴, 폰세카 꺾고 8강 합류",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260810_0002208094"
       }
     }
   ]
