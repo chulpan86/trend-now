@@ -1,35 +1,45 @@
 {
-  "timestamp": "2026-08-10T20:43:37.192799+09:00",
-  "label": "20:43",
+  "timestamp": "2026-08-10T21:43:44.592030+09:00",
+  "label": "21:43",
   "items": [
     {
-      "keyword": "노소영",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "박하선",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "[이슈]노소영 관장이 최수종 연극 응원 온 이유",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11608497"
+        "title": "고영욱 또 왜 이러나...\"감당 안 될 여자\" 박하선·류수영 부부 저격 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081013144499682"
       }
     },
     {
-      "keyword": "외국인",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "여주서 30대 여성 외국인 계절노동자 숨진채 발견",
-        "source": "경인일보",
-        "url": "https://www.kyeongin.com/article/1768770"
-      }
-    },
-    {
-      "keyword": "김미현",
+      "keyword": "어린이",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "유명 골퍼 김미현 측 운영 대형골프연습장 '불법전대' 피고발",
+        "title": "\"외할머니가 때려요\" 경찰서까지 찾아갔지만…아동은 결국 숨졌다",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260810120500063"
+      }
+    },
+    {
+      "keyword": "김건희",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"여자들은 감 있어\" 김건희 돌변…급기야 \"과태료 깎아줘\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260810134054811"
+        "url": "https://v.daum.net/v/20260810192730028"
+      }
+    },
+    {
+      "keyword": "넥슨",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "넥슨 품으로 온 '오버워치'…10년 만에 한국 영웅 '디몬' 출격",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260810_0003743224"
       }
     },
     {
@@ -44,62 +54,52 @@
     },
     {
       "keyword": "lg화학",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "현대차·LG엔솔 합작사 양극재 꿰찬 LG화학",
-        "source": "디일렉",
-        "url": "https://www.thelec.kr/news/articleView.html?idxno=60737"
+        "title": "대법 \"외국납부세액 공제시 특정국 결손금, 타국 소득서 차감해야\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260809018300004"
       }
     },
     {
-      "keyword": "골프존홀딩스",
+      "keyword": "정해인",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "골프존홀딩스 2차 공개매수 개시… 상장폐지 절차 '속도전'",
-        "source": "녹색경제신문",
-        "url": "https://www.greened.kr/news/articleView.html?idxno=347290"
-      }
-    },
-    {
-      "keyword": "ssg 랜더스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "SSG, 13일 롯데전서 ‘플러스 데이’ 개최",
-        "source": "기호일보",
-        "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031227"
-      }
-    },
-    {
-      "keyword": "빅뱅",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "데뷔 20주년 빅뱅, 4년 만에 신곡 '빅' 예고",
+        "title": "\"이 외모가 38살이라고?\"…정해인, 세월을 역주행하는 '방부제' 소년미",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260810090310912?f=p"
+        "url": "https://v.daum.net/v/20260810191740847"
       }
     },
     {
-      "keyword": "경기도교육감",
+      "keyword": "카를로스 카라스코",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘7이닝 퍼펙트’ 카라스코, 폭염 취소 끝→드디어 2번째 등판…안우진과 에이스 맞대결, 시즌 첫 승 도전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810154107322"
+      }
+    },
+    {
+      "keyword": "정동원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"고소 취소\" 한발 늦었다…교육감이 직접 '학부모 고발'",
+        "title": "정동원, 선한스타 7월 가왕전 상금 70만원 소아암 환아 위해 기부",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260810143006863"
+        "url": "https://v.daum.net/v/20260810104209663"
       }
     },
     {
-      "keyword": "남구",
+      "keyword": "빅터 레이예스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "광주이스포츠교육원, 남구장애인복지관 연계 '장애인 이스포츠 교실' 운영",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20260810000476"
+        "title": "누가 롯데 이 선수 퇴출 소리를 내었는가… 타구단 입맛 다신 이유, 역대 최초 대업으로 증명한다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810173136992"
       }
     }
   ]

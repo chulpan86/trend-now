@@ -3020,5 +3020,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-10T21:43:44.592030+09:00",
+    "label": "21:43",
+    "items": [
+      {
+        "keyword": "박하선",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "고영욱 또 왜 이러나...\"감당 안 될 여자\" 박하선·류수영 부부 저격 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081013144499682"
+        }
+      },
+      {
+        "keyword": "어린이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"외할머니가 때려요\" 경찰서까지 찾아갔지만…아동은 결국 숨졌다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810120500063"
+        }
+      },
+      {
+        "keyword": "김건희",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"여자들은 감 있어\" 김건희 돌변…급기야 \"과태료 깎아줘\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810192730028"
+        }
+      },
+      {
+        "keyword": "넥슨",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "넥슨 품으로 온 '오버워치'…10년 만에 한국 영웅 '디몬' 출격",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003743224"
+        }
+      },
+      {
+        "keyword": "불펜",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "위기의 KIA 불펜, 소리 없이 강한 자가 있다… 힘이 남아돈다, 후반기 KIA 불펜 에이스 뜨나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810145213015"
+        }
+      },
+      {
+        "keyword": "lg화학",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "대법 \"외국납부세액 공제시 특정국 결손금, 타국 소득서 차감해야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809018300004"
+        }
+      },
+      {
+        "keyword": "정해인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"이 외모가 38살이라고?\"…정해인, 세월을 역주행하는 '방부제' 소년미",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810191740847"
+        }
+      },
+      {
+        "keyword": "카를로스 카라스코",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘7이닝 퍼펙트’ 카라스코, 폭염 취소 끝→드디어 2번째 등판…안우진과 에이스 맞대결, 시즌 첫 승 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810154107322"
+        }
+      },
+      {
+        "keyword": "정동원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "정동원, 선한스타 7월 가왕전 상금 70만원 소아암 환아 위해 기부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810104209663"
+        }
+      },
+      {
+        "keyword": "빅터 레이예스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "누가 롯데 이 선수 퇴출 소리를 내었는가… 타구단 입맛 다신 이유, 역대 최초 대업으로 증명한다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810173136992"
+        }
+      }
+    ]
   }
 ]
