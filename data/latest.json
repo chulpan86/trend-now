@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-08-11T01:42:28.052017+09:00",
-  "label": "01:42",
+  "timestamp": "2026-08-11T02:42:48.761500+09:00",
+  "label": "02:42",
   "items": [
-    {
-      "keyword": "레임덕",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/2j7yJICEaU"
-      }
-    },
     {
       "keyword": "대한 광통신",
       "traffic_raw": "1000+",
@@ -30,16 +20,6 @@
         "title": "협곡에 나타난 '괴물 로크'⋯'제카' 18/0/2으로 젠지 제압",
         "source": "이투데이",
         "url": "https://www.etoday.co.kr/news/view/2612902"
-      }
-    },
-    {
-      "keyword": "한우",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "닭·돼지 폐사 속출…가축 폭염피해 보험접수 이미 2천건 훌쩍",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260808049000002"
       }
     },
     {
@@ -67,9 +47,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260810/134453294/1"
+        "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260810141500004"
       }
     },
     {
@@ -77,19 +57,29 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "피겨 선수 이모저모",
-        "source": "ZUM 뉴스",
-        "url": "https://m.news.zum.com/photo/57980086/107113555?cm=news_photolist&r=3&thumb=1"
+        "title": "김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성공 미쳤다",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260810n22071"
       }
     },
     {
-      "keyword": "전북특별자치도교육청",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "에어부산",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "천호성 교육감 \"수업 우수교사 발굴·포상 시스템 마련해야\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260810_0003742885"
+        "title": "에어부산, '동계 스케줄 오픈' 국내선 항공권 할인 프로모션",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260810068200051"
+      }
+    },
+    {
+      "keyword": "베스테를로",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해 안에 어렵나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260809170136828?f=p"
       }
     },
     {
@@ -97,9 +87,19 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "콜롬비아 규모 7.4 강진...최소한 18명 사망",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0104_202608110024421092"
+        "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608102156001"
+      }
+    },
+    {
+      "keyword": "수능",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "전남광주 통합에도 수능 시험지구 지난해와 동일",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260810114200054"
       }
     }
   ]
