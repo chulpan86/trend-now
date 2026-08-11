@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-11T17:02:57.567690+09:00",
-  "label": "17:02",
+  "timestamp": "2026-08-11T18:50:43.716621+09:00",
+  "label": "18:50",
   "items": [
     {
-      "keyword": "일본 태풍",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "커피",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "‘이중 열돔’ 깨뜨린 찬 고기압… 한반도에 바람길 열었다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/08/11/JF67I7QTE5FI7IWWS2IPZI5JXQ/"
-      }
-    },
-    {
-      "keyword": "애플",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"애플 '올글래스 아이폰' 무산…폴더블도 틈새제품 그칠 듯\"(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811145249390"
-      }
-    },
-    {
-      "keyword": "송승환",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘시각장애 4급’ 송승환, 직접 개발한 지팡이 든 모습..“사람 윤곽은 보여”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/FpT8xDwavc"
-      }
-    },
-    {
-      "keyword": "양정아",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'같이삽시다' 6월 모친상 양정아 \"집에 엄마 있을 것 같아\" 울컥",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811104119945"
-      }
-    },
-    {
-      "keyword": "하워드 러 트닉",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "美정부가 손 내밀었다…러트닉, 트럼프에 '韓기업' 콕 집은 이유",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608105343g"
-      }
-    },
-    {
-      "keyword": "창정 7a",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "발사 85초 만에 공중 폭발…中 ‘창정 7A’ 로켓 발사 실패",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/science/2026/08/11/3ISV5SMXLNB2BNOQDCBENKO6NA/"
-      }
-    },
-    {
-      "keyword": "진수화",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260811n16238"
-      }
-    },
-    {
-      "keyword": "남지현",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘걸그룹 리더서 바레 강사로’…포미닛 남지현, 확 달라진 근황",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811102346073"
-      }
-    },
-    {
-      "keyword": "당진시장",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "530억 드는 '인당 30만원 지원' 당진시장 공약, 시의회서 제동",
+        "title": "국내 커피 시장 3조7천억원…볶은커피 늘고 커피믹스 줄었다",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260811085400063"
+        "url": "https://www.yna.co.kr/view/AKR20260811060600030"
       }
     },
     {
-      "keyword": "한혜연",
+      "keyword": "홍준표",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "홍준표 “부부 공동명의가 2주택? 기상천외…이재명 지지율 폭락할 것”",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/politics/12123738"
+      }
+    },
+    {
+      "keyword": "방화",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "경산 아파트 방화 19일 만에 사망자 4명으로 늘어…모두 50대 여성",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=54218"
+      }
+    },
+    {
+      "keyword": "법원",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "집 앞에 붙은 ’법원 서류 안내문’…피싱 오인 피하려면?",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260811111807hM1"
+      }
+    },
+    {
+      "keyword": "주거",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "인천 준주거 상업·업무보다 주거용 전락…주거 오피스텔 고밀개발 막아야",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260811580540"
+      }
+    },
+    {
+      "keyword": "데이브 로버츠",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘선수와 감독이 함께 은퇴?’ 다저스 베츠 제안에 로버츠 감독 “고려해볼 만하다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811111136827"
+      }
+    },
+    {
+      "keyword": "대한민국 금융위원회",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "보험연수원 \"이달 완전판매역량인증 시험, AI로 100% 출제\" By EBN",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-2055604"
+      }
+    },
+    {
+      "keyword": "신용카드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“38만원 돌려드립니다”…카드사서 갑자기 날아온 ‘환급금’, 이유가?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811121056550"
+      }
+    },
+    {
+      "keyword": "이순철",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'16kg 감량' 한혜연, 제주도 발칵 뒤집은 비키니 자태…한지민도 '감탄'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811011709351"
+        "title": "킥오프 30분 늦췄지만 여전히 후끈한 K리그 그라운드",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8633536"
+      }
+    },
+    {
+      "keyword": "처변불경",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "정점식 “마오쩌둥 말이 좌우명이라는 안규백, 어느 나라 국방장관이냐”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260811/134455521/2"
       }
     }
   ]

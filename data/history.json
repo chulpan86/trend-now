@@ -1,201 +1,5 @@
 [
   {
-    "timestamp": "2026-08-10T05:19:37.953111+09:00",
-    "label": "05:19",
-    "items": [
-      {
-        "keyword": "광주광역시",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "유격수",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'초대형 트레이드' 메인 칩은 결국 '거포 유격수'였나…1년 만에 넘어간 무게중심, '신인왕' 투수 다시 가치 증명할 수 있나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809194650811"
-        }
-      },
-      {
-        "keyword": "계엄",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "대통령기록관, '윤석열 페이지' 추가…12·3 비상계엄담화 제외",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809130950219"
-        }
-      },
-      {
-        "keyword": "독사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "우아한 독사 사냥꾼…멸종위기 ‘뱀잡이수리’ 영국 동물원서 부화 [잇슈 SNS]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8630990"
-        }
-      },
-      {
-        "keyword": "뱅크 오브 아메리카",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
-          "source": "블록미디어",
-          "url": "https://www.blockmedia.co.kr/archives/1125768"
-        }
-      },
-      {
-        "keyword": "한혜진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "젠슨 황의 굴욕, 화사 \"누군지 몰랐다\"…샤라웃 후 손편지로 인사 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080912282565465"
-        }
-      },
-      {
-        "keyword": "혼전연애",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112854351"
-        }
-      },
-      {
-        "keyword": "쓰레기 봉투",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"너무 부끄럽다…이러니 한국인 욕먹지\" 日 유명 관광지서 발견된 쓰레기 '충격'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809165550690"
-        }
-      },
-      {
-        "keyword": "ai",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
-        }
-      },
-      {
-        "keyword": "다음 뉴스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-10T06:21:21.677242+09:00",
-    "label": "06:21",
-    "items": [
-      {
-        "keyword": "계엄",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "대통령기록관, ’윤석열 페이지’ 추가…계엄선포문 제외",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260810053658lYL"
-        }
-      },
-      {
-        "keyword": "뱅크 오브 아메리카",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "뱅크 오브 아메리카 \"주식시장 강력 매도 신호…21세기 최고 수준\"",
-          "source": "블록미디어",
-          "url": "https://www.blockmedia.co.kr/archives/1125768"
-        }
-      },
-      {
-        "keyword": "이재룡",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“소주 4잔” 자백한 이재룡 무혐의…“자네 부인 잘 끝날거야” 강남서 경찰 구속 [금주의 사건사고]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809221311114"
-        }
-      },
-      {
-        "keyword": "광주광역시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "쓰레기 봉투",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"너무 부끄럽다…이러니 한국인 욕먹지\" 日 유명 관광지서 발견된 쓰레기 '충격'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809165550690"
-        }
-      },
-      {
-        "keyword": "다음 뉴스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "홍콩",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"168명 사망 홍콩 아파트 화재원인은 담뱃불\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810054053013"
-        }
-      },
-      {
-        "keyword": "베트남 축구 국가대표팀",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "꽝하이 선수가 베트남 국가대표팀에서 제 기량을 잃지 않도록 해야 합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/dung-de-quang-hai-lac-nhip-o-doi-tuyen-viet-nam"
-        }
-      },
-      {
-        "keyword": "나마디 조엘 진",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "육상 나마디 조엘진, 100ｍ 비공인 10초07…한국 기록 보인다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809211659346"
-        }
-      },
-      {
-        "keyword": "ai",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-10T07:19:02.955525+09:00",
     "label": "07:19",
     "items": [
@@ -2923,6 +2727,112 @@
           "title": "'16kg 감량' 한혜연, 제주도 발칵 뒤집은 비키니 자태…한지민도 '감탄'",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260811011709351"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-11T18:50:43.716621+09:00",
+    "label": "18:50",
+    "items": [
+      {
+        "keyword": "커피",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "국내 커피 시장 3조7천억원…볶은커피 늘고 커피믹스 줄었다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811060600030"
+        }
+      },
+      {
+        "keyword": "홍준표",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "홍준표 “부부 공동명의가 2주택? 기상천외…이재명 지지율 폭락할 것”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12123738"
+        }
+      },
+      {
+        "keyword": "방화",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "경산 아파트 방화 19일 만에 사망자 4명으로 늘어…모두 50대 여성",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=54218"
+        }
+      },
+      {
+        "keyword": "법원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "집 앞에 붙은 ’법원 서류 안내문’…피싱 오인 피하려면?",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260811111807hM1"
+        }
+      },
+      {
+        "keyword": "주거",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "인천 준주거 상업·업무보다 주거용 전락…주거 오피스텔 고밀개발 막아야",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260811580540"
+        }
+      },
+      {
+        "keyword": "데이브 로버츠",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘선수와 감독이 함께 은퇴?’ 다저스 베츠 제안에 로버츠 감독 “고려해볼 만하다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811111136827"
+        }
+      },
+      {
+        "keyword": "대한민국 금융위원회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "보험연수원 \"이달 완전판매역량인증 시험, AI로 100% 출제\" By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2055604"
+        }
+      },
+      {
+        "keyword": "신용카드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“38만원 돌려드립니다”…카드사서 갑자기 날아온 ‘환급금’, 이유가?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811121056550"
+        }
+      },
+      {
+        "keyword": "이순철",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "킥오프 30분 늦췄지만 여전히 후끈한 K리그 그라운드",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8633536"
+        }
+      },
+      {
+        "keyword": "처변불경",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "정점식 “마오쩌둥 말이 좌우명이라는 안규백, 어느 나라 국방장관이냐”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260811/134455521/2"
         }
       }
     ]
