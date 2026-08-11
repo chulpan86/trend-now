@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-12T06:35:14.852686+09:00",
-  "label": "06:35",
+  "timestamp": "2026-08-12T07:31:35.283381+09:00",
+  "label": "07:31",
   "items": [
     {
-      "keyword": "축구",
+      "keyword": "뉴스",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "성추행 폭로하자 주먹 휘두른 삼촌에 흉기든 조카…\"정당행위\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260811157700004"
+      }
+    },
+    {
+      "keyword": "박지성",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'성 접대 있었다' 감사 결과에도 무혐의...축협 수사 가능할까",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0107_202608110819544779"
+        "title": "박지성, 축구협회 성접대 파문에 \"신뢰 회복 방안 고민해야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VK98nUgRHM"
       }
     },
     {
-      "keyword": "김용건",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "황보라, 시父 김용건 별장 클래스…3층 규모·하정우 트로피까지",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260811/134461567/1"
-      }
-    },
-    {
-      "keyword": "상장폐지",
+      "keyword": "홈플러스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘상폐 기준 강화’ 한 달…상장사 10곳 중 1곳 ‘퇴출 위험’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608112039015"
-      }
-    },
-    {
-      "keyword": "신지",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "신지 “의자에 발 올린 거 아니고 들고 있는 거” 사진 속 포즈 해명",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20260811/134455688/1"
-      }
-    },
-    {
-      "keyword": "이재명 지지율",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이재명 정부·민주당에 등 돌리는 ‘2030 여성’···“86세대 중심 현 체제서 벗어나야”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608110600101"
-      }
-    },
-    {
-      "keyword": "김승현",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "김승현, 귀신 본 후 父 공장에 불 나..결국 이사했다 “무서운 기운 들어와”(광산김씨패밀리)",
+        "title": "다시 물건 채우는 홈플러스… 정식 오픈 앞둔 매장 가보니",
         "source": "Daum",
-        "url": "https://v.daum.net/v/WRsXnu71SL"
+        "url": "https://v.daum.net/v/20260811060441944"
       }
     },
     {
-      "keyword": "마이크론 테크놀로지",
+      "keyword": "디에고 포를란",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "삼성·SK, 美 투자 확대에 마이크론 “미국산 메모리는 우리가 유일…장기계약 더 늘어”",
+        "title": "[스포츠머그] \"축구협회 방패막이죠?\"…'임시 감독' 포를란에게 날아든 돌직구 (ft.수아레스 복귀?)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260811084814447"
+        "url": "https://v.daum.net/v/20260811165112507"
       }
     },
     {
-      "keyword": "경기도",
+      "keyword": "범죄",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "텔레그램 마약 채널 ‘마석도’ 운영 총책 등 2명 구속기소",
+        "source": "인천일보",
+        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329356"
+      }
+    },
+    {
+      "keyword": "김도영",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "오스틴 독주냐, 김도영 탈환이냐, 힐리어드 반란이냐",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811200044642?f=p"
+      }
+    },
+    {
+      "keyword": "smr",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "강원교육청, 올 하반기 스마트폰 청정학교 13곳 시범 운영",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260811117300062"
+        "title": "NuScale Power Stock Barely Budged After Earnings. Time to Buy?",
+        "source": "The Motley Fool",
+        "url": "https://www.fool.com/investing/2026/08/10/nuscale-power-stock-barely-budged-after-earnings/"
       }
     },
     {
-      "keyword": "심판",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "나솔",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[스포츠]박지성 \"축구협회 '심판 성접대'로 안 좋은 상황 맞이해\"",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0107_202608112338334566_005.html"
-      }
-    },
-    {
-      "keyword": "네이 마르",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목",
+        "title": "'나솔' 22기 옥순♥경수, 또 출연 결심 할까…40대 순수 직진 매력 관전평 ('순수우유')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260810142528644"
+        "url": "https://v.daum.net/v/20260811010250291"
+      }
+    },
+    {
+      "keyword": "다우 존스 산업평균지수",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "뉴욕증시, 호르무즈 불확실성 지속에 하락…다우 0.3%↓",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812051851146"
+      }
+    },
+    {
+      "keyword": "휴머노이드 로봇",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "세계 97% 장악한 중국 로봇…'5000대 1' 청약 경쟁률 폭발",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811203306352"
       }
     }
   ]

@@ -3150,5 +3150,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-12T07:31:35.283381+09:00",
+    "label": "07:31",
+    "items": [
+      {
+        "keyword": "뉴스",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "성추행 폭로하자 주먹 휘두른 삼촌에 흉기든 조카…\"정당행위\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811157700004"
+        }
+      },
+      {
+        "keyword": "박지성",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "박지성, 축구협회 성접대 파문에 \"신뢰 회복 방안 고민해야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VK98nUgRHM"
+        }
+      },
+      {
+        "keyword": "홈플러스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "다시 물건 채우는 홈플러스… 정식 오픈 앞둔 매장 가보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811060441944"
+        }
+      },
+      {
+        "keyword": "디에고 포를란",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[스포츠머그] \"축구협회 방패막이죠?\"…'임시 감독' 포를란에게 날아든 돌직구 (ft.수아레스 복귀?)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811165112507"
+        }
+      },
+      {
+        "keyword": "범죄",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "텔레그램 마약 채널 ‘마석도’ 운영 총책 등 2명 구속기소",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329356"
+        }
+      },
+      {
+        "keyword": "김도영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "오스틴 독주냐, 김도영 탈환이냐, 힐리어드 반란이냐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811200044642?f=p"
+        }
+      },
+      {
+        "keyword": "smr",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "NuScale Power Stock Barely Budged After Earnings. Time to Buy?",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/08/10/nuscale-power-stock-barely-budged-after-earnings/"
+        }
+      },
+      {
+        "keyword": "나솔",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'나솔' 22기 옥순♥경수, 또 출연 결심 할까…40대 순수 직진 매력 관전평 ('순수우유')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811010250291"
+        }
+      },
+      {
+        "keyword": "다우 존스 산업평균지수",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "뉴욕증시, 호르무즈 불확실성 지속에 하락…다우 0.3%↓",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812051851146"
+        }
+      },
+      {
+        "keyword": "휴머노이드 로봇",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "세계 97% 장악한 중국 로봇…'5000대 1' 청약 경쟁률 폭발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811203306352"
+        }
+      }
+    ]
   }
 ]
