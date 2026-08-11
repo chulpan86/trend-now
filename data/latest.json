@@ -1,65 +1,55 @@
 {
-  "timestamp": "2026-08-12T07:31:35.283381+09:00",
-  "label": "07:31",
+  "timestamp": "2026-08-12T08:29:19.251722+09:00",
+  "label": "08:29",
   "items": [
     {
-      "keyword": "뉴스",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "성추행 폭로하자 주먹 휘두른 삼촌에 흉기든 조카…\"정당행위\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260811157700004"
-      }
-    },
-    {
-      "keyword": "박지성",
+      "keyword": "아이폰",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "박지성, 축구협회 성접대 파문에 \"신뢰 회복 방안 고민해야\"",
+        "title": "“400만원 아이폰 누가 사나”…‘올글래스’ 삐끗한 애플, 폴더블도 틈새제품 전망",
         "source": "Daum",
-        "url": "https://v.daum.net/v/VK98nUgRHM"
+        "url": "https://v.daum.net/v/20260811151108419"
       }
     },
     {
-      "keyword": "홈플러스",
+      "keyword": "최여진",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "최여진, 가평 신혼집 수영장서 포착…탄탄한 등근육 ‘깜짝’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812072528233"
+      }
+    },
+    {
+      "keyword": "제니",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "다시 물건 채우는 홈플러스… 정식 오픈 앞둔 매장 가보니",
+        "title": "제니, 옷 입은 거야? 천 조각 두른 듯..역대급 파격 노출[스타이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260811060441944"
+        "url": "https://v.daum.net/v/20260811184409779"
       }
     },
     {
-      "keyword": "디에고 포를란",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "아시아경제",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[스포츠머그] \"축구협회 방패막이죠?\"…'임시 감독' 포를란에게 날아든 돌직구 (ft.수아레스 복귀?)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811165112507"
+        "title": "경기아트센터, 10월 '대한민국 피아노페스티벌' 개최",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260812n04384"
       }
     },
     {
-      "keyword": "범죄",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "안민석",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "텔레그램 마약 채널 ‘마석도’ 운영 총책 등 2명 구속기소",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1329356"
-      }
-    },
-    {
-      "keyword": "김도영",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "오스틴 독주냐, 김도영 탈환이냐, 힐리어드 반란이냐",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811200044642?f=p"
+        "title": "안민석, 독립운동가 안희제·최재형 업적 알리는 역사탐방",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260811152900061"
       }
     },
     {
@@ -73,33 +63,43 @@
       }
     },
     {
-      "keyword": "나솔",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'나솔' 22기 옥순♥경수, 또 출연 결심 할까…40대 순수 직진 매력 관전평 ('순수우유')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811010250291"
-      }
-    },
-    {
-      "keyword": "다우 존스 산업평균지수",
+      "keyword": "카르다노",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "뉴욕증시, 호르무즈 불확실성 지속에 하락…다우 0.3%↓",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812051851146"
+        "title": "카르다노 고래들이 지금 ADA를 파는 이유",
+        "source": "디지털투데이",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692210"
       }
     },
     {
-      "keyword": "휴머노이드 로봇",
+      "keyword": "안선영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "세계 97% 장악한 중국 로봇…'5000대 1' 청약 경쟁률 폭발",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811203306352"
+        "title": "안선영, 子 2달만에 또 떠나보냈다…\"안 울겠단 약속 오늘은 못 지켜\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/enter_general/2026/08/10/G5QTKMZYGM3TENBUGA2TOMRQMU/"
+      }
+    },
+    {
+      "keyword": "달러",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "원·달러 환율 1,300원대 눈앞...하락 반전 'U턴', 왜? [앵커리포트]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0102_202608100821017548"
+      }
+    },
+    {
+      "keyword": "호날두",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "축구스타 호날두, 로드리게스와 10년 열애 끝 결혼…비공개 예식",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260812016200007"
       }
     }
   ]
