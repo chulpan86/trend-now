@@ -1,41 +1,21 @@
 {
-  "timestamp": "2026-08-11T21:40:34.514658+09:00",
-  "label": "21:40",
+  "timestamp": "2026-08-11T23:12:01.052064+09:00",
+  "label": "23:12",
   "items": [
     {
-      "keyword": "주사",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "부대",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "비만 주사 맞던 여대생, 구토 하다 돌연 사망[아하미국]",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11608789"
+        "title": "부대 울타리 넘어 KTX 탄 해병대 이병···4시간 만에 붙잡혀",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608111832001"
       }
     },
     {
-      "keyword": "관광객",
+      "keyword": "임 라라",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": {
-        "title": "횡성군·원주시, 제주공항서 관광 홍보…지역 관광 활로 모색",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811093550682"
-      }
-    },
-    {
-      "keyword": "옷",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "역대급 폭염에 쿨링 생리대 ‘불티’",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/08/11/FMO6EK4FKRA6NE6NWYM4ORAB3A/"
-      }
-    },
-    {
-      "keyword": "임라라",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
       "news": {
         "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
         "source": "Daum",
@@ -43,40 +23,60 @@
       }
     },
     {
-      "keyword": "스토킹",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "넥슨",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "황정민 스토킹 혐의 40대 여성, 벌금 1000만 원 구형",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11608836"
+        "title": "탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치",
+        "source": "Blizzard Entertainment",
+        "url": "https://overwatch.blizzard.com/ko-kr/news/24295381/"
       }
     },
     {
-      "keyword": "당진시",
+      "keyword": "민주노동조합총연맹",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "530억 드는 '인당 30만원 지원' 당진시장 공약, 시의회서 제동",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811134559602"
-      }
-    },
-    {
-      "keyword": "무지개",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "파란 하늘에 뜬 ’무지개구름’…“좋은 일 있으려나“",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260811142418smq"
+        "title": "이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6843884_36911.html"
       }
     },
     {
       "keyword": "김설현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "정호연",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
+      "news": {
+        "title": "'틈만나면' 유재석 \"SBS 상 받은 유연석, 소처럼 일하라고\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811212600588"
+      }
+    },
+    {
+      "keyword": "갈소원",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811071040299"
+      }
+    },
+    {
+      "keyword": "유성우",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo"
+      }
     },
     {
       "keyword": "최지만",
@@ -89,13 +89,13 @@
       }
     },
     {
-      "keyword": "유성우",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "복지부",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "시간당 최대 100개 '별빛쇼'…페르세우스자리 유성우 이번 주 정점",
-        "source": "동아사이언스",
-        "url": "https://www.dongascience.com/ko/news/79356"
+        "title": "지역·필수의료 거점 국립대병원…20일부터 복지부가 맡는다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811131803777"
       }
     }
   ]
