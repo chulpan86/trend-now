@@ -1,97 +1,105 @@
 {
-  "timestamp": "2026-08-11T08:25:13.191924+09:00",
-  "label": "08:25",
+  "timestamp": "2026-08-11T09:57:27.398656+09:00",
+  "label": "09:57",
   "items": [
     {
-      "keyword": "축구 감독",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "자녀",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "'홍명보 후임' 드디어 찾았다! '전북 우승 명장' 포옛, 韓 대표팀 사령탑 부임 사실상 확정→\"9~11월 A매치 6경기 임시 지휘 전망\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811000025508"
-      }
-    },
-    {
-      "keyword": "삼전닉스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"삼전닉스 주식 다시 오를까요?\" 전문가에 물었더니…",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026081050241"
-      }
-    },
-    {
-      "keyword": "이다해",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'세븐♥’ 이다해, 눈물 마를 날 없네..출산 앞두고 딸 선물에 감동",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Z1vZfYGhS7"
-      }
-    },
-    {
-      "keyword": "치어리더",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "손담비",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"적당히 하시길\" 성난 손담비, 1300만 원 'C사 가방' 들고 웃었다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/z9BpyK9Uvo"
-      }
-    },
-    {
-      "keyword": "장기 기증",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "뇌사 50대의 생명나눔.. 9년 기다리던 60대, 새 삶 선물 받아",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810113401345"
-      }
-    },
-    {
-      "keyword": "등반",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“실내 클라이밍 성공!”…강북구, 느린학습자를 위한 스포츠 활동 지원",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11608591"
-      }
-    },
-    {
-      "keyword": "번트",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"이정후한테 묻고 싶다, 한국서 번트를 몇 번이나…\" 이런 바보 같은 감독을 봤나, 중계진도 당황했다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811001142846"
-      }
-    },
-    {
-      "keyword": "이솔이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "소유",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "소유, 삼전닉스 팔아 마련한 집 공개…사우나·헬스장까지",
+        "title": "대우건설, 임직원 자녀 본사에 초대…\"가족과 추억 쌓아\"",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260810_0003743550"
+        "url": "https://www.newsis.com/view/NISX20260811_0003743941"
+      }
+    },
+    {
+      "keyword": "삼성 갤럭시 z 시리즈",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘아이폰 강세’ 일본서도 품절···‘아재폰’ 벗어던진 갤럭시 Z8, 1030 여성 몰렸다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608101650001"
+      }
+    },
+    {
+      "keyword": "배준호",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "韓 축구 초대박 소식...'아스널 고마워!' 배준호, '빅리그 입성' 기회 다시 생겼다→'자금 부족' 리옹 기마랑이스 이적 셀온 '115억' 벌었다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811043451043"
+      }
+    },
+    {
+      "keyword": "이가 시비옹테크",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "시비옹테크, 코스튜크에 역전승…8강 진출",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260809_0002207669"
+      }
+    },
+    {
+      "keyword": "김나희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'8월 결혼' 김나희 \"5살 연상 남편, 동안 뇌섹남…남주혁 닮았다\" ('아침마당')[순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811092209915"
+      }
+    },
+    {
+      "keyword": "필 포든",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"모두가 봤지만 심판은 결정을 안 바꿨다\" 스페인 언론 분노…이강인 첫 경기 뒤덮은 '한국 심판' 오프사이드 논란",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260810n30859"
+      }
+    },
+    {
+      "keyword": "이민정",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이병헌♥이민정, 우여곡절 딛고 결혼 13주년…빈티지 와인으로 자축",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608101002003"
+      }
+    },
+    {
+      "keyword": "감바 오사카",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "강원FC, ACLE 플레이오프 해외 중계권 '직접 판매'…K리그 최초",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810133128534"
+      }
+    },
+    {
+      "keyword": "경산시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "인천 계양구, 8월은 주민세(개인분/사업소분) 납부의 달",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711895"
+      }
+    },
+    {
+      "keyword": "김용빈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김용빈 단독콘서트 ‘세레나데’ 초고속 매진",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811083209968"
       }
     }
   ]
