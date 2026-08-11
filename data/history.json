@@ -3044,5 +3044,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-12T05:33:53.452585+09:00",
+    "label": "05:33",
+    "items": [
+      {
+        "keyword": "함소원",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811181037699"
+        }
+      },
+      {
+        "keyword": "투자가",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "패밀리 캐피탈의 3륜 전기차 베팅",
+          "source": "뉴스N연합",
+          "url": "https://newsyonhap.com/news/119014"
+        }
+      },
+      {
+        "keyword": "김용건",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "황보라, 시아버지 김용건 ‘프라이빗 별장’ 최초 공개… ‘감탄’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811194511208"
+        }
+      },
+      {
+        "keyword": "광 통신",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[특징주] 광통신株, 전날 급등분 일부 반납",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260811023321481"
+        }
+      },
+      {
+        "keyword": "진수 화",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260811n16238"
+        }
+      },
+      {
+        "keyword": "신지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신지 “의자에 발 올린 거 아니고 들고 있는 거” 사진 속 포즈 해명",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260811/134455688/1"
+        }
+      },
+      {
+        "keyword": "고소영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'장동건♥' 고소영, 54세에도 이런 센스를…발끝 하나부터 다르네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811033439694"
+        }
+      },
+      {
+        "keyword": "테이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812005409959"
+        }
+      },
+      {
+        "keyword": "cpi",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "S&P 500 falls amid Iran uncertainty, Big Tech losses: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
+        }
+      },
+      {
+        "keyword": "슈퍼맨이 돌아왔다",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811132842054"
+        }
+      }
+    ]
   }
 ]
