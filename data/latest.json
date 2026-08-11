@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-12T03:46:27.810948+09:00",
-  "label": "03:46",
+  "timestamp": "2026-08-12T04:54:15.411546+09:00",
+  "label": "04:54",
   "items": [
     {
       "keyword": "함소원",
@@ -17,9 +17,9 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811135009764"
+        "title": "손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1"
       }
     },
     {
@@ -43,6 +43,16 @@
       }
     },
     {
+      "keyword": "광 통신",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608114360i"
+      }
+    },
+    {
       "keyword": "진수 화",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -50,16 +60,6 @@
         "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
         "source": "네이트",
         "url": "https://sports.news.nate.com/view/20260811n16238"
-      }
-    },
-    {
-      "keyword": "광 통신",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608114360i"
       }
     },
     {
