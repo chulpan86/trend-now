@@ -1,61 +1,41 @@
 {
-  "timestamp": "2026-08-12T05:33:53.452585+09:00",
-  "label": "05:33",
+  "timestamp": "2026-08-12T06:35:14.852686+09:00",
+  "label": "06:35",
   "items": [
     {
-      "keyword": "함소원",
+      "keyword": "축구",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811181037699"
-      }
-    },
-    {
-      "keyword": "투자가",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "패밀리 캐피탈의 3륜 전기차 베팅",
-        "source": "뉴스N연합",
-        "url": "https://newsyonhap.com/news/119014"
+        "title": "'성 접대 있었다' 감사 결과에도 무혐의...축협 수사 가능할까",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0107_202608110819544779"
       }
     },
     {
       "keyword": "김용건",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "황보라, 시아버지 김용건 ‘프라이빗 별장’ 최초 공개… ‘감탄’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811194511208"
+        "title": "황보라, 시父 김용건 별장 클래스…3층 규모·하정우 트로피까지",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260811/134461567/1"
       }
     },
     {
-      "keyword": "광 통신",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "상장폐지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[특징주] 광통신株, 전날 급등분 일부 반납",
-        "source": "에너지경제신문",
-        "url": "https://m.ekn.kr/view.php?key=20260811023321481"
-      }
-    },
-    {
-      "keyword": "진수 화",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260811n16238"
+        "title": "‘상폐 기준 강화’ 한 달…상장사 10곳 중 1곳 ‘퇴출 위험’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608112039015"
       }
     },
     {
       "keyword": "신지",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "신지 “의자에 발 올린 거 아니고 들고 있는 거” 사진 속 포즈 해명",
         "source": "동아일보",
@@ -63,43 +43,63 @@
       }
     },
     {
-      "keyword": "고소영",
+      "keyword": "이재명 지지율",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이재명 정부·민주당에 등 돌리는 ‘2030 여성’···“86세대 중심 현 체제서 벗어나야”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608110600101"
+      }
+    },
+    {
+      "keyword": "김승현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김승현, 귀신 본 후 父 공장에 불 나..결국 이사했다 “무서운 기운 들어와”(광산김씨패밀리)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WRsXnu71SL"
+      }
+    },
+    {
+      "keyword": "마이크론 테크놀로지",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "삼성·SK, 美 투자 확대에 마이크론 “미국산 메모리는 우리가 유일…장기계약 더 늘어”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811084814447"
+      }
+    },
+    {
+      "keyword": "경기도",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'장동건♥' 고소영, 54세에도 이런 센스를…발끝 하나부터 다르네",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811033439694"
+        "title": "강원교육청, 올 하반기 스마트폰 청정학교 13곳 시범 운영",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260811117300062"
       }
     },
     {
-      "keyword": "테이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812005409959"
-      }
-    },
-    {
-      "keyword": "cpi",
+      "keyword": "심판",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "S&P 500 falls amid Iran uncertainty, Big Tech losses: Live updates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
+        "title": "[스포츠]박지성 \"축구협회 '심판 성접대'로 안 좋은 상황 맞이해\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0107_202608112338334566_005.html"
       }
     },
     {
-      "keyword": "슈퍼맨이 돌아왔다",
+      "keyword": "네이 마르",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]",
+        "title": "‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260811132842054"
+        "url": "https://v.daum.net/v/20260810142528644"
       }
     }
   ]
