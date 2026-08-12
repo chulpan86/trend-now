@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-13T04:55:40.784964+09:00",
-  "label": "04:55",
+  "timestamp": "2026-08-13T05:34:01.849769+09:00",
+  "label": "05:34",
   "items": [
     {
       "keyword": "맨유 대 리즈 유나이티드",
@@ -23,6 +23,16 @@
       }
     },
     {
+      "keyword": "데포르티보 대 레알 마드리드",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "데포르티보 라 코루냐 대 레알 마드리드 예측: 예상 라인업",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-deportivo-la-coruna-vs-real-madrid-doi-hinh-du-kien"
+      }
+    },
+    {
       "keyword": "운전",
       "traffic_raw": "2000+",
       "traffic": 2000,
@@ -30,36 +40,6 @@
         "title": "음주운전만 3번째, 결국 두 아이 엄마 숨졌다…가해자 \"1억 원에 합의하자\" 공분 ('한블리')",
         "source": "Daum",
         "url": "https://v.daum.net/v/Qf4A7h9Uto"
-      }
-    },
-    {
-      "keyword": "이찬원",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "이찬원 \"인생 잘못 살았다\" 착잡한 심경 토로 (편스토랑)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812163507664?f=m"
-      }
-    },
-    {
-      "keyword": "주진우",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260812162100004"
-      }
-    },
-    {
-      "keyword": "데포르티보 대 레알 마드리드",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "데포르티보 라 코루냐 대 레알 마드리드 예측: 예상 라인업",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-deportivo-la-coruna-vs-real-madrid-doi-hinh-du-kien"
       }
     },
     {
@@ -73,13 +53,43 @@
       }
     },
     {
-      "keyword": "배재고등학교",
+      "keyword": "แมนยู พบ ลีดส์",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608121756001"
+        "title": "เมสัน เมาท์ ไม่ได้เข้าร่วมฝึกซ้อม ทำให้เขาอาจพลาดการแข่งขันกระชับมิตรของแมนเชสเตอร์ ยูไนเต็ด กับลีดส์ ยูไนเต็ด",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/th/mason-mount-vang-mat-o-buoi-tap-nguy-co-lo-tran-giao-huu-cua-manchester-united-voi-leeds-united"
+      }
+    },
+    {
+      "keyword": "man united vs leeds",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Club Friendlies LIVE: Arsenal vs Como and Manchester United vs Leeds United - score, text commentary & match stats",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cmkg4znpwzd7t"
+      }
+    },
+    {
+      "keyword": "맨유",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'세상에' 이러다 '강제 잔류?'...맨체스터 유나이티드 '570억' 날리나? 예상보다 늦어지는 '합의'→영입 포기 가능성도 등장했다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813003649914"
+      }
+    },
+    {
+      "keyword": "man utd đấu với leeds",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Trực tiếp bóng đá MU - Leeds: Mbeumo lĩnh xướng hàng công, tân binh Andrey Santos đá chính",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-leeds-derby-lam-nong-truoc-mua-c48a1786060.html"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "Solar Eclipse Live Updates: Europe’s First Total Eclipse in Decades Starts on Path to Darkness",
         "source": "The New York Times",
         "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates"
-      }
-    },
-    {
-      "keyword": "국제선",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "아이바다패스 타 시도 지원 중단… 여름 성수기 섬 관광업체 날벼락",
-        "source": "경인일보",
-        "url": "https://www.kyeongin.com/article/1768931"
       }
     }
   ]
