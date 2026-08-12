@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-08-11T08:25:13.191924+09:00",
-    "label": "08:25",
-    "items": [
-      {
-        "keyword": "축구 감독",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'홍명보 후임' 드디어 찾았다! '전북 우승 명장' 포옛, 韓 대표팀 사령탑 부임 사실상 확정→\"9~11월 A매치 6경기 임시 지휘 전망\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811000025508"
-        }
-      },
-      {
-        "keyword": "삼전닉스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"삼전닉스 주식 다시 오를까요?\" 전문가에 물었더니…",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081050241"
-        }
-      },
-      {
-        "keyword": "이다해",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'세븐♥’ 이다해, 눈물 마를 날 없네..출산 앞두고 딸 선물에 감동",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Z1vZfYGhS7"
-        }
-      },
-      {
-        "keyword": "치어리더",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": null
-      },
-      {
-        "keyword": "손담비",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"적당히 하시길\" 성난 손담비, 1300만 원 'C사 가방' 들고 웃었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/z9BpyK9Uvo"
-        }
-      },
-      {
-        "keyword": "장기 기증",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "뇌사 50대의 생명나눔.. 9년 기다리던 60대, 새 삶 선물 받아",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810113401345"
-        }
-      },
-      {
-        "keyword": "등반",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“실내 클라이밍 성공!”…강북구, 느린학습자를 위한 스포츠 활동 지원",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608591"
-        }
-      },
-      {
-        "keyword": "번트",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"이정후한테 묻고 싶다, 한국서 번트를 몇 번이나…\" 이런 바보 같은 감독을 봤나, 중계진도 당황했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811001142846"
-        }
-      },
-      {
-        "keyword": "이솔이",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "소유",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "소유, 삼전닉스 팔아 마련한 집 공개…사우나·헬스장까지",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003743550"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-11T09:57:27.398656+09:00",
     "label": "09:57",
     "items": [
@@ -2723,6 +2625,108 @@
           "title": "증권사들, '역대급 증시' 2분기 실적 잔치…순익 141%↑",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260812174217615"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-12T20:38:50.059122+09:00",
+    "label": "20:38",
+    "items": [
+      {
+        "keyword": "티빙",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "첫 흑자 낸 티빙…웨이브 합병 셈법 더 복잡해졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810170253866"
+        }
+      },
+      {
+        "keyword": "홍현희",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘라스’ 홍현희 “내가 섹시하다고 생각”…유재석·이효리도 빠졌다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260812/134465256/1"
+        }
+      },
+      {
+        "keyword": "키",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'주사 이모' 무면허 진료 관련 샤이니 키 피의자 조사",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844266_36918.html"
+        }
+      },
+      {
+        "keyword": "안판석",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "안판석 감독 별세, 향년 65세…'하얀거탑'·'밀회' 드라마 명장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746818"
+        }
+      },
+      {
+        "keyword": "고독사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "대구광역시, '고독사 예방 즐거운생활지원단' 역량강화 교육 실시",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662864"
+        }
+      },
+      {
+        "keyword": "한강버스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] 오세훈표 한강버스 ‘3천원+α’ 주말요금 인상 추진",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/capital/1272545.html"
+        }
+      },
+      {
+        "keyword": "김상식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'22경기 무패' 김상식호 베트남, 말레이시아와 '동남아 월드컵' 4강",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260809135850084?f=p"
+        }
+      },
+      {
+        "keyword": "lg그룹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[오늘의 주목주] '젠슨 황 기대감' LG전자 주가 12%대 올라, 코스피 외국인 기관 매수세에 6570선 상승 마감",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444619"
+        }
+      },
+      {
+        "keyword": "朱镕基",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "헬멧",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'정차 불응' 오토바이 도주 10대, 차량 들이받고 사망(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812113915461"
         }
       }
     ]

@@ -1,71 +1,61 @@
 {
-  "timestamp": "2026-08-12T19:51:16.064956+09:00",
-  "label": "19:51",
+  "timestamp": "2026-08-12T20:38:50.059122+09:00",
+  "label": "20:38",
   "items": [
     {
-      "keyword": "사기",
+      "keyword": "티빙",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "은행권 덮친 대출사기…추가 피해 드러나며 사고액 '눈덩이'(종합)",
+        "title": "첫 흑자 낸 티빙…웨이브 합병 셈법 더 복잡해졌다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260812182452274"
+        "url": "https://v.daum.net/v/20260810170253866"
       }
     },
     {
-      "keyword": "포스코",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "공장 지붕부터 수중펌프까지…포항제철소, 태풍 대비 특별점검",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/daegu-gyeongbuk/6256772"
-      }
-    },
-    {
-      "keyword": "박정희",
+      "keyword": "홍현희",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "육영수 피격에 “박정희 온건하게 가지 않을것”…1974년 美비밀문서 공개",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20260811/134459970/1"
+        "title": "‘라스’ 홍현희 “내가 섹시하다고 생각”…유재석·이효리도 빠졌다",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260812/134465256/1"
       }
     },
     {
-      "keyword": "유시춘",
+      "keyword": "키",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘법카 사적 유용’ 유시춘 전 EBS 이사장 1심 무죄···“증거 불충분”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608121358001"
-      }
-    },
-    {
-      "keyword": "이준혁",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'로또 1등' 이준혁, 13억 당첨에도 출근하는 이유",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812093537252"
+        "title": "'주사 이모' 무면허 진료 관련 샤이니 키 피의자 조사",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6844266_36918.html"
       }
     },
     {
       "keyword": "안판석",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "안판석 감독 뇌출혈 투병 중 별세…'하얀거탑'·'밥누나' 연출",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812191352425?f=m"
+        "title": "안판석 감독 별세, 향년 65세…'하얀거탑'·'밀회' 드라마 명장",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260812_0003746818"
+      }
+    },
+    {
+      "keyword": "고독사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "대구광역시, '고독사 예방 즐거운생활지원단' 역량강화 교육 실시",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662864"
       }
     },
     {
       "keyword": "한강버스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "[단독] 오세훈표 한강버스 ‘3천원+α’ 주말요금 인상 추진",
         "source": "한겨레",
@@ -73,33 +63,39 @@
       }
     },
     {
-      "keyword": "손연재",
+      "keyword": "김상식",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "출산 후 더 말랐네…손연재, 흰색 민소매로 완성한 '극세사' 청순 자태",
+        "title": "'22경기 무패' 김상식호 베트남, 말레이시아와 '동남아 월드컵' 4강",
         "source": "Daum",
-        "url": "https://v.daum.net/v/K5I2uOIky8"
+        "url": "https://v.daum.net/v/20260809135850084?f=p"
       }
     },
     {
-      "keyword": "적금",
+      "keyword": "lg그룹",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "카카오뱅크, '우리아이통장·적금' 이용자 80만명 넘어",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260812067100002"
+        "title": "[오늘의 주목주] '젠슨 황 기대감' LG전자 주가 12%대 올라, 코스피 외국인 기관 매수세에 6570선 상승 마감",
+        "source": "비즈니스포스트",
+        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444619"
       }
     },
     {
-      "keyword": "미래에셋",
+      "keyword": "朱镕基",
       "traffic_raw": "200+",
       "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "헬멧",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "증권사들, '역대급 증시' 2분기 실적 잔치…순익 141%↑",
+        "title": "'정차 불응' 오토바이 도주 10대, 차량 들이받고 사망(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260812174217615"
+        "url": "https://v.daum.net/v/20260812113915461"
       }
     }
   ]
