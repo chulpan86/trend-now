@@ -2954,5 +2954,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-13T06:34:29.621497+09:00",
+    "label": "06:34",
+    "items": [
+      {
+        "keyword": "택시 운전사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“토할 것 같아” 만취 승객 왕복 16차로에 버린 택시…징역형 구형",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260811204634284"
+        }
+      },
+      {
+        "keyword": "아이폰",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "메모리 가격 또 뛴다…숨막히는 스마트폰 '원가' 경쟁 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/08/12/2026081214474117414"
+        }
+      },
+      {
+        "keyword": "박수홍",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "가족 복 없던 박수홍, 자식 농사는 대박났다...키즈 모델인 줄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811191138422"
+        }
+      },
+      {
+        "keyword": "인덱스 펀드",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "삼성운용, '삼성미국S&P500인덱스펀드' 순자산 1조원 넘어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812048700008"
+        }
+      },
+      {
+        "keyword": "아버지",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "13억에 팔린 냅킨 한 장… 열세 살 소년 메시의 운명을 바꿨다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260810521384"
+        }
+      },
+      {
+        "keyword": "골프",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "트럼프 머리 위로 또 민항기 ‘침범’…“군용기 갈아탈 때 핵심 측근만 동승”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635759"
+        }
+      },
+      {
+        "keyword": "신유빈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "신유빈·임종훈, 유럽 스매시서 '22분 만에' 통과",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812211810399"
+        }
+      },
+      {
+        "keyword": "연금 개혁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘소득 적으면 기초연금 더’…與 “생년월일 차로 갈리면 안돼”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813050129472"
+        }
+      },
+      {
+        "keyword": "공공기관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "李 “공공기관 몰아서 보낼 것”…350곳 대상 2차 지방이전 쟁탈전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812213649745"
+        }
+      },
+      {
+        "keyword": "arsenal vs como",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "¿Cómo ver el partido del Arsenal vs Como en TV y streaming?",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-arsenal-vs-como-en-tv-y-streaming-12-8-2026"
+        }
+      }
+    ]
   }
 ]
