@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-13T07:30:22.827778+09:00",
-  "label": "07:30",
+  "timestamp": "2026-08-13T08:29:32.551978+09:00",
+  "label": "08:29",
   "items": [
     {
-      "keyword": "동전주",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "동전주·시총미달 상장폐지 문 열렸다…36개 첫 관리종목 지정(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260812141652008"
-      }
-    },
-    {
-      "keyword": "천궁",
+      "keyword": "안정환",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "이란 미사일 잡더니 주문 폭주…천궁Ⅱ, 한국 물량 괜찮나 [밀리터리+]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260812n31767"
+        "title": "35억원 빚더미에서 강남 건물주 된 안정환, 25년이 증명한 실전 경제 기록",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260624513696"
       }
     },
     {
-      "keyword": "삼전닉스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "다시 힘받은 반도체…코스피 3.68%↑, 사흘연속 상승(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260812128600008"
-      }
-    },
-    {
-      "keyword": "기사",
+      "keyword": "이진숙",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "힘찬병원 “더위에 혈당도 흔들린다…고혈당·저혈당 쇼크, 응급 신호 제대로 알아야”",
-        "source": "로이슈",
-        "url": "https://www.lawissue.co.kr/view.php?ud=202608121807156408f4ab64559d_12"
+        "title": "이진숙, “광주, 반문명·반근대 민중·민족주의 세력에 의해 지배” 주장 단체와 5·18 포럼 개최",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608111552001"
       }
     },
     {
-      "keyword": "skhy",
+      "keyword": "이투데이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "SKHY Stock Drops As Massive Nvidia AI Deal Reshapes Outlook",
-        "source": "StocksToTrade",
-        "url": "https://stockstotrade.com/news/sk-hynix-inc-skhy-news-2026_08_12/"
+        "title": "'하닉 통합노조' 출범 임박…'성과급 연대' 예고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813070611112"
       }
     },
     {
-      "keyword": "집",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "제주특별자치도",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "철도",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“아파트 맞교환 하실 분”… 교환거래 3년만에 최다",
+        "title": "안성시, JTX 신속 추진 촉구…12만4944명 시민 서명 국토부 전달",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712187"
+      }
+    },
+    {
+      "keyword": "서울역",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[챗집피티]\"서울역까지 5분\"…다시 시동 건 '1조' 용산 서계동 재개발 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/estate/2026/08/10/2026080715355894141"
+      }
+    },
+    {
+      "keyword": "노동쟁의",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[사설]法·令 근거 없이 노동부 멋대로 정한 노봉법 쟁의 기준",
         "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20260812/134467948/2"
+        "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468521/2"
       }
     },
     {
-      "keyword": "광 통신",
+      "keyword": "롯데렌탈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608114360i"
+        "title": "TPG 품에 안긴 롯데렌탈…\"매각대금에도 롯데그룹 신용도 영향 제한적\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/ZNQOQVrNtq"
       }
     },
     {
-      "keyword": "풍자",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"오똑한 콧날에 갸름한 얼굴\"…풍자, 33㎏ 감량 후 달라진 근황",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260811_0003744036"
-      }
-    },
-    {
-      "keyword": "한국마사회",
+      "keyword": "퇴거",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한국마사회, 스타트업 10개사와 협약 맺어",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608130622003"
+        "title": "인천공항 의자 점령에 전기차 노숙까지…시민단체 \"일방적 내쫓기\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812193554910"
       }
     },
     {
-      "keyword": "депортиво – реал мадрид",
+      "keyword": "추경호",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Прогноз «Депортиво Ла-Корунья» — «Реал Мадрид»: ожидаемые составы",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ru/nhan-dinh-deportivo-la-coruna-vs-real-madrid-doi-hinh-du-kien"
+        "title": "무한소통 추경호 대구시장, 이번엔 공무원 무기명 토론방 ‘등판’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812153504581"
       }
     }
   ]
