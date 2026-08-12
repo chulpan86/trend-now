@@ -2840,5 +2840,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-13T01:45:46.365117+09:00",
+    "label": "01:45",
+    "items": [
+      {
+        "keyword": "더불어민주당",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국정과제 1호는 뭐냐 질문에 그럼 50호는? 마지막 토론도 설전",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844318_37004.html"
+        }
+      },
+      {
+        "keyword": "온유",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/08/12/WIXOR7OABNBNHFZMB3PBDTZO7Q/"
+        }
+      },
+      {
+        "keyword": "돌싱글즈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'돌싱글즈6' 문방글♥염시영, 현커 2년만에 \"각자의 시간 갖는중\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812095707495"
+        }
+      },
+      {
+        "keyword": "이찬원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이찬원 \"인생 잘못 살았다\" 착잡한 심경 고백(편스토랑)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/12/GFRDKZTCGE4GEOJYGE4TENDGGM/"
+        }
+      },
+      {
+        "keyword": "주진우",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812162100004"
+        }
+      },
+      {
+        "keyword": "배재고등학교",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608121756001"
+        }
+      },
+      {
+        "keyword": "정국",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "BTS 뷔 \"오른쪽 30%만 들려\" 청력 이상 고백",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/12/ZJJUPZEBRFGUBNV5Q46H723JJQ/"
+        }
+      },
+      {
+        "keyword": "이동국",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'이동국 딸' 재시, 모델 포스 제대로…물오른 성숙미",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2174110"
+        }
+      },
+      {
+        "keyword": "야구순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[프로야구] 중간 순위(12일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6257406"
+        }
+      },
+      {
+        "keyword": "요나단 페라자",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "한화 김경문 감독 \"페라자, 부친 방한 효과 내심 기대…정우주는 1~2G 보고 콜업 결정\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fd0oN30HsV"
+        }
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-13T00:50:49.316909+09:00",
-  "label": "00:50",
+  "timestamp": "2026-08-13T01:45:46.365117+09:00",
+  "label": "01:45",
   "items": [
     {
       "keyword": "더불어민주당",
@@ -17,9 +17,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'주사 이모' 의혹 수사 경찰, 키·온유·전현무 등 피의자 조사",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6844266_36918.html"
+        "title": "경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/08/12/WIXOR7OABNBNHFZMB3PBDTZO7Q/"
       }
     },
     {
@@ -33,23 +33,33 @@
       }
     },
     {
-      "keyword": "kbo 리그",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "이찬원",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[단독] '사상 초유' KBO 행정 착오로 울산 오카다, LG 이적 무산",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812183727665"
+        "title": "이찬원 \"인생 잘못 살았다\" 착잡한 심경 고백(편스토랑)",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/12/GFRDKZTCGE4GEOJYGE4TENDGGM/"
       }
     },
     {
       "keyword": "주진우",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260812162100004"
+      }
+    },
+    {
+      "keyword": "배재고등학교",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608121756001"
       }
     },
     {
@@ -60,16 +70,6 @@
         "title": "BTS 뷔 \"오른쪽 30%만 들려\" 청력 이상 고백",
         "source": "조선일보",
         "url": "https://www.chosun.com/culture-life/culture_general/2026/08/12/ZJJUPZEBRFGUBNV5Q46H723JJQ/"
-      }
-    },
-    {
-      "keyword": "두산",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "강백호-김도영-김태균 제치고 1위, 어떻게 가능했나 \"찬스 되면 흥분하는 스타일인데…\" [오!쎈 잠실]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812124610521"
       }
     },
     {
