@@ -2730,5 +2730,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-12T21:43:46.871653+09:00",
+    "label": "21:43",
+    "items": [
+      {
+        "keyword": "오상진",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'김소영♥' 오상진 \"둘째, 태어나자마자 중환자실 입원…마음고생 많이 해\" (편스토랑)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812110209101"
+        }
+      },
+      {
+        "keyword": "운전 기사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "차량호출 운전기사들은 사회보장 지원을 기대하고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tai-xe-cong-nghe-mong-co-be-do-an-sinh"
+        }
+      },
+      {
+        "keyword": "홍현희",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "작정하고 살 뺀 홍현희, 얼마나 말랐으면..유아용 자동차에 몸이 ‘쏙’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pR72r8OcyP"
+        }
+      },
+      {
+        "keyword": "공유",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "공유, 반려묘 떠나보냈다 \"나와 닮은 너라서 좋았는데…\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746166"
+        }
+      },
+      {
+        "keyword": "대한민국",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "국민이 바라고 청년이 꿈꾸는 대한민국이 되도록 - 전체 | 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148969953&pWise=sub&pWiseSub=C3"
+        }
+      },
+      {
+        "keyword": "lg그룹",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "LG전자 오르면 증시 끝물?...모건스탠리 \"반도체 다음은 LG삼형제\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/08/12/H2GRJEBDMJEB3AK4POOMMLQ7MY/"
+        }
+      },
+      {
+        "keyword": "김상식",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "무패 행진 베트남 김상식호, 옥에 티는 ‘골 결정력’",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260811010003763"
+        }
+      },
+      {
+        "keyword": "송원근",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "깜짝 결혼 발표 송원근 \"노총각 딱지 떼게 돼, 신기하고 행복\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812133911907"
+        }
+      },
+      {
+        "keyword": "개기일식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "유럽 '세기의 일식 우주쇼'에 흥분…수백만명 몰리고 안경 동났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812170452912"
+        }
+      },
+      {
+        "keyword": "야구 감독",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"던지다 또 아프면 어떡하지\" 151㎞ 던지고도 자기 공 못 믿었는데... 덕수고 김대승, 17년 만의 대통령배 우승 이끌다 [인터뷰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/10/2026080913374891115"
+        }
+      }
+    ]
   }
 ]
