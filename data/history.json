@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-11T04:47:18.473870+09:00",
-    "label": "04:47",
-    "items": [
-      {
-        "keyword": "레임덕",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2j7yJICEaU"
-        }
-      },
-      {
-        "keyword": "대한 광통신",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810039000008"
-        }
-      },
-      {
-        "keyword": "케스파컵",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한화생명, 젠지에 2-1 역전승⋯KeSPA컵 결선 스테이지 2 직행",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2612919"
-        }
-      },
-      {
-        "keyword": "아이맥스 영화관",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[특집] 2700년 전의 번개를 마주하다 – 김우형 촬영감독의 촬영 분석",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=110472"
-        }
-      },
-      {
-        "keyword": "더트롯쇼",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260810508965"
-        }
-      },
-      {
-        "keyword": "컴퓨터 공학",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810141500004"
-        }
-      },
-      {
-        "keyword": "김유재",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성공 미쳤다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260810n22071"
-        }
-      },
-      {
-        "keyword": "에어부산",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "에어부산, '동계 스케줄 오픈' 국내선 항공권 할인 프로모션",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810068200051"
-        }
-      },
-      {
-        "keyword": "베스테를로",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해 안에 어렵나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/p6spnlSr1r?f=p"
-        }
-      },
-      {
-        "keyword": "수능",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "전남광주 통합에도 수능 시험지구 지난해와 동일",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810114200054"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-11T05:30:51.769590+09:00",
-    "label": "05:30",
-    "items": [
-      {
-        "keyword": "레임덕",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2j7yJICEaU"
-        }
-      },
-      {
-        "keyword": "대한 광통신",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810039000008"
-        }
-      },
-      {
-        "keyword": "케스파컵",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한화생명, 젠지에 2-1 역전승⋯KeSPA컵 결선 스테이지 2 직행",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2612919"
-        }
-      },
-      {
-        "keyword": "아이맥스 영화관",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[특집] 2700년 전의 번개를 마주하다 – 김우형 촬영감독의 촬영 분석",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=110472"
-        }
-      },
-      {
-        "keyword": "더트롯쇼",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260810508965"
-        }
-      },
-      {
-        "keyword": "컴퓨터 공학",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810141500004"
-        }
-      },
-      {
-        "keyword": "전북특별자치도교육청",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전북교육청, 10~12일 '고3 학생부종합전형 전문상담'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742637"
-        }
-      },
-      {
-        "keyword": "에어부산",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "에어부산, '동계 스케줄 오픈' 국내선 항공권 할인 프로모션",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810068200051"
-        }
-      },
-      {
-        "keyword": "베스테를로",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해 안에 어렵나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/p6spnlSr1r?f=p"
-        }
-      },
-      {
-        "keyword": "수능",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "전남광주 통합에도 수능 시험지구 지난해와 동일",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810114200054"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-11T06:31:45.272757+09:00",
     "label": "06:31",
     "items": [
@@ -2935,6 +2723,112 @@
           "title": "‘유시은♥’ 이관희 “‘피겜X’ 살아남았다면 최혜선과 재밌는 그림 많았을 것” [일문일답]",
           "source": "조선일보",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/MRRDSNRTHBTDGNDDGJSGKNDEMM/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-12T18:00:46.069585+09:00",
+    "label": "18:00",
+    "items": [
+      {
+        "keyword": "주주",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“49% 빠진 삼전, 조정 끝났다”…증권사가 내민 3가지 근거 [오늘 나온 보고서]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812084201971"
+        }
+      },
+      {
+        "keyword": "005930",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "Micron Stock Pops. It Gains Memory-Chip Share but So Does Chinese Rival CXMT.",
+          "source": "Barron's",
+          "url": "https://www.barrons.com/articles/micron-stock-price-memory-chip-cxmt-b5de09d6"
+        }
+      },
+      {
+        "keyword": "네이마르",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810142528644"
+        }
+      },
+      {
+        "keyword": "에어 인디아",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘대마초 양성’ 기장, 이륙하자마자 90m서 ‘급강하’…승객 등 24명 부상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812143755639"
+        }
+      },
+      {
+        "keyword": "연휴",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“좌석 늘려달라” 몇 달째인데… 광복절 앞둔 14일 제주행 ‘0석’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812153502578"
+        }
+      },
+      {
+        "keyword": "코디 폰세",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'KBO MVP' 폰세 어디서 뭐하나 했더니…ACL 파열→NFL 슈퍼스타 처남과 이색 재활",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812094610869"
+        }
+      },
+      {
+        "keyword": "김지수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김지수, 음주논란→韓떠나 프라하서 여행사 차리더니..\"여름나기 수월해\" 여유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/XNJDOogRvh"
+        }
+      },
+      {
+        "keyword": "치안정감",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경찰 치안정감 승진 4명 내정…차기 경찰청장 후보군 윤곽",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812152149957"
+        }
+      },
+      {
+        "keyword": "차상현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'육서영 17점' 한국 여자배구, 동아시아선수권 첫판서 몽골 완파",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260811161400007"
+        }
+      },
+      {
+        "keyword": "민형배",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "민형배 전남광주시장, 여수세계섬박람회 보고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260811077100013"
         }
       }
     ]
