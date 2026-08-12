@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-10T23:12:57.530364+09:00",
-    "label": "23:12",
-    "items": [
-      {
-        "keyword": "경찰",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "교회서 자란 11살 어린이 숨져…이달에만 2차례 ‘학대 의심’ 신고",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8633281"
-        }
-      },
-      {
-        "keyword": "교도소",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 간병도, 진료비도 무료… ‘요양원’이 된 감옥 [탐사기획-노인과 교도소]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260810518720"
-        }
-      },
-      {
-        "keyword": "오초희",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"이 취미 알았다면 결혼 안 했다\"…오초희, 변호사 남편과 이혼 고민 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081010150827812"
-        }
-      },
-      {
-        "keyword": "한우",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "기록적 폭염에 가축도 비명…두달 새 재해보험 접수 2100건 넘어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/052MVF3GTm"
-        }
-      },
-      {
-        "keyword": "여객기",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"안전띠 안 매!\" 아이 한명 거부에…토론토행 항공편 취소",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260810142845WNn"
-        }
-      },
-      {
-        "keyword": "전북특별자치도교육청",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "천호성 교육감 \"수업 우수교사 발굴·포상 시스템 마련해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742885"
-        }
-      },
-      {
-        "keyword": "조원태",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "조원태와 불과 0.42%p 차이…한진칼 파고드는 호반 2세들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810103503270"
-        }
-      },
-      {
-        "keyword": "추신수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'연금 3억' 추신수, 후배들 위해 블랙카드 꺼냈다…370만 원 플렉스 ('남겨서') [종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810220107636"
-        }
-      },
-      {
-        "keyword": "김유재",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "피겨 선수 이모저모",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/57980086/107113555?cm=news_photolist&r=3&thumb=1"
-        }
-      },
-      {
-        "keyword": "가요무대",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'가요무대' 추억의 가요톱10, 전영록→이은하 등 라인업 공개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3660964"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-11T00:50:30.088458+09:00",
-    "label": "00:50",
-    "items": [
-      {
-        "keyword": "트럭",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'국민 트럭' 마저 안 팔린다…'38년 만에 최악' 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081051041"
-        }
-      },
-      {
-        "keyword": "대한 광통신",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810039000008"
-        }
-      },
-      {
-        "keyword": "교도소",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 간병도, 진료비도 무료… ‘요양원’이 된 감옥 [탐사기획-노인과 교도소]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260810518720"
-        }
-      },
-      {
-        "keyword": "케스파컵",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "협곡에 나타난 '괴물 로크'⋯'제카' 18/0/2으로 젠지 제압",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2612902"
-        }
-      },
-      {
-        "keyword": "한우",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "기록적 폭염에 가축도 비명…두달 새 재해보험 접수 2100건 넘어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/052MVF3GTm"
-        }
-      },
-      {
-        "keyword": "더트롯쇼",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260810508965"
-        }
-      },
-      {
-        "keyword": "컴퓨터 공학",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260810/134453294/1"
-        }
-      },
-      {
-        "keyword": "김유재",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김유성 金메달·김유재 銀메달!…'韓 17세 여자피겨 쌍둥이 자매' 시니어 첫 국제대회 1~2위 싹쓸이→트리플 악셀 성공+성공+성공 미쳤다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260810n22071"
-        }
-      },
-      {
-        "keyword": "전북특별자치도교육청",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "천호성 교육감 \"수업 우수교사 발굴·포상 시스템 마련해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742885"
-        }
-      },
-      {
-        "keyword": "조원태",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "조원태와 불과 0.42%p 차이…한진칼 파고드는 호반 2세들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810103503270"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-11T01:42:28.052017+09:00",
     "label": "01:42",
     "items": [
@@ -3147,6 +2935,112 @@
           "title": "'2연패 도전' 셸턴, 폰세카 꺾고 8강 합류",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISI20260810_0002208094"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-12T12:54:45.816923+09:00",
+    "label": "12:54",
+    "items": [
+      {
+        "keyword": "생계",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "부모·자녀 돈 많아도 생계급여 받는다…누가 언제부터?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812072109175"
+        }
+      },
+      {
+        "keyword": "기아",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독] 현대차·기아, 팩토리얼과 전고체 배터리 '공동생산' 길 열어뒀다…美 계약서 확인",
+          "source": "핀포인트뉴스",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476577"
+        }
+      },
+      {
+        "keyword": "폭포",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "사진 찍겠다며 안전난간 넘은 美 20대…54m 폭포 추락사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812081151215"
+        }
+      },
+      {
+        "keyword": "이시언",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘서지승♥’ 이시언, 子 육아에 푹 빠진 근황 “유모차보다 아빠 품이 더 좋은” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/11/MQ4GCMBSGU3WEYZVHBTGINBZMU/"
+        }
+      },
+      {
+        "keyword": "테니스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "2위 카를로스 이어 ‘윔블던 제패’ 신네르도 신시내티오픈 기권",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260810.99099002434"
+        }
+      },
+      {
+        "keyword": "김수 키",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260811213820"
+        }
+      },
+      {
+        "keyword": "등반",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "나영석PD “카더가든·도운·이채민·타잔, 예능의 미래 책임질 차세대 그룹”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812114422686"
+        }
+      },
+      {
+        "keyword": "지드래곤",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "다시 돌아온 빅뱅, 아이코닉한 비주얼",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812091000936"
+        }
+      },
+      {
+        "keyword": "공대공 미사일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] KF-21 보라매, 9월 17일 공군 첫 인도… 연말까지 8대",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260811001036"
+        }
+      },
+      {
+        "keyword": "천하람",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "개혁신당 천하람 육군훈련소 입소…사흘간 신병교육 체험",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260812069000001"
         }
       }
     ]

@@ -1,91 +1,61 @@
 {
-  "timestamp": "2026-08-12T10:04:02.817574+09:00",
-  "label": "10:04",
+  "timestamp": "2026-08-12T12:54:45.816923+09:00",
+  "label": "12:54",
   "items": [
     {
-      "keyword": "안세영",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "생계",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "숨 고른 '셔틀콕 여제' 안세영, 벼르던 '세계선수권' 다가온다",
+        "title": "부모·자녀 돈 많아도 생계급여 받는다…누가 언제부터?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260812064128558"
+        "url": "https://v.daum.net/v/20260812072109175"
       }
     },
     {
-      "keyword": "경제",
+      "keyword": "기아",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'반도체주' 뜻밖의 악재…한국 개미들 '초긴장' 하는 이유",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026081150181"
+        "title": "[단독] 현대차·기아, 팩토리얼과 전고체 배터리 '공동생산' 길 열어뒀다…美 계약서 확인",
+        "source": "핀포인트뉴스",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476577"
       }
     },
     {
-      "keyword": "정가은",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "폭포",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'정가은 떠오르네' 33세 女 배우, 은퇴 후 택시 기사로…\"하루 34만 원\" [해외이슈]",
+        "title": "사진 찍겠다며 안전난간 넘은 美 20대…54m 폭포 추락사",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260811171041314"
+        "url": "https://v.daum.net/v/20260812081151215"
       }
     },
     {
-      "keyword": "국채",
+      "keyword": "이시언",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "짐 비앙코 \"연준이 패닉해야 채권시장 패닉 멈춰…금리 올려야\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429651"
+        "title": "‘서지승♥’ 이시언, 子 육아에 푹 빠진 근황 “유모차보다 아빠 품이 더 좋은” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/11/MQ4GCMBSGU3WEYZVHBTGINBZMU/"
       }
     },
     {
-      "keyword": "정준하",
+      "keyword": "테니스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'놀뭐' 잘리고 오열한 정준하, 허경환 저격 \"굴러 들어온 돌 기고만장\"(알딸딸)",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260812n06064"
+        "title": "2위 카를로스 이어 ‘윔블던 제패’ 신네르도 신시내티오픈 기권",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260810.99099002434"
       }
     },
     {
-      "keyword": "엘레나 리바키나",
+      "keyword": "김수 키",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "세계 2위 리바키나, 1위 등극 가능성에도 개의치 않아. \"가장 중요한 것은 성장하고 있는지 확인하는 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811190337219"
-      }
-    },
-    {
-      "keyword": "거제경찰서",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "40년 된 거제경찰서, 연초면으로 이전·신축 추진",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811171008298"
-      }
-    },
-    {
-      "keyword": "리사",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘재벌남친 결별설’ 리사, ♥ 3살 연하 ‘태국 차은우’ 배우와 열애설 활활",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608111617003"
-      }
-    },
-    {
-      "keyword": "김수키",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
         "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인",
         "source": "지디넷코리아",
@@ -93,13 +63,43 @@
       }
     },
     {
-      "keyword": "벤 셸턴",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "등반",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'2연패 도전' 셸턴, 폰세카 꺾고 8강 합류",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260810_0002208094"
+        "title": "나영석PD “카더가든·도운·이채민·타잔, 예능의 미래 책임질 차세대 그룹”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812114422686"
+      }
+    },
+    {
+      "keyword": "지드래곤",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "다시 돌아온 빅뱅, 아이코닉한 비주얼",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812091000936"
+      }
+    },
+    {
+      "keyword": "공대공 미사일",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] KF-21 보라매, 9월 17일 공군 첫 인도… 연말까지 8대",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260811001036"
+      }
+    },
+    {
+      "keyword": "천하람",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "개혁신당 천하람 육군훈련소 입소…사흘간 신병교육 체험",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260812069000001"
       }
     }
   ]
