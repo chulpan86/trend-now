@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-08-13T03:47:31.125722+09:00",
-  "label": "03:47",
+  "timestamp": "2026-08-13T04:55:40.784964+09:00",
+  "label": "04:55",
   "items": [
     {
       "keyword": "맨유 대 리즈 유나이티드",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "맨유 초비상 피했다! 월드컵서 '또 부상' 리산드로, 복귀 청신호 \"잔디 위 개인 훈련 진행\"",
         "source": "네이트",
         "url": "https://sports.news.nate.com/view/20260812n02508"
+      }
+    },
+    {
+      "keyword": "psg 대 애스턴 빌라",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "PSG, 슈퍼컵 앞두고 \"라커룸 좁다\" 불만…결국 추가 배정",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2LrzQKEo3b"
       }
     },
     {
@@ -23,29 +33,19 @@
       }
     },
     {
-      "keyword": "돌싱글즈",
+      "keyword": "이찬원",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'돌싱글즈6' 문방글♥염시영, 현커 2년만에 \"각자의 시간 갖는중\"",
+        "title": "이찬원 \"인생 잘못 살았다\" 착잡한 심경 토로 (편스토랑)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260812095707495"
-      }
-    },
-    {
-      "keyword": "이찬원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "가왕 조용필? 이찬원이 모신 특급 손님 정체 (편스토랑)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812154127962"
+        "url": "https://v.daum.net/v/20260812163507664?f=m"
       }
     },
     {
       "keyword": "주진우",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
         "source": "연합뉴스",
@@ -53,13 +53,23 @@
       }
     },
     {
-      "keyword": "정국",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "데포르티보 대 레알 마드리드",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "BTS 뷔, 청력 이상 호소…\"오른쪽 30%밖에 안 들려 병원 치료\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260812137200005"
+        "title": "데포르티보 라 코루냐 대 레알 마드리드 예측: 예상 라인업",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-deportivo-la-coruna-vs-real-madrid-doi-hinh-du-kien"
+      }
+    },
+    {
+      "keyword": "아스널 대 코모",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘또 미드필더?’ 아스널이 기마랑이스에 1500억원 쓴 이유… 알고 보면 라이스가 더 편해진다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811180506491"
       }
     },
     {
@@ -73,13 +83,13 @@
       }
     },
     {
-      "keyword": "더불어민주당",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "watch",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "민주당, 오늘 의원총회 열고 세제 개편안·부동산 공급 대책 의견 수렴",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813010253065"
+        "title": "Solar Eclipse Live Updates: Europe’s First Total Eclipse in Decades Starts on Path to Darkness",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김해공항 외국인 400만 눈앞…\"에어부산 지키고 외항사 띄워야\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812095408348"
-      }
-    },
-    {
-      "keyword": "이동국",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'브라질 行' 앞둔 이동국 아들, 클수록 아빠 얼굴…엄마 눈에는 그저 아기 '대박이'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/11/GQYDCMLDMNQTAZJZGRSTCNLCHE/"
+        "title": "아이바다패스 타 시도 지원 중단… 여름 성수기 섬 관광업체 날벼락",
+        "source": "경인일보",
+        "url": "https://www.kyeongin.com/article/1768931"
       }
     }
   ]
