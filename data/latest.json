@@ -1,105 +1,93 @@
 {
-  "timestamp": "2026-08-13T16:12:07.037238+09:00",
-  "label": "16:12",
+  "timestamp": "2026-08-13T18:02:06.392254+09:00",
+  "label": "18:02",
   "items": [
     {
-      "keyword": "안규백",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "강서구",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "육사 동창회장 \"육사 원죄 사과할테니 사관학교 통합 물러달라\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6562134"
+        "title": "수도권 2.7만 신규 공급‥'결혼 페널티' 고친다",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6844466_36967.html"
       }
     },
     {
-      "keyword": "송은이",
+      "keyword": "시내버스",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'비보' 송은이♥김의성 '우결' 프로젝트 추진..김숙 \"잘 어울려\" 환호[순간포착]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/"
-      }
-    },
-    {
-      "keyword": "휴게소",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "쓰레기통 음식 주워먹고 ‘차박’하던 50대…휴게소 직원 신고 후 벌어진 일",
+        "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813111253526"
+        "url": "https://v.daum.net/v/20260813065101857"
       }
     },
     {
-      "keyword": "슈퍼맨이 돌아왔다",
+      "keyword": "표인봉",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'슈돌' 심형탁 \"아들 하루 머리핀 없으면 안 돼\"…남다른 머리숱",
+        "title": "'61세' 표인봉, 서울역서 붕어빵 장사 근황 \"많이 벌 때는...\"('특종세상')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260812210649039"
+        "url": "https://v.daum.net/v/20260813121641028"
       }
     },
     {
-      "keyword": "버스",
+      "keyword": "황희찬",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
+        "title": "황희찬, 울버햄튼 방출 명단에…차기 행선지는 미정",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/5jAPM9DgYG"
+      }
+    },
+    {
+      "keyword": "009150",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "전범선",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "하영 \"모르고 집안 자랑 부끄럽다\"‥매서운 역풍에 '사과'",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html"
+        "url": "https://imnews.imbc.com/news/2026/society/article/6844271_36918.html"
       }
     },
     {
-      "keyword": "강원 fc",
+      "keyword": "강소휘",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813105154317"
-      }
+      "news": null
     },
     {
-      "keyword": "홈플러스 재개장",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“뭐? 한우가 반값이라고?” 홈플러스 재개장 첫날 문전성시…부활 신호탄일까",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608131515001"
-      }
+      "keyword": "공희용",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
-      "keyword": "왕 싱싱",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "中 유니트리 IPO 개미 1천700조 몰렸다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813042701694"
-      }
-    },
-    {
-      "keyword": "서울 도심",
+      "keyword": "저비용 항공사",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[속보]“집 못 지어서 미쳤나 소리 듣게 지어라”···남양주 덕소농장·경기광주·염창공원에 12만호 공급[8·13 부동산대책]",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608131200041"
+        "title": "티웨이항공, 상반기 1628억 영업손실…\"유가·환율 급등 피해\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260813_0003747704"
       }
     },
     {
-      "keyword": "미국 대통령",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "카카오 파업",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "트럼프 \"호르무즈 완전히 장악\"…WSJ \"현실은 전혀 달라\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12313107"
+        "title": "카카오뱅크 노조, 내일 하루 2차 파업…\"요구 관철까지 투쟁 지속\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813133919013"
       }
     }
   ]
