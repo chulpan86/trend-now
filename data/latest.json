@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-13T14:41:42.456815+09:00",
-  "label": "14:41",
+  "timestamp": "2026-08-13T16:12:07.037238+09:00",
+  "label": "16:12",
   "items": [
     {
-      "keyword": "스타벅스",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "안규백",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'스타벅스 운영' SCK컴퍼니 영업손실 184억 원‥적자 전환",
+        "title": "육사 동창회장 \"육사 원죄 사과할테니 사관학교 통합 물러달라\"",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6562134"
+      }
+    },
+    {
+      "keyword": "송은이",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'비보' 송은이♥김의성 '우결' 프로젝트 추진..김숙 \"잘 어울려\" 환호[순간포착]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/"
+      }
+    },
+    {
+      "keyword": "휴게소",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "쓰레기통 음식 주워먹고 ‘차박’하던 50대…휴게소 직원 신고 후 벌어진 일",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813141314509"
+        "url": "https://v.daum.net/v/20260813111253526"
       }
     },
     {
-      "keyword": "노숙인",
+      "keyword": "슈퍼맨이 돌아왔다",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "노숙인·독거노인 돕던 50대 미용사, 4명에 장기 기증",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260813050800530"
-      }
-    },
-    {
-      "keyword": "우크라이나",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "북한의 러시아 지원·흑해 교전…러·우 전쟁 다시 격화일로",
+        "title": "'슈돌' 심형탁 \"아들 하루 머리핀 없으면 안 돼\"…남다른 머리숱",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813094801874"
+        "url": "https://v.daum.net/v/20260812210649039"
       }
     },
     {
-      "keyword": "치 안정감",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘차기 경찰청장 후보군’ 치안정감 4명 내정",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260813/134468627/2"
-      }
-    },
-    {
-      "keyword": "2026",
+      "keyword": "버스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "WSOC Kicks Off 2026 Season at Stony Brook",
-        "source": "University of Connecticut Athletics",
-        "url": "https://uconnhuskies.com/news/2026/8/12/womens-soccer-wsoc-kicks-off-2026-season-at-stony-brook"
+        "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html"
       }
     },
     {
-      "keyword": "전설의 사내",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘전설의 사내’ 조권, 깝권 본색!…성리 형제 무릎",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608130823003"
-      }
-    },
-    {
-      "keyword": "심용환",
+      "keyword": "강원 fc",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "하영 \"모르고 집안 자랑 부끄럽다\"‥매서운 역풍에 '사과'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6844271_36918.html"
-      }
-    },
-    {
-      "keyword": "술집",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“요즘 진짜 하나도 안 보이네”…술집서 사라진 젊은이들 다 어디갔나 봤더니",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20078791"
-      }
-    },
-    {
-      "keyword": "우크라이나군",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "미군 기갑부대 vs 우크라이나 드론부대 맞붙었더니…순식간에 끝났다",
+        "title": "김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813093059105"
+        "url": "https://v.daum.net/v/20260813105154317"
       }
     },
     {
-      "keyword": "황신혜의 같이 삽시다",
+      "keyword": "홈플러스 재개장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“뭐? 한우가 반값이라고?” 홈플러스 재개장 첫날 문전성시…부활 신호탄일까",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608131515001"
+      }
+    },
+    {
+      "keyword": "왕 싱싱",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "中 유니트리 IPO 개미 1천700조 몰렸다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813042701694"
+      }
+    },
+    {
+      "keyword": "서울 도심",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'같이삽시다' 양정아 \"정말 혼자 됐다\"…떠난 母 향한 그리움 [RE:TV]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813045127284"
+        "title": "[속보]“집 못 지어서 미쳤나 소리 듣게 지어라”···남양주 덕소농장·경기광주·염창공원에 12만호 공급[8·13 부동산대책]",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608131200041"
+      }
+    },
+    {
+      "keyword": "미국 대통령",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "트럼프 \"호르무즈 완전히 장악\"…WSJ \"현실은 전혀 달라\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12313107"
       }
     }
   ]
