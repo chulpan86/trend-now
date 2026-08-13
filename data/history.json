@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-12T12:54:45.816923+09:00",
-    "label": "12:54",
-    "items": [
-      {
-        "keyword": "생계",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "부모·자녀 돈 많아도 생계급여 받는다…누가 언제부터?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812072109175"
-        }
-      },
-      {
-        "keyword": "기아",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 현대차·기아, 팩토리얼과 전고체 배터리 '공동생산' 길 열어뒀다…美 계약서 확인",
-          "source": "핀포인트뉴스",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476577"
-        }
-      },
-      {
-        "keyword": "폭포",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "사진 찍겠다며 안전난간 넘은 美 20대…54m 폭포 추락사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812081151215"
-        }
-      },
-      {
-        "keyword": "이시언",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘서지승♥’ 이시언, 子 육아에 푹 빠진 근황 “유모차보다 아빠 품이 더 좋은” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/11/MQ4GCMBSGU3WEYZVHBTGINBZMU/"
-        }
-      },
-      {
-        "keyword": "테니스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "2위 카를로스 이어 ‘윔블던 제패’ 신네르도 신시내티오픈 기권",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260810.99099002434"
-        }
-      },
-      {
-        "keyword": "김수 키",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260811213820"
-        }
-      },
-      {
-        "keyword": "등반",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "나영석PD “카더가든·도운·이채민·타잔, 예능의 미래 책임질 차세대 그룹”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812114422686"
-        }
-      },
-      {
-        "keyword": "지드래곤",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "다시 돌아온 빅뱅, 아이코닉한 비주얼",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812091000936"
-        }
-      },
-      {
-        "keyword": "공대공 미사일",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독] KF-21 보라매, 9월 17일 공군 첫 인도… 연말까지 8대",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260811001036"
-        }
-      },
-      {
-        "keyword": "천하람",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "개혁신당 천하람 육군훈련소 입소…사흘간 신병교육 체험",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812069000001"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-12T14:23:49.870069+09:00",
     "label": "14:23",
     "items": [
@@ -2833,6 +2727,112 @@
           "title": "개설약사 연 평균 소득 1억원…상위 1%는 7억원 번다",
           "source": "데일리팜",
           "url": "https://dailypharm.com/user/news/341421"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-14T01:44:14.045374+09:00",
+    "label": "01:44",
+    "items": [
+      {
+        "keyword": "사랑 이 온다",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/GZRGMOLBGBQWKNLEHBRWMMDGGM/"
+        }
+      },
+      {
+        "keyword": "캐나다",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"캐치 미~\" 현실판…조종사 행세 캐나다男, 200차례 무료탑승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812162650283?f=p"
+        }
+      },
+      {
+        "keyword": "학교",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'아내는 교장.남편은 교사'…전남광주교육단체 \"인사 원칙 논란\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813154050459"
+        }
+      },
+      {
+        "keyword": "행동",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "성관계 후, ‘두 가지 행동’ 꼭 해라… 질병 예방 효과",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/13/2026081302757.html"
+        }
+      },
+      {
+        "keyword": "하영 엄마",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "하영 '증조부 친일 논란'에 안양시 독립운동가 소개글 비공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813101500061"
+        }
+      },
+      {
+        "keyword": "기쁜 우리 좋은 날",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "＂운전도 못 하는 사람이 교통사고?!＂ 정호빈의 서랍에서 진실을 발견한 이상숙 [기쁜 우리 좋은 날] | KBS 260813 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026141491-01-000_MFSC4&program_code=T2026-0027&program_id=PS-2026141491-01-000&section_code=03&broadcast_complete_yn=N&section_id=27243"
+        }
+      },
+      {
+        "keyword": "삼계탕 사발면",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6256976"
+        }
+      },
+      {
+        "keyword": "세르비아 축구 국가대표팀",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] ‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636373"
+        }
+      },
+      {
+        "keyword": "기아타이거즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "하주석 차량 못 받았다…\"비디오판독 해주신다고\" KIA 이적 후 첫 홈런 '시선집중'→\"살짝 모자랐다\" [광주 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813171939399"
+        }
+      },
+      {
+        "keyword": "데이브 로버츠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'끔찍한 사고' 2293억 다저스 슈퍼스타 계단 아래로 추락→로버츠 감독 황급히 뛰쳐나와…\"머리 충돌은 피했다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260813n26960"
         }
       }
     ]
