@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-14T05:30:42.223964+09:00",
-  "label": "05:30",
+  "timestamp": "2026-08-14T06:34:18.706552+09:00",
+  "label": "06:34",
   "items": [
     {
-      "keyword": "심정지",
+      "keyword": "선거",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "金은 15, 鄭은 5…호남경선 D-1 승리의 '매직넘버'는",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260814050313268"
+      }
+    },
+    {
+      "keyword": "과일",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[단독] 강남 치과서 8개월 새 2명 사망…\"그런 일 없어요\" 발뺌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813192352367"
+        "title": "\"당뇨 환자도 과일 먹어도 된다?\"…'이 과일'만큼은 피하세요",
+        "source": "아이뉴스24",
+        "url": "http://www.inews24.com/view/1994819"
       }
     },
     {
-      "keyword": "이창민",
+      "keyword": "공무원",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘전설의 사내’ 조권, 깝권 본색!…성리 형제 무릎",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608130823003"
+        "title": "환경미화원 3명에 이불 씌우고 멍석말이···‘계엄령 놀이’ 갑질 공무원, 항소심서도 실형",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608131636001"
       }
     },
     {
-      "keyword": "사랑 이 온다",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/GZRGMOLBGBQWKNLEHBRWMMDGGM/"
-      }
-    },
-    {
-      "keyword": "기쁜 우리 좋은 날",
+      "keyword": "아트엠앤씨",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "＂운전도 못 하는 사람이 교통사고?!＂ 정호빈의 서랍에서 진실을 발견한 이상숙 [기쁜 우리 좋은 날] | KBS 260813 방송",
-        "source": "대한민국 대표 공영미디어 KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026141491-01-000_MFSC4&program_code=T2026-0027&program_id=PS-2026141491-01-000&section_code=03&broadcast_complete_yn=N&section_id=27243"
+        "title": "[공식] 김호중 소속사, 고강도 세무조사에 626만 원 추가로 낸다..탈세 정황 無 [Oh!쎈 이슈]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/music/2026/08/13/GZQWIZJXGRRTQMTBGVSDANBVMM/"
       }
     },
     {
-      "keyword": "세르비아 축구 국가 대표팀",
+      "keyword": "문경시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814000009621"
+        "title": "김학홍 문경시장, 취임 30일 기자간담회",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260813_0002212068"
       }
     },
     {
-      "keyword": "데이터 센터",
+      "keyword": "오현규",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“우리 동네 주거지엔 안돼”…데이터센터 규제, 서울 구청장들 만장일치",
+        "title": "오현규 위기…베식타시, 세르비아 특급 골잡이 블라호비치 영입",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813170453563"
+        "url": "https://v.daum.net/v/11aqrc3Gtv"
       }
     },
     {
-      "keyword": "삼계탕 사발면",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/industry/distribution/6256976"
-      }
-    },
-    {
-      "keyword": "관세",
+      "keyword": "김민희",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "美 \"中, 40여개국 우회 관세회피\"…한국도 불법환적 위험국",
+        "title": "\"촬영장에서 수유까지\"…김민희, '혼외자 출산 후' 홍상수와 첫 공식석상 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081405344617083"
+      }
+    },
+    {
+      "keyword": "강민호",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "삼성, 9회초 류지혁 동점타·강민호 역전타…4연패 탈출(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260813175100007"
+      }
+    },
+    {
+      "keyword": "제주특별자치도",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "박완수",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "박완수 경남지사, 민선 9기 광역단체장 직무수행 평가 2위 [리얼미터]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814050343298"
-      }
-    },
-    {
-      "keyword": "노동자",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "강남구, 폭염 속 이동노동자에 ‘시원한 안전망’…6개 기관 힘 모았다",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712331"
-      }
-    },
-    {
-      "keyword": "dc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "One year in, the National Guard continues to patrol Washington, D.C.",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/trump-administration/one-year-national-guard-continues-patrol-washington-dc-rcna591956"
+        "url": "https://v.daum.net/v/20260813153053970"
       }
     }
   ]

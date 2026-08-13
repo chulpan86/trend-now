@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-12T18:00:46.069585+09:00",
-    "label": "18:00",
-    "items": [
-      {
-        "keyword": "주주",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "“49% 빠진 삼전, 조정 끝났다”…증권사가 내민 3가지 근거 [오늘 나온 보고서]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812084201971"
-        }
-      },
-      {
-        "keyword": "005930",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "Micron Stock Pops. It Gains Memory-Chip Share but So Does Chinese Rival CXMT.",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/micron-stock-price-memory-chip-cxmt-b5de09d6"
-        }
-      },
-      {
-        "keyword": "네이마르",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "‘MSN 트리오’ 미국서 재결합하나?···네이마르, 내년 1월 마이애미행 솔솔 ‘바르사 이후 재결성’ 주목",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810142528644"
-        }
-      },
-      {
-        "keyword": "에어 인디아",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘대마초 양성’ 기장, 이륙하자마자 90m서 ‘급강하’…승객 등 24명 부상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812143755639"
-        }
-      },
-      {
-        "keyword": "연휴",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“좌석 늘려달라” 몇 달째인데… 광복절 앞둔 14일 제주행 ‘0석’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812153502578"
-        }
-      },
-      {
-        "keyword": "코디 폰세",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'KBO MVP' 폰세 어디서 뭐하나 했더니…ACL 파열→NFL 슈퍼스타 처남과 이색 재활",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812094610869"
-        }
-      },
-      {
-        "keyword": "김지수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김지수, 음주논란→韓떠나 프라하서 여행사 차리더니..\"여름나기 수월해\" 여유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/XNJDOogRvh"
-        }
-      },
-      {
-        "keyword": "치안정감",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "경찰 치안정감 승진 4명 내정…차기 경찰청장 후보군 윤곽",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812152149957"
-        }
-      },
-      {
-        "keyword": "차상현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'육서영 17점' 한국 여자배구, 동아시아선수권 첫판서 몽골 완파",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260811161400007"
-        }
-      },
-      {
-        "keyword": "민형배",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "민형배 전남광주시장, 여수세계섬박람회 보고",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260811077100013"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-12T19:51:16.064956+09:00",
     "label": "19:51",
     "items": [
@@ -3045,6 +2939,108 @@
           "title": "One year in, the National Guard continues to patrol Washington, D.C.",
           "source": "NBC News",
           "url": "https://www.nbcnews.com/politics/trump-administration/one-year-national-guard-continues-patrol-washington-dc-rcna591956"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-14T06:34:18.706552+09:00",
+    "label": "06:34",
+    "items": [
+      {
+        "keyword": "선거",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "金은 15, 鄭은 5…호남경선 D-1 승리의 '매직넘버'는",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814050313268"
+        }
+      },
+      {
+        "keyword": "과일",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"당뇨 환자도 과일 먹어도 된다?\"…'이 과일'만큼은 피하세요",
+          "source": "아이뉴스24",
+          "url": "http://www.inews24.com/view/1994819"
+        }
+      },
+      {
+        "keyword": "공무원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "환경미화원 3명에 이불 씌우고 멍석말이···‘계엄령 놀이’ 갑질 공무원, 항소심서도 실형",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608131636001"
+        }
+      },
+      {
+        "keyword": "아트엠앤씨",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[공식] 김호중 소속사, 고강도 세무조사에 626만 원 추가로 낸다..탈세 정황 無 [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/08/13/GZQWIZJXGRRTQMTBGVSDANBVMM/"
+        }
+      },
+      {
+        "keyword": "문경시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김학홍 문경시장, 취임 30일 기자간담회",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260813_0002212068"
+        }
+      },
+      {
+        "keyword": "오현규",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "오현규 위기…베식타시, 세르비아 특급 골잡이 블라호비치 영입",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/11aqrc3Gtv"
+        }
+      },
+      {
+        "keyword": "김민희",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"촬영장에서 수유까지\"…김민희, '혼외자 출산 후' 홍상수와 첫 공식석상 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081405344617083"
+        }
+      },
+      {
+        "keyword": "강민호",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "삼성, 9회초 류지혁 동점타·강민호 역전타…4연패 탈출(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813175100007"
+        }
+      },
+      {
+        "keyword": "제주특별자치도",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "박완수",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "박완수 경남지사, 민선 9기 광역단체장 직무수행 평가 2위 [리얼미터]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813153053970"
         }
       }
     ]
