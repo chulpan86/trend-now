@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-08-14T06:34:18.706552+09:00",
-  "label": "06:34",
+  "timestamp": "2026-08-14T07:30:20.951874+09:00",
+  "label": "07:30",
   "items": [
     {
-      "keyword": "선거",
+      "keyword": "과일",
       "traffic_raw": "5000+",
       "traffic": 5000,
-      "news": {
-        "title": "金은 15, 鄭은 5…호남경선 D-1 승리의 '매직넘버'는",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814050313268"
-      }
-    },
-    {
-      "keyword": "과일",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
       "news": {
         "title": "\"당뇨 환자도 과일 먹어도 된다?\"…'이 과일'만큼은 피하세요",
         "source": "아이뉴스24",
@@ -23,19 +13,9 @@
       }
     },
     {
-      "keyword": "공무원",
+      "keyword": "아트 엠앤 씨",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "환경미화원 3명에 이불 씌우고 멍석말이···‘계엄령 놀이’ 갑질 공무원, 항소심서도 실형",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608131636001"
-      }
-    },
-    {
-      "keyword": "아트엠앤씨",
-      "traffic_raw": "500+",
-      "traffic": 500,
       "news": {
         "title": "[공식] 김호중 소속사, 고강도 세무조사에 626만 원 추가로 낸다..탈세 정황 無 [Oh!쎈 이슈]",
         "source": "조선일보",
@@ -43,29 +23,59 @@
       }
     },
     {
-      "keyword": "문경시",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "에코프로",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "김학홍 문경시장, 취임 30일 기자간담회",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260813_0002212068"
+        "title": "중저가부터 하이엔드까지…차세대 배터리 소재 보폭 넓히는 에코프로 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/industry/2026/08/13/2026081215145064772"
       }
     },
     {
-      "keyword": "오현규",
+      "keyword": "문경시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "장흥군, 3분기 통합방위협의회 개최 '비상 대응 체계 강화'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/RPR20260813006100353"
+      }
+    },
+    {
+      "keyword": "이상순",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "오현규 위기…베식타시, 세르비아 특급 골잡이 블라호비치 영입",
+        "title": "이효리, ♥이상순 두고 화사 손 꼭…심야 영화관서 포착",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608111119003"
+      }
+    },
+    {
+      "keyword": "강유미",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"수영장에 전용 테라스까지\"… '1억 뷰' 스타 3살 양이로, 럭셔리 하우스 공개 [홈즈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/11aqrc3Gtv"
+        "url": "https://v.daum.net/v/20260814054255803"
+      }
+    },
+    {
+      "keyword": "연꽃",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[포토뉴스]폭염 뚫고 활짝 핀 빅토리아 연꽃",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260813.99099003622"
       }
     },
     {
       "keyword": "김민희",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "\"촬영장에서 수유까지\"…김민희, '혼외자 출산 후' 홍상수와 첫 공식석상 - 머니투데이",
         "source": "머니투데이",
@@ -73,29 +83,23 @@
       }
     },
     {
-      "keyword": "강민호",
+      "keyword": "셀트리온",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "삼성, 9회초 류지혁 동점타·강민호 역전타…4연패 탈출(종합)",
+        "title": "셀트리온 ADC 항암신약, 미국 FDA 패스트트랙 추가 지정",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260813175100007"
+        "url": "https://www.yna.co.kr/view/AKR20260813022600017"
       }
     },
     {
-      "keyword": "제주특별자치도",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "박완수",
+      "keyword": "일기예보",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "박완수 경남지사, 민선 9기 광역단체장 직무수행 평가 2위 [리얼미터]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813153053970"
+        "title": "8월 13일 베트남 남부 및 호치민시 일기예보: 저녁에 천둥번개가 예상됩니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-nam-bo-va-tp-hcm-ngay-13-8-chieu-toi-mua-dong"
       }
     }
   ]
