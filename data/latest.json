@@ -1,101 +1,101 @@
 {
-  "timestamp": "2026-08-13T08:29:32.551978+09:00",
-  "label": "08:29",
+  "timestamp": "2026-08-13T10:05:30.621256+09:00",
+  "label": "10:05",
   "items": [
     {
-      "keyword": "안정환",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "35억원 빚더미에서 강남 건물주 된 안정환, 25년이 증명한 실전 경제 기록",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260624513696"
-      }
-    },
-    {
-      "keyword": "이진숙",
+      "keyword": "김정은",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이진숙, “광주, 반문명·반근대 민중·민족주의 세력에 의해 지배” 주장 단체와 5·18 포럼 개최",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608111552001"
-      }
-    },
-    {
-      "keyword": "이투데이",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'하닉 통합노조' 출범 임박…'성과급 연대' 예고",
+        "title": "'53세' 김정은, 영원한 모두의 연인···천진한 미소→세련된 분위기까지",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813070611112"
+        "url": "https://v.daum.net/v/20260813005850043"
       }
     },
     {
-      "keyword": "제주특별자치도",
+      "keyword": "메츠 대 브레이브스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "282억이나 줬는데 김하성 어쩌나…美 매체, \"상황 달라졌다\" 신인 유격수 급부상...오늘도 벤치 지킴이",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812102909278"
+      }
+    },
+    {
+      "keyword": "커피믹스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "뜨거운 원두 시장…‘생두 관문’ 부산이 커피산업 키울 기회(종합)",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260812.22010003080"
+      }
+    },
+    {
+      "keyword": "장기전세주택",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "길음역세권에 최고 29층·574세대 공급…장기전세주택 포함",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/GuIIgMSrGs"
+      }
+    },
+    {
+      "keyword": "인턴제",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": null
     },
     {
-      "keyword": "철도",
+      "keyword": "1기 신도시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "안성시, JTX 신속 추진 촉구…12만4944명 시민 서명 국토부 전달",
+        "title": "재건축 길 넓어진 1기 신도시…리모델링 '옥석 가리기",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812163511667"
+      }
+    },
+    {
+      "keyword": "상속세",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "가업상속공제 40년 '족쇄'…\"남자옷 팔다 여자옷 팔면 탈락\"",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12125590"
+      }
+    },
+    {
+      "keyword": "주민세",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "안산시 주민세 개인분 29만1천 건 부과…납부 기간·방법은",
         "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712187"
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712234"
       }
     },
     {
-      "keyword": "서울역",
+      "keyword": "롯데손해보험",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[챗집피티]\"서울역까지 5분\"…다시 시동 건 '1조' 용산 서계동 재개발 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/estate/2026/08/10/2026080715355894141"
+        "title": "'애물단지' 보험사 매각 잇단 '흥행'…다음 타자는 '롯데손보'",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/finance/insurance-card/6255948"
       }
     },
     {
-      "keyword": "노동쟁의",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[사설]法·令 근거 없이 노동부 멋대로 정한 노봉법 쟁의 기준",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Opinion/article/all/20260812/134468521/2"
-      }
-    },
-    {
-      "keyword": "롯데렌탈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "TPG 품에 안긴 롯데렌탈…\"매각대금에도 롯데그룹 신용도 영향 제한적\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZNQOQVrNtq"
-      }
-    },
-    {
-      "keyword": "퇴거",
+      "keyword": "택배없는날",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "인천공항 의자 점령에 전기차 노숙까지…시민단체 \"일방적 내쫓기\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812193554910"
-      }
-    },
-    {
-      "keyword": "추경호",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "무한소통 추경호 대구시장, 이번엔 공무원 무기명 토론방 ‘등판’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812153504581"
+        "title": "우체국 소포 배달원 14·18일 ‘폭염 휴무’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8634062"
       }
     }
   ]
