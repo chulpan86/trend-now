@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-14T03:47:51.575379+09:00",
-  "label": "03:47",
+  "timestamp": "2026-08-14T04:51:01.745827+09:00",
+  "label": "04:51",
   "items": [
     {
       "keyword": "심정지",
@@ -13,13 +13,13 @@
       }
     },
     {
-      "keyword": "캐나다",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "이창민",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "Canada, U.S. trade officials meeting again for talks ahead of looming tariff deadline",
-        "source": "CBC",
-        "url": "https://www.cbc.ca/news/politics/trade-tariff-talks-canada-us-canada-dominic-leblanc-jamieson-greer-9.7305811"
+        "title": "‘전설의 사내’ 조권, 깝권 본색!…성리 형제 무릎",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608130823003"
       }
     },
     {
@@ -37,9 +37,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'아내는 교장.남편은 교사'…전남광주교육단체 \"인사 원칙 논란\"",
+        "title": "[단독]\"미쳐버릴 정도로 두려워요\" 학폭위 처분에도 '괴롭힘 '",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813154050459"
+        "url": "https://v.daum.net/v/20260813153000907"
       }
     },
     {
@@ -73,13 +73,23 @@
       }
     },
     {
-      "keyword": "세르비아 축구 국가대표팀",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "세르비아 축구 국가 대표팀",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
+        "title": "오현규 위기…베식타시, 세르비아 특급 골잡이 블라호비치 영입",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814000009621"
+        "url": "https://v.daum.net/v/11aqrc3Gtv"
+      }
+    },
+    {
+      "keyword": "데이터 센터",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“우리 동네 주거지엔 안돼”…데이터센터 규제, 서울 구청장들 만장일치",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813170453563"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "One year in, the National Guard continues to patrol Washington, D.C.",
         "source": "NBC News",
         "url": "https://www.nbcnews.com/politics/trump-administration/one-year-national-guard-continues-patrol-washington-dc-rcna591956"
-      }
-    },
-    {
-      "keyword": "데이브 로버츠",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'끔찍한 사고' 2293억 다저스 슈퍼스타 계단 아래로 추락→로버츠 감독 황급히 뛰쳐나와…\"머리 충돌은 피했다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813162251471"
       }
     }
   ]
