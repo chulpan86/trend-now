@@ -1,61 +1,41 @@
 {
-  "timestamp": "2026-08-13T23:15:01.198138+09:00",
-  "label": "23:15",
+  "timestamp": "2026-08-14T00:49:22.350315+09:00",
+  "label": "00:49",
   "items": [
     {
-      "keyword": "김세의",
+      "keyword": "캐나다",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'수의 입고 활짝' 웃으며 등장한 김세의, 되레 \"검찰 안타깝다\"",
+        "title": "\"캐치 미~\" 현실판…조종사 행세 캐나다男, 200차례 무료탑승",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813203453282"
+        "url": "https://v.daum.net/v/20260812162650283?f=p"
       }
     },
     {
-      "keyword": "인공지능",
+      "keyword": "학교",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“가격보다 데이터 경쟁” 김은찬 교수가 말하는 한국형 피지컬AI 전략",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/It/article/all/20260813/134474464/1"
+        "title": "'아내는 교장.남편은 교사'…전남광주교육단체 \"인사 원칙 논란\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813154050459"
       }
     },
     {
-      "keyword": "보스턴 다이내믹스",
+      "keyword": "하영 엄마",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[단독] 현대차 '로봇 공급망' 재구축…1차 협력사와 혁신안 모색",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026081300921"
-      }
-    },
-    {
-      "keyword": "박성현",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "서교림, KLPGA 메디힐·한국일보 챔피언십 첫날 공동 선두…김민솔 공동 7위",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260813_0003748514"
-      }
-    },
-    {
-      "keyword": "사랑이 온다",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/GZRGMOLBGBQWKNLEHBRWMMDGGM/"
+        "title": "하영 '증조부 친일 논란'에 안양시 독립운동가 소개글 비공개",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260813101500061"
       }
     },
     {
       "keyword": "새미래민주당",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "\"우리집 주소는 서울 중구 XXXX\"…\"오빠, 우리 헤어져\" [시장톡]",
         "source": "한국경제",
@@ -63,43 +43,63 @@
       }
     },
     {
-      "keyword": "spotify",
+      "keyword": "행동",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Introducing a New Label for AI-Generated Artist Identities on Spotify",
-        "source": "Spotify — For the Record",
-        "url": "https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/"
+        "title": "광진, 말썽쟁이 반려견 집에서 교육해 준다",
+        "source": "서울Pn",
+        "url": "https://go.seoul.co.kr/news/newsView.php?id=20260812020002"
       }
     },
     {
-      "keyword": "하루",
+      "keyword": "세르비아 축구 국가대표팀",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "전남광주통합특별시 북구, 선제적인 가뭄 대응 위해 야외 물놀이장 운영 조기 종료",
+        "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/sports/baseball/2026/08/13/GM3TGZTGGMYTIYRYMU3TEODFMM/"
+      }
+    },
+    {
+      "keyword": "기아타이거즈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "삼성, 9회초 류지혁 동점타·강민호 역전타…4연패 탈출(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20260813005900353"
+        "url": "https://www.yna.co.kr/view/AKR20260813175100007"
       }
     },
     {
-      "keyword": "비",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "태풍 '돌핀'이 몰고 올 단비‥남부 가뭄 이제 끝나나?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813201324668"
-      }
-    },
-    {
-      "keyword": "ppi 발표",
+      "keyword": "삼계탕 사발면",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "미국 7월 소비자 물가 상승세 둔화...금리 동결 기대감 상승",
-        "source": "YTN 사이언스",
-        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608131603230533"
+        "title": "'국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/industry/distribution/6256976"
+      }
+    },
+    {
+      "keyword": "데이브 로버츠",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'끔찍한 사고' 2293억 다저스 슈퍼스타 계단 아래로 추락→로버츠 감독 황급히 뛰쳐나와…\"머리 충돌은 피했다\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260813n26960"
+      }
+    },
+    {
+      "keyword": "약사",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "개설약사 연 평균 소득 1억원…상위 1%는 7억원 번다",
+        "source": "데일리팜",
+        "url": "https://dailypharm.com/user/news/341421"
       }
     }
   ]
