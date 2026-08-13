@@ -1,93 +1,105 @@
 {
-  "timestamp": "2026-08-13T18:02:06.392254+09:00",
-  "label": "18:02",
+  "timestamp": "2026-08-13T19:52:39.354697+09:00",
+  "label": "19:52",
   "items": [
     {
-      "keyword": "강서구",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "수도권 2.7만 신규 공급‥'결혼 페널티' 고친다",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6844466_36967.html"
-      }
-    },
-    {
-      "keyword": "시내버스",
+      "keyword": "중매",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
+        "title": "“참한 아내” 알고보니 성병에 빚더미…‘초고속 결혼’ 난리난 곳",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813065101857"
+        "url": "https://v.daum.net/v/20260813140137892"
       }
     },
     {
-      "keyword": "표인봉",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'61세' 표인봉, 서울역서 붕어빵 장사 근황 \"많이 벌 때는...\"('특종세상')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813121641028"
-      }
-    },
-    {
-      "keyword": "황희찬",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "황희찬, 울버햄튼 방출 명단에…차기 행선지는 미정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5jAPM9DgYG"
-      }
-    },
-    {
-      "keyword": "009150",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "전범선",
+      "keyword": "모병제",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "하영 \"모르고 집안 자랑 부끄럽다\"‥매서운 역풍에 '사과'",
+        "title": "이 대통령, \"군 생활 '인생 낭비' 돼선 안 돼\"‥'선택적 모병제' 등 국방개혁 속도",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6844271_36918.html"
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6844506_36911.html"
       }
     },
     {
-      "keyword": "강소휘",
+      "keyword": "살인",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "스토킹 고소한 전 연인 살해‥경찰 '보복살인' 적용해 영장",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813173632244"
+      }
     },
     {
-      "keyword": "공희용",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "희토류 원소",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "수심 6000m에 희토류 1600만톤…美·日 ‘해저광산’ 추진",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813114508338"
+      }
     },
     {
-      "keyword": "저비용 항공사",
+      "keyword": "제우스 오만의 신",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "티웨이항공, 상반기 1628억 영업손실…\"유가·환율 급등 피해\"",
+        "title": "컴투스 '제우스: 오만의 신', 13일 오후 8시 캐릭터명 선점 시작",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260813101959"
+      }
+    },
+    {
+      "keyword": "거주지 기준 의료 이용 제한",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "거주지 기준 ‘의료이용 제한’ 움직임…개원가 ‘반발’",
+        "source": "데일리메디",
+        "url": "https://www.dailymedi.com/news/news_view.php?wr_id=939320"
+      }
+    },
+    {
+      "keyword": "목욕탕",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "목욕탕은 왜 여성한테만 수건·비누값 받나‥인권위 \"성차별\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6844463_36918.html"
+      }
+    },
+    {
+      "keyword": "김종국",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김종국 \"30년 간 저축만 했는데…삼전 평단가 5만원\"",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260813_0003747704"
+        "url": "https://www.newsis.com/view/NISX20260813_0003747441"
       }
     },
     {
-      "keyword": "카카오 파업",
+      "keyword": "lg이노텍",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "카카오뱅크 노조, 내일 하루 2차 파업…\"요구 관철까지 투쟁 지속\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813133919013"
+        "title": "LG이노텍, MSCI한국지수에 편입…HLB·LG디플 등 4개는 빠져",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260813008700008"
+      }
+    },
+    {
+      "keyword": "lg vs kiwoom",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'Three wins in the second half' LG faces KARA Carlos, 'Last-place' Kiwoom's An Woo-jin... After a six-day break, all first starters are mobilized to see 'who rested better'",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/en/sports/2026/08/11/2026081109073629297"
       }
     }
   ]
