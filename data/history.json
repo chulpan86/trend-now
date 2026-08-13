@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-08-11T23:12:01.052064+09:00",
-    "label": "23:12",
-    "items": [
-      {
-        "keyword": "부대",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "부대 울타리 넘어 KTX 탄 해병대 이병···4시간 만에 붙잡혀",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608111832001"
-        }
-      },
-      {
-        "keyword": "임 라라",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/biHjlhlwvl?f=p"
-        }
-      },
-      {
-        "keyword": "넥슨",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치",
-          "source": "Blizzard Entertainment",
-          "url": "https://overwatch.blizzard.com/ko-kr/news/24295381/"
-        }
-      },
-      {
-        "keyword": "민주노동조합총연맹",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "이 대통령, 검찰 보완수사권 폐지에 \"국민 우려 어떻게 할지 대책 보고해달라\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6843884_36911.html"
-        }
-      },
-      {
-        "keyword": "김설현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "정호연",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'틈만나면' 유재석 \"SBS 상 받은 유연석, 소처럼 일하라고\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811212600588"
-        }
-      },
-      {
-        "keyword": "갈소원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811071040299"
-        }
-      },
-      {
-        "keyword": "유성우",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo"
-        }
-      },
-      {
-        "keyword": "최지만",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'불꽃야구2' 이대호 vs 최지만…무려 21만 5천명 몰렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811075710097?f=p"
-        }
-      },
-      {
-        "keyword": "복지부",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "지역·필수의료 거점 국립대병원…20일부터 복지부가 맡는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811131803777"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-12T00:50:00.577537+09:00",
-    "label": "00:50",
-    "items": [
-      {
-        "keyword": "넥슨",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치",
-          "source": "Blizzard Entertainment",
-          "url": "https://overwatch.blizzard.com/ko-kr/news/24295381/"
-        }
-      },
-      {
-        "keyword": "임 라라",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/biHjlhlwvl?f=p"
-        }
-      },
-      {
-        "keyword": "민주노동조합총연맹",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이 대통령, 경찰 책임 확대 재차 거론‥\"수사 문제로 국민 걱정 많아\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844012_37004.html"
-        }
-      },
-      {
-        "keyword": "투자가",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "골드만삭스, AI 투자가 다른 기업 지출을 잠식할 수 있다고 경고",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2056007"
-        }
-      },
-      {
-        "keyword": "진수 화",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260811n16238"
-        }
-      },
-      {
-        "keyword": "갈소원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811071040299"
-        }
-      },
-      {
-        "keyword": "유성우",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo"
-        }
-      },
-      {
-        "keyword": "고소영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260811_0003745191"
-        }
-      },
-      {
-        "keyword": "테이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“친형 같던 매니저 먼저 떠나보내”…테이, 돌연 활동 중단한 이유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811091212463"
-        }
-      },
-      {
-        "keyword": "정호연",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "스토커 벌금 1000만원 구형된 날…황정민 '틈만나면' 출격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811205640874"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-12T01:46:21.607335+09:00",
     "label": "01:46",
     "items": [
@@ -2947,6 +2739,112 @@
           "title": "우체국 소포 배달원 14·18일 ‘폭염 휴무’",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8634062"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-13T12:59:47.617098+09:00",
+    "label": "12:59",
+    "items": [
+      {
+        "keyword": "한국경제",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“한국 가면 월급 5배로 벌 수 있다”…너도나도 짐 싸는 베트남 청년들",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20077449"
+        }
+      },
+      {
+        "keyword": "이재명 지지율",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608131123001"
+        }
+      },
+      {
+        "keyword": "크리스티안 로메로",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'공격 차단 후 이강인에게 연결' 로메로, 토트넘 떠나 ATM 이적...로마노, \"HERE WE GO\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813081450366"
+        }
+      },
+      {
+        "keyword": "창동",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"강남까지 15분\"…10억이던 아파트, 1년 만에 '대반전'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081274141"
+        }
+      },
+      {
+        "keyword": "복날",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "초복에 치킨 주문량 2.5배↑…bhc, 말복 '최대 4000원 할인' 이벤트 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/08/13/2026081309312211559"
+        }
+      },
+      {
+        "keyword": "gv80 하이브리드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "제네시스, GV80 하이브리드 내달 출시…\"352마력·연비 25% 개선\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003747234"
+        }
+      },
+      {
+        "keyword": "통합특별시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "조직 개편 지연에 정책·인사 행정 줄줄이 차질",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635540"
+        }
+      },
+      {
+        "keyword": "미국 증권거래위원회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "9월로 밀린 美 클래리티법…\"'수개월 내 통과' 가능성 25%\" 그쳐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812103450646"
+        }
+      },
+      {
+        "keyword": "광복절",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "당진시, 제81주년 광복절 맞아 ‘태극기 게양 SNS 인증 이벤트’ 진행",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712273"
+        }
+      },
+      {
+        "keyword": "동성로",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "대구 동성로 ‘부활 신호’…2030·로컬 콘텐츠가 이끈 상권 회복",
+          "source": "대구일보",
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=664994"
         }
       }
     ]
