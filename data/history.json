@@ -2836,5 +2836,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-14T03:47:51.575379+09:00",
+    "label": "03:47",
+    "items": [
+      {
+        "keyword": "심정지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독] 강남 치과서 8개월 새 2명 사망…\"그런 일 없어요\" 발뺌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813192352367"
+        }
+      },
+      {
+        "keyword": "캐나다",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Canada, U.S. trade officials meeting again for talks ahead of looming tariff deadline",
+          "source": "CBC",
+          "url": "https://www.cbc.ca/news/politics/trade-tariff-talks-canada-us-canada-dominic-leblanc-jamieson-greer-9.7305811"
+        }
+      },
+      {
+        "keyword": "사랑 이 온다",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813112708404"
+        }
+      },
+      {
+        "keyword": "학교",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'아내는 교장.남편은 교사'…전남광주교육단체 \"인사 원칙 논란\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813154050459"
+        }
+      },
+      {
+        "keyword": "행동",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "성관계 후, ‘두 가지 행동’ 꼭 해라… 질병 예방 효과",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/13/2026081302757.html"
+        }
+      },
+      {
+        "keyword": "기쁜 우리 좋은 날",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "＂운전도 못 하는 사람이 교통사고?!＂ 정호빈의 서랍에서 진실을 발견한 이상숙 [기쁜 우리 좋은 날] | KBS 260813 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026141491-01-000_MFSC4&program_code=T2026-0027&program_id=PS-2026141491-01-000&section_code=03&broadcast_complete_yn=N&section_id=27243"
+        }
+      },
+      {
+        "keyword": "삼계탕 사발면",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/distribution/6256976"
+        }
+      },
+      {
+        "keyword": "세르비아 축구 국가대표팀",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814000009621"
+        }
+      },
+      {
+        "keyword": "dc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "One year in, the National Guard continues to patrol Washington, D.C.",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/one-year-national-guard-continues-patrol-washington-dc-rcna591956"
+        }
+      },
+      {
+        "keyword": "데이브 로버츠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'끔찍한 사고' 2293억 다저스 슈퍼스타 계단 아래로 추락→로버츠 감독 황급히 뛰쳐나와…\"머리 충돌은 피했다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813162251471"
+        }
+      }
+    ]
   }
 ]

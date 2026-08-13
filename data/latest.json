@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-08-14T02:49:29.533969+09:00",
-  "label": "02:49",
+  "timestamp": "2026-08-14T03:47:51.575379+09:00",
+  "label": "03:47",
   "items": [
+    {
+      "keyword": "심정지",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[단독] 강남 치과서 8개월 새 2명 사망…\"그런 일 없어요\" 발뺌",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813192352367"
+      }
+    },
     {
       "keyword": "캐나다",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "캐나다 사스카추완 주총리, 미국과의 무역 협상 ’고무적’",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/economy-news/article-93CH-2061257"
+        "title": "Canada, U.S. trade officials meeting again for talks ahead of looming tariff deadline",
+        "source": "CBC",
+        "url": "https://www.cbc.ca/news/politics/trade-tariff-talks-canada-us-canada-dominic-leblanc-jamieson-greer-9.7305811"
       }
     },
     {
@@ -18,8 +28,8 @@
       "traffic": 1000,
       "news": {
         "title": "가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/GZRGMOLBGBQWKNLEHBRWMMDGGM/"
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813112708404"
       }
     },
     {
@@ -27,9 +37,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "부산진구학교밖청소년지원센터, 현장 지원 활동 실시",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20260814.22017003821"
+        "title": "'아내는 교장.남편은 교사'…전남광주교육단체 \"인사 원칙 논란\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813154050459"
       }
     },
     {
@@ -67,19 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독] ‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8636373"
-      }
-    },
-    {
-      "keyword": "기아타이거즈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "하주석 차량 못 받았다…\"비디오판독 해주신다고\" KIA 이적 후 첫 홈런 '시선집중'→\"살짝 모자랐다\" [광주 현장]",
+        "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813171939399"
+        "url": "https://v.daum.net/v/20260814000009621"
       }
     },
     {
