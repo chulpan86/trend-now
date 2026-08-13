@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-13T12:59:47.617098+09:00",
-  "label": "12:59",
+  "timestamp": "2026-08-13T14:41:42.456815+09:00",
+  "label": "14:41",
   "items": [
     {
-      "keyword": "한국경제",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "스타벅스",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“한국 가면 월급 5배로 벌 수 있다”…너도나도 짐 싸는 베트남 청년들",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20077449"
+        "title": "'스타벅스 운영' SCK컴퍼니 영업손실 184억 원‥적자 전환",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813141314509"
       }
     },
     {
-      "keyword": "이재명 지지율",
+      "keyword": "노숙인",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS]",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608131123001"
+        "title": "노숙인·독거노인 돕던 50대 미용사, 4명에 장기 기증",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260813050800530"
       }
     },
     {
-      "keyword": "크리스티안 로메로",
+      "keyword": "우크라이나",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "북한의 러시아 지원·흑해 교전…러·우 전쟁 다시 격화일로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813094801874"
+      }
+    },
+    {
+      "keyword": "치 안정감",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘차기 경찰청장 후보군’ 치안정감 4명 내정",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260813/134468627/2"
+      }
+    },
+    {
+      "keyword": "2026",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'공격 차단 후 이강인에게 연결' 로메로, 토트넘 떠나 ATM 이적...로마노, \"HERE WE GO\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813081450366"
+        "title": "WSOC Kicks Off 2026 Season at Stony Brook",
+        "source": "University of Connecticut Athletics",
+        "url": "https://uconnhuskies.com/news/2026/8/12/womens-soccer-wsoc-kicks-off-2026-season-at-stony-brook"
       }
     },
     {
-      "keyword": "창동",
+      "keyword": "전설의 사내",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘전설의 사내’ 조권, 깝권 본색!…성리 형제 무릎",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608130823003"
+      }
+    },
+    {
+      "keyword": "심용환",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"강남까지 15분\"…10억이던 아파트, 1년 만에 '대반전'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026081274141"
+        "title": "하영 \"모르고 집안 자랑 부끄럽다\"‥매서운 역풍에 '사과'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6844271_36918.html"
       }
     },
     {
-      "keyword": "복날",
+      "keyword": "술집",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "초복에 치킨 주문량 2.5배↑…bhc, 말복 '최대 4000원 할인' 이벤트 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/living/2026/08/13/2026081309312211559"
+        "title": "“요즘 진짜 하나도 안 보이네”…술집서 사라진 젊은이들 다 어디갔나 봤더니",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20078791"
       }
     },
     {
-      "keyword": "gv80 하이브리드",
+      "keyword": "우크라이나군",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "제네시스, GV80 하이브리드 내달 출시…\"352마력·연비 25% 개선\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260813_0003747234"
-      }
-    },
-    {
-      "keyword": "통합특별시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "조직 개편 지연에 정책·인사 행정 줄줄이 차질",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8635540"
-      }
-    },
-    {
-      "keyword": "미국 증권거래위원회",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "9월로 밀린 美 클래리티법…\"'수개월 내 통과' 가능성 25%\" 그쳐",
+        "title": "미군 기갑부대 vs 우크라이나 드론부대 맞붙었더니…순식간에 끝났다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260812103450646"
+        "url": "https://v.daum.net/v/20260813093059105"
       }
     },
     {
-      "keyword": "광복절",
+      "keyword": "황신혜의 같이 삽시다",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "당진시, 제81주년 광복절 맞아 ‘태극기 게양 SNS 인증 이벤트’ 진행",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712273"
-      }
-    },
-    {
-      "keyword": "동성로",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "대구 동성로 ‘부활 신호’…2030·로컬 콘텐츠가 이끈 상권 회복",
-        "source": "대구일보",
-        "url": "https://www.idaegu.com/news/articleView.html?idxno=664994"
+        "title": "'같이삽시다' 양정아 \"정말 혼자 됐다\"…떠난 母 향한 그리움 [RE:TV]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813045127284"
       }
     }
   ]
