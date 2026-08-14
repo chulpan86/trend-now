@@ -3048,5 +3048,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-15T05:21:13.234611+09:00",
+    "label": "05:21",
+    "items": [
+      {
+        "keyword": "마르세유 대 아틀레티코",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "이강인, 전반 35분 '조기 교체 아웃'... 마르세유 수비 무너뜨린 '환상 킬패스' 극찬",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815014108403"
+        }
+      },
+      {
+        "keyword": "대한민국 광복절",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "빛을 되찾은 발자취🌟 광복절에 떠나는 전국 역사 나들이 총정리📝 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=mcstkorea&logNo=224377162668&redirect=Dlog"
+        }
+      },
+      {
+        "keyword": "류중일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bwaDMFiPYV"
+        }
+      },
+      {
+        "keyword": "south korea national liberation day",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "liberation-day-bell-ringing-eng -",
+          "source": "서울특별시",
+          "url": "https://english.seoul.go.kr/seoul-commemorates-the-81st-liberation-day-with-bell-ringing-ceremony-under-the-theme-the-sound-of-liberation-awakening-the-future/liberation-day-bell-ringing-eng/"
+        }
+      },
+      {
+        "keyword": "맨홀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636007"
+        }
+      },
+      {
+        "keyword": "쿠팡플레이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9q5zvjtWAx"
+        }
+      },
+      {
+        "keyword": "조진웅",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김혜수가 촬영장서 “덜덜 떠는” 까닭…“40년차도 인플루언서 역은 처음이라”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813210842114"
+        }
+      },
+      {
+        "keyword": "인구감소지역",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "임실군, 인구감소 대응 5년 기본계획 세운다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814140907930"
+        }
+      },
+      {
+        "keyword": "네이버 웹툰",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'케이-콘텐츠' 불법 유통 대응 국제공조 수사 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970086&pWise=sub&pWiseSub=R6"
+        }
+      },
+      {
+        "keyword": "t 멤버십",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "11번가, T멤버십 고객 대상 980종 특가…20일까지 반값 혜택",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HOOX1GQ9g3"
+        }
+      }
+    ]
   }
 ]
