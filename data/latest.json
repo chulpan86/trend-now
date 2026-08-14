@@ -1,27 +1,7 @@
 {
-  "timestamp": "2026-08-14T23:08:19.083313+09:00",
-  "label": "23:08",
+  "timestamp": "2026-08-15T00:41:08.353855+09:00",
+  "label": "00:41",
   "items": [
-    {
-      "keyword": "내일 날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
-      "news": {
-        "title": "광복절 연휴, 사흘간 전국에 비 퍼붓는다…최대 150mm ‘폭우’",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/society/12128267"
-      }
-    },
-    {
-      "keyword": "weather tomorrow",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Monsoon rains to intensify across east, central and north India as depression forms",
-        "source": "mint",
-        "url": "https://www.livemint.com/news/india/monsoon-rains-to-intensify-across-east-central-and-north-india-as-depression-forms-11786705310317.html"
-      }
-    },
     {
       "keyword": "변호사",
       "traffic_raw": "1000+",
@@ -33,13 +13,23 @@
       }
     },
     {
+      "keyword": "보그",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "더 로우 다음 타자는 ‘장바구니 백’? 뉴욕을 강타했습니다",
+        "source": "Vogue korea",
+        "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/"
+      }
+    },
+    {
       "keyword": "출연료",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "OTT에서 반복된 ‘시즌2 수난사’ 피했다, ‘킬러들의 쇼핑몰2′",
+        "title": "\"장례식장서 향 냄새 맡는데 미쳐버리겠더라\"…김혜준, 영정사진 보면서 오열 ('킬쇼2')[인터뷰③]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814185009238"
+        "url": "https://v.daum.net/v/20260814110247351"
       }
     },
     {
@@ -57,19 +47,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'48세' 엄지원, 분쇄골절 수술 후 '철심 18개' 박고도 운동...\"인생이 더 힘들어\" ('Umjeewon')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814072510440"
-      }
-    },
-    {
-      "keyword": "보그",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Nicole Kidman opens up about divorce from Keith Urban – and ‘throwing my career away’ for Tom Cruise",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/film/2026/aug/14/nicole-kidman-british-vogue-interview-keith-urban-divorce-tom-cruise-marriage"
+        "title": "일본 여행서 뼈 산산조각, 긴급귀국…‘다리에 철심 18개’ 엄지원, 깜짝근황",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/culture/12128070"
       }
     },
     {
@@ -80,6 +60,26 @@
         "title": "'간통 스캔들' 여배우, 결국 무혐의...\"할리우드 진출 무산\" 억울 - 머니투데이",
         "source": "머니투데이",
         "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081411082939342"
+      }
+    },
+    {
+      "keyword": "김원중",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'솔로포-스리런포' 어제 NC의 영웅은 다시 벤치로...안중열 대신 김형준 선발, 김휘집 2G 연속 4번타자 [오!쎈 부산]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260814171136285"
+      }
+    },
+    {
+      "keyword": "용인시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "이상일 용인특례시장 “리모델링 사업 소외 없어야”…수지구 10개 조합 현안 청취",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712399"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김용판 달서구청장, 장애인주간보호센터에 6일간 맞춤형 보양도시락 지원",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3664628"
+        "title": "달서구, 재정 비상체제 전환…신규사업 재검토",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637037"
       }
     }
   ]
