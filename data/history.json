@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-13T06:34:29.621497+09:00",
-    "label": "06:34",
-    "items": [
-      {
-        "keyword": "택시 운전사",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“토할 것 같아” 만취 승객 왕복 16차로에 버린 택시…징역형 구형",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260811204634284"
-        }
-      },
-      {
-        "keyword": "아이폰",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "메모리 가격 또 뛴다…숨막히는 스마트폰 '원가' 경쟁 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/12/2026081214474117414"
-        }
-      },
-      {
-        "keyword": "박수홍",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "가족 복 없던 박수홍, 자식 농사는 대박났다...키즈 모델인 줄",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811191138422"
-        }
-      },
-      {
-        "keyword": "인덱스 펀드",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "삼성운용, '삼성미국S&P500인덱스펀드' 순자산 1조원 넘어",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812048700008"
-        }
-      },
-      {
-        "keyword": "아버지",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "13억에 팔린 냅킨 한 장… 열세 살 소년 메시의 운명을 바꿨다",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260810521384"
-        }
-      },
-      {
-        "keyword": "골프",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "트럼프 머리 위로 또 민항기 ‘침범’…“군용기 갈아탈 때 핵심 측근만 동승”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635759"
-        }
-      },
-      {
-        "keyword": "신유빈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "신유빈·임종훈, 유럽 스매시서 '22분 만에' 통과",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812211810399"
-        }
-      },
-      {
-        "keyword": "연금 개혁",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘소득 적으면 기초연금 더’…與 “생년월일 차로 갈리면 안돼”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813050129472"
-        }
-      },
-      {
-        "keyword": "공공기관",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "李 “공공기관 몰아서 보낼 것”…350곳 대상 2차 지방이전 쟁탈전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812213649745"
-        }
-      },
-      {
-        "keyword": "arsenal vs como",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "¿Cómo ver el partido del Arsenal vs Como en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-arsenal-vs-como-en-tv-y-streaming-12-8-2026"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-13T07:30:22.827778+09:00",
     "label": "07:30",
     "items": [
@@ -2720,6 +2614,112 @@
         "traffic_raw": "200+",
         "traffic": 200,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-14T18:57:07.576880+09:00",
+    "label": "18:57",
+    "items": [
+      {
+        "keyword": "시어머니",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"시어머니 앞, 샤워 후 알몸으로 나오는 남편…제가 예민한 건가요?\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6258335"
+        }
+      },
+      {
+        "keyword": "강부자",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'가방만 300개' 강부자 \"남편에 경제권 다 주고 용돈 받아..남편 외박도 OK\"(데이앤나잇)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814122708449"
+        }
+      },
+      {
+        "keyword": "허화평",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "국민의힘에서도 반대했는데 5·18 토론회 강행한 이진숙…민주당 제명 촉구 결의안 제출",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608141519001"
+        }
+      },
+      {
+        "keyword": "권경애",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html"
+        }
+      },
+      {
+        "keyword": "맹승지",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "맹승지, 공개 열애…남친 직업은 의사?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749126"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 s26",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "갤럭시에서 '이 앱'만 잠근다…One UI 9.5 '앱 잠금' 기능 포착",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/281183"
+        }
+      },
+      {
+        "keyword": "세계 배드민턴 연맹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "부상 털어낸 안세영, 세계선수권 탈환 선언 \"감각 회복 최우선\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814073500007"
+        }
+      },
+      {
+        "keyword": "민형배",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“5개 자치구→시 전환, 공론화 거쳐야”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636079"
+        }
+      },
+      {
+        "keyword": "전북 현대 모터스 fc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "K리그1 전북, 스트라이커 티아고와 재계약",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813133700007"
+        }
+      },
+      {
+        "keyword": "프리차드 콜론",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "쓰러져 11년간 식물인간 된 '무패' 복싱 유망주, 33세 나이로 사망…\"복싱 역사상 가장 비극적인 사건\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814081107286"
+        }
       }
     ]
   }
