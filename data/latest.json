@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T01:39:55.791822+09:00",
-  "label": "01:39",
+  "timestamp": "2026-08-15T02:43:53.256675+09:00",
+  "label": "02:43",
   "items": [
     {
       "keyword": "대한민국 광복절",
@@ -23,53 +23,33 @@
       }
     },
     {
-      "keyword": "보그",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "더 로우 다음 타자는 ‘장바구니 백’? 뉴욕을 강타했습니다",
-        "source": "Vogue korea",
-        "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/"
-      }
-    },
-    {
-      "keyword": "변호사",
+      "keyword": "류중일",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html"
-      }
-    },
-    {
-      "keyword": "양정아",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'같이삽시다' 양정아 \"정말 혼자 됐다\"…떠난 母 향한 그리움 [RE:TV]",
+        "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260813045127284"
+        "url": "https://v.daum.net/v/20260814165456587"
       }
     },
     {
-      "keyword": "엄지원",
+      "keyword": "쿠팡플레이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "일본 여행서 뼈 산산조각, 긴급귀국…‘다리에 철심 18개’ 엄지원, 깜짝근황",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/culture/12128070"
+        "title": "빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9q5zvjtWAx"
       }
     },
     {
-      "keyword": "윤미라",
+      "keyword": "south korea national liberation day",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'간통 스캔들' 여배우, 결국 무혐의...\"할리우드 진출 무산\" 억울 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081411082939342"
+        "title": "liberation-day-bell-ringing-eng -",
+        "source": "서울특별시",
+        "url": "https://english.seoul.go.kr/seoul-commemorates-the-81st-liberation-day-with-bell-ringing-ceremony-under-the-theme-the-sound-of-liberation-awakening-the-future/liberation-day-bell-ringing-eng/"
       }
     },
     {
@@ -83,6 +63,36 @@
       }
     },
     {
+      "keyword": "아틀레티코",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "더이상 '벤치 이강인'은 없다…\"개막전 선발\" 파격 전망",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/43g2g0LxUh"
+      }
+    },
+    {
+      "keyword": "네이버 웹툰",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'케이-콘텐츠' 불법 유통 대응 국제공조 수사 확대",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970086&pWise=sub&pWiseSub=R6"
+      }
+    },
+    {
+      "keyword": "t 멤버십",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "도미노피자, 'SKT T day' 반값 프로모션 17~21일 자사앱에서 진행",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260814_0003748927"
+      }
+    },
+    {
       "keyword": "용인시",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -90,16 +100,6 @@
         "title": "이상일 용인특례시장 “리모델링 사업 소외 없어야”…수지구 10개 조합 현안 청취",
         "source": "뉴스타운",
         "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712399"
-      }
-    },
-    {
-      "keyword": "cuaca besok",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "BMKG: Cuaca Bogor Besok Cerah, Suhu Siang Bisa Tembus 33 Derajat Celsius",
-        "source": "Kompas.com",
-        "url": "https://megapolitan.kompas.com/read/2026/08/14/19163831/bmkg-cuaca-bogor-besok-cerah-suhu-siang-bisa-tembus-33-derajat-celsius"
       }
     }
   ]
