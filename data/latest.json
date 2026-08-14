@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-14T12:55:14.906728+09:00",
-  "label": "12:55",
+  "timestamp": "2026-08-14T14:24:23.295731+09:00",
+  "label": "14:24",
   "items": [
     {
-      "keyword": "프로 골퍼",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "운전 기사",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "한인 골프 유망주 제시카 방, 18세로 사망",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20260813142537310"
+        "title": "'확신의 기혼상' 이선민, 확실한 '대세' 되기까지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813175852100"
       }
     },
     {
-      "keyword": "이마트",
+      "keyword": "국민연금공단",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "국민연금, 28일까지 기금운용 전문가 30명 모집",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260814049500530"
+      }
+    },
+    {
+      "keyword": "공희 용",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "이마트24, 캄보디아 진출 2년…31개점·일매출 41% 증가",
+        "title": "배드민턴 여자복식 '킹콩' 김혜정-공희용, 세계선수권 출전 불발",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814084341005"
+        "url": "https://v.daum.net/v/20260813100359781?f=p"
       }
     },
     {
-      "keyword": "재정",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "경기도 재정 비상에 곳간 적립금 꺼낸 고양시…3조7818억 추경 편성",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814113839063"
-      }
-    },
-    {
-      "keyword": "전남광주통합특별시교육청 광주청사",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'아내는 교장.남편은 교사'…전남광주교육단체 \"인사 원칙 논란\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813154050459"
-      }
-    },
-    {
-      "keyword": "대한민국의 국기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "백화점",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "명품·외국인 힘입어…신세계, 상반기 역대 최대 실적",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VMtOApUZwk"
-      }
-    },
-    {
-      "keyword": "연금복권720+",
+      "keyword": "김은혜",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"돈에 연연하지 않고 인생 즐길 것\"…328회차 연금복권720+ 당첨번호조회 주목",
-        "source": "아주경제",
-        "url": "https://www.ajunews.com/view/20260813095658698"
+        "title": "'지방선거 깨끗하게 치렀다' 30.6％…4년 전 대비 '반토막'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260811116200001"
       }
     },
     {
-      "keyword": "이더리움",
+      "keyword": "산청군농협",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "GSR, 모델 포트폴리오서 솔라나 비중 43.6%로 확대…비트코인·이더리움은 축소",
-        "source": "블루밍비트",
-        "url": "https://bloomingbit.io/feed/news/118245"
+        "title": "여름 휴가철 수산물…'원산지 표시 제도'가 준 '신뢰'",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/reporterView.do?newsId=148969834"
       }
     },
     {
-      "keyword": "미국",
+      "keyword": "노원구",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "트럼프 “미국 투자한 외국 조선소, 선박 2척 건조 승인”···한화도 조건 부합",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608140807001"
+        "title": "노원구 “생활문화 경연 프로젝트 ‘노원스타N’ 개최”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609498"
       }
     },
     {
-      "keyword": "배재대",
+      "keyword": "무죄",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "배재대, 지역성장 앵커사업 성과공유…하반기 추진 논의",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260813_0003748262"
+        "title": "'이정근 취업청탁' 노영민·김현미 무죄…\"정치보복 수사\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/8um5M8OcYK?f=p"
+      }
+    },
+    {
+      "keyword": "경상북도",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[인사] 경상북도",
+        "source": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2026081317594967829"
+      }
+    },
+    {
+      "keyword": "강남",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "세제개편안 열흘만에 강남-서초 집값 하락 전환",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260814/134476019/2"
+      }
+    },
+    {
+      "keyword": "이진호",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "검찰, 도박·음주운전 혐의 개그맨 이진호에 징역 2년 구형",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260814067800061"
       }
     }
   ]
