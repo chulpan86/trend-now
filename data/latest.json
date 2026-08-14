@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-08-15T03:40:11.868652+09:00",
-  "label": "03:40",
+  "timestamp": "2026-08-15T04:41:11.737133+09:00",
+  "label": "04:41",
   "items": [
+    {
+      "keyword": "마르세유 대 아틀레티코",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "이강인, 전반 35분 '조기 교체 아웃'... 마르세유 수비 무너뜨린 '환상 킬패스' 극찬",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815014108403"
+      }
+    },
     {
       "keyword": "대한민국 광복절",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "美국무, 광복절 축하메시지…\"한국은 없어서는 안 될 파트너\"",
+        "title": "루비오 “한국, 없어서는 안 될 파트너”… 광복절 맞아 한미협력 강조",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815015248517"
+        "url": "https://v.daum.net/v/20260815041210881"
       }
     },
     {
@@ -23,13 +33,13 @@
       }
     },
     {
-      "keyword": "마르세유 대 아틀레티코",
+      "keyword": "류중일",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "더이상 '벤치 이강인'은 없다…\"개막전 선발\" 파격 전망",
+        "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
         "source": "Daum",
-        "url": "https://v.daum.net/v/43g2g0LxUh"
+        "url": "https://v.daum.net/v/bwaDMFiPYV"
       }
     },
     {
@@ -43,19 +53,9 @@
       }
     },
     {
-      "keyword": "쿠팡플레이",
+      "keyword": "맨홀",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/9q5zvjtWAx"
-      }
-    },
-    {
-      "keyword": "맨홀",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
         "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
         "source": "KBS 뉴스",
@@ -63,13 +63,13 @@
       }
     },
     {
-      "keyword": "류중일",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "쿠팡플레이",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
+        "title": "빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동",
         "source": "Daum",
-        "url": "https://v.daum.net/v/bwaDMFiPYV"
+        "url": "https://v.daum.net/v/9q5zvjtWAx"
       }
     },
     {

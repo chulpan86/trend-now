@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-13T16:12:07.037238+09:00",
-    "label": "16:12",
-    "items": [
-      {
-        "keyword": "안규백",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "육사 동창회장 \"육사 원죄 사과할테니 사관학교 통합 물러달라\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6562134"
-        }
-      },
-      {
-        "keyword": "송은이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'비보' 송은이♥김의성 '우결' 프로젝트 추진..김숙 \"잘 어울려\" 환호[순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/"
-        }
-      },
-      {
-        "keyword": "휴게소",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "쓰레기통 음식 주워먹고 ‘차박’하던 50대…휴게소 직원 신고 후 벌어진 일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813111253526"
-        }
-      },
-      {
-        "keyword": "슈퍼맨이 돌아왔다",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'슈돌' 심형탁 \"아들 하루 머리핀 없으면 안 돼\"…남다른 머리숱",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812210649039"
-        }
-      },
-      {
-        "keyword": "버스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html"
-        }
-      },
-      {
-        "keyword": "강원 fc",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813105154317"
-        }
-      },
-      {
-        "keyword": "홈플러스 재개장",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“뭐? 한우가 반값이라고?” 홈플러스 재개장 첫날 문전성시…부활 신호탄일까",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608131515001"
-        }
-      },
-      {
-        "keyword": "왕 싱싱",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "中 유니트리 IPO 개미 1천700조 몰렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813042701694"
-        }
-      },
-      {
-        "keyword": "서울 도심",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[속보]“집 못 지어서 미쳤나 소리 듣게 지어라”···남양주 덕소농장·경기광주·염창공원에 12만호 공급[8·13 부동산대책]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608131200041"
-        }
-      },
-      {
-        "keyword": "미국 대통령",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "트럼프 \"호르무즈 완전히 장악\"…WSJ \"현실은 전혀 달라\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12313107"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-13T18:02:06.392254+09:00",
     "label": "18:02",
     "items": [
@@ -3015,6 +2909,112 @@
           "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
           "source": "Daum",
           "url": "https://v.daum.net/v/bwaDMFiPYV"
+        }
+      },
+      {
+        "keyword": "인구감소지역",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "임실군, 인구감소 대응 5년 기본계획 세운다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814140907930"
+        }
+      },
+      {
+        "keyword": "네이버 웹툰",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'케이-콘텐츠' 불법 유통 대응 국제공조 수사 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970086&pWise=sub&pWiseSub=R6"
+        }
+      },
+      {
+        "keyword": "t 멤버십",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "11번가, T멤버십 고객 대상 980종 특가…20일까지 반값 혜택",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HOOX1GQ9g3"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-15T04:41:11.737133+09:00",
+    "label": "04:41",
+    "items": [
+      {
+        "keyword": "마르세유 대 아틀레티코",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "이강인, 전반 35분 '조기 교체 아웃'... 마르세유 수비 무너뜨린 '환상 킬패스' 극찬",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815014108403"
+        }
+      },
+      {
+        "keyword": "대한민국 광복절",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "루비오 “한국, 없어서는 안 될 파트너”… 광복절 맞아 한미협력 강조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815041210881"
+        }
+      },
+      {
+        "keyword": "돈",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“한국 돈? 안 받아요”…태국 공항서 환전 거부당한 한국인 [잇슈#태그]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637365"
+        }
+      },
+      {
+        "keyword": "류중일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bwaDMFiPYV"
+        }
+      },
+      {
+        "keyword": "south korea national liberation day",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "liberation-day-bell-ringing-eng -",
+          "source": "서울특별시",
+          "url": "https://english.seoul.go.kr/seoul-commemorates-the-81st-liberation-day-with-bell-ringing-ceremony-under-the-theme-the-sound-of-liberation-awakening-the-future/liberation-day-bell-ringing-eng/"
+        }
+      },
+      {
+        "keyword": "맨홀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636007"
+        }
+      },
+      {
+        "keyword": "쿠팡플레이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9q5zvjtWAx"
         }
       },
       {
