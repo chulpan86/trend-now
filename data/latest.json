@@ -1,7 +1,37 @@
 {
-  "timestamp": "2026-08-15T00:41:08.353855+09:00",
-  "label": "00:41",
+  "timestamp": "2026-08-15T01:39:55.791822+09:00",
+  "label": "01:39",
   "items": [
+    {
+      "keyword": "대한민국 광복절",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "광복절을 특별하게 기념하고 싶다면…'독립기념관'으로!",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/reporterView.do?newsId=148969795"
+      }
+    },
+    {
+      "keyword": "돈",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“한국 돈? 안 받아요”…태국 공항서 환전 거부당한 한국인 [잇슈#태그]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637365"
+      }
+    },
+    {
+      "keyword": "보그",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "더 로우 다음 타자는 ‘장바구니 백’? 뉴욕을 강타했습니다",
+        "source": "Vogue korea",
+        "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/"
+      }
+    },
     {
       "keyword": "변호사",
       "traffic_raw": "1000+",
@@ -10,26 +40,6 @@
         "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
         "source": "MBC 뉴스",
         "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html"
-      }
-    },
-    {
-      "keyword": "보그",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "더 로우 다음 타자는 ‘장바구니 백’? 뉴욕을 강타했습니다",
-        "source": "Vogue korea",
-        "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/"
-      }
-    },
-    {
-      "keyword": "출연료",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"장례식장서 향 냄새 맡는데 미쳐버리겠더라\"…김혜준, 영정사진 보면서 오열 ('킬쇼2')[인터뷰③]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814110247351"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "BMKG: Cuaca Bogor Besok Cerah, Suhu Siang Bisa Tembus 33 Derajat Celsius",
         "source": "Kompas.com",
         "url": "https://megapolitan.kompas.com/read/2026/08/14/19163831/bmkg-cuaca-bogor-besok-cerah-suhu-siang-bisa-tembus-33-derajat-celsius"
-      }
-    },
-    {
-      "keyword": "달서구",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "달서구, 재정 비상체제 전환…신규사업 재검토",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637037"
       }
     }
   ]

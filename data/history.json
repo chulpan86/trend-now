@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-13T12:59:47.617098+09:00",
-    "label": "12:59",
-    "items": [
-      {
-        "keyword": "한국경제",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“한국 가면 월급 5배로 벌 수 있다”…너도나도 짐 싸는 베트남 청년들",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077449"
-        }
-      },
-      {
-        "keyword": "이재명 지지율",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "민주당 지지층서 김민석 44%·정청래 25%…이 대통령 지지율 49%, 취임 후 최저[NBS]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608131123001"
-        }
-      },
-      {
-        "keyword": "크리스티안 로메로",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'공격 차단 후 이강인에게 연결' 로메로, 토트넘 떠나 ATM 이적...로마노, \"HERE WE GO\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813081450366"
-        }
-      },
-      {
-        "keyword": "창동",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"강남까지 15분\"…10억이던 아파트, 1년 만에 '대반전'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081274141"
-        }
-      },
-      {
-        "keyword": "복날",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "초복에 치킨 주문량 2.5배↑…bhc, 말복 '최대 4000원 할인' 이벤트 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/08/13/2026081309312211559"
-        }
-      },
-      {
-        "keyword": "gv80 하이브리드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "제네시스, GV80 하이브리드 내달 출시…\"352마력·연비 25% 개선\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003747234"
-        }
-      },
-      {
-        "keyword": "통합특별시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "조직 개편 지연에 정책·인사 행정 줄줄이 차질",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635540"
-        }
-      },
-      {
-        "keyword": "미국 증권거래위원회",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "9월로 밀린 美 클래리티법…\"'수개월 내 통과' 가능성 25%\" 그쳐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812103450646"
-        }
-      },
-      {
-        "keyword": "광복절",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "당진시, 제81주년 광복절 맞아 ‘태극기 게양 SNS 인증 이벤트’ 진행",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712273"
-        }
-      },
-      {
-        "keyword": "동성로",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "대구 동성로 ‘부활 신호’…2030·로컬 콘텐츠가 이끈 상권 회복",
-          "source": "대구일보",
-          "url": "https://www.idaegu.com/news/articleView.html?idxno=664994"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-13T14:41:42.456815+09:00",
     "label": "14:41",
     "items": [
@@ -2939,6 +2833,112 @@
           "title": "달서구, 재정 비상체제 전환…신규사업 재검토",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8637037"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-15T01:39:55.791822+09:00",
+    "label": "01:39",
+    "items": [
+      {
+        "keyword": "대한민국 광복절",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "광복절을 특별하게 기념하고 싶다면…'독립기념관'으로!",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148969795"
+        }
+      },
+      {
+        "keyword": "돈",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“한국 돈? 안 받아요”…태국 공항서 환전 거부당한 한국인 [잇슈#태그]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637365"
+        }
+      },
+      {
+        "keyword": "보그",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "더 로우 다음 타자는 ‘장바구니 백’? 뉴욕을 강타했습니다",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/"
+        }
+      },
+      {
+        "keyword": "변호사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html"
+        }
+      },
+      {
+        "keyword": "양정아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'같이삽시다' 양정아 \"정말 혼자 됐다\"…떠난 母 향한 그리움 [RE:TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813045127284"
+        }
+      },
+      {
+        "keyword": "엄지원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "일본 여행서 뼈 산산조각, 긴급귀국…‘다리에 철심 18개’ 엄지원, 깜짝근황",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12128070"
+        }
+      },
+      {
+        "keyword": "윤미라",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'간통 스캔들' 여배우, 결국 무혐의...\"할리우드 진출 무산\" 억울 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081411082939342"
+        }
+      },
+      {
+        "keyword": "김원중",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'솔로포-스리런포' 어제 NC의 영웅은 다시 벤치로...안중열 대신 김형준 선발, 김휘집 2G 연속 4번타자 [오!쎈 부산]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814171136285"
+        }
+      },
+      {
+        "keyword": "용인시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이상일 용인특례시장 “리모델링 사업 소외 없어야”…수지구 10개 조합 현안 청취",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712399"
+        }
+      },
+      {
+        "keyword": "cuaca besok",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "BMKG: Cuaca Bogor Besok Cerah, Suhu Siang Bisa Tembus 33 Derajat Celsius",
+          "source": "Kompas.com",
+          "url": "https://megapolitan.kompas.com/read/2026/08/14/19163831/bmkg-cuaca-bogor-besok-cerah-suhu-siang-bisa-tembus-33-derajat-celsius"
         }
       }
     ]
