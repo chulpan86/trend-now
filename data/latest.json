@@ -1,11 +1,21 @@
 {
-  "timestamp": "2026-08-14T08:30:56.179279+09:00",
-  "label": "08:30",
+  "timestamp": "2026-08-14T10:04:38.674540+09:00",
+  "label": "10:04",
   "items": [
     {
+      "keyword": "유리",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "설마했는데, 빛나는 ‘유리 아이폰’…애플 ‘최고 야심작’ 진짜 나온다, 이런 모습?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813214213802"
+      }
+    },
+    {
       "keyword": "드라간 스토이코비치",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "[단독] ‘세르비아 레전드’ 스토이코비치 “한국 축구 재건할 자신 충분…단, ‘장기직’만 관심”",
         "source": "KBS 뉴스",
@@ -13,93 +23,83 @@
       }
     },
     {
-      "keyword": "최화정",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "투표율",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "최화정, 주식 수익률 공개 “-94.87%”…삼성전자·하이닉스 매도 이유 밝혔다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814071041277"
+        "title": "이준석 “사전투표서 투표율 오입력 단 한 건도 안 나와…부정선거론자들 좋아하는 본투표서 오집계 발생”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609198"
+      }
+    },
+    {
+      "keyword": "오디세이",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "아이맥스 찾아 서울서 대전까지... ‘오디세이’ 원정 떠나는 관람객들",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/08/14/C2QSL5LNMZBZBKYVX5UO4ACSQM/"
+      }
+    },
+    {
+      "keyword": "백인천",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘한국 프로야구 유일의 4할 타자’ 백인천 전 감독 별세",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/obituary-personnel/2026/08/14/TCWDXXJA7JEOZKT6MAGJYURUBQ/"
+      }
+    },
+    {
+      "keyword": "엘레나 리바키나",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "고프 꺾고 결승 진출 리바키나, 시비옹테크와 격돌",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260813_0002211850"
       }
     },
     {
       "keyword": "이가 시비옹테크",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "스비톨리나 꺾고 결승 진출 환호하는 시비옹테크",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260813_0002211801"
-      }
-    },
-    {
-      "keyword": "탁구",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "제14회 울진 금강송배 전국 탁구대회 개최…14~16일까지",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6562210"
-      }
-    },
-    {
-      "keyword": "오픈ai",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "IPO 마음 급한 오픈AI, 1년도 안돼 최고매출책임자 교체",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814035350316"
+        "title": "트로피에 입 맞추는 시비옹테크",
+        "source": "뉴시스",
+        "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260814_0002212469&pID=1&cID=&sID=1&type=Main&idx=5"
       }
     },
     {
-      "keyword": "윤영철",
+      "keyword": "한고은",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "팔꿈치 수술 11개월만에 실전, 17승 영건 미소 올해 볼 수 있나...이범호 \"1군 던져보고 내년 준비하는게 좋다\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/14/202608131939774649O"
+        "title": "신영수, ♥한고은 모델 변신에 감탄 “패션의 완성은 얼굴·몸매···뼈말라 느낌 나”('고은언니 한고은') - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/14/GYYWEMJWGY3DMNBVHAYGGYTFGM/"
       }
     },
     {
-      "keyword": "전세사기",
+      "keyword": "미스트롯 포유",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "외대-경희대생 100명 울렸다…110억 전세사기",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260813/134475084/1"
+        "title": "‘전 재산 기부’ 폭탄 선언까지…‘미스트롯 포유’ 오늘 밤 1점 차 초접전 결승",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813183809441"
       }
     },
     {
-      "keyword": "수도권 광역급행철도 c노선",
+      "keyword": "경부고속도로",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "GTX-C 더 구체화됐지만, 개통 시계는 흐려졌다",
-        "source": "중부일보",
-        "url": "https://www.joongboo.com/news/articleView.html?idxno=363733899"
-      }
-    },
-    {
-      "keyword": "역세권",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“AI-로봇과 공존하는 도시 만들것… 초지역 ‘펜타 역세권’ 개발”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814043515799"
-      }
-    },
-    {
-      "keyword": "윤혜진",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'14년 만에 복귀' 윤혜진, 바로 파묘 시작됐다···18년 전 영상도 화제",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812191707479"
+        "title": "경부고속도로서 버스 2대 충돌…8명 부상",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8635246"
       }
     }
   ]
