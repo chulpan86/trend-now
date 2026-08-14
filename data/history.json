@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-08-13T18:02:06.392254+09:00",
-    "label": "18:02",
-    "items": [
-      {
-        "keyword": "강서구",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "수도권 2.7만 신규 공급‥'결혼 페널티' 고친다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6844466_36967.html"
-        }
-      },
-      {
-        "keyword": "시내버스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813065101857"
-        }
-      },
-      {
-        "keyword": "표인봉",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'61세' 표인봉, 서울역서 붕어빵 장사 근황 \"많이 벌 때는...\"('특종세상')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813121641028"
-        }
-      },
-      {
-        "keyword": "황희찬",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "황희찬, 울버햄튼 방출 명단에…차기 행선지는 미정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5jAPM9DgYG"
-        }
-      },
-      {
-        "keyword": "009150",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": null
-      },
-      {
-        "keyword": "전범선",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "하영 \"모르고 집안 자랑 부끄럽다\"‥매서운 역풍에 '사과'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6844271_36918.html"
-        }
-      },
-      {
-        "keyword": "강소휘",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "공희용",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "저비용 항공사",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "티웨이항공, 상반기 1628억 영업손실…\"유가·환율 급등 피해\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003747704"
-        }
-      },
-      {
-        "keyword": "카카오 파업",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "카카오뱅크 노조, 내일 하루 2차 파업…\"요구 관철까지 투쟁 지속\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813133919013"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-13T19:52:39.354697+09:00",
     "label": "19:52",
     "items": [
@@ -3151,6 +3057,112 @@
           "title": "11번가, T멤버십 고객 대상 980종 특가…20일까지 반값 혜택",
           "source": "Daum",
           "url": "https://v.daum.net/v/HOOX1GQ9g3"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-15T06:15:36.626344+09:00",
+    "label": "06:15",
+    "items": [
+      {
+        "keyword": "마르세유 대 아틀레티코",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "이강인, 전반 35분 '조기 교체 아웃'... 마르세유 수비 무너뜨린 '환상 킬패스' 극찬",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815014108403"
+        }
+      },
+      {
+        "keyword": "잠수함",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“핵잠수함 추진은 방어적 조치”…북한 담화 반박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZiMwQbkLS8"
+        }
+      },
+      {
+        "keyword": "정성호",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "정성호 법무부 장관, '수원지검 집단퇴정' 검사 2명 징계 청구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814170450987"
+        }
+      },
+      {
+        "keyword": "추미애",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“사실상 부도” 선언 경기, 채무비율 12.86%… 서울-부산보다 양호",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814043311736"
+        }
+      },
+      {
+        "keyword": "맨홀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636007"
+        }
+      },
+      {
+        "keyword": "류중일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "별거로 집 비운 류중일 아들 부부…홈캠 몰래 설치한 전 처남 '무죄→유죄' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/14/2026081417393725360"
+        }
+      },
+      {
+        "keyword": "쿠팡플레이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9q5zvjtWAx"
+        }
+      },
+      {
+        "keyword": "조진웅",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김혜수가 촬영장서 “덜덜 떠는” 까닭…“40년차도 인플루언서 역은 처음이라”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813210842114"
+        }
+      },
+      {
+        "keyword": "인구감소지역",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "임실군, 인구감소 대응 5년 기본계획 세운다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814140907930"
+        }
+      },
+      {
+        "keyword": "장동혁",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"인간 지지대 세웠다\" 논란의 사진…장동혁 결국 사과",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YqTiWeTsFx"
         }
       }
     ]

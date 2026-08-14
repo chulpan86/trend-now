@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T05:21:13.234611+09:00",
-  "label": "05:21",
+  "timestamp": "2026-08-15T06:15:36.626344+09:00",
+  "label": "06:15",
   "items": [
     {
       "keyword": "마르세유 대 아틀레티코",
@@ -13,13 +13,43 @@
       }
     },
     {
-      "keyword": "대한민국 광복절",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "잠수함",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "빛을 되찾은 발자취🌟 광복절에 떠나는 전국 역사 나들이 총정리📝 : 네이버 블로그",
-        "source": "Naver Blog",
-        "url": "https://blog.naver.com/PostView.naver?blogId=mcstkorea&logNo=224377162668&redirect=Dlog"
+        "title": "“핵잠수함 추진은 방어적 조치”…북한 담화 반박",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/ZiMwQbkLS8"
+      }
+    },
+    {
+      "keyword": "정성호",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "정성호 법무부 장관, '수원지검 집단퇴정' 검사 2명 징계 청구",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260814170450987"
+      }
+    },
+    {
+      "keyword": "추미애",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“사실상 부도” 선언 경기, 채무비율 12.86%… 서울-부산보다 양호",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260814043311736"
+      }
+    },
+    {
+      "keyword": "맨홀",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8636007"
       }
     },
     {
@@ -27,29 +57,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/bwaDMFiPYV"
-      }
-    },
-    {
-      "keyword": "south korea national liberation day",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "liberation-day-bell-ringing-eng -",
-        "source": "서울특별시",
-        "url": "https://english.seoul.go.kr/seoul-commemorates-the-81st-liberation-day-with-bell-ringing-ceremony-under-the-theme-the-sound-of-liberation-awakening-the-future/liberation-day-bell-ringing-eng/"
-      }
-    },
-    {
-      "keyword": "맨홀",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8636007"
+        "title": "별거로 집 비운 류중일 아들 부부…홈캠 몰래 설치한 전 처남 '무죄→유죄' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/08/14/2026081417393725360"
       }
     },
     {
@@ -64,8 +74,8 @@
     },
     {
       "keyword": "조진웅",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "김혜수가 촬영장서 “덜덜 떠는” 까닭…“40년차도 인플루언서 역은 처음이라”",
         "source": "Daum",
@@ -74,8 +84,8 @@
     },
     {
       "keyword": "인구감소지역",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "임실군, 인구감소 대응 5년 기본계획 세운다",
         "source": "Daum",
@@ -83,23 +93,13 @@
       }
     },
     {
-      "keyword": "네이버 웹툰",
+      "keyword": "장동혁",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'케이-콘텐츠' 불법 유통 대응 국제공조 수사 확대",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970086&pWise=sub&pWiseSub=R6"
-      }
-    },
-    {
-      "keyword": "t 멤버십",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "11번가, T멤버십 고객 대상 980종 특가…20일까지 반값 혜택",
+        "title": "\"인간 지지대 세웠다\" 논란의 사진…장동혁 결국 사과",
         "source": "Daum",
-        "url": "https://v.daum.net/v/HOOX1GQ9g3"
+        "url": "https://v.daum.net/v/YqTiWeTsFx"
       }
     }
   ]
