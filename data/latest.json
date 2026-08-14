@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-08-14T16:08:30.164692+09:00",
-  "label": "16:08",
+  "timestamp": "2026-08-14T17:57:44.684151+09:00",
+  "label": "17:57",
   "items": [
     {
-      "keyword": "앤 해서웨이",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "임신한 앤 해서웨이 ‘D라인’ 노출에…“실리콘 붙였나” 악플 눈살",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20260814/134477819/2"
-      }
-    },
-    {
-      "keyword": "자식방생 프로젝트 합숙 맞선",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "자식 방생 프로젝트 합숙 맞선",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "최정윤♥이인권, 최종 커플 탄생…양가 어머니까지 \"허락\" 해피엔딩 (합숙맞선2)[종합]",
         "source": "Daum",
@@ -23,84 +13,90 @@
       }
     },
     {
-      "keyword": "신성",
+      "keyword": "수도권 광역 급행 철도 c 노선",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "가수 신성, 父 위암 4기 투병 고백…\"검사에서 희망이 보이기 시작해\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZuQNz0LxtU"
+        "title": "GTX-C 더 구체화됐지만, 개통 시계는 흐려졌다",
+        "source": "중부일보",
+        "url": "https://www.joongboo.com/news/articleView.html?idxno=363733899"
       }
     },
     {
-      "keyword": "안규백",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "허화평",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "4년 만에 걸린 국방부 깃발, '尹 도어스테핑' 그곳에서‥ [현장영상]",
+        "title": "국힘, 이진숙 '5·18 폄훼 포럼' 비판에‥\"재발하지 않기 바란다\"",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6844746_36911.html"
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6844835_36911.html"
       }
     },
     {
-      "keyword": "목사",
+      "keyword": "체포",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[속보]‘윤석열 체포 방해’ 국힘 나경원·김기현·윤상현·권영진 기소···특검 “인간벽 형성해 영장집행 저지”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608141317001"
+      }
+    },
+    {
+      "keyword": "양천구",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "IPARK현대산업개발, 월계시영아파트에 ‘모두의 우산’ 400개 기부",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260813501338"
+      }
+    },
+    {
+      "keyword": "휴머노이드",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“30시간 넘게 묶여있었다”…‘교회 11살 사망’ 목사 구속 송치 [현장영상]",
+        "title": "구광모·젠슨황 ‘AI협력’ 강화... 내년 ‘엔비디아 칩’ 심은 휴머노이드 공개",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/08/14/HFLCS5WUXZEVPKJMZA5ZQYW42Q/"
+      }
+    },
+    {
+      "keyword": "참수리급 고속정",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[영상] \"최전방 NLL해역 철통수호\"…신형 고속정 '검독수리-B' 실전배치",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814145814869"
+        "url": "https://v.daum.net/v/20260814174156437"
       }
     },
     {
-      "keyword": "함재기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "트럼프 \"항모 함재기 이륙장치 전자기식→증기식 변경\" 개입",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260814061200009"
-      }
-    },
-    {
-      "keyword": "핵무기 정책",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "북, ‘미국 핵전략’에 “중대위협…자위적 핵억제력 강화할 것”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814075648943"
-      }
-    },
-    {
-      "keyword": "이호선",
+      "keyword": "맹승지",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "결박 폭행 아니네?! ‘라면 부부’ 아내, 허언증 터졌다 (이혼숙려캠프)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260814/134477073/1"
+        "title": "맹승지, 공개 열애…남친 직업은 의사?",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260814_0003749126"
       }
     },
     {
-      "keyword": "pba 팀리그",
+      "keyword": "민형배",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“캡틴 이승진의 극적인 끝내기 8점” 브레이커스, 하나카드 꺾고 9연패 탈출…크라운해태 김재근 ‘퍼펙트샷’",
-        "source": "mkbn.mk.co.kr",
-        "url": "https://mkbn.mk.co.kr/news/sports/12127330"
+        "title": "“5개 자치구→시 전환, 공론화 거쳐야”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8636079"
       }
     },
     {
-      "keyword": "맥스 먼시",
+      "keyword": "원주중앙시장",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "먼시, 64년 역사 새롭게 썼다…박찬호 옛 동료 제치고 다저스타디움 최다 홈런 새 주인공 등극 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/14/202608141329772288O"
-      }
+      "news": null
     }
   ]
 }

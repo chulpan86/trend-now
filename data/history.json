@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-13T04:55:40.784964+09:00",
-    "label": "04:55",
-    "items": [
-      {
-        "keyword": "맨유 대 리즈 유나이티드",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "맨유 초비상 피했다! 월드컵서 '또 부상' 리산드로, 복귀 청신호 \"잔디 위 개인 훈련 진행\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260812n02508"
-        }
-      },
-      {
-        "keyword": "psg 대 애스턴 빌라",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "PSG, 슈퍼컵 앞두고 \"라커룸 좁다\" 불만…결국 추가 배정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2LrzQKEo3b"
-        }
-      },
-      {
-        "keyword": "운전",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "음주운전만 3번째, 결국 두 아이 엄마 숨졌다…가해자 \"1억 원에 합의하자\" 공분 ('한블리')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Qf4A7h9Uto"
-        }
-      },
-      {
-        "keyword": "이찬원",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이찬원 \"인생 잘못 살았다\" 착잡한 심경 토로 (편스토랑)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812163507664?f=m"
-        }
-      },
-      {
-        "keyword": "주진우",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "주진우의원 \"비상계엄 해제 표결 당시 150석 찼는데 이재명 기다려\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812162100004"
-        }
-      },
-      {
-        "keyword": "데포르티보 대 레알 마드리드",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "데포르티보 라 코루냐 대 레알 마드리드 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-deportivo-la-coruna-vs-real-madrid-doi-hinh-du-kien"
-        }
-      },
-      {
-        "keyword": "아스널 대 코모",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘또 미드필더?’ 아스널이 기마랑이스에 1500억원 쓴 이유… 알고 보면 라이스가 더 편해진다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811180506491"
-        }
-      },
-      {
-        "keyword": "배재고등학교",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“스벅 가야지” 외쳤던 그곳서, 배재고 ‘90도 인사 복귀전’···고요한 더그아웃에 “기죽지 마” 응원 소리만",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608121756001"
-        }
-      },
-      {
-        "keyword": "watch",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Solar Eclipse Live Updates: Europe’s First Total Eclipse in Decades Starts on Path to Darkness",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates"
-        }
-      },
-      {
-        "keyword": "국제선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "아이바다패스 타 시도 지원 중단… 여름 성수기 섬 관광업체 날벼락",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1768931"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-13T05:34:01.849769+09:00",
-    "label": "05:34",
-    "items": [
-      {
-        "keyword": "맨유 대 리즈 유나이티드",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "맨유 초비상 피했다! 월드컵서 '또 부상' 리산드로, 복귀 청신호 \"잔디 위 개인 훈련 진행\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260812n02508"
-        }
-      },
-      {
-        "keyword": "psg 대 애스턴 빌라",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "PSG, 슈퍼컵 앞두고 \"라커룸 좁다\" 불만…결국 추가 배정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2LrzQKEo3b"
-        }
-      },
-      {
-        "keyword": "데포르티보 대 레알 마드리드",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "데포르티보 라 코루냐 대 레알 마드리드 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-deportivo-la-coruna-vs-real-madrid-doi-hinh-du-kien"
-        }
-      },
-      {
-        "keyword": "운전",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "음주운전만 3번째, 결국 두 아이 엄마 숨졌다…가해자 \"1억 원에 합의하자\" 공분 ('한블리')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Qf4A7h9Uto"
-        }
-      },
-      {
-        "keyword": "아스널 대 코모",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘또 미드필더?’ 아스널이 기마랑이스에 1500억원 쓴 이유… 알고 보면 라이스가 더 편해진다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811180506491"
-        }
-      },
-      {
-        "keyword": "แมนยู พบ ลีดส์",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "เมสัน เมาท์ ไม่ได้เข้าร่วมฝึกซ้อม ทำให้เขาอาจพลาดการแข่งขันกระชับมิตรของแมนเชสเตอร์ ยูไนเต็ด กับลีดส์ ยูไนเต็ด",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/mason-mount-vang-mat-o-buoi-tap-nguy-co-lo-tran-giao-huu-cua-manchester-united-voi-leeds-united"
-        }
-      },
-      {
-        "keyword": "man united vs leeds",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Club Friendlies LIVE: Arsenal vs Como and Manchester United vs Leeds United - score, text commentary & match stats",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmkg4znpwzd7t"
-        }
-      },
-      {
-        "keyword": "맨유",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'세상에' 이러다 '강제 잔류?'...맨체스터 유나이티드 '570억' 날리나? 예상보다 늦어지는 '합의'→영입 포기 가능성도 등장했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813003649914"
-        }
-      },
-      {
-        "keyword": "man utd đấu với leeds",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Trực tiếp bóng đá MU - Leeds: Mbeumo lĩnh xướng hàng công, tân binh Andrey Santos đá chính",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-leeds-derby-lam-nong-truoc-mua-c48a1786060.html"
-        }
-      },
-      {
-        "keyword": "watch",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Solar Eclipse Live Updates: Europe’s First Total Eclipse in Decades Starts on Path to Darkness",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-13T06:34:29.621497+09:00",
     "label": "06:34",
     "items": [
@@ -2830,6 +2618,108 @@
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/08/14/202608141329772288O"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-14T17:57:44.684151+09:00",
+    "label": "17:57",
+    "items": [
+      {
+        "keyword": "자식 방생 프로젝트 합숙 맞선",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "최정윤♥이인권, 최종 커플 탄생…양가 어머니까지 \"허락\" 해피엔딩 (합숙맞선2)[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814091137964"
+        }
+      },
+      {
+        "keyword": "수도권 광역 급행 철도 c 노선",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "GTX-C 더 구체화됐지만, 개통 시계는 흐려졌다",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363733899"
+        }
+      },
+      {
+        "keyword": "허화평",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국힘, 이진숙 '5·18 폄훼 포럼' 비판에‥\"재발하지 않기 바란다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6844835_36911.html"
+        }
+      },
+      {
+        "keyword": "체포",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보]‘윤석열 체포 방해’ 국힘 나경원·김기현·윤상현·권영진 기소···특검 “인간벽 형성해 영장집행 저지”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608141317001"
+        }
+      },
+      {
+        "keyword": "양천구",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "IPARK현대산업개발, 월계시영아파트에 ‘모두의 우산’ 400개 기부",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260813501338"
+        }
+      },
+      {
+        "keyword": "휴머노이드",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "구광모·젠슨황 ‘AI협력’ 강화... 내년 ‘엔비디아 칩’ 심은 휴머노이드 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/08/14/HFLCS5WUXZEVPKJMZA5ZQYW42Q/"
+        }
+      },
+      {
+        "keyword": "참수리급 고속정",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[영상] \"최전방 NLL해역 철통수호\"…신형 고속정 '검독수리-B' 실전배치",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814174156437"
+        }
+      },
+      {
+        "keyword": "맹승지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "맹승지, 공개 열애…남친 직업은 의사?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749126"
+        }
+      },
+      {
+        "keyword": "민형배",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“5개 자치구→시 전환, 공론화 거쳐야”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636079"
+        }
+      },
+      {
+        "keyword": "원주중앙시장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
       }
     ]
   }
