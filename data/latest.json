@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-15T02:43:53.256675+09:00",
-  "label": "02:43",
+  "timestamp": "2026-08-15T03:40:11.868652+09:00",
+  "label": "03:40",
   "items": [
     {
       "keyword": "대한민국 광복절",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "광복절을 특별하게 기념하고 싶다면…'독립기념관'으로!",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/reporterView.do?newsId=148969795"
+        "title": "美국무, 광복절 축하메시지…\"한국은 없어서는 안 될 파트너\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815015248517"
       }
     },
     {
@@ -23,13 +23,23 @@
       }
     },
     {
-      "keyword": "류중일",
+      "keyword": "마르세유 대 아틀레티코",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
+        "title": "더이상 '벤치 이강인'은 없다…\"개막전 선발\" 파격 전망",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814165456587"
+        "url": "https://v.daum.net/v/43g2g0LxUh"
+      }
+    },
+    {
+      "keyword": "south korea national liberation day",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "liberation-day-bell-ringing-eng -",
+        "source": "서울특별시",
+        "url": "https://english.seoul.go.kr/seoul-commemorates-the-81st-liberation-day-with-bell-ringing-ceremony-under-the-theme-the-sound-of-liberation-awakening-the-future/liberation-day-bell-ringing-eng/"
       }
     },
     {
@@ -43,33 +53,33 @@
       }
     },
     {
-      "keyword": "south korea national liberation day",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "liberation-day-bell-ringing-eng -",
-        "source": "서울특별시",
-        "url": "https://english.seoul.go.kr/seoul-commemorates-the-81st-liberation-day-with-bell-ringing-ceremony-under-the-theme-the-sound-of-liberation-awakening-the-future/liberation-day-bell-ringing-eng/"
-      }
-    },
-    {
-      "keyword": "김원중",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'솔로포-스리런포' 어제 NC의 영웅은 다시 벤치로...안중열 대신 김형준 선발, 김휘집 2G 연속 4번타자 [오!쎈 부산]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814171136285"
-      }
-    },
-    {
-      "keyword": "아틀레티코",
+      "keyword": "맨홀",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "더이상 '벤치 이강인'은 없다…\"개막전 선발\" 파격 전망",
+        "title": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8636007"
+      }
+    },
+    {
+      "keyword": "류중일",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄",
         "source": "Daum",
-        "url": "https://v.daum.net/v/43g2g0LxUh"
+        "url": "https://v.daum.net/v/bwaDMFiPYV"
+      }
+    },
+    {
+      "keyword": "인구감소지역",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "임실군, 인구감소 대응 5년 기본계획 세운다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260814140907930"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "도미노피자, 'SKT T day' 반값 프로모션 17~21일 자사앱에서 진행",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260814_0003748927"
-      }
-    },
-    {
-      "keyword": "용인시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "이상일 용인특례시장 “리모델링 사업 소외 없어야”…수지구 10개 조합 현안 청취",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712399"
+        "title": "11번가, T멤버십 고객 대상 980종 특가…20일까지 반값 혜택",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/HOOX1GQ9g3"
       }
     }
   ]
