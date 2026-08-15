@@ -1,37 +1,11 @@
 {
-  "timestamp": "2026-08-15T13:19:46.451015+09:00",
-  "label": "13:19",
+  "timestamp": "2026-08-15T14:15:56.020235+09:00",
+  "label": "14:15",
   "items": [
     {
-      "keyword": "주거",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "“대출 줄테니 빌라 사라고?”…부동산 대책에 청년들 속앓이",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637598"
-      }
-    },
-    {
-      "keyword": "이천수",
+      "keyword": "하객",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "최태원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[속보]최태원·노소영 ‘9440억원 재산 분할’ 또 한번 대법으로…시한 1분 남기고 ‘재상고’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608150001001"
-      }
-    },
-    {
-      "keyword": "결혼식",
-      "traffic_raw": "500+",
-      "traffic": 500,
       "news": {
         "title": "“350만원 들인 하객 0명 제 결혼식 어때요?” 쏟아진 찬사",
         "source": "문화일보",
@@ -39,63 +13,89 @@
       }
     },
     {
-      "keyword": "유병재",
+      "keyword": "최태원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[속보]최태원·노소영 ‘9440억원 재산 분할’ 또 한번 대법으로…시한 1분 남기고 ‘재상고’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608150001001"
+      }
+    },
+    {
+      "keyword": "삼성sdi",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "특징주, 삼성SDI-2차전지(나트륨이온) 테마 상승세에 5.65% ↑",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1142634"
+      }
+    },
+    {
+      "keyword": "온유",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "인'스타'그램 세상|“하영 증조부 ‘명성황후 시해’ 가담자 소개로 결혼”…일본인과 결혼한 내막 공개",
+        "source": "ZUM 뉴스",
+        "url": "https://m.news.zum.com/photo/58287739/107206449?cm=news_edit&r=1&thumb=1"
+      }
+    },
+    {
+      "keyword": "티웨이항공",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/FobRYdyOtH"
+        "title": "[단독] 티웨이항공, 2년 만에 프랑크푸르트 노선 운항 중단…유럽 노선 배분 취지 무색",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20079661"
       }
     },
     {
-      "keyword": "여한구",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6844954_36932.html"
-      }
-    },
-    {
-      "keyword": "영웅",
+      "keyword": "sl vs ind",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "스파이더맨이 선택한 그 차… 스크린 누비는 BMW iX3·5시리즈",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815102045007"
+        "title": "How to watch Sri Lanka vs India 1st Test: Free Streams & TV Channels",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/how-to-watch/cricket/sri-lanka-vs-india-1st-test-free-streams-tv-channels"
       }
     },
     {
-      "keyword": "이슬람 마카체프",
+      "keyword": "서강대",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“상어는 다음 주에도 있어”…하빕, 마카체프에 경고",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814083653822"
+        "title": "[속보] 서강대 개인정보 18만건 유출…신원미상 외부공격 원인",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/08/15/2NGHGRIHXRGMLP7HHFYJSYJBGY/"
       }
     },
     {
-      "keyword": "도시 재개발",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "페라리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "백두산",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "창신3구역, 우리자산신탁과 MOU…999가구에 시니어주택 1000실 개발",
-        "source": "땅집고",
-        "url": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401968.html"
+        "title": "“백두산을 ‘중화민족의 성산’으로” 테마파크까지 세운 중국",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20260814/134478129/1"
       }
     },
     {
-      "keyword": "퇴직",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "금융감독원",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "“희망퇴직 효과?”…LGD, 직원 수 반년 만에 1000여명 줄었다 [비즈360]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815063140213"
+        "title": "금감원 노조, '세종행 유력'에 긴급회의…대응방안 논의",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260814_0003750206"
       }
     }
   ]
