@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-16T07:09:58.277011+09:00",
-  "label": "07:09",
+  "timestamp": "2026-08-16T08:10:22.910327+09:00",
+  "label": "08:10",
   "items": [
     {
-      "keyword": "송일국",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "한화 이글스",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "강부자 \"홍명보 너무 불쾌…자존심 강하고 겸손 몰라\"",
+        "title": "구자욱 5타점 대폭발…3연승 삼성, 선두 kt 반 경기 차 추격(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815231204296"
+      }
+    },
+    {
+      "keyword": "로스앤젤레스 fc",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260814086500007"
+      }
+    },
+    {
+      "keyword": "옷",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "열대야 멈추자 가을옷 '성큼'…한여름에 패딩까지 '조기 등판'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816063251082"
+      }
+    },
+    {
+      "keyword": "박선원",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "정청래 “호남에서 크게 져…겸허하게 존중하고 수용”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608152035001"
+      }
+    },
+    {
+      "keyword": "황인범",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "리그 데뷔전부터 번뜩인 황인범…감각적 패스로 쐐기골 어시스트",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260816007500007"
+      }
+    },
+    {
+      "keyword": "랄랄",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"9㎏ 감량 성공\"…랄랄, 남편과 광복절 요트 데이트",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260815_0003750788"
+        "url": "https://www.newsis.com/view/NISX20260815_0003750661"
       }
     },
     {
-      "keyword": "부부",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "업비트",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "유명 배우 부부, 결혼 11년 만 '이혼'…\"연인은 못 해도 영원히 가족\" [MHN:글로벌]",
+        "title": "\"AI 결제 98.6%가 달러 스테이블코인…원화도 정산망 구축 서둘러야\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/plY5H3nQMK"
+        "url": "https://v.daum.net/v/y4TU8KEotj"
       }
     },
     {
-      "keyword": "습관",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "스포츠조선",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "“의지만으론 안 된다”… 허기 키우는 습관 5가지와 작별하세요",
-        "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/08/14/2026081401559.html"
-      }
-    },
-    {
-      "keyword": "이재명",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "李 대통령, 광복절 맞아 \"남북 마주 앉길…종전 위한 논의 시작하자\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/politics/2026/08/15/2026081512053935723"
-      }
-    },
-    {
-      "keyword": "국가유공자",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘살림남’ 박서진, 국가유공자 후손 식당 찾았다…81만 5000원 ‘돈쭐’ - 스타투데이",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/broadcasting-service/12128151"
-      }
-    },
-    {
-      "keyword": "삼성중공업",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "KAIST-삼성중공업, 차세대선박연구센터 공동출범",
+        "title": "\"상당한 미모\"라던 황정민 폭로자, 직접 봤더니…007 작전 '변신'[이슈S]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814171840545"
+        "url": "https://v.daum.net/v/73WRLLHly1"
       }
     },
     {
-      "keyword": "원자력 잠수함",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "대구 도시철도 1호선",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "[미리보기] 시사기획 창 : 잠수함, 핵을 품다",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637483"
-      }
-    },
-    {
-      "keyword": "노화",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한 발로 얼마나 버티나…65세 이상 향후 7년 사망 위험 가늠자? [노화설계]",
+        "title": "대구도시철도 1호선 연장 놓고 경산시-영천시 이해관계 충돌",
         "source": "Daum",
-        "url": "https://v.daum.net/v/QEg133nQz8"
+        "url": "https://v.daum.net/v/FtiIiOB3X4?f=p"
       }
     },
     {
-      "keyword": "로또1237회당첨번호",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "순찰",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "[속보]로또 1237회 당첨번호 '10·20·23·34·37·40'…보너스 '36'",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=02660086645547648&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "부채 탕감",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "선진국도 정부 주도 빚 탕감?...“민간영역 조정 활성화 필요”",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20079751"
+        "title": "폭염 속 탈진 위기 폐지 노인, 순찰 드론에 포착돼 모면",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260814070200060"
       }
     }
   ]
