@@ -1,98 +1,106 @@
 {
-  "timestamp": "2026-08-15T21:17:15.931002+09:00",
-  "label": "21:17",
+  "timestamp": "2026-08-15T22:22:12.003344+09:00",
+  "label": "22:22",
   "items": [
     {
-      "keyword": "민생 지원금 지급일",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "내일 날씨",
+      "traffic_raw": "500000+",
+      "traffic": 500000,
       "news": {
-        "title": "통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정",
-        "source": "경남도민일보",
-        "url": "https://www.idomin.com/news/articleView.html?idxno=2012409"
+        "title": "가뭄 해갈 '단비' 반갑지만‥250mm 이상 물폭탄 쏟아진다",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845034_37004.html"
       }
     },
     {
-      "keyword": "현관",
+      "keyword": "thời tiết ngày mai",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "Dự báo thời tiết ngày 16/8/2026: Nắng nóng miền Trung, Bắc Bộ mưa lớn sắp tới",
+        "source": "Báo Nhân Dân điện tử",
+        "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-1682026-nang-nong-tiep-tuc-o-mien-trung-bac-bo-chuan-bi-buoc-vao-dot-mua-lon-post982131.html"
+      }
+    },
+    {
+      "keyword": "티 웨이 홀딩스",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“우리 집 앞인데 어때서”…아파트 복도에 현관문 단 주민, 불법일까",
-        "source": "더퍼블릭",
-        "url": "https://www.thepublic.kr/news/articleView.html?idxno=315054"
+        "title": "티웨이항공 지배력 잃은 티웨이홀딩스…소노그룹 재편에 역할 물음표",
+        "source": "이코노미톡뉴스",
+        "url": "http://www.economytalk.kr/news/articleView.html?idxno=423490"
       }
     },
     {
-      "keyword": "백종원",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "블랙록",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "“백종원 어쩌다 600억 증발” 믿었던 사람들 ‘망연자실’ 하더니…결국 터질게 터졌다",
-        "source": "헤럴드경제",
-        "url": "https://biz.heraldcorp.com/article/10842017"
+        "title": "아부다비 국부펀드 2곳, 블랙록 비트코인 ETF 대규모 보유 지속",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260815n10995"
       }
     },
     {
-      "keyword": "사장님 귀는 당나귀 귀",
+      "keyword": "cuaca besok",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Prakiraan Cuaca Makassar Besok 16 Agustus 2026: Cerah Berawan hingga Sore, Waspada Angin Kencang!",
+        "source": "detikcom",
+        "url": "https://www.detik.com/sulsel/makassar/d-8620145/prakiraan-cuaca-makassar-besok-16-agustus-2026-cerah-berawan-hingga-sore-waspada-angin-kencang"
+      }
+    },
+    {
+      "keyword": "서경덕",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "썬킴, 전현무 옛 본가에 산다…“엘리베이터서 기운 느껴져”",
+        "title": "서경덕·송혜교, ‘만세운동 간호사’ 박자혜 소개 다국어영상 공개",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815140136628"
+        "url": "https://v.daum.net/v/20260815105009485"
       }
     },
     {
-      "keyword": "백령도",
+      "keyword": "한소희",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "사곶에서 만난 해병대 & 백령도 토박이 부녀의 백령도식 냉면 | KBS 260815 방송",
-        "source": "대한민국 대표 공영미디어 KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026129586-01-000_MFSC1&program_code=T2018-0429&program_id=PS-2026129586-01-000&section_code=05&broadcast_complete_yn=N&section_id=13452"
-      }
-    },
-    {
-      "keyword": "구자욱",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "구자욱이 치면 이긴다…내친김에 생애 첫 타격왕 '조준'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260815021600007"
-      }
-    },
-    {
-      "keyword": "농구 한일전",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'0.2초' 남기고 韓 울린 日 천재 가드, 정말 20세 맞아? 접전서도 싱글벙글…\"긴박한 상황이 즐거워, 이게 농구의 재미구나 실감\" [도쿄 인터뷰]",
+        "title": "평점 9.04 기록하며 호평받더니…11년 만에 '리메이크'로 돌아온 이 작품 ('인턴')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815124337793"
+        "url": "https://v.daum.net/v/XkwIi1d8Mf"
       }
-    },
-    {
-      "keyword": "놀토",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'놀토' 원이 \"연습생 때부터 들어\" 태연 노래 열창 '훈훈 선후배'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815203328030"
-      }
-    },
-    {
-      "keyword": "이호연",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
     },
     {
       "keyword": "딴지",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'오디세이' 8월 7일 개봉…고대 그리스 영웅의 귀환 여정 그려",
+        "source": "CBC뉴스",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=596237"
+      }
+    },
+    {
+      "keyword": "헤수스 카사스",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "'홍명보가 그랬듯' 이동국도 A대표팀 코치 직행? 감독 선임 과정부터 '또' 논란",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/HrMptpoMSI"
+      }
+    },
+    {
+      "keyword": "최형우",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'이게 얼마 만인가' 최형우 무려 38일 만에 터졌다, 132m 초대형 스리런포 폭발…KKKKKKK 잘 던지던 박준영 내려가다 [MD대구]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815210249339"
+      }
     }
   ]
 }
