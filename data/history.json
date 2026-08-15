@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-14T07:30:20.951874+09:00",
-    "label": "07:30",
-    "items": [
-      {
-        "keyword": "과일",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"당뇨 환자도 과일 먹어도 된다?\"…'이 과일'만큼은 피하세요",
-          "source": "아이뉴스24",
-          "url": "http://www.inews24.com/view/1994819"
-        }
-      },
-      {
-        "keyword": "아트 엠앤 씨",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[공식] 김호중 소속사, 고강도 세무조사에 626만 원 추가로 낸다..탈세 정황 無 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/08/13/GZQWIZJXGRRTQMTBGVSDANBVMM/"
-        }
-      },
-      {
-        "keyword": "에코프로",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "중저가부터 하이엔드까지…차세대 배터리 소재 보폭 넓히는 에코프로 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/13/2026081215145064772"
-        }
-      },
-      {
-        "keyword": "문경시",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "장흥군, 3분기 통합방위협의회 개최 '비상 대응 체계 강화'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260813006100353"
-        }
-      },
-      {
-        "keyword": "이상순",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이효리, ♥이상순 두고 화사 손 꼭…심야 영화관서 포착",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608111119003"
-        }
-      },
-      {
-        "keyword": "강유미",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"수영장에 전용 테라스까지\"… '1억 뷰' 스타 3살 양이로, 럭셔리 하우스 공개 [홈즈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814054255803"
-        }
-      },
-      {
-        "keyword": "연꽃",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[포토뉴스]폭염 뚫고 활짝 핀 빅토리아 연꽃",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260813.99099003622"
-        }
-      },
-      {
-        "keyword": "김민희",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"촬영장에서 수유까지\"…김민희, '혼외자 출산 후' 홍상수와 첫 공식석상 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081405344617083"
-        }
-      },
-      {
-        "keyword": "셀트리온",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "셀트리온 ADC 항암신약, 미국 FDA 패스트트랙 추가 지정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813022600017"
-        }
-      },
-      {
-        "keyword": "일기예보",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "8월 13일 베트남 남부 및 호치민시 일기예보: 저녁에 천둥번개가 예상됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-nam-bo-va-tp-hcm-ngay-13-8-chieu-toi-mua-dong"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-14T08:30:56.179279+09:00",
     "label": "08:30",
     "items": [
@@ -3245,6 +3139,112 @@
           "title": "트와이스 채영도 JYP 떠난다···정연 이어 ‘홀로서기’ 선언 “제 뿌리인 그룹은 활동 계속”",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202608131628011"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-15T20:10:17.830010+09:00",
+    "label": "20:10",
+    "items": [
+      {
+        "keyword": "경제",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“10년 뒤엔 지금보다 훨씬”…한국인 절반 ‘韓·日 경제 역전’ 예측",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12128763"
+        }
+      },
+      {
+        "keyword": "장인화",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "장인화 포스코그룹 회장, 올 상반기 보수 10억3800만원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814143149783"
+        }
+      },
+      {
+        "keyword": "fc 서울 대 대전",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "선두 FC서울 조영욱 부상 악재…김기동 감독 \"두 달 반 예상\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750691"
+        }
+      },
+      {
+        "keyword": "체포",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 가출 말리는 어머니에 끓는 물 부은 10대 딸 현행범 체포",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815153809711"
+        }
+      },
+      {
+        "keyword": "제주 대 안양",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "제주SK FC, 안양 추격 따돌리고 순위 상승을 위한 가속을 더한다!",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813220409191"
+        }
+      },
+      {
+        "keyword": "장기 기증",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "노숙인·독거노인 돕던 50대 미용사, 4명에 장기 기증",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813050800530"
+        }
+      },
+      {
+        "keyword": "사랑이 온다",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'사랑이 온다' 하석진, 안희연이 숨긴 진실 마주하고 충격 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/15/2026081519407262025"
+        }
+      },
+      {
+        "keyword": "전지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "용인 반도체 공장 증설 쉬워진다… 기존 공사 중단없이 별도 허가 허용",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1MGzCqAi0u?f=p"
+        }
+      },
+      {
+        "keyword": "콜 오브 듀티",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Call of Duty: Modern Warfare 4's beta test launch dates and content details are up",
+          "source": "Windows Central",
+          "url": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4s-beta-tests-are-stacked-with-an-exclusive-single-player-campaign-mission-multiplayer-and-more-here-are-all-the-details"
+        }
+      },
+      {
+        "keyword": "스텔스기",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "중국, F-35 스텔스 요격 AI 모델 개발...적중률 96.4%",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814102411373"
         }
       }
     ]
