@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T17:14:59.680031+09:00",
-  "label": "17:14",
+  "timestamp": "2026-08-15T18:16:16.560405+09:00",
+  "label": "18:16",
   "items": [
     {
       "keyword": "도경완",
@@ -8,24 +8,44 @@
       "traffic": 5000,
       "news": {
         "title": "장윤정 9세 딸, '120억 집' 사는데 돈 걱정하네 '기특'..\"母 돈 낭비라 할까봐\" [핫피플]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/15/GYZWGMZRMNQWEZRVMQ4TONRXMI/"
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815143651945"
       }
     },
     {
-      "keyword": "마도 식",
+      "keyword": "박현경",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "영화 '돌아이' 등에서 악역 단골…배우 마도식씨 별세",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260815018500704"
+        "title": "‘신인 최초 한시즌 4승 도전’ 김민솔, 3라운드도 공동 선두",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/to632QhDTa"
+      }
+    },
+    {
+      "keyword": "리사",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "리사도 결국 사과…블랙핑크 10주년 잡음에 \"정말 미안해\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260815_0003750546"
+      }
+    },
+    {
+      "keyword": "소진",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'김부장' 이동하, 걸스데이 소진과 초절약 결혼…웨딩드레스는 30만원대 (전참시)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815122107634"
       }
     },
     {
       "keyword": "홍현희",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "홍현희, 10kg 감량하더니..헤메샵 바꿨다 “다이어트 후 변화 주고파” (홍쓴TV)",
         "source": "Daum",
@@ -33,69 +53,49 @@
       }
     },
     {
-      "keyword": "콜레스테롤",
+      "keyword": "lg 트윈스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "홍국이 콜레스테롤에 좋다고?…약 대신 먹었다간 [건강 팁]",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20079781"
-      }
-    },
-    {
-      "keyword": "라면",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "(흥미 이슈) '라면’, 한국 영화가 꾸준히 관심을 보이고 있는 간편 먹거리",
-        "source": "네이버 프리미엄콘텐츠",
-        "url": "https://contents.premium.naver.com/dailyost/film/contents/260814143437582vk"
-      }
-    },
-    {
-      "keyword": "대학",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[과학스냅] 서울대 등 8개 대학 연구안보 체계 구축 착수…정부 지원",
+        "title": "프로야구 LG, 아시아 쿼터 투수 케네디 영입…PS 출전 가능",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260813144300017"
+        "url": "https://www.yna.co.kr/view/AKR20260815039300007"
       }
     },
     {
-      "keyword": "대한민국 여자 배구 국가대표팀",
+      "keyword": "광주광역시",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": null
+    },
+    {
+      "keyword": "로메로",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'손흥민 옛 동료' 로메로, 이젠 이강인과 함께…AT마드리드 이적",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260815042600007"
+      }
+    },
+    {
+      "keyword": "독립운동가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "빽가, 독립운동가 진희창 외증손이었다 \"상하이 임시정부 운영 뒷받침\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815134424462"
+      }
     },
     {
       "keyword": "세종대로",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "광복절 서울 도심서 진보·보수 대규모 집회…세종대로 통제",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260814183000004"
-      }
-    },
-    {
-      "keyword": "로메로",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'이토록 토트넘 떠나고 싶었나' 손흥민 후임 주장, 오피셜도 없는데 작별 인사 \"완벽한 여정은 아니었지만...\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/15/2026081514581137432"
-      }
-    },
-    {
-      "keyword": "위암",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "증상 없는 위암, 조기 발견이 관건… \"40세 이상 정기 내시경 필수\"",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026081209370000279"
+        "title": "광복절 도심 가른 진보·보수 집회…\"반미 자주\" vs \"윤어게인\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815172744036"
       }
     }
   ]
