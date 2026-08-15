@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-15T09:39:06.020751+09:00",
-  "label": "09:39",
+  "timestamp": "2026-08-15T11:07:47.883084+09:00",
+  "label": "11:07",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "500000+",
-      "traffic": 500000,
+      "keyword": "소방관",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[주말 날씨] 광복절, 남부 비 소식…내일 전국으로 확대",
+        "title": "국가소방동원령 연장 이틀째…군 차량 102대 경남 가뭄현장 투입",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815080117100"
+        "url": "https://v.daum.net/v/20260815094657496"
       }
     },
     {
-      "keyword": "두산에너빌리티",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "인도네시아",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "김정관 장관, 빌 게이츠 테라파워 의장 면담…SMR 협력방안 논의",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970126&pWise=main&pWiseMain=R4"
+        "title": "인도네시아 연안에 규모 7.7 강진…쓰나미 경보",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20260815/134482823/1"
       }
     },
     {
-      "keyword": "김지민",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "샌 디스크",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "‘♥김준호’ 김지민, 내년 2월 ‘출산 예정’ 소식 전했다…“딸이겠죠? 아들도 좋아요”",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608141839003"
-      }
-    },
-    {
-      "keyword": "thời tiết",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Miền Bắc đón nhiều ngày có mưa dông",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/mien-bac-don-nhieu-ngay-co-mua-dong-c46a1786662.html"
-      }
-    },
-    {
-      "keyword": "테슬라",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"테슬라 전기차 독주 끝났다\"…'안방 사수' 성공한 車 봤더니",
+        "title": "\"몽땅 주주에게\" 샌디스크의 파격…SK하닉은 '100조 축포' 쏘나",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608139540g"
+        "url": "https://www.hankyung.com/article/2026081421046"
       }
     },
     {
-      "keyword": "天气",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[天气]光复节假期最大150毫米强降雨……伴有阵风、雷电",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/cn/article/2026081417201365612"
-      }
+      "keyword": "김우빈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
-      "keyword": "현대무벡스",
+      "keyword": "sbs",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "현대무벡스 주가, 급등세... 무슨 회사길래?",
-        "source": "금강일보",
-        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175499"
+        "title": "26,000 Tons Poured, But Hopes Rest on Weekend Rain",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008706551"
       }
     },
     {
-      "keyword": "이지혜",
+      "keyword": "변광용",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "유리, 남편 공개했다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260813_0003748545"
+        "title": "변광용 거제시장, 거제경찰서 연초면 이전 계획에 “유감”",
+        "source": "경남도민일보",
+        "url": "https://www.idomin.com/news/articleView.html?idxno=2012399"
       }
     },
     {
-      "keyword": "송도 럭스 오션 sk뷰",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "광복",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[사건사고] 아파트 발코니 통째로 와르르…재시공·정밀진단 요구 外",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260814006600038"
+        "title": "8월 15일은 무슨 날?? - 영상 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148970109"
       }
     },
     {
-      "keyword": "schd",
+      "keyword": "ufc 330",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "SCHD: The Biggest Mistake New Dividend Investors Make",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/13/schd-the-biggest-mistake-new-dividend-investors-make/"
+        "title": "Ian Machado Garry Outlines Conditions for Immediate Rematch with Islam Makhachev",
+        "source": "Telecom Asia Sport",
+        "url": "https://www.telecomasia.net/news/mma/ian-machado-garry-rematch-islam-makhachev/"
+      }
+    },
+    {
+      "keyword": "jason arday",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html"
+      }
+    },
+    {
+      "keyword": "미래에셋",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "은행 넘는 순이익에도 미래에셋증권 목표가 ‘뚝’, 왜?",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12127958"
       }
     }
   ]
