@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-14T06:34:18.706552+09:00",
-    "label": "06:34",
-    "items": [
-      {
-        "keyword": "선거",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "金은 15, 鄭은 5…호남경선 D-1 승리의 '매직넘버'는",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814050313268"
-        }
-      },
-      {
-        "keyword": "과일",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"당뇨 환자도 과일 먹어도 된다?\"…'이 과일'만큼은 피하세요",
-          "source": "아이뉴스24",
-          "url": "http://www.inews24.com/view/1994819"
-        }
-      },
-      {
-        "keyword": "공무원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "환경미화원 3명에 이불 씌우고 멍석말이···‘계엄령 놀이’ 갑질 공무원, 항소심서도 실형",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608131636001"
-        }
-      },
-      {
-        "keyword": "아트엠앤씨",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[공식] 김호중 소속사, 고강도 세무조사에 626만 원 추가로 낸다..탈세 정황 無 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/08/13/GZQWIZJXGRRTQMTBGVSDANBVMM/"
-        }
-      },
-      {
-        "keyword": "문경시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김학홍 문경시장, 취임 30일 기자간담회",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260813_0002212068"
-        }
-      },
-      {
-        "keyword": "오현규",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "오현규 위기…베식타시, 세르비아 특급 골잡이 블라호비치 영입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/11aqrc3Gtv"
-        }
-      },
-      {
-        "keyword": "김민희",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"촬영장에서 수유까지\"…김민희, '혼외자 출산 후' 홍상수와 첫 공식석상 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081405344617083"
-        }
-      },
-      {
-        "keyword": "강민호",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "삼성, 9회초 류지혁 동점타·강민호 역전타…4연패 탈출(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813175100007"
-        }
-      },
-      {
-        "keyword": "제주특별자치도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "박완수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "박완수 경남지사, 민선 9기 광역단체장 직무수행 평가 2위 [리얼미터]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813153053970"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-14T07:30:20.951874+09:00",
     "label": "07:30",
     "items": [
@@ -3241,6 +3139,112 @@
           "title": "광복절 도심 가른 진보·보수 집회…\"반미 자주\" vs \"윤어게인\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260815172744036"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-15T19:12:13.573579+09:00",
+    "label": "19:12",
+    "items": [
+      {
+        "keyword": "lg전자",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "NVIDIA, LG와 피지컬 AI 협력 확대… Isaac GR00T 기반 차세대 휴머노이드 개발",
+          "source": "NVIDIA",
+          "url": "https://blogs.nvidia.co.kr/blog/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t/"
+        }
+      },
+      {
+        "keyword": "학원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김필식 동신대 이사장 별세…향년 83세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815020100054"
+        }
+      },
+      {
+        "keyword": "자산",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“30억 벌면 안전자산으로”…달라진 3040 자산가 [머니 트레이스]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20079753"
+        }
+      },
+      {
+        "keyword": "로저 페더러",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "주가 급락에 720억 날아간 ‘테니스 황제’…1년 만에 억만장자 탈락",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260814516409"
+        }
+      },
+      {
+        "keyword": "환희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'살림남' 이장우, 사촌 형 환희 위해 띠동갑 女 소개팅 주선",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815112950976"
+        }
+      },
+      {
+        "keyword": "현봉식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대상 상품 쿨하게 양보한 김신영…박경혜 \"덕분에 세탁비 절약\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260815_0003750674"
+        }
+      },
+      {
+        "keyword": "타짜",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'타짜: 벨제붑의 노래' 조우진·윤경호부터 스윙스까지…신스틸러 5인 [N컷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814174950708"
+        }
+      },
+      {
+        "keyword": "티웨이홀딩스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "티웨이항공 지배력 잃은 티웨이홀딩스…소노그룹 재편에 역할 물음표",
+          "source": "이코노미톡뉴스",
+          "url": "http://www.economytalk.kr/news/articleView.html?idxno=423490"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 s26",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "갤럭시에서 '이 앱'만 잠근다…One UI 9.5 '앱 잠금' 기능 포착",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/281183"
+        }
+      },
+      {
+        "keyword": "트와이스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "트와이스 채영도 JYP 떠난다···정연 이어 ‘홀로서기’ 선언 “제 뿌리인 그룹은 활동 계속”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608131628011"
         }
       }
     ]

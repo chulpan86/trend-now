@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-15T18:16:16.560405+09:00",
-  "label": "18:16",
+  "timestamp": "2026-08-15T19:12:13.573579+09:00",
+  "label": "19:12",
   "items": [
     {
-      "keyword": "도경완",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "장윤정 9세 딸, '120억 집' 사는데 돈 걱정하네 '기특'..\"母 돈 낭비라 할까봐\" [핫피플]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815143651945"
-      }
-    },
-    {
-      "keyword": "박현경",
+      "keyword": "lg전자",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘신인 최초 한시즌 4승 도전’ 김민솔, 3라운드도 공동 선두",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/to632QhDTa"
+        "title": "NVIDIA, LG와 피지컬 AI 협력 확대… Isaac GR00T 기반 차세대 휴머노이드 개발",
+        "source": "NVIDIA",
+        "url": "https://blogs.nvidia.co.kr/blog/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t/"
       }
     },
     {
-      "keyword": "리사",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "학원",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "리사도 결국 사과…블랙핑크 10주년 잡음에 \"정말 미안해\"",
+        "title": "김필식 동신대 이사장 별세…향년 83세",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260815020100054"
+      }
+    },
+    {
+      "keyword": "자산",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“30억 벌면 안전자산으로”…달라진 3040 자산가 [머니 트레이스]",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20079753"
+      }
+    },
+    {
+      "keyword": "로저 페더러",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "주가 급락에 720억 날아간 ‘테니스 황제’…1년 만에 억만장자 탈락",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260814516409"
+      }
+    },
+    {
+      "keyword": "환희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'살림남' 이장우, 사촌 형 환희 위해 띠동갑 女 소개팅 주선",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815112950976"
+      }
+    },
+    {
+      "keyword": "현봉식",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대상 상품 쿨하게 양보한 김신영…박경혜 \"덕분에 세탁비 절약\"",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260815_0003750546"
+        "url": "https://www.newsis.com/view/NISX20260815_0003750674"
       }
     },
     {
-      "keyword": "소진",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'김부장' 이동하, 걸스데이 소진과 초절약 결혼…웨딩드레스는 30만원대 (전참시)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815122107634"
-      }
-    },
-    {
-      "keyword": "홍현희",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "홍현희, 10kg 감량하더니..헤메샵 바꿨다 “다이어트 후 변화 주고파” (홍쓴TV)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/7JViapoMWn"
-      }
-    },
-    {
-      "keyword": "lg 트윈스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "프로야구 LG, 아시아 쿼터 투수 케네디 영입…PS 출전 가능",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260815039300007"
-      }
-    },
-    {
-      "keyword": "광주광역시",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "로메로",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'손흥민 옛 동료' 로메로, 이젠 이강인과 함께…AT마드리드 이적",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260815042600007"
-      }
-    },
-    {
-      "keyword": "독립운동가",
+      "keyword": "타짜",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "빽가, 독립운동가 진희창 외증손이었다 \"상하이 임시정부 운영 뒷받침\"",
+        "title": "'타짜: 벨제붑의 노래' 조우진·윤경호부터 스윙스까지…신스틸러 5인 [N컷]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815134424462"
+        "url": "https://v.daum.net/v/20260814174950708"
       }
     },
     {
-      "keyword": "세종대로",
+      "keyword": "티웨이홀딩스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "광복절 도심 가른 진보·보수 집회…\"반미 자주\" vs \"윤어게인\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815172744036"
+        "title": "티웨이항공 지배력 잃은 티웨이홀딩스…소노그룹 재편에 역할 물음표",
+        "source": "이코노미톡뉴스",
+        "url": "http://www.economytalk.kr/news/articleView.html?idxno=423490"
+      }
+    },
+    {
+      "keyword": "삼성 갤럭시 s26",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "갤럭시에서 '이 앱'만 잠근다…One UI 9.5 '앱 잠금' 기능 포착",
+        "source": "케이벤치",
+        "url": "https://kbench.com/?q=node/281183"
+      }
+    },
+    {
+      "keyword": "트와이스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "트와이스 채영도 JYP 떠난다···정연 이어 ‘홀로서기’ 선언 “제 뿌리인 그룹은 활동 계속”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608131628011"
       }
     }
   ]
