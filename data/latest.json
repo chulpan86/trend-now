@@ -1,25 +1,35 @@
 {
-  "timestamp": "2026-08-15T08:12:03.043953+09:00",
-  "label": "08:12",
+  "timestamp": "2026-08-15T09:39:06.020751+09:00",
+  "label": "09:39",
   "items": [
     {
       "keyword": "날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "traffic_raw": "500000+",
+      "traffic": 500000,
       "news": {
         "title": "[주말 날씨] 광복절, 남부 비 소식…내일 전국으로 확대",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815063740266"
+        "url": "https://v.daum.net/v/20260815080117100"
       }
     },
     {
-      "keyword": "김민재",
+      "keyword": "두산에너빌리티",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "“사실이다” 김민재, 맨체스터 유나이티드 이적, 獨 언론인 인정 “이적설의 일부는 진실 단, 본인은 잔류 원해”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815012209321"
+        "title": "김정관 장관, 빌 게이츠 테라파워 의장 면담…SMR 협력방안 논의",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970126&pWise=main&pWiseMain=R4"
+      }
+    },
+    {
+      "keyword": "김지민",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘♥김준호’ 김지민, 내년 2월 ‘출산 예정’ 소식 전했다…“딸이겠죠? 아들도 좋아요”",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608141839003"
       }
     },
     {
@@ -27,45 +37,25 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Nắng nóng diện rộng ở Trung Bộ có khả năng kéo dài đến ngày 18/8",
-        "source": "Báo Thanh Hóa",
-        "url": "https://baothanhhoa.vn/nang-nong-dien-rong-o-trung-bo-co-kha-nang-keo-dai-den-ngay-18-8-298200.htm"
+        "title": "Miền Bắc đón nhiều ngày có mưa dông",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/tin-tuc-trong-ngay/mien-bac-don-nhieu-ngay-co-mua-dong-c46a1786662.html"
       }
     },
     {
-      "keyword": "weather",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Heat and humidity keeping Georgia sweating over the weekend",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/atlanta/video/heat-and-humidity-keeping-georgia-sweating-over-the-weekend/"
-      }
-    },
-    {
-      "keyword": "반도체",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "삼성전자, 비전 AI 권위자 한보형·메타 출신 한태린 영입…반도체 AX 강화",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814145650795"
-      }
-    },
-    {
-      "keyword": "погода",
+      "keyword": "테슬라",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Антициклон подарит украинцам солнечные выходные, но есть нюанс",
-        "source": "УНИАН",
-        "url": "https://www.unian.net/pogoda/news/pogoda-na-vyhodnye-prognoz-sinoptika-na-15-16-avgusta-13469814.html"
+        "title": "\"테슬라 전기차 독주 끝났다\"…'안방 사수' 성공한 車 봤더니",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608139540g"
       }
     },
     {
       "keyword": "天气",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "[天气]光复节假期最大150毫米强降雨……伴有阵风、雷电",
         "source": "아시아경제",
@@ -73,33 +63,43 @@
       }
     },
     {
-      "keyword": "포스코",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "포스코홀딩스, 상반기 영업익 1.5조 전년比 30%↑…리튬 상업생산·고수익 철강 확대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814162649388"
-      }
-    },
-    {
-      "keyword": "배달",
+      "keyword": "현대무벡스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"입구부터 걸어 오라니\" 아파트 단지 배달 갈등",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/08/13/VADDZS4KHBE7VB22JSITXDRLBU/"
+        "title": "현대무벡스 주가, 급등세... 무슨 회사길래?",
+        "source": "금강일보",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1175499"
       }
     },
     {
-      "keyword": "광주공항",
+      "keyword": "이지혜",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "유리, 남편 공개했다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260813_0003748545"
+      }
+    },
+    {
+      "keyword": "송도 럭스 오션 sk뷰",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "李 “전격전”에…광주 군공항, 예천-서산-충주 임시 분산배치",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814194449228"
+        "title": "[사건사고] 아파트 발코니 통째로 와르르…재시공·정밀진단 요구 外",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260814006600038"
+      }
+    },
+    {
+      "keyword": "schd",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "SCHD: The Biggest Mistake New Dividend Investors Make",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/13/schd-the-biggest-mistake-new-dividend-investors-make/"
       }
     }
   ]
