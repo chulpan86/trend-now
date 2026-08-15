@@ -1,106 +1,98 @@
 {
-  "timestamp": "2026-08-15T20:10:17.830010+09:00",
-  "label": "20:10",
+  "timestamp": "2026-08-15T21:17:15.931002+09:00",
+  "label": "21:17",
   "items": [
     {
-      "keyword": "경제",
+      "keyword": "민생 지원금 지급일",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정",
+        "source": "경남도민일보",
+        "url": "https://www.idomin.com/news/articleView.html?idxno=2012409"
+      }
+    },
+    {
+      "keyword": "현관",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“10년 뒤엔 지금보다 훨씬”…한국인 절반 ‘韓·日 경제 역전’ 예측",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12128763"
+        "title": "“우리 집 앞인데 어때서”…아파트 복도에 현관문 단 주민, 불법일까",
+        "source": "더퍼블릭",
+        "url": "https://www.thepublic.kr/news/articleView.html?idxno=315054"
       }
     },
     {
-      "keyword": "장인화",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "장인화 포스코그룹 회장, 올 상반기 보수 10억3800만원",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814143149783"
-      }
-    },
-    {
-      "keyword": "fc 서울 대 대전",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "선두 FC서울 조영욱 부상 악재…김기동 감독 \"두 달 반 예상\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260815_0003750691"
-      }
-    },
-    {
-      "keyword": "체포",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독] 가출 말리는 어머니에 끓는 물 부은 10대 딸 현행범 체포",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815153809711"
-      }
-    },
-    {
-      "keyword": "제주 대 안양",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "제주SK FC, 안양 추격 따돌리고 순위 상승을 위한 가속을 더한다!",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813220409191"
-      }
-    },
-    {
-      "keyword": "장기 기증",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "노숙인·독거노인 돕던 50대 미용사, 4명에 장기 기증",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260813050800530"
-      }
-    },
-    {
-      "keyword": "사랑이 온다",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'사랑이 온다' 하석진, 안희연이 숨긴 진실 마주하고 충격 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/15/2026081519407262025"
-      }
-    },
-    {
-      "keyword": "전지",
+      "keyword": "백종원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "용인 반도체 공장 증설 쉬워진다… 기존 공사 중단없이 별도 허가 허용",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1MGzCqAi0u?f=p"
+        "title": "“백종원 어쩌다 600억 증발” 믿었던 사람들 ‘망연자실’ 하더니…결국 터질게 터졌다",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10842017"
       }
     },
     {
-      "keyword": "콜 오브 듀티",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "사장님 귀는 당나귀 귀",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Call of Duty: Modern Warfare 4's beta test launch dates and content details are up",
-        "source": "Windows Central",
-        "url": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4s-beta-tests-are-stacked-with-an-exclusive-single-player-campaign-mission-multiplayer-and-more-here-are-all-the-details"
+        "title": "썬킴, 전현무 옛 본가에 산다…“엘리베이터서 기운 느껴져”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815140136628"
       }
     },
     {
-      "keyword": "스텔스기",
+      "keyword": "백령도",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "사곶에서 만난 해병대 & 백령도 토박이 부녀의 백령도식 냉면 | KBS 260815 방송",
+        "source": "대한민국 대표 공영미디어 KBS",
+        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026129586-01-000_MFSC1&program_code=T2018-0429&program_id=PS-2026129586-01-000&section_code=05&broadcast_complete_yn=N&section_id=13452"
+      }
+    },
+    {
+      "keyword": "구자욱",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "구자욱이 치면 이긴다…내친김에 생애 첫 타격왕 '조준'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260815021600007"
+      }
+    },
+    {
+      "keyword": "농구 한일전",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'0.2초' 남기고 韓 울린 日 천재 가드, 정말 20세 맞아? 접전서도 싱글벙글…\"긴박한 상황이 즐거워, 이게 농구의 재미구나 실감\" [도쿄 인터뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815124337793"
+      }
+    },
+    {
+      "keyword": "놀토",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'놀토' 원이 \"연습생 때부터 들어\" 태연 노래 열창 '훈훈 선후배'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815203328030"
+      }
+    },
+    {
+      "keyword": "이호연",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "딴지",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "중국, F-35 스텔스 요격 AI 모델 개발...적중률 96.4%",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814102411373"
-      }
+      "news": null
     }
   ]
 }
