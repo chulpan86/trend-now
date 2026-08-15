@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T12:30:08.937461+09:00",
-  "label": "12:30",
+  "timestamp": "2026-08-15T13:19:46.451015+09:00",
+  "label": "13:19",
   "items": [
     {
       "keyword": "주거",
@@ -13,39 +13,69 @@
       }
     },
     {
-      "keyword": "빌 게이츠",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "빌 게이츠는 왜 韓 SMR 공급망을 택했나",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260814172114"
-      }
-    },
-    {
       "keyword": "이천수",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": null
     },
     {
-      "keyword": "여한구",
+      "keyword": "최태원",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[속보]최태원·노소영 ‘9440억원 재산 분할’ 또 한번 대법으로…시한 1분 남기고 ‘재상고’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608150001001"
+      }
+    },
+    {
+      "keyword": "결혼식",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "여한구 통상교섭본부장 직권면직…산업부 “임면권자 정무적 판단”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/economy/economy_general/1273030.html"
+        "title": "“350만원 들인 하객 0명 제 결혼식 어때요?” 쏟아진 찬사",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609668"
       }
     },
     {
       "keyword": "유병재",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/FobRYdyOtH"
+      }
+    },
+    {
+      "keyword": "여한구",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6844954_36932.html"
+      }
+    },
+    {
+      "keyword": "영웅",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"말 끊은 이유 있었네\"…유병재, 공론화 전 하영 증조부 '친일 흑역사' 눈치챘나",
+        "title": "스파이더맨이 선택한 그 차… 스크린 누비는 BMW iX3·5시리즈",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815061350112"
+        "url": "https://v.daum.net/v/20260815102045007"
+      }
+    },
+    {
+      "keyword": "이슬람 마카체프",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“상어는 다음 주에도 있어”…하빕, 마카체프에 경고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260814083653822"
       }
     },
     {
@@ -65,37 +95,7 @@
       "news": {
         "title": "“희망퇴직 효과?”…LGD, 직원 수 반년 만에 1000여명 줄었다 [비즈360]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/1xeRwOB31j"
-      }
-    },
-    {
-      "keyword": "이종찬",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "국가유공자 및 보훈가족 초청 오찬",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72996&pageIndex=1"
-      }
-    },
-    {
-      "keyword": "하하",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "하하, '무한도전' 20년만 솔직 \"뺨 맞을 소리일진 몰라도…천재들 사이 어중간, 자격지심 어마어마\" (더 시즌즈)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815000937784"
-      }
-    },
-    {
-      "keyword": "australia vs bangladesh",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Ball by Ball Commentary & Live Score - AUS vs BAN, 1st Test",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/bangladesh-in-australia-2026-1527258/australia-vs-bangladesh-1st-test-1527273/ball-by-ball-commentary"
+        "url": "https://v.daum.net/v/20260815063140213"
       }
     }
   ]
