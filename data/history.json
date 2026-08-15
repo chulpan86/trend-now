@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-14T03:47:51.575379+09:00",
-    "label": "03:47",
-    "items": [
-      {
-        "keyword": "심정지",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 강남 치과서 8개월 새 2명 사망…\"그런 일 없어요\" 발뺌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813192352367"
-        }
-      },
-      {
-        "keyword": "캐나다",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Canada, U.S. trade officials meeting again for talks ahead of looming tariff deadline",
-          "source": "CBC",
-          "url": "https://www.cbc.ca/news/politics/trade-tariff-talks-canada-us-canada-dominic-leblanc-jamieson-greer-9.7305811"
-        }
-      },
-      {
-        "keyword": "사랑 이 온다",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "가족이란 이름의 무게…안희연, 한가네 중심 잡는 K-장녀(‘사랑이 온다’)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813112708404"
-        }
-      },
-      {
-        "keyword": "학교",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'아내는 교장.남편은 교사'…전남광주교육단체 \"인사 원칙 논란\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813154050459"
-        }
-      },
-      {
-        "keyword": "행동",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "성관계 후, ‘두 가지 행동’ 꼭 해라… 질병 예방 효과",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/08/13/2026081302757.html"
-        }
-      },
-      {
-        "keyword": "기쁜 우리 좋은 날",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "＂운전도 못 하는 사람이 교통사고?!＂ 정호빈의 서랍에서 진실을 발견한 이상숙 [기쁜 우리 좋은 날] | KBS 260813 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026141491-01-000_MFSC4&program_code=T2026-0027&program_id=PS-2026141491-01-000&section_code=03&broadcast_complete_yn=N&section_id=27243"
-        }
-      },
-      {
-        "keyword": "삼계탕 사발면",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'국내 역출시' 농심 삼계탕사발면, 1000박스 10분 만에 '품절'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6256976"
-        }
-      },
-      {
-        "keyword": "세르비아 축구 국가대표팀",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"한국 축구 다시 최고 수준으로\" '전설' 스토이코비치, 대표팀 감독직 공개 도전...단, '임시'는 싫다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814000009621"
-        }
-      },
-      {
-        "keyword": "dc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "One year in, the National Guard continues to patrol Washington, D.C.",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/politics/trump-administration/one-year-national-guard-continues-patrol-washington-dc-rcna591956"
-        }
-      },
-      {
-        "keyword": "데이브 로버츠",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'끔찍한 사고' 2293억 다저스 슈퍼스타 계단 아래로 추락→로버츠 감독 황급히 뛰쳐나와…\"머리 충돌은 피했다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813162251471"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-14T04:51:01.745827+09:00",
     "label": "04:51",
     "items": [
@@ -3250,6 +3144,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-15T16:21:10.060100+09:00",
+    "label": "16:21",
+    "items": [
+      {
+        "keyword": "마도 식",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "영화 '돌아이' 등에서 악역 단골…배우 마도식씨 별세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815018500704"
+        }
+      },
+      {
+        "keyword": "옥순이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'9월 결혼' 23기 옥순, '회계사' 미스터 강과 뽀뽀샷 등 미방분 대방출...미스터 권, \"시트콤 같아\" 축하",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815101642955"
+        }
+      },
+      {
+        "keyword": "추석",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "코레일, 추석 연휴 승차권 9월 3일부터 예매…일반 예매 9월 7~11일",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814141907257"
+        }
+      },
+      {
+        "keyword": "대한민국 여자 배구 국가대표팀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "17세 이하 여자 배구, 도미니카 꺾고 4연승 질주",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260811n04110"
+        }
+      },
+      {
+        "keyword": "달리기",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "달리기 즐기는 사람 VS 웨이트운동 즐기는 사람, 누가 더 장수할가?--건강",
+          "source": "인민넷",
+          "url": "http://korean.people.com.cn/n4/2026/0813/c85872-20034227.html"
+        }
+      },
+      {
+        "keyword": "통합특별시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "민주당 초대 전남광주통합시당위원장에 안도걸 의원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260815036900054"
+        }
+      },
+      {
+        "keyword": "미스터 시니스터",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "D23 2026: Marvel Studios Unveils ‘X-Men’ Cast",
+          "source": "Marvel.com",
+          "url": "https://www.marvel.com/articles/movies/marvel-studios-x-men-cast-d23-2026-announcement"
+        }
+      },
+      {
+        "keyword": "대한민국 과학기술정보통신부",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[AI프리즘] AI 시대 윤리도 바뀐다…\"규제 아닌 혁신의 기반\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814033200017"
+        }
+      },
+      {
+        "keyword": "발렌시아 cf",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Sato finishes off Valencia team move in Hercules victory",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/video/sato-finishes-off-valencia-team-move-in-hercules-victory-3HtjkfBwktgxnOnuFfWQugXDhIb"
+        }
+      },
+      {
+        "keyword": "훈련기",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“K9으로 재미 보더니”…인도, 이번엔 韓 훈련기까지 눈독 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260814601014"
+        }
       }
     ]
   }
