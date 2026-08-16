@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-16T15:21:55.202738+09:00",
-  "label": "15:21",
+  "timestamp": "2026-08-16T16:22:30.155913+09:00",
+  "label": "16:22",
   "items": [
     {
       "keyword": "손흥민",
@@ -13,59 +13,29 @@
       }
     },
     {
-      "keyword": "경고 사격",
+      "keyword": "교수",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "軍, 동부전선서 北 MDL 침범에 올해 첫 경고사격",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260816/134483900/1"
+        "title": "표절 논란 끝 비극…케임브리지 최연소 흑인 교수 사망",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260815050400082"
       }
     },
     {
-      "keyword": "교수",
+      "keyword": "땅집고",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘캠브리지 최연소 흑인 교수’, 표절 논란 속 자택서 숨진 채 발견",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815224929189"
-      }
-    },
-    {
-      "keyword": "지드래곤",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/culture/2026/08/16/2026081608382598502"
-      }
-    },
-    {
-      "keyword": "김민경",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'서영이 엄마' 故김민경, 투병 중에도 불태운 연기 열정…오늘(16일) 5주기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816060151793"
-      }
-    },
-    {
-      "keyword": "염정아",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "독일 출생·패션 셀럽 넘어…문가영, 백상 수상 터닝 포인트→염정아와 투톱 호흡 [TEN스타필드]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815183107739"
+        "title": "\"5년 기다렸더니 빚더미\" 분양가 3억 폭등, 성남 '신희타' 울분",
+        "source": "땅집고",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401849.html"
       }
     },
     {
       "keyword": "대함미사일",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "K-2 전차에 없던 ‘방패’ 단다…드론전쟁이 바꾼 생존법 [박수찬의 軍]",
         "source": "세계일보",
@@ -74,8 +44,8 @@
     },
     {
       "keyword": "더스틴 니퍼트",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "'상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나",
         "source": "Daum",
@@ -84,8 +54,8 @@
     },
     {
       "keyword": "재정",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "‘민생지원금’만 3조3천억…추미애 “경기, 빚 증가속도 전국의 3배, 이대로면 부도”",
         "source": "www.dt.co.kr",
@@ -93,13 +63,43 @@
       }
     },
     {
-      "keyword": "대령",
+      "keyword": "매일경제",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12313201"
+        "title": "“한국 대기업 총수, 정권에 동원” 日 신문 인용 매일경제 기사 삭제",
+        "source": "미디어오늘",
+        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336417"
+      }
+    },
+    {
+      "keyword": "죠스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[EBS 일요 시네마] 특급 공포영화 ‘죠스’",
+        "source": "경북매일",
+        "url": "https://www.kbmaeil.com/article/20260815500054"
+      }
+    },
+    {
+      "keyword": "경유",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816060850935?f=p"
+      }
+    },
+    {
+      "keyword": "테슬라 로드스터",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "테슬라, 9년 만에 로드스터 공중부양 시연…일반 도로 주행 불가",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/tech_it/2026/08/16/MW5STTPEDBHKJBXSEX2O72REAM/"
       }
     }
   ]
