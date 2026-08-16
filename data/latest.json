@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-16T20:10:57.360919+09:00",
-  "label": "20:10",
+  "timestamp": "2026-08-16T21:18:40.905751+09:00",
+  "label": "21:18",
   "items": [
     {
-      "keyword": "한화 대 삼성",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "취소하자마자 장대비 쏟아진 라팍, 빠른 결정 옳았다…페덱 vs 왕옌청 대결은 무산 [대구 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816174809100"
-      }
-    },
-    {
-      "keyword": "울산 대 강원",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "lck",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "August 15, 2026: KT Rolster vs. Hanwha Life Esports Esports Prediction Market",
-        "source": "Robinhood",
-        "url": "https://robinhood.com/us/en/prediction-markets/esports/events/kt-rolster-vs-hanwha-life-esports-aug-15-2026/"
-      }
-    },
-    {
-      "keyword": "딴지",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816191213251"
-      }
-    },
-    {
-      "keyword": "인천 대 김천상무",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'이청용·페리어 투톱-이동률 선발' 인천, 김천전 선발 라인업 발표 [인천 현장] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/16/2026081616542952755"
-      }
-    },
-    {
-      "keyword": "손해배상",
+      "keyword": "이자",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "교통사고 유족이 가해자에 손해배상해야 한다고? [어쩌다 세상이]",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12128872"
+        "title": "[돈MORE]연 10% 적금에 '눈 번쩍'…이자는 딸랑 679원",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815120128374"
       }
     },
     {
-      "keyword": "김지은",
+      "keyword": "독서로",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김지은, 런닝맨 예고 사진 속 청순 비주얼",
-        "source": "톱스타뉴스",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164745"
-      }
-    },
-    {
-      "keyword": "도란",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "T1 임재현 감독 \"1세트 조급함에 나온 다이브 실수… 승리할 로스터 기용할 것\" [LCK] (인터뷰)",
-        "source": "www.xportsnews.com",
-        "url": "https://www.xportsnews.com/article/2184415"
-      }
-    },
-    {
-      "keyword": "최민희",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나",
+        "title": "서논술형으로 사교육 잡는다?…학부모들 \"학원 하나 더 다닐 뿐\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816192238350"
+        "url": "https://v.daum.net/v/133sKN1yY4"
       }
     },
     {
-      "keyword": "xsmn",
+      "keyword": "spurs vs hoffenheim",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Tottenham's Moore Scores Twice in 3-0 Preseason Win",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/08/16/KTCKCSSC3JDS5I3JK4MQJHXKAE/"
+      }
+    },
+    {
+      "keyword": "전영현",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "범용 메모리 가격 2027년 하락 전망, 삼성전자·SK하이닉스 HBM 생산비중 더 높아진다",
+        "source": "비즈니스포스트",
+        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=444812"
+      }
+    },
+    {
+      "keyword": "pba 팀리그",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'헐크 영입 효과인가' 휴온스, 파죽의 4연승 2R 1위 질주…강동궁, 2R 3승 1패 선전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816112100518"
+      }
+    },
+    {
+      "keyword": "카라스코",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "주 2회 등판 무리였나! 7이닝 퍼펙트했던 MLB 112승 투수, KBO 9위팀에 혼쭐→홈런 2방 맞고 5실점 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/16/2026081615121993057"
+      }
+    },
+    {
+      "keyword": "김용빈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“보고플 때마다 몰래 웁니다” 오승근, 故 김자옥 향한 마음 담았다 (금타는 금요일)",
+        "source": "iMBC 연예",
+        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514858"
+      }
+    },
+    {
+      "keyword": "토트넘 호펜하임",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "XSMN 16/8 - Kết quả xổ số miền Nam hôm nay ngày 16/8/2026",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/xsmn-16-8-ket-qua-xo-so-mien-nam-hom-nay-ngay-16-8-2026"
+        "title": "'1920억 토날리 효과' 토트넘이 달라졌다...데 제르비표 '더 크고 거칠고 강한 팀' 완성 중",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816123108253"
+      }
+    },
+    {
+      "keyword": "박재현",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"공이 보이지 않아요\" 김도영 35호 홈런 치고 땅이 꺼져라 한숨...1할6푼7리 폭염휴식에 식어버린 방망이, 다시 끌어올린다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/4fnVexlwly"
+      }
+    },
+    {
+      "keyword": "리버풀",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "베이조스, EPL 리버풀 구단 지분 인수…이사회엔 참여 안 해",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1143228"
       }
     }
   ]
