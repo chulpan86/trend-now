@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-16T18:17:19.125840+09:00",
-  "label": "18:17",
+  "timestamp": "2026-08-16T19:12:48.588556+09:00",
+  "label": "19:12",
   "items": [
     {
-      "keyword": "치지직",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": null
-    },
-    {
-      "keyword": "fc 서울 대 대전",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "주민규의 빛바랜 원더골…송민규의 집념의 멀티골",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/2JoMcN1yZR"
-      }
-    },
-    {
-      "keyword": "크리스티아누 호날두",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "'이혼 시, 매달 1억 6,320만 지급' 호날두, 결혼 전 계약서 화제...'95억 상당' 초호화 저택 역시 조지나 명의 주장 제기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WL23csqFJL"
-      }
-    },
-    {
-      "keyword": "남보라",
+      "keyword": "통장",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황 공개",
+        "title": "'이 돈만큼은 못 건드려'…이 통장에 130만명 몰렸다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816165507459"
+        "url": "https://v.daum.net/v/20260816060301883"
       }
     },
     {
-      "keyword": "파리 생제르맹 fc",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘월드컵 결승전 결승골’ 토레스, 820억원에 PSG행",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260816505640"
-      }
-    },
-    {
-      "keyword": "이희진",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"오늘 밤 강릉 갈래요?\"…55세 돌싱 임원희, 8살 연하 이희진에 직진 '플러팅' [미우새]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816165750509"
-      }
-    },
-    {
-      "keyword": "elle",
+      "keyword": "ตรวจหวย",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Audrey Fleurot, amusée par cette découverte loufoque : \"Elle est là, la consécration !\"",
-        "source": "Journal des Femmes",
-        "url": "https://www.journaldesfemmes.fr/people/magazine/3275149-actualite-info-people-aout-karine-le-marchand-faustine-bollaert/3275215-audrey-fleurot"
+        "title": "ตรวจหวย 16/8/69 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 16 ส.ค. 69",
+        "source": "Sanook",
+        "url": "https://www.sanook.com/news/9903851/"
       }
     },
     {
-      "keyword": "매일경제",
+      "keyword": "lg 트윈스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“한국 대기업 총수, 정권에 동원” 日 신문 인용 매일경제 기사 삭제",
-        "source": "미디어오늘",
-        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336417"
+        "title": "프로야구 LG, SSG 꺾고 3위 유지…5위 KIA는 4위 두산 제압",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260815051500007"
       }
     },
     {
-      "keyword": "레드벨벳",
+      "keyword": "숲",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "구례 쌍산재, 1만원 내고 들어가는 300년 고택…대나무숲 지나면 정원이 또 열린다",
+        "source": "여행레저신문",
+        "url": "https://thetravelnews.co.kr/2026/08/gurye-ssangsanjae-hanok-bamboo-garden/"
+      }
+    },
+    {
+      "keyword": "식사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"청소년 8명 중 1명은 부모와 일주일에 4차례도 밥 안 먹어\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816060501911"
+      }
+    },
+    {
+      "keyword": "빅터 레이예스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "레드벨벳 웬디, 옷을 어디까지 올린 거야…팬들도 놀란 패션",
+        "title": "'178.7km 강타구' 얼굴 정통으로 맞은 임지민…턱뼈 골절",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814220150453"
+        "url": "https://v.daum.net/v/20260815215029805"
       }
     },
     {
-      "keyword": "이상호",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "정규직",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“둘에서 셋으로” 이상호♥김자연, 임신 발표…심진화·김영희 등 축하 물결",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608161412013"
+        "title": "한번 찍히면 아웃, 초과수당도 안 줘···직장인 80% “기간제와 정규직 차별 있다”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608161200011"
+      }
+    },
+    {
+      "keyword": "qqqi",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "3 ‘Strong Buy’ ETFs That Pay Massive Monthly Dividends",
+        "source": "TipRanks",
+        "url": "https://www.tipranks.com/news/article/3-strong-buy-etfs-that-pay-massive-monthly-dividends"
+      }
+    },
+    {
+      "keyword": "국제선",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "항공 유류할증료는 두 달째 내리막인데… 연안여객선은 다섯 달째 '최고 단계'",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=347780"
+      }
+    },
+    {
+      "keyword": "항공사",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대한항공·아시아나 통합 후 노선·마일리지 어떻게?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816093601079"
       }
     }
   ]
