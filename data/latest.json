@@ -1,25 +1,35 @@
 {
-  "timestamp": "2026-08-17T04:13:03.226837+09:00",
-  "label": "04:13",
+  "timestamp": "2026-08-17T05:10:11.291089+09:00",
+  "label": "05:10",
   "items": [
+    {
+      "keyword": "거제",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "거제 시간당 100㎜ 물폭탄…거제 전역에 긴급 대피 요청",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817035451438"
+      }
+    },
     {
       "keyword": "기소",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026081416110002364"
+        "title": "[사설] 홍장원·조성현 기소하려는 특검, 신중해야 한다",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/opinion/editorial/1273140.html"
       }
     },
     {
-      "keyword": "천왕봉",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "조지나 로드리게스",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원",
-        "source": "대한민국 정책브리핑",
-        "url": "https://m.korea.kr/news/reporterView.do?newsId=148969901&pWise=mMain&pWiseMain=L3"
+        "title": "“1.7조, 내 재산은 내 것”…결혼 하루 전 쓴 호날두의 ‘이혼 대비 계약서’",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609844"
       }
     },
     {
@@ -57,19 +67,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "로드리 영입 실패한 레알, 뜻밖의 대안은 알렉산더 아놀드… 무리뉴 감독 '중앙 미드필더 시프트' 검토",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815163537368"
-      }
-    },
-    {
-      "keyword": "프리미어리그",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"韓 EPL 0명, 日? 떠오르는 태양\" 英 유력지 슬픈 비교…\"프리미어리그 자리 잡을 한국 선수도 많지 않아\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816185647074"
+        "title": "리버풀 배신하고 레알 마드리드 갔다가 애매해졌다…무리뉴, 아놀드 '미드필더 변신' 승부수 고려",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260815n08432"
       }
     },
     {
@@ -83,13 +83,13 @@
       }
     },
     {
-      "keyword": "거제",
+      "keyword": "김주하",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[속보] 경남 거제시 “문동저수지 월류 위험…인근 주민 고지대 대피”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638352"
+        "title": "강부자, '뚜쟁이' 루머에 분노 \"단돈 5만원도 받은 적 없다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/16/2026081607163375291"
       }
     },
     {
