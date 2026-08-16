@@ -1,25 +1,45 @@
 {
-  "timestamp": "2026-08-16T16:22:30.155913+09:00",
-  "label": "16:22",
+  "timestamp": "2026-08-16T17:16:41.425375+09:00",
+  "label": "17:16",
   "items": [
     {
-      "keyword": "손흥민",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zRTYMQhDUa"
-      }
-    },
-    {
-      "keyword": "교수",
+      "keyword": "크리스티아누 호날두",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "표절 논란 끝 비극…케임브리지 최연소 흑인 교수 사망",
+        "title": "'이혼 시, 매달 1억 6,320만 지급' 호날두, 결혼 전 계약서 화제...'95억 상당' 초호화 저택 역시 조지나 명의 주장 제기",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WL23csqFJL"
+      }
+    },
+    {
+      "keyword": "남보라",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "남보라, 출산 안 믿기는 초동안 미모..동생 돌보는 줄 “남편 없이 子와 외출”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/UJtumW6bT9"
+      }
+    },
+    {
+      "keyword": "파리 생제르맹 fc",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'월드컵 영웅' 토레스, 820억원에 PSG행…엔리케 감독과 재회",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260815050400082"
+        "url": "https://www.yna.co.kr/view/AKR20260816014700007"
+      }
+    },
+    {
+      "keyword": "이희진",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "미운 우리 새끼 : [선공개] “저도 흉내 내봤습니다” 임원희, 이희진에게 ‘고추반지 플러팅’ 성공♥ (ft. 이구동성)",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC481097497"
       }
     },
     {
@@ -33,39 +53,19 @@
       }
     },
     {
-      "keyword": "대함미사일",
+      "keyword": "elle",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "K-2 전차에 없던 ‘방패’ 단다…드론전쟁이 바꾼 생존법 [박수찬의 軍]",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260814506737"
-      }
-    },
-    {
-      "keyword": "더스틴 니퍼트",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Y2yLq7NdS2"
-      }
-    },
-    {
-      "keyword": "재정",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘민생지원금’만 3조3천억…추미애 “경기, 빚 증가속도 전국의 3배, 이대로면 부도”",
-        "source": "www.dt.co.kr",
-        "url": "https://www.dt.co.kr/article/12078311"
+        "title": "Aretha Franklin : avant d’être la « Queen of Soul », elle chantait déjà aux côtés de Martin Luther King",
+        "source": "Jazz Radio",
+        "url": "https://www.jazzradio.fr/news/musique/43128/aretha-franklin-avant-d-etre-la-queen-of-soul-elle-chantait-deja-aux-cotes-de-martin-luther-king"
       }
     },
     {
       "keyword": "매일경제",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "“한국 대기업 총수, 정권에 동원” 日 신문 인용 매일경제 기사 삭제",
         "source": "미디어오늘",
@@ -73,19 +73,9 @@
       }
     },
     {
-      "keyword": "죠스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[EBS 일요 시네마] 특급 공포영화 ‘죠스’",
-        "source": "경북매일",
-        "url": "https://www.kbmaeil.com/article/20260815500054"
-      }
-    },
-    {
       "keyword": "경유",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"",
         "source": "Daum",
@@ -93,13 +83,19 @@
       }
     },
     {
+      "keyword": "죠스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
       "keyword": "테슬라 로드스터",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "테슬라, 9년 만에 로드스터 공중부양 시연…일반 도로 주행 불가",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/08/16/MW5STTPEDBHKJBXSEX2O72REAM/"
+        "title": "“테슬라 ‘하늘 나는 차’ 곧 공개”…이번엔 진짜? [이런뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638219"
       }
     }
   ]
