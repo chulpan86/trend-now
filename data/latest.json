@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-08-17T03:13:47.087945+09:00",
-  "label": "03:13",
+  "timestamp": "2026-08-17T04:13:03.226837+09:00",
+  "label": "04:13",
   "items": [
     {
-      "keyword": "호날두",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "기소",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "“1.7조, 내 재산은 내 것”…결혼 하루 전 쓴 호날두의 ‘이혼 대비 계약서’",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11609844"
+        "title": "중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026081416110002364"
+      }
+    },
+    {
+      "keyword": "천왕봉",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원",
+        "source": "대한민국 정책브리핑",
+        "url": "https://m.korea.kr/news/reporterView.do?newsId=148969901&pWise=mMain&pWiseMain=L3"
       }
     },
     {
@@ -27,29 +37,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Kantersieg im letzten Vorbereitungsspiel der Saison",
-        "source": "Real Madrid CF | Web Oficial",
-        "url": "https://www.realmadrid.com/de-DE/news/fussball/erste-mannshaft/berichte/schalke-04-real-madrid-16-08-2026"
-      }
-    },
-    {
-      "keyword": "기소",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026081416110002364"
-      }
-    },
-    {
-      "keyword": "맷 데이먼",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'오디세이' 책 매출 폭증…서점도 흥행 돌풍",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260816002000038"
+        "title": "Schallenbergs Blackout hilft Real - und Vinicius Junior lernt Timo Becker kennen",
+        "source": "Kicker",
+        "url": "https://www.kicker.de/schalke-gegen-real-madrid-2026-vereine-freundschaftsspiele-5249925/spielbericht"
       }
     },
     {
@@ -57,9 +47,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "¿Cómo ver el partido entre Liverpool vs Como en TV y Streaming?",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-entre-liverpool-vs-como-en-tv-y-streaming"
+        "title": "Alineación del partido Liverpool vs Como | Amistosos de Clubes · 16 ago. 2026",
+        "source": "YSscores",
+        "url": "https://www.ysscores.com/es/lineup/5765327/Liverpool-FC-vs-Como-1907"
       }
     },
     {
@@ -73,6 +63,16 @@
       }
     },
     {
+      "keyword": "프리미어리그",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"韓 EPL 0명, 日? 떠오르는 태양\" 英 유력지 슬픈 비교…\"프리미어리그 자리 잡을 한국 선수도 많지 않아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816185647074"
+      }
+    },
+    {
       "keyword": "바르셀로나",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -83,13 +83,13 @@
       }
     },
     {
-      "keyword": "프리미어리그",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "거제",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "“한국은 지고 일본은 뜬다”…가디언이 본 달라진 EPL 한일 위상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816223609241"
+        "title": "[속보] 경남 거제시 “문동저수지 월류 위험…인근 주민 고지대 대피”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638352"
       }
     },
     {
