@@ -1,11 +1,27 @@
 {
-  "timestamp": "2026-08-16T17:16:41.425375+09:00",
-  "label": "17:16",
+  "timestamp": "2026-08-16T18:17:19.125840+09:00",
+  "label": "18:17",
   "items": [
     {
+      "keyword": "치지직",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": null
+    },
+    {
+      "keyword": "fc 서울 대 대전",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "주민규의 빛바랜 원더골…송민규의 집념의 멀티골",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2JoMcN1yZR"
+      }
+    },
+    {
       "keyword": "크리스티아누 호날두",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "'이혼 시, 매달 1억 6,320만 지급' 호날두, 결혼 전 계약서 화제...'95억 상당' 초호화 저택 역시 조지나 명의 주장 제기",
         "source": "Daum",
@@ -14,58 +30,48 @@
     },
     {
       "keyword": "남보라",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "남보라, 출산 안 믿기는 초동안 미모..동생 돌보는 줄 “남편 없이 子와 외출”",
+        "title": "“벌써 완성형 이목구비” 남보라, 똑 닮은 아들 품에 안고 훈훈한 근황 공개",
         "source": "Daum",
-        "url": "https://v.daum.net/v/UJtumW6bT9"
+        "url": "https://v.daum.net/v/20260816165507459"
       }
     },
     {
       "keyword": "파리 생제르맹 fc",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'월드컵 영웅' 토레스, 820억원에 PSG행…엔리케 감독과 재회",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260816014700007"
+        "title": "‘월드컵 결승전 결승골’ 토레스, 820억원에 PSG행",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260816505640"
       }
     },
     {
       "keyword": "이희진",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "미운 우리 새끼 : [선공개] “저도 흉내 내봤습니다” 임원희, 이희진에게 ‘고추반지 플러팅’ 성공♥ (ft. 이구동성)",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC481097497"
-      }
-    },
-    {
-      "keyword": "땅집고",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"5년 기다렸더니 빚더미\" 분양가 3억 폭등, 성남 '신희타' 울분",
-        "source": "땅집고",
-        "url": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401849.html"
+        "title": "\"오늘 밤 강릉 갈래요?\"…55세 돌싱 임원희, 8살 연하 이희진에 직진 '플러팅' [미우새]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816165750509"
       }
     },
     {
       "keyword": "elle",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "Aretha Franklin : avant d’être la « Queen of Soul », elle chantait déjà aux côtés de Martin Luther King",
-        "source": "Jazz Radio",
-        "url": "https://www.jazzradio.fr/news/musique/43128/aretha-franklin-avant-d-etre-la-queen-of-soul-elle-chantait-deja-aux-cotes-de-martin-luther-king"
+        "title": "Audrey Fleurot, amusée par cette découverte loufoque : \"Elle est là, la consécration !\"",
+        "source": "Journal des Femmes",
+        "url": "https://www.journaldesfemmes.fr/people/magazine/3275149-actualite-info-people-aout-karine-le-marchand-faustine-bollaert/3275215-audrey-fleurot"
       }
     },
     {
       "keyword": "매일경제",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "“한국 대기업 총수, 정권에 동원” 日 신문 인용 매일경제 기사 삭제",
         "source": "미디어오늘",
@@ -73,29 +79,23 @@
       }
     },
     {
-      "keyword": "경유",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "레드벨벳",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "\"경유, 휘발유보다 20% 비싸게 하면 환경비용 4조원 절감\"",
+        "title": "레드벨벳 웬디, 옷을 어디까지 올린 거야…팬들도 놀란 패션",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816060850935?f=p"
+        "url": "https://v.daum.net/v/20260814220150453"
       }
     },
     {
-      "keyword": "죠스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "테슬라 로드스터",
+      "keyword": "이상호",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“테슬라 ‘하늘 나는 차’ 곧 공개”…이번엔 진짜? [이런뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638219"
+        "title": "“둘에서 셋으로” 이상호♥김자연, 임신 발표…심진화·김영희 등 축하 물결",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608161412013"
       }
     }
   ]
