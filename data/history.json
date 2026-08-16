@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-15T19:12:13.573579+09:00",
-    "label": "19:12",
-    "items": [
-      {
-        "keyword": "lg전자",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "NVIDIA, LG와 피지컬 AI 협력 확대… Isaac GR00T 기반 차세대 휴머노이드 개발",
-          "source": "NVIDIA",
-          "url": "https://blogs.nvidia.co.kr/blog/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t/"
-        }
-      },
-      {
-        "keyword": "학원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김필식 동신대 이사장 별세…향년 83세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260815020100054"
-        }
-      },
-      {
-        "keyword": "자산",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“30억 벌면 안전자산으로”…달라진 3040 자산가 [머니 트레이스]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20079753"
-        }
-      },
-      {
-        "keyword": "로저 페더러",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "주가 급락에 720억 날아간 ‘테니스 황제’…1년 만에 억만장자 탈락",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260814516409"
-        }
-      },
-      {
-        "keyword": "환희",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'살림남' 이장우, 사촌 형 환희 위해 띠동갑 女 소개팅 주선",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815112950976"
-        }
-      },
-      {
-        "keyword": "현봉식",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대상 상품 쿨하게 양보한 김신영…박경혜 \"덕분에 세탁비 절약\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260815_0003750674"
-        }
-      },
-      {
-        "keyword": "타짜",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'타짜: 벨제붑의 노래' 조우진·윤경호부터 스윙스까지…신스틸러 5인 [N컷]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814174950708"
-        }
-      },
-      {
-        "keyword": "티웨이홀딩스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "티웨이항공 지배력 잃은 티웨이홀딩스…소노그룹 재편에 역할 물음표",
-          "source": "이코노미톡뉴스",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=423490"
-        }
-      },
-      {
-        "keyword": "삼성 갤럭시 s26",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "갤럭시에서 '이 앱'만 잠근다…One UI 9.5 '앱 잠금' 기능 포착",
-          "source": "케이벤치",
-          "url": "https://kbench.com/?q=node/281183"
-        }
-      },
-      {
-        "keyword": "트와이스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "트와이스 채영도 JYP 떠난다···정연 이어 ‘홀로서기’ 선언 “제 뿌리인 그룹은 활동 계속”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608131628011"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-15T20:10:17.830010+09:00",
-    "label": "20:10",
-    "items": [
-      {
-        "keyword": "경제",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“10년 뒤엔 지금보다 훨씬”…한국인 절반 ‘韓·日 경제 역전’ 예측",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12128763"
-        }
-      },
-      {
-        "keyword": "장인화",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "장인화 포스코그룹 회장, 올 상반기 보수 10억3800만원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814143149783"
-        }
-      },
-      {
-        "keyword": "fc 서울 대 대전",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "선두 FC서울 조영욱 부상 악재…김기동 감독 \"두 달 반 예상\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260815_0003750691"
-        }
-      },
-      {
-        "keyword": "체포",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 가출 말리는 어머니에 끓는 물 부은 10대 딸 현행범 체포",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815153809711"
-        }
-      },
-      {
-        "keyword": "제주 대 안양",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "제주SK FC, 안양 추격 따돌리고 순위 상승을 위한 가속을 더한다!",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813220409191"
-        }
-      },
-      {
-        "keyword": "장기 기증",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "노숙인·독거노인 돕던 50대 미용사, 4명에 장기 기증",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813050800530"
-        }
-      },
-      {
-        "keyword": "사랑이 온다",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'사랑이 온다' 하석진, 안희연이 숨긴 진실 마주하고 충격 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/15/2026081519407262025"
-        }
-      },
-      {
-        "keyword": "전지",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "용인 반도체 공장 증설 쉬워진다… 기존 공사 중단없이 별도 허가 허용",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1MGzCqAi0u?f=p"
-        }
-      },
-      {
-        "keyword": "콜 오브 듀티",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Call of Duty: Modern Warfare 4's beta test launch dates and content details are up",
-          "source": "Windows Central",
-          "url": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4s-beta-tests-are-stacked-with-an-exclusive-single-player-campaign-mission-multiplayer-and-more-here-are-all-the-details"
-        }
-      },
-      {
-        "keyword": "스텔스기",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "중국, F-35 스텔스 요격 AI 모델 개발...적중률 96.4%",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814102411373"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-15T21:17:15.931002+09:00",
     "label": "21:17",
     "items": [
@@ -3775,6 +3563,112 @@
           "title": "‘현금 없는 시내버스’ 부산 달리나…市 도입 검토",
           "source": "국제신문",
           "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260817.22009003800"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-17T08:10:22.083480+09:00",
+    "label": "08:10",
+    "items": [
+      {
+        "keyword": "제니",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'슬림 탄탄' 제니…플라잉요가와 필라테스로 관리",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260816_0003751047"
+        }
+      },
+      {
+        "keyword": "대체공휴일",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "가뭄겪던 남부 오늘까지 250mm 폭우… 산사태 ‘주의’로 격상",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260817/134486592/2"
+        }
+      },
+      {
+        "keyword": "이동국",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817015137291"
+        }
+      },
+      {
+        "keyword": "김상식",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'박항서도 못했던 대업 보인다' 김상식호 베트남, 말레이시아 2-0 완파 '아세안컵 4강 기선 제압'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9rteg1d8Wk"
+        }
+      },
+      {
+        "keyword": "김승수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김승수, 대상포진으로 실명 위기 \"포크로 긁는 듯한 고통\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081703425474551"
+        }
+      },
+      {
+        "keyword": "погода",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Погода в Беларуси 17 августа: кратковременные дожди, местами – грозы и туман",
+          "source": "Gismeteo",
+          "url": "https://www.gismeteo.by/news/klimat/pogoda-v-belarusi-17-avgusta-kratkovremennye-dozhdi-mestami-grozy-i-tuman/"
+        }
+      },
+      {
+        "keyword": "thời tiết",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Bắc Bộ và Bắc Trung Bộ sắp đón đợt mưa lớn trong tuấn tới",
+          "source": "Báo Nông nghiệp và Môi trường",
+          "url": "https://nongnghiepmoitruong.vn/bac-bo-va-bac-trung-bo-sap-don-dot-mua-lon-trong-tuan-toi-d826377.html"
+        }
+      },
+      {
+        "keyword": "สภาพอากาศ",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"เหนือ-อีสาน-ตะวันออก\" ยังมีฝนตกหนัก ระวังน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/6112991/"
+        }
+      },
+      {
+        "keyword": "스포츠경향",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "꼴찌하던 말들이 하루 만에 4승…누군가는 ‘미리 알고’ 거액을 걸었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QgVqk0LxF5"
+        }
+      },
+      {
+        "keyword": "김종국",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김종국, '축구협회장 출마선언' 일 커졌다..뮌헨 김민재도 \"하셔야죠\" 공개지지(런닝맨)[순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816190707202"
         }
       }
     ]

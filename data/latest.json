@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-17T07:10:13.791925+09:00",
-  "label": "07:10",
+  "timestamp": "2026-08-17T08:10:22.083480+09:00",
+  "label": "08:10",
   "items": [
     {
-      "keyword": "홍수",
+      "keyword": "제니",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "'슬림 탄탄' 제니…플라잉요가와 필라테스로 관리",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260816_0003751047"
+      }
+    },
+    {
+      "keyword": "대체공휴일",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "거제 647㎜ 물폭탄…행안장관 \"고립 주민 구조에 총력\" 지시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817062049428"
+        "title": "가뭄겪던 남부 오늘까지 250mm 폭우… 산사태 ‘주의’로 격상",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260817/134486592/2"
       }
     },
     {
-      "keyword": "미사일",
+      "keyword": "이동국",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "우크라, 모스크바 겨냥 \"역대 최대\" 공격…러, 탄도미사일 공격(종합)",
+        "title": "\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816225051342"
+        "url": "https://v.daum.net/v/20260817015137291"
       }
     },
     {
-      "keyword": "아들",
+      "keyword": "김상식",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "득남 후 돌아온 김민희·홍상수 ‘눈 둘 데가 없네’ 터졌다···로카르노영화제 동반 수상 ‘3관왕’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608161248001"
+        "title": "'박항서도 못했던 대업 보인다' 김상식호 베트남, 말레이시아 2-0 완파 '아세안컵 4강 기선 제압'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9rteg1d8Wk"
       }
     },
     {
-      "keyword": "이하늘",
+      "keyword": "김승수",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'김창열과 불화' 이하늘, 동생 故 이현배 가짜 뉴스에 울컥…\"생활고 때문 아니야\" [RE:뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814142247373"
+        "title": "김승수, 대상포진으로 실명 위기 \"포크로 긁는 듯한 고통\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081703425474551"
       }
     },
     {
-      "keyword": "lg그룹",
+      "keyword": "погода",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "젠슨황 장녀, MOU 일주일도 안돼 LG전자 로보틱스 거점 방문",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817061651394"
+        "title": "Погода в Беларуси 17 августа: кратковременные дожди, местами – грозы и туман",
+        "source": "Gismeteo",
+        "url": "https://www.gismeteo.by/news/klimat/pogoda-v-belarusi-17-avgusta-kratkovremennye-dozhdi-mestami-grozy-i-tuman/"
       }
     },
     {
-      "keyword": "lens vs psg",
+      "keyword": "thời tiết",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Bắc Bộ và Bắc Trung Bộ sắp đón đợt mưa lớn trong tuấn tới",
+        "source": "Báo Nông nghiệp và Môi trường",
+        "url": "https://nongnghiepmoitruong.vn/bac-bo-va-bac-trung-bo-sap-don-dot-mua-lon-trong-tuan-toi-d826377.html"
+      }
+    },
+    {
+      "keyword": "สภาพอากาศ",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"เหนือ-อีสาน-ตะวันออก\" ยังมีฝนตกหนัก ระวังน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
+        "source": "เดลินิวส์",
+        "url": "https://www.dailynews.co.th/news/6112991/"
+      }
+    },
+    {
+      "keyword": "스포츠경향",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Robin Risser’s 8.8 Sofascore Rating vs PSG",
-        "source": "Sofascore",
-        "url": "https://www.sofascore.com/news/rissers-6-saves-sink-psg-8-8-sofascore-rating"
-      }
-    },
-    {
-      "keyword": "이주",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이주노동자 서울 도심 집회…\"나쁜 계약 철회·노동권 보장하라\"",
+        "title": "꼴찌하던 말들이 하루 만에 4승…누군가는 ‘미리 알고’ 거액을 걸었다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816153953626"
+        "url": "https://v.daum.net/v/QgVqk0LxF5"
       }
     },
     {
-      "keyword": "박현호",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "박현호, 16일 자작곡 '한잔하러 갑시다' 발매…'직진남' 변신",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/4RAh3tJ650"
-      }
-    },
-    {
-      "keyword": "다이아몬드백스 대 브레이브스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "73일 만에 타점 올린 김하성…시즌 타율은 6푼 6리",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/q2htGHx2H7"
-      }
-    },
-    {
-      "keyword": "버스",
+      "keyword": "김종국",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘현금 없는 시내버스’ 부산 달리나…市 도입 검토",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260817.22009003800"
+        "title": "김종국, '축구협회장 출마선언' 일 커졌다..뮌헨 김민재도 \"하셔야죠\" 공개지지(런닝맨)[순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816190707202"
       }
     }
   ]
