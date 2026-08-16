@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-08-16T22:23:16.619429+09:00",
-  "label": "22:23",
+  "timestamp": "2026-08-16T23:12:40.974726+09:00",
+  "label": "23:12",
   "items": [
+    {
+      "keyword": "아스널 대 맨 시티",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "‘과르디올라 없는 시티’ 첫 시험…아스널과 새 시즌 첫 트로피 격돌",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816105409092"
+      }
+    },
     {
       "keyword": "말레이시아 대 베트남",
       "traffic_raw": "2000+",
@@ -13,89 +23,79 @@
       }
     },
     {
-      "keyword": "수익률",
+      "keyword": "malaysia đấu với việt nam",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "반도체 살아나자 코스피도 '활짝'…외국인 6.5조 귀환",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816101152549"
-      }
-    },
-    {
-      "keyword": "시아버지",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "출산 사흘 며느리에 “살만 빼면 되겠다” 시아버지의 말",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11609801"
+        "title": "Trực tiếp Malaysia vs Việt Nam 0-0 (H1): Không vào!!! Xuân Son lỡ cơ hội",
+        "source": "Báo điện tử Tiền Phong",
+        "url": "https://tienphong.vn/truc-tiep-malaysia-vs-viet-nam-0-0-h1-khong-vao-xuan-son-lo-co-hoi-post1868376.tpo"
       }
     },
     {
       "keyword": "중앙일보",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": null
     },
     {
-      "keyword": "토트넘",
+      "keyword": "자외선 차단제",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'손흥민 옛 동료' 로메로, 이젠 이강인과 함께…AT마드리드 이적",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815175251366?f=p"
+        "title": "집 나가면 얼굴에 착 붙는다…선크림 발라도 기미 생긴 이유",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25452107"
       }
     },
     {
-      "keyword": "독서로",
+      "keyword": "용아맥",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "서논술형으로 사교육 잡는다?…학부모들 \"학원 하나 더 다닐 뿐\"",
+        "title": "“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유",
         "source": "Daum",
-        "url": "https://v.daum.net/v/133sKN1yY4"
+        "url": "https://v.daum.net/v/20260816191213251"
       }
     },
     {
-      "keyword": "이자",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[돈MORE]연 10% 적금에 '눈 번쩍'…이자는 딸랑 679원",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815120128374"
-      }
-    },
-    {
-      "keyword": "김용",
+      "keyword": "lng선",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“김용을 살려달라”…5위와 2312표차, 최고위원 막판 뒤집 가능할까",
+        "title": "'또 너냐' 한국 텃밭까지 밀고 들어왔다…K조선 '초비상'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026081641711"
+      }
+    },
+    {
+      "keyword": "하석진",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"다신 만나지 말자\" 하석진, 안희연 8년 진실에 이별 선언",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816212502597"
+        "url": "https://v.daum.net/v/piqUgnGh30"
       }
     },
     {
-      "keyword": "cuaca besok",
+      "keyword": "k리그1 순위",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "BMKG: Cuaca Sepekan Diramal Cerah Berawan, Waspada Hujan Lebat",
-        "source": "Bloomberg Technoz",
-        "url": "https://www.bloombergtechnoz.com/detail-news/118539/bmkg-cuaca-sepekan-diramal-cerah-berawan-waspada-hujan-lebat"
+        "title": "[K리그1] 중간 순위(15일)",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/sports/soccer/6260383"
       }
     },
     {
-      "keyword": "마드리스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "전북현대",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "SSG, '부상 대체' 마드리스와 결별…에레디아 21일 1군 복귀",
+        "title": "K리그1 부천, 전북 3-2 격파…4경기 무패로 9위 전진",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260816038300007"
+        "url": "https://www.yna.co.kr/view/AKR20260816047300007"
       }
     }
   ]

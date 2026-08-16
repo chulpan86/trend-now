@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-15T11:07:47.883084+09:00",
-    "label": "11:07",
-    "items": [
-      {
-        "keyword": "소방관",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "국가소방동원령 연장 이틀째…군 차량 102대 경남 가뭄현장 투입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815094657496"
-        }
-      },
-      {
-        "keyword": "인도네시아",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "인도네시아 연안에 규모 7.7 강진…쓰나미 경보",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260815/134482823/1"
-        }
-      },
-      {
-        "keyword": "샌 디스크",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"몽땅 주주에게\" 샌디스크의 파격…SK하닉은 '100조 축포' 쏘나",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081421046"
-        }
-      },
-      {
-        "keyword": "김우빈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "sbs",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "26,000 Tons Poured, But Hopes Rest on Weekend Rain",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008706551"
-        }
-      },
-      {
-        "keyword": "변광용",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "변광용 거제시장, 거제경찰서 연초면 이전 계획에 “유감”",
-          "source": "경남도민일보",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2012399"
-        }
-      },
-      {
-        "keyword": "광복",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "8월 15일은 무슨 날?? - 영상 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148970109"
-        }
-      },
-      {
-        "keyword": "ufc 330",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Ian Machado Garry Outlines Conditions for Immediate Rematch with Islam Makhachev",
-          "source": "Telecom Asia Sport",
-          "url": "https://www.telecomasia.net/news/mma/ian-machado-garry-rematch-islam-makhachev/"
-        }
-      },
-      {
-        "keyword": "jason arday",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html"
-        }
-      },
-      {
-        "keyword": "미래에셋",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "은행 넘는 순이익에도 미래에셋증권 목표가 ‘뚝’, 왜?",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12127958"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-15T12:30:08.937461+09:00",
     "label": "12:30",
     "items": [
@@ -3645,6 +3543,108 @@
           "title": "SSG, '부상 대체' 마드리스와 결별…에레디아 21일 1군 복귀",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260816038300007"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-16T23:12:40.974726+09:00",
+    "label": "23:12",
+    "items": [
+      {
+        "keyword": "아스널 대 맨 시티",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "‘과르디올라 없는 시티’ 첫 시험…아스널과 새 시즌 첫 트로피 격돌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816105409092"
+        }
+      },
+      {
+        "keyword": "말레이시아 대 베트남",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "22경기째 안 졌다… '베트남 성공 시대' 김상식 감독, AFF컵 준결승 앞두고 \"말레이 약점 모두 분석\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816144936999"
+        }
+      },
+      {
+        "keyword": "malaysia đấu với việt nam",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Trực tiếp Malaysia vs Việt Nam 0-0 (H1): Không vào!!! Xuân Son lỡ cơ hội",
+          "source": "Báo điện tử Tiền Phong",
+          "url": "https://tienphong.vn/truc-tiep-malaysia-vs-viet-nam-0-0-h1-khong-vao-xuan-son-lo-co-hoi-post1868376.tpo"
+        }
+      },
+      {
+        "keyword": "중앙일보",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": null
+      },
+      {
+        "keyword": "자외선 차단제",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "집 나가면 얼굴에 착 붙는다…선크림 발라도 기미 생긴 이유",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25452107"
+        }
+      },
+      {
+        "keyword": "용아맥",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816191213251"
+        }
+      },
+      {
+        "keyword": "lng선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'또 너냐' 한국 텃밭까지 밀고 들어왔다…K조선 '초비상'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026081641711"
+        }
+      },
+      {
+        "keyword": "하석진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"다신 만나지 말자\" 하석진, 안희연 8년 진실에 이별 선언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/piqUgnGh30"
+        }
+      },
+      {
+        "keyword": "k리그1 순위",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[K리그1] 중간 순위(15일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6260383"
+        }
+      },
+      {
+        "keyword": "전북현대",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "K리그1 부천, 전북 3-2 격파…4경기 무패로 9위 전진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260816047300007"
         }
       }
     ]
