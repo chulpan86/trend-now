@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-16T19:12:48.588556+09:00",
-  "label": "19:12",
+  "timestamp": "2026-08-16T20:10:57.360919+09:00",
+  "label": "20:10",
   "items": [
     {
-      "keyword": "통장",
+      "keyword": "한화 대 삼성",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "취소하자마자 장대비 쏟아진 라팍, 빠른 결정 옳았다…페덱 vs 왕옌청 대결은 무산 [대구 현장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816174809100"
+      }
+    },
+    {
+      "keyword": "울산 대 강원",
       "traffic_raw": "2000+",
       "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "lck",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'이 돈만큼은 못 건드려'…이 통장에 130만명 몰렸다",
+        "title": "August 15, 2026: KT Rolster vs. Hanwha Life Esports Esports Prediction Market",
+        "source": "Robinhood",
+        "url": "https://robinhood.com/us/en/prediction-markets/esports/events/kt-rolster-vs-hanwha-life-esports-aug-15-2026/"
+      }
+    },
+    {
+      "keyword": "딴지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“‘오디세이’는 용아맥에서만?” 웃돈 주고 샀는데 ‘낭패’…관객들이 당황한 이유",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816060301883"
+        "url": "https://v.daum.net/v/20260816191213251"
       }
     },
     {
-      "keyword": "ตรวจหวย",
+      "keyword": "인천 대 김천상무",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "ตรวจหวย 16/8/69 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 16 ส.ค. 69",
-        "source": "Sanook",
-        "url": "https://www.sanook.com/news/9903851/"
+        "title": "'이청용·페리어 투톱-이동률 선발' 인천, 김천전 선발 라인업 발표 [인천 현장] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/16/2026081616542952755"
       }
     },
     {
-      "keyword": "lg 트윈스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "프로야구 LG, SSG 꺾고 3위 유지…5위 KIA는 4위 두산 제압",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260815051500007"
-      }
-    },
-    {
-      "keyword": "숲",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "구례 쌍산재, 1만원 내고 들어가는 300년 고택…대나무숲 지나면 정원이 또 열린다",
-        "source": "여행레저신문",
-        "url": "https://thetravelnews.co.kr/2026/08/gurye-ssangsanjae-hanok-bamboo-garden/"
-      }
-    },
-    {
-      "keyword": "식사",
+      "keyword": "손해배상",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"청소년 8명 중 1명은 부모와 일주일에 4차례도 밥 안 먹어\"",
+        "title": "교통사고 유족이 가해자에 손해배상해야 한다고? [어쩌다 세상이]",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12128872"
+      }
+    },
+    {
+      "keyword": "김지은",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김지은, 런닝맨 예고 사진 속 청순 비주얼",
+        "source": "톱스타뉴스",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16164745"
+      }
+    },
+    {
+      "keyword": "도란",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "T1 임재현 감독 \"1세트 조급함에 나온 다이브 실수… 승리할 로스터 기용할 것\" [LCK] (인터뷰)",
+        "source": "www.xportsnews.com",
+        "url": "https://www.xportsnews.com/article/2184415"
+      }
+    },
+    {
+      "keyword": "최민희",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "최민희 ‘수석최고’ 선두 탈환…‘팀정청래’ 후보 모두 최고위 입성하나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816060501911"
+        "url": "https://v.daum.net/v/20260816192238350"
       }
     },
     {
-      "keyword": "빅터 레이예스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "xsmn",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "'178.7km 강타구' 얼굴 정통으로 맞은 임지민…턱뼈 골절",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815215029805"
-      }
-    },
-    {
-      "keyword": "정규직",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한번 찍히면 아웃, 초과수당도 안 줘···직장인 80% “기간제와 정규직 차별 있다”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608161200011"
-      }
-    },
-    {
-      "keyword": "qqqi",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "3 ‘Strong Buy’ ETFs That Pay Massive Monthly Dividends",
-        "source": "TipRanks",
-        "url": "https://www.tipranks.com/news/article/3-strong-buy-etfs-that-pay-massive-monthly-dividends"
-      }
-    },
-    {
-      "keyword": "국제선",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "항공 유류할증료는 두 달째 내리막인데… 연안여객선은 다섯 달째 '최고 단계'",
-        "source": "녹색경제신문",
-        "url": "https://www.greened.kr/news/articleView.html?idxno=347780"
-      }
-    },
-    {
-      "keyword": "항공사",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "대한항공·아시아나 통합 후 노선·마일리지 어떻게?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816093601079"
+        "title": "XSMN 16/8 - Kết quả xổ số miền Nam hôm nay ngày 16/8/2026",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/xsmn-16-8-ket-qua-xo-so-mien-nam-hom-nay-ngay-16-8-2026"
       }
     }
   ]
