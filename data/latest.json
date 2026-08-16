@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-08-17T01:12:13.903373+09:00",
-  "label": "01:12",
+  "timestamp": "2026-08-17T02:11:06.729226+09:00",
+  "label": "02:11",
   "items": [
-    {
-      "keyword": "쿠팡플레이",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "유럽축구 막 오른 날…황인범 첫 도움 펄펄",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260817.22014004267"
-      }
-    },
     {
       "keyword": "삼전 닉스",
       "traffic_raw": "2000+",
@@ -33,6 +23,26 @@
       }
     },
     {
+      "keyword": "schalke vs real madrid",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Liveticker | FC Schalke 04 - Real Madrid : | KW33 | Fußball-Vereine Freundschaftsspiele 2026/27",
+        "source": "kicker",
+        "url": "https://www.kicker.at/schalke-gegen-real-madrid-2026-vereine-freundschaftsspiele-5249925/ticker"
+      }
+    },
+    {
+      "keyword": "기소",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026081416110002364"
+      }
+    },
+    {
       "keyword": "맷 데이먼",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -43,33 +53,23 @@
       }
     },
     {
-      "keyword": "채령",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "채령, 팬미팅서 오열하더니...母 \"암환자 됐다\" 안타까운 근황 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/16/2026081616051090468"
-      }
-    },
-    {
-      "keyword": "arsenal đấu với man city",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Arsenal giành chiến thắng 3-0 trước Manchester City với bàn thắng mở tỷ số ở phút 23... Vô địch Community Shield sau 3 năm",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/vi/sports/2026/08/17/2026081700420638971"
-      }
-    },
-    {
-      "keyword": "기소",
+      "keyword": "엘링 홀란",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[광화문에서/유성열]‘尹 체포방해’ 유죄 확정에도 사과 없는 국힘 의원들",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816231352510"
+        "title": "\"홀란이 마약 포장에?\" 충격 사진 공개...에콰도르서 코카인 469kg 압수, 암시장 가치 '277억'",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260814105453142"
+      }
+    },
+    {
+      "keyword": "레알마드리드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "샬케 04 vs 레알 마드리드 경기 예측: 예상 라인업",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-04-vs-real-madrid-doi-hinh-du-kien"
       }
     },
     {
@@ -77,9 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-tran-dau-dang-dien-ra"
+        "title": "'로드리 바르사행 대비' 맨시티, 07년생 MF에 1630억 베팅...영입 협상 막바지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/UznVdRvmSa"
       }
     },
     {
@@ -87,9 +87,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6년 계약 예정",
+        "title": "\"韓 EPL 0명, 日? 떠오르는 태양\" 英 유력지 슬픈 비교…\"프리미어리그 자리 잡을 한국 선수도 많지 않아\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814233528389"
+        "url": "https://v.daum.net/v/20260816185647074"
       }
     },
     {

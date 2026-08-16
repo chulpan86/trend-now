@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-15T13:19:46.451015+09:00",
-    "label": "13:19",
-    "items": [
-      {
-        "keyword": "주거",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "“대출 줄테니 빌라 사라고?”…부동산 대책에 청년들 속앓이",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637598"
-        }
-      },
-      {
-        "keyword": "이천수",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "최태원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보]최태원·노소영 ‘9440억원 재산 분할’ 또 한번 대법으로…시한 1분 남기고 ‘재상고’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608150001001"
-        }
-      },
-      {
-        "keyword": "결혼식",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“350만원 들인 하객 0명 제 결혼식 어때요?” 쏟아진 찬사",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609668"
-        }
-      },
-      {
-        "keyword": "유병재",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "유병재, 쎄함 감지했나…하영 ‘증조부 의사’ 발언에 보인 반응 재조명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FobRYdyOtH"
-        }
-      },
-      {
-        "keyword": "여한구",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6844954_36932.html"
-        }
-      },
-      {
-        "keyword": "영웅",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "스파이더맨이 선택한 그 차… 스크린 누비는 BMW iX3·5시리즈",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815102045007"
-        }
-      },
-      {
-        "keyword": "이슬람 마카체프",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“상어는 다음 주에도 있어”…하빕, 마카체프에 경고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814083653822"
-        }
-      },
-      {
-        "keyword": "도시 재개발",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "창신3구역, 우리자산신탁과 MOU…999가구에 시니어주택 1000실 개발",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401968.html"
-        }
-      },
-      {
-        "keyword": "퇴직",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“희망퇴직 효과?”…LGD, 직원 수 반년 만에 1000여명 줄었다 [비즈360]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815063140213"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-15T14:15:56.020235+09:00",
     "label": "14:15",
     "items": [
@@ -3745,6 +3643,112 @@
           "title": "'강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6년 계약 예정",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260814233528389"
+        }
+      },
+      {
+        "keyword": "무한도전",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“‘무한도전 2026’ 준비했었다”…김태호 PD, 재결합 무산에 아쉬움 [MHN:픽]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KTjQV9DgLI"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-17T02:11:06.729226+09:00",
+    "label": "02:11",
+    "items": [
+      {
+        "keyword": "삼전 닉스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"배당 말고 45조 자사주 사라\" 삼성전자에 '메리츠式 처방' 꺼낸 주주들 [fn마켓워치]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816132639914"
+        }
+      },
+      {
+        "keyword": "아스날",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "1만 회 시뮬레이션 돌린 수퍼컴퓨터, EPL 우승 0순위로 ‘이 팀’ 찍었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816132707923"
+        }
+      },
+      {
+        "keyword": "schalke vs real madrid",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Liveticker | FC Schalke 04 - Real Madrid : | KW33 | Fußball-Vereine Freundschaftsspiele 2026/27",
+          "source": "kicker",
+          "url": "https://www.kicker.at/schalke-gegen-real-madrid-2026-vereine-freundschaftsspiele-5249925/ticker"
+        }
+      },
+      {
+        "keyword": "기소",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026081416110002364"
+        }
+      },
+      {
+        "keyword": "맷 데이먼",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"오디세이 20만원에\"…'암'적인 영화 암표, 처벌은 못 한다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2tKGkl2uaq"
+        }
+      },
+      {
+        "keyword": "엘링 홀란",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"홀란이 마약 포장에?\" 충격 사진 공개...에콰도르서 코카인 469kg 압수, 암시장 가치 '277억'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260814105453142"
+        }
+      },
+      {
+        "keyword": "레알마드리드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "샬케 04 vs 레알 마드리드 경기 예측: 예상 라인업",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-04-vs-real-madrid-doi-hinh-du-kien"
+        }
+      },
+      {
+        "keyword": "바르셀로나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'로드리 바르사행 대비' 맨시티, 07년생 MF에 1630억 베팅...영입 협상 막바지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/UznVdRvmSa"
+        }
+      },
+      {
+        "keyword": "프리미어리그",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"韓 EPL 0명, 日? 떠오르는 태양\" 英 유력지 슬픈 비교…\"프리미어리그 자리 잡을 한국 선수도 많지 않아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816185647074"
         }
       },
       {
