@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-08-17T05:10:11.291089+09:00",
-  "label": "05:10",
+  "timestamp": "2026-08-17T06:10:44.765046+09:00",
+  "label": "06:10",
   "items": [
     {
-      "keyword": "거제",
+      "keyword": "김민석",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "거제 시간당 100㎜ 물폭탄…거제 전역에 긴급 대피 요청",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817035451438"
-      }
-    },
-    {
-      "keyword": "기소",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[사설] 홍장원·조성현 기소하려는 특검, 신중해야 한다",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/opinion/editorial/1273140.html"
+        "title": "[속보] 김민석, 당원 최다 서울·경기 당원 투표서 승리…정청래에 0.38%포인트 앞서",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608161825001"
       }
     },
     {
       "keyword": "조지나 로드리게스",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "“1.7조, 내 재산은 내 것”…결혼 하루 전 쓴 호날두의 ‘이혼 대비 계약서’",
         "source": "문화일보",
         "url": "https://www.munhwa.com/article/11609844"
+      }
+    },
+    {
+      "keyword": "폴란드",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "헝가리 지나던 폴란드 버스 넘어져 12명 사망...\"졸음운전 가능성\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608162326020387"
       }
     },
     {
@@ -43,13 +43,23 @@
       }
     },
     {
-      "keyword": "schalke vs real madrid",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "김주하",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Schallenbergs Blackout hilft Real - und Vinicius Junior lernt Timo Becker kennen",
-        "source": "Kicker",
-        "url": "https://www.kicker.de/schalke-gegen-real-madrid-2026-vereine-freundschaftsspiele-5249925/spielbericht"
+        "title": "김주하 \"전남편, 딴 여자랑 애 낳아\" 충격..'꼰대' 강부자도 \"그건좀\"(데이앤나잇)[순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817010009042"
+      }
+    },
+    {
+      "keyword": "거제",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "거제 장평동 시간당 100㎜ ↑...'재난성 호우' 긴급문자",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0103_202608170353484024"
       }
     },
     {
@@ -57,39 +67,29 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Alineación del partido Liverpool vs Como | Amistosos de Clubes · 16 ago. 2026",
-        "source": "YSscores",
-        "url": "https://www.ysscores.com/es/lineup/5765327/Liverpool-FC-vs-Como-1907"
+        "title": "¿Cómo ver el partido entre Liverpool vs Como en TV y Streaming?",
+        "source": "Sports Illustrated",
+        "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-entre-liverpool-vs-como-en-tv-y-streaming"
       }
     },
     {
-      "keyword": "레알마드리드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "리버풀 배신하고 레알 마드리드 갔다가 애매해졌다…무리뉴, 아놀드 '미드필더 변신' 승부수 고려",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260815n08432"
-      }
-    },
-    {
-      "keyword": "바르셀로나",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "766억→1051억 높였는데도 또 '거절'...바르셀로나, 로드리 영입 '난항'",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112857182"
-      }
-    },
-    {
-      "keyword": "김주하",
+      "keyword": "이주",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "강부자, '뚜쟁이' 루머에 분노 \"단돈 5만원도 받은 적 없다\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/16/2026081607163375291"
+        "title": "이주노동자 서울 도심 집회…\"나쁜 계약 철회·노동권 보장하라\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816153953626"
+      }
+    },
+    {
+      "keyword": "psg",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Vitinha frustré après le trophée échappé au PSG",
+        "source": "Foot Mercato",
+        "url": "https://www.footmercato.net/a7828990285500680503-vitinha-frustre-apres-le-trophee-echappe-au-psg"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "리버풀 신임 감독, \"90분을 뛸 에너지가 없다\" 발언 왜?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811064240735"
+        "title": "[442.review] ‘토트넘 이적설에도 펄펄!’ 각포, 1골 1도움 원맨쇼→리버풀, 코모 2-0 격파...개막 준비 완료",
+        "source": "포포투",
+        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96487"
       }
     }
   ]
