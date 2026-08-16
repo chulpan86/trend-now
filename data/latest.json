@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-08-16T11:15:09.799457+09:00",
-  "label": "11:15",
+  "timestamp": "2026-08-16T12:39:15.897754+09:00",
+  "label": "12:39",
   "items": [
     {
-      "keyword": "ufc",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "엘에이 fc 대 샌디에이고 fc",
+      "traffic_raw": "50000+",
+      "traffic": 50000,
       "news": {
-        "title": "Jeremiah Wells Post-Fight Interview | UFC 330",
-        "source": "UFC.com",
-        "url": "https://www.ufc.com/video/159140"
+        "title": "손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260814086500007"
       }
     },
     {
-      "keyword": "김혜성",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "김혜성 8월의 악몽 길어진다, 12타수 연속 침묵이라니…보름 안에 로버츠 마음 훔쳐야 하는데",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816064249127"
-      }
-    },
-    {
-      "keyword": "우크라이나",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“한국의 신이 심판할 것”…무기 지원 없자 날 세운 우크라 전 장관 [현장영상]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637458"
-      }
-    },
-    {
-      "keyword": "광주광역시",
+      "keyword": "트로이",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "서영교 \"전남광주통합특별시 출범으로 798건 법률 정비 필요…적극 지원할것\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260814_0003750270"
+        "title": "'오디세이' 책 매출 폭증…서점도 흥행 돌풍",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816091213803"
       }
     },
     {
-      "keyword": "nashville vs inter miami",
+      "keyword": "후티",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "홍해 무역 거점 마비...미군, 정밀 타격으로 기조 전환 시사",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202608160925546788"
+      }
+    },
+    {
+      "keyword": "조선소",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'트럼프 서명'까지 이번엔 짓나..한미 조선협력의 마지막 퍼즐은 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/industry/2026/08/16/2026081413520764896"
+      }
+    },
+    {
+      "keyword": "맥켄지 던",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Inter Miami manager Guillermo Hoyos provides update on Lionel Messi ahead of Nashville clash",
-        "source": "Goal.com",
-        "url": "https://www.goal.com/en/lists/lionel-messi-inter-miami-return-guillermo-hoyos-nashville/blt76a85f3ba6edfe02"
+        "title": "\"여성 MMA? 죽어가고 있다\"…UFC 前 챔피언 헨리 세후도, UFC 330 던vs로버트슨에 \"연기라도 해서 스토리 팔아라\" 직격탄",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815010209263"
       }
     },
     {
-      "keyword": "박경혜",
+      "keyword": "앙투안 그리즈만",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'준비하는 배우' 박경혜의 진정성",
+        "title": "\"그리즈만과 비교할 필요 없다\"...'7번 이강인' 만든 디렉터, 소신발언 \"이강인은 자신만의 이름과 성 가진 새로운 선수\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816084932372"
+        "url": "https://v.daum.net/v/1QvprEpXlU"
       }
     },
     {
-      "keyword": "김시우",
+      "keyword": "필리스 대 트윈스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "임성재, PGA 투어 PO 1차전 3R 공동 2위…1위 셰플러와 두 타 차(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816104353964"
+        "title": "[오늘의 영상] 옥수수밭 ‘꿈의 구장’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637768"
       }
     },
     {
-      "keyword": "유강남",
+      "keyword": "빅뱅",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'9회 폭투-폭투 허탈한 실점' 포수에게 책임 묻나, 유강남 2군행…박재엽-김현도 포수만 2명 콜업 [오!쎈 부산]",
+        "title": "서울시, 빅뱅 20주년 기념행사 한강에 대형 스크린 띄운다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/6gXX1uaevE"
+        "url": "https://v.daum.net/v/20260816111706473"
       }
     },
     {
-      "keyword": "두산베어스",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "뉴스1",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "52분 기다림 끝에 KIA 잡은 4위 두산, 3위 LG 반 경기 차 추격(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260815001504859?f=p"
+        "title": "[알림] 뉴스1 콘텐츠 저작권 고지",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6260404"
       }
     },
     {
-      "keyword": "소형모듈원자로",
+      "keyword": "ufc 329",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "빌 게이츠는 왜 韓 SMR 공급망을 택했나",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260814172114"
-      }
+      "news": null
     }
   ]
 }

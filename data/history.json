@@ -3566,5 +3566,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-16T12:39:15.897754+09:00",
+    "label": "12:39",
+    "items": [
+      {
+        "keyword": "엘에이 fc 대 샌디에이고 fc",
+        "traffic_raw": "50000+",
+        "traffic": 50000,
+        "news": {
+          "title": "손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260814086500007"
+        }
+      },
+      {
+        "keyword": "트로이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'오디세이' 책 매출 폭증…서점도 흥행 돌풍",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816091213803"
+        }
+      },
+      {
+        "keyword": "후티",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "홍해 무역 거점 마비...미군, 정밀 타격으로 기조 전환 시사",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608160925546788"
+        }
+      },
+      {
+        "keyword": "조선소",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'트럼프 서명'까지 이번엔 짓나..한미 조선협력의 마지막 퍼즐은 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/08/16/2026081413520764896"
+        }
+      },
+      {
+        "keyword": "맥켄지 던",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"여성 MMA? 죽어가고 있다\"…UFC 前 챔피언 헨리 세후도, UFC 330 던vs로버트슨에 \"연기라도 해서 스토리 팔아라\" 직격탄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260815010209263"
+        }
+      },
+      {
+        "keyword": "앙투안 그리즈만",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"그리즈만과 비교할 필요 없다\"...'7번 이강인' 만든 디렉터, 소신발언 \"이강인은 자신만의 이름과 성 가진 새로운 선수\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1QvprEpXlU"
+        }
+      },
+      {
+        "keyword": "필리스 대 트윈스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[오늘의 영상] 옥수수밭 ‘꿈의 구장’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637768"
+        }
+      },
+      {
+        "keyword": "빅뱅",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서울시, 빅뱅 20주년 기념행사 한강에 대형 스크린 띄운다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816111706473"
+        }
+      },
+      {
+        "keyword": "뉴스1",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[알림] 뉴스1 콘텐츠 저작권 고지",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6260404"
+        }
+      },
+      {
+        "keyword": "ufc 329",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]
