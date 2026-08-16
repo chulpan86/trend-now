@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-08-17T00:11:13.369987+09:00",
-  "label": "00:11",
+  "timestamp": "2026-08-17T01:12:13.903373+09:00",
+  "label": "01:12",
   "items": [
     {
+      "keyword": "쿠팡플레이",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "유럽축구 막 오른 날…황인범 첫 도움 펄펄",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260817.22014004267"
+      }
+    },
+    {
+      "keyword": "삼전 닉스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"배당 말고 45조 자사주 사라\" 삼성전자에 '메리츠式 처방' 꺼낸 주주들 [fn마켓워치]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816132639914"
+      }
+    },
+    {
       "keyword": "아스날",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "1만 회 시뮬레이션 돌린 수퍼컴퓨터, EPL 우승 0순위로 ‘이 팀’ 찍었다",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260816132707923"
+      }
+    },
+    {
+      "keyword": "맷 데이먼",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"오디세이 20만원에\"…'암'적인 영화 암표, 처벌은 못 한다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2tKGkl2uaq"
       }
     },
     {
@@ -23,83 +53,53 @@
       }
     },
     {
-      "keyword": "อาร์เซนอล พบ แมนซิตี",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "ถ่ายทอดสดการแข่งขันซูเปอร์คัพอังกฤษ: อาร์เซนอล vs แมนซิตี้ 1-0 (ครึ่งแรก): คาร์ลาฟิโอรีทำประตูขึ้นนำ",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/th/truc-tiep-sieu-cup-anh-arsenal-vs-man-city-1-0-h1-carlafiori-mo-ty-so"
-      }
-    },
-    {
-      "keyword": "2026",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Involvement Fair 2026 Monday Night on Mullens Plaza",
-        "source": "ATU News",
-        "url": "https://www.arkansastechnews.com/involvement-fair-2026-monday-night-on-mullens-plaza/"
-      }
-    },
-    {
       "keyword": "arsenal đấu với man city",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Arteta tin các đối thủ mới sẽ giúp Arsenal nâng tầm",
-        "source": "yeuthethao.net.vn",
-        "url": "https://yeuthethao.net.vn/arteta-tin-cac-doi-thu-moi-se-giup-arsenal-nang-tam-d891125.html"
+        "title": "Arsenal giành chiến thắng 3-0 trước Manchester City với bàn thắng mở tỷ số ở phút 23... Vô địch Community Shield sau 3 năm",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/vi/sports/2026/08/17/2026081700420638971"
       }
     },
     {
-      "keyword": "арсенал – манчестер сити",
+      "keyword": "기소",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "«Арсенал» — «Манчестер Сити»: онлайн-трансляция матча за Суперкубок Англии",
-        "source": "sport-express.net",
-        "url": "https://www.sport-express.net/football/england/online/arsenal-manchester-siti-smotret-besplatno-match-za-superkubok-anglii-v-pryamom-efire-onlayn-tekstovaya-translyaciya-i-rezultat-16-avgusta-2026-2447466/"
-      }
-    },
-    {
-      "keyword": "epl",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Following a change in Real Madrid's calculations: Liverpool moves to secure a prized signing",
-        "source": "Goal.com",
-        "url": "https://www.goal.com/en/news/following-a-change-in-real-madrid-s-calculations-liverpool-moves-to-secure-a-prized-signing/blt9826fbe3b3028b57"
-      }
-    },
-    {
-      "keyword": "런닝맨",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"누가 더 파장 클까\" 이주연, 지드래곤 열애설 언급에 입꾹 닫고 당혹 ('런닝맨')",
+        "title": "[광화문에서/유성열]‘尹 체포방해’ 유죄 확정에도 사과 없는 국힘 의원들",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816202751044"
+        "url": "https://v.daum.net/v/20260816231352510"
       }
     },
     {
-      "keyword": "김형묵",
+      "keyword": "바르셀로나",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘미운우리새끼’ 김형묵X김승수, 한의원 방문 (미우새)",
+        "title": "바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-tran-dau-dang-dien-ra"
+      }
+    },
+    {
+      "keyword": "프리미어리그",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6년 계약 예정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816000228554"
+        "url": "https://v.daum.net/v/20260814233528389"
       }
     },
     {
-      "keyword": "선거",
+      "keyword": "무한도전",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "친청3·친명2…호남·수도권서 민주 최고위원 선거 구도 역전",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1273160.html"
+        "title": "“‘무한도전 2026’ 준비했었다”…김태호 PD, 재결합 무산에 아쉬움 [MHN:픽]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/KTjQV9DgLI"
       }
     }
   ]

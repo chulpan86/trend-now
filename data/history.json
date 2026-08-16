@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-15T12:30:08.937461+09:00",
-    "label": "12:30",
-    "items": [
-      {
-        "keyword": "주거",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "“대출 줄테니 빌라 사라고?”…부동산 대책에 청년들 속앓이",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637598"
-        }
-      },
-      {
-        "keyword": "빌 게이츠",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "빌 게이츠는 왜 韓 SMR 공급망을 택했나",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260814172114"
-        }
-      },
-      {
-        "keyword": "이천수",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "여한구",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "여한구 통상교섭본부장 직권면직…산업부 “임면권자 정무적 판단”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1273030.html"
-        }
-      },
-      {
-        "keyword": "유병재",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"말 끊은 이유 있었네\"…유병재, 공론화 전 하영 증조부 '친일 흑역사' 눈치챘나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815061350112"
-        }
-      },
-      {
-        "keyword": "도시 재개발",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "창신3구역, 우리자산신탁과 MOU…999가구에 시니어주택 1000실 개발",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/08/14/2026081401968.html"
-        }
-      },
-      {
-        "keyword": "퇴직",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“희망퇴직 효과?”…LGD, 직원 수 반년 만에 1000여명 줄었다 [비즈360]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1xeRwOB31j"
-        }
-      },
-      {
-        "keyword": "이종찬",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "국가유공자 및 보훈가족 초청 오찬",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72996&pageIndex=1"
-        }
-      },
-      {
-        "keyword": "하하",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "하하, '무한도전' 20년만 솔직 \"뺨 맞을 소리일진 몰라도…천재들 사이 어중간, 자격지심 어마어마\" (더 시즌즈)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815000937784"
-        }
-      },
-      {
-        "keyword": "australia vs bangladesh",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Ball by Ball Commentary & Live Score - AUS vs BAN, 1st Test",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/bangladesh-in-australia-2026-1527258/australia-vs-bangladesh-1st-test-1527273/ball-by-ball-commentary"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-15T13:19:46.451015+09:00",
     "label": "13:19",
     "items": [
@@ -3751,6 +3649,112 @@
           "title": "친청3·친명2…호남·수도권서 민주 최고위원 선거 구도 역전",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1273160.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-17T01:12:13.903373+09:00",
+    "label": "01:12",
+    "items": [
+      {
+        "keyword": "쿠팡플레이",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "유럽축구 막 오른 날…황인범 첫 도움 펄펄",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260817.22014004267"
+        }
+      },
+      {
+        "keyword": "삼전 닉스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"배당 말고 45조 자사주 사라\" 삼성전자에 '메리츠式 처방' 꺼낸 주주들 [fn마켓워치]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816132639914"
+        }
+      },
+      {
+        "keyword": "아스날",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "1만 회 시뮬레이션 돌린 수퍼컴퓨터, EPL 우승 0순위로 ‘이 팀’ 찍었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816132707923"
+        }
+      },
+      {
+        "keyword": "맷 데이먼",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"오디세이 20만원에\"…'암'적인 영화 암표, 처벌은 못 한다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2tKGkl2uaq"
+        }
+      },
+      {
+        "keyword": "채령",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "채령, 팬미팅서 오열하더니...母 \"암환자 됐다\" 안타까운 근황 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/16/2026081616051090468"
+        }
+      },
+      {
+        "keyword": "arsenal đấu với man city",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Arsenal giành chiến thắng 3-0 trước Manchester City với bàn thắng mở tỷ số ở phút 23... Vô địch Community Shield sau 3 năm",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/vi/sports/2026/08/17/2026081700420638971"
+        }
+      },
+      {
+        "keyword": "기소",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[광화문에서/유성열]‘尹 체포방해’ 유죄 확정에도 사과 없는 국힘 의원들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816231352510"
+        }
+      },
+      {
+        "keyword": "바르셀로나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "바젤 vs FC 바르셀로나 생중계: 경기가 진행 중입니다",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-basel-vs-fc-barcelona-tran-dau-dang-dien-ra"
+        }
+      },
+      {
+        "keyword": "프리미어리그",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'강인이 형 나도 떠난다'...'초대형 영입' 임박, 리버풀 '살라 후계자' 품는다! PSG에 무려 '2040억' 지불 결심→6년 계약 예정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814233528389"
+        }
+      },
+      {
+        "keyword": "무한도전",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“‘무한도전 2026’ 준비했었다”…김태호 PD, 재결합 무산에 아쉬움 [MHN:픽]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KTjQV9DgLI"
         }
       }
     ]
