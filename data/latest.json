@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-08-16T14:18:28.845905+09:00",
-  "label": "14:18",
+  "timestamp": "2026-08-16T15:21:55.202738+09:00",
+  "label": "15:21",
   "items": [
     {
+      "keyword": "손흥민",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/zRTYMQhDUa"
+      }
+    },
+    {
       "keyword": "경고 사격",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "軍, 동부전선서 北 MDL 침범에 올해 첫 경고사격",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260816/134483900/1"
+      }
+    },
+    {
+      "keyword": "교수",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "북한군 동부전선 MDL 침범, 군 경고사격…올해 들어 첫사례",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608161127001"
+        "title": "‘캠브리지 최연소 흑인 교수’, 표절 논란 속 자택서 숨진 채 발견",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260815224929189"
+      }
+    },
+    {
+      "keyword": "지드래곤",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/culture/2026/08/16/2026081608382598502"
       }
     },
     {
@@ -23,39 +53,9 @@
       }
     },
     {
-      "keyword": "지드래곤",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/culture/2026/08/16/2026081608382598502"
-      }
-    },
-    {
-      "keyword": "광화문광장",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "광복절 도심 진보·보수 집회…교통혼잡 빚어져",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260816000700038"
-      }
-    },
-    {
-      "keyword": "계단",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608153179i"
-      }
-    },
-    {
       "keyword": "염정아",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "독일 출생·패션 셀럽 넘어…문가영, 백상 수상 터닝 포인트→염정아와 투톱 호흡 [TEN스타필드]",
         "source": "Daum",
@@ -63,43 +63,43 @@
       }
     },
     {
-      "keyword": "최지 만",
+      "keyword": "대함미사일",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "드디어 韓 무대 첫 홈런 터졌다…‘ML 67홈런’ 35세 최지만, 진짜 드래프트 1라운드 지명 받을까",
+        "title": "K-2 전차에 없던 ‘방패’ 단다…드론전쟁이 바꾼 생존법 [박수찬의 軍]",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260814506737"
+      }
+    },
+    {
+      "keyword": "더스틴 니퍼트",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/B80Ml5e4yS"
+        "url": "https://v.daum.net/v/Y2yLq7NdS2"
+      }
+    },
+    {
+      "keyword": "재정",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘민생지원금’만 3조3천억…추미애 “경기, 빚 증가속도 전국의 3배, 이대로면 부도”",
+        "source": "www.dt.co.kr",
+        "url": "https://www.dt.co.kr/article/12078311"
       }
     },
     {
       "keyword": "대령",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정",
         "source": "JTBC",
         "url": "https://news.jtbc.co.kr/article/NB12313201"
-      }
-    },
-    {
-      "keyword": "lafc vs san diego",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Archive Collection: Every jersey for the 2026 season",
-        "source": "MLSsoccer.com",
-        "url": "https://www.mlssoccer.com/news/archive-collection-every-jersey-for-the-2026-season"
-      }
-    },
-    {
-      "keyword": "이선민",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'확신의 기혼상' 이선민, 확실한 '대세' 되기까지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Kw8FU8Oc7l"
       }
     }
   ]
