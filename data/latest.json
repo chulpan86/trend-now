@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-08-16T12:39:15.897754+09:00",
-  "label": "12:39",
+  "timestamp": "2026-08-16T13:25:42.339108+09:00",
+  "label": "13:25",
   "items": [
     {
-      "keyword": "엘에이 fc 대 샌디에이고 fc",
-      "traffic_raw": "50000+",
-      "traffic": 50000,
+      "keyword": "도비 도항",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260814086500007"
+        "title": "‘밤에 해루질하다 고립’ 충남서 어제만 3명 목숨 잃었다···최근 5년 실종·사망자 94명 달해",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608161043001"
+      }
+    },
+    {
+      "keyword": "육군사관학교",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[기고]광복 81주년, 통일도 되기 전에 80년 사관학교부터 허물 것인가?",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609740"
+      }
+    },
+    {
+      "keyword": "승산있습니다",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "하영 증조모, 日 총독부 대장 딸?…\"로열 매국 집안\" 증조부 이어 또 파묘 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/08/15/2026081514301473899"
       }
     },
     {
@@ -18,8 +38,8 @@
       "traffic": 1000,
       "news": {
         "title": "'오디세이' 책 매출 폭증…서점도 흥행 돌풍",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816091213803"
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260816002000038"
       }
     },
     {
@@ -27,76 +47,56 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "홍해 무역 거점 마비...미군, 정밀 타격으로 기조 전환 시사",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0104_202608160925546788"
+        "title": "후티 반군 공격에 예멘 모카항 운영 중단",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816010752785"
       }
     },
     {
-      "keyword": "조선소",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'트럼프 서명'까지 이번엔 짓나..한미 조선협력의 마지막 퍼즐은 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/08/16/2026081413520764896"
-      }
-    },
-    {
-      "keyword": "맥켄지 던",
+      "keyword": "pga 투어",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"여성 MMA? 죽어가고 있다\"…UFC 前 챔피언 헨리 세후도, UFC 330 던vs로버트슨에 \"연기라도 해서 스토리 팔아라\" 직격탄",
+        "title": "임성재, PGA 투어 PO 1차전 3R 공동 2위…1위 셰플러와 두 타 차(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815010209263"
+        "url": "https://v.daum.net/v/20260816104353964"
       }
     },
     {
-      "keyword": "앙투안 그리즈만",
+      "keyword": "베트남 축구 국가대표팀",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"그리즈만과 비교할 필요 없다\"...'7번 이강인' 만든 디렉터, 소신발언 \"이강인은 자신만의 이름과 성 가진 새로운 선수\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1QvprEpXlU"
+        "title": "베트남 대 말레이시아 예상 선발 라인업: 딘 박과 쑤안 손이 함께 출전합니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/doi-hinh-du-kien-viet-nam-vs-malaysia-dinh-bac-xuat-hien-cung-xuan-son"
       }
     },
     {
-      "keyword": "필리스 대 트윈스",
+      "keyword": "australia vs bangladesh",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[오늘의 영상] 옥수수밭 ‘꿈의 구장’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637768"
-      }
-    },
-    {
-      "keyword": "빅뱅",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "서울시, 빅뱅 20주년 기념행사 한강에 대형 스크린 띄운다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816111706473"
-      }
-    },
-    {
-      "keyword": "뉴스1",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[알림] 뉴스1 콘텐츠 저작권 고지",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6260404"
+        "title": "Ball by Ball Commentary & Live Score - AUS vs BAN, 1st Test",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/bangladesh-in-australia-2026-1527258/australia-vs-bangladesh-1st-test-1527273/ball-by-ball-commentary"
       }
     },
     {
       "keyword": "ufc 329",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "최현덕",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\"",
+        "source": "대한민국 정책브리핑",
+        "url": "https://m.korea.kr/news/policyNewsView.do?newsId=148970148&pWise=mMain&pWiseMain=A4"
+      }
     }
   ]
 }
