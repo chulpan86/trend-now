@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-17T09:39:13.983131+09:00",
-  "label": "09:39",
+  "timestamp": "2026-08-17T11:13:35.396951+09:00",
+  "label": "11:13",
   "items": [
     {
-      "keyword": "박은혜",
+      "keyword": "삼성전자",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "삼성전자 모니터로 '콜 오브 듀티' 신작 생생하게 즐긴다",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260817017300003"
+      }
+    },
+    {
+      "keyword": "이정후",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'4번 타자' MLB 이정후, 2경기 연속 안타…타율 0.292",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260817017900007"
+      }
+    },
+    {
+      "keyword": "고시원",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘1인 가구 집’ 된 고시원… 욕조 허용·책상 의무 폐지 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/15/V4DBHWUMQBGVJPW6PMOSUMJF2M/"
+      }
+    },
+    {
+      "keyword": "강정호",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "KIA 한숨짓게 했던 그 선수, ‘제2의 강정호’로 크나… 21억 계약금 괜히 줬겠나, 거포 유격수 호평 일색",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817003951958"
+      }
+    },
+    {
+      "keyword": "희토류 원소",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"재고 바닥에 공급 끊겼다\"… 日, 中 희토류 통제에 전기차·반도체 장비 '비상'",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Global-Biz/2026/08/2026081700350245320c8c1c064d_1"
+      }
+    },
+    {
+      "keyword": "공휴일",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "광주시",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
-        "title": "전남광주시의회, 22조원 예산 심사 대비 연찬회 개최",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260814000995"
+        "title": "가뭄겪던 남부 오늘까지 250mm 폭우… 산사태 ‘주의’로 격상",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260817/134486592/2"
       }
     },
     {
-      "keyword": "타릭 스쿠발",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "국민연금공단",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "이래서 “디트로이트로 돌아가고 싶다” 했나…스쿠발 6이닝 1자책 호투에도 고배, 다저스 타선 또 침묵 [LAD 리뷰] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/17/202608170827777259O"
-      }
-    },
-    {
-      "keyword": "농축 우라늄",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "원전 늘리지만, 연료 창고는 비어간다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/economy_general/2026/08/17/VSMOEEAQJ5EPHDX7GNLVVCHXOY/"
-      }
-    },
-    {
-      "keyword": "전현무",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“막내 이찬원도 쏘는데” 전현무, 60억 대 아파트 살면서 4년째 회식비 ‘0원’ 폭로(사당귀)",
+        "title": "이혼 24년 만에 ‘연금 50%’ 분할 요구한 아내…법원 판단은",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816193239423"
+        "url": "https://v.daum.net/v/20260817070209985"
       }
     },
     {
-      "keyword": "토마스 해치",
+      "keyword": "안나린",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'고별전' 번복하고, 삼성 3연전까지 뛰면 안 될까...SSG 대체 외인, 홈런 포함 4출루 \"내가 가진 것 보여주지 못해 아쉽다\"",
+        "title": "안나린, LPGA 포틀랜드 클래식 공동 5위…1년 9개월 만의 '톱5'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817064449733"
+        "url": "https://v.daum.net/v/uuC6ztJ6uM"
       }
     },
     {
-      "keyword": "필리스 대 트윈스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[오늘의 영상] 옥수수밭 ‘꿈의 구장’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637768"
-      }
-    },
-    {
-      "keyword": "염경엽",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"문정빈, 4번째 치는 타자일 뿐\" 염경엽 발언, 홀대 아닌 '부담 완화' 배려였는데 왜 왜곡됐나 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/17/2026081700244132308"
-      }
-    },
-    {
-      "keyword": "손태영",
+      "keyword": "야구여왕",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "손태영, 美 뉴저지 저택에 사슴 등장…♥권상우 \"우와\" [마데핫리뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816183327846"
+        "title": "야구여왕2 6회",
+        "source": "채널A",
+        "url": "https://ichannela.com/program/clip/000000545086.do"
       }
     },
     {
-      "keyword": "디지털 자산",
+      "keyword": "애덤 올러",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "코인데스크 \"전통 금융, 디지털자산 완전 수용…은행가와 대립 시대 끝\"",
-        "source": "블록미디어",
-        "url": "https://www.blockmedia.co.kr/archives/1128296"
+        "title": "'역적? 영웅 되다' 박재현, 통렬한 동점포+결승점에 KIA, 4위 탈환…올러, 11승 단독 1위",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/UAzP0LHlms"
       }
     }
   ]
