@@ -3562,5 +3562,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-17T21:21:46.867064+09:00",
+    "label": "21:21",
+    "items": [
+      {
+        "keyword": "김부선",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817134009731"
+        }
+      },
+      {
+        "keyword": "부모",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6260537"
+        }
+      },
+      {
+        "keyword": "김태선",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "더불어민주당 새 당대표 '김민석'‥최고위원 1위 최민희",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845298_37004.html"
+        }
+      },
+      {
+        "keyword": "테라파워",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "韓에 'SMR 러브콜' 보낸 빌 게이츠…테라파워 vs K-SMR 경쟁력은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817063645627"
+        }
+      },
+      {
+        "keyword": "한민수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "당대표만큼 치열했던 최고위원 선거‥김용 탈락에 '친청' 과반",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845301_37004.html"
+        }
+      },
+      {
+        "keyword": "대한민국",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "광복절 경축식 영상에 독립운동 6인… 이승만 빠져",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/08/17/YZ5F4KBVMVGHVFH5LRRVF2HIGM/"
+        }
+      },
+      {
+        "keyword": "신세계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260816034300030"
+        }
+      },
+      {
+        "keyword": "티비",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "What will TV look like in three years? Media insiders share their predictions",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html"
+        }
+      },
+      {
+        "keyword": "디즈니",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817180209008"
+        }
+      },
+      {
+        "keyword": "제주 sk fc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817134508836"
+        }
+      }
+    ]
   }
 ]
