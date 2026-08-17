@@ -1,21 +1,31 @@
 {
-  "timestamp": "2026-08-17T13:31:16.031764+09:00",
-  "label": "13:31",
+  "timestamp": "2026-08-17T14:26:13.477357+09:00",
+  "label": "14:26",
   "items": [
     {
-      "keyword": "거제시",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "로스앤젤레스 fc",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "거제, 역대 최대 폭우‥산사태 아파트서 1명 숨져",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6845240_36967.html"
+        "title": "손흥민 왜 폭발했나? 백태클에 마지막 공격 끊겼는데→공까지 안 주자 직접 빼앗아…주심은 SON 향해 '옐로카드'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817031609400"
+      }
+    },
+    {
+      "keyword": "포옛",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817015137291"
       }
     },
     {
       "keyword": "hayden panettiere",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "Hayden Panettiere dies at 36",
         "source": "ABC News - Breaking News, Latest News and Videos",
@@ -23,63 +33,63 @@
       }
     },
     {
-      "keyword": "사관학교",
+      "keyword": "최상엽",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[기고]소대장에게 드론 조종·포병 사격까지 맡길 건가…합동성은 상급사령부 참모들 몫, 소대장 영역 아니다",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11609888"
-      }
-    },
-    {
-      "keyword": "옌스 카스트로 프",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "카스트로프 형제 나란히 태극마크?…'도르트문트 유스 출신' 19세 동생 \"형과 뛰는 게 꿈\"",
+        "title": "루시 최상엽, 이달 결혼…\"비연예인 연인과 새로운 출발\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817022651338"
+        "url": "https://v.daum.net/v/20260817134450825"
       }
     },
     {
-      "keyword": "변중석",
+      "keyword": "트레킹",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "故 정주영 회장 25주기…범현대가 '총집결'[뉴시스Pic]",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260816_0003751120"
-      }
-    },
-    {
-      "keyword": "안나 린",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "안나린, LPGA 포틀랜드 클래식 공동 5위…1년 9개월 만의 '톱5'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817073646610"
-      }
-    },
-    {
-      "keyword": "미스 어스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "2025년 미스 어스 인도네시아가 26세의 나이로 갑작스럽게 세상을 떠났습니다.",
+        "title": "무이응에 외에도 다낭에는 트레킹이 금지된 곳이 두 군데 더 있습니다.",
         "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/hoa-hau-trai-dat-indonesia-2025-dot-ngot-qua-doi-o-tuoi-26"
+        "url": "https://www.vietnam.vn/ko/ngoai-mui-nghe-con-2-diem-khong-duoc-phep-trekking-o-da-nang"
       }
     },
     {
-      "keyword": "이제 만나러 갑니다",
+      "keyword": "김영익",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이제 만나러 갑니다 762회",
-        "source": "채널A",
-        "url": "https://ichannela.com/program/clip/000000545443.do"
+        "title": "김영익의 도발 예언 \"지표는 거짓말 안 해, 코스피 5000 아래로 붕괴될 것\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/money/2026/08/17/ZWTZICIBQJCGZPSIOZEHST2NFI/"
+      }
+    },
+    {
+      "keyword": "경마",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "제주도서 ‘혼디·COOL’ 캠페인 벌이는 동아오츠카…무슨 일?",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609858"
+      }
+    },
+    {
+      "keyword": "사우나",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"퇴근 후 1인 사우나 90분\"…'회복 소비'에 눈 돌리는 2030",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817060209103"
+      }
+    },
+    {
+      "keyword": "실업",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608163783i"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "과학고 선발 ‘1858명’ 역대 최대…졸업 후 KAIST·성대行",
         "source": "이데일리",
         "url": "https://www.edaily.co.kr/News/Read?newsId=01141446645548304&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "트럼프",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "트럼프 “을지훈련 축소 지시…韓 이란 비핵화 동참 거부”",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11609867"
       }
     }
   ]
