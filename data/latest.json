@@ -1,91 +1,81 @@
 {
-  "timestamp": "2026-08-17T12:40:19.868163+09:00",
-  "label": "12:40",
+  "timestamp": "2026-08-17T13:31:16.031764+09:00",
+  "label": "13:31",
   "items": [
     {
-      "keyword": "골프",
+      "keyword": "거제시",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "부산 파크골프 명소 대저생태공원 108홀로 확대…지역 최대 규모",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817080211913"
+        "title": "거제, 역대 최대 폭우‥산사태 아파트서 1명 숨져",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6845240_36967.html"
       }
     },
     {
-      "keyword": "사장님 귀는 당나귀 귀",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“막내 이찬원도 쏘는데” 전현무, 60억 대 아파트 살면서 4년째 회식비 ‘0원’ 폭로(사당귀)",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608161930003"
-      }
-    },
-    {
-      "keyword": "지민",
+      "keyword": "hayden panettiere",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"I got a kiss\"…BTS 지민 볼 뽀뽀 받은 난치병 소녀, 전 세계 감동 물결 [MD이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817112951598"
+        "title": "Hayden Panettiere dies at 36",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473"
       }
     },
     {
-      "keyword": "소재원",
+      "keyword": "사관학교",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[기고]소대장에게 드론 조종·포병 사격까지 맡길 건가…합동성은 상급사령부 참모들 몫, 소대장 영역 아니다",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609888"
+      }
+    },
+    {
+      "keyword": "옌스 카스트로 프",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "하영 증조부 논란에 '친일파 스캐너' 사이트 등장",
+        "title": "카스트로프 형제 나란히 태극마크?…'도르트문트 유스 출신' 19세 동생 \"형과 뛰는 게 꿈\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817022651338"
+      }
+    },
+    {
+      "keyword": "변중석",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "故 정주영 회장 25주기…범현대가 '총집결'[뉴시스Pic]",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260816_0003751134"
+        "url": "https://www.newsis.com/view/NISX20260816_0003751120"
       }
     },
     {
-      "keyword": "공동 명의",
+      "keyword": "안나 린",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"세금 못 내면, 집 팔고 지방 가라? 현대판 고려장\"…노년의 분노 [세금전쟁①]",
+        "title": "안나린, LPGA 포틀랜드 클래식 공동 5위…1년 9개월 만의 '톱5'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817060131045"
+        "url": "https://v.daum.net/v/20260817073646610"
       }
     },
     {
-      "keyword": "편의점",
+      "keyword": "미스 어스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한우부터 희소 식재료까지…갤러리아百, 추석선물 예약판매",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817102738363"
-      }
-    },
-    {
-      "keyword": "예루살렘",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "예루살렘 성지 규칙 '와르르'…유대인, 기도서까지 들고 예배",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816204856215?f=p"
-      }
-    },
-    {
-      "keyword": "상주영천고속도로",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "대구 군위 상주-영천고속도로 9중 추돌사고…6명 다쳐",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637997"
+        "title": "2025년 미스 어스 인도네시아가 26세의 나이로 갑작스럽게 세상을 떠났습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/hoa-hau-trai-dat-indonesia-2025-dot-ngot-qua-doi-o-tuoi-26"
       }
     },
     {
       "keyword": "이제 만나러 갑니다",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "이제 만나러 갑니다 762회",
         "source": "채널A",
@@ -93,13 +83,23 @@
       }
     },
     {
-      "keyword": "무시알라",
+      "keyword": "과학고등학교",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'김민재까지 쓰러졌다' 바이에른 초비상...허벅지 부상 교체, 무시알라는 경기 중 '실신' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/16/202608160942779756O"
+        "title": "과학고 선발 ‘1858명’ 역대 최대…졸업 후 KAIST·성대行",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=01141446645548304&mediaCodeNo=257"
+      }
+    },
+    {
+      "keyword": "트럼프",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "트럼프 “을지훈련 축소 지시…韓 이란 비핵화 동참 거부”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609867"
       }
     }
   ]
