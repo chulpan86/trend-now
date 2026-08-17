@@ -1,11 +1,31 @@
 {
-  "timestamp": "2026-08-17T17:31:13.599789+09:00",
-  "label": "17:31",
+  "timestamp": "2026-08-17T18:30:09.539814+09:00",
+  "label": "18:30",
   "items": [
     {
+      "keyword": "김시우",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "김시우·임성재·김주형 '전원 생존'...이제 '50' 넘어 '30'을 향한다 [박호윤의 IN&OUT]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817080049860"
+      }
+    },
+    {
+      "keyword": "sk하이닉스",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "[그래픽] 삼성전자·SK하이닉스 상반기 현금·현금성 자산",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817162806231"
+      }
+    },
+    {
       "keyword": "이현이",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
         "title": "이현이, 'S전자 부장 남편 덕..\"삼성전자 주식 5만원에 매수\" [동상이몽2]",
         "source": "Daum",
@@ -13,55 +33,39 @@
       }
     },
     {
-      "keyword": "무인 항공기",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "우크라, 모스크바 겨냥 \"역대 최대\" 공격…러, 탄도미사일 공격(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816225051342"
-      }
-    },
-    {
-      "keyword": "안나",
+      "keyword": "세계 선수권 대회",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "안나린, LPGA 포틀랜드 클래식 공동 5위…1년 9개월 만의 '톱5'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/uuC6ztJ6uM"
+        "title": "'세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260817029000007"
       }
     },
     {
-      "keyword": "닛케이 평균주가",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "포항시",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "반도체 훈풍…日 키옥시아 15%↑·中 창신메모리 12%↑[Asia 마감] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/world/2026/08/17/2026081716411967307"
+        "title": "“잔액 서둘러 쓰세요” 고유가 피해지원금 31일 사용 마감",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817151236618"
       }
     },
     {
-      "keyword": "환태평양 조산대",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "대의원",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "민주당 당대표",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "“김용을 살려달라”…5위와 2312표차, 최고위원 막판 뒤집 가능할까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816212502597?x_trkm=t"
+        "title": "민주당 오늘 새 지도부 선출...이 시각 전당대회장",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0101_202608171022597277"
       }
     },
     {
       "keyword": "내 남은 연애",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "[TF초점] '내 남은 연애', 논란에 가려지기엔 아까운 시도",
         "source": "Daum",
@@ -69,33 +73,33 @@
       }
     },
     {
-      "keyword": "굴리엘모 비카리오",
+      "keyword": "은행원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'SONNY 동료들 다 나간다' 손흥민과 함께 트로피 들어 올린 GK 비카리오, 유벤투스행 초읽기… \"개인 조건 합의\"",
+        "title": "'은행원 월급 이정도였다니'…상반기 급여 평균 7천150만원, 삼전도 제쳤다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817111809424"
+        "url": "https://v.daum.net/v/20260816160846955"
       }
     },
     {
-      "keyword": "조째즈",
+      "keyword": "설영우",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "임영웅, 요즘 연애 고민 있나…'말자쇼' 조째즈 \"최근 연애 상담해 줘\"",
+        "title": "'韓 국가대표 수비수' 설영우, 끝내 작심!...여러 만류에도 '빅리그' 진출 의지 활활 \"올여름, 이적 적기 판단\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817091129906"
+        "url": "https://v.daum.net/v/20260817132209360"
       }
     },
     {
-      "keyword": "코오롱티슈진",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "홍인규",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "[핫 컴퍼니]코오롱티슈진, TG-C 3상 유의성 실패 “예상 밖 위약 효과 영향”",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607294276i"
+        "title": "'돌싱' 강유미, 짧았던 결혼 생활 언급 \"전 남편과 각방 써, 이혼은 나로 족하다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817070218999"
       }
     }
   ]
