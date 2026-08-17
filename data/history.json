@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-16T08:10:22.910327+09:00",
-    "label": "08:10",
-    "items": [
-      {
-        "keyword": "한화 이글스",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "구자욱 5타점 대폭발…3연승 삼성, 선두 kt 반 경기 차 추격(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815231204296"
-        }
-      },
-      {
-        "keyword": "로스앤젤레스 fc",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "손흥민의 LAFC, 리그스컵 8강행 불발…MLS 팀 중 5위로 밀려",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814086500007"
-        }
-      },
-      {
-        "keyword": "옷",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "열대야 멈추자 가을옷 '성큼'…한여름에 패딩까지 '조기 등판'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816063251082"
-        }
-      },
-      {
-        "keyword": "박선원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "정청래 “호남에서 크게 져…겸허하게 존중하고 수용”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608152035001"
-        }
-      },
-      {
-        "keyword": "황인범",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "리그 데뷔전부터 번뜩인 황인범…감각적 패스로 쐐기골 어시스트",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816007500007"
-        }
-      },
-      {
-        "keyword": "랄랄",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"9㎏ 감량 성공\"…랄랄, 남편과 광복절 요트 데이트",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260815_0003750661"
-        }
-      },
-      {
-        "keyword": "업비트",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"AI 결제 98.6%가 달러 스테이블코인…원화도 정산망 구축 서둘러야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/y4TU8KEotj"
-        }
-      },
-      {
-        "keyword": "스포츠조선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"상당한 미모\"라던 황정민 폭로자, 직접 봤더니…007 작전 '변신'[이슈S]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/73WRLLHly1"
-        }
-      },
-      {
-        "keyword": "대구 도시철도 1호선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "대구도시철도 1호선 연장 놓고 경산시-영천시 이해관계 충돌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FtiIiOB3X4?f=p"
-        }
-      },
-      {
-        "keyword": "순찰",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "폭염 속 탈진 위기 폐지 노인, 순찰 드론에 포착돼 모면",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814070200060"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-16T09:40:33.842588+09:00",
     "label": "09:40",
     "items": [
@@ -3559,6 +3453,112 @@
           "title": "'돌싱' 강유미, 짧았던 결혼 생활 언급 \"전 남편과 각방 써, 이혼은 나로 족하다\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260817070218999"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-17T20:16:15.825764+09:00",
+    "label": "20:16",
+    "items": [
+      {
+        "keyword": "부모",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6260537"
+        }
+      },
+      {
+        "keyword": "김부선",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608171338003"
+        }
+      },
+      {
+        "keyword": "테라파워",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "韓에 'SMR 러브콜' 보낸 빌 게이츠…테라파워 vs K-SMR 경쟁력은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817063645627"
+        }
+      },
+      {
+        "keyword": "서미화",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보] 與전대 최고위원 최민희·박선원·서미화·이성윤·한민수順",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817185655853"
+        }
+      },
+      {
+        "keyword": "조 째즈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "임영웅, 요즘 연애 고민 있나…'말자쇼' 조째즈 \"최근 연애 상담해 줘\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817091129906"
+        }
+      },
+      {
+        "keyword": "대한민국",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "OECD 2위 결핵 발생국 대한민국…집단시설 관리체계는 ‘빈틈’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/health/1273276.html"
+        }
+      },
+      {
+        "keyword": "티비",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Christy Knowings, Who Starred on ’90s TV Show ‘All That,’ Dies at 46",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/14/arts/television/christy-knowings-dead.html"
+        }
+      },
+      {
+        "keyword": "디즈니",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817180209008"
+        }
+      },
+      {
+        "keyword": "제주 sk fc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817134508836"
+        }
+      },
+      {
+        "keyword": "상도동",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "상도동 국사봉 자락에 1840가구 친환경 단지 들어선다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817111649375"
         }
       }
     ]

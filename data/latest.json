@@ -1,31 +1,11 @@
 {
-  "timestamp": "2026-08-17T19:21:34.635852+09:00",
-  "label": "19:21",
+  "timestamp": "2026-08-17T20:16:15.825764+09:00",
+  "label": "20:16",
   "items": [
     {
-      "keyword": "김시우",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "김시우·임성재·김주형 '전원 생존'...이제 '50' 넘어 '30'을 향한다 [박호윤의 IN&OUT]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817080049860"
-      }
-    },
-    {
-      "keyword": "세계 선수권 대회",
+      "keyword": "부모",
       "traffic_raw": "5000+",
       "traffic": 5000,
-      "news": {
-        "title": "'세계 6위' 이끈 U17 女배구 이승여 감독 \"한국 배구 위기 아냐\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817104254689"
-      }
-    },
-    {
-      "keyword": "부모",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
       "news": {
         "title": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌",
         "source": "뉴스1",
@@ -33,13 +13,33 @@
       }
     },
     {
-      "keyword": "포항시",
+      "keyword": "김부선",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“잔액 서둘러 쓰세요” 고유가 피해지원금 31일 사용 마감",
+        "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608171338003"
+      }
+    },
+    {
+      "keyword": "테라파워",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "韓에 'SMR 러브콜' 보낸 빌 게이츠…테라파워 vs K-SMR 경쟁력은",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817151236618"
+        "url": "https://v.daum.net/v/20260817063645627"
+      }
+    },
+    {
+      "keyword": "서미화",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[속보] 與전대 최고위원 최민희·박선원·서미화·이성윤·한민수順",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817185655853"
       }
     },
     {
@@ -53,13 +53,23 @@
       }
     },
     {
-      "keyword": "사건",
+      "keyword": "대한민국",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "전현무까지 줄줄이 경찰 조사…두번이나 도망쳤는데 교회서 숨진 11살 [금주의 사건사고]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pLhcl2waoa"
+        "title": "OECD 2위 결핵 발생국 대한민국…집단시설 관리체계는 ‘빈틈’",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/health/1273276.html"
+      }
+    },
+    {
+      "keyword": "티비",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Christy Knowings, Who Starred on ’90s TV Show ‘All That,’ Dies at 46",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/14/arts/television/christy-knowings-dead.html"
       }
     },
     {
@@ -73,13 +83,13 @@
       }
     },
     {
-      "keyword": "은행원",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "제주 sk fc",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "'은행원 월급 이정도였다니'…상반기 급여 평균 7천150만원, 삼전도 제쳤다",
+        "title": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260816160846955"
+        "url": "https://v.daum.net/v/20260817134508836"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "상도동 국사봉 자락에 1840가구 친환경 단지 들어선다",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260817111649375"
-      }
-    },
-    {
-      "keyword": "홍인규",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'돌싱' 강유미, 짧았던 결혼 생활 언급 \"전 남편과 각방 써, 이혼은 나로 족하다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817070218999"
       }
     }
   ]
