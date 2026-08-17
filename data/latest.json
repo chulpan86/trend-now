@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-08-18T05:14:42.794070+09:00",
-  "label": "05:14",
+  "timestamp": "2026-08-18T06:16:16.341916+09:00",
+  "label": "06:16",
   "items": [
     {
-      "keyword": "넥슨",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "당대표",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "넥슨 품에 안긴 오버워치, 제2의 전성기 정조준",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260816193050"
+        "title": "[속보]김민석, 민주당 대표 당선…최민희 필두 ‘친청 3인’ 최고위원 입성",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11609941"
       }
     },
     {
       "keyword": "최애의 사원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트",
         "source": "Daum",
@@ -23,24 +23,40 @@
       }
     },
     {
-      "keyword": "퇴직",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "정년",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "퇴직연금 어디 맡기지…3년 수익률 105% 최강자는 [이슈 플러스]",
+        "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817184500630"
+        "url": "https://v.daum.net/v/YJlzUDUZs9"
+      }
+    },
+    {
+      "keyword": "퇴직",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818050009383"
       }
     },
     {
       "keyword": "국경",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
         "source": "Vietnam.vn",
         "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham"
       }
+    },
+    {
+      "keyword": "야생생물",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
     },
     {
       "keyword": "fc온라인",
@@ -53,33 +69,23 @@
       }
     },
     {
-      "keyword": "뇌",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "충격 근황! \"두개골 구멍 뚫었다\"...뇌수술 흉터 공개한 'WWE 전설' 짐 로스, \"결과가 모든 걸 증명\" 건재함 과시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/7YQ8LKEoJ1"
-      }
-    },
-    {
-      "keyword": "브루스 윌리스",
+      "keyword": "데이터 센터",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]",
+        "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
         "source": "Daum",
-        "url": "https://v.daum.net/v/pQC4dHx2vO"
+        "url": "https://v.daum.net/v/20260818043652036"
       }
     },
     {
       "keyword": "대치동",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“대치동 집 세주고 지방에 개업한 사업가들 비상” 실거주 기조에 서울 ‘쏠림’ 심화하나 [부동산360]",
+        "title": "전세의 월세화…7년새 월세 비중 7.8%p 증가",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817170211919"
+        "url": "https://v.daum.net/v/20260818052251872"
       }
     },
     {
@@ -91,12 +97,6 @@
         "source": "조선일보",
         "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/"
       }
-    },
-    {
-      "keyword": "어쌔신 크리드 오디세이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }
