@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-18T06:16:16.341916+09:00",
-  "label": "06:16",
+  "timestamp": "2026-08-18T07:13:39.672815+09:00",
+  "label": "07:13",
   "items": [
     {
-      "keyword": "당대표",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "민생지원금",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "[속보]김민석, 민주당 대표 당선…최민희 필두 ‘친청 3인’ 최고위원 입성",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11609941"
+        "title": "2026 민생지원금 4차 지급확정, 신청일자·지급대상·신청방법",
+        "source": "네이버 프리미엄콘텐츠",
+        "url": "https://contents.premium.naver.com/lifenewsroom/mlife/contents/260815224703661jy"
       }
     },
     {
-      "keyword": "최애의 사원",
+      "keyword": "고속도로",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트",
+        "title": "‘좋아요’ 받으려 끔찍…10대 5명 고속도로서 전원 사망, 무슨 일",
         "source": "Daum",
-        "url": "https://v.daum.net/v/YCxlJW6b38"
+        "url": "https://v.daum.net/v/20260818001612124"
       }
     },
     {
-      "keyword": "정년",
+      "keyword": "최태원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "최태원·빌 게이츠…AI 전력·SMR 협력 논의",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818054111964"
+      }
+    },
+    {
+      "keyword": "재건축",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/YJlzUDUZs9"
+        "title": "“분담금 3억인 줄 알았는데 6억?”…총회 반대해도 돈 더 내야 하나 [집과법]",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260814/134457515/2"
       }
     },
     {
-      "keyword": "퇴직",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818050009383"
-      }
-    },
-    {
-      "keyword": "국경",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham"
-      }
-    },
-    {
-      "keyword": "야생생물",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "fc온라인",
+      "keyword": "나솔",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260817n16022"
+        "title": "29기 영수, 말자쇼 등장해 공개 구애 \"옥순과 4개월 전 헤어졌다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081804170425706"
       }
     },
     {
-      "keyword": "데이터 센터",
+      "keyword": "후티 예멘",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "후티 \"예멘 모카항 인근 사우디 군함 5척 탄도미사일로 공격\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260817071600099"
+      }
+    },
+    {
+      "keyword": "강기윤",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "창원 등 5개 특례시 ‘광역급 권한·재정’ 공동 건의",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637697"
+      }
+    },
+    {
+      "keyword": "상호금융",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818043652036"
+        "title": "집단대출 다 풀린다… 일반 주담대도 증액 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/finance/2026/08/18/2026081719385785583"
       }
     },
     {
-      "keyword": "대치동",
+      "keyword": "김상식",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "전세의 월세화…7년새 월세 비중 7.8%p 증가",
+        "title": "김상식호 베트남, 말레이시아와 현대컵 4강 1차전 2-0 완승",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818052251872"
+        "url": "https://v.daum.net/v/20260817062538467"
       }
     },
     {
-      "keyword": "판문점 도끼",
+      "keyword": "พยากรณ์อากาศ",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/"
+        "title": "เริ่มถล่มพรุ่งนี้ กรมอุตุนิยมวิทยา เตือนฝนตกหนักมาก ฉบับที่ 5 เปิดชื่อจังหวัดโดนเต็มๆ จับตา 4 วัน 96 ชั่วโมง",
+        "source": "ข่าวสด",
+        "url": "https://www.khaosod.co.th/breaking-news/news_10363520"
       }
     }
   ]
