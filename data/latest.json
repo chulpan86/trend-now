@@ -1,7 +1,23 @@
 {
-  "timestamp": "2026-08-17T22:31:55.783945+09:00",
-  "label": "22:31",
+  "timestamp": "2026-08-17T23:17:45.314623+09:00",
+  "label": "23:17",
   "items": [
+    {
+      "keyword": "최수종",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "니콜 키드먼",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "59세 니콜 키드먼, 검은 가죽옷에 담배 물고 클럽 입성 젊은 남성 유혹...25년만의 뮤비 출연",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817153809148"
+      }
+    },
     {
       "keyword": "로봇",
       "traffic_raw": "1000+",
@@ -11,12 +27,6 @@
         "source": "매일경제",
         "url": "https://www.mk.co.kr/news/business/12129290"
       }
-    },
-    {
-      "keyword": "최수종",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
     },
     {
       "keyword": "김상욱",
@@ -33,19 +43,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "The Pixel 11 series: Your most personal Pixel yet",
-        "source": "blog.google",
-        "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
+        "title": "T-Mobile is giving away the Apple iPhone 17 for free this weekend — how to claim",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/aug-15-free-apple-iphone-deal"
       }
     },
     {
-      "keyword": "니콜 키드먼",
+      "keyword": "시장",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "59세 니콜 키드먼, 검은 가죽옷에 담배 물고 클럽 입성 젊은 남성 유혹...25년만의 뮤비 출연",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817153809148"
+        "title": "그림·부동산·음원, 주식처럼 ‘조각 투자’ 11월부터 시작",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608171521001"
       }
     },
     {
@@ -79,23 +89,13 @@
       }
     },
     {
-      "keyword": "시장",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "학생",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "조각투자 '증시 데뷔'…11월 신종증권시장 문 연다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817055851993"
-      }
-    },
-    {
-      "keyword": "김태선",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "비서실장 김태선·수석대변인 박성준…김민석 與대표 첫 인선(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817212751361"
+        "title": "경주 청소년 승마체험 확대…학생승마 509명 모집",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666393"
       }
     }
   ]
