@@ -3660,5 +3660,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-18T00:15:44.401995+09:00",
+    "label": "00:15",
+    "items": [
+      {
+        "keyword": "지연수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“개눈 같아”..지연수, 악플에 ‘전 남편’ 일라이도 못 본 생눈 공개(연수롭다)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/17/HAYTGM3FGNTDSNDCME4GENBWGE/"
+        }
+      },
+      {
+        "keyword": "손담비",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "손담비 딸, ♥이규혁 붕어빵 100%..\"너만 안 아프면 돼\" 행복 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2bJiEKEoTJ"
+        }
+      },
+      {
+        "keyword": "차두리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[BE.현장] \"마치 '차두리 11명'을 풀어놓은 것 같다\"… 버려진 원석들로 만든 차두리 감독의 역작 '화성의 태풍'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817181610305"
+        }
+      },
+      {
+        "keyword": "드레스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "30기 옥순, 결혼준비 무리했나..드레스 입다가 '구토' \"죽다 살아나\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816134337135?f=p"
+        }
+      },
+      {
+        "keyword": "왕과 사는 남자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "제2의 '왕사남' 온다…'1691만' 제작사→초호화 캐스팅으로 민심 제대로 저격한 韓 영화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817180209007"
+        }
+      },
+      {
+        "keyword": "선박",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "후티 \"예멘 모카항 인근 사우디 군함 5척 탄도미사일로 공격\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817214850617"
+        }
+      },
+      {
+        "keyword": "면허",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "약물운전 적발로 면허취소 올들어 287건…\"도로 위를 달리는 폭탄\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817073203491"
+        }
+      },
+      {
+        "keyword": "새마을금고",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "새마을금고, '으쌰라으쌰'로 전국 응원....조정석과 함께한 새 광고",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666621"
+        }
+      },
+      {
+        "keyword": "kick",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "How Kick is addressing brand suitability for cautious buyers",
+          "source": "Ad Age",
+          "url": "https://adage.com/social-media/aa-kick-ad-platform-launch-global-advertising-lead-kelly-lenihan/"
+        }
+      },
+      {
+        "keyword": "케스파",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "T1, 대전 KeSPA컵 경기에 2군 선수단 선발 출전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817171409156"
+        }
+      }
+    ]
   }
 ]
