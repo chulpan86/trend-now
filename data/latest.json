@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-18T03:22:08.521855+09:00",
-  "label": "03:22",
+  "timestamp": "2026-08-18T04:20:07.697850+09:00",
+  "label": "04:20",
   "items": [
     {
       "keyword": "넥슨",
@@ -13,13 +13,23 @@
       }
     },
     {
-      "keyword": "인벤",
+      "keyword": "fc온라인",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
         "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
         "source": "네이트",
         "url": "https://news.nate.com/view/20260817n16022"
+      }
+    },
+    {
+      "keyword": "뇌",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "충격 근황! \"두개골 구멍 뚫었다\"...뇌수술 흉터 공개한 'WWE 전설' 짐 로스, \"결과가 모든 걸 증명\" 건재함 과시",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/7YQ8LKEoJ1"
       }
     },
     {
@@ -33,13 +43,23 @@
       }
     },
     {
-      "keyword": "이진",
+      "keyword": "창원시장",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'뉴욕댁' 이진, 반려견 함께 돌아왔다..韓 정착→핑클·송혜교와 '행복' [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817130609935"
+        "title": "\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026081718303820427"
+      }
+    },
+    {
+      "keyword": "국경",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham"
       }
     },
     {
@@ -53,29 +73,23 @@
       }
     },
     {
-      "keyword": "뇌",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
       "keyword": "황현민",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260817_0003751567"
+        "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/B3IepEpXUV"
       }
     },
     {
-      "keyword": "창원시장",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "판문점 도끼",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026081718303820427"
+        "title": "‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/"
       }
     },
     {
@@ -83,16 +97,6 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": null
-    },
-    {
-      "keyword": "나이스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"나이스 배팅 박동원 선배·나이스 피칭 이우찬 선배\" LG 마무리 손주영 칭찬 릴레이 [MD잠실]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260816130050546"
-      }
     }
   ]
 }
