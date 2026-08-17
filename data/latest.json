@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-08-18T02:16:52.487911+09:00",
-  "label": "02:16",
+  "timestamp": "2026-08-18T03:22:08.521855+09:00",
+  "label": "03:22",
   "items": [
+    {
+      "keyword": "넥슨",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "넥슨 품에 안긴 오버워치, 제2의 전성기 정조준",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260816193050"
+      }
+    },
+    {
+      "keyword": "인벤",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260817n16022"
+      }
+    },
     {
       "keyword": "어벤져스 둠스데이",
       "traffic_raw": "500+",
@@ -23,26 +43,6 @@
       }
     },
     {
-      "keyword": "차두리",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[BE.현장] \"마치 '차두리 11명'을 풀어놓은 것 같다\"… 버려진 원석들로 만든 차두리 감독의 역작 '화성의 태풍'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817181610305"
-      }
-    },
-    {
-      "keyword": "손담비",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "손담비 딸, ♥이규혁 붕어빵 100%..\"너만 안 아프면 돼\" 행복 [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817163707422"
-      }
-    },
-    {
       "keyword": "브루스 윌리스",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -51,6 +51,12 @@
         "source": "Daum",
         "url": "https://v.daum.net/v/pQC4dHx2vO"
       }
+    },
+    {
+      "keyword": "뇌",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
       "keyword": "황현민",
@@ -70,16 +76,6 @@
         "title": "\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검",
         "source": "아시아경제",
         "url": "https://view.asiae.co.kr/article/2026081718303820427"
-      }
-    },
-    {
-      "keyword": "선박",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘세계 최초’ ‘세계 최대’ 경쟁하는 한·중… 고부가 선박 수주전, 암모니아로 확대 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/industry/company/2026/08/17/LIAFM3K7JNC6BHJOWMGTMEGK7Y/"
       }
     },
     {

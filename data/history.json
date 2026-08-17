@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-16T14:18:28.845905+09:00",
-    "label": "14:18",
-    "items": [
-      {
-        "keyword": "경고 사격",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "북한군 동부전선 MDL 침범, 군 경고사격…올해 들어 첫사례",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608161127001"
-        }
-      },
-      {
-        "keyword": "김민경",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'서영이 엄마' 故김민경, 투병 중에도 불태운 연기 열정…오늘(16일) 5주기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816060151793"
-        }
-      },
-      {
-        "keyword": "지드래곤",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/08/16/2026081608382598502"
-        }
-      },
-      {
-        "keyword": "광화문광장",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "광복절 도심 진보·보수 집회…교통혼잡 빚어져",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260816000700038"
-        }
-      },
-      {
-        "keyword": "계단",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608153179i"
-        }
-      },
-      {
-        "keyword": "염정아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "독일 출생·패션 셀럽 넘어…문가영, 백상 수상 터닝 포인트→염정아와 투톱 호흡 [TEN스타필드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815183107739"
-        }
-      },
-      {
-        "keyword": "최지 만",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "드디어 韓 무대 첫 홈런 터졌다…‘ML 67홈런’ 35세 최지만, 진짜 드래프트 1라운드 지명 받을까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/B80Ml5e4yS"
-        }
-      },
-      {
-        "keyword": "대령",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12313201"
-        }
-      },
-      {
-        "keyword": "lafc vs san diego",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Archive Collection: Every jersey for the 2026 season",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/news/archive-collection-every-jersey-for-the-2026-season"
-        }
-      },
-      {
-        "keyword": "이선민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'확신의 기혼상' 이선민, 확실한 '대세' 되기까지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Kw8FU8Oc7l"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-16T15:21:55.202738+09:00",
-    "label": "15:21",
-    "items": [
-      {
-        "keyword": "손흥민",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "손흥민 MLS 4경기 연속골 마감…LAFC, 샌디에이고에 0대 1 패배",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zRTYMQhDUa"
-        }
-      },
-      {
-        "keyword": "경고 사격",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "軍, 동부전선서 北 MDL 침범에 올해 첫 경고사격",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260816/134483900/1"
-        }
-      },
-      {
-        "keyword": "교수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘캠브리지 최연소 흑인 교수’, 표절 논란 속 자택서 숨진 채 발견",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815224929189"
-        }
-      },
-      {
-        "keyword": "지드래곤",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "배정남 \"열심히 모은 1950년대 태극기\"…빛 바래고 찢긴 흔적도 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/08/16/2026081608382598502"
-        }
-      },
-      {
-        "keyword": "김민경",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'서영이 엄마' 故김민경, 투병 중에도 불태운 연기 열정…오늘(16일) 5주기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816060151793"
-        }
-      },
-      {
-        "keyword": "염정아",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "독일 출생·패션 셀럽 넘어…문가영, 백상 수상 터닝 포인트→염정아와 투톱 호흡 [TEN스타필드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815183107739"
-        }
-      },
-      {
-        "keyword": "대함미사일",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "K-2 전차에 없던 ‘방패’ 단다…드론전쟁이 바꾼 생존법 [박수찬의 軍]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260814506737"
-        }
-      },
-      {
-        "keyword": "더스틴 니퍼트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'상황 돌변' LG 최초 역사 탄생 눈앞인데 '무섭다' 끝내 이 선수가 저지하나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Y2yLq7NdS2"
-        }
-      },
-      {
-        "keyword": "재정",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘민생지원금’만 3조3천억…추미애 “경기, 빚 증가속도 전국의 3배, 이대로면 부도”",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12078311"
-        }
-      },
-      {
-        "keyword": "대령",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "부하 여군 성폭행하려다 다치게 한 공군 대령…징역 5년 확정",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12313201"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-16T16:22:30.155913+09:00",
     "label": "16:22",
     "items": [
@@ -3751,6 +3539,104 @@
           "title": "‘세계 최초’ ‘세계 최대’ 경쟁하는 한·중… 고부가 선박 수주전, 암모니아로 확대 - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/industry/company/2026/08/17/LIAFM3K7JNC6BHJOWMGTMEGK7Y/"
+        }
+      },
+      {
+        "keyword": "어쌔신 크리드 오디세이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "나이스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"나이스 배팅 박동원 선배·나이스 피칭 이우찬 선배\" LG 마무리 손주영 칭찬 릴레이 [MD잠실]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816130050546"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-18T03:22:08.521855+09:00",
+    "label": "03:22",
+    "items": [
+      {
+        "keyword": "넥슨",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "넥슨 품에 안긴 오버워치, 제2의 전성기 정조준",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260816193050"
+        }
+      },
+      {
+        "keyword": "인벤",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260817n16022"
+        }
+      },
+      {
+        "keyword": "어벤져스 둠스데이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1"
+        }
+      },
+      {
+        "keyword": "이진",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'뉴욕댁' 이진, 반려견 함께 돌아왔다..韓 정착→핑클·송혜교와 '행복' [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260817130609935"
+        }
+      },
+      {
+        "keyword": "브루스 윌리스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pQC4dHx2vO"
+        }
+      },
+      {
+        "keyword": "뇌",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "황현민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751567"
+        }
+      },
+      {
+        "keyword": "창원시장",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081718303820427"
         }
       },
       {
