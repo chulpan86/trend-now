@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-08-18T01:15:15.093236+09:00",
-  "label": "01:15",
+  "timestamp": "2026-08-18T02:16:52.487911+09:00",
+  "label": "02:16",
   "items": [
+    {
+      "keyword": "어벤져스 둠스데이",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1"
+      }
+    },
     {
       "keyword": "이진",
       "traffic_raw": "500+",
@@ -33,6 +43,26 @@
       }
     },
     {
+      "keyword": "브루스 윌리스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/pQC4dHx2vO"
+      }
+    },
+    {
+      "keyword": "황현민",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260817_0003751567"
+      }
+    },
+    {
       "keyword": "창원시장",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -53,14 +83,10 @@
       }
     },
     {
-      "keyword": "면허",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "약물운전 적발로 면허취소 올들어 287건…\"도로 위를 달리는 폭탄\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817073203491"
-      }
+      "keyword": "어쌔신 크리드 오디세이",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     },
     {
       "keyword": "나이스",
@@ -70,36 +96,6 @@
         "title": "\"나이스 배팅 박동원 선배·나이스 피칭 이우찬 선배\" LG 마무리 손주영 칭찬 릴레이 [MD잠실]",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260816130050546"
-      }
-    },
-    {
-      "keyword": "새마을금고",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "새마을금고 고객 10명 중 4명이 60대 이상",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026081753281"
-      }
-    },
-    {
-      "keyword": "kick",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Premier League fans’ previews: our club-by-club guide to 2026-27",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/16/premier-league-fans-previews-our-club-by-club-guide-to-2026-27"
-      }
-    },
-    {
-      "keyword": "케스파",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "T1, 대전 KeSPA컵 경기에 2군 선수단 선발 출전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817171409156"
       }
     }
   ]
