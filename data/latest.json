@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-17T21:21:46.867064+09:00",
-  "label": "21:21",
+  "timestamp": "2026-08-17T22:31:55.783945+09:00",
+  "label": "22:31",
   "items": [
     {
-      "keyword": "김부선",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "로봇",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817134009731"
+        "title": "젠슨황과 구광모 만난 지 나흘만에…딸이 LG 로봇거점 찾는다",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12129290"
       }
     },
     {
-      "keyword": "부모",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "최수종",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "김상욱",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6260537"
+        "title": "박찬대 인천시장, 민선 9기 첫 직무평가서 전국 ‘최하위’ 불명예",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817154703354"
+      }
+    },
+    {
+      "keyword": "iphone 17 pro",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "The Pixel 11 series: Your most personal Pixel yet",
+        "source": "blog.google",
+        "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
+      }
+    },
+    {
+      "keyword": "니콜 키드먼",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "59세 니콜 키드먼, 검은 가죽옷에 담배 물고 클럽 입성 젊은 남성 유혹...25년만의 뮤비 출연",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817153809148"
+      }
+    },
+    {
+      "keyword": "선성권",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'불꽃야구2' 큰 별이 떠난다…라스트 댄스 \"무찔러 이기겠다\" 각오",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260816114537844"
+      }
+    },
+    {
+      "keyword": "도지코인",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "도지코인 0.07달러 횡보, 2022년 비교는 엇갈렸다",
+        "source": "토큰포스트",
+        "url": "https://www.tokenpost.kr/news/cryptocurrency/391647"
+      }
+    },
+    {
+      "keyword": "가요무대",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'가요무대' 더위사냥, 17일 가수 출연라인업 공개",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3666617"
+      }
+    },
+    {
+      "keyword": "시장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "조각투자 '증시 데뷔'…11월 신종증권시장 문 연다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817055851993"
       }
     },
     {
       "keyword": "김태선",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "더불어민주당 새 당대표 '김민석'‥최고위원 1위 최민희",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845298_37004.html"
-      }
-    },
-    {
-      "keyword": "테라파워",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "韓에 'SMR 러브콜' 보낸 빌 게이츠…테라파워 vs K-SMR 경쟁력은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817063645627"
-      }
-    },
-    {
-      "keyword": "한민수",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "당대표만큼 치열했던 최고위원 선거‥김용 탈락에 '친청' 과반",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845301_37004.html"
-      }
-    },
-    {
-      "keyword": "대한민국",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "광복절 경축식 영상에 독립운동 6인… 이승만 빠져",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/politics_general/2026/08/17/YZ5F4KBVMVGHVFH5LRRVF2HIGM/"
-      }
-    },
-    {
-      "keyword": "신세계",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260816034300030"
-      }
-    },
-    {
-      "keyword": "티비",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "What will TV look like in three years? Media insiders share their predictions",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html"
-      }
-    },
-    {
-      "keyword": "디즈니",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”",
+        "title": "비서실장 김태선·수석대변인 박성준…김민석 與대표 첫 인선(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817180209008"
-      }
-    },
-    {
-      "keyword": "제주 sk fc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817134508836"
+        "url": "https://v.daum.net/v/20260817212751361"
       }
     }
   ]
