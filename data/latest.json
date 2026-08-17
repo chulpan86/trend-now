@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-17T14:26:13.477357+09:00",
-  "label": "14:26",
+  "timestamp": "2026-08-17T15:33:21.048661+09:00",
+  "label": "15:33",
   "items": [
     {
       "keyword": "로스앤젤레스 fc",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "손흥민 왜 폭발했나? 백태클에 마지막 공격 끊겼는데→공까지 안 주자 직접 빼앗아…주심은 SON 향해 '옐로카드'",
         "source": "Daum",
@@ -13,39 +13,9 @@
       }
     },
     {
-      "keyword": "포옛",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817015137291"
-      }
-    },
-    {
-      "keyword": "hayden panettiere",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Hayden Panettiere dies at 36",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473"
-      }
-    },
-    {
-      "keyword": "최상엽",
+      "keyword": "트레킹",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "루시 최상엽, 이달 결혼…\"비연예인 연인과 새로운 출발\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817134450825"
-      }
-    },
-    {
-      "keyword": "트레킹",
-      "traffic_raw": "500+",
-      "traffic": 500,
       "news": {
         "title": "무이응에 외에도 다낭에는 트레킹이 금지된 곳이 두 군데 더 있습니다.",
         "source": "Vietnam.vn",
@@ -53,53 +23,83 @@
       }
     },
     {
-      "keyword": "김영익",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "임신",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "김영익의 도발 예언 \"지표는 거짓말 안 해, 코스피 5000 아래로 붕괴될 것\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/money/2026/08/17/ZWTZICIBQJCGZPSIOZEHST2NFI/"
+        "title": "\"몸 부서져도 둘째 갖고 싶어\"…출산 보름 만에 임신 원하는 아내 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081710014094708"
       }
     },
     {
-      "keyword": "경마",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "헤이든 파네티어",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "제주도서 ‘혼디·COOL’ 캠페인 벌이는 동아오츠카…무슨 일?",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11609858"
-      }
-    },
-    {
-      "keyword": "사우나",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"퇴근 후 1인 사우나 90분\"…'회복 소비'에 눈 돌리는 2030",
+        "title": "‘히어로즈’ 배우 헤이든 파네티어 사망…“비극적인 죽음에 깊은 슬픔”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817060209103"
+        "url": "https://v.daum.net/v/20260817143108786"
       }
     },
     {
-      "keyword": "실업",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "과학 고등학교",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]",
+        "title": "과학고 역대 최대 1858명 선발…최상위권 '이공계냐 의대냐'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817080300927"
+      }
+    },
+    {
+      "keyword": "김영익",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "시험대 오른 반도체주…'이번주 주식시장 주요 변수'",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608163783i"
+        "url": "https://www.hankyung.com/article/202608174926i"
       }
     },
     {
-      "keyword": "과학고등학교",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "어벤져스: 둠스데이",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "과학고 선발 ‘1858명’ 역대 최대…졸업 후 KAIST·성대行",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=01141446645548304&mediaCodeNo=257"
+        "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1"
+      }
+    },
+    {
+      "keyword": "키옥시아 주가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "亞 증시 떠받친 AI·반도체 훈풍, 닛케이 상승전환[Asia오전] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/08/17/2026081711262235730"
+      }
+    },
+    {
+      "keyword": "브루클린 베컴",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Why did Cruz Beckham share Brooklyn Beckham’s childhood photo? The family feud adds a deeper meaning to t",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/international-sports/why-did-cruz-beckham-share-brooklyn-beckhams-childhood-photo-the-family-feud-adds-a-deeper-meaning-to-the-throwback/articleshow/133281898.cms"
+      }
+    },
+    {
+      "keyword": "india vs sri lanka",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Ball by Ball Commentary & Live Score - SL vs IND, 1st Test",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/india-in-sri-lanka-2026-1543999/sri-lanka-vs-india-1st-test-1544001/ball-by-ball-commentary"
       }
     }
   ]
