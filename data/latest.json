@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-18T13:24:58.263688+09:00",
-  "label": "13:24",
+  "timestamp": "2026-08-18T14:19:37.365282+09:00",
+  "label": "14:19",
   "items": [
     {
       "keyword": "운전 기사",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "고속버스서 몸 불편한 승객 용변 실수...운전기사 행동에 '감동'[오따뉴] - 머니투데이",
         "source": "머니투데이",
@@ -14,12 +14,22 @@
     },
     {
       "keyword": "은마아파트",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "\"대치동 떠날 수가 없는데\"…강남 집주인들 '초비상' 걸린 이유 [시장톡]",
         "source": "한국경제",
         "url": "https://www.hankyung.com/article/2026081411596"
+      }
+    },
+    {
+      "keyword": "유재석",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "정해인, ‘우산 의전’ 논란 매니저가 친동생이었다…“엄마가 만들어준 따까리”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WzQKuGQ9k9"
       }
     },
     {
@@ -34,8 +44,8 @@
     },
     {
       "keyword": "김태형",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "응급대처 지연 논란…롯데 “구급차 즉시 진입토록 개선”",
         "source": "국제신문",
@@ -43,63 +53,53 @@
       }
     },
     {
-      "keyword": "독파모",
+      "keyword": "인도",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘업스테이지·SKT·LG' 독파모 최종 진출... 모티프는 탈락",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/08/18/VD3JMZTBTBDWRCKIFAJJSJMMY4/"
-      }
-    },
-    {
-      "keyword": "수사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "중수청 2천874명 규모로 출범…보완수사 전담 조직 설치",
+        "title": "인도서 힌두교 행사 압사사고…최소 7명 사망",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818120803566"
+        "url": "https://v.daum.net/v/20260818111952072"
       }
     },
     {
-      "keyword": "의령군",
+      "keyword": "iphone 17 pro",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "80평생 베풀고 시신까지 기증…'의령 봉사왕' 3년 만에 영면",
-        "source": "주간조선",
-        "url": "http://weekly.chosun.com/news/articleView.html?idxno=54404"
+        "title": "T-Mobile is giving away the Apple iPhone 17 for free this weekend — how to claim",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/aug-15-free-apple-iphone-deal"
       }
     },
     {
-      "keyword": "박찬대",
+      "keyword": "상급종합병원",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "박찬대 인천시장, 민선 9기 첫 직무평가서 전국 ‘최하위’ 불명예",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6KVXqsqFDL"
+        "title": "상급종합병원 진입 vs 수성…사활 건 총력전",
+        "source": "데일리메디",
+        "url": "https://www.dailymedi.com/news/news_view.php?wr_id=937739"
       }
     },
     {
       "keyword": "홍주",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "홍성군 홍주천년문화체험관 여름 특별 프로그램 '여름 한자락, 전통 한그릇' 운영",
-        "source": "한국미디어뉴스",
-        "url": "https://www.kitvnews.co.kr/news/article.html?no=1655044"
+        "title": "늦여름 홍주서 만나는 ‘우리 음식의 맛과 멋’",
+        "source": "투데이충남",
+        "url": "https://www.todaychungnam.net/news/articleView.html?idxno=473309"
       }
     },
     {
-      "keyword": "에어로케이",
+      "keyword": "대한민국 기후에너지환경부",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "에어로케이, 청주-中·日 노선 선택지 넓힌다",
-        "source": "충청매일",
-        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1094217"
+        "title": "낙동강서 대규모 수질오염사고 대응 방제 훈련",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260818033400530"
       }
     }
   ]
