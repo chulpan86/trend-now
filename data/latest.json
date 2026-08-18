@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-18T19:17:15.701197+09:00",
-  "label": "19:17",
+  "timestamp": "2026-08-18T20:15:31.608035+09:00",
+  "label": "20:15",
   "items": [
     {
-      "keyword": "kia 대 한화",
+      "keyword": "키움 대 롯데",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "[엠빅뉴스] 1군 선수단 합류한 김서현과 정우주! 한화 불펜 숨통 트이나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818153107581"
+        "title": "‘가을 기적’ 이끌까…롯데, 키움·두산과 운명의 6연전",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260819.22015005051"
       }
     },
     {
-      "keyword": "ssg 대 삼성",
+      "keyword": "주식",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "[토토 투데이] 스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/18/202608181248770547O"
+        "title": "'삼성맨 아내' 이현이 \"삼전 주식 5만원대 매수\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260817_0003751392"
       }
     },
     {
-      "keyword": "이태한",
+      "keyword": "택시",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[속보] 이 대통령, 선관위 특검에 이태한 임명···‘12대 의혹’ 수사 맡는다",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608181726001"
+        "title": "테슬라, 운전대·페달 없는 로보택시 ‘사이버캡‘ 이달 투입",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/tech_it/2026/08/18/P3TAV6E4OJHXNALDFM2XHIOK3E/"
       }
     },
     {
-      "keyword": "kt 대 lg",
+      "keyword": "야구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "프로야구, 25일부터 다시 오후 6시 30분 시작…폭염 기준 재조정",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260818077500007"
+      }
+    },
+    {
+      "keyword": "티켓링크",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘알몬테 대신 오스틴’ LG 우승 2번을 만들었다, 오카다 대신 케네디도 ‘전화위복’ 대박 터질까",
+        "title": "NHN링크, 뮤지컬 ‘드라큘라’ 전관 행사 실시…‘링크스페셜데이’ 12번째 무대",
         "source": "Daum",
-        "url": "https://v.daum.net/v/BAfqSk0HlP"
+        "url": "https://v.daum.net/v/20260818130303549"
       }
     },
     {
-      "keyword": "도시 재개발",
+      "keyword": "sk텔레콤",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "우상혁",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
-        "title": "우상혁 ‘세계 정상’, 비웨사 ‘10초 벽 도전’ [로드 투 AG]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818103320257"
-      }
-    },
-    {
-      "keyword": "앤트로픽",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "앤트로픽, 미토스5 능가하는 '모델2' 개발…\"외부 출시 계획 없어\"",
+        "title": "[독파모 2차 발표] '국가대표 AI' 3파전 돌입…정예팀에 B200 3천장 푼다",
         "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260818151104"
+        "url": "https://zdnet.co.kr/view/?no=20260812102858"
       }
     },
     {
-      "keyword": "권칠승",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "전지현",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "與 사무총장에 한정애…정책위의장에 권칠승 임명",
+        "title": "전지현, 14년 전 웨딩 화보 재조명…감탄 나오는 미모 “세월 어디로” [IS하이컷]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818171454327"
+        "url": "https://v.daum.net/v/20260818155449635"
       }
     },
     {
-      "keyword": "처벌",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "레이더",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "산재사망 '영업익 5%' 과징금…기업 규모별 차등 부과 검토",
+        "title": "[단독] 北 감시 ‘하늘의 눈’ 레이더 두뇌 단종…E-737 성능개량",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260818512958"
+      }
+    },
+    {
+      "keyword": "야구여왕",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘야구여왕2’, 화제성 이어 직관 이벤트도 대박 행진",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260818/134492535/1"
+      }
+    },
+    {
+      "keyword": "김원효",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'천이슬과 결별' 양상국, 아직 미혼…김원효 \"예쁜 여자만 만나\" 폭로 (짠한형)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817060506217"
-      }
-    },
-    {
-      "keyword": "kdb생명",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "한국금융지주, KDB생명 인수로 금융영토 확장...최대 1.5조 자본부담 변수",
-        "source": "녹색경제신문",
-        "url": "https://www.greened.kr/news/articleView.html?idxno=347875"
+        "url": "https://v.daum.net/v/20260818074536557"
       }
     }
   ]

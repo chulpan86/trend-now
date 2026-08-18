@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-17T08:10:22.083480+09:00",
-    "label": "08:10",
-    "items": [
-      {
-        "keyword": "제니",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'슬림 탄탄' 제니…플라잉요가와 필라테스로 관리",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260816_0003751047"
-        }
-      },
-      {
-        "keyword": "대체공휴일",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "가뭄겪던 남부 오늘까지 250mm 폭우… 산사태 ‘주의’로 격상",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260817/134486592/2"
-        }
-      },
-      {
-        "keyword": "이동국",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"홍명보 떠오른다\" 박문성 소신 발언…이동국 포옛호 합류 소식에 우려→\"중간 없이 높은 곳으로 점프 아닌가?\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817015137291"
-        }
-      },
-      {
-        "keyword": "김상식",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'박항서도 못했던 대업 보인다' 김상식호 베트남, 말레이시아 2-0 완파 '아세안컵 4강 기선 제압'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9rteg1d8Wk"
-        }
-      },
-      {
-        "keyword": "김승수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김승수, 대상포진으로 실명 위기 \"포크로 긁는 듯한 고통\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081703425474551"
-        }
-      },
-      {
-        "keyword": "погода",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Погода в Беларуси 17 августа: кратковременные дожди, местами – грозы и туман",
-          "source": "Gismeteo",
-          "url": "https://www.gismeteo.by/news/klimat/pogoda-v-belarusi-17-avgusta-kratkovremennye-dozhdi-mestami-grozy-i-tuman/"
-        }
-      },
-      {
-        "keyword": "thời tiết",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Bắc Bộ và Bắc Trung Bộ sắp đón đợt mưa lớn trong tuấn tới",
-          "source": "Báo Nông nghiệp và Môi trường",
-          "url": "https://nongnghiepmoitruong.vn/bac-bo-va-bac-trung-bo-sap-don-dot-mua-lon-trong-tuan-toi-d826377.html"
-        }
-      },
-      {
-        "keyword": "สภาพอากาศ",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"เหนือ-อีสาน-ตะวันออก\" ยังมีฝนตกหนัก ระวังน้ำท่วมฉับพลัน-น้ำป่าไหลหลาก",
-          "source": "เดลินิวส์",
-          "url": "https://www.dailynews.co.th/news/6112991/"
-        }
-      },
-      {
-        "keyword": "스포츠경향",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "꼴찌하던 말들이 하루 만에 4승…누군가는 ‘미리 알고’ 거액을 걸었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QgVqk0LxF5"
-        }
-      },
-      {
-        "keyword": "김종국",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김종국, '축구협회장 출마선언' 일 커졌다..뮌헨 김민재도 \"하셔야죠\" 공개지지(런닝맨)[순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816190707202"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-17T09:39:13.983131+09:00",
     "label": "09:39",
     "items": [
@@ -3543,6 +3437,112 @@
           "title": "한국금융지주, KDB생명 인수로 금융영토 확장...최대 1.5조 자본부담 변수",
           "source": "녹색경제신문",
           "url": "https://www.greened.kr/news/articleView.html?idxno=347875"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-18T20:15:31.608035+09:00",
+    "label": "20:15",
+    "items": [
+      {
+        "keyword": "키움 대 롯데",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "‘가을 기적’ 이끌까…롯데, 키움·두산과 운명의 6연전",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260819.22015005051"
+        }
+      },
+      {
+        "keyword": "주식",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'삼성맨 아내' 이현이 \"삼전 주식 5만원대 매수\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260817_0003751392"
+        }
+      },
+      {
+        "keyword": "택시",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "테슬라, 운전대·페달 없는 로보택시 ‘사이버캡‘ 이달 투입",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/08/18/P3TAV6E4OJHXNALDFM2XHIOK3E/"
+        }
+      },
+      {
+        "keyword": "야구",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "프로야구, 25일부터 다시 오후 6시 30분 시작…폭염 기준 재조정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818077500007"
+        }
+      },
+      {
+        "keyword": "티켓링크",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "NHN링크, 뮤지컬 ‘드라큘라’ 전관 행사 실시…‘링크스페셜데이’ 12번째 무대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818130303549"
+        }
+      },
+      {
+        "keyword": "sk텔레콤",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[독파모 2차 발표] '국가대표 AI' 3파전 돌입…정예팀에 B200 3천장 푼다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260812102858"
+        }
+      },
+      {
+        "keyword": "전지현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "전지현, 14년 전 웨딩 화보 재조명…감탄 나오는 미모 “세월 어디로” [IS하이컷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818155449635"
+        }
+      },
+      {
+        "keyword": "레이더",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] 北 감시 ‘하늘의 눈’ 레이더 두뇌 단종…E-737 성능개량",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260818512958"
+        }
+      },
+      {
+        "keyword": "야구여왕",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘야구여왕2’, 화제성 이어 직관 이벤트도 대박 행진",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260818/134492535/1"
+        }
+      },
+      {
+        "keyword": "김원효",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'천이슬과 결별' 양상국, 아직 미혼…김원효 \"예쁜 여자만 만나\" 폭로 (짠한형)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818074536557"
         }
       }
     ]
