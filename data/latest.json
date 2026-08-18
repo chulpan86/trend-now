@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-19T02:17:43.468979+09:00",
-  "label": "02:17",
+  "timestamp": "2026-08-19T03:21:54.460441+09:00",
+  "label": "03:21",
   "items": [
     {
       "keyword": "서장훈의 이웃집 백만장 자",
@@ -10,6 +10,26 @@
         "title": "박정희, 82만평 산 소유…\"여의도 규모\"",
         "source": "뉴시스",
         "url": "https://www.newsis.com/view/NISX20260818_0003752005"
+      }
+    },
+    {
+      "keyword": "매미",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818105352387"
+      }
+    },
+    {
+      "keyword": "광화문광장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260818085800004"
       }
     },
     {
@@ -39,6 +59,26 @@
       }
     },
     {
+      "keyword": "world cup schedule",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "The referee’s view of the World Cup final: Telling Messi to ‘control’ a player and a ‘well done’ from Trump - The Athletic",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/athletic/7516859/2026/08/17/ref-cam-world-cup-final/"
+      }
+    },
+    {
+      "keyword": "사우델",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "다발성 태풍에 기압계 '흔들'...호우 끝나면 또 '찜통'",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0108_202608170055559990"
+      }
+    },
+    {
       "keyword": "mortgage rates today",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -56,46 +96,6 @@
         "title": "태국 대 싱가포르 준결승전 생중계 0-1 (전반전 종료): 골!!! 싱가포르가 선제골을 터뜨렸습니다.",
         "source": "Vietnam.vn",
         "url": "https://www.vietnam.vn/ko/truc-tiep-ban-ket-thai-lan-vs-singapore-0-1-het-h1-vao-singapore-mo-ty-so"
-      }
-    },
-    {
-      "keyword": "enc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Esports Nations Cup delayed to 2027 as Iran conflict continues",
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/articles/cr7kdp2edk0o"
-      }
-    },
-    {
-      "keyword": "공연",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870"
-      }
-    },
-    {
-      "keyword": "kbo 순위",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "◇오늘의 경기(18일)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260817051600007"
-      }
-    },
-    {
-      "keyword": "크보",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "KIA Tigers vs Hanwha Eagles Prediction August 18: Ron Crawford Backs the Tigers in a KBO Toss-Up",
-        "source": "Tony's Picks",
-        "url": "https://www.tonyspicks.com/2026/08/17/kia-tigers-vs-hanwha-eagles-prediction-8-18-26-ron-crawford/"
       }
     }
   ]
