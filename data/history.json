@@ -3546,5 +3546,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-18T21:23:51.131916+09:00",
+    "label": "21:23",
+    "items": [
+      {
+        "keyword": "오디세이",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'오디세이'는 놀란의 '역대최고' 영화일까? 흥행은 신기록, 평점 기록은...",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818173651268"
+        }
+      },
+      {
+        "keyword": "사형",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "검찰, ‘모텔 연쇄살인’ 김소영에 사형 구형",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8639404"
+        }
+      },
+      {
+        "keyword": "같이 삽시다",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "쿨 김성수, '전처 사별' 후 딸 7세부터 육아 \"내 인생 최대 업적\" ('같이 삽시다')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818141136714"
+        }
+      },
+      {
+        "keyword": "이진숙",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "5·18 단체, 이진숙 의원실에 공개질의서 전달 \"의원직 사퇴하라\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6845500_36911.html"
+        }
+      },
+      {
+        "keyword": "마크 도스 산토스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "페르시아 만",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "사우디, 오만 앞바다서 원유 판매 제안…‘깜깜이 운항’으로 호르무즈 건넜나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818152937515"
+        }
+      },
+      {
+        "keyword": "한미연합훈련",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "국방부 달려간 주한美사령관, 한미훈련 축소?... \"회의 있었다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/08/18/URJKHHQC45FTVGCTJXZS4DGD2A/"
+        }
+      },
+      {
+        "keyword": "서울지하철",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] 골드라인 혼잡 뚫는다…김포 2000번, GTX-A 킨텍스역 연결",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818172004579"
+        }
+      },
+      {
+        "keyword": "메리츠종합금융증권",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "메리츠 세우고 미래에셋 줄이고…해외 공략 분주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818183009089"
+        }
+      },
+      {
+        "keyword": "매독",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"콘돔으로도 못 막아\" 비상...전세계 난리 난 매독, 국내 환자도 급증 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/08/18/2026081810371852673"
+        }
+      }
+    ]
   }
 ]
