@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-19T04:20:42.380578+09:00",
-  "label": "04:20",
+  "timestamp": "2026-08-19T05:11:49.467788+09:00",
+  "label": "05:11",
   "items": [
     {
       "keyword": "서장훈의 이웃집 백만장 자",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "박정희, 82만평 산 소유…\"여의도 규모\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260818_0003752005"
+        "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818153004537"
       }
     },
     {
@@ -24,12 +24,22 @@
     },
     {
       "keyword": "광화문광장",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\"",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260818085800004"
+      }
+    },
+    {
+      "keyword": "사우델",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[태풍경로]17호 ‘낭카’ 소멸 18호 ‘사우델’ 촉각…한반도 날씨 변수 되나",
+        "source": "남도일보",
+        "url": "https://www.namdonews.com/news/articleView.html?idxno=920322"
       }
     },
     {
@@ -39,23 +49,23 @@
       "news": null
     },
     {
-      "keyword": "신진서",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "반도체 메모리",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투",
+        "title": "“삼전, 애플처럼 고배당주로”… ‘200조’ 주주환원 기대감 솔솔",
         "source": "Daum",
-        "url": "https://v.daum.net/v/XlzxmoXSOZ"
+        "url": "https://v.daum.net/v/2vXZEy8Bc4"
       }
     },
     {
-      "keyword": "mathilde favier",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "강유정",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "Un des producteurs d'OSS 117 et une figure de Dior meurent dans un accident à Airvault près de Thouars",
-        "source": "ici.fr",
-        "url": "https://www.ici.fr/nouvelle-aquitaine/deux-sevres-79/airvault/le-producteur-d-oss-117-et-une-grande-responsable-chez-dior-meurt-dans-un-accident-a-airvault-pres-de-thouars-3976463"
+        "title": "李대통령 “특정 지역비하·참사 희생자 조롱, 표현의 자유와 별개…실질적 제재 필요”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818183700276"
       }
     },
     {
@@ -76,16 +86,6 @@
         "title": "The referee’s view of the World Cup final: Telling Messi to ‘control’ a player and a ‘well done’ from Trump - The Athletic",
         "source": "The New York Times",
         "url": "https://www.nytimes.com/athletic/7516859/2026/08/17/ref-cam-world-cup-final/"
-      }
-    },
-    {
-      "keyword": "사우델",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "다발성 태풍에 기압계 '흔들'...호우 끝나면 또 '찜통'",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0108_202608170055559990"
       }
     },
     {
