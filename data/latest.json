@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-18T18:21:38.955418+09:00",
-  "label": "18:21",
+  "timestamp": "2026-08-18T19:17:15.701197+09:00",
+  "label": "19:17",
   "items": [
     {
-      "keyword": "빌라",
+      "keyword": "kia 대 한화",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "서울 외곽 빌라 거래 ‘급증’… 절반은 공공기관이 샀다",
+        "title": "[엠빅뉴스] 1군 선수단 합류한 김서현과 정우주! 한화 불펜 숨통 트이나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818164737046"
+        "url": "https://v.daum.net/v/20260818153107581"
       }
     },
     {
-      "keyword": "서장훈의 이웃집 백만장자",
+      "keyword": "ssg 대 삼성",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "[토토 투데이] 스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/18/202608181248770547O"
+      }
+    },
+    {
+      "keyword": "이태한",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818153004537"
+        "title": "[속보] 이 대통령, 선관위 특검에 이태한 임명···‘12대 의혹’ 수사 맡는다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608181726001"
       }
     },
     {
-      "keyword": "쌍방울그룹",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[단독] 쌍방울그룹 전격 압수수색…검찰 “주가조작 의혹”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818142101120"
-      }
-    },
-    {
-      "keyword": "손봉기",
+      "keyword": "kt 대 lg",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "대법원장, 새 대법관에 손봉기· 김성수 부장판사 임명 제청…공석 6개월만",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818163315Hv0"
+        "title": "‘알몬테 대신 오스틴’ LG 우승 2번을 만들었다, 오카다 대신 케네디도 ‘전화위복’ 대박 터질까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/BAfqSk0HlP"
       }
     },
     {
-      "keyword": "보조금",
+      "keyword": "도시 재개발",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "진주여성민우회 \"성평등 교육 보조금 취소 왜곡 중단하라\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260818111200052"
-      }
+      "news": null
     },
     {
-      "keyword": "v-리그",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "우상혁",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "프로배구 10월 31일 개막…KB손보 임시 연고지 미정",
+        "title": "우상혁 ‘세계 정상’, 비웨사 ‘10초 벽 도전’ [로드 투 AG]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/xnsQuGQ95i"
+        "url": "https://v.daum.net/v/20260818103320257"
       }
     },
     {
-      "keyword": "박재현",
+      "keyword": "앤트로픽",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"아부지 상 받았다\" 나성범-박재현 부자케미[O! SPORTS 숏폼]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/08/18/GNSTQMJVMVTDCMRSMIYWIMJUGM/"
+        "title": "앤트로픽, 미토스5 능가하는 '모델2' 개발…\"외부 출시 계획 없어\"",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260818151104"
       }
     },
     {
-      "keyword": "유기상",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"유기상에게 미안하다\" 이현중 전 동료 日 바바의 사과... 한일전 거친 충돌→\"막고 싶은 마음 앞섰다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/xwQFMa5TWC"
-      }
-    },
-    {
-      "keyword": "이데일리",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "일본이 흔든 美 채권시장…30년물 금리 19년 만에 최고 [도쿄나우]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608185802i"
-      }
-    },
-    {
-      "keyword": "함연지",
+      "keyword": "권칠승",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'오뚜기 3세' 함연지 배우 은퇴한 듯…미국 법인서 근무 중 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081811180750848"
+        "title": "與 사무총장에 한정애…정책위의장에 권칠승 임명",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818171454327"
+      }
+    },
+    {
+      "keyword": "처벌",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "산재사망 '영업익 5%' 과징금…기업 규모별 차등 부과 검토",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260817060506217"
+      }
+    },
+    {
+      "keyword": "kdb생명",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "한국금융지주, KDB생명 인수로 금융영토 확장...최대 1.5조 자본부담 변수",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=347875"
       }
     }
   ]
