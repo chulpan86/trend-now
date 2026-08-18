@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-18T15:24:58.889052+09:00",
-  "label": "15:24",
+  "timestamp": "2026-08-18T16:28:59.070912+09:00",
+  "label": "16:28",
   "items": [
     {
-      "keyword": "펜션",
+      "keyword": "대치동 은마아파트",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "전국 1명 사망·4명 부상‥응급복구 총력",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6845441_36967.html"
+        "title": "\"대치동 떠날 수가 없는데\"…강남 집주인들 '초비상' 걸린 이유 [시장톡]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026081411596"
       }
     },
     {
-      "keyword": "국민연금공단",
+      "keyword": "한국인의 밥상",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "결혼 후 별거로 실질 혼인 5년 미만이면 이혼 배우자 분할연금 못 받는다",
+        "title": "김혜수, 의리 빛났다... 최수종 ‘한국인의 밥상’에 커피차·간식차 지원",
         "source": "Daum",
-        "url": "https://v.daum.net/v/fRJDhDUZCT"
+        "url": "https://v.daum.net/v/20260818125849449"
       }
     },
     {
-      "keyword": "정해인",
+      "keyword": "김정화",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "정해인, ‘우산 의전’ 논란 매니저가 친동생이었다…“엄마가 만들어준 따까리”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818074508546"
+        "title": "김정화, 뇌종양 투병 남편 근황 \"시한폭탄 안고 산다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081808495267886"
       }
     },
     {
-      "keyword": "샌디에이고 파드리스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'5조 5000억 사상 최고액 매각' 송성문 소속팀 샌디에이고 새 주인 찾았다, MLB 구단주 만장일치 승인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BciLxBcnIM"
-      }
-    },
-    {
-      "keyword": "사진",
+      "keyword": "연기금",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“가족사진 4만9천 원이라더니”…다 찍자 715만 원 결제 [잇슈 키워드]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638872"
+        "title": "사상 최대 외국인 순매수에도 웃을 수 없는 이유",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/stock-finance/2026/08/18/3VE7ZWGXFVBIBNLHRGJQMPG3QQ/"
       }
     },
     {
-      "keyword": "하주석",
+      "keyword": "과천선",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'한화→KIA' 트레이드 주인공, 4타수 무안타→12G 연속 안타 끝내 실패…\"현재 가장 필요한 자원, 압박감 안 주고파\" 꽃감독 반색",
+        "title": "[단독] 위례과천선 서초 우면동 경유…과천시 패싱에 반발 커질 듯",
+        "source": "땅집고",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/08/18/2026081801378.html"
+      }
+    },
+    {
+      "keyword": "대만",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "반도체로 번 돈 全국민에 44만원씩 쏜다…대만 ‘AI보너스’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/tS1xyFiP1P"
+        "url": "https://v.daum.net/v/20260818140127295"
       }
     },
     {
-      "keyword": "나탈리 하프",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "“‘기만작전’ 당시 트럼프 옆 女보좌관” 묻자…백악관 “역겨워”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20260818/134493737/1"
-      }
-    },
-    {
-      "keyword": "nh농협금융지주",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[금융 ESG경영] 농협금융, 농업에 뿌리 둔 '환원 ESG'",
-        "source": "딜사이트",
-        "url": "https://dealsite.co.kr/articles/167337"
-      }
-    },
-    {
-      "keyword": "사자",
+      "keyword": "과징금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "코스피 2% 상승 출발 한 달 만에 '7천' 회복‥반도체·로봇 위주 상승",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6845400_36932.html"
+        "title": "동네에 많이 보이던 다비치안경, 이런 부당 행위를···판매 목표 강제로 14억8000만원 과징금",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608171402001"
       }
     },
     {
-      "keyword": "이마트 트레이더스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "천궁-2",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "1인가구 시대 이마트 살린 '창고형' 트레이더스…대용량·가성비 먹혔다",
+        "title": "\"우크라에 천궁2 지원해야\" 국힘 의원 주장..러 보복에 무대책",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818060651413"
+        "url": "https://v.daum.net/v/3Ts0XIb0cl"
+      }
+    },
+    {
+      "keyword": "코레일 채용",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "열대 저기압",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[기상] 동해(남중국해)에 열대저기압 형성… 북부 해상 풍랑 주의",
+        "source": "굿모닝베트남미디어",
+        "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=83142"
       }
     }
   ]
