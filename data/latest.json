@@ -1,25 +1,35 @@
 {
-  "timestamp": "2026-08-19T05:11:49.467788+09:00",
-  "label": "05:11",
+  "timestamp": "2026-08-19T06:13:32.437864+09:00",
+  "label": "06:13",
   "items": [
     {
-      "keyword": "서장훈의 이웃집 백만장 자",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818153004537"
-      }
-    },
-    {
-      "keyword": "매미",
+      "keyword": "아빠 10년",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"",
+        "title": "'월 600만 원·10년 간' 보낸 기러기 아빠…아내는 캐나다서 상간남과 '불륜 파티' [조인섭]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818105352387"
+        "url": "https://v.daum.net/v/31RgIl2uwo"
+      }
+    },
+    {
+      "keyword": "천궁",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "유용원 \"우크라에 지대공유도무기 '천궁-Ⅱ' 지원 검토해야\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260818096600001"
+      }
+    },
+    {
+      "keyword": "사우 델",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[태풍경로]17호 ‘낭카’ 소멸 18호 ‘사우델’ 촉각…한반도 날씨 변수 되나",
+        "source": "남도일보",
+        "url": "https://www.namdonews.com/news/articleView.html?idxno=920322"
       }
     },
     {
@@ -33,25 +43,19 @@
       }
     },
     {
-      "keyword": "사우델",
+      "keyword": "박성현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[태풍경로]17호 ‘낭카’ 소멸 18호 ‘사우델’ 촉각…한반도 날씨 변수 되나",
-        "source": "남도일보",
-        "url": "https://www.namdonews.com/news/articleView.html?idxno=920322"
+        "title": "“전장은 200야드 늘리고 페어웨이 폭은 좁혔다”…포천힐스CC, 메이저 대회 코스로 파격 변신",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818154809381"
       }
     },
     {
-      "keyword": "아빠 10년",
+      "keyword": "반도체 메모리",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "반도체 메모리",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
         "title": "“삼전, 애플처럼 고배당주로”… ‘200조’ 주주환원 기대감 솔솔",
         "source": "Daum",
@@ -60,12 +64,22 @@
     },
     {
       "keyword": "강유정",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "李, ‘5·18 폄훼 포럼’ 겨냥 “피해자 조롱 제재해야”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819043410190"
+      }
+    },
+    {
+      "keyword": "바둑",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "李대통령 “특정 지역비하·참사 희생자 조롱, 표현의 자유와 별개…실질적 제재 필요”",
+        "title": "韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818183700276"
+        "url": "https://v.daum.net/v/XlzxmoXSOZ"
       }
     },
     {
@@ -86,16 +100,6 @@
         "title": "The referee’s view of the World Cup final: Telling Messi to ‘control’ a player and a ‘well done’ from Trump - The Athletic",
         "source": "The New York Times",
         "url": "https://www.nytimes.com/athletic/7516859/2026/08/17/ref-cam-world-cup-final/"
-      }
-    },
-    {
-      "keyword": "mortgage rates today",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Mortgage rates fall for first time in 6 weeks",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/economy/mortgage-rates-8-13-2026"
       }
     }
   ]
