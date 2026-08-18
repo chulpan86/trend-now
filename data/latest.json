@@ -1,61 +1,31 @@
 {
-  "timestamp": "2026-08-18T17:23:28.381003+09:00",
-  "label": "17:23",
+  "timestamp": "2026-08-18T18:21:38.955418+09:00",
+  "label": "18:21",
   "items": [
     {
-      "keyword": "현금",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "대만, 전 국민에 44만원 ‘AI 보너스’ 지급한다…역대급 GDP 성장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818141355838"
-      }
-    },
-    {
-      "keyword": "골프",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"스타 총출동\"…골프존 '샤브20 GTOUR 슈퍼매치'",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260818_0003752423"
-      }
-    },
-    {
-      "keyword": "용산공원",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "국무회의 간 오세훈 \"용산공원 개발 반대…재개발·재건축 규제부터 풀어야\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12313837"
-      }
-    },
-    {
       "keyword": "빌라",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "매수세 몰린 서울 빌라 거래금액 5조 육박…5년만 최대",
+        "title": "서울 외곽 빌라 거래 ‘급증’… 절반은 공공기관이 샀다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818140907641"
+        "url": "https://v.daum.net/v/20260818164737046"
       }
     },
     {
-      "keyword": "중대범죄 수사청",
+      "keyword": "서장훈의 이웃집 백만장자",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "중수청 2천874명 규모로 출범…보완수사 전담 조직 설치",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260818049700530"
+        "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818153004537"
       }
     },
     {
       "keyword": "쌍방울그룹",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "[단독] 쌍방울그룹 전격 압수수색…검찰 “주가조작 의혹”",
         "source": "Daum",
@@ -63,43 +33,73 @@
       }
     },
     {
-      "keyword": "천궁-2",
+      "keyword": "손봉기",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "대법원장, 새 대법관에 손봉기· 김성수 부장판사 임명 제청…공석 6개월만",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260818163315Hv0"
+      }
+    },
+    {
+      "keyword": "보조금",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "진주여성민우회 \"성평등 교육 보조금 취소 왜곡 중단하라\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260818111200052"
+      }
+    },
+    {
+      "keyword": "v-리그",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "프로배구 10월 31일 개막…KB손보 임시 연고지 미정",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xnsQuGQ95i"
+      }
+    },
+    {
+      "keyword": "박재현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"우크라에 천궁2 지원해야\" 국힘 의원 주장..러 보복에 무대책",
+        "title": "\"아부지 상 받았다\" 나성범-박재현 부자케미[O! SPORTS 숏폼]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/08/18/GNSTQMJVMVTDCMRSMIYWIMJUGM/"
+      }
+    },
+    {
+      "keyword": "유기상",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"유기상에게 미안하다\" 이현중 전 동료 日 바바의 사과... 한일전 거친 충돌→\"막고 싶은 마음 앞섰다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/3Ts0XIb0cl"
+        "url": "https://v.daum.net/v/xwQFMa5TWC"
       }
     },
     {
-      "keyword": "천연가스",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "이데일리",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "AI·자율주행에 수요 커진다…삼성전기, 초소형·초고용량 MLCC 강화",
-        "source": "ebn.co.kr",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719757"
+        "title": "일본이 흔든 美 채권시장…30년물 금리 19년 만에 최고 [도쿄나우]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608185802i"
       }
     },
     {
-      "keyword": "데이나 화이트",
+      "keyword": "함연지",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Main Card Results | UFC 330: Makhachev vs Machado Garry",
-        "source": "UFC.com",
-        "url": "https://www.ufc.com/news/ufc-330-islam-makhachev-vs-ian-machado-garry-results"
-      }
-    },
-    {
-      "keyword": "개혁신당",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "국힘 \"李 대통령 '내 임기는 5년으로 끝' 신뢰 없으면 개헌 논의 불응\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6845429_36911.html"
+        "title": "'오뚜기 3세' 함연지 배우 은퇴한 듯…미국 법인서 근무 중 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081811180750848"
       }
     }
   ]
