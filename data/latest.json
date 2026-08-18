@@ -1,7 +1,37 @@
 {
-  "timestamp": "2026-08-18T12:35:35.085364+09:00",
-  "label": "12:35",
+  "timestamp": "2026-08-18T13:24:58.263688+09:00",
+  "label": "13:24",
   "items": [
+    {
+      "keyword": "운전 기사",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "고속버스서 몸 불편한 승객 용변 실수...운전기사 행동에 '감동'[오따뉴] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/08/18/2026081805543760885"
+      }
+    },
+    {
+      "keyword": "은마아파트",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"대치동 떠날 수가 없는데\"…강남 집주인들 '초비상' 걸린 이유 [시장톡]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026081411596"
+      }
+    },
+    {
+      "keyword": "오타니 쇼헤이",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'연타석포' 오타니, 시즌 첫 4안타까지 폭발!...디아즈는 씁쓸한 3실점, 다저스 2연패 탈출 [LAD 리뷰] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/18/202608181217770188O"
+      }
+    },
     {
       "keyword": "김태형",
       "traffic_raw": "1000+",
@@ -27,9 +57,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[판결] 대법 “검찰수사관이 수사 착수한 사건 검사가 기소, 공소기각 사유”",
-        "source": "법률신문",
-        "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224966"
+        "title": "중수청 2천874명 규모로 출범…보완수사 전담 조직 설치",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818120803566"
       }
     },
     {
@@ -37,9 +67,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "시신까지 기증한 '의령 봉사왕'…마지막 봉사 마치고 영면",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817201852334"
+        "title": "80평생 베풀고 시신까지 기증…'의령 봉사왕' 3년 만에 영면",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=54404"
       }
     },
     {
@@ -53,12 +83,6 @@
       }
     },
     {
-      "keyword": "울산광역시",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
       "keyword": "홍주",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -66,26 +90,6 @@
         "title": "홍성군 홍주천년문화체험관 여름 특별 프로그램 '여름 한자락, 전통 한그릇' 운영",
         "source": "한국미디어뉴스",
         "url": "https://www.kitvnews.co.kr/news/article.html?no=1655044"
-      }
-    },
-    {
-      "keyword": "롯데온",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘꿀잠’에 진심인 소비자들⋯ 롯데온, 숙면·웰니스 수요 잡는다",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260818500058"
-      }
-    },
-    {
-      "keyword": "청약",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "흥국화재, 장기보험 청약시스템 전면 개편…설계시간 38% 단축",
-        "source": "디지털데일리",
-        "url": "https://www.ddaily.co.kr/page/view/2026081810160984920"
       }
     },
     {
