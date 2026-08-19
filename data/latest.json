@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T02:17:31.461104+09:00",
-  "label": "02:17",
+  "timestamp": "2026-08-20T03:18:50.862745+09:00",
+  "label": "03:18",
   "items": [
     {
       "keyword": "연애",
@@ -33,9 +33,45 @@
       }
     },
     {
-      "keyword": "비트코인 시세",
+      "keyword": "롯데손해보험",
       "traffic_raw": "200+",
       "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "정규직",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"인력난에 정년 폐지\"…확산하는 일본 기업의 선택",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819151800331"
+      }
+    },
+    {
+      "keyword": "라리가",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'이강인 이름이 사라졌다' 아틀레티코 공식 데뷔전, 스페인 매체들 일제히 '선발 제외' 전망",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819174209533"
+      }
+    },
+    {
+      "keyword": "어우홍",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "1982년 세계야구선수권 우승 이끈 어우홍 전 감독 별세",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260819169900007"
+      }
+    },
+    {
+      "keyword": "비트코인",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
         "title": "[코인시세] 비트코인 6만 5천달러 돌파 후 '숨고르기'…코인시장 혼조",
         "source": "Daum",
@@ -43,29 +79,13 @@
       }
     },
     {
-      "keyword": "트럼프",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "트럼프 \"김정은, 57개 매우 강력한 핵무기 보유…연내 만날 것\"(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820013638776"
-      }
-    },
-    {
-      "keyword": "롯데손해보험",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "어우홍",
+      "keyword": "비트코인 시세",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘82년 세계선수권 우승 신화’ 어우홍 전 감독 별세…향년 95",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/sports/baseball/1273681.html"
+        "title": "[EBN 데이터센터] 암호화폐 시총 2조 2839억 달러 회복...비트코인 점유율 56.52%",
+        "source": "www.ebn.co.kr",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720683"
       }
     },
     {
@@ -73,29 +93,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[토토 투데이] 스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/18/202608181248770547O"
-      }
-    },
-    {
-      "keyword": "서승재",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'배드민턴 세계 1위' 서승재-김원호, 세계선수권 2연패 첫걸음…16강 안착",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819111610917"
-      }
-    },
-    {
-      "keyword": "디워2",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "19년 만에 터지더니…심형래 “‘디워2’ 제작 끝, 전 세계 동시 배급”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819173902399"
+        "title": "'라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260818n22074"
       }
     }
   ]
