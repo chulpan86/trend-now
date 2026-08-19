@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-20T03:18:50.862745+09:00",
-  "label": "03:18",
+  "timestamp": "2026-08-20T04:17:35.835418+09:00",
+  "label": "04:17",
   "items": [
     {
-      "keyword": "연애",
+      "keyword": "브레이브스 대 트윈스",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "넷플릭스 '모솔연애' 시즌3로…김노은 PD \"진정성으로 찾아뵐 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819172701997"
+        "title": "‘입지 흔들’ 김하성, 3경기 연속 결장…애틀랜타는 연패",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20260819/134502479/1"
       }
     },
     {
@@ -23,25 +23,9 @@
       }
     },
     {
-      "keyword": "김윤덕",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "빈 땅 찾다가 ‘용산공원 아파트’ 속도 내는 정부···“다른 공급 수단 충분히 검토했나”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608191705001"
-      }
-    },
-    {
-      "keyword": "롯데손해보험",
+      "keyword": "정규직",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "정규직",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
         "title": "\"인력난에 정년 폐지\"…확산하는 일본 기업의 선택",
         "source": "Daum",
@@ -50,8 +34,8 @@
     },
     {
       "keyword": "라리가",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "'이강인 이름이 사라졌다' 아틀레티코 공식 데뷔전, 스페인 매체들 일제히 '선발 제외' 전망",
         "source": "Daum",
@@ -59,13 +43,23 @@
       }
     },
     {
+      "keyword": "배우 김정은",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김정은, 연봉 10억 ♥남편과 러브스토리…\"3~4일 따라다녀, 한 달 만에 프러포즈\" [신랑수업2]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819133153042"
+      }
+    },
+    {
       "keyword": "어우홍",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "1982년 세계야구선수권 우승 이끈 어우홍 전 감독 별세",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260819169900007"
+        "title": "82년 세계야구 韓 첫 우승 이끈 어우홍 전 감독 별세",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/people/2026/08/19/A3LLLJ332ZHGFLQJ6FLLPOBI2I/"
       }
     },
     {
@@ -96,6 +90,16 @@
         "title": "'라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시",
         "source": "네이트",
         "url": "https://sports.news.nate.com/view/20260818n22074"
+      }
+    },
+    {
+      "keyword": "세제",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"캡슐형 세탁세제, 성능 제각각…가격 최대 6배 차이\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819144443479"
       }
     }
   ]
