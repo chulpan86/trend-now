@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-19T08:12:29.858539+09:00",
-  "label": "08:12",
+  "timestamp": "2026-08-19T09:38:44.258474+09:00",
+  "label": "09:38",
   "items": [
     {
-      "keyword": "운세",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "제니",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[오늘의 운세] 8월 18일 화요일 (음력 7월 6일) 띠별 운세",
+        "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870"
+      }
+    },
+    {
+      "keyword": "동아일보",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "정청래 “민주당 탈당말라…최민희·이성윤·한민수 당선은 소중한 성과”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11610246"
+      }
+    },
+    {
+      "keyword": "이상민",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[단독]이상민, 결혼 1년 만에 확 달라졌다..\"아내, 날 바꾼 유일한 사람\" [인터뷰②]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/bLAeKh9UTY?f=p"
+        "url": "https://v.daum.net/v/20260819063117685"
       }
     },
     {
-      "keyword": "천궁2",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "유용원 \"우크라에 지대공유도무기 '천궁-Ⅱ' 지원 검토해야\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260818096600001"
-      }
-    },
-    {
-      "keyword": "푸바오",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "푸바오·쌍둥이 동생 이름은 ‘O바오’···넷째 아기 판다 ‘전국민 이름 투표’ 시작",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608181610001"
-      }
-    },
-    {
-      "keyword": "농민",
+      "keyword": "배드민턴",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“파프리카 5㎏이 단돈 500원” 상자째 내던져진 농심",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819000850909"
+        "title": "배드민턴 세계 1위 중국 스위치, 세계선수권 첫판서 21세 인도 신인에 패해 탈락",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608182217003"
       }
     },
     {
-      "keyword": "hd현대",
+      "keyword": "홍민기",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "배우 홍민기, '데이트 폭력' 폭로글 올라와…소속사 대응은 '아직' [MD이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819082351641"
+      }
+    },
+    {
+      "keyword": "이슬람 혁명 수비대",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"미, 지난 5월 이란 혁수대 사령관과 비밀 접촉…회담은 무산\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/QwGWhDUZFP"
+      }
+    },
+    {
+      "keyword": "경주기행",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "노동부, '잇단 끼임 사망' HD현대중공업 고강도 감독 착수",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6845516_36918.html"
-      }
-    },
-    {
-      "keyword": "박용우",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "3년만에 K리그 돌아온 '국대MF' 박용우, 서울-인천 러브콜 뒤로 하고 울산 컴백 택했다[SC 비하인드]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/08/18/HBQWKNZUHFRGKNLGMZRDKODGGU/"
-      }
-    },
-    {
-      "keyword": "내가 만난 사이코패스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "7년 간 남편 시신 씻기며 살아온 아내…전현무 \"아이들 트라우마 어떡해\" [내사패]",
+        "title": "비극 속 유머와 통쾌한 복수극…영화 ‘경주기행’의 네 모녀",
         "source": "Daum",
-        "url": "https://v.daum.net/v/bfvz41d8OB"
+        "url": "https://v.daum.net/v/20260818173058012"
       }
     },
     {
-      "keyword": "하빕 누르마고메도프",
+      "keyword": "이창민",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이창민 \"19년째 새벽 5시 기상\"…무속인 \"50대에 건물주 된다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260818_0003752586"
+      }
+    },
+    {
+      "keyword": "3기 신도시",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "글러브 낀 하빕 복귀설에…화이트 “그는 102㎏”",
+        "title": "이민근 안산시장 “3기 신도시 시민 불편 최소화”…관계기관 협력 강화",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712803"
+      }
+    },
+    {
+      "keyword": "abl생명",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "우리금융, 동양생명·ABL생명 통합 착수",
         "source": "Daum",
-        "url": "https://v.daum.net/v/3J2a3T4qt8?f=p"
-      }
-    },
-    {
-      "keyword": "철도",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "철도통합무선망 마지막 구간 '태백선 등 12개 노선' 발주",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818153345731"
-      }
-    },
-    {
-      "keyword": "허찬미",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "허찬미, 밝은 에너지로 무대 장악…치명적인 매력으로 완성할 기분 좋은 일주일",
-        "source": "톱스타뉴스",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165483"
+        "url": "https://v.daum.net/v/20260819003653223"
       }
     }
   ]

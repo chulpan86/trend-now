@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-17T20:16:15.825764+09:00",
-    "label": "20:16",
-    "items": [
-      {
-        "keyword": "부모",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6260537"
-        }
-      },
-      {
-        "keyword": "김부선",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608171338003"
-        }
-      },
-      {
-        "keyword": "테라파워",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "韓에 'SMR 러브콜' 보낸 빌 게이츠…테라파워 vs K-SMR 경쟁력은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817063645627"
-        }
-      },
-      {
-        "keyword": "서미화",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보] 與전대 최고위원 최민희·박선원·서미화·이성윤·한민수順",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817185655853"
-        }
-      },
-      {
-        "keyword": "조 째즈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "임영웅, 요즘 연애 고민 있나…'말자쇼' 조째즈 \"최근 연애 상담해 줘\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817091129906"
-        }
-      },
-      {
-        "keyword": "대한민국",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "OECD 2위 결핵 발생국 대한민국…집단시설 관리체계는 ‘빈틈’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/health/1273276.html"
-        }
-      },
-      {
-        "keyword": "티비",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Christy Knowings, Who Starred on ’90s TV Show ‘All That,’ Dies at 46",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/08/14/arts/television/christy-knowings-dead.html"
-        }
-      },
-      {
-        "keyword": "디즈니",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817180209008"
-        }
-      },
-      {
-        "keyword": "제주 sk fc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817134508836"
-        }
-      },
-      {
-        "keyword": "상도동",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "상도동 국사봉 자락에 1840가구 친환경 단지 들어선다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817111649375"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-17T21:21:46.867064+09:00",
-    "label": "21:21",
-    "items": [
-      {
-        "keyword": "김부선",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817134009731"
-        }
-      },
-      {
-        "keyword": "부모",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6260537"
-        }
-      },
-      {
-        "keyword": "김태선",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "더불어민주당 새 당대표 '김민석'‥최고위원 1위 최민희",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845298_37004.html"
-        }
-      },
-      {
-        "keyword": "테라파워",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "韓에 'SMR 러브콜' 보낸 빌 게이츠…테라파워 vs K-SMR 경쟁력은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817063645627"
-        }
-      },
-      {
-        "keyword": "한민수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "당대표만큼 치열했던 최고위원 선거‥김용 탈락에 '친청' 과반",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845301_37004.html"
-        }
-      },
-      {
-        "keyword": "대한민국",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "광복절 경축식 영상에 독립운동 6인… 이승만 빠져",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/08/17/YZ5F4KBVMVGHVFH5LRRVF2HIGM/"
-        }
-      },
-      {
-        "keyword": "신세계",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260816034300030"
-        }
-      },
-      {
-        "keyword": "티비",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "What will TV look like in three years? Media insiders share their predictions",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html"
-        }
-      },
-      {
-        "keyword": "디즈니",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817180209008"
-        }
-      },
-      {
-        "keyword": "제주 sk fc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817134508836"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-17T22:31:55.783945+09:00",
     "label": "22:31",
     "items": [
@@ -3743,6 +3531,112 @@
           "title": "허찬미, 밝은 에너지로 무대 장악…치명적인 매력으로 완성할 기분 좋은 일주일",
           "source": "톱스타뉴스",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165483"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-19T09:38:44.258474+09:00",
+    "label": "09:38",
+    "items": [
+      {
+        "keyword": "제니",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870"
+        }
+      },
+      {
+        "keyword": "동아일보",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "정청래 “민주당 탈당말라…최민희·이성윤·한민수 당선은 소중한 성과”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11610246"
+        }
+      },
+      {
+        "keyword": "이상민",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독]이상민, 결혼 1년 만에 확 달라졌다..\"아내, 날 바꾼 유일한 사람\" [인터뷰②]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819063117685"
+        }
+      },
+      {
+        "keyword": "배드민턴",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "배드민턴 세계 1위 중국 스위치, 세계선수권 첫판서 21세 인도 신인에 패해 탈락",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608182217003"
+        }
+      },
+      {
+        "keyword": "홍민기",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "배우 홍민기, '데이트 폭력' 폭로글 올라와…소속사 대응은 '아직' [MD이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819082351641"
+        }
+      },
+      {
+        "keyword": "이슬람 혁명 수비대",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"미, 지난 5월 이란 혁수대 사령관과 비밀 접촉…회담은 무산\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QwGWhDUZFP"
+        }
+      },
+      {
+        "keyword": "경주기행",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "비극 속 유머와 통쾌한 복수극…영화 ‘경주기행’의 네 모녀",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818173058012"
+        }
+      },
+      {
+        "keyword": "이창민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이창민 \"19년째 새벽 5시 기상\"…무속인 \"50대에 건물주 된다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752586"
+        }
+      },
+      {
+        "keyword": "3기 신도시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이민근 안산시장 “3기 신도시 시민 불편 최소화”…관계기관 협력 강화",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712803"
+        }
+      },
+      {
+        "keyword": "abl생명",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "우리금융, 동양생명·ABL생명 통합 착수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819003653223"
         }
       }
     ]
