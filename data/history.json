@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-18T06:16:16.341916+09:00",
-    "label": "06:16",
-    "items": [
-      {
-        "keyword": "당대표",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[속보]김민석, 민주당 대표 당선…최민희 필두 ‘친청 3인’ 최고위원 입성",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11609941"
-        }
-      },
-      {
-        "keyword": "최애의 사원",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YCxlJW6b38"
-        }
-      },
-      {
-        "keyword": "정년",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YJlzUDUZs9"
-        }
-      },
-      {
-        "keyword": "퇴직",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818050009383"
-        }
-      },
-      {
-        "keyword": "국경",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham"
-        }
-      },
-      {
-        "keyword": "야생생물",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "fc온라인",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260817n16022"
-        }
-      },
-      {
-        "keyword": "데이터 센터",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818043652036"
-        }
-      },
-      {
-        "keyword": "대치동",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전세의 월세화…7년새 월세 비중 7.8%p 증가",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818052251872"
-        }
-      },
-      {
-        "keyword": "판문점 도끼",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-18T07:13:39.672815+09:00",
     "label": "07:13",
     "items": [
@@ -3559,6 +3457,108 @@
           "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
           "source": "The New York Times",
           "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-19T18:22:35.703677+09:00",
+    "label": "18:22",
+    "items": [
+      {
+        "keyword": "000660",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "SK Hynix (000660 KS): Synthetic Expert Call Transcript (18 Aug 2026)",
+          "source": "Smartkarma",
+          "url": "https://www.smartkarma.com/insights/sk-hynix-000660-ks-synthetic-expert-call-transcript-18-aug-2026?utm_medium=feed&utm_source=RSS"
+        }
+      },
+      {
+        "keyword": "하이닉스",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "SK하이닉스, 40조 자사주 소각 발표 왜 더 빨리 못했나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819162549202"
+        }
+      },
+      {
+        "keyword": "이동국",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[단독] 도메네크 토렌트, 축구대표팀 임시 감독 서류 전형 통과…모레 면접",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8639326"
+        }
+      },
+      {
+        "keyword": "백록담",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "백록담 물 몰래 먹는 밤도깨비족 꼼짝 마!···한라산에 열화상 카메라 단 드론 뜬다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608191129001"
+        }
+      },
+      {
+        "keyword": "cgv",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "경제 위기",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "디젤값 폭등해 미국경제 강타…중간선거 앞 트럼프에 악재",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260819026800009"
+        }
+      },
+      {
+        "keyword": "정승민",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "장윤주 딸, 아빠 정승민과 영국 근황 '엄마인 줄'..길쭉길쭉 감탄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xCvSAOB3Ss"
+        }
+      },
+      {
+        "keyword": "이수혁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이수혁 ‘하렘의 남자들’ 중도 하차…대체 투입 “논의 중” [공식]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260819/134501017/1"
+        }
+      },
+      {
+        "keyword": "삼계탕",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "농협 의령군지부, 취약농가 삼계탕 전달",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=592937"
+        }
+      },
+      {
+        "keyword": "신안산선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신안산선 광명구간 내달 공사 재개…주민·시·시공사, 안전선언",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/56fUaQhDtS"
         }
       }
     ]
