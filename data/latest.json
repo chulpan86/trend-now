@@ -1,41 +1,31 @@
 {
-  "timestamp": "2026-08-19T20:15:38.155973+09:00",
-  "label": "20:15",
+  "timestamp": "2026-08-19T21:23:36.462687+09:00",
+  "label": "21:23",
   "items": [
     {
-      "keyword": "키움 대 롯데",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "제니 의상사고 사진",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "믿기 힘들었던 7회 13점 폭격, 롯데 역사 새로 썼다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819140957699"
+        "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870"
       }
     },
     {
-      "keyword": "충남 아산 fc 대 대전",
+      "keyword": "윤석열",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "전북현대, 내일 전주성에서 코리아컵 16강전",
+        "title": "[속보] 특검, '계엄 관련 위증' 尹 2심서 벌금 1천만원 구형",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260818202811847"
-      }
-    },
-    {
-      "keyword": "장쯔이",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"6억 넣었는데 100배 뛰었다\"…작품 아닌 투자로 635억 대박 난 中 여배우",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026081910514289699"
+        "url": "https://v.daum.net/v/H2G6WZRfGa"
       }
     },
     {
       "keyword": "안양 대 제주",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "“선두 서울 잡아야 산다”…‘3연패’ FC안양, 반등 정조준",
         "source": "경기일보",
@@ -43,43 +33,63 @@
       }
     },
     {
-      "keyword": "정국",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "모더나",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"완벽한 보컬 선사\" 방탄소년단 정국 'Like Animals' 무대, 美 빌보드 극찬",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819070409198"
+        "title": "머크, 모더나와 공동 개발한 mRNA 암 치료제 3상 임상 성공… 흑색종 재발 방지 효과 입증",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1144938"
       }
     },
     {
-      "keyword": "발레바",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "티켓링크",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "절망 그 자체…'맨체스터 유나이티드 가고 싶다' 꿈의 이적 좌절, 관심 완전히 사라졌다→뉴캐슬이 러브콜! \"이적료 1250억 예상\"",
+        "title": "NHN링크, 뮤지컬 ‘드라큘라’ 전관 행사 실시…‘링크스페셜데이’ 12번째 무대",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260817223449966?f=p"
+        "url": "https://v.daum.net/v/GXoeeEpXCB"
       }
     },
     {
-      "keyword": "kbs 1tv 일일 드라마",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "김준환",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "정민아·동하 주연 KBS 일일드라마 '엄마가 미쳤어요' 다음 달 첫 방송",
+        "title": "민주당 의원, 탈북민 국힘 의원 향해 \"김일성 만세 하던 사람\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260819105307586"
+        "url": "https://v.daum.net/v/20260819172208812"
       }
     },
     {
-      "keyword": "인수 합병",
+      "keyword": "활주로",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "암호화폐 인수합병(M&A): 블록체인 산업의 트렌드",
-        "source": "FinanceFeeds",
-        "url": "https://financefeeds.com/ko/crypto-ma-trends-2025-2/"
+        "title": "긴급발진 마치고 착륙하다 ‘휘청’…일본 F-15 날개 활주로에 닿아 [현장영상]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8640458"
+      }
+    },
+    {
+      "keyword": "야구여왕",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'야구여왕2' 온라인 화제성·오프라인 직관까지…팬심↑",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819081950543"
+      }
+    },
+    {
+      "keyword": "김민종",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'새우등 터진' 김민종, MC몽 때문에 영화 강제 하차…스태프 울분의 댓글",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818203927045"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "늦여름 극장가 점령한 호러 '인시디어스'·'위커맨'",
         "source": "MBC 뉴스",
         "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845679_37012.html"
-      }
-    },
-    {
-      "keyword": "전국노래자랑",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘전국노래자랑’ 김다나, 오프닝 화려하게 장식",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817172444346"
       }
     }
   ]
