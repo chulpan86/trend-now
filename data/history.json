@@ -3668,5 +3668,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-20T00:20:45.305739+09:00",
+    "label": "00:20",
+    "items": [
+      {
+        "keyword": "연애",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "기안84 \"호기심에 참여\"…AI와 데이트 '기이한 연애'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819080908305"
+        }
+      },
+      {
+        "keyword": "hd현대중공업",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[포토타임] 설계는 HD현대중공업·건조는 페루…‘침보테함’ 진수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819145549074"
+        }
+      },
+      {
+        "keyword": "오싹한 연애",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "영화에서 드라마·웹툰까지…15년 된 IP 가 사랑받는 이유는?",
+          "source": "CJ 뉴스룸",
+          "url": "https://cjnews.cj.net/%EC%98%81%ED%99%94%EC%97%90%EC%84%9C-%EB%93%9C%EB%9D%BC%EB%A7%88%C2%B7%EC%9B%B9%ED%88%B0%EA%B9%8C%EC%A7%8015%EB%85%84-%EB%90%9C-ip-%EC%98%A4%EC%8B%B9%ED%95%9C-%EC%97%B0%EC%95%A0/"
+        }
+      },
+      {
+        "keyword": "김윤덕",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "靑, 오세훈 \"용산공원 사수\"에 \"오해…오염된 자투리땅에 청년주택\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819212042980"
+        }
+      },
+      {
+        "keyword": "kbo",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "KBO funeral chair Kim So-sik honors late manager Baek In-cheon - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/19/L2ZZ2OXD4VDRTDQ5D5NJXEQJD4/"
+        }
+      },
+      {
+        "keyword": "롯데손해보험",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "moderna stock",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html"
+        }
+      },
+      {
+        "keyword": "포수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신인왕 경쟁 다크호스로 충분하다...‘14홈런’ LG 新 4번타자, 왜 “절대 욕심나지 않습니다” 손사래 쳤을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/peN9XUgRlK"
+        }
+      },
+      {
+        "keyword": "야구 순위",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[프로야구] 전적 종합(19일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6263670"
+        }
+      },
+      {
+        "keyword": "서승재",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "셔틀콕 '세계 1위' 서승재·김원호, 세계선수권 2연패 시동",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/V5dAOzjJG9"
+        }
+      }
+    ]
   }
 ]
