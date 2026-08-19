@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-19T16:29:56.623596+09:00",
-  "label": "16:29",
+  "timestamp": "2026-08-19T17:23:43.797092+09:00",
+  "label": "17:23",
   "items": [
     {
       "keyword": "이호선 상담소",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "\"아이는 또 낳으면 되니까\"…물에 빠진 아들 구조하다 나와버린 엄마",
         "source": "뉴스1",
@@ -13,23 +13,53 @@
       }
     },
     {
-      "keyword": "이의리",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "하이닉스",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "KIA 3연승, 네일·이의리만 빛난 게 아니다…베테랑 안방마님의 진심 \"하위권 팀처럼 야구하면 안 되잖아요\" [대전 인터뷰]",
+        "title": "삼성전자·SK하이닉스 동반 급락…하이닉스 40조원 자사주 소각",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260819123507417"
+        "url": "https://v.daum.net/v/20260819161307499"
       }
     },
     {
-      "keyword": "민방위 훈련",
+      "keyword": "기아",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "기아 무브 앤 커넥트 2기 공모…돌봄기관에 전기차 17대 지원",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819120529658"
+      }
+    },
+    {
+      "keyword": "혼다 마린",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/19/2026081822162772667"
+      }
+    },
+    {
+      "keyword": "한라산",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "목요일 오후 2시부터 전국 민방위 훈련...사이렌 울리면 대피하세요",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819133209059"
+        "title": "백록담 물 몰래 먹는 밤도깨비족 꼼짝 마!···한라산에 열화상 카메라 단 드론 뜬다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608191129001"
+      }
+    },
+    {
+      "keyword": "승무원",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "하늘에서 일하는 승무원·조종사, ‘방사선 관련 암’ 사망 1·2위 [건강팩트체크]",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/It/article/all/20260818/134495438/2"
       }
     },
     {
@@ -53,33 +83,13 @@
       }
     },
     {
-      "keyword": "전국장애인차별철폐연대",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "전장연, 출근길 지하철 탑승시위 중단하기로…박홍근 “장애인 예산 검토할것”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608191605001"
-      }
-    },
-    {
-      "keyword": "조태용",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘비화폰 증거인멸·계엄 위증’ 조태용, 2심 징역 2년 6개월…형량 1년 늘어",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8640457"
-      }
-    },
-    {
-      "keyword": "승무원",
+      "keyword": "신안산선",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "아이들과 케이크 만들고 웃음꽃...에어프레미아 승무원의 특별한 나눔",
-        "source": "ER 이코노믹리뷰",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=748352"
+        "title": "신안산선 광명구간 내달 공사 재개…주민·시·시공사, 안전선언",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/56fUaQhDtS"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
         "source": "The New York Times",
         "url": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html"
-      }
-    },
-    {
-      "keyword": "경제위기",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“이미 경제위기, 서민 삶 붕괴되고 있다”...디젤값이 폭등하면 벌어지는 일",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12130828"
       }
     }
   ]
