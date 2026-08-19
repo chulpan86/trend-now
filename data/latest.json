@@ -1,31 +1,11 @@
 {
-  "timestamp": "2026-08-19T13:26:36.458287+09:00",
-  "label": "13:26",
+  "timestamp": "2026-08-19T14:20:06.036084+09:00",
+  "label": "14:20",
   "items": [
     {
-      "keyword": "투싼 신형",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "현대차, 디 올 뉴 투싼 디자인 공개 | 뉴스 | 현대자동차그룹",
-        "source": "Hyundai Motor Group",
-        "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-the-all-new-tucson-design-reveal"
-      }
-    },
-    {
-      "keyword": "트럭",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "영천서 덤프트럭·생활폐기물 수거차량 충돌···업체 직원 3명 숨져",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608190802011"
-      }
-    },
-    {
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "그랜드 테 프트 오토 vi",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "석 달 앞 'GTA6' 출시…국내외 게임사들 눈치 싸움",
         "source": "아시아경제",
@@ -33,9 +13,49 @@
       }
     },
     {
+      "keyword": "하이닉스 주가",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“AI 메모리 없어서 못 판다더니 왜?”…美 ‘지금 사야 할 10대 주식’서 빠진 하이닉스",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12130977"
+      }
+    },
+    {
+      "keyword": "환율",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "원·달러 환율 장중 1300원대 하락…10개월 반만에 처음",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819133107008"
+      }
+    },
+    {
+      "keyword": "공동 명의",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[정책 바로보기] 부부 공동명의, 다주택자로만 과세?",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970229"
+      }
+    },
+    {
+      "keyword": "이혼",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "하리수 \"미키정과 이혼 후에도 응원…재혼 생각은 없어\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260819_0003753840"
+      }
+    },
+    {
       "keyword": "피겨스케이팅",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이",
         "source": "머니투데이",
@@ -43,29 +63,19 @@
       }
     },
     {
-      "keyword": "아랍에미리트",
+      "keyword": "무덤",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“미사일 쐈지?” 분노한 UAE, 이란 ‘마지막 돈줄’ 완전히 끊었다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819105109479"
-      }
-    },
-    {
-      "keyword": "소지섭",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "소지섭, 사고 쳤다…'김부장' 시즌2 스포일러 \"팀으로 움직일 듯\" [화보]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818085139204"
+        "title": "\"죽음이 두렵지 않게\" 아버지가 팠던 딸 무덤…9년 뒤 기적이 일어났다",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/world/global-topic/6262488"
       }
     },
     {
       "keyword": "f-35a",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "Germany’s first F-35 leaves final assembly as Luftwaffe eyes 15 more",
         "source": "Aerospace Global News",
@@ -73,33 +83,23 @@
       }
     },
     {
-      "keyword": "인천지하철",
+      "keyword": "1달러",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "인천교통공사, 전동차내 폭행 제지한 모범시민에 포상",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026081817470000834"
+        "title": "리플 4파 조정 끝내고 5파 반등 시동… 대장주 추월할까",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Securities/2026/08/202608190523499405e7e8286d56_1"
       }
     },
     {
-      "keyword": "유니트리",
+      "keyword": "hj중공업",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'中휴머노이드 대표주자' 유니트리 상장 첫날 주가 400%대 급등",
+        "title": "\"작은집도 슈퍼사이클\"…K-중소 조선사, 상반기 실적 2배 '껑충'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260819112644552"
-      }
-    },
-    {
-      "keyword": "말린스 대 필리스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "필라델피아 산체스, 1회초 마이애미전 선발 투구",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667852"
+        "url": "https://v.daum.net/v/20260817155551515?f=p"
       }
     }
   ]
