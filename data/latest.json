@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-08-19T12:37:57.363573+09:00",
-  "label": "12:37",
+  "timestamp": "2026-08-19T13:26:36.458287+09:00",
+  "label": "13:26",
   "items": [
+    {
+      "keyword": "투싼 신형",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "현대차, 디 올 뉴 투싼 디자인 공개 | 뉴스 | 현대자동차그룹",
+        "source": "Hyundai Motor Group",
+        "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-the-all-new-tucson-design-reveal"
+      }
+    },
     {
       "keyword": "트럭",
       "traffic_raw": "5000+",
@@ -13,13 +23,23 @@
       }
     },
     {
-      "keyword": "투싼 신형",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "그랜드 테프트 오토 vi",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "현대차, 디 올 뉴 투싼 디자인 공개 | 뉴스 | 현대자동차그룹",
-        "source": "Hyundai Motor Group",
-        "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-the-all-new-tucson-design-reveal"
+        "title": "석 달 앞 'GTA6' 출시…국내외 게임사들 눈치 싸움",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026081810135001512"
+      }
+    },
+    {
+      "keyword": "피겨스케이팅",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/19/2026081822162772667"
       }
     },
     {
@@ -43,13 +63,13 @@
       }
     },
     {
-      "keyword": "영등포구",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "f-35a",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "영등포구, 재개발 상담센터 상담·수강 6000건 돌파",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026081908222868771"
+        "title": "Germany’s first F-35 leaves final assembly as Luftwaffe eyes 15 more",
+        "source": "Aerospace Global News",
+        "url": "https://aerospaceglobalnews.com/news/germany-first-f35a-final-assembly/"
       }
     },
     {
@@ -57,9 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "인천2호선 승객 폭행 제지한 시민…감사패 전달돼",
-        "source": "국민일보",
-        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000004037&code=61122012&sid1=soc"
+        "title": "인천교통공사, 전동차내 폭행 제지한 모범시민에 포상",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026081817470000834"
       }
     },
     {
@@ -77,29 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "필라델피아 산체스, 마이애미전 1회초 투구",
+        "title": "필라델피아 산체스, 1회초 마이애미전 선발 투구",
         "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667850"
-      }
-    },
-    {
-      "keyword": "이스타항공",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "한국서 갈아타는 중국인 74% 급증… 제주항공 환승객 10만 명 넘었다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818100003433"
-      }
-    },
-    {
-      "keyword": "안태준",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "개인택시 ‘5년 족쇄’ 푼다…안태준 의원, 단기 차익거래 막는 안전장치 발의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qDd5KdyOvl"
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667852"
       }
     }
   ]
