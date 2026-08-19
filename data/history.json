@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-18T16:28:59.070912+09:00",
-    "label": "16:28",
-    "items": [
-      {
-        "keyword": "대치동 은마아파트",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"대치동 떠날 수가 없는데\"…강남 집주인들 '초비상' 걸린 이유 [시장톡]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081411596"
-        }
-      },
-      {
-        "keyword": "한국인의 밥상",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김혜수, 의리 빛났다... 최수종 ‘한국인의 밥상’에 커피차·간식차 지원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818125849449"
-        }
-      },
-      {
-        "keyword": "김정화",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김정화, 뇌종양 투병 남편 근황 \"시한폭탄 안고 산다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/18/2026081808495267886"
-        }
-      },
-      {
-        "keyword": "연기금",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "사상 최대 외국인 순매수에도 웃을 수 없는 이유",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/08/18/3VE7ZWGXFVBIBNLHRGJQMPG3QQ/"
-        }
-      },
-      {
-        "keyword": "과천선",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[단독] 위례과천선 서초 우면동 경유…과천시 패싱에 반발 커질 듯",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/08/18/2026081801378.html"
-        }
-      },
-      {
-        "keyword": "대만",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "반도체로 번 돈 全국민에 44만원씩 쏜다…대만 ‘AI보너스’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818140127295"
-        }
-      },
-      {
-        "keyword": "과징금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "동네에 많이 보이던 다비치안경, 이런 부당 행위를···판매 목표 강제로 14억8000만원 과징금",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608171402001"
-        }
-      },
-      {
-        "keyword": "천궁-2",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"우크라에 천궁2 지원해야\" 국힘 의원 주장..러 보복에 무대책",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3Ts0XIb0cl"
-        }
-      },
-      {
-        "keyword": "코레일 채용",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "열대 저기압",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[기상] 동해(남중국해)에 열대저기압 형성… 북부 해상 풍랑 주의",
-          "source": "굿모닝베트남미디어",
-          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=83142"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-18T17:23:28.381003+09:00",
     "label": "17:23",
     "items": [
@@ -3759,6 +3657,112 @@
           "title": "\"캡슐형 세탁세제, 성능 제각각…가격 최대 6배 차이\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260819144443479"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-20T05:15:08.451889+09:00",
+    "label": "05:15",
+    "items": [
+      {
+        "keyword": "브레이브스 대 트윈스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"악몽이라는 표현으로는 부족할 정도\" 김하성 추락에 美 매체도 경악…결국 샌디에이고 판단이 옳았나 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/20/202608192014779937O"
+        }
+      },
+      {
+        "keyword": "정년",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "인천시교육청, 교육공무직 68명에 교육감 표창",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712881"
+        }
+      },
+      {
+        "keyword": "라리가",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "9년 전엔 그리즈만, 이번엔 이강인...말라가 상대 AT마드리드 ‘7번의 데뷔’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YVp0jDUZku"
+        }
+      },
+      {
+        "keyword": "barcelona vs al ahly",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Amouta Announces Al Ahly’s Lineup to Face Barcelona in Joan Gamper Trophy",
+          "source": "كورة بريك",
+          "url": "https://koorabreak.com/en/328889/"
+        }
+      },
+      {
+        "keyword": "송영길",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이 대통령, 김민석·정청래·송영길과 만찬…김 “전대 때 과한 표현 사과”, 정 “우린 내란의 사선 넘은 동지”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608192227001"
+        }
+      },
+      {
+        "keyword": "정규직",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"인력난에 정년 폐지\"…확산하는 일본 기업의 선택",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819151800331"
+        }
+      },
+      {
+        "keyword": "어우홍",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "82년 세계야구 韓 첫 우승 이끈 어우홍 전 감독 별세",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/people/2026/08/19/A3LLLJ332ZHGFLQJ6FLLPOBI2I/"
+        }
+      },
+      {
+        "keyword": "배우 김정은",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김정은, 연봉 10억 ♥남편과 러브스토리…\"3~4일 따라다녀, 한 달 만에 프러포즈\" [신랑수업2]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819133153042"
+        }
+      },
+      {
+        "keyword": "비트코인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[코인시세] 비트코인 6만 5천달러 돌파 후 '숨고르기'…코인시장 혼조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819101439657"
+        }
+      },
+      {
+        "keyword": "비트코인 시세",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[EBN 데이터센터] 암호화폐 시총 2조 2839억 달러 회복...비트코인 점유율 56.52%",
+          "source": "www.ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720683"
         }
       }
     ]
