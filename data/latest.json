@@ -1,25 +1,15 @@
 {
-  "timestamp": "2026-08-20T00:20:45.305739+09:00",
-  "label": "00:20",
+  "timestamp": "2026-08-20T01:19:01.634659+09:00",
+  "label": "01:19",
   "items": [
     {
       "keyword": "연애",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "기안84 \"호기심에 참여\"…AI와 데이트 '기이한 연애'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819080908305"
-      }
-    },
-    {
-      "keyword": "hd현대중공업",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[포토타임] 설계는 HD현대중공업·건조는 페루…‘침보테함’ 진수",
+        "title": "넷플릭스 '모솔연애' 시즌3로…김노은 PD \"진정성으로 찾아뵐 것\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260819145549074"
+        "url": "https://v.daum.net/v/20260819172701997"
       }
     },
     {
@@ -27,9 +17,9 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "영화에서 드라마·웹툰까지…15년 된 IP 가 사랑받는 이유는?",
-        "source": "CJ 뉴스룸",
-        "url": "https://cjnews.cj.net/%EC%98%81%ED%99%94%EC%97%90%EC%84%9C-%EB%93%9C%EB%9D%BC%EB%A7%88%C2%B7%EC%9B%B9%ED%88%B0%EA%B9%8C%EC%A7%8015%EB%85%84-%EB%90%9C-ip-%EC%98%A4%EC%8B%B9%ED%95%9C-%EC%97%B0%EC%95%A0/"
+        "title": "\"연기의 神인 이유 있었다\"...'오싹한 연애' 쉬는 시간마다 '대본' 붙잡고 '열공'하는 박은빈 포착",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819203837152"
       }
     },
     {
@@ -43,13 +33,23 @@
       }
     },
     {
+      "keyword": "trực tiếp bóng đá việt nam",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Hai thái cực trái ngược ở họp báo trước trận Việt Nam - Malaysia",
+        "source": "VnExpress",
+        "url": "https://vnexpress.net/hai-thai-cuc-trai-nguoc-o-hop-bao-truoc-tran-viet-nam-malaysia-5110392.html"
+      }
+    },
+    {
       "keyword": "kbo",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "KBO funeral chair Kim So-sik honors late manager Baek In-cheon - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/08/19/L2ZZ2OXD4VDRTDQ5D5NJXEQJD4/"
+        "title": "Four-way fight: KBO MVP race heats up as season hits home stretch",
+        "source": "Korea JoongAng Daily",
+        "url": "https://www.koreajoongangdaily.com/sports/fourway-fight-kbo-mvp-race-heats-up-as-season-hits-home-stretch/12827484"
       }
     },
     {
@@ -63,29 +63,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+        "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html"
       }
     },
     {
-      "keyword": "포수",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "토토",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "신인왕 경쟁 다크호스로 충분하다...‘14홈런’ LG 新 4번타자, 왜 “절대 욕심나지 않습니다” 손사래 쳤을까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/peN9XUgRlK"
-      }
-    },
-    {
-      "keyword": "야구 순위",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[프로야구] 전적 종합(19일)",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/baseball/6263670"
+        "title": "'라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260818n22074"
       }
     },
     {
@@ -96,6 +86,16 @@
         "title": "셔틀콕 '세계 1위' 서승재·김원호, 세계선수권 2연패 시동",
         "source": "Daum",
         "url": "https://v.daum.net/v/V5dAOzjJG9"
+      }
+    },
+    {
+      "keyword": "디워2",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "19년 만에 터지더니…심형래 “‘디워2’ 제작 끝, 전 세계 동시 배급”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819173902399"
       }
     }
   ]
