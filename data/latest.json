@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T03:23:07.750602+09:00",
-  "label": "03:23",
+  "timestamp": "2026-08-21T04:22:59.102804+09:00",
+  "label": "04:22",
   "items": [
     {
       "keyword": "오디세이",
@@ -23,13 +23,23 @@
       }
     },
     {
+      "keyword": "트롬쇠 대 브라이턴",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Tromsø 0-0 Brighton: Seagulls held in Conference League play-off first leg",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cmkgvvnx93vlt"
+      }
+    },
+    {
       "keyword": "이재용",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820185709701"
+        "title": "사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/enter_general/2026/08/20/GE4DSNZSG43GKNLEMJSTCZDEGU/"
       }
     },
     {
@@ -43,23 +53,23 @@
       }
     },
     {
-      "keyword": "이륙",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820143438738"
-      }
-    },
-    {
-      "keyword": "트롬쇠 대 브라이턴",
+      "keyword": "브라질",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "UEFA Conference League LIVE: Tromsø vs Brighton & Hove Albion - text updates, scores, stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cmkgvvnx93vlt"
+        "title": "룰라 핵잠수함 사업 강행…\"브라질 평생 고개 숙일 순 없어\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/7GVdtPCE1J"
+      }
+    },
+    {
+      "keyword": "크랙",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"게임 아니라며?\" 지스타 간판 된 크랙…'게임 기능' 심사는 누가 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/tech/2026/08/20/2026081911193094191"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
         "source": "Daum",
         "url": "https://v.daum.net/v/uFZWTXMVk4"
-      }
-    },
-    {
-      "keyword": "강남구",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/estate/2026/08/21/2026082019043159007"
       }
     }
   ]
