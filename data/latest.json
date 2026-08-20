@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-08-21T02:19:23.856067+09:00",
-  "label": "02:19",
+  "timestamp": "2026-08-21T03:23:07.750602+09:00",
+  "label": "03:23",
   "items": [
     {
       "keyword": "오디세이",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "\"천만 영화보다 폭발적\"..'오디세이', 전무후무 신기록→3주차에 예매량 70만장",
+        "title": "'범죄도시4'도 넘었다…대기 4만 명에 앱 마비시킨 이 작품 ('오디세이')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260820160238273"
+        "url": "https://v.daum.net/v/20260820161844126"
       }
     },
     {
-      "keyword": "한화",
+      "keyword": "삼성 전자 주주 환원",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'0-2에서 10-6까지 역전, 또 역전' KIA, 한화에 10-6 승리···스윕승 성공",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820224823254"
-      }
-    },
-    {
-      "keyword": "코오롱티슈진",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "코오롱티슈진, 美 본사 몸집 줄이기…'TG-C' 상업화 인력 줄였다 - 머니투데이",
+        "title": "[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\" - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/thebio/2026/08/19/2026081915172626540"
+        "url": "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910"
+      }
+    },
+    {
+      "keyword": "이재용",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260820185709701"
       }
     },
     {
@@ -37,9 +37,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[사진]힐리어드, 타점 공동 1위 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/sports_photo/2026/08/20/GM4DCYJZGI2DOOLFMMYGGYJYGQ/"
+        "title": "[포토]적시타는 못참지! '1회초 타점올린' 힐리어드 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082019415493269"
       }
     },
     {
@@ -47,19 +47,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "일본 나리타공항 이륙 준비 중 항공기 엔진서 연기…활주로 폐쇄",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820143407SgN"
+        "title": "“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260820143438738"
       }
     },
     {
-      "keyword": "이재용",
+      "keyword": "트롬쇠 대 브라이턴",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820185709701"
+        "title": "UEFA Conference League LIVE: Tromsø vs Brighton & Hove Albion - text updates, scores, stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cmkgvvnx93vlt"
       }
     },
     {
@@ -89,7 +89,7 @@
       "news": {
         "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260820102810238"
+        "url": "https://v.daum.net/v/uFZWTXMVk4"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "세제 개편 여파? 강남·서초 ‘하락’…중저가는 ‘상승’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8642052"
+        "title": "\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/estate/2026/08/21/2026082019043159007"
       }
     }
   ]
