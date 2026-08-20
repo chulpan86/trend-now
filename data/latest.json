@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-21T01:21:50.268637+09:00",
-  "label": "01:21",
+  "timestamp": "2026-08-21T02:19:23.856067+09:00",
+  "label": "02:19",
   "items": [
     {
       "keyword": "오디세이",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "\"천만 영화보다 폭발적\"..'오디세이', 전무후무 신기록→3주차에 예매량 70만장",
         "source": "Daum",
@@ -17,9 +17,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'김태군 역전 투런포' KIA, 시즌 첫 3위 도약…한화, 8위 추락(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260820187200007"
+        "title": "'0-2에서 10-6까지 역전, 또 역전' KIA, 한화에 10-6 승리···스윕승 성공",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260820224823254"
       }
     },
     {
@@ -33,23 +33,13 @@
       }
     },
     {
-      "keyword": "야구 순위",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "이예빈",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "◇오늘의 경기(20일)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260819174500007"
-      }
-    },
-    {
-      "keyword": "배우",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "홍민기 전 연인 추가 폭로…\"임신중절 종용, 법적 대응할 것\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260819_0003754984"
+        "title": "[사진]힐리어드, 타점 공동 1위 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/sports/sports_photo/2026/08/20/GM4DCYJZGI2DOOLFMMYGGYJYGQ/"
       }
     },
     {
@@ -60,6 +50,16 @@
         "title": "일본 나리타공항 이륙 준비 중 항공기 엔진서 연기…활주로 폐쇄",
         "source": "연합뉴스TV",
         "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820143407SgN"
+      }
+    },
+    {
+      "keyword": "이재용",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260820185709701"
       }
     },
     {
@@ -89,7 +89,7 @@
       "news": {
         "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/uFZWTXMVk4"
+        "url": "https://v.daum.net/v/20260820102810238"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"서초 아파트 팔고 남양주로\"‥서울 서초·강남 집값 2주 연속 하락",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846173_37004.html"
+        "title": "세제 개편 여파? 강남·서초 ‘하락’…중저가는 ‘상승’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8642052"
       }
     }
   ]
