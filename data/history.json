@@ -3680,5 +3680,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-21T00:23:46.846202+09:00",
+    "label": "00:23",
+    "items": [
+      {
+        "keyword": "오디세이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"티켓 한 장에 10만원?\"…'오디세이' 암표 극성에 영진위 칼 뺐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HYin4xlwCO?f=p"
+        }
+      },
+      {
+        "keyword": "한화",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'김태군 역전 투런포' KIA, 시즌 첫 3위 도약…한화, 8위 추락(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260820187200007"
+        }
+      },
+      {
+        "keyword": "코오롱티슈진",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "코오롱티슈진, 美 본사 몸집 줄이기…'TG-C' 상업화 인력 줄였다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/08/19/2026081915172626540"
+        }
+      },
+      {
+        "keyword": "야구 순위",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "◇오늘의 경기(20일)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260819174500007"
+        }
+      },
+      {
+        "keyword": "배우",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "홍민기 전 연인 추가 폭로…\"임신중절 종용, 법적 대응할 것\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260819_0003754984"
+        }
+      },
+      {
+        "keyword": "이륙",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820143438738"
+        }
+      },
+      {
+        "keyword": "김서현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "돌아온 ‘한화 필승조’…가을야구 구세주 될까?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8640286"
+        }
+      },
+      {
+        "keyword": "리플",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "에버노스 \"1주당 XRP 가치 더 올린다\"…나스닥 상장 앞두고 승부수",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/08/202608151704077669e250e8e188_1"
+        }
+      },
+      {
+        "keyword": "욕조",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820102810238"
+        }
+      },
+      {
+        "keyword": "강남구",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"서초 아파트 팔고 남양주로\"‥서울 서초·강남 집값 2주 연속 하락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820203409863"
+        }
+      }
+    ]
   }
 ]
