@@ -3574,5 +3574,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-20T21:25:40.751170+09:00",
+    "label": "21:25",
+    "items": [
+      {
+        "keyword": "레버리지",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "이달 ETF 거래대금 '반토막'…\"단일 레버리지 규제 영향\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820080152400"
+        }
+      },
+      {
+        "keyword": "박은빈",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"연기의 神인 이유 있었다\"...'오싹한 연애' 쉬는 시간마다 '대본' 붙잡고 '열공'하는 박은빈 포착",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819203837152"
+        }
+      },
+      {
+        "keyword": "휴대 전화",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "안민석표 ‘폰 프리 스쿨’ 탄력…경기도의회, 관련 조례 개정안 입법예고",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260820580051"
+        }
+      },
+      {
+        "keyword": "주차",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'문콕' 절대 없겠네…2톤 차도 번쩍 들어 착착 '주차로봇'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820204949070"
+        }
+      },
+      {
+        "keyword": "류현진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'두 달 넘게 무승이라니' 류현진 또또 승리 실패…6이닝 5K 4실점 '패전 위기' [오!쎈 대전] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/20/202608202054779266O"
+        }
+      },
+      {
+        "keyword": "청주 kb 스타즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘28살에 신인?’ 재일교포 가네다, WKBL 전체 1순위",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641178"
+        }
+      },
+      {
+        "keyword": "조경태",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "국힘 윤리위, 조경태 당원권 정지 2년 6개월·진종오 2년·권영진 1년6개월 의결",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608201958001"
+        }
+      },
+      {
+        "keyword": "이정범",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "SSG 웨이버 방출→KT 트레이드 영입…미완의 유망주, 안타-안타-2루타→이적 후 4할 맹타 “기회를 못 잡아 아쉬웠다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820104311972"
+        }
+      },
+      {
+        "keyword": "한기호",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "안규백 “탈영 의혹 사실이면 제가 한기호 의원 아들” [지금뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641699"
+        }
+      },
+      {
+        "keyword": "lg에너지솔루션",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "LG에너지솔루션, 북미 ESS 핵심 거점…랜싱 공장 본격 가동",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608192041025"
+        }
+      }
+    ]
   }
 ]
