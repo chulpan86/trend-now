@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-19T19:18:13.909919+09:00",
-    "label": "19:18",
-    "items": [
-      {
-        "keyword": "용아맥",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "‘오디세이’ 티켓이 10만원대…암표 기승에 영진위 제보창구 개설",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819112037164"
-        }
-      },
-      {
-        "keyword": "정은경",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "정은경 \"국민연금 리밸런싱 유예, 시장 변동성 때문\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819175840160"
-        }
-      },
-      {
-        "keyword": "장쯔이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"6억 넣었는데 100배 뛰었다\"…작품 아닌 투자로 635억 대박 난 中 여배우",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081910514289699"
-        }
-      },
-      {
-        "keyword": "인수 합병",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "암호화폐 인수합병(M&A): 블록체인 산업의 트렌드",
-          "source": "FinanceFeeds",
-          "url": "https://financefeeds.com/ko/crypto-ma-trends-2025-2/"
-        }
-      },
-      {
-        "keyword": "biiig",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "BIGBANG set to drop new single on 20th anniv. of debut",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260819004300315"
-        }
-      },
-      {
-        "keyword": "빅뱅 신곡",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "데뷔 20주년 ‘3인조 빅뱅’…신곡 들고 세계로",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000545828.do"
-        }
-      },
-      {
-        "keyword": "삼계탕",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "해운대구 좌2동 지역사회보장협의체, 말복 맞이 취약계층 1인 가구에 ‘사랑의 삼계탕’ 전달",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260818.99099004970"
-        }
-      },
-      {
-        "keyword": "미국 재무부 채권",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[김종인] 미국 장기 국채금리 급등…원인과 전망은",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260819101606"
-        }
-      },
-      {
-        "keyword": "등산",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "카더가든 생고생 시작…'대체 등산을 왜 하는건데' 관전 포인트는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818150000140"
-        }
-      },
-      {
-        "keyword": "에드윈 디아스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "다저스, WS 3연패 도전 '비상'…부진한 마무리 디아스, 또 부상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819095128349"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-19T20:15:38.155973+09:00",
-    "label": "20:15",
-    "items": [
-      {
-        "keyword": "키움 대 롯데",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "믿기 힘들었던 7회 13점 폭격, 롯데 역사 새로 썼다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819140957699"
-        }
-      },
-      {
-        "keyword": "충남 아산 fc 대 대전",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "전북현대, 내일 전주성에서 코리아컵 16강전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818202811847"
-        }
-      },
-      {
-        "keyword": "장쯔이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"6억 넣었는데 100배 뛰었다\"…작품 아닌 투자로 635억 대박 난 中 여배우",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081910514289699"
-        }
-      },
-      {
-        "keyword": "안양 대 제주",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“선두 서울 잡아야 산다”…‘3연패’ FC안양, 반등 정조준",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260819580045"
-        }
-      },
-      {
-        "keyword": "정국",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"완벽한 보컬 선사\" 방탄소년단 정국 'Like Animals' 무대, 美 빌보드 극찬",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819070409198"
-        }
-      },
-      {
-        "keyword": "발레바",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "절망 그 자체…'맨체스터 유나이티드 가고 싶다' 꿈의 이적 좌절, 관심 완전히 사라졌다→뉴캐슬이 러브콜! \"이적료 1250억 예상\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817223449966?f=p"
-        }
-      },
-      {
-        "keyword": "kbs 1tv 일일 드라마",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "정민아·동하 주연 KBS 일일드라마 '엄마가 미쳤어요' 다음 달 첫 방송",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819105307586"
-        }
-      },
-      {
-        "keyword": "인수 합병",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "암호화폐 인수합병(M&A): 블록체인 산업의 트렌드",
-          "source": "FinanceFeeds",
-          "url": "https://financefeeds.com/ko/crypto-ma-trends-2025-2/"
-        }
-      },
-      {
-        "keyword": "인시디어스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "늦여름 극장가 점령한 호러 '인시디어스'·'위커맨'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845679_37012.html"
-        }
-      },
-      {
-        "keyword": "전국노래자랑",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘전국노래자랑’ 김다나, 오프닝 화려하게 장식",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817172444346"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-19T21:23:36.462687+09:00",
     "label": "21:23",
     "items": [
@@ -3787,6 +3575,112 @@
           "title": "\"살인 청부 검색까지'...원주 세 모녀 살인미수 10대 중형",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0115_202608201703540588"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-21T08:15:48.711848+09:00",
+    "label": "08:15",
+    "items": [
+      {
+        "keyword": "김민재",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'韓 괴물 수비수' 김민재, 바이에른 뮌헨 떠나 프리미어리그 무대 밟나…\"맨체스터 유나이티드, 센터백 보강 위해 지속적 관심\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820224637234"
+        }
+      },
+      {
+        "keyword": "노동조합",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“현대차, 협력업체에 최대 20% 원가절감 요구”…파업 맨 앞에 선 부품사",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608201644001"
+        }
+      },
+      {
+        "keyword": "쓰레기봉투",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "쓰레기봉투 이불 속에서 돈다발 ‘우르르’…유족 품으로",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260820505150"
+        }
+      },
+      {
+        "keyword": "weather",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Remembering when the weather forecast came from Penny Lee",
+          "source": "Williamson Herald",
+          "url": "https://www.williamsonherald.com/opinion/columns/remembering-when-the-weather-forecast-came-from-penny-lee/article_fa451268-59fe-4ae4-9421-92483edb2100.html"
+        }
+      },
+      {
+        "keyword": "погода",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Какой будет погода 21 августа – прогноз",
+          "source": "Cursorinfo",
+          "url": "https://cursorinfo.co.il/weather/kakoj-budet-pogoda-21-avgusta-prognoz/"
+        }
+      },
+      {
+        "keyword": "สภาพอากาศ",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "มีเรื่องต้องคุย 20-08-69 | BUGABOO.TV - New Variety Shows, Travel, Music, Sports & Talk Shows",
+          "source": "www.bugaboo.tv",
+          "url": "https://www.bugaboo.tv/en/variety/mirueangtongkhui/1787227759287/"
+        }
+      },
+      {
+        "keyword": "skhy",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SK Hynix Could Return Additional 180 Trillion Won to Shareholders",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/market-money-en/2026/08/20/5LDVBTWJSFFDJOIPUKYBWJ7CTQ/"
+        }
+      },
+      {
+        "keyword": "로스앤젤레스 다저스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“내 인생에서 (이런 부진은)처음이야” 다저스 3358억원 외야수 솔직고백…OPS 0.7 붕괴, 기대타율 2푼짜리 타구도 놓치고 '최악의 시즌'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819180149290"
+        }
+      },
+      {
+        "keyword": "주성엔지니어링",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "특징주, 주성엔지니어링-반도체 장비 테마 상승세에 6.92% ↑",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1143861"
+        }
+      },
+      {
+        "keyword": "유시민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "유시민, 가수 이하늘에 “내가 이 대통령을 왜 싫어해?”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1273866.html"
         }
       }
     ]
