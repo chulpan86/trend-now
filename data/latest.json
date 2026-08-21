@@ -1,31 +1,21 @@
 {
-  "timestamp": "2026-08-21T11:17:21.069706+09:00",
-  "label": "11:17",
+  "timestamp": "2026-08-21T12:41:21.500534+09:00",
+  "label": "12:41",
   "items": [
     {
-      "keyword": "한국경제tv",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김지민",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "카카오, 2개 회사로 나뉜다…카카오AI-카카오X로 성장 재설계",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260821102850"
+        "title": "'노처녀 대명사' 한윤서, 10월 결혼..\"시집가라는 잔소리 해방\" [스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260820204437010"
       }
     },
     {
-      "keyword": "한국 영화",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "얼마만이냐, 한국영화 풍년…추석 시즌은 5편 ‘집안 싸움’",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1600&key=20260820.22014005440"
-      }
-    },
-    {
-      "keyword": "김가연",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "재산",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "김가연, 600억 친정 재력 고백…\"엄마 첩이라는 소문 싫었다\"",
         "source": "뉴시스",
@@ -33,29 +23,39 @@
       }
     },
     {
-      "keyword": "동맹",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "한국경제tv",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821002551071"
+        "title": "카카오, 카카오톡 분할하기로…\"메신저에서 AI 컴퍼니로\"(종합)",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431180"
       }
     },
     {
-      "keyword": "심 철종",
+      "keyword": "박현호",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "박현호, ♥은가은과 결혼했는데 백수 상태 \"창문서 뛰어내리려..母가 붙잡아\" 먹먹(살림남)",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/21/GNTGMODEGI3GCZDDGBSTIMZWMU/"
+      }
+    },
+    {
+      "keyword": "지마켓",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'암살' 출연한 심철종, 폐지 줍고 감자로 끼니 \"월 천만원 벌었는데..\" [특종세상]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820225507332"
+        "title": "금융위, 남부 수해 피해 가계·중소기업에 긴급 금융지원",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970363&pWise=sub&pWiseSub=R2"
       }
     },
     {
       "keyword": "양지은",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "'편스토랑' 양지은 \"남편, 치과의사 본업 열심히…각자 자리 찾아\"",
         "source": "Daum",
@@ -63,33 +63,33 @@
       }
     },
     {
-      "keyword": "두산베어스",
+      "keyword": "스타뉴스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[게시판] KB국민카드, '두산베어스 KB체크카드' 출시",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260820080300002"
-      }
-    },
-    {
-      "keyword": "챗",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "챗GPT, 애플 메시지 앱까지 연동…개인정보 보호 우려",
+        "title": "베이비몬스터 'TIMA에서 만나요!' [★영상]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821103850549"
+        "url": "https://v.daum.net/v/20260821121107151"
       }
     },
     {
-      "keyword": "2xko",
+      "keyword": "타자",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "2XKO Active Development Will End in December 2026",
-        "source": "Riot Games",
-        "url": "https://www.riotgames.com/en/news/2xko-active-development-ends-december-2026"
+        "title": "‘60년 만의 진기록 조준’ 알바레즈, 타자 파워랭킹 1위 ‘압도적 성적’",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/sports/article/all/20260821/134518075/1"
+      }
+    },
+    {
+      "keyword": "국민연금",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[속보] “한국서 1달 일하고 中서 평생연금”…국민연금 ‘추납’ 도마",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821094310839"
       }
     },
     {
