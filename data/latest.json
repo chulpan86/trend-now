@@ -1,85 +1,95 @@
 {
-  "timestamp": "2026-08-21T21:25:24.525580+09:00",
-  "label": "21:25",
+  "timestamp": "2026-08-21T22:36:53.209216+09:00",
+  "label": "22:36",
   "items": [
     {
-      "keyword": "최준희",
+      "keyword": "우선주",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "'故 최진실 딸' 최준희, 화장 전후 차이에 깜짝 놀랐네…스스로도 \"어이가 없다\" - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/tv/2026/08/20/GZSWCMJRGJRDOMLGG44DKMJVGM/"
+        "title": "삼성전자, 사상 최대 주주환원 실시… 2026년 약 90조~110조원 예상",
+        "source": "samsung.com",
+        "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%83%81-%EC%B5%9C%EB%8C%80-%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90-%EC%8B%A4%EC%8B%9C-2026%EB%85%84-%EC%95%BD-90%EC%A1%B0110%EC%A1%B0%EC%9B%90"
       }
     },
     {
-      "keyword": "전원주",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "김예건",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'하이닉스 2만원대 매수' 전원주, 1주도 안 팔았다…9000% 수익률 '잭팟'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821143308823"
+        "title": "[단독]'18살 축구천재' 김예건, 유럽 간다!…전북 떠나 즈베즈다 전격 입단, 곧바로 1군 합류",
+        "source": "스포츠조선",
+        "url": "https://www.sportschosun.com/football/2026-08-21/202608210100126750008045"
       }
     },
     {
-      "keyword": "f1",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Max Verstappen issues 'a shame' response ahead of home grand prix departure",
-        "source": "RacingNews365",
-        "url": "https://racingnews365.com/max-verstappen-issues-shame-response-ahead-of-home-grand-prix-departure"
-      }
-    },
-    {
-      "keyword": "수익",
+      "keyword": "내가 만난 사이코패스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "코스피 전망 물었더니…\"더 오른다\" 37% vs \"떨어진다\" 29% [갤럽]",
+        "title": "'내가 만난 사이코패스', 일본 진출",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821104327760"
+        "url": "https://v.daum.net/v/20260821110554745"
+      }
+    },
+    {
+      "keyword": "공원",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“국회의사당 밀고 아파트 지어라” SNS 역제안 화제",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11610844"
+      }
+    },
+    {
+      "keyword": "나띠",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이해인, 생활고 겪었다…\"데뷔 무산 후 안 해본 알바 없어\" ('해투')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821134210134"
+      }
+    },
+    {
+      "keyword": "정유라",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "정유라 “엄마, 대소변도 못가려…조국은 떵떵거리는데”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11611123"
+      }
+    },
+    {
+      "keyword": "박원숙",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "박원숙, 배우 은퇴설 직접 해명 \"'같이삽시다' 7년..이만하면 충분\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821153107893"
+      }
+    },
+    {
+      "keyword": "법관",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "수사도 못하는 검사 관두겠다…판사行 32명, 작년과 역대 최다 타이 [세상&]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821154710634"
       }
     },
     {
       "keyword": "이정범",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
         "title": "9위팀 방출→1위팀 영입, 전화위복 성공기 만들까…1군 콜업 첫 출장→데뷔 첫 3타점 맹타 “경기 끝까지 기회를 주신 감독님께 감사드린다”",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260821074310351"
-      }
-    },
-    {
-      "keyword": "f-35a",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Here's Why The US Air Force Chose The F-35A Over The F-22 For Export Partners",
-        "source": "Simple Flying",
-        "url": "https://simpleflying.com/why-usaf-chose-f-35a-over-f-22-for-export-partners/"
-      }
-    },
-    {
-      "keyword": "구속영장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "윤석열 구속영장 발부되자 “헌재에 불지르자”···온라인 글 작성한 30대 항소심서 무죄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821151728368"
-      }
-    },
-    {
-      "keyword": "의료과실",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독] 2명 사망 대형 치과, \"매일 소주 2병\" 알고도…환자에 약물 투여 강행",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821194152444"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "AP advises Twitch users: opt out from sharing data with Amazon AI",
         "source": "Autoriteit Persoonsgegevens",
         "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai"
-      }
-    },
-    {
-      "keyword": "김대호",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김규원, 돌잔치 MC 시절 아찔한 말실수…“할머니 죽으셨어요”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20260821/134517971/2"
       }
     }
   ]

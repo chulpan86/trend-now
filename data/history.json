@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-20T09:38:42.225101+09:00",
-    "label": "09:38",
-    "items": [
-      {
-        "keyword": "이강인 데뷔 골",
-        "traffic_raw": "50000+",
-        "traffic": 50000,
-        "news": {
-          "title": "증명에 13분이면 충분했다…이강인, 라리가 개막전서 ATM 데뷔골 작렬",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608200646001"
-        }
-      },
-      {
-        "keyword": "황정음",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "황정음, 제니 변신 후 아유미와 이태원 行..\"방학에 스트레스 쌓여\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820055610272"
-        }
-      },
-      {
-        "keyword": "민방위 훈련",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "20일 오후 2시 전국 민방위 훈련…공습경보 땐 가까운 대피소로",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970287"
-        }
-      },
-      {
-        "keyword": "로켓",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[특징주] 이노스페이스, 로켓 '세빛' 시험비행 조기 종료에 22%대 급락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820043200008"
-        }
-      },
-      {
-        "keyword": "손태영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "권상우, 세수도 안 했는데 카메라 습격에 '동공지진'…손태영 \"입술에 요거트나 닦으세요\" ('뉴저지')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Gq8O7N1ySB"
-        }
-      },
-      {
-        "keyword": "하이닉스 채용",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "채용설명회도 '오픈런'…SK하이닉스 신입 공채 열기 최고조",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260819000196"
-        }
-      },
-      {
-        "keyword": "장기하",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "곽정은, “장기하, 침대에서 어떨까’ 성희롱 논란 12년 만에 사과",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608191340003"
-        }
-      },
-      {
-        "keyword": "이완섭",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[이슈] 경북 수도권 전력 하청공장 전락…호남 반도체 예정지 광주 군공항의 전투기도 예천 이전하나",
-          "source": "대구일보",
-          "url": "https://www.idaegu.com/news/articleView.html?idxno=665114"
-        }
-      },
-      {
-        "keyword": "수능 원서 접수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "충북교육청, 8월 24일(월)부터 수능 응시원서 접수 시작 : 네이버 블로그",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224382402562&redirect=Dlog"
-        }
-      },
-      {
-        "keyword": "전라남도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "전라남도청소년미래재단, 고위기 청소년을 위한 동물매개 심리치료 프로그램 진행",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=786566"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-20T11:10:43.889825+09:00",
     "label": "11:10",
     "items": [
@@ -3689,6 +3583,112 @@
           "title": "김규원, 돌잔치 MC 시절 아찔한 말실수…“할머니 죽으셨어요”",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Culture/article/all/20260821/134517971/2"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-21T22:36:53.209216+09:00",
+    "label": "22:36",
+    "items": [
+      {
+        "keyword": "우선주",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "삼성전자, 사상 최대 주주환원 실시… 2026년 약 90조~110조원 예상",
+          "source": "samsung.com",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%83%81-%EC%B5%9C%EB%8C%80-%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90-%EC%8B%A4%EC%8B%9C-2026%EB%85%84-%EC%95%BD-90%EC%A1%B0110%EC%A1%B0%EC%9B%90"
+        }
+      },
+      {
+        "keyword": "김예건",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독]'18살 축구천재' 김예건, 유럽 간다!…전북 떠나 즈베즈다 전격 입단, 곧바로 1군 합류",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-08-21/202608210100126750008045"
+        }
+      },
+      {
+        "keyword": "내가 만난 사이코패스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'내가 만난 사이코패스', 일본 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821110554745"
+        }
+      },
+      {
+        "keyword": "공원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“국회의사당 밀고 아파트 지어라” SNS 역제안 화제",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11610844"
+        }
+      },
+      {
+        "keyword": "나띠",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이해인, 생활고 겪었다…\"데뷔 무산 후 안 해본 알바 없어\" ('해투')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821134210134"
+        }
+      },
+      {
+        "keyword": "정유라",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정유라 “엄마, 대소변도 못가려…조국은 떵떵거리는데”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611123"
+        }
+      },
+      {
+        "keyword": "박원숙",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박원숙, 배우 은퇴설 직접 해명 \"'같이삽시다' 7년..이만하면 충분\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821153107893"
+        }
+      },
+      {
+        "keyword": "법관",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "수사도 못하는 검사 관두겠다…판사行 32명, 작년과 역대 최다 타이 [세상&]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821154710634"
+        }
+      },
+      {
+        "keyword": "이정범",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "9위팀 방출→1위팀 영입, 전화위복 성공기 만들까…1군 콜업 첫 출장→데뷔 첫 3타점 맹타 “경기 끝까지 기회를 주신 감독님께 감사드린다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821074310351"
+        }
+      },
+      {
+        "keyword": "twitch",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "AP advises Twitch users: opt out from sharing data with Amazon AI",
+          "source": "Autoriteit Persoonsgegevens",
+          "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai"
         }
       }
     ]
