@@ -1,61 +1,41 @@
 {
-  "timestamp": "2026-08-21T19:19:24.860570+09:00",
-  "label": "19:19",
+  "timestamp": "2026-08-21T20:16:44.775583+09:00",
+  "label": "20:16",
   "items": [
     {
-      "keyword": "kia 대 키움",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "화재",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[영상] 하늘의 아버지께 닿은 롯데 손성빈의 홈런쇼",
+        "title": "울산 대송시장 상인 소화기 진화…불길 차단",
+        "source": "중도일보",
+        "url": "https://www.joongdo.co.kr/web/view.php?key=20260821010006431"
+      }
+    },
+    {
+      "keyword": "lg 대 한화",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "배팅볼 투수인가…한화 짐머맨, LG전 ⅓이닝 7실점 조기 강판",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260821174000007"
+      }
+    },
+    {
+      "keyword": "kia 타이거즈",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "KIA 5연승 이끈 김도영, 키움 눈에는 저승사자로 보인다…고척돔에서는 MVP 시즌보다 더 압도적",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260820140245895"
+        "url": "https://v.daum.net/v/20260821151036121"
       }
     },
     {
-      "keyword": "삼성 대 nc",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[프로야구] 21일 선발투수 예고",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/baseball/6264997"
-      }
-    },
-    {
-      "keyword": "롯데 대 두산",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘심상치 않다’ 롯데 기적의 가을야구 가능한가, 60일 만에 4연승→126일 만에 7위. 이제 5위 두산과 '운명의 3연전’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821102107649"
-      }
-    },
-    {
-      "keyword": "kt 대 ssg",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "9위팀 방출→1위팀 영입, 전화위복 성공기 만들까…1군 콜업 첫 출장→데뷔 첫 3타점 맹타 “경기 끝까지 기회를 주신 감독님께 감사드린다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821074310351"
-      }
-    },
-    {
-      "keyword": "비트코인",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "비트코인 두달 만에 7만 달러 돌파…상승 전환하나",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260821103823"
-      }
-    },
-    {
-      "keyword": "소방관",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "여성 소방관",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "불길 치솟는데 사다리차 안 닿자…소방관 믿고 11층서 뛰었다",
         "source": "동아일보",
@@ -63,43 +43,63 @@
       }
     },
     {
-      "keyword": "황신혜",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'63세' 황신혜, 한여름 민소매 패션도 거뜬…감탄 부른 자기관리",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820170528283"
-      }
-    },
-    {
-      "keyword": "스코티 셰플러",
+      "keyword": "성주군",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "안병훈, LIV 골프 최종전 1R 공동 13위…캐나다 교포 이태훈 2위",
+        "title": "한수원, 을지연습서 원전 비상 태세 점검…드론 침투 대비 방호 훈련",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821094438885"
+        "url": "https://v.daum.net/v/20260821181328710"
       }
     },
     {
-      "keyword": "이종석",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이종석, 아이유와 결별 한 달 만에 휴양지서 포착",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260821_0003757517"
-      }
-    },
-    {
-      "keyword": "통상교섭본부장",
+      "keyword": "f1",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[속보]이 대통령, 여한구 후임 통상교섭본부장에 박정성, 소방청장에 최용철 임명",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608211521001"
+        "title": "Max Verstappen issues 'a shame' response ahead of home grand prix departure",
+        "source": "RacingNews365",
+        "url": "https://racingnews365.com/max-verstappen-issues-shame-response-ahead-of-home-grand-prix-departure"
+      }
+    },
+    {
+      "keyword": "만평",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "女 BJ들에게 별풍선 '펑펑펑'…큰 손으로 불리던 30대 男의 최후",
+        "source": "데일리안",
+        "url": "https://www.dailian.co.kr/news/view/1678862/%E5%A5%B3-BJ%EB%93%A4-%EB%B3%84%ED%92%8D%EC%84%A0-%ED%8E%91%ED%8E%91%ED%8E%91%ED%81%B0-%EC%86%90-%EB%B6%88%EB%A6%AC%EB%8D%98-2026"
+      }
+    },
+    {
+      "keyword": "현대 자동차 그룹 메타 플랜트 아메리카",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "현대차 \"미 메타플랜트 생산량 확대...2028년까지 최대 80만대로\"",
+        "source": "YTN 사이언스",
+        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608211101477573"
+      }
+    },
+    {
+      "keyword": "꽃게",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘가을 꽃게’ 금어기 풀렸다…새벽에 잡아 식탁으로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821194559536"
+      }
+    },
+    {
+      "keyword": "도지코인",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "트럼프 한마디에 들썩인 도지코인(DOGE)…다음 승부처는 0.08달러",
+        "source": "코인리더스",
+        "url": "https://www.coinreaders.com/253906"
       }
     }
   ]
