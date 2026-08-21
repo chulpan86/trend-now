@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-08-21T16:34:21.843326+09:00",
-  "label": "16:34",
+  "timestamp": "2026-08-21T17:27:03.670921+09:00",
+  "label": "17:27",
   "items": [
     {
       "keyword": "암",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "韓 연구진이 개발한 놀라운 기술…\"입 한 번만 헹구면 암 신호 잡는다\" [과학을읽다]",
+        "title": "조권, \"점점 말라가…얼마큼의 시간 허락될까\" '암투병' 반려견과 이별 예감 [MHN:피드]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821120129910"
+        "url": "https://v.daum.net/v/20260821162954283"
+      }
+    },
+    {
+      "keyword": "전투기 조종사",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "비상탈출 전투기조종사 구조한 스리랑카 근로자들에 장기체류자격",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260821067400004"
+      }
+    },
+    {
+      "keyword": "하주석",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'대형 트레이드' KIA맨 하주석, 첫 대전 원정 돌아보다…\"등장곡 불러주신 한화 팬분들, 잊지 못할 기억 될 것\" [대전 인터뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821113615121"
+      }
+    },
+    {
+      "keyword": "방탄소년단",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[장혜수의 뉴스터치] 아이 갓 어 키스",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821000809243"
       }
     },
     {
@@ -17,25 +47,15 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "LIG D&A, 임원 뇌물 혐의에 \"한국형 전자전기 사업 수주와 무관\"",
+        "title": "'LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821155555025"
-      }
-    },
-    {
-      "keyword": "김태규",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'조희대 씨' 이어 '김민석 씨'…호칭 전쟁에 법사위 아수라장[노컷브이]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821155102805"
+        "url": "https://v.daum.net/v/20260821093903648"
       }
     },
     {
       "keyword": "딩하오",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "신진서, 리웨이칭 꺾고 8강 진출",
         "source": "사이버오로",
@@ -43,54 +63,30 @@
       }
     },
     {
-      "keyword": "bmw 챔피언십",
+      "keyword": "채은성",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "임성재 ‘쩐의 전쟁’ 최종전 티켓 보인다...2차전 첫날 선두와 3타차 12위",
+        "title": "\"지고 있는데 상대 응원곡 따라부르다니\" 팬들, 한화 주장 채은성 태도 '융단폭격'...사실인가?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821120611060"
-      }
-    },
-    {
-      "keyword": "k패스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "기후동행카드→기후동행패스…9월부터 바뀌는 15가지",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260814/134477672/2"
-      }
-    },
-    {
-      "keyword": "검수완박",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'검수완박' 직전 수리된 사직서, 16년 차 검사는 왜 떠났나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820154749437?f=p"
-      }
-    },
-    {
-      "keyword": "빌리언스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "유아인, 빌리언스와 전속계약…\"활동 재개 우려 무겁게 인식\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821116500005"
+        "url": "https://v.daum.net/v/20260821075950653"
       }
     },
     {
       "keyword": "신반포4차아파트",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "신반포4차 재건축 '탄력'…숙대입구역세권 재개발 통합심의 통과",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260821046000004"
       }
+    },
+    {
+      "keyword": "tài khoản ngân hàng",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     },
     {
       "keyword": "ssg닷컴",
