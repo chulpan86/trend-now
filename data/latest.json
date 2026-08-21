@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-22T07:13:09.542390+09:00",
-  "label": "07:13",
+  "timestamp": "2026-08-22T08:13:44.931389+09:00",
+  "label": "08:13",
   "items": [
     {
-      "keyword": "시청률",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "오세훈",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "“시청률 37%→0%, 이건 너무 심했다” 식상한 TV 드라마 ‘몰락’…어쩌다 이런 일이",
+        "title": "'1심 시장직 상실형' 오세훈 측, 2심서 \"명태균에 의뢰 안 해\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260821120700004"
+      }
+    },
+    {
+      "keyword": "이란 대통령",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "미 \"역대 최강 제재\" 예고‥이란 \"파괴적 대응\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821214213917"
+        "url": "https://v.daum.net/v/20260822073111061"
       }
     },
     {
-      "keyword": "다우 존스 산업평균지수",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "뉴욕증시, 美국채금리 상승에도 저가 매수세에 반등…다우 1%↑(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822064500537"
-      }
-    },
-    {
-      "keyword": "오디세이",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘오디세이’ 600만 돌파, 맷 데이먼이 한국 관객에 전한 메시지?···“가능한 큰 극장서 보시길”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608211655001"
-      }
-    },
-    {
-      "keyword": "부동산",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'내 집 한 채' 믿고 살았는데…\"뒤통수 맞았다\" 230만명 '분통'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026082155181"
-      }
-    },
-    {
-      "keyword": "감전",
+      "keyword": "죽음의 조",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "대전 트램공사 현장서 크레인 작업자 3명 감전",
+        "title": "[SPO 현장] 월드컵 ‘죽음의 조’ 뚫었던 백기태 감독 “한국 대표팀, 16강 이상 충분히 가능”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821145453565"
+        "url": "https://v.daum.net/v/20260821184328285?f=p"
       }
     },
     {
-      "keyword": "lng선",
+      "keyword": "박성현",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[골프IN화보] 서어진, BC카드·한경 KLPGA 챔피언십 2라운드 경기 장",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260822n02450"
+      }
+    },
+    {
+      "keyword": "김요한",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "AI DC 특수에 활짝…가온전선 “5년뒤 버스덕트 매출 25배 폭증 예상” [비즈360]",
+        "title": "김요한 \"정식으로 사귀고파\" 소개팅녀에 목걸이 선물하며 고백('신랑수업2')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260822063213350"
+        "url": "https://v.daum.net/v/20260822073550135"
       }
     },
     {
-      "keyword": "콜레스테롤",
+      "keyword": "국내총생산",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“염증 씻어낸다”… 의사가 ‘자주 먹으라’ 추천하는 음식 5가지",
-        "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/08/21/2026082101691.html"
+        "title": "美재무부 '장기금리 방어'에 달러 흔들…월가 \"대가 치를 수도\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822014000923"
       }
     },
     {
-      "keyword": "신인감독 김연경",
+      "keyword": "테일러 프리츠",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘신인감독 김연경2’ 원더독스, ‘SOOP 수퍼스’와 격돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fPsWCLHlLX"
+        "title": "Hot Shot: Nakashima clinches 32-ball rally vs. Fritz to thrill Cincinnati crowd",
+        "source": "ATP Tour",
+        "url": "https://www.atptour.com/en/video/hot-shot-nakashima-clinches-32ball-rally-vs-fritz-to-thrill-cincinnati-2026-crowd"
       }
     },
     {
-      "keyword": "서식스 공작부인 메건",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "해리 왕자 따라 영국 돌아오는 메건, 연기 복귀하나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821182950044"
-      }
-    },
-    {
-      "keyword": "schd",
+      "keyword": "치맥",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "If You Like the Schwab U.S. Dividend Equity ETF, You'll Love This ETF to Pair With It.",
-        "source": "The Motley Fool",
-        "url": "https://www.fool.com/investing/2026/08/20/like-schwab-us-dividend-equity-etf-love-this-etf/"
+        "title": "2026 포항치맥페스티벌, 주요 프로그램과 일정 '확인'",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3670242"
+      }
+    },
+    {
+      "keyword": "세단",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“5년 만에 업그레이드”…벤츠 S-클래스로 보는 ‘명품의 조건’[타보니]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822070131740"
+      }
+    },
+    {
+      "keyword": "경남 고성 공룡 세계 엑스포",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "국악인 김다현 ‘경남고성공룡세계엑스포 홍보대사’ 위촉",
+        "source": "경남도민일보",
+        "url": "https://www.idomin.com/news/articleView.html?idxno=2012835"
       }
     }
   ]
