@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-08-22T00:23:11.272639+09:00",
-  "label": "00:23",
+  "timestamp": "2026-08-22T01:20:03.370899+09:00",
+  "label": "01:20",
   "items": [
+    {
+      "keyword": "노동절",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[단독] 공휴일 된 노동절, 휴일대체 가능…내년부터 '무조건 시급 2.5배' 사라져",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026082154931"
+      }
+    },
+    {
+      "keyword": "이미숙",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'66세' 이미숙, 재산 처리 계획 밝혔다…\"사회에 다 환원하고 죽을 것\" (숙스러운)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821191107884"
+      }
+    },
     {
       "keyword": "탑승",
       "traffic_raw": "1000+",
@@ -23,43 +43,13 @@
       }
     },
     {
-      "keyword": "노동절",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "내년부터 노동절도 '휴일대체'…일당 2배에 하루 쉰다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260821_0003758277"
-      }
-    },
-    {
-      "keyword": "이대형",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[영상] 한화 야구는 상식 파괴?…해설위원도 이해 불가",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/V5kqmvfzhi?f=p"
-      }
-    },
-    {
-      "keyword": "스포츠",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[포토]'투구폼이 역동적이다!' 7회초 등판한 키움 박지성 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/21/2026082121115741730"
-      }
-    },
-    {
       "keyword": "정선희",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'옥문아' 홍진경 \"이혼 발표 최대한 안 하고 싶었다\"…정선희 유튜브 비화",
+        "title": "'옥문아' 정선희 \"연애 생각 별로 없어\"…홍진경, 국제 연애 추천",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821224328652"
+        "url": "https://v.daum.net/v/20260821232150022"
       }
     },
     {
@@ -67,9 +57,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "투구하는 배재준 : 네이트 스포츠",
-        "source": "네이트",
-        "url": "https://m.news.nate.com/view/20260821n30276?mid=s01&list=recent&cpcd="
+        "title": "투구하는 배재준",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/photos/8067220"
+      }
+    },
+    {
+      "keyword": "스포츠",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "기자회견 도중 감독 눈물, 선수들도 놀랐다... \"韓 레슬링 죽지 않았다는 것 보여주겠다\" 정한재 다짐 [진천 현장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821060209535"
       }
     },
     {
@@ -79,13 +79,13 @@
       "news": null
     },
     {
-      "keyword": "박문성",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "전화",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "'임시'로 뽑지만…축구대표팀 사령탑, 성과 내면 '정식 감독' 가능해",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821143328832"
+        "title": "\"제주 장미란씨 실종프로파일링 자료 입력후 삭제돼\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260821171300056"
       }
     },
     {
@@ -93,9 +93,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Song Seung-gi exits in 5th despite 10-run support - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/08/21/7CK2LM3U4VDSRKFLG33ZR5LQXI/"
+        "title": "Rookie Kwon Min-kyu's 84-Pitch Fight Halts Hanwha Defeat",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/08/21/CMGRLTWGQFDDTA4KM4F7FXPPNY/"
       }
     }
   ]
