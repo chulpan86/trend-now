@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-08-22T01:20:03.370899+09:00",
-  "label": "01:20",
+  "timestamp": "2026-08-22T02:19:08.324475+09:00",
+  "label": "02:19",
   "items": [
+    {
+      "keyword": "이미숙",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'66세' 이미숙, 재산 처리 계획 밝혔다…\"사회에 다 환원하고 죽을 것\" (숙스러운)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821191107884"
+      }
+    },
     {
       "keyword": "노동절",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[단독] 공휴일 된 노동절, 휴일대체 가능…내년부터 '무조건 시급 2.5배' 사라져",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026082154931"
-      }
-    },
-    {
-      "keyword": "이미숙",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'66세' 이미숙, 재산 처리 계획 밝혔다…\"사회에 다 환원하고 죽을 것\" (숙스러운)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821191107884"
+        "title": "내년부터 노동절도 '휴일대체'…일당 2배에 하루 쉰다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260821_0003758277"
       }
     },
     {
@@ -83,9 +83,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"제주 장미란씨 실종프로파일링 자료 입력후 삭제돼\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821171300056"
+        "title": "‘제주 실종’ 허위 종결한 경찰... 수색 지원 자료도 삭제했다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/regional/2026/08/21/VUFZWIAU25ENPCMMRDHA2ZXV3A/"
       }
     },
     {
@@ -93,9 +93,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Rookie Kwon Min-kyu's 84-Pitch Fight Halts Hanwha Defeat",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/21/CMGRLTWGQFDDTA4KM4F7FXPPNY/"
+        "title": "Will there be a game like this. The \"Eagle Corps\" Hanwha Eagles broke the long losing chain by writi..",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/en/sports/12133628"
       }
     }
   ]
