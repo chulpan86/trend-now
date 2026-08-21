@@ -1,71 +1,87 @@
 {
-  "timestamp": "2026-08-21T23:24:10.619444+09:00",
-  "label": "23:24",
+  "timestamp": "2026-08-22T00:23:11.272639+09:00",
+  "label": "00:23",
   "items": [
     {
-      "keyword": "우선주",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "탑승",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "삼성전자, 사상 최대 주주환원 실시… 2026년 약 90조~110조원 예상",
-        "source": "samsung.com",
-        "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%83%81-%EC%B5%9C%EB%8C%80-%EC%A3%BC%EC%A3%BC%ED%99%98%EC%9B%90-%EC%8B%A4%EC%8B%9C-2026%EB%85%84-%EC%95%BD-90%EC%A1%B0110%EC%A1%B0%EC%9B%90"
+        "title": "박홍근 \"출근길 시위 멈춰야\"…전장연 \"시위 유보, 24일 입장 발표\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/1rJgXzjJXj"
       }
     },
     {
-      "keyword": "김구라",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "lck",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'깁구라 아들' MC그리 '예비신랑' 깜짝 변신..\"신혼집 매물보러\" 눈길",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821200438938"
+        "title": "2026 Woori Bank LCK Finals ticket sales to begin August 28",
+        "source": "Inven Global",
+        "url": "https://www.invenglobal.com/articles/24931/2026-woori-bank-lck-finals-ticket-sales-to-begin-august-28"
+      }
+    },
+    {
+      "keyword": "노동절",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "내년부터 노동절도 '휴일대체'…일당 2배에 하루 쉰다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260821_0003758277"
       }
     },
     {
       "keyword": "이대형",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[영상] 한화 야구는 상식 파괴?…해설위원도 이해 불가",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/V5kqmvfzhi?f=p"
+      }
+    },
+    {
+      "keyword": "스포츠",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'충격의 연속' 한화 8위 추락도 추락인데…뼈아픈 1R 영건 트리오 연쇄 붕괴, 정우주-황준서-김서현 3명이 2이닝 6실점",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pvY5iCKpS2"
+        "title": "[포토]'투구폼이 역동적이다!' 7회초 등판한 키움 박지성 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/21/2026082121115741730"
       }
     },
     {
-      "keyword": "한화",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "설상가상 한화, ‘10승 아쿼’ 왕옌청 폐렴으로 입원…두산 벤자민도 어깨 통증",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821190107616"
-      }
-    },
-    {
-      "keyword": "경리",
+      "keyword": "정선희",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "아파트 관리비 ‘440억’ 빼돌린 경리…20년간 주민들이 몰랐던 이유 [잇슈#태그]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8642875"
+        "title": "'옥문아' 홍진경 \"이혼 발표 최대한 안 하고 싶었다\"…정선희 유튜브 비화",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821224328652"
       }
     },
     {
-      "keyword": "노웅래",
+      "keyword": "배재준",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김민석, 노웅래 2심 무죄에 \"檢이 조작으로 생사람 잡은 케이스\"(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821225952792"
+        "title": "투구하는 배재준 : 네이트 스포츠",
+        "source": "네이트",
+        "url": "https://m.news.nate.com/view/20260821n30276?mid=s01&list=recent&cpcd="
       }
+    },
+    {
+      "keyword": "lck 순위",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
       "keyword": "박문성",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "'임시'로 뽑지만…축구대표팀 사령탑, 성과 내면 '정식 감독' 가능해",
         "source": "Daum",
@@ -73,33 +89,13 @@
       }
     },
     {
-      "keyword": "크보",
+      "keyword": "엘지트윈스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Yang Hyeon-jong Achieves 13th Consecutive 100-Inning Season",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/08/21/SLT4OEMFCJEVXK7L6ET46DKTIQ/"
-      }
-    },
-    {
-      "keyword": "백하나",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[오피셜] 백하나·이소희, 韓 배드민턴 첫 메달 쾌거!…'세계 13위' 인니 조 2-0 완파→'171구 미친 랠리 견뎠다' 여자복식 4강행 (세계선수권)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821160409388"
-      }
-    },
-    {
-      "keyword": "조현준",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "12년 만의 법정 대면 효성가 형제···조현준 회장 “이렇게 해서라도 동생이 깨우치길 원해, 처벌해달라”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608211820001"
+        "title": "Song Seung-gi exits in 5th despite 10-run support - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/08/21/7CK2LM3U4VDSRKFLG33ZR5LQXI/"
       }
     }
   ]

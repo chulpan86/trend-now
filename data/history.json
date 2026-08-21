@@ -3696,5 +3696,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-22T00:23:11.272639+09:00",
+    "label": "00:23",
+    "items": [
+      {
+        "keyword": "탑승",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "박홍근 \"출근길 시위 멈춰야\"…전장연 \"시위 유보, 24일 입장 발표\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1rJgXzjJXj"
+        }
+      },
+      {
+        "keyword": "lck",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "2026 Woori Bank LCK Finals ticket sales to begin August 28",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24931/2026-woori-bank-lck-finals-ticket-sales-to-begin-august-28"
+        }
+      },
+      {
+        "keyword": "노동절",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "내년부터 노동절도 '휴일대체'…일당 2배에 하루 쉰다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003758277"
+        }
+      },
+      {
+        "keyword": "이대형",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[영상] 한화 야구는 상식 파괴?…해설위원도 이해 불가",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/V5kqmvfzhi?f=p"
+        }
+      },
+      {
+        "keyword": "스포츠",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[포토]'투구폼이 역동적이다!' 7회초 등판한 키움 박지성 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/21/2026082121115741730"
+        }
+      },
+      {
+        "keyword": "정선희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'옥문아' 홍진경 \"이혼 발표 최대한 안 하고 싶었다\"…정선희 유튜브 비화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821224328652"
+        }
+      },
+      {
+        "keyword": "배재준",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "투구하는 배재준 : 네이트 스포츠",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260821n30276?mid=s01&list=recent&cpcd="
+        }
+      },
+      {
+        "keyword": "lck 순위",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "박문성",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'임시'로 뽑지만…축구대표팀 사령탑, 성과 내면 '정식 감독' 가능해",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821143328832"
+        }
+      },
+      {
+        "keyword": "엘지트윈스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Song Seung-gi exits in 5th despite 10-run support - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/21/7CK2LM3U4VDSRKFLG33ZR5LQXI/"
+        }
+      }
+    ]
   }
 ]
