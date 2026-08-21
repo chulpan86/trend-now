@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-19T22:36:09.115983+09:00",
-    "label": "22:36",
-    "items": [
-      {
-        "keyword": "삼성 라이온즈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[프로야구 대구전적] 삼성 18-4 SSG",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818172151007"
-        }
-      },
-      {
-        "keyword": "로봇",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"상장하자마자 600% 폭등\"…개미들 돈 몰린 '로봇 회사'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819135551064"
-        }
-      },
-      {
-        "keyword": "정준원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'태도 논란' 정준원은 입 꾹...\"원래 신중한 사람\" 공효진이 감쌌다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/19/2026081916423372527"
-        }
-      },
-      {
-        "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "비트코인 5억 간다",
-          "source": "CoinNess",
-          "url": "https://coinness.com/community/lounge/1375870"
-        }
-      },
-      {
-        "keyword": "핵어뢰",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[영상] 항속거리 1만㎞ '핵어뢰' 탑재…러 신형 핵잠수함 첫 시험 운항",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818114754806"
-        }
-      },
-      {
-        "keyword": "의료",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"엑스레이로 골다공증 찾고, 반지로 혈압 측정\"…AI와 헬스케어의 만남",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819180251337"
-        }
-      },
-      {
-        "keyword": "잔홍",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "1.3 버전 「안개 너머의 별빛」 업데이트 공지",
-          "source": "NTE",
-          "url": "https://nte.perfectworld.com/kr/article/news/gamenews/20260817/263607.html"
-        }
-      },
-      {
-        "keyword": "시라카와",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'KIA 유니폼 입고 첫 QS' 시라카와, 한화 상대 6⅓이닝 1실점 호투…시즌 4승은 다음 기회로 [대전 라이브]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819211149847"
-        }
-      },
-      {
-        "keyword": "빅뱅 콘서트",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "빅뱅 콘서트 기간 동안 하노이행 항공권 가격이 오르고 호텔 객실이 부족해지고 있다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/gia-ve-may-bay-den-ha-noi-tang-khach-san-khan-phong-dip-concert-bigbang"
-        }
-      },
-      {
-        "keyword": "pakistan vs england",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Pakistan to host Sri Lanka and England for T20Is, ODI tri-series and Tests",
-          "source": "Pakistan Cricket Board (PCB)",
-          "url": "https://www.pcb.com.pk/press-release-detail/pakistan-to-host-sri-lanka-and-england-for-t20is-odi-tri-series-and-tests.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-19T23:22:34.001159+09:00",
     "label": "23:22",
     "items": [
@@ -3678,6 +3572,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-21T11:17:21.069706+09:00",
+    "label": "11:17",
+    "items": [
+      {
+        "keyword": "한국경제tv",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "카카오, 2개 회사로 나뉜다…카카오AI-카카오X로 성장 재설계",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260821102850"
+        }
+      },
+      {
+        "keyword": "한국 영화",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "얼마만이냐, 한국영화 풍년…추석 시즌은 5편 ‘집안 싸움’",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1600&key=20260820.22014005440"
+        }
+      },
+      {
+        "keyword": "김가연",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김가연, 600억 친정 재력 고백…\"엄마 첩이라는 소문 싫었다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003756756"
+        }
+      },
+      {
+        "keyword": "동맹",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821002551071"
+        }
+      },
+      {
+        "keyword": "심 철종",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'암살' 출연한 심철종, 폐지 줍고 감자로 끼니 \"월 천만원 벌었는데..\" [특종세상]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820225507332"
+        }
+      },
+      {
+        "keyword": "양지은",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'편스토랑' 양지은 \"남편, 치과의사 본업 열심히…각자 자리 찾아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820205328131"
+        }
+      },
+      {
+        "keyword": "두산베어스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[게시판] KB국민카드, '두산베어스 KB체크카드' 출시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260820080300002"
+        }
+      },
+      {
+        "keyword": "챗",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "챗GPT, 애플 메시지 앱까지 연동…개인정보 보호 우려",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821103850549"
+        }
+      },
+      {
+        "keyword": "2xko",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2XKO Active Development Will End in December 2026",
+          "source": "Riot Games",
+          "url": "https://www.riotgames.com/en/news/2xko-active-development-ends-december-2026"
+        }
+      },
+      {
+        "keyword": "금융감독원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "세종 가느니 퇴사?…“세종은 혐오시설이 아닙니다” [100투더세종-3]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821060340676"
+        }
       }
     ]
   }
