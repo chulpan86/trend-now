@@ -1,11 +1,21 @@
 {
-  "timestamp": "2026-08-22T04:18:53.448484+09:00",
-  "label": "04:18",
+  "timestamp": "2026-08-22T05:14:10.655724+09:00",
+  "label": "05:14",
   "items": [
     {
+      "keyword": "아스널 대 코번트리",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "‘펩시황’ 떠난 EPL, 26-27 시즌 막 오른다...디펜딩 챔피언 아스널에 도전할 패자는",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821153709149"
+      }
+    },
+    {
       "keyword": "이미숙",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "'66세' 이미숙, 재산 처리 계획 밝혔다…\"사회에 다 환원하고 죽을 것\" (숙스러운)",
         "source": "Daum",
@@ -14,8 +24,8 @@
     },
     {
       "keyword": "탑승",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "박홍근 \"출근길 시위 멈춰야\"…전장연 \"시위 유보, 24일 입장 발표\"",
         "source": "Daum",
@@ -23,13 +33,13 @@
       }
     },
     {
-      "keyword": "lck",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "아스날",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "MBC to Broadcast LCK Finals Live for Three Consecutive Years Until 2027",
-        "source": "게임메카",
-        "url": "https://www.gamemeca.com/en/view.php?gid=1779371"
+        "title": "'막강한 아스널, 더 단단해진다' 잉글랜드 국대 센터백 콘사, 애스턴 빌라→아스널 이적 합의..'살리바 부상 공백 메운다, 이적료 5100만파운드 이상'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/08/20/GE2WIZRWGQ4WIOBVMQ3GEYZWGY/"
       }
     },
     {
@@ -37,9 +47,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"제주 장미란씨 실종프로파일링 자료 입력후 삭제돼\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821171300056"
+        "title": "‘여성 실종’ 뒤늦게 시스템 개선…‘실종성인법’은 아직",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8642976"
       }
     },
     {
@@ -47,9 +57,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'옥문아' 홍진경 \"이혼 발표 최대한 안 하고 싶었다\"…정선희 유튜브 비화",
+        "title": "'옥문아' 정선희 \"홍진경 보고 엄마도 울어\"…눈물의 30년 우정 [RE:TV]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821224328652"
+        "url": "https://v.daum.net/v/20260822045127351"
       }
     },
     {
@@ -63,20 +73,14 @@
       }
     },
     {
-      "keyword": "스포츠",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "포로",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "기자회견 도중 감독 눈물, 선수들도 놀랐다... \"韓 레슬링 죽지 않았다는 것 보여주겠다\" 정한재 다짐 [진천 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821060209535"
+        "title": "우크라이나 전쟁: 포로로 붙잡힌 우크라 태생 군인들이 BBC에 밝힌 '러시아 편에 선 이유'",
+        "source": "BBC",
+        "url": "https://www.bbc.com/korean/articles/c4gk1krwvleo"
       }
-    },
-    {
-      "keyword": "lck 순위",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
     },
     {
       "keyword": "al-riyadh vs al-nassr",
