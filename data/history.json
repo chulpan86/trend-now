@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-20T06:16:03.662271+09:00",
-    "label": "06:16",
-    "items": [
-      {
-        "keyword": "농지",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "파주시, 농지 8만6000여 필지 현장검증…투기·불법 이용 집중 점검",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819203928161"
-        }
-      },
-      {
-        "keyword": "정년",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "인천시교육청, 교육공무직 68명에 교육감 표창",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712881"
-        }
-      },
-      {
-        "keyword": "이효리",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "이효리 \"상순 오빠와 결혼 전 2년 동거”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819070309170"
-        }
-      },
-      {
-        "keyword": "당대표",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "당원투표로 전국 당협위원장 새로 뽑나…국힘, 오늘 최고위 논의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819150700001"
-        }
-      },
-      {
-        "keyword": "한겨레",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[편집실에서] 유시민·김어준 ‘원 오브 뎀’ 되나",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202608190600001"
-        }
-      },
-      {
-        "keyword": "파운드리",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"삼성전자, 파운드리 단가 최대 15% 인상…내년 흑자 전환 가능성\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819192149435"
-        }
-      },
-      {
-        "keyword": "영탁",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "영탁, 3년 만 정규 3집 'GOGO' 풀악셀..10월 'TAK SHOW5'서 신곡 최초 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819182841136"
-        }
-      },
-      {
-        "keyword": "홍장원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "2차 종합특검, '국정원 내란 관여 의혹' 조태용·홍장원 기소",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6845843_36918.html"
-        }
-      },
-      {
-        "keyword": "태양광 발전",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“‘태양광 농사’로 편하게 살라”는 이 대통령에…“희생 강요 말라”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/environment/1273646.html"
-        }
-      },
-      {
-        "keyword": "심형래",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "심형래 \"'디 워2' 제작 완료…BTS 아리랑은 되고, 나는 욕먹어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260819_0003754994"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-20T07:14:01.161804+09:00",
     "label": "07:14",
     "items": [
@@ -3583,6 +3477,112 @@
           "title": "\"세계 오페라 극장 휩쓴 40년… 포기한 건 사랑과 우정\"",
           "source": "조선일보",
           "url": "https://www.chosun.com/culture-life/culture_general/2026/08/21/5GDEE2BK6NFY5G74SZ64XAUN7A/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-21T18:25:32.379942+09:00",
+    "label": "18:25",
+    "items": [
+      {
+        "keyword": "적금",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "국민은행 연 12% 역대급 적금 내놨다…선착순 10만개",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608214660i"
+        }
+      },
+      {
+        "keyword": "의정부시",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김천시의회, 행정사무감사 시민제보 받는다",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026082109505695816"
+        }
+      },
+      {
+        "keyword": "005930",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Samsung board set to discuss huge shareholder return package on Friday",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-elec-convene-board-meeting-023141988.html"
+        }
+      },
+      {
+        "keyword": "두산에너 빌리티",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "두산에너빌리티, 9천300억 규모 오만 미스파 발전소 공사 수주",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821033500003"
+        }
+      },
+      {
+        "keyword": "천위페이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'中 왕즈이 그렇게 살지 마!' 맹비난…'올림픽 메달 2개' 인도 슈퍼스타 분노→\"2번 쓰러진 王, 다쳤는지는 모르겠고 전략일 수도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821134637256"
+        }
+      },
+      {
+        "keyword": "삼성디스플레이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "삼성SDI, 삼성D 지분 팔아 4.45조 확보…美 투자 드라이브[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821164218810"
+        }
+      },
+      {
+        "keyword": "국민의힘",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[이슈]김종인의 예언“국힘, 이진숙 말 들으면…”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11610865"
+        }
+      },
+      {
+        "keyword": "한국은행 기준금리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "국내금융그룹이 전망하는 올해 하반기 기준금리는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821173709683"
+        }
+      },
+      {
+        "keyword": "금호건설",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼성, 냉난방공조 2400억 투자… 광주사업장에 생산라인 짓는다",
+          "source": "동아비즈니스리뷰 | DBR",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/3427"
+        }
+      },
+      {
+        "keyword": "전소미",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이게 누구야? 새까만 머드팩부터 수영복 자태까지...전소미, 반전 매력 공개",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1629819"
         }
       }
     ]

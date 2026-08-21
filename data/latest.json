@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-21T17:27:03.670921+09:00",
-  "label": "17:27",
+  "timestamp": "2026-08-21T18:25:32.379942+09:00",
+  "label": "18:25",
   "items": [
     {
-      "keyword": "암",
+      "keyword": "적금",
       "traffic_raw": "20000+",
       "traffic": 20000,
       "news": {
-        "title": "조권, \"점점 말라가…얼마큼의 시간 허락될까\" '암투병' 반려견과 이별 예감 [MHN:피드]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821162954283"
+        "title": "국민은행 연 12% 역대급 적금 내놨다…선착순 10만개",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608214660i"
       }
     },
     {
-      "keyword": "전투기 조종사",
+      "keyword": "의정부시",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "비상탈출 전투기조종사 구조한 스리랑카 근로자들에 장기체류자격",
+        "title": "김천시의회, 행정사무감사 시민제보 받는다",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026082109505695816"
+      }
+    },
+    {
+      "keyword": "005930",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Samsung board set to discuss huge shareholder return package on Friday",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-elec-convene-board-meeting-023141988.html"
+      }
+    },
+    {
+      "keyword": "두산에너 빌리티",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "두산에너빌리티, 9천300억 규모 오만 미스파 발전소 공사 수주",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821067400004"
+        "url": "https://www.yna.co.kr/view/AKR20260821033500003"
       }
     },
     {
-      "keyword": "하주석",
+      "keyword": "천위페이",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'대형 트레이드' KIA맨 하주석, 첫 대전 원정 돌아보다…\"등장곡 불러주신 한화 팬분들, 잊지 못할 기억 될 것\" [대전 인터뷰]",
+        "title": "'中 왕즈이 그렇게 살지 마!' 맹비난…'올림픽 메달 2개' 인도 슈퍼스타 분노→\"2번 쓰러진 王, 다쳤는지는 모르겠고 전략일 수도\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821113615121"
+        "url": "https://v.daum.net/v/20260821134637256"
       }
     },
     {
-      "keyword": "방탄소년단",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "삼성디스플레이",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[장혜수의 뉴스터치] 아이 갓 어 키스",
+        "title": "삼성SDI, 삼성D 지분 팔아 4.45조 확보…美 투자 드라이브[종합]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821000809243"
+        "url": "https://v.daum.net/v/20260821164218810"
       }
     },
     {
-      "keyword": "lig 디펜스 & 에어로 스페이스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821093903648"
-      }
-    },
-    {
-      "keyword": "딩하오",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "신진서, 리웨이칭 꺾고 8강 진출",
-        "source": "사이버오로",
-        "url": "https://m.cyberoro.com/news/news_view.oro?div_no=A1&num=532728"
-      }
-    },
-    {
-      "keyword": "채은성",
+      "keyword": "국민의힘",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"지고 있는데 상대 응원곡 따라부르다니\" 팬들, 한화 주장 채은성 태도 '융단폭격'...사실인가?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821075950653"
+        "title": "[이슈]김종인의 예언“국힘, 이진숙 말 들으면…”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11610865"
       }
     },
     {
-      "keyword": "신반포4차아파트",
+      "keyword": "한국은행 기준금리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신반포4차 재건축 '탄력'…숙대입구역세권 재개발 통합심의 통과",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821046000004"
+        "title": "국내금융그룹이 전망하는 올해 하반기 기준금리는?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821173709683"
       }
     },
     {
-      "keyword": "tài khoản ngân hàng",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
+      "keyword": "금호건설",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "삼성, 냉난방공조 2400억 투자… 광주사업장에 생산라인 짓는다",
+        "source": "동아비즈니스리뷰 | DBR",
+        "url": "https://dbr.donga.com/kfocus/view/article_no/3427"
+      }
     },
     {
-      "keyword": "ssg닷컴",
+      "keyword": "전소미",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"세계 오페라 극장 휩쓴 40년… 포기한 건 사랑과 우정\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/culture-life/culture_general/2026/08/21/5GDEE2BK6NFY5G74SZ64XAUN7A/"
+        "title": "이게 누구야? 새까만 머드팩부터 수영복 자태까지...전소미, 반전 매력 공개",
+        "source": "스포츠서울",
+        "url": "https://www.sportsseoul.com/news/read/1629819"
       }
     }
   ]
