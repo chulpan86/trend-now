@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-08-23T04:15:26.598268+09:00",
-  "label": "04:15",
+  "timestamp": "2026-08-23T05:11:35.442880+09:00",
+  "label": "05:11",
   "items": [
+    {
+      "keyword": "에스파뇰 대 레알 마드리드",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822150127756?f=p"
+      }
+    },
+    {
+      "keyword": "편의점",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "논산 편의점서 실종된 여중생, 100km 떨어진 무주서 발견",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260822/134523655/2"
+      }
+    },
     {
       "keyword": "일본 지진",
       "traffic_raw": "1000+",
@@ -23,13 +43,13 @@
       }
     },
     {
-      "keyword": "레알마드리드",
+      "keyword": "tottenham",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822150127756?f=p"
+        "title": "Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, Everton and Leeds",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/clyx03e7y2lt"
       }
     },
     {
@@ -43,13 +63,13 @@
       }
     },
     {
-      "keyword": "brentford vs spurs",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "브렌트포드",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "Spurs make nightmare start as Brentford hit three in easy win",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cj75g01qn51dt"
+        "title": "김지수, 브렌트포드 1군 포함…韓 EPL 계보 이어간다",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20260822/134523687/1"
       }
     },
     {
@@ -77,29 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[오피셜] 계약 기간 5년, 이적료 567억…'16년 리버풀 인생 청산' 존스, 이탈리아 챔피언 인터 밀란 이적",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260822n05543"
-      }
-    },
-    {
-      "keyword": "k뷰티",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy.",
-        "source": "New York Magazine",
-        "url": "https://nymag.com/strategist/article/sephora-olive-young-k-beauty-edit.html"
-      }
-    },
-    {
-      "keyword": "유영우",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yqCKI2waGM"
+        "title": "‘슈퍼 원더골’ 역시 디펜딩 챔피언의 품격! 인테르, 4골 몰아치며 개막전 대승",
+        "source": "풋볼리스트",
+        "url": "http://www.footballist.co.kr/news/articleView.html?idxno=213873"
       }
     }
   ]
