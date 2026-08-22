@@ -1,105 +1,97 @@
 {
-  "timestamp": "2026-08-22T14:17:27.228109+09:00",
-  "label": "14:17",
+  "timestamp": "2026-08-22T15:21:31.784939+09:00",
+  "label": "15:21",
   "items": [
     {
-      "keyword": "오늘 날씨",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[날씨] 강한 소나기 주의…충청·남부 무더위 기승",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822122704394"
-      }
-    },
-    {
-      "keyword": "당구",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "시골 당구장 카운터 보던 알바생이 어떻게 ‘최초의 챔피언’ 됐나",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260818518275"
-      }
-    },
-    {
-      "keyword": "무덤",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“딸 묻을 자리였는데”…아버지가 판 무덤, 9년 뒤 해바라기 가득한 기적의 꽃밭으로",
-        "source": "주간경향",
-        "url": "https://weekly.khan.co.kr/article/202608191458001"
-      }
-    },
-    {
-      "keyword": "놀면 뭐하니?",
+      "keyword": "집",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "유재석, 86억 펜트하우스 절대 공개 안하더니..\"집에 모니터 12개썰\" 입열었다(놀뭐)",
+        "title": "\"집 샀다는 이유만으로 30억 벌었는데, 세금 당연 내야죠\"…이 말 나오도록, 디테일에 승부 걸어야 [세금전쟁 ⑥·끝]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260821154352443"
+        "url": "https://v.daum.net/v/20260822050212415"
       }
     },
     {
-      "keyword": "공대공 미사일",
+      "keyword": "아시아나항공",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "이의리",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260822023600011"
+        "title": "'마무의리' 이제 짝 달라붙는다...여기서 생긴 궁금증 '혹시 3연투 가능한가요' [고척 현장]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/08/21/HBRTGMTGGQ2TSMRSHBQTSYLBHA/"
       }
     },
     {
-      "keyword": "일론 머스크",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "일론 머스크 ‘비트코인엔 목 조를 곳 없다’…이유는?",
-        "source": "BeInCrypto",
-        "url": "https://kr.beincrypto.com/elon-musk-bitcoin-no-throat-choke/"
-      }
-    },
-    {
-      "keyword": "분사기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "큰아버지 분묘 파헤쳐 가스 분사기로 유골 태운 60대 집유",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821158000062"
-      }
-    },
-    {
-      "keyword": "강남",
+      "keyword": "임요환",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "강남, '우익 논란' 日 배우 홍보했다 뭇매… 유튜브 영상· SNS 삭제",
+        "title": "임요환, 억대 상금 다 어디로?…김가연 \"집에 원수 같은 트로피만\"",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260821_0003758232"
+        "url": "https://www.newsis.com/view/NISX20260821_0003757241"
       }
     },
     {
-      "keyword": "박지현",
+      "keyword": "골드만삭스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'황당 봉변' 박지현 자유투 던지는데 성인용품 투척! 美 WNBA서 험한 꼴 나왔다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822033436223"
+        "title": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로",
+        "source": "블록미디어",
+        "url": "https://www.blockmedia.co.kr/archives/1130642"
       }
     },
     {
-      "keyword": "특별재난지역",
+      "keyword": "김대호",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'호우 피해' 거제·통영 특별재난지역 선포…갈길 먼 복구 작업",
+        "title": "'88명 대가족' 김대호, '결혼장례식' 후 달라졌다…\"제사 폐지, 김치 사먹어\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260822122309351"
+        "url": "https://v.daum.net/v/8oinR7NdSS?f=p"
+      }
+    },
+    {
+      "keyword": "티 프로스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[명일방주 엔드필드] 티프로스 진짜 귀엽네",
+        "source": "게임톡",
+        "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110846"
+      }
+    },
+    {
+      "keyword": "트럼프",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "美재무부 '장기금리 방어'에 달러 흔들…월가 \"대가 치를 수도\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822014000923"
+      }
+    },
+    {
+      "keyword": "코인니스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "유방녕",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘도원’ 유방녕 “故 정주영 회장이 단골…팁은 수표 다발, 빌딩 살 수 있었다”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Entertainment/article/all/20260820/134509201/1"
       }
     }
   ]
