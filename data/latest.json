@@ -1,27 +1,7 @@
 {
-  "timestamp": "2026-08-23T06:11:58.782027+09:00",
-  "label": "06:11",
+  "timestamp": "2026-08-23T07:11:14.759134+09:00",
+  "label": "07:11",
   "items": [
-    {
-      "keyword": "편의점",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "논산 편의점서 실종된 여중생, 100km 떨어진 무주서 발견",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260822/134523655/2"
-      }
-    },
-    {
-      "keyword": "에스파뇰 대 레알 마드리드",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822150127756"
-      }
-    },
     {
       "keyword": "조국",
       "traffic_raw": "2000+",
@@ -33,39 +13,79 @@
       }
     },
     {
-      "keyword": "espanyol vs real madrid",
+      "keyword": "서승재",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "배드민턴 서승재-김원호, 세계선수권 2연패 '청신호'…말레이시아 누르고 준결승행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822092750404"
+      }
+    },
+    {
+      "keyword": "오세훈",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘부동산 공급 논의’ 김영배·오세훈 오찬…노웅래 2심 무죄 공방도",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8643431"
+      }
+    },
+    {
+      "keyword": "지상렬",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'살림남' 지상렬, 이요원에 피처링 제안 속 계약금도 줬지만…거절 아픔",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823055149642"
+      }
+    },
+    {
+      "keyword": "왕즈이",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Primer examen para Mourinho… con siete bajas y un mensaje a la cantera",
-        "source": "MARCA",
-        "url": "https://www.marca.com/futbol/real-madrid/2026/08/21/primer-examen-mourinho-seis-bajas-mensaje-cantera.html"
+        "title": "“왕즈이 투혼 발휘했지만…세계 1위 안세영은 독보적이었다” 中언론도 ‘중국 킬러’ 안세영에게 좌절했다",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260822131342952"
       }
     },
     {
-      "keyword": "la liga",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "이가 시비옹테크",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Preview: Espanyol vs Real Madrid - prediction, team news, lineups",
-        "source": "Sports Mole",
-        "url": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/espanyol-vs-real-madrid-prediction-team-news-lineups_603369.html"
-      }
-    },
-    {
-      "keyword": "바이에른 뮌헨",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까",
+        "title": "세계 1위, '157cm' 20세에게 충격패하더니…매너도 꽝이네→사발렌카, 라켓 부수더니 '싸늘한 악수'→\"거만하다\", \"이제 내려와\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/36pfvSV7tI"
+        "url": "https://v.daum.net/v/20260821181707782?f=p"
+      }
+    },
+    {
+      "keyword": "김경문",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'KS→충격 8위' 김경문 감독 계약 마지막해, 한화 구단은 어떤 평가를 내릴까",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260821n01770"
+      }
+    },
+    {
+      "keyword": "관광객",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "스위스인 관광객, 발리 힌두교 전통 비하 영상 올렸다가 징역 1년",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822200252667"
       }
     },
     {
       "keyword": "브레이브스 대 브루어스",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "'김하성 6경기 연속 결장' 애틀랜타, 투수전 끝에 밀워키에 1-2 석패",
         "source": "네이트",
@@ -73,33 +93,13 @@
       }
     },
     {
-      "keyword": "브렌트포드",
+      "keyword": "dortmund vs bayern",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김지수, 브렌트포드 1군 포함…韓 EPL 계보 이어간다",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260822/134523687/1"
-      }
-    },
-    {
-      "keyword": "인테르",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘슈퍼 원더골’ 역시 디펜딩 챔피언의 품격! 인테르, 4골 몰아치며 개막전 대승",
-        "source": "풋볼리스트",
-        "url": "http://www.footballist.co.kr/news/articleView.html?idxno=213873"
-      }
-    },
-    {
-      "keyword": "첼시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'도핑 징계 해제' 첼시 윙어 결국 팀 떠나나…\"첼시가 직접 임대보낼 팀 찾고 있어\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260823n00659"
+        "title": "Supercup: FC Bayern gewinnt gegen Borussia Dortmund",
+        "source": "ZDFheute",
+        "url": "https://www.zdfheute.de/sport/fussball-supercup-fc-bayern-muenchen-borussia-dortmund-100.html"
       }
     }
   ]

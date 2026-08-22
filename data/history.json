@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-21T18:25:32.379942+09:00",
-    "label": "18:25",
-    "items": [
-      {
-        "keyword": "적금",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "국민은행 연 12% 역대급 적금 내놨다…선착순 10만개",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608214660i"
-        }
-      },
-      {
-        "keyword": "의정부시",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김천시의회, 행정사무감사 시민제보 받는다",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026082109505695816"
-        }
-      },
-      {
-        "keyword": "005930",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Samsung board set to discuss huge shareholder return package on Friday",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-elec-convene-board-meeting-023141988.html"
-        }
-      },
-      {
-        "keyword": "두산에너 빌리티",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "두산에너빌리티, 9천300억 규모 오만 미스파 발전소 공사 수주",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821033500003"
-        }
-      },
-      {
-        "keyword": "천위페이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'中 왕즈이 그렇게 살지 마!' 맹비난…'올림픽 메달 2개' 인도 슈퍼스타 분노→\"2번 쓰러진 王, 다쳤는지는 모르겠고 전략일 수도\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821134637256"
-        }
-      },
-      {
-        "keyword": "삼성디스플레이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "삼성SDI, 삼성D 지분 팔아 4.45조 확보…美 투자 드라이브[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821164218810"
-        }
-      },
-      {
-        "keyword": "국민의힘",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[이슈]김종인의 예언“국힘, 이진숙 말 들으면…”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11610865"
-        }
-      },
-      {
-        "keyword": "한국은행 기준금리",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "국내금융그룹이 전망하는 올해 하반기 기준금리는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821173709683"
-        }
-      },
-      {
-        "keyword": "금호건설",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼성, 냉난방공조 2400억 투자… 광주사업장에 생산라인 짓는다",
-          "source": "동아비즈니스리뷰 | DBR",
-          "url": "https://dbr.donga.com/kfocus/view/article_no/3427"
-        }
-      },
-      {
-        "keyword": "전소미",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이게 누구야? 새까만 머드팩부터 수영복 자태까지...전소미, 반전 매력 공개",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1629819"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-21T19:19:24.860570+09:00",
     "label": "19:19",
     "items": [
@@ -3775,6 +3669,112 @@
           "title": "'도핑 징계 해제' 첼시 윙어 결국 팀 떠나나…\"첼시가 직접 임대보낼 팀 찾고 있어\"",
           "source": "네이트",
           "url": "https://sports.news.nate.com/view/20260823n00659"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-23T07:11:14.759134+09:00",
+    "label": "07:11",
+    "items": [
+      {
+        "keyword": "조국",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "조국 \"위법수집증거 역설했으나 난 유죄\"…韓 \"뭐가 억울한가\"(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822027552001"
+        }
+      },
+      {
+        "keyword": "서승재",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "배드민턴 서승재-김원호, 세계선수권 2연패 '청신호'…말레이시아 누르고 준결승행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822092750404"
+        }
+      },
+      {
+        "keyword": "오세훈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘부동산 공급 논의’ 김영배·오세훈 오찬…노웅래 2심 무죄 공방도",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643431"
+        }
+      },
+      {
+        "keyword": "지상렬",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'살림남' 지상렬, 이요원에 피처링 제안 속 계약금도 줬지만…거절 아픔",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823055149642"
+        }
+      },
+      {
+        "keyword": "왕즈이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“왕즈이 투혼 발휘했지만…세계 1위 안세영은 독보적이었다” 中언론도 ‘중국 킬러’ 안세영에게 좌절했다",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260822131342952"
+        }
+      },
+      {
+        "keyword": "이가 시비옹테크",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "세계 1위, '157cm' 20세에게 충격패하더니…매너도 꽝이네→사발렌카, 라켓 부수더니 '싸늘한 악수'→\"거만하다\", \"이제 내려와\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821181707782?f=p"
+        }
+      },
+      {
+        "keyword": "김경문",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'KS→충격 8위' 김경문 감독 계약 마지막해, 한화 구단은 어떤 평가를 내릴까",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260821n01770"
+        }
+      },
+      {
+        "keyword": "관광객",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "스위스인 관광객, 발리 힌두교 전통 비하 영상 올렸다가 징역 1년",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822200252667"
+        }
+      },
+      {
+        "keyword": "브레이브스 대 브루어스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'김하성 6경기 연속 결장' 애틀랜타, 투수전 끝에 밀워키에 1-2 석패",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260822n04585?mid=s0206&isq=9298"
+        }
+      },
+      {
+        "keyword": "dortmund vs bayern",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Supercup: FC Bayern gewinnt gegen Borussia Dortmund",
+          "source": "ZDFheute",
+          "url": "https://www.zdfheute.de/sport/fussball-supercup-fc-bayern-muenchen-borussia-dortmund-100.html"
         }
       }
     ]
