@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-23T02:11:28.986638+09:00",
-  "label": "02:11",
+  "timestamp": "2026-08-23T03:14:19.010090+09:00",
+  "label": "03:14",
   "items": [
     {
-      "keyword": "우 서윤",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "일본 지진",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "‘우지원 딸’ 우서윤, 미스코리아 진 됐다",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Entertainment/article/all/20260822/134523836/1"
+        "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823001300530"
       }
     },
     {
@@ -23,23 +23,23 @@
       }
     },
     {
-      "keyword": "정재환",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "地震",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'그것이 알고싶다', 친구 잔혹살해한 정재환의 엽기 행각 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082220007293775"
+        "title": "简讯：茨城县南部发生M5.9级地震 东京震感强烈",
+        "source": "共同网",
+        "url": "https://china.kyodonews.net/articles/-/14593"
       }
     },
     {
-      "keyword": "챔피언십",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "brentford vs spurs",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'김상식호' 베트남, 현대컵 결승 1차전 원정서 태국에 2-0 완승",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823000200007"
+        "title": "Tottenham predicted team vs Brentford - New captain starts as De Zerbi picks young team",
+        "source": "Football London",
+        "url": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/tottenham-predicted-team-vs-brentford-34500286"
       }
     },
     {
@@ -63,6 +63,36 @@
       }
     },
     {
+      "keyword": "k뷰티",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy.",
+        "source": "New York Magazine",
+        "url": "https://nymag.com/strategist/article/sephora-olive-young-k-beauty-edit.html"
+      }
+    },
+    {
+      "keyword": "유영우",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/yqCKI2waGM"
+      }
+    },
+    {
+      "keyword": "로베르토 데 제르비",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[오피셜] 손흥민 ‘70m 단독 돌파 골’ 완벽하게 재현한 ‘토트넘 에이스’→SON, 로메로 이어 ‘새로운 캡틴...",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608220606003"
+      }
+    },
+    {
       "keyword": "타짜",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -70,36 +100,6 @@
         "title": "\"밑장빼기는 없다\"...추석에 정면승부 거는 '타짜:벨제붑의노래' [시네마 리포트] - 머니투데이",
         "source": "머니투데이",
         "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082208307240052"
-      }
-    },
-    {
-      "keyword": "청소업체",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "고객 집 거실에 '오물' 뿌린 청소업체 직원, 왜...법적 다툼까지 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/22/2026082214382632951"
-      }
-    },
-    {
-      "keyword": "고레츠카",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "시즌 개막했는데 여전히 백수 신세…'KIM 전 동료' 드디어 새 직장 찾나? UEL 우승팀이 원한다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/9kMH7lfzws"
-      }
-    },
-    {
-      "keyword": "공항",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "인천공항 여름휴가철 여객 늘었지만 주차장 혼잡은 완화",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821076400065"
       }
     }
   ]
