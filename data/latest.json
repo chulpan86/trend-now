@@ -1,61 +1,21 @@
 {
-  "timestamp": "2026-08-22T11:08:28.425356+09:00",
-  "label": "11:08",
+  "timestamp": "2026-08-22T12:33:20.971194+09:00",
+  "label": "12:33",
   "items": [
     {
-      "keyword": "안재환",
+      "keyword": "비트코인",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'故 안재환 사별' 정선희 \"세상이 생매장하는 것처럼 악플 달려\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/6266220"
-      }
-    },
-    {
-      "keyword": "경복궁",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "광화문 앞에서 한 컷",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260822n04374?mid=n1101"
-      }
-    },
-    {
-      "keyword": "일본 엔",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"미·일 외환개입에 엔캐리 청산 우려…모니터링 필요\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822093003434"
-      }
-    },
-    {
-      "keyword": "bangladesh vs australia",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Australia v Bangladesh: second men’s Test, day one – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live"
-      }
-    },
-    {
-      "keyword": "금값",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821142651600"
+        "title": "시타델이 살렸다…금리 또 올랐지만 주가, 금, 코인 상승 [김현석의 월스트리트나우]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608225810i"
       }
     },
     {
       "keyword": "김병지",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "\"누구 말이 사실인지 법정서 밝히자\" 김병지, 박문성에 정면 반격... \"태어나서 칸쿤 간 적 없다\" - 머니투데이",
         "source": "머니투데이",
@@ -63,43 +23,83 @@
       }
     },
     {
-      "keyword": "ban vs aus",
+      "keyword": "테슬라",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "테슬라, 중국에서 300만대 대규모 리콜…\"사고 시 손잡이 결함\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260822009200075"
+      }
+    },
+    {
+      "keyword": "살해",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "아내 흉기 살해범, 법정서 \"칼은 상징물이었을 뿐\" 황당 변명",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260821167500004"
+      }
+    },
+    {
+      "keyword": "탈영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Australia v Bangladesh: second men’s Test, day one – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live"
+        "title": "한기호 \"탈영했다면 내가 아들\" 안규백에 \"졸지에 입양할듯\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/6fu3SqAi5J?f=p"
       }
     },
     {
-      "keyword": "한국마사회",
+      "keyword": "테니스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "제주농단협, '한국마사회 본사' 제주 이전 촉구 서명운동",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821170838707"
+        "title": "한국 여자 테니스의 국제무대 경쟁 구조와 선수 유형",
+        "source": "테니스피플",
+        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19285"
       }
     },
     {
-      "keyword": "오동운",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "supreme",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "인사말하는 이진수 법무부 차관",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260821_0021406168"
+        "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now",
+        "source": "AP News",
+        "url": "https://apnews.com/article/trump-white-house-ballroom-supreme-court-b3eaee672028e584d0c520180c663e2c"
       }
     },
     {
-      "keyword": "강원도민일보",
+      "keyword": "휴머노이드",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[르포] 러시아 연해주 재외동포들 한-러관계 절박한 정상화 건의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822095437727"
+        "title": "싸도 1700만원인데 중국의 그 많은 로봇은 누가 살까",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608211414001"
+      }
+    },
+    {
+      "keyword": "논설위원",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김회승 전 논설위원의 춘추관장 임명에 대한 한겨레신문사 입장",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1274099.html"
+      }
+    },
+    {
+      "keyword": "홍혜걸",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "여에스더, 10년 함께한 가사도우미에게 강남 아파트 선물",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026082007570005686"
       }
     }
   ]

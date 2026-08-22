@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-20T23:25:17.751791+09:00",
-    "label": "23:25",
-    "items": [
-      {
-        "keyword": "weather tomorrow",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Parashikimi i motit për të enjten",
-          "source": "Reporteri",
-          "url": "https://reporteri.net/en/NEWS/weather-forecast-for-Thursday-21/"
-        }
-      },
-      {
-        "keyword": "thời tiết ngày mai",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Áp thấp nhiệt đới có thể mạnh lên thành bão khi vào vịnh Bắc Bộ",
-          "source": "BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG",
-          "url": "https://mae.gov.vn/ap-thap-nhiet-doi-co-the-manh-len-thanh-bao-khi-vao-vinh-bac-bo-22647.htm"
-        }
-      },
-      {
-        "keyword": "한지윤",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "지독한 여덟수 빠진 류현진…70일째 9승 실패",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642127"
-        }
-      },
-      {
-        "keyword": "기아타이거즈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'대박' KIA 김도영 \"저 2년차 때보다 훨씬 잘하고 있다\"며 직접 극찬한 '20살 이 선수' 대단하네",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820133837958"
-        }
-      },
-      {
-        "keyword": "강원일보",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대한건설협회 강원도회, 교육시설 공사 지역업체 참여 확대 건의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820161409882"
-        }
-      },
-      {
-        "keyword": "cuaca besok",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Jakarta Diguyur Hujan Hari Ini, Pramono: Karena Operasi Modifikasi Cuaca",
-          "source": "RCTI+",
-          "url": "https://www.rctiplus.com/news/detail/terkini/5455094/jakarta-diguyur-hujan-hari-ini-pramono-karena-operasi-modifikasi-cuaca"
-        }
-      },
-      {
-        "keyword": "사비뉴",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "손흥민 떠난 후 1년, 토트넘 美쳤다! 벌써 4355억 투자→끝이 아냐…'대충격' 사비뉴→마르무시, 맨시티 '쌍끌이 영입'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/20/GFTDMZRRHFSGCYJRGUYWKOJQMU/"
-        }
-      },
-      {
-        "keyword": "두산",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "테일러 4이닝 7실점으로 무너진 마운드…NC, 두산에 2연패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819224507221"
-        }
-      },
-      {
-        "keyword": "케네디",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "공 4개로 위기 지운 LG 케네디, 데뷔전서 팬들에게 눈도장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820123000007"
-        }
-      },
-      {
-        "keyword": "순대외금융자산",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "순대외금융자산 12년 만에 최소…역대 최대폭 감소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820170951486"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T00:23:46.846202+09:00",
-    "label": "00:23",
-    "items": [
-      {
-        "keyword": "오디세이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"티켓 한 장에 10만원?\"…'오디세이' 암표 극성에 영진위 칼 뺐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HYin4xlwCO?f=p"
-        }
-      },
-      {
-        "keyword": "한화",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'김태군 역전 투런포' KIA, 시즌 첫 3위 도약…한화, 8위 추락(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820187200007"
-        }
-      },
-      {
-        "keyword": "코오롱티슈진",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "코오롱티슈진, 美 본사 몸집 줄이기…'TG-C' 상업화 인력 줄였다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/08/19/2026081915172626540"
-        }
-      },
-      {
-        "keyword": "야구 순위",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "◇오늘의 경기(20일)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819174500007"
-        }
-      },
-      {
-        "keyword": "배우",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "홍민기 전 연인 추가 폭로…\"임신중절 종용, 법적 대응할 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260819_0003754984"
-        }
-      },
-      {
-        "keyword": "이륙",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820143438738"
-        }
-      },
-      {
-        "keyword": "김서현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "돌아온 ‘한화 필승조’…가을야구 구세주 될까?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8640286"
-        }
-      },
-      {
-        "keyword": "리플",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "에버노스 \"1주당 XRP 가치 더 올린다\"…나스닥 상장 앞두고 승부수",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/08/202608151704077669e250e8e188_1"
-        }
-      },
-      {
-        "keyword": "욕조",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820102810238"
-        }
-      },
-      {
-        "keyword": "강남구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"서초 아파트 팔고 남양주로\"‥서울 서초·강남 집값 2주 연속 하락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820203409863"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-21T01:21:50.268637+09:00",
     "label": "01:21",
     "items": [
@@ -3677,6 +3465,112 @@
           "title": "[르포] 러시아 연해주 재외동포들 한-러관계 절박한 정상화 건의",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260822095437727"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-22T12:33:20.971194+09:00",
+    "label": "12:33",
+    "items": [
+      {
+        "keyword": "비트코인",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "시타델이 살렸다…금리 또 올랐지만 주가, 금, 코인 상승 [김현석의 월스트리트나우]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608225810i"
+        }
+      },
+      {
+        "keyword": "김병지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"누구 말이 사실인지 법정서 밝히자\" 김병지, 박문성에 정면 반격... \"태어나서 칸쿤 간 적 없다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/22/2026082203135837150"
+        }
+      },
+      {
+        "keyword": "테슬라",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "테슬라, 중국에서 300만대 대규모 리콜…\"사고 시 손잡이 결함\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822009200075"
+        }
+      },
+      {
+        "keyword": "살해",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "아내 흉기 살해범, 법정서 \"칼은 상징물이었을 뿐\" 황당 변명",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821167500004"
+        }
+      },
+      {
+        "keyword": "탈영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한기호 \"탈영했다면 내가 아들\" 안규백에 \"졸지에 입양할듯\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6fu3SqAi5J?f=p"
+        }
+      },
+      {
+        "keyword": "테니스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한국 여자 테니스의 국제무대 경쟁 구조와 선수 유형",
+          "source": "테니스피플",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19285"
+        }
+      },
+      {
+        "keyword": "supreme",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now",
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-white-house-ballroom-supreme-court-b3eaee672028e584d0c520180c663e2c"
+        }
+      },
+      {
+        "keyword": "휴머노이드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "싸도 1700만원인데 중국의 그 많은 로봇은 누가 살까",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608211414001"
+        }
+      },
+      {
+        "keyword": "논설위원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김회승 전 논설위원의 춘추관장 임명에 대한 한겨레신문사 입장",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274099.html"
+        }
+      },
+      {
+        "keyword": "홍혜걸",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "여에스더, 10년 함께한 가사도우미에게 강남 아파트 선물",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026082007570005686"
         }
       }
     ]
