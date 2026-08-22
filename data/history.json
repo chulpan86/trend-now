@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-08-20T20:17:06.810941+09:00",
-    "label": "20:17",
-    "items": [
-      {
-        "keyword": "중앙일보",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이준석 \"어떤 피고인이 판사 고르냐‥이 대통령, 자기 재판 영향 끼치겠다는 것\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6845994_36911.html"
-        }
-      },
-      {
-        "keyword": "박소윤",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김성수♥박소윤 함께 떠났다, 여수 밤바다 보며 벽 허물까 (신랑수업2)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260820/134512937/1"
-        }
-      },
-      {
-        "keyword": "박성광",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'박성광♥' 이솔이, 하늘도 무심해..\"이별은 익숙해지지 않아\" 반려견 투병에 '오열'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/20/MJSDMN3FG5STQMZUG4YDMYLGGQ/"
-        }
-      },
-      {
-        "keyword": "양정원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"피의자가 사라졌다\"…룸살롱 접대받고 '양정원 사건' 증발시킨 경찰들 재판행 [종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820132612578"
-        }
-      },
-      {
-        "keyword": "경마",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"직원 목소리, 조직 변화로 잇는다\"…마사회 노사, 공휴경마 현장 동행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820150553834"
-        }
-      },
-      {
-        "keyword": "서울교통공사",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "진접차량기지 이전했더니 열차 감편?…김병주 “남양주시민 희생 강요 중단해야”",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=348097"
-        }
-      },
-      {
-        "keyword": "문보경",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'LG팬 좋겠다' 우승 청부사 드디어 돌아왔다…1위 팀 상대 '2단타' 인생투 어떻게 가능했나 \"메커니즘을 조정했다\" [MD잠실]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820140251900"
-        }
-      },
-      {
-        "keyword": "피온",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "이랜드그룹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이랜드그룹, 러닝화 브랜드 '호카' 국내 총판 맡는다(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820045351030"
-        }
-      },
-      {
-        "keyword": "이민정",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"지친 결혼 생활에 종지부\"..'이병헌♥' 이민정, '이혼하자' 열혈 홍보",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820114749672"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-20T21:25:40.751170+09:00",
-    "label": "21:25",
-    "items": [
-      {
-        "keyword": "레버리지",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "이달 ETF 거래대금 '반토막'…\"단일 레버리지 규제 영향\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820080152400"
-        }
-      },
-      {
-        "keyword": "박은빈",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"연기의 神인 이유 있었다\"...'오싹한 연애' 쉬는 시간마다 '대본' 붙잡고 '열공'하는 박은빈 포착",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819203837152"
-        }
-      },
-      {
-        "keyword": "휴대 전화",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "안민석표 ‘폰 프리 스쿨’ 탄력…경기도의회, 관련 조례 개정안 입법예고",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260820580051"
-        }
-      },
-      {
-        "keyword": "주차",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'문콕' 절대 없겠네…2톤 차도 번쩍 들어 착착 '주차로봇'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820204949070"
-        }
-      },
-      {
-        "keyword": "류현진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'두 달 넘게 무승이라니' 류현진 또또 승리 실패…6이닝 5K 4실점 '패전 위기' [오!쎈 대전] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/20/202608202054779266O"
-        }
-      },
-      {
-        "keyword": "청주 kb 스타즈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘28살에 신인?’ 재일교포 가네다, WKBL 전체 1순위",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641178"
-        }
-      },
-      {
-        "keyword": "조경태",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "국힘 윤리위, 조경태 당원권 정지 2년 6개월·진종오 2년·권영진 1년6개월 의결",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608201958001"
-        }
-      },
-      {
-        "keyword": "이정범",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "SSG 웨이버 방출→KT 트레이드 영입…미완의 유망주, 안타-안타-2루타→이적 후 4할 맹타 “기회를 못 잡아 아쉬웠다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820104311972"
-        }
-      },
-      {
-        "keyword": "한기호",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "안규백 “탈영 의혹 사실이면 제가 한기호 의원 아들” [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641699"
-        }
-      },
-      {
-        "keyword": "lg에너지솔루션",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "LG에너지솔루션, 북미 ESS 핵심 거점…랜싱 공장 본격 가동",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608192041025"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-20T22:38:04.130389+09:00",
     "label": "22:38",
     "items": [
@@ -3779,6 +3571,112 @@
           "title": "국악인 김다현 ‘경남고성공룡세계엑스포 홍보대사’ 위촉",
           "source": "경남도민일보",
           "url": "https://www.idomin.com/news/articleView.html?idxno=2012835"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-22T09:38:31.319078+09:00",
+    "label": "09:38",
+    "items": [
+      {
+        "keyword": "김준호",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“두룹아 건강하게 나오거라” 김지민·김준호 부부 태아 성별 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4MUrZUgR1n?f=p"
+        }
+      },
+      {
+        "keyword": "나는 solo",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "46일만 이혼했다더니…나솔 16기 옥순, 재혼 4개월만 '또 이혼' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082016130180469"
+        }
+      },
+      {
+        "keyword": "재정",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "나랏빚 안 갚고… 국회 동의 필요 없는 ‘정부 쌈짓돈’으로 운용하나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/08/22/ZR6AND6CWRBVLLTZP4VJUCAUFQ/"
+        }
+      },
+      {
+        "keyword": "베트남 축구 국가대표팀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "동남아시아 언론은 베트남과 태국 국가대표팀 간의 결승전 세 경기를 분석했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bao-dong-nam-a-diem-lai-3-tran-chung-ket-giua-tuyen-viet-nam-va-thai-lan"
+        }
+      },
+      {
+        "keyword": "학대",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 병원 간 적 없는 아이 조사했더니…학대 의심 4명·소재 불명 197명",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643065"
+        }
+      },
+      {
+        "keyword": "앱솔 릭스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "앱솔릭스, 4천11억원 유상증자…\"글라스기판 상업화 자금확보\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821161152649"
+        }
+      },
+      {
+        "keyword": "이진우",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "종합특검, '수호신 TF' 이진우·'합수본' 여인형 불구속 기소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821161300004"
+        }
+      },
+      {
+        "keyword": "안성재",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“발렛 맡겼더니 과태료”…안성재 ‘모수 서울’, 또 서비스 잡음",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tme36c3GlI"
+        }
+      },
+      {
+        "keyword": "무궁화호",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KTX가 점령한 철길, 무궁화호 운행 줄어… 지역 주민은 발동동",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/08/22/3JDS5OSLTFE7NNMIUA3BV4LXMI/"
+        }
+      },
+      {
+        "keyword": "미인 대회",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2026년 미스 월드 톱 40에 진출한 최초의 미인 대회 우승자.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nguoi-dep-dau-tien-vao-top-40-hoa-hau-the-gioi-2026"
         }
       }
     ]
