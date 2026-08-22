@@ -1,81 +1,21 @@
 {
-  "timestamp": "2026-08-22T17:16:53.830600+09:00",
-  "label": "17:16",
+  "timestamp": "2026-08-22T18:17:11.595325+09:00",
+  "label": "18:17",
   "items": [
     {
-      "keyword": "추석 민생지원금",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "해군사관학교",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "\"소득 상관없이 1인당 50만원씩\"...2만명 넘게 받았다",
+        "title": "없애고 쪼개고 합치는 軍… ‘정치 중립’ 넘어 ‘강한 군대’ 관건",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260822102350162"
+        "url": "https://v.daum.net/v/20260822000357363"
       }
     },
     {
-      "keyword": "엔비디아",
+      "keyword": "초과 근무",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "엔비디아 또 '사상 최대' 실적?…삼전닉스 말고 '수혜주' 따로 있다는데[주末머니]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822140040200"
-      }
-    },
-    {
-      "keyword": "오싹한 연애",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘오싹한 연애’ 박은빈, 뇌물수수 혐의로 검찰청 소환 - 스타투데이",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/broadcasting-service/12133752"
-      }
-    },
-    {
-      "keyword": "신랑",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "6억 신혼집에 5000만원 보탠 예비신랑…\"공동명의 아니면 파혼\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/22/2026082123382638709"
-      }
-    },
-    {
-      "keyword": "골드뱅킹",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“같은 금인줄 알고 샀는데 수익률이 다르다고?”…골드뱅킹·골드바 뭐가 더 남을까",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/stock/12133759"
-      }
-    },
-    {
-      "keyword": "사장님 귀는 당나귀 귀",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'연봉 킹' 김요한, 건물주 됐다…\"비결은 오직 저축\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260822_0003758335"
-      }
-    },
-    {
-      "keyword": "명진스님",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "봉은사 주지 지낸 명진스님 입적…제주서 프리다이빙 사고",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822144340vUr"
-      }
-    },
-    {
-      "keyword": "초과근무",
-      "traffic_raw": "500+",
-      "traffic": 500,
       "news": {
         "title": "아베의 '초과근무 월 45시간' 제한…다카이치가 풀었다 [뭔日있슈]",
         "source": "Daum",
@@ -83,23 +23,83 @@
       }
     },
     {
-      "keyword": "송치",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "엔비디아",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "곽상언 \"경찰, 자의적 불송치 판단... 형소법 다시 고쳐야\"",
+        "title": "엔비디아 또 '사상 최대' 실적 예상…'수혜주'는 따로 있다는데[주末머니]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/fHvzObkL7y"
+        "url": "https://v.daum.net/v/20260822140040200"
       }
     },
     {
-      "keyword": "야마모토 요시노부",
+      "keyword": "mlb",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "How an investigation into Dodgers owner Mark Walter could impact an MLB lockout",
+        "source": "The Good Phight",
+        "url": "https://www.thegoodphight.com/general/86332/how-an-investigation-into-dodgers-owner-mark-walter-could-impact-an-mlb-lockout"
+      }
+    },
+    {
+      "keyword": "박재현",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“(박)재현이 진짜 많이 늘었구나” 호령존 감탄, 이제 KIA 외야수비 리그 최상급…이 선수도 뜬다[MD고척]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822081149564"
+      }
+    },
+    {
+      "keyword": "버크셔 해서웨이",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "8월 ERA 1.83 폭주 중인 다저스 에이스 야마모토 요시노부, 오늘 피츠버그 상대로 시즌 23번째 선발 출격",
-        "source": "https://www.mlbkor.com/",
-        "url": "https://www.mlbkor.com/news/articleView.html?idxno=32306"
+        "title": "버크셔 해서웨이, 항구 변경folio그렉 아벨은 가장 흥미로운 투자 중 하나를 크게 끌어올렸습니다.",
+        "source": "Jablíčkář.cz",
+        "url": "https://jablickar.cz/ko/berkshire-hathaway-meni-portfolio-greg-abel-vyrazne-navysil-jednu-z-nejzajimavejsich-investic/"
+      }
+    },
+    {
+      "keyword": "박신혜",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"이휘향, 젊은 남자와 여행왔다\" 괌 한인사회 루머 해명…알고보니 '붕어빵' 친아들('데이앤나잇')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/35dwXjtWv8"
+      }
+    },
+    {
+      "keyword": "카자흐스탄",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "전현무 \"일 없으면 수입 0원\"…일 중독 생존불안 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082203364168741"
+      }
+    },
+    {
+      "keyword": "항공기",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "수직이착륙항공기 전용공항 첫 탄생…‘에어택시 시대’ 성큼",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822124850543"
+      }
+    },
+    {
+      "keyword": "호카",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[기업] 이랜드 \"러닝화 브랜드 '호카' 국내 총판 선정\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0102_202608220038078534"
       }
     }
   ]
