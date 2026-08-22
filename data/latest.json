@@ -1,7 +1,37 @@
 {
-  "timestamp": "2026-08-22T15:21:31.784939+09:00",
-  "label": "15:21",
+  "timestamp": "2026-08-22T16:23:02.450272+09:00",
+  "label": "16:23",
   "items": [
+    {
+      "keyword": "추석 민생지원금",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"소득 상관없이 1인당 50만원씩\"...2만명 넘게 받았다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822102350162"
+      }
+    },
+    {
+      "keyword": "대전날씨",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[날씨] 전국 곳곳 요란한 소나기…충청·남부는 폭염",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822153004028"
+      }
+    },
+    {
+      "keyword": "법원행정처",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "더민초 \"조희대 대법원장, 사법쿠데타 멈추고 즉각 사퇴하라\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822142238418"
+      }
+    },
     {
       "keyword": "집",
       "traffic_raw": "1000+",
@@ -13,85 +43,63 @@
       }
     },
     {
-      "keyword": "아시아나항공",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
-    },
-    {
-      "keyword": "이의리",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "고우석",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'마무의리' 이제 짝 달라붙는다...여기서 생긴 궁금증 '혹시 3연투 가능한가요' [고척 현장]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/08/21/HBRTGMTGGQ2TSMRSHBQTSYLBHA/"
-      }
-    },
-    {
-      "keyword": "임요환",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "임요환, 억대 상금 다 어디로?…김가연 \"집에 원수 같은 트로피만\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260821_0003757241"
-      }
-    },
-    {
-      "keyword": "골드만삭스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로",
-        "source": "블록미디어",
-        "url": "https://www.blockmedia.co.kr/archives/1130642"
-      }
-    },
-    {
-      "keyword": "김대호",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'88명 대가족' 김대호, '결혼장례식' 후 달라졌다…\"제사 폐지, 김치 사먹어\"",
+        "title": "'아쉬울 때 외면하더니...' vs '그래도 돌아온다면 환영'...고우석의 LG 복귀 시 팬들의 시선은?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/8oinR7NdSS?f=p"
+        "url": "https://v.daum.net/v/20260822072051971"
       }
     },
     {
-      "keyword": "티 프로스",
+      "keyword": "오타니 쇼헤이",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "오타니, 아시아 선수 최초 6시즌 연속 30홈런",
+        "source": "어린이동아",
+        "url": "https://kids.donga.com/news/articleView.html?idxno=169651"
+      }
+    },
+    {
+      "keyword": "배우자",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"일흔에 만난 배우자에게 준 아파트, 자녀들이 돌려달랍니다\" [존재의 가사분쟁 솔루션]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608213719i"
+      }
+    },
+    {
+      "keyword": "명진스님",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[명일방주 엔드필드] 티프로스 진짜 귀엽네",
-        "source": "게임톡",
-        "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=110846"
+        "title": "[속보] 명진스님 제주서 프리다이빙하다 숨져…향년 75세",
+        "source": "주간경향",
+        "url": "https://weekly.khan.co.kr/article/202608221507001"
       }
     },
     {
-      "keyword": "트럼프",
+      "keyword": "south korea",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "美재무부 '장기금리 방어'에 달러 흔들…월가 \"대가 치를 수도\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822014000923"
+        "title": "\"Criticism Does Not Help Build Trust\"... Urges Participation in the \"Journey\" to Peace",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008716323"
       }
     },
     {
-      "keyword": "코인니스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "유방녕",
+      "keyword": "루이스 홀",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘도원’ 유방녕 “故 정주영 회장이 단골…팁은 수표 다발, 빌딩 살 수 있었다”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Entertainment/article/all/20260820/134509201/1"
+        "title": "그야말로 '깜짝 영입'...맨체스터 유나이티드 '2007년생' 핫매물 접촉 시작했다! 바이아웃 단 260억, \"바르셀로나-ATM도 러브콜\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xX2dOoXSwn"
       }
     }
   ]
