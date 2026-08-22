@@ -1,21 +1,31 @@
 {
-  "timestamp": "2026-08-22T13:21:47.432406+09:00",
-  "label": "13:21",
+  "timestamp": "2026-08-22T14:17:27.228109+09:00",
+  "label": "14:17",
   "items": [
     {
-      "keyword": "승리",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "오늘 날씨",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "빅뱅 출신 승리, 베트남서 포착…살 오른 모습 속 에스코트 받으며 행사 참석",
+        "title": "[날씨] 강한 소나기 주의…충청·남부 무더위 기승",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260822084927900"
+        "url": "https://v.daum.net/v/20260822122704394"
+      }
+    },
+    {
+      "keyword": "당구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "시골 당구장 카운터 보던 알바생이 어떻게 ‘최초의 챔피언’ 됐나",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260818518275"
       }
     },
     {
       "keyword": "무덤",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "“딸 묻을 자리였는데”…아버지가 판 무덤, 9년 뒤 해바라기 가득한 기적의 꽃밭으로",
         "source": "주간경향",
@@ -23,13 +33,53 @@
       }
     },
     {
-      "keyword": "테슬라",
+      "keyword": "놀면 뭐하니?",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "테슬라 중국서 300만대 역대 최대 규모 리콜···‘매립형 문손잡이’ 안전성 논란",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608220755001"
+        "title": "유재석, 86억 펜트하우스 절대 공개 안하더니..\"집에 모니터 12개썰\" 입열었다(놀뭐)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821154352443"
+      }
+    },
+    {
+      "keyword": "공대공 미사일",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260822023600011"
+      }
+    },
+    {
+      "keyword": "일론 머스크",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "일론 머스크 ‘비트코인엔 목 조를 곳 없다’…이유는?",
+        "source": "BeInCrypto",
+        "url": "https://kr.beincrypto.com/elon-musk-bitcoin-no-throat-choke/"
+      }
+    },
+    {
+      "keyword": "분사기",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "큰아버지 분묘 파헤쳐 가스 분사기로 유골 태운 60대 집유",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260821158000062"
+      }
+    },
+    {
+      "keyword": "강남",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "강남, '우익 논란' 日 배우 홍보했다 뭇매… 유튜브 영상· SNS 삭제",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260821_0003758232"
       }
     },
     {
@@ -43,63 +93,13 @@
       }
     },
     {
-      "keyword": "분사기",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "큰아버지 분묘 파헤쳐 가스 분사기로 유골 태운 60대 집유",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821158000062"
-      }
-    },
-    {
-      "keyword": "탈영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한기호 \"탈영했다면 내가 아들\" 안규백에 \"졸지에 입양할듯\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6fu3SqAi5J?f=p"
-      }
-    },
-    {
-      "keyword": "테니스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한국 여자 테니스의 국제무대 경쟁 구조와 선수 유형",
-        "source": "테니스피플",
-        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19285"
-      }
-    },
-    {
       "keyword": "특별재난지역",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "8.15.~18. 호우 피해 특별재난지역 우선 선포",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775142&pWise=sub&pWiseSub=C5"
-      }
-    },
-    {
-      "keyword": "스위스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Five missing after fire in Alpine town in Switzerland",
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/articles/cy8e6g13497o"
-      }
-    },
-    {
-      "keyword": "xrp",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "XRP Climbs 10% In Rally",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-rally-4872157"
+        "title": "'호우 피해' 거제·통영 특별재난지역 선포…갈길 먼 복구 작업",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822122309351"
       }
     }
   ]
