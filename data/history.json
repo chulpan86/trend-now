@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-21T09:41:14.985959+09:00",
-    "label": "09:41",
-    "items": [
-      {
-        "keyword": "택시",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "‘택시 기다리는 건 옛말’ 99.4% 지역서 카카오T 등 수요응답형 택시 달린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821060217561"
-        }
-      },
-      {
-        "keyword": "선우용여",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "선우용여, 美 사돈댁 포드 주주였다…\"딸 시할아버지가 레이서\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756761"
-        }
-      },
-      {
-        "keyword": "디즈니+",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[STAFF] 누구에게 포커스를 둘지부터 생각한다, 시즌2 프라이머리 음악감독",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=110547"
-        }
-      },
-      {
-        "keyword": "도박",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "문따고 들어가자 男女 무려 26명이…난리난 창원",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11610845"
-        }
-      },
-      {
-        "keyword": "초대형 방사포",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "美, 트럼프 대화손짓 후 北 미사일에 \"美본토·동맹 방어 전념\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821007100071"
-        }
-      },
-      {
-        "keyword": "엘레나 리바키나",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "157cm 대반란 나왔다! '세계 1위' 182cm 무너뜨린 女 테니스 '작은 거인' 화제…사발렌카 누른 체코 라이징 스타 베일렉 '시선집중'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260820n30648"
-        }
-      },
-      {
-        "keyword": "국립오페라단",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "고위공직자 73명 재산공개…박혜진 국립오페라단장 465억 최다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821000153930"
-        }
-      },
-      {
-        "keyword": "브래드 갈링하우스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "SEC와 맞섰던 리플, 새 가상자산 태스크포스 합류…XRP 두 자릿수 급등",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2069345"
-        }
-      },
-      {
-        "keyword": "교통 사고",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"이러다 죽어\" 함소원, 사고 후 의식 불명…중환자실서 깨어났다 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082017482181676"
-        }
-      },
-      {
-        "keyword": "태안군",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-21T11:17:21.069706+09:00",
     "label": "11:17",
     "items": [
@@ -3665,6 +3563,112 @@
           "title": "[사진] 박민우, 1500경기 출전 기록 달성 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/08/22/202608221956777525O"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-22T22:23:54.548321+09:00",
+    "label": "22:23",
+    "items": [
+      {
+        "keyword": "태국 대 베트남",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "태국 대 베트남 결승: '물싸움'으로 챔피언을 가리다",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chung-ket-thai-lan-viet-nam-thuy-chien-dinh-doat-ngoi-vuong"
+        }
+      },
+      {
+        "keyword": "로또1238",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보]로또 1238회 당첨번호 '2·13·18·32·38·42'…보너스 '22'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02568246645549944&mediaCodeNo=257"
+        }
+      },
+      {
+        "keyword": "이란",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "7000곳 때려도 안 무너졌다…트럼프가 오판한 ‘이란의 힘’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822200712718"
+        }
+      },
+      {
+        "keyword": "경장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "제주 실종 30대 여성 시신 발견설 \"사실 아냐\"…경찰 수색 계속",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260822_0003758591"
+        }
+      },
+      {
+        "keyword": "ดูบอลสด",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "ไค ฮาแวร์ตซ์ ยิงประตูใส่โคเวนทรี ทำให้เขายึดตำแหน่งกองหน้าตัวหลักของอาร์เซนอลได้อย่างมั่นคง",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/kai-havertz-no-sung-truoc-coventry-cung-co-vung-chac-vi-the-tien-dao-so-mot-tai-arsenal"
+        }
+      },
+      {
+        "keyword": "래시포드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"제발 내 이름 좀 그만\"...래시포드 결국 폭발, \"이름 언급 없이 축구만 하고 싶다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820161149749?f=p"
+        }
+      },
+      {
+        "keyword": "헐시티 맨유",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "日 축구 날벼락! EPL 10명? 헐시티 MF, 맨유전 부상 OUT…코번트리 영건 0분 출전 이어 '또 치욕'",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260822n10090?mid=s22&list=recent&cpcd="
+        }
+      },
+      {
+        "keyword": "fotmob",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Arsenal's Mikel Arteta downplays Bruno Guimarães injury",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49684722/arsenal-mikel-arteta-downplays-severity-bruno-guimaraes-groin-issue-missing-win-coventry"
+        }
+      },
+      {
+        "keyword": "버밍엄 대 브리스틀 시티",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Birmingham City vs Bristol City: Championship stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6n0n79x2gdkt"
+        }
+      },
+      {
+        "keyword": "폐암",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "담배 한번도 안 피운 30대女, 갑자기 폐암 4기 진단…원인은",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260822/134523409/1"
         }
       }
     ]
