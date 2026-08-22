@@ -3566,5 +3566,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-22T17:16:53.830600+09:00",
+    "label": "17:16",
+    "items": [
+      {
+        "keyword": "추석 민생지원금",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"소득 상관없이 1인당 50만원씩\"...2만명 넘게 받았다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822102350162"
+        }
+      },
+      {
+        "keyword": "엔비디아",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "엔비디아 또 '사상 최대' 실적?…삼전닉스 말고 '수혜주' 따로 있다는데[주末머니]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822140040200"
+        }
+      },
+      {
+        "keyword": "오싹한 연애",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘오싹한 연애’ 박은빈, 뇌물수수 혐의로 검찰청 소환 - 스타투데이",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12133752"
+        }
+      },
+      {
+        "keyword": "신랑",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "6억 신혼집에 5000만원 보탠 예비신랑…\"공동명의 아니면 파혼\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/22/2026082123382638709"
+        }
+      },
+      {
+        "keyword": "골드뱅킹",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“같은 금인줄 알고 샀는데 수익률이 다르다고?”…골드뱅킹·골드바 뭐가 더 남을까",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12133759"
+        }
+      },
+      {
+        "keyword": "사장님 귀는 당나귀 귀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'연봉 킹' 김요한, 건물주 됐다…\"비결은 오직 저축\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260822_0003758335"
+        }
+      },
+      {
+        "keyword": "명진스님",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "봉은사 주지 지낸 명진스님 입적…제주서 프리다이빙 사고",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260822144340vUr"
+        }
+      },
+      {
+        "keyword": "초과근무",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "아베의 '초과근무 월 45시간' 제한…다카이치가 풀었다 [뭔日있슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822073242097"
+        }
+      },
+      {
+        "keyword": "송치",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "곽상언 \"경찰, 자의적 불송치 판단... 형소법 다시 고쳐야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fHvzObkL7y"
+        }
+      },
+      {
+        "keyword": "야마모토 요시노부",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "8월 ERA 1.83 폭주 중인 다저스 에이스 야마모토 요시노부, 오늘 피츠버그 상대로 시즌 23번째 선발 출격",
+          "source": "https://www.mlbkor.com/",
+          "url": "https://www.mlbkor.com/news/articleView.html?idxno=32306"
+        }
+      }
+    ]
   }
 ]
