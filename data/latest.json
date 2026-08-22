@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-08-23T05:11:35.442880+09:00",
-  "label": "05:11",
+  "timestamp": "2026-08-23T06:11:58.782027+09:00",
+  "label": "06:11",
   "items": [
     {
-      "keyword": "에스파뇰 대 레알 마드리드",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822150127756?f=p"
-      }
-    },
-    {
       "keyword": "편의점",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "논산 편의점서 실종된 여중생, 100km 떨어진 무주서 발견",
         "source": "동아일보",
@@ -23,43 +13,63 @@
       }
     },
     {
-      "keyword": "일본 지진",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "에스파뇰 대 레알 마드리드",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823001300530"
+        "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822150127756"
       }
     },
     {
-      "keyword": "지진",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "조국",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "기상청 \"제주 서귀포 동쪽 바다서 규모 2.7 지진…피해 없을 듯\"",
+        "title": "조국 \"위법수집증거 역설했으나 난 유죄\"…韓 \"뭐가 억울한가\"(종합2보)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260822043800530"
+        "url": "https://www.yna.co.kr/view/AKR20260822027552001"
       }
     },
     {
-      "keyword": "tottenham",
+      "keyword": "espanyol vs real madrid",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Primer examen para Mourinho… con siete bajas y un mensaje a la cantera",
+        "source": "MARCA",
+        "url": "https://www.marca.com/futbol/real-madrid/2026/08/21/primer-examen-mourinho-seis-bajas-mensaje-cantera.html"
+      }
+    },
+    {
+      "keyword": "la liga",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Premier League: Brentford beat Tottenham after wins for Hull, Ipswich, Everton and Leeds",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/clyx03e7y2lt"
+        "title": "Preview: Espanyol vs Real Madrid - prediction, team news, lineups",
+        "source": "Sports Mole",
+        "url": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/espanyol-vs-real-madrid-prediction-team-news-lineups_603369.html"
       }
     },
     {
-      "keyword": "地震",
+      "keyword": "바이에른 뮌헨",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "日本茨城县南部发生5.9级地震 东京震感明显",
-        "source": "香港電台",
-        "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1867150-20260823.htm?spTabChangeable=0"
+        "title": "김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/36pfvSV7tI"
+      }
+    },
+    {
+      "keyword": "브레이브스 대 브루어스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'김하성 6경기 연속 결장' 애틀랜타, 투수전 끝에 밀워키에 1-2 석패",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260822n04585?mid=s0206&isq=9298"
       }
     },
     {
@@ -73,26 +83,6 @@
       }
     },
     {
-      "keyword": "바이에른 뮌헨",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/36pfvSV7tI"
-      }
-    },
-    {
-      "keyword": "첼시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘첼시 9번’ 주앙 페드루, 장기 재계약 임박⋯최장 2034년",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2616821"
-      }
-    },
-    {
       "keyword": "인테르",
       "traffic_raw": "100+",
       "traffic": 100,
@@ -100,6 +90,16 @@
         "title": "‘슈퍼 원더골’ 역시 디펜딩 챔피언의 품격! 인테르, 4골 몰아치며 개막전 대승",
         "source": "풋볼리스트",
         "url": "http://www.footballist.co.kr/news/articleView.html?idxno=213873"
+      }
+    },
+    {
+      "keyword": "첼시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'도핑 징계 해제' 첼시 윙어 결국 팀 떠나나…\"첼시가 직접 임대보낼 팀 찾고 있어\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260823n00659"
       }
     }
   ]
