@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-22T19:12:40.696486+09:00",
-  "label": "19:12",
+  "timestamp": "2026-08-22T20:11:36.107682+09:00",
+  "label": "20:11",
   "items": [
     {
-      "keyword": "경비원",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "전북 대 울산",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "\"초과 수당 2억4000만원 달라\"…경비원의 '치명적 실수' [사장님 고충백서]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608215344i"
-      }
-    },
-    {
-      "keyword": "대전광역시",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘행정통합 대안’ 충청광역연합…“특별법 제정 추진”",
+        "title": "전북 현대, 내일 울산과 홈 경기…“분위기 반전”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/V9Pxy6Iky8"
+        "url": "https://v.daum.net/v/20260821195240663"
       }
     },
     {
-      "keyword": "인천e음",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "안양 대 fc 서울",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[단독] 인천e음 캐시백 부활…9월21일 재개·지급률 10% 적용",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330114"
+        "title": "'무려 10점 차 단독 선두'인데 \"여전히 위기\"... 김기동 감독 \"매 경기 헤쳐 나가야\" [안양 현장] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/22/2026082217360497610"
       }
     },
     {
-      "keyword": "예산",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "기상",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[전남광주소식] 교육청, 28일 주민 참여 예산 설명회",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821128200054"
-      }
-    },
-    {
-      "keyword": "원태인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "원태인 오랜만에 7이닝 역투했는데…찬스 만들고 잔루 또 잔루, 이래서 1위 따라잡겠나",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/08/22/GY4DCYZYMFRTIOBRGE2TKM3EGY/"
-      }
-    },
-    {
-      "keyword": "베를린",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "베를린 숲에 숨겨진 권총 2자루…러시아 암살 공작용이었나",
+        "title": "역대급 엘니뇨 온다…\"2027년 '가장 더운 해' 될 수도\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260822100650959"
+        "url": "https://v.daum.net/v/ZDETdqAiUR"
       }
     },
     {
-      "keyword": "참교육",
+      "keyword": "부천 대 포항",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'K리그1 첫 연승 도전' 부천, 갈레고-가브리엘-바사니 스리톱 출격...'연패 탈출' 포항전 선발 공개[오!쎈 부천] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/22/202608221818773844O"
+      }
+    },
+    {
+      "keyword": "제주 대 김천상무",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "제주SK 내일 김천 상대 리그 9경기 연속 무패 도전",
+        "source": "한라일보",
+        "url": "https://m.ihalla.com/article.php?aid=1787287774789534051&page=1"
+      }
+    },
+    {
+      "keyword": "창원시",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'제14회 창원시장배 경남오픈 탁구대회' 스타트…생활체육 활성화",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260822000084"
+      }
+    },
+    {
+      "keyword": "안우진",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘이재명 변호인’ 박현석 변호사…경기교육청 교권보호단 합류",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/4Kfc43nQvl"
+        "title": "[사진]KIA 선발 올러, '5회까지 1실점' - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/sports/sports_photo/2026/08/22/GE4GKZBQHFTDQMBXGU3DGOBRHA/"
       }
     },
     {
-      "keyword": "리벨리온",
+      "keyword": "xsmn",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Xổ số miền Nam ngày 22 tháng 8: Một người trúng nguyên cây 2,4 tỉ đài Hậu Giang",
+        "source": "Báo Thanh Niên",
+        "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-22-thang-8-mot-nguoi-trung-nguyen-cay-24-ti-dai-hau-giang-185260821132954776.htm"
+      }
+    },
+    {
+      "keyword": "대한민국 방위사업청",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "서건창",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중",
-        "source": "AI타임스",
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=214241"
-      }
-    },
-    {
-      "keyword": "도지",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "암호화폐 랠리 언제까지? 도지코인 커뮤니티서 '강세장 함정' 경고",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260822n00075"
-      }
-    },
-    {
-      "keyword": "로카르노 영화제",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'홍상수♥' 김민희, 밉상인가 스타성인가…외모·발언 여전한 화제 [N초점]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822071651950"
+        "title": "[사진]키움 2루수 서건창, '적시타에 좋은 수비까지' - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/sports/sports_photo/2026/08/22/G4ZGIMZSMM4WEMBXGU3DQNLCHA/"
       }
     }
   ]
