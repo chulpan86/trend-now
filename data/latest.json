@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-23T01:11:31.208369+09:00",
-  "label": "01:11",
+  "timestamp": "2026-08-23T02:11:28.986638+09:00",
+  "label": "02:11",
   "items": [
     {
       "keyword": "우 서윤",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "‘우지원 딸’ 우서윤, 미스코리아 진 됐다",
         "source": "동아일보",
@@ -13,19 +13,19 @@
       }
     },
     {
-      "keyword": "챔피언십",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "토트넘",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[골프IN화보] 송은아, 악천후 속 아쉬운 뒷심… BC카드·한경 KLPGA 챔피언십 3라운드 공동 21위 마감",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=02607606645549944&mediaCodeNo=257"
+        "title": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/14C8CJGhl1"
       }
     },
     {
       "keyword": "정재환",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "'그것이 알고싶다', 친구 잔혹살해한 정재환의 엽기 행각 - 머니투데이",
         "source": "머니투데이",
@@ -33,30 +33,44 @@
       }
     },
     {
-      "keyword": "도경완",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'장윤정♥' 도경완, 급성 골수염 수술 고백…\"가짜 손톱하고 살아\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6266445"
-      }
-    },
-    {
-      "keyword": "꽃파당",
+      "keyword": "챔피언십",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "변우석·박지훈의 풋풋함부터 낭만 로맨스까지…'꽃파당' 관전 포인트 공개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822101419067"
+        "title": "'김상식호' 베트남, 현대컵 결승 1차전 원정서 태국에 2-0 완승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823000200007"
       }
     },
     {
-      "keyword": "giải vô địch đná",
+      "keyword": "최홍만",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
+      "news": {
+        "title": "최홍만, 서울 집 공개…식량창고에 간식·즉석밥 빼곡",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260822173909237"
+      }
+    },
+    {
+      "keyword": "블리치",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘Bleach: Thousand-Year Blood War’ Episode 45 Release Date & Time: When ‘The Calamity’ Continues",
+        "source": "IMDb",
+        "url": "https://www.imdb.com/news/ni65973287/?ref_=int_nwr_2"
+      }
+    },
+    {
+      "keyword": "타짜",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"밑장빼기는 없다\"...추석에 정면승부 거는 '타짜:벨제붑의노래' [시네마 리포트] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082208307240052"
+      }
     },
     {
       "keyword": "청소업체",
@@ -86,16 +100,6 @@
         "title": "인천공항 여름휴가철 여객 늘었지만 주차장 혼잡은 완화",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260821076400065"
-      }
-    },
-    {
-      "keyword": "thailand vs vietnam",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Kim Sang-sik leads Vietnam to 2-0 win over Thailand, eying ASEAN Cup repeat - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/08/23/4D6NMGRZURGU5JDMJ5GEBJTCDA/"
       }
     }
   ]
