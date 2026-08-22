@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-08-22T23:11:16.511104+09:00",
-  "label": "23:11",
+  "timestamp": "2026-08-23T00:10:48.127070+09:00",
+  "label": "00:10",
   "items": [
+    {
+      "keyword": "로또 1238",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "1238회 로또 1등 23명…당첨금 각 12억원(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260822046600002"
+      }
+    },
     {
       "keyword": "실종자",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "제주실종사건 허위종결한 경찰관 긴급체포…추가 사례도 발견",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260822043300056"
+        "title": "실종사건 또 ‘셀프 종결’…제주 경찰관 긴급체포",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH202608222002240g8"
+      }
+    },
+    {
+      "keyword": "도경완",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "도경완, 급성 골수염 고백…\"일부 손톱은 가짜...수술 위해 제거\"",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026082215080000811"
       }
     },
     {
@@ -17,89 +37,69 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "HLV Thái Lan: 'Ủng hộ cách Việt Nam nhập tịch cầu thủ Brazil'",
-        "source": "VnExpress",
-        "url": "https://vnexpress.net/hlv-thai-lan-ung-ho-cach-viet-nam-nhap-tich-cau-thu-brazil-5111710.html"
+        "title": "HLV Kim Sang Sik kỳ vọng Xuân Son tiếp tục tỏa sáng ở chung kết",
+        "source": "Báo Nhân Dân điện tử",
+        "url": "https://nhandan.vn/hlv-kim-sang-sik-ky-vong-xuan-son-tiep-tuc-toa-sang-o-chung-ket-post982972.html"
       }
     },
     {
-      "keyword": "태국 대 베트남",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "아세안컵 2026 결승 1차전 태국 대 베트남 생중계",
-        "source": "Laodong.vn",
-        "url": "https://ko.laodong.vn/bong-da/truc-tiep-tuyen-thai-lan-vs-viet-nam-tai-chung-ket-luot-di-asean-cup-2026-1754502.ldo"
-      }
-    },
-    {
-      "keyword": "범죄",
+      "keyword": "꽃파당",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "혁신과 범죄 사이…스마트 안경의 두 얼굴",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8643541"
-      }
-    },
-    {
-      "keyword": "우서윤",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "우지원 딸 우서윤 ‘미스코리아 진’ 됐다…“아빠 유전자 그대로”",
+        "title": "변우석·박지훈의 풋풋함부터 낭만 로맨스까지…'꽃파당' 관전 포인트 공개",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260822221352212"
+        "url": "https://v.daum.net/v/20260822101419067"
       }
     },
     {
-      "keyword": "맨유 경기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'와' 역대급 대반전! 맨체스터 유나이티드 '꿈의 영입' 성공...이적료 무려 '660억' 절감, 모든 합의 완료→메디컬 테스트 예정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/tRw8H0LxwV"
-      }
-    },
-    {
-      "keyword": "폐암",
+      "keyword": "삼성라이온즈",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "담배 한번도 안 피운 30대女, 갑자기 폐암 4기 진단…원인은",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20260822/134523409/1"
+        "title": "'8회 재역전' 삼성, 2연패 탈출…1게임 차로 선두 kt 추격(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260822049700007"
       }
     },
     {
-      "keyword": "래시포드",
+      "keyword": "동물권",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "맨유 돌아왔더니 10번이 남의 것… 래시포드, 쿠냐에게 등번호 돌려달란 말 안 한다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821133836038"
+        "title": "'고양이, 이젠 죽일 수밖에...' 50만 유튜버가 불러온 지옥도",
+        "source": "OhmyNews",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260516"
       }
     },
     {
-      "keyword": "ดูบอลสด",
+      "keyword": "ไทย พบ เวียดนาม",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "AIS PLAY ชวนสัมผัสความมันส์ลูกหนังเยอรมนีกับศึก \"ฟร้านซ์ เบ็คเค่นบาวเออร์ ซูเปอร์คัพ 2026\" | THE ROOM 44 CHANNEL",
-        "source": "LINE TODAY",
-        "url": "https://today.line.me/th/v3/article/eLR1PjZ"
+        "title": "โค้ชคิม ซังซิก และแผนการของเขาที่จะ \"นำความโศกเศร้า\" มาสู่ทีมชาติไทย",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/th/hlv-kim-sang-sik-va-cac-phuong-an-gieo-sau-cho-tuyen-thai-lan"
       }
     },
     {
-      "keyword": "lotto result 6/45",
+      "keyword": "thailand vs vietnam",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "No jackpot winners in Aug. 21 PCSO lotto draws",
-        "source": "Inquirer.net",
-        "url": "https://newsinfo.inquirer.net/2289609/no-jackpot-winners-in-aug-21-pcso-lotto-draws"
+        "title": "Kim Sang-sik vows to beat Thailand in Bangkok to retain ASEAN Cup - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/08/22/ZF77VDV3HFATVKPOISTAS44STI/"
+      }
+    },
+    {
+      "keyword": "kick",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Gordon To Lead The Charge | 4-2-3-1 Barcelona Predicted Lineup Vs Elche",
+        "source": "The 4th Official",
+        "url": "https://the4thofficial.net/2026/08/gordon-to-lead-the-charge-4-2-3-1-barcelona-predicted-lineup-vs-elche/"
       }
     }
   ]
