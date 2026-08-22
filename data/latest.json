@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-23T03:14:19.010090+09:00",
-  "label": "03:14",
+  "timestamp": "2026-08-23T04:15:26.598268+09:00",
+  "label": "04:15",
   "items": [
     {
       "keyword": "일본 지진",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
         "source": "연합뉴스",
@@ -13,13 +13,23 @@
       }
     },
     {
-      "keyword": "토트넘",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "지진",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접",
+        "title": "기상청 \"제주 서귀포 동쪽 바다서 규모 2.7 지진…피해 없을 듯\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260822043800530"
+      }
+    },
+    {
+      "keyword": "레알마드리드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
         "source": "Daum",
-        "url": "https://v.daum.net/v/14C8CJGhl1"
+        "url": "https://v.daum.net/v/20260822150127756?f=p"
       }
     },
     {
@@ -27,9 +37,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "简讯：茨城县南部发生M5.9级地震 东京震感强烈",
-        "source": "共同网",
-        "url": "https://china.kyodonews.net/articles/-/14593"
+        "title": "日本茨城县南部发生5.9级地震 东京震感明显",
+        "source": "香港電台",
+        "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1867150-20260823.htm?spTabChangeable=0"
       }
     },
     {
@@ -37,29 +47,39 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Tottenham predicted team vs Brentford - New captain starts as De Zerbi picks young team",
-        "source": "Football London",
-        "url": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/tottenham-predicted-team-vs-brentford-34500286"
+        "title": "Spurs make nightmare start as Brentford hit three in easy win",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cj75g01qn51dt"
       }
     },
     {
-      "keyword": "최홍만",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "바이에른 뮌헨",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "최홍만, 서울 집 공개…식량창고에 간식·즉석밥 빼곡",
+        "title": "김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260822173909237"
+        "url": "https://v.daum.net/v/36pfvSV7tI"
       }
     },
     {
-      "keyword": "블리치",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "첼시",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "‘Bleach: Thousand-Year Blood War’ Episode 45 Release Date & Time: When ‘The Calamity’ Continues",
-        "source": "IMDb",
-        "url": "https://www.imdb.com/news/ni65973287/?ref_=int_nwr_2"
+        "title": "‘첼시 9번’ 주앙 페드루, 장기 재계약 임박⋯최장 2034년",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2616821"
+      }
+    },
+    {
+      "keyword": "인테르",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[오피셜] 계약 기간 5년, 이적료 567억…'16년 리버풀 인생 청산' 존스, 이탈리아 챔피언 인터 밀란 이적",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260822n05543"
       }
     },
     {
@@ -80,26 +100,6 @@
         "title": "유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②",
         "source": "Daum",
         "url": "https://v.daum.net/v/yqCKI2waGM"
-      }
-    },
-    {
-      "keyword": "로베르토 데 제르비",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[오피셜] 손흥민 ‘70m 단독 돌파 골’ 완벽하게 재현한 ‘토트넘 에이스’→SON, 로메로 이어 ‘새로운 캡틴...",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608220606003"
-      }
-    },
-    {
-      "keyword": "타짜",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"밑장빼기는 없다\"...추석에 정면승부 거는 '타짜:벨제붑의노래' [시네마 리포트] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082208307240052"
       }
     }
   ]

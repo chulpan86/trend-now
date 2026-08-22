@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-21T15:27:44.997349+09:00",
-    "label": "15:27",
-    "items": [
-      {
-        "keyword": "jyp엔터테인먼트",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "박진영, '무조건 사라'더니…\"주가 관리 좀\" 개미들 '부글부글' [종목+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082027146"
-        }
-      },
-      {
-        "keyword": "박현경",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "박현경, JLPGA 정식 입회…日 \"제2의 이보미\" 기대감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821093240346"
-        }
-      },
-      {
-        "keyword": "방화",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "일본, 1년2개월 만에 사형 집행···다카이치 정권 첫 사형",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821142927687"
-        }
-      },
-      {
-        "keyword": "lig 디펜스&에어로스페이스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821093903648"
-        }
-      },
-      {
-        "keyword": "영제이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[잇슈 컬처] ‘스맨파 우승’ 영제이, 병역법 위반 ‘실형’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821070207796"
-        }
-      },
-      {
-        "keyword": "us 오픈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "알카라스, 손목 부상 뒤 4개월 만에 복귀…US오픈 타이틀 방어",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642655"
-        }
-      },
-      {
-        "keyword": "미스트롯",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[TV조선] 내향형 가수들의 무대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820004047496"
-        }
-      },
-      {
-        "keyword": "이호준",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'이우성은 보호, 안중열은 강행?'…이호준 NC 감독의 엇갈린 선수 기용에 팬들 '성토'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821071851014"
-        }
-      },
-      {
-        "keyword": "서초구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독] 정부 부동산 세제개편안에 강남권부터 반발… 서초구민 3명 중 1명 “철회·전면 재검토하라”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260820524129"
-        }
-      },
-      {
-        "keyword": "수출",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[1보] 8월 1∼20일 수출 552억달러, 56.0%↑…일평균 61.5%↑",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821090214168"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-21T16:34:21.843326+09:00",
     "label": "16:34",
     "items": [
@@ -3771,6 +3665,112 @@
           "title": "\"밑장빼기는 없다\"...추석에 정면승부 거는 '타짜:벨제붑의노래' [시네마 리포트] - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082208307240052"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-23T04:15:26.598268+09:00",
+    "label": "04:15",
+    "items": [
+      {
+        "keyword": "일본 지진",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823001300530"
+        }
+      },
+      {
+        "keyword": "지진",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "기상청 \"제주 서귀포 동쪽 바다서 규모 2.7 지진…피해 없을 듯\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260822043800530"
+        }
+      },
+      {
+        "keyword": "레알마드리드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822150127756?f=p"
+        }
+      },
+      {
+        "keyword": "地震",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "日本茨城县南部发生5.9级地震 东京震感明显",
+          "source": "香港電台",
+          "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1867150-20260823.htm?spTabChangeable=0"
+        }
+      },
+      {
+        "keyword": "brentford vs spurs",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Spurs make nightmare start as Brentford hit three in easy win",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cj75g01qn51dt"
+        }
+      },
+      {
+        "keyword": "바이에른 뮌헨",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/36pfvSV7tI"
+        }
+      },
+      {
+        "keyword": "첼시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘첼시 9번’ 주앙 페드루, 장기 재계약 임박⋯최장 2034년",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2616821"
+        }
+      },
+      {
+        "keyword": "인테르",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[오피셜] 계약 기간 5년, 이적료 567억…'16년 리버풀 인생 청산' 존스, 이탈리아 챔피언 인터 밀란 이적",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260822n05543"
+        }
+      },
+      {
+        "keyword": "k뷰티",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy.",
+          "source": "New York Magazine",
+          "url": "https://nymag.com/strategist/article/sephora-olive-young-k-beauty-edit.html"
+        }
+      },
+      {
+        "keyword": "유영우",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yqCKI2waGM"
         }
       }
     ]
