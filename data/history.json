@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-21T19:19:24.860570+09:00",
-    "label": "19:19",
-    "items": [
-      {
-        "keyword": "kia 대 키움",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[영상] 하늘의 아버지께 닿은 롯데 손성빈의 홈런쇼",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820140245895"
-        }
-      },
-      {
-        "keyword": "삼성 대 nc",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[프로야구] 21일 선발투수 예고",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6264997"
-        }
-      },
-      {
-        "keyword": "롯데 대 두산",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘심상치 않다’ 롯데 기적의 가을야구 가능한가, 60일 만에 4연승→126일 만에 7위. 이제 5위 두산과 '운명의 3연전’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821102107649"
-        }
-      },
-      {
-        "keyword": "kt 대 ssg",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "9위팀 방출→1위팀 영입, 전화위복 성공기 만들까…1군 콜업 첫 출장→데뷔 첫 3타점 맹타 “경기 끝까지 기회를 주신 감독님께 감사드린다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821074310351"
-        }
-      },
-      {
-        "keyword": "비트코인",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "비트코인 두달 만에 7만 달러 돌파…상승 전환하나",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260821103823"
-        }
-      },
-      {
-        "keyword": "소방관",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "불길 치솟는데 사다리차 안 닿자…소방관 믿고 11층서 뛰었다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260821/134517644/2"
-        }
-      },
-      {
-        "keyword": "황신혜",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'63세' 황신혜, 한여름 민소매 패션도 거뜬…감탄 부른 자기관리",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820170528283"
-        }
-      },
-      {
-        "keyword": "스코티 셰플러",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "안병훈, LIV 골프 최종전 1R 공동 13위…캐나다 교포 이태훈 2위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821094438885"
-        }
-      },
-      {
-        "keyword": "이종석",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이종석, 아이유와 결별 한 달 만에 휴양지서 포착",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003757517"
-        }
-      },
-      {
-        "keyword": "통상교섭본부장",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[속보]이 대통령, 여한구 후임 통상교섭본부장에 박정성, 소방청장에 최용철 임명",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608211521001"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-21T20:16:44.775583+09:00",
     "label": "20:16",
     "items": [
@@ -3775,6 +3669,112 @@
           "title": "Supercup: FC Bayern gewinnt gegen Borussia Dortmund",
           "source": "ZDFheute",
           "url": "https://www.zdfheute.de/sport/fussball-supercup-fc-bayern-muenchen-borussia-dortmund-100.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-23T08:10:39.646171+09:00",
+    "label": "08:10",
+    "items": [
+      {
+        "keyword": "방탄소년단",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "BTS 지민 '소아암 소녀' 볼 뽀뽀에 팬 기부 1억 원 돌파 [앵커리포트]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202608212050587920"
+        }
+      },
+      {
+        "keyword": "축구 감독",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'임시'로 뽑지만…축구대표팀 사령탑, 성과 내면 '정식 감독' 가능해",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821143328832?f=p"
+        }
+      },
+      {
+        "keyword": "집중호우",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "당진 고대면 진관교차로 '통제 중'...집중호우 여파",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671513"
+        }
+      },
+      {
+        "keyword": "여수시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "여수 화력발전소서 화재…진화까지 장시간 예상",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608221845001"
+        }
+      },
+      {
+        "keyword": "김영옥",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘송이 보내주는 손녀’ 윤아, 김영옥 ‘1등 손녀’다운 센스 만점 선물",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PrW9d7NdzJ?f=p"
+        }
+      },
+      {
+        "keyword": "킬리안 음바페",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "레알 마드리드 '교수님' 소신 발언 \"발롱도르 1위 메시·음바페 아니다\"…LEE 전 동료 전폭 지지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822210550418"
+        }
+      },
+      {
+        "keyword": "인공지능",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"AI학습 위해 책 사재기하고 파괴\"…미국 시민단체, 반독점조사 촉구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822135100101"
+        }
+      },
+      {
+        "keyword": "백하나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "환상 호흡…중국 꺾고 사상 첫 결승 진출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822204208161"
+        }
+      },
+      {
+        "keyword": "해리 케인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "시어러까지 47골 남았는데…케인 “EPL 돌아가고 싶은 마음, 예전만큼 크지 않다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zPVJx1d8Dy?f=p"
+        }
+      },
+      {
+        "keyword": "모병제",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "軍부사관도 못 구하는데… ‘선택적 모병제’의 딜레마",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/2026/08/23/C3F52632TRDCDDOFQH3UM3IMAA/"
         }
       }
     ]
