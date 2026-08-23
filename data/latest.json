@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-23T21:18:28.980267+09:00",
-  "label": "21:18",
+  "timestamp": "2026-08-23T22:24:48.649091+09:00",
+  "label": "22:24",
   "items": [
     {
-      "keyword": "미사일",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "골프",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "北 미사일 ‘물량공세’에 요격용 공중 미사일 쌓는 한국…“전쟁나면 역부족”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823145309385"
+        "title": "[특별기고] 홍석주 대한파크골프협회장께 묻는다, ‘파크볼’ 누구와 논의했나?",
+        "source": "지이코노미",
+        "url": "https://www.geconomy.co.kr/mobile/article.html?no=323005"
       }
     },
     {
-      "keyword": "삼성전기",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "서울e 대 파주",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "“20만원→240만원, 700% 폭등” 전국민 난리더니…‘국민 황제주’ 추락, 무슨 일이",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823174151691"
+        "title": "'슈팅 21개 맹공에도...' 서울이랜드, '류원우 선방쇼' 파주에 1-1 뼈아픈 무승부... 1위 수원과 '3점 차' [목동 현장리뷰] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/23/2026082319162974598"
       }
     },
     {
-      "keyword": "지석진",
+      "keyword": "배추",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "중국서 배추 신선도 유지하려 '발암물질' 사용…당국 수사",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823160038898"
+      }
+    },
+    {
+      "keyword": "100일의 거짓말",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“저 석진이에요!” 김종국, 돌아가신 부모님 찾는 지석진에 눈물 (‘런닝맨’)",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/broadcasting-service/12134274"
-      }
-    },
-    {
-      "keyword": "발데",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "맨유, '바이아웃만 1조 6천억' 바르셀로나 성골 LB 노린다!...칸셀루 합류에 입지 흔들 \"플릭도 경기력에 의문\"",
+        "title": "tvN 역대급 대작 온다…시청률 27.6% 감독→일제 강점물로 돌아오는 新 주말극 ('100일의거짓말')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/qSK5qzjJnE?f=p"
+        "url": "https://v.daum.net/v/20260823180209149"
       }
     },
     {
-      "keyword": "나 혼자 산다",
+      "keyword": "man city vs bournemouth",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘나혼산’, 시청률 한달간 지지부진하더니…전현무 즉흥여행에 시청률 상승[Oh!쎈 이슈]",
+        "title": "Premier League: Maresca goes defensive against Bournemouth, no Watkins for Villa",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cn59gyvzgzdt"
+      }
+    },
+    {
+      "keyword": "황영조",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[Y르포]“시민들은 친절하고, 밤에도 안전해”…주말 ‘대구’ 도심 누빈 마스터즈육상 세계인들",
         "source": "Daum",
-        "url": "https://v.daum.net/v/b1e0Tg1yT0"
+        "url": "https://v.daum.net/v/20260823201802261"
       }
     },
     {
-      "keyword": "앞머리",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "프로야구",
+      "keyword": "삼성물산",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "KIA 김도영, 시즌 38호 홈런…최연소 40홈런까지 '-2'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823145651472"
+        "title": "삼성 덕에 '특별배당' 돈벼락…주주들 함박웃음 짓는 회사 [종목+]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026082139436"
       }
     },
     {
-      "keyword": "아시아투데이",
+      "keyword": "페덱",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김민석 \"비거주 1주택 세제 재검토\"‥당정, 실거주 인정 확대 공감",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846698_37004.html"
+        "title": "삼성 페덱·NC 라일리 용호상박 8이닝 대결…승자는 페덱",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823050500007"
       }
     },
     {
-      "keyword": "수능원서접수",
+      "keyword": "홀란드",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "재수생 \"작년 수능사진 써도되나\" 여권사진규격, 수능원서 접수기간 총정리",
+        "title": "홀란드가 시티에서 치른 지금까지의 기념비적인 경기들",
+        "source": "Manchester City FC",
+        "url": "https://kr.mancity.com/news/mens/erling-haaland-landmark-city-games-so-far-63923083"
+      }
+    },
+    {
+      "keyword": "네덜란드 그랑프리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "로랑 메키스, 잔드보르트 F1 스프린트 예선 참관",
         "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671791"
-      }
-    },
-    {
-      "keyword": "bwf",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Canada's Victor Lai earns bronze at badminton world championships for 2nd straight year",
-        "source": "CBC",
-        "url": "https://www.cbc.ca/sports/olympics/summer/badminton/victor-lai-bronze-badminton-world-championships-9.7317070"
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671625"
       }
     }
   ]
