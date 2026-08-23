@@ -1,45 +1,75 @@
 {
-  "timestamp": "2026-08-23T09:41:56.331065+09:00",
-  "label": "09:41",
+  "timestamp": "2026-08-23T11:18:11.351043+09:00",
+  "label": "11:18",
   "items": [
     {
       "keyword": "남편",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "김밥지옥 부부, 잠시 쉬는 아내에 \"왜 쉬어?\"..\"100명 중 1명 해당\" ('결혼 지옥')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823083353661"
-      }
-    },
-    {
-      "keyword": "롯데 자이언츠",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "롯데의 자랑 '국대 좌완', 슬럼프 탈출 기미 보인다…김태형 감독 \"김진욱은 확 무너지지 않아\" [잠실 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823050202901"
-      }
-    },
-    {
-      "keyword": "경상남도",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "경남교육청, 올해 지방공무원 합격자 178명 발표…27∼28일 등록",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260821064700052"
+        "title": "김동완, 박위 'CCTV 논란'에 \"그도 장애가 처음인 사람\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260822_0003758609"
       }
     },
     {
       "keyword": "연차",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "\"연차를 왜 써요?\"…휴가 몰빵하던 직장인들 돌변한 이유 [신용현의 트래블랩]",
         "source": "한국경제",
         "url": "https://www.hankyung.com/article/202608215122g"
+      }
+    },
+    {
+      "keyword": "홍현희",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘16kg 감량’ 홍현희, “입터질 때 먹는 ‘비상 간식’ 있다”… 뭐야?",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/08/21/2026082101525.html"
+      }
+    },
+    {
+      "keyword": "중국",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'매우 강' 태풍 사우델, 오키나와로 북상…다음주 한반도 날씨 변수",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823073155038"
+      }
+    },
+    {
+      "keyword": "bangladesh vs australia",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Australia vs Bangladesh: Tigers out for 64 as 18 wickets fall on first day in Mackay",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/cricket/articles/ckgdg2995g7o"
+      }
+    },
+    {
+      "keyword": "inter miami vs toronto",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "MATCH PREVIEW: Inter Miami CF Hosts Toronto FC on Saturday",
+        "source": "Inter Miami CF",
+        "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-hosts-toronto-fc-on-saturday"
+      }
+    },
+    {
+      "keyword": "그랜드 테프트 오토 vi",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"연장 복무하면 GTA6 출시 때 특별휴가\"…美육군, '이색 인센티브'",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260821_0003756975"
       }
     },
     {
@@ -50,32 +80,6 @@
         "title": "LG에너지솔루션, 美 랜싱 공장 본격 가동…북미 ESS 생산망 5곳 구축",
         "source": "동아비즈니스리뷰 | DBR",
         "url": "https://dbr.donga.com/kfocus/view/article_no/3424"
-      }
-    },
-    {
-      "keyword": "klasemen espanyol vs real madrid",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "신상진",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "신상진 성남시장 “누구나 문화예술 즐기는 성남 만들겠다”",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026082221005126251"
-      }
-    },
-    {
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"연장 복무하면 GTA6 출시 때 특별휴가\"…美육군, '이색 인센티브'",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260821_0003756975"
       }
     },
     {
@@ -93,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'신장 열세 극복 못 했다' 한국 U18 대표팀, 호주에 37점 차 완패…뉴질랜드와 銅 다툰다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823044247860"
+        "title": "한국, U-18 농구 아시아컵 준결승 호주에 완패…3·4위전으로",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823016900007"
       }
     }
   ]
