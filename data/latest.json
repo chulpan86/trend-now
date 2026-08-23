@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-24T03:14:32.846808+09:00",
-  "label": "03:14",
+  "timestamp": "2026-08-24T04:15:19.982784+09:00",
+  "label": "04:15",
   "items": [
     {
       "keyword": "100 일 의 거짓말",
@@ -17,9 +17,19 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Newcastle 2-2 Liverpool: Szoboszlai penalty rescues draw after wins for Man City & Brighton",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cn59gyvzgzdt"
+        "title": "Liverpool’s Szoboszlai spot on with late, late leveller to salvage point at Newcastle",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-premier-league-match-report"
+      }
+    },
+    {
+      "keyword": "thứ hạng của man city gặp bournemouth",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Man City và 3 dấu hỏi sau trận thắng Bournemouth",
+        "source": "yeuthethao.net.vn",
+        "url": "https://yeuthethao.net.vn/man-city-va-3-dau-hoi-sau-tran-thang-bournemouth-d892113.html"
       }
     },
     {
@@ -27,9 +37,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[오피셜]'일단 이강인과 함께 한다, 여름 이적 접은 듯' 아틀레티코 시메오네 감독, 알바레즈 비야레알전 출전 예고..\"훌리안은 매우 중요한 선수, 우리가 보살핀다\"",
+        "title": "'韓 축구 최고 재능' 이강인, '드디어' 든든한 지원군 출격 준비 완료…디에고 시메오네 \"훌리안 알바레즈 출전할 것\"",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/08/23/MNTDSYLEGMZGCOJZMVSTAZJRMY/"
+        "url": "https://www.chosun.com/sports/world-football/2026/08/23/GAYGCNBSHA4TGNRSMI2WEOBXGE/"
       }
     },
     {
@@ -37,9 +47,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "การทำนายผลการแข่งขันระหว่างนิวคาสเซิลกับลิเวอร์พูล: แมตช์ที่คาดเดาผลได้ยาก",
+        "title": "ปีเตอร์ เคราช์ เตือนว่านิวคาสเซิลมีความเสี่ยงที่จะตกเป็นเหยื่อของนโยบายการขายผู้เล่นหลักของลิเวอร์พูล",
         "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/th/nhan-dinh-newcastle-vs-liverpool-cuoc-doi-dau-bat-on"
+        "url": "https://www.vietnam.vn/th/peter-crouch-canh-bao-newcastle-de-guc-nga-truoc-liverpool-vi-chinh-sach-ban-mau-tru-cot"
       }
     },
     {
@@ -63,23 +73,13 @@
       }
     },
     {
-      "keyword": "중계",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "첼시",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "“49층·1000가구로 탈바꿈”…하계·중계·상계, 노원 재건축 ‘한꺼번에 뛴다’",
+        "title": "'25~'26 '팀 올해의 선수' 주앙 페드루, 첼시와 '2034년까지'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/uiGsAfOcN0?f=p"
-      }
-    },
-    {
-      "keyword": "티비",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "IndyCar drivers to zoom through D.C. streets, with Trump set to take lap in limo",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
+        "url": "https://v.daum.net/v/20260823171037139"
       }
     },
     {
