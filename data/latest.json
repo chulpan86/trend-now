@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-08-23T16:24:58.502796+09:00",
-  "label": "16:24",
+  "timestamp": "2026-08-23T17:17:39.728988+09:00",
+  "label": "17:17",
   "items": [
     {
-      "keyword": "장미란 시신",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "주식 분할",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "실종 사건 잇단 ‘허위 종결’…가족 “시신 몇 구나 더 나와야 사죄할 건가”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8643644"
+        "title": "소수점 거래 있는데…'황제주' 액면분할 카드 꺼내는 이유",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9K8OMdyOck"
       }
     },
     {
-      "keyword": "삼성",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "유강남",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "삼성 110조의 '빈칸'…SK하이닉스 40조 소각이 던진 숙제 [fn마켓워치]",
+        "title": "이제 2군서도 사라졌다...유강남과 롯데는 아름다운 이별을 할 수 있을까",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260823135308059"
+        "url": "https://v.daum.net/v/20260823111545427"
       }
     },
     {
@@ -33,33 +33,13 @@
       }
     },
     {
-      "keyword": "상추",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "노태우",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "외식 업계, 물가 상승 영향 가격 인상 압박",
-        "source": "뉴시스",
-        "url": "https://mobile.newsis.com/photo/NISI20260823_0021407789"
-      }
-    },
-    {
-      "keyword": "수원 삼성 블루윙즈",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "K리그2 수원 루이스, 입단 이틀 만에 결승골…천안 1-0 제압",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/B7KIQKwa1h"
-      }
-    },
-    {
-      "keyword": "장윤주",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'초밀착 슬립 원피스' 장윤주 \"조금 과감한 선택\"…해외 길거리 패션은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822165641876"
+        "title": "검찰청 폐지 눈앞인데‥'노태우 추가 비자금' 규명·환수는?",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846578_37004.html"
       }
     },
     {
@@ -73,13 +53,33 @@
       }
     },
     {
-      "keyword": "김남준",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "동아일보",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "김민석 지시 ‘민주당 TV’ 내달 초 출범…‘김어준 방송’ 시간대 겹칠 수도",
+        "title": "산청의 탈북 맏며느리… “산청이 왜 천국인지 아십니까”[북에서 온 이웃]",
         "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260822/134523693/1"
+        "url": "https://www.donga.com/news/Politics/article/all/20260820/134512613/1"
+      }
+    },
+    {
+      "keyword": "국민의힘",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "국힘 '당협 재선출·현역 중징계'에 긴장감…내일 최고위 주목(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823162552446"
+      }
+    },
+    {
+      "keyword": "시위",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "경찰, 올림픽공원 시위 다른 참가자 폭행한 50대 체포",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823085653889"
       }
     },
     {
@@ -93,13 +93,13 @@
       }
     },
     {
-      "keyword": "비자금",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "전준표",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "검찰청 폐지 눈앞인데‥'노태우 추가 비자금' 규명·환수는?",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846578_37004.html"
+        "title": "[한번에쓱]네일과 선발 맞대결 '기아 잡고 위닝시리즈!' 키움 전준표 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/23/2026082314334844660"
       }
     }
   ]
