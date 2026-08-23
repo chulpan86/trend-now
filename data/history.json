@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-22T04:18:53.448484+09:00",
-    "label": "04:18",
-    "items": [
-      {
-        "keyword": "이미숙",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'66세' 이미숙, 재산 처리 계획 밝혔다…\"사회에 다 환원하고 죽을 것\" (숙스러운)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821191107884"
-        }
-      },
-      {
-        "keyword": "탑승",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "박홍근 \"출근길 시위 멈춰야\"…전장연 \"시위 유보, 24일 입장 발표\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1rJgXzjJXj"
-        }
-      },
-      {
-        "keyword": "lck",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "MBC to Broadcast LCK Finals Live for Three Consecutive Years Until 2027",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1779371"
-        }
-      },
-      {
-        "keyword": "전화",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"제주 장미란씨 실종프로파일링 자료 입력후 삭제돼\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821171300056"
-        }
-      },
-      {
-        "keyword": "정선희",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'옥문아' 홍진경 \"이혼 발표 최대한 안 하고 싶었다\"…정선희 유튜브 비화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821224328652"
-        }
-      },
-      {
-        "keyword": "배재준",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "투구하는 배재준",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8067220"
-        }
-      },
-      {
-        "keyword": "스포츠",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "기자회견 도중 감독 눈물, 선수들도 놀랐다... \"韓 레슬링 죽지 않았다는 것 보여주겠다\" 정한재 다짐 [진천 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821060209535"
-        }
-      },
-      {
-        "keyword": "lck 순위",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "al-riyadh vs al-nassr",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Al Riyadh vs Al Nassr LIVE Streaming: Will Cristiano Ronaldo Play? Where to Watch Riyadh Derby LIVE in UAE and Saudi Arabia",
-          "source": "The Sunday Guardian",
-          "url": "https://sundayguardianlive.com/sports/al-riyadh-vs-al-nassr-live-streaming-will-cristiano-ronaldo-play-where-to-watch-riyadh-derby-live-in-uae-and-saudi-arabia-266640/"
-        }
-      },
-      {
-        "keyword": "pl",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Burza wokół konferencji Kosiniaka-Kamysza. Poseł Śliwka ujawnia kulisy: „Wstyd i żenada!”. MON odpowiada",
-          "source": "wPolsce24",
-          "url": "https://wpolsce24.tv/polska/burza-wokol-konferencji-kosiniakakamysza-posel-sliwka-ujawnia-kulisy,235581"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-22T05:14:10.655724+09:00",
     "label": "05:14",
     "items": [
@@ -3575,6 +3473,112 @@
           "title": "넥슨·블리자드 ‘오버워치’ 파트너십…“韓 기반 IP 성장 노린다”",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260823144642211"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-23T16:24:58.502796+09:00",
+    "label": "16:24",
+    "items": [
+      {
+        "keyword": "장미란 시신",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "실종 사건 잇단 ‘허위 종결’…가족 “시신 몇 구나 더 나와야 사죄할 건가”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643644"
+        }
+      },
+      {
+        "keyword": "삼성",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "삼성 110조의 '빈칸'…SK하이닉스 40조 소각이 던진 숙제 [fn마켓워치]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823135308059"
+        }
+      },
+      {
+        "keyword": "성리",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "성리 팬클럽 ‘성리학자’, 수해 이웃 위해 5400만원 기부...훈훈한 행보",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12133931"
+        }
+      },
+      {
+        "keyword": "상추",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "외식 업계, 물가 상승 영향 가격 인상 압박",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260823_0021407789"
+        }
+      },
+      {
+        "keyword": "수원 삼성 블루윙즈",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "K리그2 수원 루이스, 입단 이틀 만에 결승골…천안 1-0 제압",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/B7KIQKwa1h"
+        }
+      },
+      {
+        "keyword": "장윤주",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'초밀착 슬립 원피스' 장윤주 \"조금 과감한 선택\"…해외 길거리 패션은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822165641876"
+        }
+      },
+      {
+        "keyword": "메르세데스-마이바흐",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "한성자동차, 더 뉴 메르세데스-마이바흐 S 580 첫 고객에 전달",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823102527356"
+        }
+      },
+      {
+        "keyword": "김남준",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김민석 지시 ‘민주당 TV’ 내달 초 출범…‘김어준 방송’ 시간대 겹칠 수도",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260822/134523693/1"
+        }
+      },
+      {
+        "keyword": "수영구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "수영구, 「지역문화인력 양성과정」 운영",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260820.99099005793"
+        }
+      },
+      {
+        "keyword": "비자금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "검찰청 폐지 눈앞인데‥'노태우 추가 비자금' 규명·환수는?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846578_37004.html"
         }
       }
     ]
