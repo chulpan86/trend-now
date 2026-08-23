@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-08-21T20:16:44.775583+09:00",
-    "label": "20:16",
-    "items": [
-      {
-        "keyword": "화재",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "울산 대송시장 상인 소화기 진화…불길 차단",
-          "source": "중도일보",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20260821010006431"
-        }
-      },
-      {
-        "keyword": "lg 대 한화",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "배팅볼 투수인가…한화 짐머맨, LG전 ⅓이닝 7실점 조기 강판",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821174000007"
-        }
-      },
-      {
-        "keyword": "kia 타이거즈",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "KIA 5연승 이끈 김도영, 키움 눈에는 저승사자로 보인다…고척돔에서는 MVP 시즌보다 더 압도적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821151036121"
-        }
-      },
-      {
-        "keyword": "여성 소방관",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "불길 치솟는데 사다리차 안 닿자…소방관 믿고 11층서 뛰었다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260821/134517644/2"
-        }
-      },
-      {
-        "keyword": "성주군",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한수원, 을지연습서 원전 비상 태세 점검…드론 침투 대비 방호 훈련",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821181328710"
-        }
-      },
-      {
-        "keyword": "f1",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Max Verstappen issues 'a shame' response ahead of home grand prix departure",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/max-verstappen-issues-shame-response-ahead-of-home-grand-prix-departure"
-        }
-      },
-      {
-        "keyword": "만평",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "女 BJ들에게 별풍선 '펑펑펑'…큰 손으로 불리던 30대 男의 최후",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1678862/%E5%A5%B3-BJ%EB%93%A4-%EB%B3%84%ED%92%8D%EC%84%A0-%ED%8E%91%ED%8E%91%ED%8E%91%ED%81%B0-%EC%86%90-%EB%B6%88%EB%A6%AC%EB%8D%98-2026"
-        }
-      },
-      {
-        "keyword": "현대 자동차 그룹 메타 플랜트 아메리카",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "현대차 \"미 메타플랜트 생산량 확대...2028년까지 최대 80만대로\"",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608211101477573"
-        }
-      },
-      {
-        "keyword": "꽃게",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘가을 꽃게’ 금어기 풀렸다…새벽에 잡아 식탁으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821194559536"
-        }
-      },
-      {
-        "keyword": "도지코인",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "트럼프 한마디에 들썩인 도지코인(DOGE)…다음 승부처는 0.08달러",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/253906"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-21T21:25:24.525580+09:00",
-    "label": "21:25",
-    "items": [
-      {
-        "keyword": "최준희",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "'故 최진실 딸' 최준희, 화장 전후 차이에 깜짝 놀랐네…스스로도 \"어이가 없다\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/20/GZSWCMJRGJRDOMLGG44DKMJVGM/"
-        }
-      },
-      {
-        "keyword": "전원주",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'하이닉스 2만원대 매수' 전원주, 1주도 안 팔았다…9000% 수익률 '잭팟'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821143308823"
-        }
-      },
-      {
-        "keyword": "f1",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Max Verstappen issues 'a shame' response ahead of home grand prix departure",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/max-verstappen-issues-shame-response-ahead-of-home-grand-prix-departure"
-        }
-      },
-      {
-        "keyword": "수익",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "코스피 전망 물었더니…\"더 오른다\" 37% vs \"떨어진다\" 29% [갤럽]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821104327760"
-        }
-      },
-      {
-        "keyword": "이정범",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "9위팀 방출→1위팀 영입, 전화위복 성공기 만들까…1군 콜업 첫 출장→데뷔 첫 3타점 맹타 “경기 끝까지 기회를 주신 감독님께 감사드린다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821074310351"
-        }
-      },
-      {
-        "keyword": "f-35a",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Here's Why The US Air Force Chose The F-35A Over The F-22 For Export Partners",
-          "source": "Simple Flying",
-          "url": "https://simpleflying.com/why-usaf-chose-f-35a-over-f-22-for-export-partners/"
-        }
-      },
-      {
-        "keyword": "구속영장",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "윤석열 구속영장 발부되자 “헌재에 불지르자”···온라인 글 작성한 30대 항소심서 무죄",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821151728368"
-        }
-      },
-      {
-        "keyword": "의료과실",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독] 2명 사망 대형 치과, \"매일 소주 2병\" 알고도…환자에 약물 투여 강행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821194152444"
-        }
-      },
-      {
-        "keyword": "twitch",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "AP advises Twitch users: opt out from sharing data with Amazon AI",
-          "source": "Autoriteit Persoonsgegevens",
-          "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai"
-        }
-      },
-      {
-        "keyword": "김대호",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김규원, 돌잔치 MC 시절 아찔한 말실수…“할머니 죽으셨어요”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260821/134517971/2"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-21T22:36:53.209216+09:00",
     "label": "22:36",
     "items": [
@@ -3775,6 +3563,108 @@
           "title": "軍부사관도 못 구하는데… ‘선택적 모병제’의 딜레마",
           "source": "조선일보",
           "url": "https://www.chosun.com/national/2026/08/23/C3F52632TRDCDDOFQH3UM3IMAA/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-23T09:41:56.331065+09:00",
+    "label": "09:41",
+    "items": [
+      {
+        "keyword": "남편",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김밥지옥 부부, 잠시 쉬는 아내에 \"왜 쉬어?\"..\"100명 중 1명 해당\" ('결혼 지옥')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823083353661"
+        }
+      },
+      {
+        "keyword": "롯데 자이언츠",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "롯데의 자랑 '국대 좌완', 슬럼프 탈출 기미 보인다…김태형 감독 \"김진욱은 확 무너지지 않아\" [잠실 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823050202901"
+        }
+      },
+      {
+        "keyword": "경상남도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "경남교육청, 올해 지방공무원 합격자 178명 발표…27∼28일 등록",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260821064700052"
+        }
+      },
+      {
+        "keyword": "연차",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"연차를 왜 써요?\"…휴가 몰빵하던 직장인들 돌변한 이유 [신용현의 트래블랩]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608215122g"
+        }
+      },
+      {
+        "keyword": "lg에너지솔루션",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LG에너지솔루션, 美 랜싱 공장 본격 가동…북미 ESS 생산망 5곳 구축",
+          "source": "동아비즈니스리뷰 | DBR",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/3424"
+        }
+      },
+      {
+        "keyword": "klasemen espanyol vs real madrid",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "신상진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신상진 성남시장 “누구나 문화예술 즐기는 성남 만들겠다”",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026082221005126251"
+        }
+      },
+      {
+        "keyword": "그랜드 테프트 오토 vi",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"연장 복무하면 GTA6 출시 때 특별휴가\"…美육군, '이색 인센티브'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260821_0003756975"
+        }
+      },
+      {
+        "keyword": "전북 현대 모터스 fc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘즈베즈다 입단 눈앞’ 유럽 꿈 이룬 김예건 “설영우 선수에게 물어보니 적응 힘들거라고…하지만 자신감 중요하다” [현장인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823000437138"
+        }
+      },
+      {
+        "keyword": "농구",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'신장 열세 극복 못 했다' 한국 U18 대표팀, 호주에 37점 차 완패…뉴질랜드와 銅 다툰다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823044247860"
         }
       }
     ]
