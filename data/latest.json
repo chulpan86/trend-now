@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-08-23T22:24:48.649091+09:00",
-  "label": "22:24",
+  "timestamp": "2026-08-23T23:13:25.997663+09:00",
+  "label": "23:13",
   "items": [
     {
-      "keyword": "골프",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "김밥",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[특별기고] 홍석주 대한파크골프협회장께 묻는다, ‘파크볼’ 누구와 논의했나?",
-        "source": "지이코노미",
-        "url": "https://www.geconomy.co.kr/mobile/article.html?no=323005"
+        "title": "\"김밥 안 팔아요, 포기합니다\"…성수동 분식집에 무슨 일이",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026082370671"
+      }
+    },
+    {
+      "keyword": "맨시티",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "BRITAIN SOCCER",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260823n15836?mid=n1101"
       }
     },
     {
@@ -23,29 +33,19 @@
       }
     },
     {
-      "keyword": "배추",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "중국서 배추 신선도 유지하려 '발암물질' 사용…당국 수사",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823160038898"
-      }
-    },
-    {
-      "keyword": "100일의 거짓말",
+      "keyword": "폐기물",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "tvN 역대급 대작 온다…시청률 27.6% 감독→일제 강점물로 돌아오는 新 주말극 ('100일의거짓말')",
+        "title": "치매 어머니 4천만원, 폐기물로 버려져…2천만원만 돌아와",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260823180209149"
+        "url": "https://v.daum.net/v/UDqT9N1y0d"
       }
     },
     {
       "keyword": "man city vs bournemouth",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "Premier League: Maresca goes defensive against Bournemouth, no Watkins for Villa",
         "source": "BBC",
@@ -53,39 +53,39 @@
       }
     },
     {
-      "keyword": "황영조",
+      "keyword": "신동엽",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[Y르포]“시민들은 친절하고, 밤에도 안전해”…주말 ‘대구’ 도심 누빈 마스터즈육상 세계인들",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823201802261"
+        "title": "[다시보기] 미운 우리 새끼 509회",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/woori/vod/52018/22000634755"
       }
     },
     {
-      "keyword": "삼성물산",
+      "keyword": "부아디",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "삼성 덕에 '특별배당' 돈벼락…주주들 함박웃음 짓는 회사 [종목+]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026082139436"
+        "title": "HERE WE GO! 맨체스터 시티, '18세 모로코 초신성' 부아디 영입 완료 수순…총액 1620억 초대형 투자",
+        "source": "네이트",
+        "url": "https://m.news.nate.com/view/20260823n14820?mid=s22&list=recent&cpcd="
       }
     },
     {
-      "keyword": "페덱",
+      "keyword": "man city đấu với bournemouth",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "삼성 페덱·NC 라일리 용호상박 8이닝 대결…승자는 페덱",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823050500007"
+        "title": "Trực tiếp bóng đá Man City - Bournemouth: Haaland lĩnh xướng hàng công (Ngoại hạng Anh)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-bournemouth-noi-lo-sau-cu-soc-sieu-cup-ngoai-hang-anh-c48a1788851.html"
       }
     },
     {
       "keyword": "홀란드",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "홀란드가 시티에서 치른 지금까지의 기념비적인 경기들",
         "source": "Manchester City FC",
@@ -93,13 +93,13 @@
       }
     },
     {
-      "keyword": "네덜란드 그랑프리",
+      "keyword": "티웨이",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "로랑 메키스, 잔드보르트 F1 스프린트 예선 참관",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3671625"
+        "title": "티웨이항공 인천-로마 2주년…24만5000명 수송하며 안정적 수요",
+        "source": "스포츠서울",
+        "url": "https://www.sportsseoul.com/news/read/1630228"
       }
     }
   ]
