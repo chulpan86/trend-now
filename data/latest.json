@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-24T00:11:59.268656+09:00",
-  "label": "00:11",
+  "timestamp": "2026-08-24T01:12:46.579811+09:00",
+  "label": "01:12",
   "items": [
     {
       "keyword": "아틀레티코 대 비야레알",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "[엠빅뉴스] “강인 어메이징!” 외치더니 뒤통수 친 유튜버 결국..",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/original/mbig/6846685_29041.html"
+      }
+    },
+    {
+      "keyword": "세계 배드민턴 선수권 대회",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "\"이강인 골\" 환호하더니 '눈찢기'…AT마드리드 팬 유튜버 인종차별 논란",
-        "source": "주간조선",
-        "url": "http://weekly.chosun.com/news/articleView.html?idxno=54582"
+        "title": "안세영, 3년 만에 세계선수권 金 탈환",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/08/23/3EF2A3DD7JD37NZLDBLDBOTA54/"
       }
     },
     {
-      "keyword": "청소",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "뉴캐슬 대 리버풀",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "입주 청소 의뢰한 아파트 거실에 '수거한 오물' 뿌린 업체 직원, 무슨 일?",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6266514"
-      }
-    },
-    {
-      "keyword": "갑질",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "폭언·모욕에도 무뎌진 직장인들…'갑질 감수성' 3년째 하락",
+        "title": "‘배신자’ 야유 각오한 이삭…리버풀 유니폼 입고 뉴캐슬 첫 방문",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260823151200874"
+        "url": "https://v.daum.net/v/20260822201927824"
       }
     },
     {
-      "keyword": "ngoại hạng anh",
+      "keyword": "홈런",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "키움 김재현 역전 끝내기 만루포…덕분에 LG 나흘 만에 3위 복귀(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823040452007"
+      }
+    },
+    {
+      "keyword": "김윤지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"임신한 줄 알았어\"… NS윤지, 51kg 체중 공개하며 '다이어트' 돌입",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823210010752"
+      }
+    },
+    {
+      "keyword": "거제 섬꽃 축제",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "식물원 ‘초토화’…축제도 줄줄이 취소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823211614937"
+      }
+    },
+    {
+      "keyword": "대학 입학",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "헐크",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Trực tiếp bóng đá Man City - Bournemouth: Haaland lĩnh xướng hàng công (Ngoại hạng Anh)",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-bournemouth-noi-lo-sau-cu-soc-sieu-cup-ngoai-hang-anh-c48a1788851.html"
+        "title": "DC Had a Hulk of Its Own, but It Never Figured Out What to Do With Him",
+        "source": "ComicBook.com",
+        "url": "https://comicbook.com/comics/feature/dc-had-a-hulk-of-its-own-but-it-never-figured-out-what-to-do-with-him/"
       }
     },
     {
-      "keyword": "세종특별자치시",
+      "keyword": "atlético madrid vs villarreal",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "공지사항",
-        "source": "세종특별자치시청",
-        "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000160240Jy6bJ3q"
+        "title": "Lee Kang-in presses hard in Atlético debut start as first half ends 0-0",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/08/24/OYVF3RHX4NDLDJMDBLDJ4IAEEI/"
       }
     },
     {
-      "keyword": "fotmob",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Arsenal land golden opportunity to sign £129m-rated superstar as Newcastle chase late Man City deal",
-        "source": "3 Added Minutes",
-        "url": "https://www.3addedminutes.com/sport/football/arsenal-fc/arsenal-golden-opportunity-superstar-newcastle-man-city-deal-8936529"
-      }
-    },
-    {
-      "keyword": "아스톤빌라",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "韓축구 역대급 호재! '김민재 후계자' 이한범 '닥주전' 굳히기 들어가나…경쟁자 오르도녜스 PL 이적 급물살 \"빌라 브뤼헤와 접촉\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260823n11160"
-      }
-    },
-    {
-      "keyword": "야구 감독",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "포토슬라이드",
-        "source": "네이트",
-        "url": "https://news.nate.com/photo/slideShow?cid=1187743&mid=n0809"
-      }
-    },
-    {
-      "keyword": "브라이튼",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Britain Premier League Soccer",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260823n15758?mid=n1101"
-      }
-    },
-    {
-      "keyword": "манчестер сити – борнмут",
+      "keyword": "학생",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "«Ман Сити» — «Борнмут»: онлайн-трансляция матча 1-го тура АПЛ-2026/2027 начнётся в 16:00",
-        "source": "https://www.championat.ru/",
-        "url": "https://www.championat.ru/football/news-6592978-manchester-siti-bornmut-onlajn-translyaciya-matcha-1-go-tura-apl-2026-2027-nachnetsya-v-16-00-23-avgusta-2026.html"
+        "title": "경북고 졸업생 박지원 학생, 수능 대구 인문계열 수석의 영광 안고 모교에 장학금 500만 원 기탁 > 뉴스",
+        "source": "더코리아",
+        "url": "http://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=543908"
       }
     }
   ]
