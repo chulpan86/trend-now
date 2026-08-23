@@ -1,71 +1,61 @@
 {
-  "timestamp": "2026-08-23T14:19:41.748039+09:00",
-  "label": "14:19",
+  "timestamp": "2026-08-23T15:23:09.005966+09:00",
+  "label": "15:23",
   "items": [
     {
-      "keyword": "안규백",
+      "keyword": "삼성",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "삼성 110조의 '빈칸'…SK하이닉스 40조 소각이 던진 숙제 [fn마켓워치]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823135308059"
+      }
+    },
+    {
+      "keyword": "이바라키 현",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "330m 빌딩 속 붉은 원통…'대피해오는 도시'를 만들다[르포]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823143417918"
+      }
+    },
+    {
+      "keyword": "수원 삼성 블루윙즈",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "국힘 \"안규백 경질해야\"…'탈영 의혹·방사청 비리' 앞세워 공세",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260822040400001"
+        "title": "K리그2 수원 루이스, 입단 이틀 만에 결승골…천안 1-0 제압",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/B7KIQKwa1h"
       }
     },
     {
-      "keyword": "정몽규",
+      "keyword": "타율",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "이정후, MLB 보스턴전서 4타수 1안타…타율 0.291 유지",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823024800007"
+      }
+    },
+    {
+      "keyword": "엔비디아",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823016400075"
+      }
+    },
+    {
+      "keyword": "india vs sri lanka",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "\"정몽규 회장이 홍명보 선임 지시\" 폭로했던 이임생 '싱글벙글' 웃음 왜? 동남아 SNS '깜짝 등장' 이유는",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823060209875"
-      }
-    },
-    {
-      "keyword": "가사 도우미",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "故 김우중 회장 가사 도우미…'연매출 500억' 대표님 됐다",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026082258767"
-      }
-    },
-    {
-      "keyword": "김동완",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "유튜버 박위, KTX 낙상사고 CCTV 공개 논란 ...사과 뒤 영상 삭제",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0106_202608221543153115"
-      }
-    },
-    {
-      "keyword": "두산 베어스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "프로야구 대전·잠실·인천 경기 우천 취소…추후 재편성(종합2보)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260822035652007"
-      }
-    },
-    {
-      "keyword": "선수",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "포르투칼 축구선수 카스트로, 친선경기 중 쓰려져 숨져",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6846640_36946.html"
-      }
-    },
-    {
-      "keyword": "sl vs ind",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
         "title": "How to watch Sri Lanka vs India 2nd Test: Free Streams & TV Channels",
         "source": "TechRadar",
@@ -73,33 +63,43 @@
       }
     },
     {
-      "keyword": "정기예금",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "장윤주",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'연 9%' 적금의 유혹…받아보니 한 달 커피값?",
+        "title": "'초밀착 슬립 원피스' 장윤주 \"조금 과감한 선택\"…해외 길거리 패션은",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260823120105227"
+        "url": "https://v.daum.net/v/20260822165641876"
       }
     },
     {
-      "keyword": "조나단",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "김주형",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "조나단, 흑인 친구들과 '전국노래자랑' 뜬다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260821_0003757464"
+        "title": "임성재, PGA 투어 PO 2차전 3R서 7위로 뒷걸음",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823006200007"
       }
     },
     {
-      "keyword": "그레고리 로드리게스",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "카자흐스탄",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "UFC TONIGHT: Fight By Fight Preview | UFC Sacramento",
-        "source": "UFC.com",
-        "url": "https://www.ufc.com/news/fight-by-fight-sacramento-preview-ufc-hernandez-rodrigues"
+        "title": "전현무 \"일 없으면 수입 0원\"…일 중독 생존불안 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082203364168741"
+      }
+    },
+    {
+      "keyword": "오버워치 월드컵",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "넥슨·블리자드 ‘오버워치’ 파트너십…“韓 기반 IP 성장 노린다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823144642211"
       }
     }
   ]
