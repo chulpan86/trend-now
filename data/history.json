@@ -3684,5 +3684,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-24T00:11:59.268656+09:00",
+    "label": "00:11",
+    "items": [
+      {
+        "keyword": "아틀레티코 대 비야레알",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"이강인 골\" 환호하더니 '눈찢기'…AT마드리드 팬 유튜버 인종차별 논란",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=54582"
+        }
+      },
+      {
+        "keyword": "청소",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "입주 청소 의뢰한 아파트 거실에 '수거한 오물' 뿌린 업체 직원, 무슨 일?",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6266514"
+        }
+      },
+      {
+        "keyword": "갑질",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "폭언·모욕에도 무뎌진 직장인들…'갑질 감수성' 3년째 하락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823151200874"
+        }
+      },
+      {
+        "keyword": "ngoại hạng anh",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Trực tiếp bóng đá Man City - Bournemouth: Haaland lĩnh xướng hàng công (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-bournemouth-noi-lo-sau-cu-soc-sieu-cup-ngoai-hang-anh-c48a1788851.html"
+        }
+      },
+      {
+        "keyword": "세종특별자치시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "공지사항",
+          "source": "세종특별자치시청",
+          "url": "https://www.sejong.go.kr/bbs/R0071/view.do?nttId=B000000160240Jy6bJ3q"
+        }
+      },
+      {
+        "keyword": "fotmob",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Arsenal land golden opportunity to sign £129m-rated superstar as Newcastle chase late Man City deal",
+          "source": "3 Added Minutes",
+          "url": "https://www.3addedminutes.com/sport/football/arsenal-fc/arsenal-golden-opportunity-superstar-newcastle-man-city-deal-8936529"
+        }
+      },
+      {
+        "keyword": "아스톤빌라",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "韓축구 역대급 호재! '김민재 후계자' 이한범 '닥주전' 굳히기 들어가나…경쟁자 오르도녜스 PL 이적 급물살 \"빌라 브뤼헤와 접촉\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n11160"
+        }
+      },
+      {
+        "keyword": "야구 감독",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "포토슬라이드",
+          "source": "네이트",
+          "url": "https://news.nate.com/photo/slideShow?cid=1187743&mid=n0809"
+        }
+      },
+      {
+        "keyword": "브라이튼",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Britain Premier League Soccer",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260823n15758?mid=n1101"
+        }
+      },
+      {
+        "keyword": "манчестер сити – борнмут",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "«Ман Сити» — «Борнмут»: онлайн-трансляция матча 1-го тура АПЛ-2026/2027 начнётся в 16:00",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6592978-manchester-siti-bornmut-onlajn-translyaciya-matcha-1-go-tura-apl-2026-2027-nachnetsya-v-16-00-23-avgusta-2026.html"
+        }
+      }
+    ]
   }
 ]
