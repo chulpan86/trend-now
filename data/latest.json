@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-23T17:17:39.728988+09:00",
-  "label": "17:17",
+  "timestamp": "2026-08-23T18:18:02.142369+09:00",
+  "label": "18:18",
   "items": [
     {
-      "keyword": "주식 분할",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "연금",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "소수점 거래 있는데…'황제주' 액면분할 카드 꺼내는 이유",
+        "title": "국민연금 많이 받으면 기초연금 깎인다…감액액 4년 새 3배",
         "source": "Daum",
-        "url": "https://v.daum.net/v/9K8OMdyOck"
+        "url": "https://v.daum.net/v/20260823092650379"
       }
     },
     {
-      "keyword": "유강남",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "집",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "이제 2군서도 사라졌다...유강남과 롯데는 아름다운 이별을 할 수 있을까",
+        "title": "대전 중구, 대흥지구 뉴빌리지 40가구 외부 집수리 지원",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260823_0003758933"
+      }
+    },
+    {
+      "keyword": "숲",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "8억 들인 광주 태화산 유아숲체험원 주차난에 발길 뚝… 예산낭비 도마에",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260823111545427"
+        "url": "https://v.daum.net/v/20260823175854067"
       }
     },
     {
-      "keyword": "성리",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "무죄",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "성리 팬클럽 ‘성리학자’, 수해 이웃 위해 5400만원 기부...훈훈한 행보",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/entertain/12133931"
-      }
-    },
-    {
-      "keyword": "노태우",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "검찰청 폐지 눈앞인데‥'노태우 추가 비자금' 규명·환수는?",
+        "title": "홍준표, 한동훈에 \"노웅래 녹음파일 까보자? 인민재판식 무식·무지한 주장\"",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846578_37004.html"
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6846655_36911.html"
       }
     },
     {
-      "keyword": "메르세데스-마이바흐",
+      "keyword": "박근혜",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한성자동차, 더 뉴 메르세데스-마이바흐 S 580 첫 고객에 전달",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823102527356"
-      }
-    },
-    {
-      "keyword": "동아일보",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "산청의 탈북 맏며느리… “산청이 왜 천국인지 아십니까”[북에서 온 이웃]",
+        "title": "與 “연찬회에 박근혜 초청한 국힘, 국정농단 시대로 돌아가겠단 것인가”",
         "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260820/134512613/1"
+        "url": "https://www.donga.com/news/Politics/article/all/20260823/134524591/1"
       }
     },
     {
-      "keyword": "국민의힘",
+      "keyword": "서교림",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "서교림, 연장서 김민솔 잡고 KLPGA 챔피언십 제패…시즌 4승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823038200007"
+      }
+    },
+    {
+      "keyword": "새만금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "국힘 '당협 재선출·현역 중징계'에 긴장감…내일 최고위 주목(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823162552446"
+        "title": "새만금 기본계획 변경안 발표…‘공공주도·산업중심’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8641966"
       }
     },
     {
-      "keyword": "시위",
+      "keyword": "기아 키움",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "경찰, 올림픽공원 시위 다른 참가자 폭행한 50대 체포",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823085653889"
+        "title": "'이의리 끝내기 만루포 허용 충격 블론' KIA, 다 잡은 3위 수성 놓쳤다! 키움 8-7 대역전 드라마 [고척 현장리뷰] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/23/2026082311011846966"
       }
     },
     {
-      "keyword": "수영구",
+      "keyword": "원종현",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "수영구, 「지역문화인력 양성과정」 운영",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260820.99099005793"
+        "title": "양현종 77구에 교체한 KIA 이범호 감독 \"왠지 신경 쓰였다\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260822041900007"
       }
     },
     {
-      "keyword": "전준표",
+      "keyword": "김태군",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[한번에쓱]네일과 선발 맞대결 '기아 잡고 위닝시리즈!' 키움 전준표 - 머니투데이",
+        "title": "[포토]6회초 2사후 2루타로 찬스 만든 김태군 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/23/2026082314334844660"
+        "url": "https://www.mt.co.kr/sports/2026/08/23/2026082316110117868"
       }
     }
   ]
