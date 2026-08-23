@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-23T12:41:06.204079+09:00",
-  "label": "12:41",
+  "timestamp": "2026-08-23T13:26:51.895607+09:00",
+  "label": "13:26",
   "items": [
     {
       "keyword": "엘에이 fc 대 포틀랜드 팀버스",
@@ -13,33 +13,33 @@
       }
     },
     {
+      "keyword": "이정후",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "이정후, MLB 보스턴전서 4타수 1안타…타율 0.291 유지",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823024800007"
+      }
+    },
+    {
+      "keyword": "워렌 버핏",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "버핏도 \"일찍 못 사 아쉬워\" 한 알파벳, 60세 넘어 안전하게 투자하는 법",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/money/2026/08/23/SDJ2F4PEKVAQDHBDDSZLRYWEAM/"
+      }
+    },
+    {
       "keyword": "앤 해서웨이",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'만삭' 앤 해서웨이, 이번엔 D라인 가리고 공식석상 등장",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260817n10319"
-      }
-    },
-    {
-      "keyword": "홍현희",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "홍현희, 10kg 감량 후 공주 데뷔 포착..롯데월드 퍼레이드 '깜짝' [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822183150710"
-      }
-    },
-    {
-      "keyword": "중국",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'매우 강' 태풍 사우델, 오키나와로 북상…다음주 한반도 날씨 변수",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823073155038"
+        "title": "임신한 배 드러내자 “가짜 배 아니야?”···앤 해서웨이도 피하지 못한 ‘외모 품평 악플’ [이윤정 기자의 소소월드]",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608230940001"
       }
     },
     {
@@ -57,9 +57,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "스쿠발, 다저스 이적 4경기 만에 첫 승리…피츠버그전 7이닝 11K",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/overseas-baseball/6266620"
+        "title": "스쿠벌, 다저스 이적 4경기 만에 첫 승리 신고…피츠버그전 7이닝 11K",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260823_0003758824"
       }
     },
     {
@@ -73,6 +73,16 @@
       }
     },
     {
+      "keyword": "lionel messi",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Lionel Messi Fined by MLS Disciplinary Committee for Striking Opponent, Amount Undisclosed",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008716833"
+      }
+    },
+    {
       "keyword": "폭염 경보",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -83,23 +93,13 @@
       }
     },
     {
-      "keyword": "bangladesh vs australia",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Ball by Ball Commentary & Live Score - AUS vs BAN, 2nd Test",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/bangladesh-in-australia-2026-1527258/australia-vs-bangladesh-2nd-test-1527274/ball-by-ball-commentary"
-      }
-    },
-    {
       "keyword": "두산베어스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'깜짝 놀랐다' 한화 대만 특급 감기 몸살인 줄 알았는데, 폐렴 진단→병원 입원…김경문도 \"몸이 안 좋다, 이번 기회에 조절을\" 걱정",
+        "title": "“4-5위 하려고 야구하는 거 아니다” 구단주 일침→에이스가 다쳤다! 벤자민 언제 돌아오나 “AG 전에 꼭 복귀했으면”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260823044244859"
+        "url": "https://v.daum.net/v/20260823014209625"
       }
     }
   ]
