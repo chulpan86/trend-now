@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-24T02:11:55.228024+09:00",
-  "label": "02:11",
+  "timestamp": "2026-08-24T03:14:32.846808+09:00",
+  "label": "03:14",
   "items": [
     {
       "keyword": "100 일 의 거짓말",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "tvN 역대급 대작 온다…시청률 27.6% 감독→일제 강점물로 돌아오는 新 주말극 ('100일의거짓말')",
         "source": "Daum",
@@ -13,13 +13,33 @@
       }
     },
     {
-      "keyword": "스포츠토토",
+      "keyword": "newcastle vs liverpool",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'스포츠토토 이용습관 셀프점검 해봐요' 베트맨 건전화 캠페인 마감 임박…31일까지, 상품권 총 350명 증정, 벳볼 500개 경품",
+        "title": "Newcastle 2-2 Liverpool: Szoboszlai penalty rescues draw after wins for Man City & Brighton",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cn59gyvzgzdt"
+      }
+    },
+    {
+      "keyword": "훌리안 알바레스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[오피셜]'일단 이강인과 함께 한다, 여름 이적 접은 듯' 아틀레티코 시메오네 감독, 알바레즈 비야레알전 출전 예고..\"훌리안은 매우 중요한 선수, 우리가 보살핀다\"",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_general/2026/08/23/GJSWMMBWHA4TMNLBMEZTSODBG4/"
+        "url": "https://www.chosun.com/sports/world-football/2026/08/23/MNTDSYLEGMZGCOJZMVSTAZJRMY/"
+      }
+    },
+    {
+      "keyword": "นิวคาสเซิล พบ ลิเวอร์พูล",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "การทำนายผลการแข่งขันระหว่างนิวคาสเซิลกับลิเวอร์พูล: แมตช์ที่คาดเดาผลได้ยาก",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/th/nhan-dinh-newcastle-vs-liverpool-cuoc-doi-dau-bat-on"
       }
     },
     {
@@ -33,16 +53,6 @@
       }
     },
     {
-      "keyword": "로메로",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "손흥민 동료에서 이강인 동료로…로메로 “AT마드리드 역사에 이름 남기겠다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260821063749224?f=p"
-      }
-    },
-    {
       "keyword": "마르무시",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -50,26 +60,6 @@
         "title": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260822160212346?f=p"
-      }
-    },
-    {
-      "keyword": "newcastle vs liverpool",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Newcastle United v Liverpool: Premier League – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live"
-      }
-    },
-    {
-      "keyword": "스포츠",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "스포츠를 정치에 활용해온 트럼프, 오늘 워싱턴 D.C. 자동차 경주에 등장",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0104_202608240051374883"
       }
     },
     {
@@ -93,10 +83,24 @@
       }
     },
     {
-      "keyword": "대학 입학",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "유벤투스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'아스널, 결국 영입 실패!'… 아르테타가 그토록 원했던 '2005년생 특급 재능' 일디즈, 1620억원도 소용없다 \"얼마를 제안하든 안 보내\"",
+        "source": "포포투",
+        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96806"
+      }
+    },
+    {
+      "keyword": "로메로",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "손흥민 동료에서 이강인 새 동료로 합류…'이미 아틀레티코 마드리드 수비진 리더'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9tYc3QhDsG?f=p"
+      }
     }
   ]
 }

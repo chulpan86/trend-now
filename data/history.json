@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-22T14:17:27.228109+09:00",
-    "label": "14:17",
-    "items": [
-      {
-        "keyword": "오늘 날씨",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[날씨] 강한 소나기 주의…충청·남부 무더위 기승",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822122704394"
-        }
-      },
-      {
-        "keyword": "당구",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "시골 당구장 카운터 보던 알바생이 어떻게 ‘최초의 챔피언’ 됐나",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260818518275"
-        }
-      },
-      {
-        "keyword": "무덤",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“딸 묻을 자리였는데”…아버지가 판 무덤, 9년 뒤 해바라기 가득한 기적의 꽃밭으로",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202608191458001"
-        }
-      },
-      {
-        "keyword": "놀면 뭐하니?",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "유재석, 86억 펜트하우스 절대 공개 안하더니..\"집에 모니터 12개썰\" 입열었다(놀뭐)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821154352443"
-        }
-      },
-      {
-        "keyword": "공대공 미사일",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822023600011"
-        }
-      },
-      {
-        "keyword": "일론 머스크",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "일론 머스크 ‘비트코인엔 목 조를 곳 없다’…이유는?",
-          "source": "BeInCrypto",
-          "url": "https://kr.beincrypto.com/elon-musk-bitcoin-no-throat-choke/"
-        }
-      },
-      {
-        "keyword": "분사기",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "큰아버지 분묘 파헤쳐 가스 분사기로 유골 태운 60대 집유",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821158000062"
-        }
-      },
-      {
-        "keyword": "강남",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "강남, '우익 논란' 日 배우 홍보했다 뭇매… 유튜브 영상· SNS 삭제",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260821_0003758232"
-        }
-      },
-      {
-        "keyword": "박지현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'황당 봉변' 박지현 자유투 던지는데 성인용품 투척! 美 WNBA서 험한 꼴 나왔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822033436223"
-        }
-      },
-      {
-        "keyword": "특별재난지역",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'호우 피해' 거제·통영 특별재난지역 선포…갈길 먼 복구 작업",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822122309351"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-22T15:21:31.784939+09:00",
     "label": "15:21",
     "items": [
@@ -3780,6 +3674,112 @@
         "traffic_raw": "200+",
         "traffic": 200,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-24T03:14:32.846808+09:00",
+    "label": "03:14",
+    "items": [
+      {
+        "keyword": "100 일 의 거짓말",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "tvN 역대급 대작 온다…시청률 27.6% 감독→일제 강점물로 돌아오는 新 주말극 ('100일의거짓말')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260823180209149"
+        }
+      },
+      {
+        "keyword": "newcastle vs liverpool",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Newcastle 2-2 Liverpool: Szoboszlai penalty rescues draw after wins for Man City & Brighton",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cn59gyvzgzdt"
+        }
+      },
+      {
+        "keyword": "훌리안 알바레스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[오피셜]'일단 이강인과 함께 한다, 여름 이적 접은 듯' 아틀레티코 시메오네 감독, 알바레즈 비야레알전 출전 예고..\"훌리안은 매우 중요한 선수, 우리가 보살핀다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/23/MNTDSYLEGMZGCOJZMVSTAZJRMY/"
+        }
+      },
+      {
+        "keyword": "นิวคาสเซิล พบ ลิเวอร์พูล",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "การทำนายผลการแข่งขันระหว่างนิวคาสเซิลกับลิเวอร์พูล: แมตช์ที่คาดเดาผลได้ยาก",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-newcastle-vs-liverpool-cuoc-doi-dau-bat-on"
+        }
+      },
+      {
+        "keyword": "살라",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'이럴 수가' 리버풀 떠난 파라오, '기회 창출 4회'에도 팬들 엇갈린 반응…\"그의 영입은 실수였다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260823n00537"
+        }
+      },
+      {
+        "keyword": "마르무시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260822160212346?f=p"
+        }
+      },
+      {
+        "keyword": "중계",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“49층·1000가구로 탈바꿈”…하계·중계·상계, 노원 재건축 ‘한꺼번에 뛴다’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uiGsAfOcN0?f=p"
+        }
+      },
+      {
+        "keyword": "티비",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "IndyCar drivers to zoom through D.C. streets, with Trump set to take lap in limo",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/"
+        }
+      },
+      {
+        "keyword": "유벤투스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'아스널, 결국 영입 실패!'… 아르테타가 그토록 원했던 '2005년생 특급 재능' 일디즈, 1620억원도 소용없다 \"얼마를 제안하든 안 보내\"",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96806"
+        }
+      },
+      {
+        "keyword": "로메로",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "손흥민 동료에서 이강인 새 동료로 합류…'이미 아틀레티코 마드리드 수비진 리더'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9tYc3QhDsG?f=p"
+        }
       }
     ]
   }
