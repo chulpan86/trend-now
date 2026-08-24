@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-24T20:17:55.594333+09:00",
-  "label": "20:17",
+  "timestamp": "2026-08-24T21:25:53.207062+09:00",
+  "label": "21:25",
   "items": [
     {
       "keyword": "전원주",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "traffic_raw": "50000+",
+      "traffic": 50000,
       "news": {
         "title": "'전원주 유튜브' 채널 제작진 하차…\"이유를 알려 달라\" 공지에 당황 [전문]",
         "source": "Daum",
@@ -13,89 +13,93 @@
       }
     },
     {
-      "keyword": "마르코스 로드리게스 판 토하",
+      "keyword": "김영록",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "12년간 늑대와 살았던 스페인 ’늑대 소년’, 80세로 세상 떠나",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260824140412cAO"
-      }
-    },
-    {
-      "keyword": "회사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "직장인들 '학을 뗐다'…\"연봉 더 줘도 이 회사 안 간다\" 폭발 [리멤버 오피스워]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608237344g"
-      }
-    },
-    {
-      "keyword": "김효주",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "김세영, LPGA 투어 CPKC 여자오픈 3위…야마시타 시즌 2승",
+        "title": "전남광주 '통합 주역' 강기정, 중국으로…김영록, 나주로",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260824058300007"
+        "url": "https://www.yna.co.kr/view/AKR20260824054600054"
       }
     },
     {
-      "keyword": "한소희",
+      "keyword": "용산공원",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "서울시민 3명 중 2명 \"용산공원 부지에 공공주택 공급 반대\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6846817_36918.html"
+      }
+    },
+    {
+      "keyword": "민희진",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[단독] 아일릿 디렉터도 민희진에 패소···하이브 진행 중 소송만 19건",
+        "source": "시사저널",
+        "url": "https://www.sisajournal.com/news/articleView.html?idxno=384586"
+      }
+    },
+    {
+      "keyword": "김치",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'생활의 달인' 서울 김치 달인 양념 비법·부산 바게트·평택 호박시루떡 소개",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3673241"
+      }
+    },
+    {
+      "keyword": "박항서",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "박항서 감독과 이별 \"옳은 결정이었다\"...'韓 사령탑' 김상식 체제서 제2 전성기 맞은 베트남, PARK 감독 혜안 조명 \"새 도약 위한 기회 장 열어\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824121449269"
+      }
+    },
+    {
+      "keyword": "lg 트윈스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘실책-실책’ 또 역전패 위기, 1사 만루를 삭제하다…ML 112승은 다르네 “인간이기에 실수 할 수 있다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824084238744?f=p"
+      }
+    },
+    {
+      "keyword": "sxmb",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'인턴' 리메이크 우려 댓글 다 본 최민식 \"비교 좋아, 진심 다했다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824193802963"
+        "title": "Xổ số miền Nam ngày 24 tháng 8: Tìm nhiều người may mắn trúng số đài TP.HCM",
+        "source": "Báo Thanh Niên",
+        "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-24-thang-8-tim-nhieu-nguoi-may-man-trung-so-dai-tphcm-185260823075558904.htm"
       }
     },
     {
-      "keyword": "스토크 시티 fc",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "제주항공",
+      "keyword": "괴롭힘",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "제주항공, 지난해 육아휴직 사용자 51% 증가",
+        "title": "충격 폭로! \"대표팀 관계자로부터 괴롭힘, 따돌림, 갑질 당해\"...\"죄송하지만, 이제는 한계\" 日 콘도 코코네, 장문의 성명문 게재",
         "source": "Daum",
-        "url": "https://v.daum.net/v/pqtbWUNdSp"
-      }
-    },
-    {
-      "keyword": "신동욱",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "장동혁, 한 발 물러났지만…연쇄 폭발 '뇌관' 여전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824184255939"
+        "url": "https://v.daum.net/v/20260824152249651"
       }
     },
     {
       "keyword": "동복댐",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "호남권 반도체 클러스터 범시민추진위 출범",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260824123400054"
-      }
-    },
-    {
-      "keyword": "타이타닉",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Weekend Box Office: Spider-Man: Brand New Day Continues to Climb",
-        "source": "Rotten Tomatoes",
-        "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-4/"
       }
     }
   ]

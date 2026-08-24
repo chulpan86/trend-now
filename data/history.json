@@ -3570,5 +3570,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-24T21:25:53.207062+09:00",
+    "label": "21:25",
+    "items": [
+      {
+        "keyword": "전원주",
+        "traffic_raw": "50000+",
+        "traffic": 50000,
+        "news": {
+          "title": "'전원주 유튜브' 채널 제작진 하차…\"이유를 알려 달라\" 공지에 당황 [전문]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824171439756"
+        }
+      },
+      {
+        "keyword": "김영록",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "전남광주 '통합 주역' 강기정, 중국으로…김영록, 나주로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824054600054"
+        }
+      },
+      {
+        "keyword": "용산공원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "서울시민 3명 중 2명 \"용산공원 부지에 공공주택 공급 반대\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6846817_36918.html"
+        }
+      },
+      {
+        "keyword": "민희진",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 아일릿 디렉터도 민희진에 패소···하이브 진행 중 소송만 19건",
+          "source": "시사저널",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=384586"
+        }
+      },
+      {
+        "keyword": "김치",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'생활의 달인' 서울 김치 달인 양념 비법·부산 바게트·평택 호박시루떡 소개",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3673241"
+        }
+      },
+      {
+        "keyword": "박항서",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "박항서 감독과 이별 \"옳은 결정이었다\"...'韓 사령탑' 김상식 체제서 제2 전성기 맞은 베트남, PARK 감독 혜안 조명 \"새 도약 위한 기회 장 열어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824121449269"
+        }
+      },
+      {
+        "keyword": "lg 트윈스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘실책-실책’ 또 역전패 위기, 1사 만루를 삭제하다…ML 112승은 다르네 “인간이기에 실수 할 수 있다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824084238744?f=p"
+        }
+      },
+      {
+        "keyword": "sxmb",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Xổ số miền Nam ngày 24 tháng 8: Tìm nhiều người may mắn trúng số đài TP.HCM",
+          "source": "Báo Thanh Niên",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-24-thang-8-tim-nhieu-nguoi-may-man-trung-so-dai-tphcm-185260823075558904.htm"
+        }
+      },
+      {
+        "keyword": "괴롭힘",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "충격 폭로! \"대표팀 관계자로부터 괴롭힘, 따돌림, 갑질 당해\"...\"죄송하지만, 이제는 한계\" 日 콘도 코코네, 장문의 성명문 게재",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824152249651"
+        }
+      },
+      {
+        "keyword": "동복댐",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "호남권 반도체 클러스터 범시민추진위 출범",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824123400054"
+        }
+      }
+    ]
   }
 ]
