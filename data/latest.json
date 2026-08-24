@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-25T07:15:15.077195+09:00",
-  "label": "07:15",
+  "timestamp": "2026-08-25T08:13:37.338154+09:00",
+  "label": "08:13",
   "items": [
     {
-      "keyword": "포스코",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "날씨",
+      "traffic_raw": "100000+",
+      "traffic": 100000,
       "news": {
-        "title": "“금요일에 샀는데…”주주환원 삼전 8%폭락 이유",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11611626"
+        "title": "처서도 지났는데 다시 '이중 열돔'‥이 더위 언제까지?",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846974_37004.html"
       }
     },
     {
-      "keyword": "현대",
+      "keyword": "이상민",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[일지] 현대차 노사 2026년 임금협상 잠정합의까지",
+        "title": "네이처 출신 김소희, 이상민 설립 소속사 '더232' 1호 아티스트 됐다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824230038691"
+      }
+    },
+    {
+      "keyword": "weather",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Early coastal downpours Monday; Scattered inland evening storms",
+        "source": "Gulf Coast News and Weather",
+        "url": "https://www.gulfcoastnewsnow.com/article/weather-forecast-southwest-florida-storms-tropics-cape-coral-naples/73508019"
+      }
+    },
+    {
+      "keyword": "나스닥 100",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "미국 나랏빚 5경 5천조 원‥금·비트코인 뛰고 AI 랠리 '흔들'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846981_37004.html"
+      }
+    },
+    {
+      "keyword": "비트코인",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[코인시세] 비트코인 7만 2천달러 돌파…규제 완화 기대에 코인 강세",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260821103226IMN"
+      }
+    },
+    {
+      "keyword": "엔비디아",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "엔비디아가 삼성·SK 하반기 성적표 쥔다…'AI 슈퍼사이클' 시험대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825070128822"
+      }
+    },
+    {
+      "keyword": "로베르토 데 제르비",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김지수 빠진 브렌트퍼드, EPL 개막전서 토트넘에 3-0 완승",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825004900057"
+        "url": "https://www.yna.co.kr/view/AKR20260823011900007"
       }
     },
     {
-      "keyword": "天气",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "vix",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Weather tracker: Tornadoes cause flash flooding and power cuts in north-east US",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/aug/24/weather-tracker-tornadoes-cause-flash-flooding-and-power-cuts-in-north-east-us"
+        "title": "U.S. readies largest Iran sanctions as Wall Street opens mixed - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-international/2026/08/24/UVEFWM6DPNE4JCS6LZWA32RP5I/"
       }
     },
     {
-      "keyword": "죽음",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "天氣",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "말 그대로 '죽음의 계곡'…데스밸리에 갇힌 프랑스 관광객 사망",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825053807477"
+        "title": "討論牆 | 嚴防豪雨 6縣市宣布週一停止上班上課",
+        "source": "LINE TODAY",
+        "url": "https://today.line.me/tw/v3/posts/list/article/oqRjZa6"
       }
     },
     {
-      "keyword": "skhy",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "SK hynix: This Could Be The Deal Of The Decade",
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4938518-sk-hynix-this-could-be-the-deal-of-the-decade"
-      }
-    },
-    {
-      "keyword": "사랑이 온다",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘사랑이 온다’, 분위기 탔다…시청률 16.8%↑ ‘훌쩍’",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608240822003"
-      }
-    },
-    {
-      "keyword": "김다예",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘김다예♥’ 박수홍, 22개월 딸 교육 엄청나네..영어·미술·축구까지(행복해다홍)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824193953008"
-      }
-    },
-    {
-      "keyword": "일기예보",
+      "keyword": "tsla",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "8월 24일 응에안 지역 날씨 예보: 소나기와 천둥번개가 예상됩니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/thoi-tiet-nghe-an-ngay-24-8-mua-rao-va-dong-rai-rac"
-      }
-    },
-    {
-      "keyword": "중대범죄수사청",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "검찰 직원, 중수청 정원 82.6% 신청…예상 밖 흥행 이유는",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824164503153"
-      }
-    },
-    {
-      "keyword": "헌법재판소",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "조희대 \"법치주의 가치 중요... 국가권력 자의적 행사 통제\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/court_law/2026/08/24/BDTSB42UXRED7AKN7OMCVXWQ5U/"
+        "title": "Tesla (NASDAQ:TSLA) Stock Price Down 3.8% - Should You Sell?",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-38-should-you-sell-2026-08-24/"
       }
     }
   ]
