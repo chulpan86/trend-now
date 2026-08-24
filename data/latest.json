@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-08-25T01:23:07.087351+09:00",
-  "label": "01:23",
+  "timestamp": "2026-08-25T02:21:50.761784+09:00",
+  "label": "02:21",
   "items": [
-    {
-      "keyword": "월미도",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "월미도 디스코팡팡서 30대 탑승객 튕겨 나가 부상",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260824146000065"
-      }
-    },
     {
       "keyword": "설 영우",
       "traffic_raw": "2000+",
@@ -23,13 +13,23 @@
       }
     },
     {
-      "keyword": "박애리",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "영화관",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "팝핀현준, 아내 박애리 뱃살에 놀라 “누나! 없던 게 생겼어!” ('스타건강랭킹 넘버원')",
+        "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260824n33783"
+      }
+    },
+    {
+      "keyword": "롯데마트",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824160837048"
+        "url": "https://v.daum.net/v/VJyeazcnCO"
       }
     },
     {
@@ -47,9 +47,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "하나머티리얼즈 식각 부품 공급 비상…사태 장기화 수순",
-        "source": "디일렉",
-        "url": "https://www.thelec.kr/news/articleView.html?idxno=61241"
+        "title": "'노사 갈등' 하나머티리얼즈, 노조 파업에 '직장폐쇄' 맞불",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824173439582"
       }
     },
     {
@@ -63,13 +63,23 @@
       }
     },
     {
-      "keyword": "롯데마트",
+      "keyword": "신봉선",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VJyeazcnCO"
+        "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260822n04058"
+      }
+    },
+    {
+      "keyword": "한국거래소",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력",
+        "source": "쿠키뉴스",
+        "url": "https://www.kukinews.com/article/view/kuk202608240093"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "캐나다, 美중간선거 전 협상재개 가능성 낮다 판단…장기전 대비",
+        "title": "캐나다인 4명중 3명 \"나쁜 거래 중단 옳다\"…대미 무역전쟁 지지",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825001251403"
-      }
-    },
-    {
-      "keyword": "sk 하이닉스 채용",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[포토뉴스]전남광주에서 열린 ‘SK하이닉스 채용설명회’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/20260824203800A/?cp"
+        "url": "https://v.daum.net/v/20260825004951811"
       }
     }
   ]
