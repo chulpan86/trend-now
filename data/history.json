@@ -3680,5 +3680,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-25T04:21:14.939568+09:00",
+    "label": "04:21",
+    "items": [
+      {
+        "keyword": "돈",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "남편이 생일 선물로 순금 80돈을?…금은방 주인 ‘촉’ 발동 [잇슈#태그]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644232"
+        }
+      },
+      {
+        "keyword": "풀럼 대 첼시",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "풀럼 vs 첼시 예측: 선두 경쟁의 뜨거운 대결",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-chelsea-diem-nong-cuoc-dua-top-dau"
+        }
+      },
+      {
+        "keyword": "유시민",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "유시민 \"대통령 지지율 곧 '3자'... 윤석열 때와 비슷한 증상 많아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824221237363"
+        }
+      },
+      {
+        "keyword": "화장실",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "여자화장실 칸막이 아래 휴대전화…공기업 카지노 직원 입건",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260823008100030"
+        }
+      },
+      {
+        "keyword": "imdb",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Weekend Box Office: Spider-Man: Brand New Day Continues to Climb",
+          "source": "Rotten Tomatoes",
+          "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-4/"
+        }
+      },
+      {
+        "keyword": "경주마",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“마사회 ‘말복지 지표’ 의혹 밝혀야”…제주비건, 공익감사 촉구",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824161815670"
+        }
+      },
+      {
+        "keyword": "영화관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082495361"
+        }
+      },
+      {
+        "keyword": "신봉선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260822n04058"
+        }
+      },
+      {
+        "keyword": "한국거래소",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202608240093"
+        }
+      },
+      {
+        "keyword": "베센트",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'경제적 D-데이' 美, 대이란 글로벌 제재 발표…\"중국도 예외 없다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825025708266"
+        }
+      }
+    ]
   }
 ]

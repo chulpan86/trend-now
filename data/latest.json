@@ -1,15 +1,35 @@
 {
-  "timestamp": "2026-08-25T03:24:41.058435+09:00",
-  "label": "03:24",
+  "timestamp": "2026-08-25T04:21:14.939568+09:00",
+  "label": "04:21",
   "items": [
     {
       "keyword": "돈",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "남편이 생일 선물로 순금 80돈을?…금은방 주인 ‘촉’ 발동 [잇슈#태그]",
         "source": "KBS 뉴스",
         "url": "https://news.kbs.co.kr/news/view.do?ncd=8644232"
+      }
+    },
+    {
+      "keyword": "풀럼 대 첼시",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "풀럼 vs 첼시 예측: 선두 경쟁의 뜨거운 대결",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-chelsea-diem-nong-cuoc-dua-top-dau"
+      }
+    },
+    {
+      "keyword": "유시민",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "유시민 \"대통령 지지율 곧 '3자'... 윤석열 때와 비슷한 증상 많아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824221237363"
       }
     },
     {
@@ -33,13 +53,13 @@
       }
     },
     {
-      "keyword": "유시민",
+      "keyword": "경주마",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“윤석열 때와 놀라울 만큼 닮았다”…유시민, 李대통령 작심 비판",
+        "title": "“마사회 ‘말복지 지표’ 의혹 밝혀야”…제주비건, 공익감사 촉구",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824233749912"
+        "url": "https://v.daum.net/v/20260824161815670"
       }
     },
     {
@@ -48,8 +68,18 @@
       "traffic": 200,
       "news": {
         "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026082495361"
+      }
+    },
+    {
+      "keyword": "신봉선",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
         "source": "네이트",
-        "url": "https://news.nate.com/view/20260824n33783"
+        "url": "https://news.nate.com/view/20260822n04058"
       }
     },
     {
@@ -63,43 +93,13 @@
       }
     },
     {
-      "keyword": "롯데마트",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "베센트",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
+        "title": "'경제적 D-데이' 美, 대이란 글로벌 제재 발표…\"중국도 예외 없다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/VJyeazcnCO"
-      }
-    },
-    {
-      "keyword": "경주마",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“마사회 ‘말복지 지표’ 의혹 밝혀야”…제주비건, 공익감사 촉구",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824161815670"
-      }
-    },
-    {
-      "keyword": "첼시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "풀럼 vs 첼시 예측: 선두 경쟁의 뜨거운 대결",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-chelsea-diem-nong-cuoc-dua-top-dau"
-      }
-    },
-    {
-      "keyword": "신봉선",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260822n04058"
+        "url": "https://v.daum.net/v/20260825025708266"
       }
     }
   ]
