@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-08-25T00:29:07.543756+09:00",
-  "label": "00:29",
+  "timestamp": "2026-08-25T01:23:07.087351+09:00",
+  "label": "01:23",
   "items": [
+    {
+      "keyword": "월미도",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "월미도 디스코팡팡서 30대 탑승객 튕겨 나가 부상",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260824146000065"
+      }
+    },
     {
       "keyword": "설 영우",
       "traffic_raw": "2000+",
@@ -13,36 +23,6 @@
       }
     },
     {
-      "keyword": "월미도",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "월미도 디스코팡팡서 30대 탑승객 튕겨 나가 부상",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260824146000065"
-      }
-    },
-    {
-      "keyword": "이다현",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"여배우인가? 韓의 벽이다' 日 팬들도 열광한 이다현의 존재감 \"강렬한 인상 남겼다\" 호평",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824160601909"
-      }
-    },
-    {
-      "keyword": "낙상",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"왜 사람을 담그려 하나\"...박위 낙상 영상 논란에 기관사 '분노'",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0103_202608241439185371"
-      }
-    },
-    {
       "keyword": "박애리",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -50,6 +30,16 @@
         "title": "팝핀현준, 아내 박애리 뱃살에 놀라 “누나! 없던 게 생겼어!” ('스타건강랭킹 넘버원')",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260824160837048"
+      }
+    },
+    {
+      "keyword": "트로트",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "전직 트로트 가수에 쌍둥이맘 됐다…이현정, '개그콘서트'에서 뽐낸 존재감 [종합]",
+        "source": "텐아시아",
+        "url": "https://www.tenasia.co.kr/article/2026082481874"
       }
     },
     {
@@ -73,13 +63,33 @@
       }
     },
     {
+      "keyword": "롯데마트",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VJyeazcnCO"
+      }
+    },
+    {
+      "keyword": "lg유플러스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "LGU+, 해커원과 글로벌 버그바운티 운영…전 서비스 보안 검증",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824102507434"
+      }
+    },
+    {
       "keyword": "트럼프",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[사설]美-캐나다 무역전쟁 가열… 韓 무역합의 사후관리 강화해야",
+        "title": "캐나다, 美중간선거 전 협상재개 가능성 낮다 판단…장기전 대비",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824233148884"
+        "url": "https://v.daum.net/v/20260825001251403"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "[포토뉴스]전남광주에서 열린 ‘SK하이닉스 채용설명회’",
         "source": "경향신문",
         "url": "https://www.khan.co.kr/article/20260824203800A/?cp"
-      }
-    },
-    {
-      "keyword": "tradingview",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Expion Energy Launches Private Placement of Convertible Debentures and Warrants",
-        "source": "TradingView",
-        "url": "https://www.tradingview.com/news/tradingview:2c79e207632f0:0-expion-energy-launches-private-placement-of-convertible-debentures-and-warrants/"
       }
     }
   ]
