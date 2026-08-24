@@ -1,31 +1,11 @@
 {
-  "timestamp": "2026-08-24T16:49:29.367920+09:00",
-  "label": "16:49",
+  "timestamp": "2026-08-24T17:35:53.807712+09:00",
+  "label": "17:35",
   "items": [
     {
-      "keyword": "감전",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "인천 아파트서 관리사무소 20대 직원 샤워 중 감전 추정 사망",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260824006100065"
-      }
-    },
-    {
-      "keyword": "황의조",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"오현규 리그 1호골 도둑맞았다!\" 베식타시 대분노, 골 취소한 심판진 향해 \"튀르키예 축구 수치\" 직격탄 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/24/2026082414560659444"
-      }
-    },
-    {
-      "keyword": "임영웅",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김희철",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "임영웅, 거제·통영 등 호우 피해에 2억원 기부…누적 27억원",
         "source": "KBS 뉴스",
@@ -33,73 +13,93 @@
       }
     },
     {
-      "keyword": "은행",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김건희",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "부산은행, AI로 일하는 방식 바꾼다…\"업무 생산성 향상\"",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1147085"
+        "title": "尹, 김건희가 법무부장관에 보낸 문자에 \"집사람이 쓸 수준 아냐\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824151341164"
       }
     },
     {
-      "keyword": "lpga",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "황의조",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "Kim Seyoung Finishes Top 3... Yamashita Claims 'Wire-to-Wire Victory'",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/en/article/2026082410214894782"
+        "title": "\"오현규 리그 1호골 도둑맞았다!\" 베식타시 대분노, 골 취소한 심판진 향해 \"튀르키예 축구 수치\" 직격탄 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/24/2026082414560659444"
       }
     },
     {
-      "keyword": "더불어민주당",
+      "keyword": "타율",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "악수 거부하던 정청래와 달랐다…웃으며 만난 김민석·장동혁",
+        "title": "'황당하네' 이정후, 9회 채프먼 상대 어처구니없는 오심 때문에 말리다니... 4타수 무안타 '뼈아팠다' [이정후 리뷰]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824150849940"
+        "url": "https://v.daum.net/v/20260824102809599"
       }
     },
     {
-      "keyword": "건설",
+      "keyword": "인천대교",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "104명 추락한 다리, \"더는 안된다\"...2.5ｍ 난간 설치",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/51lrypaezE"
+      }
+    },
+    {
+      "keyword": "엔씨",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "엔씨, 하반기 글로벌 시장 정조준…신작·캐주얼로 '동력' 확대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824170706397"
+      }
+    },
+    {
+      "keyword": "동원령",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "대우건설 이강석 대표, 양주 건설현장서 '안전 최우선' 강조",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260824027300003"
+        "title": "러 ‘대규모 동원령’ 임박?···징집 대상 남성들 해외 도피 모색",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824132527880"
       }
     },
     {
-      "keyword": "조성진",
+      "keyword": "대한민국 해병대",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "평택 여름, 자연과 예술을 만나는 가볼 만한 곳",
-        "source": "톱스타뉴스",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16165010"
+        "title": "제주 해병 3·4기 호국정신 기린다…29~30일 ‘해병대의 날’",
+        "source": "제민일보",
+        "url": "https://www.jemin.com/news/articleView.html?idxno=842019"
       }
     },
     {
-      "keyword": "감시",
+      "keyword": "간호",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "해남서 지진 70여 건‥\"대지진 가능성은 낮아\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6846762_37012.html"
+        "title": "[포천소식]경복대, 2027학년도 수시 1차 원서접수 등",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260824_0003759752"
       }
     },
     {
-      "keyword": "만평",
+      "keyword": "클로드 장애",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "고양경제자유구역 ‘60만평’으로 대폭 축소…지정 신청 추진",
+        "title": "앤트로픽, 클로드 챗봇·코딩 서비스 장애…정상화 시점 '미정'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824162455034"
+        "url": "https://v.daum.net/v/20260824171149600"
       }
     }
   ]
