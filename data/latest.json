@@ -1,101 +1,101 @@
 {
-  "timestamp": "2026-08-24T11:16:44.360393+09:00",
-  "label": "11:16",
+  "timestamp": "2026-08-24T12:44:21.104142+09:00",
+  "label": "12:44",
   "items": [
     {
-      "keyword": "아버지",
+      "keyword": "주식시장",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"부모 싸움 말리다 홧김에\"…아버지 살해 후 자진 신고",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VGcUUv8Bz8"
+        "title": "[증권가 이모저모] 여의도 증권맨들의 '불편한 점심시간'",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431352"
       }
     },
     {
-      "keyword": "농업인",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "경북 봉화군, 청년농업인에 최대 1억 지원으로 농촌 활력 불어넣는다",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260824500269"
-      }
-    },
-    {
-      "keyword": "새마을금고",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "새마을금고, 상반기 정책자금 2천170억원 공급",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260824041200002"
-      }
-    },
-    {
-      "keyword": "니어스랩",
+      "keyword": "대한민국 청와대",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[특징주] 니어스랩, 코스닥 상장 첫날 장 초반 13%대 하락",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824093051685"
+        "title": "[사설]“청렴도 31위 부끄러워”… 감시가 소홀하면 권력은 썩기 마련",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527840/2"
       }
     },
     {
-      "keyword": "안동농협",
+      "keyword": "사우델",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "태풍 4개 동시에 떴다…사우델·나라·개나리에 제21호 ‘앗사니’까지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824105716018"
+      }
+    },
+    {
+      "keyword": "한미약품",
       "traffic_raw": "200+",
       "traffic": 200,
+      "news": {
+        "title": "한미약품, 3조5000억원 규모 신약 기술수출…제넨텍과 사상 최대 규모 계약",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2617410"
+      }
+    },
+    {
+      "keyword": "박기량",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[포토] 박기량 '젖을수록 째지는 날'",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260823n14799"
+      }
+    },
+    {
+      "keyword": "한국공항공사",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "GS ITM, 한국공항공사 ‘차세대 스카이-포스’ 구축사업 수주",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824110928698"
+      }
+    },
+    {
+      "keyword": "국경일",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": null
     },
     {
-      "keyword": "부산은행",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "BNK금융, 중소기업·소상공인에 1조6000억원 규모 '추석 특별대출'",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/busan-gyeongnam/6267299"
-      }
-    },
-    {
-      "keyword": "고용노동부",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823185951164"
-      }
-    },
-    {
-      "keyword": "zoom",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html"
-      }
-    },
-    {
-      "keyword": "햄버거",
+      "keyword": "캐시워크 정답",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[영상] 햄버거에 커피까지 샀는데 “4000원입니다”…직장인들 점심마다 몰려가는 이유",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20082179"
+        "title": "[단독] 캐시워크 돈버는퀴즈 정답 8월 24일",
+        "source": "BNT뉴스",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202608240063"
       }
     },
     {
-      "keyword": "국회",
+      "keyword": "이소희",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[오늘의 국회일정](24일·월)",
+        "title": "이소희·백하나, 배드민턴 세계선수권 여자복식 31년 만에 우승(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823040300001"
+        "url": "https://www.yna.co.kr/view/AKR20260823045100007"
+      }
+    },
+    {
+      "keyword": "outlook",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Strong storms possible Monday afternoon",
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/weather-news/articles/strong-storms-possible-monday-afternoon-224940515.html"
       }
     }
   ]
