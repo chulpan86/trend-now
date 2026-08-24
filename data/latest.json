@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-08-25T02:21:50.761784+09:00",
-  "label": "02:21",
+  "timestamp": "2026-08-25T03:24:41.058435+09:00",
+  "label": "03:24",
   "items": [
     {
-      "keyword": "설 영우",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "돈",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "'韓 국가대표 풀백' 설영우, 독일 분데스리가 전격 이적 \"최대 88억... 눈부신 활약\"",
+        "title": "남편이 생일 선물로 순금 80돈을?…금은방 주인 ‘촉’ 발동 [잇슈#태그]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8644232"
+      }
+    },
+    {
+      "keyword": "화장실",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "여자화장실 칸막이 아래 휴대전화…공기업 카지노 직원 입건",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823008100030"
+      }
+    },
+    {
+      "keyword": "imdb",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Weekend Box Office: Spider-Man: Brand New Day Continues to Climb",
+        "source": "Rotten Tomatoes",
+        "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-4/"
+      }
+    },
+    {
+      "keyword": "유시민",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“윤석열 때와 놀라울 만큼 닮았다”…유시민, 李대통령 작심 비판",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824195907286"
+        "url": "https://v.daum.net/v/20260824233749912"
       }
     },
     {
@@ -23,6 +53,16 @@
       }
     },
     {
+      "keyword": "한국거래소",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력",
+        "source": "쿠키뉴스",
+        "url": "https://www.kukinews.com/article/view/kuk202608240093"
+      }
+    },
+    {
       "keyword": "롯데마트",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -33,33 +73,23 @@
       }
     },
     {
-      "keyword": "트로트",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "경주마",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "전직 트로트 가수에 쌍둥이맘 됐다…이현정, '개그콘서트'에서 뽐낸 존재감 [종합]",
-        "source": "텐아시아",
-        "url": "https://www.tenasia.co.kr/article/2026082481874"
+        "title": "“마사회 ‘말복지 지표’ 의혹 밝혀야”…제주비건, 공익감사 촉구",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824161815670"
       }
     },
     {
-      "keyword": "하나머티리얼즈",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "첼시",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "'노사 갈등' 하나머티리얼즈, 노조 파업에 '직장폐쇄' 맞불",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824173439582"
-      }
-    },
-    {
-      "keyword": "김도환",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'1위 경쟁' 삼성과 KT만 엔트리 변화줬다, 포수 김도환-대타 자원 이정훈 1군 말소",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824182250415"
+        "title": "풀럼 vs 첼시 예측: 선두 경쟁의 뜨거운 대결",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-chelsea-diem-nong-cuoc-dua-top-dau"
       }
     },
     {
@@ -70,36 +100,6 @@
         "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
         "source": "네이트",
         "url": "https://news.nate.com/view/20260822n04058"
-      }
-    },
-    {
-      "keyword": "한국거래소",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력",
-        "source": "쿠키뉴스",
-        "url": "https://www.kukinews.com/article/view/kuk202608240093"
-      }
-    },
-    {
-      "keyword": "lg유플러스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "LGU+, 해커원과 글로벌 버그바운티 운영…전 서비스 보안 검증",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824102507434"
-      }
-    },
-    {
-      "keyword": "트럼프",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "캐나다인 4명중 3명 \"나쁜 거래 중단 옳다\"…대미 무역전쟁 지지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825004951811"
       }
     }
   ]
