@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-23T19:13:11.265918+09:00",
-    "label": "19:13",
-    "items": [
-      {
-        "keyword": "부모",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“부모님 다툼 말리다 칼로 찔렀다” 10대 외국인 자수···아버지 숨지고 어머니 중상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608231009001"
-        }
-      },
-      {
-        "keyword": "1박2일",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "거제시장 \"도움 필요한 곳 많아…복구 참여해달라\" 시민 호소문",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823163658616"
-        }
-      },
-      {
-        "keyword": "지게차",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "경기광주 쿠팡 물류센터서 지게차 사고…40대 심정지(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823171052147"
-        }
-      },
-      {
-        "keyword": "lck",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "LCK Enters Warring States Era, Halting Gen.G's Reign",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/08/23/EO6Q3UPLC5EPPOXHNZE5NB5ST4/"
-        }
-      },
-      {
-        "keyword": "철도",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "’낙상 공개’ 박위 후폭풍…김동완 “그도 장애가 처음“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202608231419383XQ"
-        }
-      },
-      {
-        "keyword": "김재중",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김재중, 18년 만에 '뮤직뱅크' 무대 섰다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758463"
-        }
-      },
-      {
-        "keyword": "김동현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김동현, ‘넷째 임신’ ♥아내와 태교 여행 앞두고 걱정 “배가 땡땡하고 너무 많이 나와”(동현이넷)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zU4GUmB3Sf"
-        }
-      },
-      {
-        "keyword": "윤이나",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[단독]윤이나, 타이거 우즈 창설 WTGL 한국 선수 중 유일 출전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823105951041"
-        }
-      },
-      {
-        "keyword": "경향신문",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "EBS 새 이사장에 조호연 전 경향신문 편집국장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4LpChW6b1F"
-        }
-      },
-      {
-        "keyword": "신청사",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "민경선 고양시장 \"신청사 2028년 상반기 착공\"…4년 만에 재가동",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823153238398"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-23T20:12:05.264130+09:00",
     "label": "20:12",
     "items": [
@@ -3677,6 +3571,112 @@
           "title": "오스틴 100타점·문보경 부활·문정빈과 송찬의 쌍포…LG 타선, 드디어 막힌 혈이 뚫리나",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/sports/article/all/20260824/134532921/1"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T07:15:15.077195+09:00",
+    "label": "07:15",
+    "items": [
+      {
+        "keyword": "포스코",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“금요일에 샀는데…”주주환원 삼전 8%폭락 이유",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611626"
+        }
+      },
+      {
+        "keyword": "현대",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[일지] 현대차 노사 2026년 임금협상 잠정합의까지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260825004900057"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Weather tracker: Tornadoes cause flash flooding and power cuts in north-east US",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/aug/24/weather-tracker-tornadoes-cause-flash-flooding-and-power-cuts-in-north-east-us"
+        }
+      },
+      {
+        "keyword": "죽음",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "말 그대로 '죽음의 계곡'…데스밸리에 갇힌 프랑스 관광객 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825053807477"
+        }
+      },
+      {
+        "keyword": "skhy",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "SK hynix: This Could Be The Deal Of The Decade",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4938518-sk-hynix-this-could-be-the-deal-of-the-decade"
+        }
+      },
+      {
+        "keyword": "사랑이 온다",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘사랑이 온다’, 분위기 탔다…시청률 16.8%↑ ‘훌쩍’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608240822003"
+        }
+      },
+      {
+        "keyword": "김다예",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘김다예♥’ 박수홍, 22개월 딸 교육 엄청나네..영어·미술·축구까지(행복해다홍)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824193953008"
+        }
+      },
+      {
+        "keyword": "일기예보",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "8월 24일 응에안 지역 날씨 예보: 소나기와 천둥번개가 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thoi-tiet-nghe-an-ngay-24-8-mua-rao-va-dong-rai-rac"
+        }
+      },
+      {
+        "keyword": "중대범죄수사청",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "검찰 직원, 중수청 정원 82.6% 신청…예상 밖 흥행 이유는",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824164503153"
+        }
+      },
+      {
+        "keyword": "헌법재판소",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "조희대 \"법치주의 가치 중요... 국가권력 자의적 행사 통제\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/08/24/BDTSB42UXRED7AKN7OMCVXWQ5U/"
         }
       }
     ]

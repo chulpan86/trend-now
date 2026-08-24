@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-25T06:19:02.786222+09:00",
-  "label": "06:19",
+  "timestamp": "2026-08-25T07:15:15.077195+09:00",
+  "label": "07:15",
   "items": [
     {
-      "keyword": "기초노령연금",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "포스코",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "국민연금 성실하게 냈더니, 기초연금이 깎인다?",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0102_202608241017506120"
+        "title": "“금요일에 샀는데…”주주환원 삼전 8%폭락 이유",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11611626"
       }
     },
     {
-      "keyword": "유조선",
+      "keyword": "현대",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "이란 \"한국 장금상선 소유 유조선 등 45척 호르무즈 규정 위반\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6847009_36925.html"
+        "title": "[일지] 현대차 노사 2026년 임금협상 잠정합의까지",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825004900057"
       }
     },
     {
-      "keyword": "이의리",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "天气",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?",
+        "title": "Weather tracker: Tornadoes cause flash flooding and power cuts in north-east US",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/aug/24/weather-tracker-tornadoes-cause-flash-flooding-and-power-cuts-in-north-east-us"
+      }
+    },
+    {
+      "keyword": "죽음",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "말 그대로 '죽음의 계곡'…데스밸리에 갇힌 프랑스 관광객 사망",
         "source": "Daum",
-        "url": "https://v.daum.net/v/Yxf57GMVlW"
+        "url": "https://v.daum.net/v/20260825053807477"
       }
     },
     {
-      "keyword": "fulham vs chelsea",
+      "keyword": "skhy",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Fulham vs Chelsea LIVE: Premier League score, team news, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cqp8xg4jy4r3t"
+        "title": "SK hynix: This Could Be The Deal Of The Decade",
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4938518-sk-hynix-this-could-be-the-deal-of-the-decade"
       }
     },
     {
-      "keyword": "쿠팡플레이",
+      "keyword": "사랑이 온다",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이강인 1골·토레스 2골...발렌시아 ‘절친’의 기막힌 새 출발 [박순규의 창]",
+        "title": "‘사랑이 온다’, 분위기 탔다…시청률 16.8%↑ ‘훌쩍’",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608240822003"
+      }
+    },
+    {
+      "keyword": "김다예",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘김다예♥’ 박수홍, 22개월 딸 교육 엄청나네..영어·미술·축구까지(행복해다홍)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825000218089"
+        "url": "https://v.daum.net/v/20260824193953008"
       }
     },
     {
-      "keyword": "ฟูลัม พบ เชลซี",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "일기예보",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "ซูเปอร์คอมพิวเตอร์ทำนายผลการแข่งขันระหว่างฟูแล่มกับเชลซี",
+        "title": "8월 24일 응에안 지역 날씨 예보: 소나기와 천둥번개가 예상됩니다.",
         "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/th/sieu-may-tinh-du-doan-ket-qua-tran-fulham-vs-chelsea"
+        "url": "https://www.vietnam.vn/ko/thoi-tiet-nghe-an-ngay-24-8-mua-rao-va-dong-rai-rac"
       }
     },
     {
-      "keyword": "김수현",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김수현, 인니 생방송 무대 올랐다…1년 5개월만에 모습 보니 [이런뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8644339"
-      }
-    },
-    {
-      "keyword": "fc 서울",
+      "keyword": "중대범죄수사청",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'7골 대승' 기세 몰아…K리그1 선두 서울, 부천 상대 3연승 도전",
+        "title": "검찰 직원, 중수청 정원 82.6% 신청…예상 밖 흥행 이유는",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824115457396"
+        "url": "https://v.daum.net/v/20260824164503153"
       }
     },
     {
-      "keyword": "철도",
+      "keyword": "헌법재판소",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "국토부, 다자녀가구 철도자격시험 수수료 50% 감면 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/estate/2026/08/25/2026082414082549287"
-      }
-    },
-    {
-      "keyword": "오스틴 딘",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "오스틴 100타점·문보경 부활·문정빈과 송찬의 쌍포…LG 타선, 드디어 막힌 혈이 뚫리나",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/sports/article/all/20260824/134532921/1"
+        "title": "조희대 \"법치주의 가치 중요... 국가권력 자의적 행사 통제\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/court_law/2026/08/24/BDTSB42UXRED7AKN7OMCVXWQ5U/"
       }
     }
   ]
