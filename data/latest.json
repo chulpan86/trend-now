@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-24T08:11:13.927387+09:00",
-  "label": "08:11",
+  "timestamp": "2026-08-24T09:40:20.755144+09:00",
+  "label": "09:40",
   "items": [
     {
-      "keyword": "염경엽",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "뉴스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'8-0 앞섰는데 또 3실점→만루→끝내 QS 승리' 9-0 역전패 트라우마, 39세 베테랑은 끊어냈다 \"9회까지 쉼 없이 응원해준 팬 덕분에 승리했다\" [대전 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824001638039?f=p"
+        "title": "트럼프 측근 \"트럼프, 김정은 앞서 이 대통령과 먼저 회담해야\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6846786_36925.html"
       }
     },
     {
-      "keyword": "해리 케인",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "토트넘 ‘수천억 어디로’ 맨유 “승격팀에 지다니”…빅클럽들의 ‘망신당한 개막전’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823202528362"
-      }
-    },
-    {
-      "keyword": "나솔",
+      "keyword": "전기",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"스타 되려 출연\"…'비혼주의' 24기 옥순, 폭탄 고백→연애 예능은 셀럽 등용문?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yOMw95e4Id?f=p"
-      }
-    },
-    {
-      "keyword": "지드래곤",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "빅뱅, 10만 팬과 20년 집대성한 '코스모스'…\"88세까지 팔팔하게\"",
+        "title": "삼성전자, EHS 히트펌프 보일러 해외 생산거점 국내 이전",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823038700005"
+        "url": "https://www.yna.co.kr/view/AKR20260824021800003"
       }
     },
     {
-      "keyword": "사장님 귀는 당나귀 귀",
+      "keyword": "유",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "양준혁, 포항서 1500평 규모 사업 구상…김요한 \"형수님은 아시냐\"",
+        "title": "엑스레이 '30장' 찍은 박위, 강연 줄취소 되나…\"사안 엄중하게 바라보는 중\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824075155472"
+        "url": "https://v.daum.net/v/20260824090114350"
       }
     },
     {
-      "keyword": "화사",
+      "keyword": "나스닥 100",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'보이는 손' 美 국채…채권·주식·부동산까지 흔든다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608215215i"
+      }
+    },
+    {
+      "keyword": "브레이브스 대 브루어스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "화사, 카우보이 핫걸! 미국 가더니 ‘러블리 섹시’ [DA★]",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260823/134524791/1"
+        "title": "김하성 7경기 연속 결장…애틀랜타, 밀워키에 1-4 역전패",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823090654093"
       }
     },
     {
-      "keyword": "이시영",
+      "keyword": "제시카 페굴라",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이시영 딸, 벌써 이렇게 컸나…동생 안고 놀아주는 '훈남' 오빠",
+        "title": "페굴라 시계",
+        "source": "테니스피플",
+        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19297"
+      }
+    },
+    {
+      "keyword": "klasemen elche vs barcelona",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "송성문",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "샌디에이고, 미네소타에 짜릿한 7-5 뒤집기…송성문 결장",
         "source": "Daum",
-        "url": "https://v.daum.net/v/qGFhjnXShy"
+        "url": "https://v.daum.net/v/20260823123728893"
       }
     },
     {
-      "keyword": "롯데그룹",
+      "keyword": "아리엘 후라도",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "롯데, 자산매각해 1.5조 확보…\"사업재편 속도\"",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12134154"
+        "title": "“삼성 팬분들께서 이름 크게 불러주신다”…‘땡큐 보스→웰컴 백 후라도’ 다가오는 바통터치 [SS시선집중]",
+        "source": "스포츠서울",
+        "url": "https://www.sportsseoul.com/news/read/1630128"
       }
     },
     {
-      "keyword": "pga",
+      "keyword": "한겨레",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Tour Championship 2026 field confirmed: Full list of 30 players heading to FedEx Cup finale at East Lake",
-        "source": "Golfmagic",
-        "url": "https://www.golfmagic.com/tour/pga-tour/tour-championship-2026-field-confirmed-full-list-30-players-heading-fedex-cup-finale"
-      }
-    },
-    {
-      "keyword": "송가인",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "프리 선언하고 출연료 150배 뛰었다더니…김대호, MBC 시절 언급 \"별명 에겐남\" ('제철리')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823070148779"
+        "title": "김회승 전 논설위원의 춘추관장 임명에 대한 한겨레신문사 입장",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1274099.html"
       }
     }
   ]
