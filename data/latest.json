@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-25T04:21:14.939568+09:00",
-  "label": "04:21",
+  "timestamp": "2026-08-25T05:18:17.994258+09:00",
+  "label": "05:18",
   "items": [
     {
       "keyword": "돈",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "남편이 생일 선물로 순금 80돈을?…금은방 주인 ‘촉’ 발동 [잇슈#태그]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8644232"
+        "title": "삼겹살이 카드 디자인으로… 도드람양돈농협, '돈카드' 선봬",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=348293"
       }
     },
     {
@@ -17,39 +17,39 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "풀럼 vs 첼시 예측: 선두 경쟁의 뜨거운 대결",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-chelsea-diem-nong-cuoc-dua-top-dau"
+        "title": "리스 제임스, 크레이븐 코티지 도착…풀럼전 준비 완료",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3673411"
+      }
+    },
+    {
+      "keyword": "유조선",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "이란 \"한국 장금상선 소유 유조선 등 45척 호르무즈 규정 위반\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6847009_36925.html"
       }
     },
     {
       "keyword": "유시민",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "유시민 \"대통령 지지율 곧 '3자'... 윤석열 때와 비슷한 증상 많아\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824221237363"
-      }
-    },
-    {
-      "keyword": "화장실",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "여자화장실 칸막이 아래 휴대전화…공기업 카지노 직원 입건",
+        "title": "유시민 \"대통령이 與대표 세우는 건 왕정…오만한 권력자 모습\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823008100030"
+        "url": "https://www.yna.co.kr/view/AKR20260824168500001"
       }
     },
     {
-      "keyword": "imdb",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "베센트",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Weekend Box Office: Spider-Man: Brand New Day Continues to Climb",
-        "source": "Rotten Tomatoes",
-        "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-4/"
+        "title": "미, 이란 거래 제3국 겨냥 '2차 제재'…\"경제적 왕따 작전\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825032401324"
       }
     },
     {
@@ -68,8 +68,8 @@
       "traffic": 200,
       "news": {
         "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026082495361"
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260824n33783"
       }
     },
     {
@@ -87,19 +87,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력",
-        "source": "쿠키뉴스",
-        "url": "https://www.kukinews.com/article/view/kuk202608240093"
+        "title": "한국거래소, 발달장애인 금융교육 5000만원 후원",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824112623827"
       }
     },
     {
-      "keyword": "베센트",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "롯데마트",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'경제적 D-데이' 美, 대이란 글로벌 제재 발표…\"중국도 예외 없다\"",
+        "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825025708266"
+        "url": "https://v.daum.net/v/VJyeazcnCO"
       }
     }
   ]
