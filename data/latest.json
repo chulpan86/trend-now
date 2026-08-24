@@ -1,101 +1,101 @@
 {
-  "timestamp": "2026-08-24T09:40:20.755144+09:00",
-  "label": "09:40",
+  "timestamp": "2026-08-24T11:16:44.360393+09:00",
+  "label": "11:16",
   "items": [
     {
-      "keyword": "뉴스",
+      "keyword": "아버지",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "트럼프 측근 \"트럼프, 김정은 앞서 이 대통령과 먼저 회담해야\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6846786_36925.html"
+        "title": "\"부모 싸움 말리다 홧김에\"…아버지 살해 후 자진 신고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VGcUUv8Bz8"
       }
     },
     {
-      "keyword": "전기",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "농업인",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "삼성전자, EHS 히트펌프 보일러 해외 생산거점 국내 이전",
+        "title": "경북 봉화군, 청년농업인에 최대 1억 지원으로 농촌 활력 불어넣는다",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260824500269"
+      }
+    },
+    {
+      "keyword": "새마을금고",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "새마을금고, 상반기 정책자금 2천170억원 공급",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260824021800003"
+        "url": "https://www.yna.co.kr/view/AKR20260824041200002"
       }
     },
     {
-      "keyword": "유",
+      "keyword": "니어스랩",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "엑스레이 '30장' 찍은 박위, 강연 줄취소 되나…\"사안 엄중하게 바라보는 중\"",
+        "title": "[특징주] 니어스랩, 코스닥 상장 첫날 장 초반 13%대 하락",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824090114350"
+        "url": "https://v.daum.net/v/20260824093051685"
       }
     },
     {
-      "keyword": "나스닥 100",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'보이는 손' 美 국채…채권·주식·부동산까지 흔든다",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608215215i"
-      }
-    },
-    {
-      "keyword": "브레이브스 대 브루어스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김하성 7경기 연속 결장…애틀랜타, 밀워키에 1-4 역전패",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260823090654093"
-      }
-    },
-    {
-      "keyword": "제시카 페굴라",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "페굴라 시계",
-        "source": "테니스피플",
-        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19297"
-      }
-    },
-    {
-      "keyword": "klasemen elche vs barcelona",
+      "keyword": "안동농협",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": null
     },
     {
-      "keyword": "송성문",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "부산은행",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "샌디에이고, 미네소타에 짜릿한 7-5 뒤집기…송성문 결장",
+        "title": "BNK금융, 중소기업·소상공인에 1조6000억원 규모 '추석 특별대출'",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/local/busan-gyeongnam/6267299"
+      }
+    },
+    {
+      "keyword": "고용노동부",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260823123728893"
+        "url": "https://v.daum.net/v/20260823185951164"
       }
     },
     {
-      "keyword": "아리엘 후라도",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "zoom",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“삼성 팬분들께서 이름 크게 불러주신다”…‘땡큐 보스→웰컴 백 후라도’ 다가오는 바통터치 [SS시선집중]",
-        "source": "스포츠서울",
-        "url": "https://www.sportsseoul.com/news/read/1630128"
+        "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html"
       }
     },
     {
-      "keyword": "한겨레",
+      "keyword": "햄버거",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김회승 전 논설위원의 춘추관장 임명에 대한 한겨레신문사 입장",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1274099.html"
+        "title": "[영상] 햄버거에 커피까지 샀는데 “4000원입니다”…직장인들 점심마다 몰려가는 이유",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20082179"
+      }
+    },
+    {
+      "keyword": "국회",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[오늘의 국회일정](24일·월)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260823040300001"
       }
     }
   ]
