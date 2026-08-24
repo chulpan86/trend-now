@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-24T12:44:21.104142+09:00",
-  "label": "12:44",
+  "timestamp": "2026-08-24T13:34:54.588319+09:00",
+  "label": "13:34",
   "items": [
     {
-      "keyword": "주식시장",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "우선주",
+      "traffic_raw": "50000+",
+      "traffic": 50000,
       "news": {
-        "title": "[증권가 이모저모] 여의도 증권맨들의 '불편한 점심시간'",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431352"
+        "title": "110조 주주환원에도... 개미들 왜 삼전 던지나",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/stock-finance/2026/08/24/UQCQPJALFNHCBFMZYF3PFDFKLI/"
       }
     },
     {
-      "keyword": "대한민국 청와대",
+      "keyword": "양세형",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "김대호, MC 하차에 입 열었다 …\"화가 많이 나 있어\" 녹화 중 무대 난입 ('전설의사내')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824110110242"
+      }
+    },
+    {
+      "keyword": "김병지",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "박문성 겨냥한 김병지 \"축협 법카로 식사·술자리 참석한 적 없나\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12314725"
+      }
+    },
+    {
+      "keyword": "명태균",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824111152833"
+      }
+    },
+    {
+      "keyword": "엔화",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[영상] 일본이 어쩌다 이렇게까지 됐나…‘세계 최악 빚더미’ 오명 썼는데 금리까지 오른다",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20082347"
+      }
+    },
+    {
+      "keyword": "화장품",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[사설]“청렴도 31위 부끄러워”… 감시가 소홀하면 권력은 썩기 마련",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527840/2"
+        "title": "“오직 코아시스에서만”… 현대홈쇼핑, 코스맥스 손잡고 단독 상품 키운다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824102437401"
       }
     },
     {
-      "keyword": "사우델",
+      "keyword": "박위 논란",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "태풍 4개 동시에 떴다…사우델·나라·개나리에 제21호 ‘앗사니’까지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824105716018"
+        "title": "\"박위, 애쓴 사람 담그려 해\"...현직 기관사도 분노 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/08/24/2026082409205299422"
       }
     },
     {
-      "keyword": "한미약품",
+      "keyword": "이연복",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한미약품, 3조5000억원 규모 신약 기술수출…제넨텍과 사상 최대 규모 계약",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2617410"
+        "title": "tvN ‘스트릿 레스토랑 파이터’ 셰프 메뉴, 인천공항에서 맛본다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608241021001"
       }
     },
     {
-      "keyword": "박기량",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[포토] 박기량 '젖을수록 째지는 날'",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260823n14799"
-      }
-    },
-    {
-      "keyword": "한국공항공사",
+      "keyword": "징역형",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "GS ITM, 한국공항공사 ‘차세대 스카이-포스’ 구축사업 수주",
+        "title": "정명석 성범죄 도운 JMS 간부 4명…검찰, 최대 징역 3년6개월 구형",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824110928698"
+        "url": "https://v.daum.net/v/20260824103437932"
       }
     },
     {
-      "keyword": "국경일",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "캐시워크 정답",
+      "keyword": "초대형 방사포",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[단독] 캐시워크 돈버는퀴즈 정답 8월 24일",
-        "source": "BNT뉴스",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202608240063"
-      }
-    },
-    {
-      "keyword": "이소희",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "이소희·백하나, 배드민턴 세계선수권 여자복식 31년 만에 우승(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823045100007"
-      }
-    },
-    {
-      "keyword": "outlook",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Strong storms possible Monday afternoon",
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/weather-news/articles/strong-storms-possible-monday-afternoon-224940515.html"
+        "title": "트럼프 측근 \"트럼프, 김정은 앞서 이 대통령과 먼저 회담해야\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6846786_36925.html"
       }
     }
   ]

@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-23T01:11:31.208369+09:00",
-    "label": "01:11",
-    "items": [
-      {
-        "keyword": "우 서윤",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "‘우지원 딸’ 우서윤, 미스코리아 진 됐다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260822/134523836/1"
-        }
-      },
-      {
-        "keyword": "챔피언십",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[골프IN화보] 송은아, 악천후 속 아쉬운 뒷심… BC카드·한경 KLPGA 챔피언십 3라운드 공동 21위 마감",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02607606645549944&mediaCodeNo=257"
-        }
-      },
-      {
-        "keyword": "정재환",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'그것이 알고싶다', 친구 잔혹살해한 정재환의 엽기 행각 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/22/2026082220007293775"
-        }
-      },
-      {
-        "keyword": "도경완",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'장윤정♥' 도경완, 급성 골수염 수술 고백…\"가짜 손톱하고 살아\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6266445"
-        }
-      },
-      {
-        "keyword": "꽃파당",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "변우석·박지훈의 풋풋함부터 낭만 로맨스까지…'꽃파당' 관전 포인트 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822101419067"
-        }
-      },
-      {
-        "keyword": "giải vô địch đná",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "청소업체",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "고객 집 거실에 '오물' 뿌린 청소업체 직원, 왜...법적 다툼까지 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/22/2026082214382632951"
-        }
-      },
-      {
-        "keyword": "고레츠카",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "시즌 개막했는데 여전히 백수 신세…'KIM 전 동료' 드디어 새 직장 찾나? UEL 우승팀이 원한다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9kMH7lfzws"
-        }
-      },
-      {
-        "keyword": "공항",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "인천공항 여름휴가철 여객 늘었지만 주차장 혼잡은 완화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260821076400065"
-        }
-      },
-      {
-        "keyword": "thailand vs vietnam",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Kim Sang-sik leads Vietnam to 2-0 win over Thailand, eying ASEAN Cup repeat - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/08/23/4D6NMGRZURGU5JDMJ5GEBJTCDA/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-23T02:11:28.986638+09:00",
     "label": "02:11",
     "items": [
@@ -3567,6 +3465,112 @@
           "title": "Strong storms possible Monday afternoon",
           "source": "Yahoo",
           "url": "https://www.yahoo.com/news/weather-news/articles/strong-storms-possible-monday-afternoon-224940515.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-24T13:34:54.588319+09:00",
+    "label": "13:34",
+    "items": [
+      {
+        "keyword": "우선주",
+        "traffic_raw": "50000+",
+        "traffic": 50000,
+        "news": {
+          "title": "110조 주주환원에도... 개미들 왜 삼전 던지나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/08/24/UQCQPJALFNHCBFMZYF3PFDFKLI/"
+        }
+      },
+      {
+        "keyword": "양세형",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "김대호, MC 하차에 입 열었다 …\"화가 많이 나 있어\" 녹화 중 무대 난입 ('전설의사내')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824110110242"
+        }
+      },
+      {
+        "keyword": "김병지",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "박문성 겨냥한 김병지 \"축협 법카로 식사·술자리 참석한 적 없나\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12314725"
+        }
+      },
+      {
+        "keyword": "명태균",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[변화] 대법원, '해외골프 접대 여행' 김인택 부장판사에 정직 3개월",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824111152833"
+        }
+      },
+      {
+        "keyword": "엔화",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[영상] 일본이 어쩌다 이렇게까지 됐나…‘세계 최악 빚더미’ 오명 썼는데 금리까지 오른다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20082347"
+        }
+      },
+      {
+        "keyword": "화장품",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“오직 코아시스에서만”… 현대홈쇼핑, 코스맥스 손잡고 단독 상품 키운다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824102437401"
+        }
+      },
+      {
+        "keyword": "박위 논란",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"박위, 애쓴 사람 담그려 해\"...현직 기관사도 분노 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/24/2026082409205299422"
+        }
+      },
+      {
+        "keyword": "이연복",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "tvN ‘스트릿 레스토랑 파이터’ 셰프 메뉴, 인천공항에서 맛본다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608241021001"
+        }
+      },
+      {
+        "keyword": "징역형",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "정명석 성범죄 도운 JMS 간부 4명…검찰, 최대 징역 3년6개월 구형",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824103437932"
+        }
+      },
+      {
+        "keyword": "초대형 방사포",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "트럼프 측근 \"트럼프, 김정은 앞서 이 대통령과 먼저 회담해야\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6846786_36925.html"
         }
       }
     ]
