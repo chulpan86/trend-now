@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-26T01:24:08.633034+09:00",
-  "label": "01:24",
+  "timestamp": "2026-08-26T02:22:33.507736+09:00",
+  "label": "02:22",
   "items": [
     {
       "keyword": "하석진",
@@ -10,16 +10,6 @@
         "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
         "source": "Daum",
         "url": "https://v.daum.net/v/BodsEBEoTA?f=p"
-      }
-    },
-    {
-      "keyword": "이재명 지지율",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11611790"
       }
     },
     {
@@ -33,13 +23,23 @@
       }
     },
     {
-      "keyword": "휴민트",
+      "keyword": "이재명 지지율",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "돌아온 이창동 “노동 소멸의 시대, 삶 지탱하는 건 사랑”",
+        "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11611790"
+      }
+    },
+    {
+      "keyword": "유재석",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'틈만나면' 차태현 \"유재석 별로죠?\"…'속 뒤집개' 폭소",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826000308143"
+        "url": "https://v.daum.net/v/20260825222642258"
       }
     },
     {
@@ -53,43 +53,43 @@
       }
     },
     {
-      "keyword": "이재 시",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'이동국 딸' 이재시, 스무 살 되니 연예인급 미모 폭발…쌍둥이 재시도 \"아구 예뻐\" - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/tv/2026/08/26/MI4DOYZRGFQTKNZVMQYDMNBTMY/"
-      }
-    },
-    {
-      "keyword": "맥미니",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'온디바이스 AI용' 맥미니 신제품 출시…애플 첫 2나노 칩도",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825220148885"
-      }
-    },
-    {
-      "keyword": "윤석민",
+      "keyword": "sk 하이닉스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'동상이몽2' 윤석민 \"김병현, 방송할 거란 상상 못 해\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825232042795"
+        "title": "하이닉스 '성과급 60% 주식 지급안' 부결...현대차 노사는 합의",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0102_202608252240485681_005.html"
       }
     },
     {
-      "keyword": "apple",
+      "keyword": "수능접수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-        "source": "Apple",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
+        "title": "2027학년도 대학수학능력시험 응시원서 접수 시작",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260824035700013"
+      }
+    },
+    {
+      "keyword": "에어부산",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "국민의힘 부산의원들 \"통합 진에어 본사 부산으로 와야\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825149500051"
+      }
+    },
+    {
+      "keyword": "불량연애2 2기",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825153240129"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
+        "title": "누리호 5호기 발사 승인…위성 15기 싣고 10월 발사될까",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825184250373"
+        "url": "https://v.daum.net/v/20260825190300961"
       }
     }
   ]
