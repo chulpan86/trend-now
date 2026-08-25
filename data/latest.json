@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-26T04:23:01.070594+09:00",
-  "label": "04:23",
+  "timestamp": "2026-08-26T05:17:09.199418+09:00",
+  "label": "05:17",
   "items": [
     {
       "keyword": "휴 민트",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "‘왕사남’에 밀려 198만 그쳤는데…갑자기 넷플릭스 TOP10 오른 한국 영화",
         "source": "위키트리",
@@ -23,19 +23,19 @@
       }
     },
     {
-      "keyword": "장원영",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "애플",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608251405013"
+        "title": "Apple, 성능과 AI 컴퓨팅의 획기적인 도약을 이끌 M6 및 M5 Ultra 공개",
+        "source": "Apple",
+        "url": "https://www.apple.com/kr/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
       }
     },
     {
       "keyword": "dolly parton",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "Dolly Parton, Country Music Legend, Dies at 80, Just 4 Days After Saying, ‘I Still Have so Many Things I Want to Achieve’",
         "source": "People.com",
@@ -77,9 +77,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "대한상의 상근부회장에 김정일 前산업부 실장",
+        "title": "대한상의 상근부회장에 김정일 전 산업부 통상전략실장 내정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826003305668"
+        "url": "https://v.daum.net/v/20260825170928011"
       }
     },
     {
@@ -93,13 +93,13 @@
       }
     },
     {
-      "keyword": "불량연애2 2기",
+      "keyword": "kt wiz",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825153240129"
+        "title": "Doosan jumps to first as Yang Eui-ji hits 300th homer - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/08/26/HASISGNAZ5HFLOYZQIQZ7T3HX4/"
       }
     }
   ]
