@@ -3684,5 +3684,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-26T00:32:52.218791+09:00",
+    "label": "00:32",
+    "items": [
+      {
+        "keyword": "재벌x형사 2",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825185437697"
+        }
+      },
+      {
+        "keyword": "이재명 지지율",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611790"
+        }
+      },
+      {
+        "keyword": "휴민트",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'197만' 굴욕 씻나…'왕사남' 기세에 49일 만 넷플릭스行→공개 5개월 만에 역주행 불 지핀 한국 영화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825161009275"
+        }
+      },
+      {
+        "keyword": "하석진",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BodsEBEoTA"
+        }
+      },
+      {
+        "keyword": "이재 시",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'이동국 딸' 이재시, 스무 살 되니 연예인급 미모 폭발…쌍둥이 재시도 \"아구 예뻐\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/26/MI4DOYZRGFQTKNZVMQYDMNBTMY/"
+        }
+      },
+      {
+        "keyword": "맥미니",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'온디바이스 AI용' 맥미니 신제품 출시…애플 첫 2나노 칩도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825220148885"
+        }
+      },
+      {
+        "keyword": "윤석민",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'동상이몽2' 윤석민 \"김병현, 방송할 거란 상상 못 해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825232042795"
+        }
+      },
+      {
+        "keyword": "서 건창",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "디아즈, 솔로포 기쁨 만끽",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260825_0021410671"
+        }
+      },
+      {
+        "keyword": "apple",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
+        }
+      },
+      {
+        "keyword": "누리호",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825184250373"
+        }
+      }
+    ]
   }
 ]
