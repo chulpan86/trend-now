@@ -1,55 +1,61 @@
 {
-  "timestamp": "2026-08-25T21:31:39.925990+09:00",
-  "label": "21:31",
+  "timestamp": "2026-08-25T22:40:03.136095+09:00",
+  "label": "22:40",
   "items": [
     {
-      "keyword": "조매력",
+      "keyword": "안도 미키",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[단독] 송하예 결혼 발표, 예비신랑은 100만 유튜버 조매력",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260825n32791"
-      }
-    },
-    {
-      "keyword": "jp모건 체이스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Are These Top Stocks The Next AI Productivity Beneficiaries?",
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4938882-are-these-top-stocks-the-next-ai-productivity-beneficiaries"
-      }
-    },
-    {
-      "keyword": "김보라",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "지속가능관광지방정부協, 국회에 '관광진흥법 개정안' 건의(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825113851061"
-      }
-    },
-    {
-      "keyword": "휴림로봇",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "휴림로봇, 제이케이시냅스 지분 31.71%로 확대…\"책임경영 강화\"",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=02624006645550928&mediaCodeNo=257"
+        "title": "'김연아 라이벌' 日 안도 미키 \"9살 때 아버지 잃고 좌절…피겨로 극복\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260825_0003762152"
       }
     },
     {
       "keyword": "황재균",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "[사진]손성빈-이이무라,'위기 지웠어' - 조선비즈",
         "source": "Chosunbiz",
         "url": "https://biz.chosun.com/sports/sports_photo/2026/08/25/GU2TKMRVGE4DOZBVG5RTCOJZGA/"
+      }
+    },
+    {
+      "keyword": "진기주",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "pga 투어",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "핀첨 전 PGA투어 커미셔너와 아내, ‘PGA투어 채리티’에 1300만달러 기부",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/golf/2026/08/25/BL544YQTCZAYBDXODCYHJYOHOM/"
+      }
+    },
+    {
+      "keyword": "강혜연",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘현역가왕3’ 전국투어 대장정 마무리…서울 피날레 빛낸 ‘역대급 라인업’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/8qaBKA0HJ3"
+      }
+    },
+    {
+      "keyword": "파리바게뜨",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“빵 하나가 1만6000원 실화냐” 온라인 커뮤니티서 터진 빵값 논란…美·日·佛보다 비싸",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11611992"
       }
     },
     {
@@ -63,29 +69,9 @@
       }
     },
     {
-      "keyword": "튀니지",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "튀니지 해상서 이민자 보트 전복, 최소 2명 사망",
-        "source": "뉴시스",
-        "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260824_0002219074&pID=1&cID=&sID=1&type=photoMain&idx=7"
-      }
-    },
-    {
-      "keyword": "윤은혜",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "윤은혜, ‘케데헌’ 아덴 조와 절친 인증…이탈리아 결혼식 참석 - 스타투데이",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/hot-issues/12135915"
-      }
-    },
-    {
       "keyword": "박주봉",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "세계 무대 호령 한국 배드민턴…박주봉 감독 \"아시안게임에서도\"",
         "source": "Daum",
@@ -93,13 +79,23 @@
       }
     },
     {
-      "keyword": "incheon",
+      "keyword": "뉴데일리",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Reduced Real Estate Ratio to '49%' to Underpay 24.9 Billion Won in Capital Gains Tax… Incheon Tax Office Left Case Unattended for 15 Months",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/en/article/bluehouse/2026082512095065091"
+        "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11611790"
+      }
+    },
+    {
+      "keyword": "sk 하이닉스 채용",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'반도체 열풍' SK하이닉스 전남광주 채용설명회 북적",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824153354244"
       }
     }
   ]

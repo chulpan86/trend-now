@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-24T09:40:20.755144+09:00",
-    "label": "09:40",
-    "items": [
-      {
-        "keyword": "뉴스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "트럼프 측근 \"트럼프, 김정은 앞서 이 대통령과 먼저 회담해야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6846786_36925.html"
-        }
-      },
-      {
-        "keyword": "전기",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "삼성전자, EHS 히트펌프 보일러 해외 생산거점 국내 이전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824021800003"
-        }
-      },
-      {
-        "keyword": "유",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "엑스레이 '30장' 찍은 박위, 강연 줄취소 되나…\"사안 엄중하게 바라보는 중\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824090114350"
-        }
-      },
-      {
-        "keyword": "나스닥 100",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'보이는 손' 美 국채…채권·주식·부동산까지 흔든다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608215215i"
-        }
-      },
-      {
-        "keyword": "브레이브스 대 브루어스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김하성 7경기 연속 결장…애틀랜타, 밀워키에 1-4 역전패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823090654093"
-        }
-      },
-      {
-        "keyword": "제시카 페굴라",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "페굴라 시계",
-          "source": "테니스피플",
-          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19297"
-        }
-      },
-      {
-        "keyword": "klasemen elche vs barcelona",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "송성문",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "샌디에이고, 미네소타에 짜릿한 7-5 뒤집기…송성문 결장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823123728893"
-        }
-      },
-      {
-        "keyword": "아리엘 후라도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“삼성 팬분들께서 이름 크게 불러주신다”…‘땡큐 보스→웰컴 백 후라도’ 다가오는 바통터치 [SS시선집중]",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1630128"
-        }
-      },
-      {
-        "keyword": "한겨레",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김회승 전 논설위원의 춘추관장 임명에 대한 한겨레신문사 입장",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274099.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-24T11:16:44.360393+09:00",
     "label": "11:16",
     "items": [
@@ -3677,6 +3575,108 @@
           "title": "Reduced Real Estate Ratio to '49%' to Underpay 24.9 Billion Won in Capital Gains Tax… Incheon Tax Office Left Case Unattended for 15 Months",
           "source": "아시아경제",
           "url": "https://www.asiae.co.kr/en/article/bluehouse/2026082512095065091"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-25T22:40:03.136095+09:00",
+    "label": "22:40",
+    "items": [
+      {
+        "keyword": "안도 미키",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'김연아 라이벌' 日 안도 미키 \"9살 때 아버지 잃고 좌절…피겨로 극복\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260825_0003762152"
+        }
+      },
+      {
+        "keyword": "황재균",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[사진]손성빈-이이무라,'위기 지웠어' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/08/25/GU2TKMRVGE4DOZBVG5RTCOJZGA/"
+        }
+      },
+      {
+        "keyword": "진기주",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "pga 투어",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "핀첨 전 PGA투어 커미셔너와 아내, ‘PGA투어 채리티’에 1300만달러 기부",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/golf/2026/08/25/BL544YQTCZAYBDXODCYHJYOHOM/"
+        }
+      },
+      {
+        "keyword": "강혜연",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘현역가왕3’ 전국투어 대장정 마무리…서울 피날레 빛낸 ‘역대급 라인업’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8qaBKA0HJ3"
+        }
+      },
+      {
+        "keyword": "파리바게뜨",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“빵 하나가 1만6000원 실화냐” 온라인 커뮤니티서 터진 빵값 논란…美·日·佛보다 비싸",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611992"
+        }
+      },
+      {
+        "keyword": "슈퍼맨이 돌아왔다",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“효자 맞네요”…곽튜브 子, 예방접종에도 안 울고 배시시 웃기만 (슈돌)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825084640121"
+        }
+      },
+      {
+        "keyword": "박주봉",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "세계 무대 호령 한국 배드민턴…박주봉 감독 \"아시안게임에서도\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825082455506?f=p"
+        }
+      },
+      {
+        "keyword": "뉴데일리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611790"
+        }
+      },
+      {
+        "keyword": "sk 하이닉스 채용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'반도체 열풍' SK하이닉스 전남광주 채용설명회 북적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824153354244"
         }
       }
     ]
