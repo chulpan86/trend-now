@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-08-25T08:13:37.338154+09:00",
-  "label": "08:13",
+  "timestamp": "2026-08-25T09:39:58.076119+09:00",
+  "label": "09:39",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "100000+",
-      "traffic": 100000,
-      "news": {
-        "title": "처서도 지났는데 다시 '이중 열돔'‥이 더위 언제까지?",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846974_37004.html"
-      }
-    },
-    {
-      "keyword": "이상민",
+      "keyword": "인플레이션",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "네이처 출신 김소희, 이상민 설립 소속사 '더232' 1호 아티스트 됐다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824230038691"
+        "title": "[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11611692"
       }
     },
     {
-      "keyword": "weather",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김승윤",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "Early coastal downpours Monday; Scattered inland evening storms",
-        "source": "Gulf Coast News and Weather",
-        "url": "https://www.gulfcoastnewsnow.com/article/weather-forecast-southwest-florida-storms-tropics-cape-coral-naples/73508019"
-      }
-    },
-    {
-      "keyword": "나스닥 100",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "미국 나랏빚 5경 5천조 원‥금·비트코인 뛰고 AI 랠리 '흔들'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846981_37004.html"
-      }
-    },
-    {
-      "keyword": "비트코인",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[코인시세] 비트코인 7만 2천달러 돌파…규제 완화 기대에 코인 강세",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260821103226IMN"
-      }
-    },
-    {
-      "keyword": "엔비디아",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "엔비디아가 삼성·SK 하반기 성적표 쥔다…'AI 슈퍼사이클' 시험대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825070128822"
-      }
-    },
-    {
-      "keyword": "로베르토 데 제르비",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김지수 빠진 브렌트퍼드, EPL 개막전서 토트넘에 3-0 완승",
+        "title": "장동윤, 배우 김승윤과 10월 결혼…\"서로의 편 되어주기로\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823011900007"
+        "url": "https://www.yna.co.kr/view/AKR20260825032800005"
       }
     },
     {
-      "keyword": "vix",
+      "keyword": "송해나",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"일반인 입었으면 경악할 패션\"… 송해나, 도쿄 싹 쓸어버린 '쇼킹 레이어드'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824144935826"
+      }
+    },
+    {
+      "keyword": "장서희",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "대한전선",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "U.S. readies largest Iran sanctions as Wall Street opens mixed - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-international/2026/08/24/UVEFWM6DPNE4JCS6LZWA32RP5I/"
+        "title": "대한전선, CIGRE서 HVDC 경쟁력 선보여",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713473"
       }
     },
     {
-      "keyword": "天氣",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "討論牆 | 嚴防豪雨 6縣市宣布週一停止上班上課",
-        "source": "LINE TODAY",
-        "url": "https://today.line.me/tw/v3/posts/list/article/oqRjZa6"
-      }
-    },
-    {
-      "keyword": "tsla",
+      "keyword": "합계출산율",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Tesla (NASDAQ:TSLA) Stock Price Down 3.8% - Should You Sell?",
-        "source": "MarketBeat",
-        "url": "https://www.marketbeat.com/instant-alerts/tesla-nasdaqtsla-stock-price-down-38-should-you-sell-2026-08-24/"
+        "title": "“아이 한 명당 7600만원 준다”···‘출산율 역대 최저’로 떨어져 파격 육아 지원책 내놓은 국가",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608241354011"
+      }
+    },
+    {
+      "keyword": "수능원서",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "오늘부터 2027학년도 수능 응시원서 접수",
+        "source": "뉴시스",
+        "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260824_0021408255&pID=1&cID=&sID=1&type=Main&idx=4"
+      }
+    },
+    {
+      "keyword": "스테이블코인",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825050003818"
+      }
+    },
+    {
+      "keyword": "축제",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'양천가족 거리축제' 10월 개최…먹거리부스 참여 맛집 공모",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825030200004"
+      }
+    },
+    {
+      "keyword": "에코프로비엠",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "에코프로비엠, 하이니켈 양극소재 공급 위해 헝가리공장 개조",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=371555"
       }
     }
   ]
