@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-08-26T02:22:33.507736+09:00",
-  "label": "02:22",
+  "timestamp": "2026-08-26T03:23:40.058900+09:00",
+  "label": "03:23",
   "items": [
+    {
+      "keyword": "휴 민트",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘왕사남’에 밀려 198만 그쳤는데…갑자기 넷플릭스 TOP10 오른 한국 영화",
+        "source": "위키트리",
+        "url": "https://www.wikitree.co.kr/articles/1154262"
+      }
+    },
     {
       "keyword": "하석진",
       "traffic_raw": "2000+",
@@ -9,27 +19,7 @@
       "news": {
         "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
         "source": "Daum",
-        "url": "https://v.daum.net/v/BodsEBEoTA?f=p"
-      }
-    },
-    {
-      "keyword": "재벌x형사 2",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825185437697"
-      }
-    },
-    {
-      "keyword": "이재명 지지율",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11611790"
+        "url": "https://v.daum.net/v/BodsEBEoTA"
       }
     },
     {
@@ -37,9 +27,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'틈만나면' 차태현 \"유재석 별로죠?\"…'속 뒤집개' 폭소",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825222642258"
+        "title": "차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082602285553663"
       }
     },
     {
@@ -53,23 +43,33 @@
       }
     },
     {
-      "keyword": "sk 하이닉스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "하이닉스 '성과급 60% 주식 지급안' 부결...현대차 노사는 합의",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0102_202608252240485681_005.html"
-      }
-    },
-    {
       "keyword": "수능접수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "2027학년도 대학수학능력시험 응시원서 접수 시작",
+        "title": "수능 응시원서 접수하는 수험생들",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260824035700013"
+        "url": "https://www.yna.co.kr/view/PYH20260824037900013"
+      }
+    },
+    {
+      "keyword": "리그컵",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'알론소 체제' 첼시, 31초 골로 '아르벨로아 감독' 풀럼에 3-2 승리...4시즌 만에 거둔 '개막전 승리'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825055837783?f=p"
+      }
+    },
+    {
+      "keyword": "대한상공회의소",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "대한상의 상근부회장에 김정일 前산업부 실장",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826003305668"
       }
     },
     {
