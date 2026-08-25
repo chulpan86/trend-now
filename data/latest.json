@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-26T07:15:41.743666+09:00",
-  "label": "07:15",
+  "timestamp": "2026-08-26T08:16:19.083112+09:00",
+  "label": "08:16",
   "items": [
     {
-      "keyword": "전현무",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "중국인",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "\"만석이요?\" 전현무, 여행 비하인드 다 풀렸다…'좋아요'로 조작설 정면돌파 [엑's 이슈]",
+        "title": "[속보]실종 중국인 유학생 숨진 채 발견···경찰, 30대 남성 ‘살인 혐의’로 검거",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608252124001"
+      }
+    },
+    {
+      "keyword": "폴더블 스마트폰",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“애플 첫 폴더블폰, 휴대성-힌지 합격… 카메라는 글쎄”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826061150989"
+        "url": "https://v.daum.net/v/U4vy7MTspR?f=p"
       }
     },
     {
-      "keyword": "한국경제",
+      "keyword": "nvda",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "생명체 설계부터 뇌 연결까지…AI가 여는 ‘첨단바이오’[7대 첨단기술 투자지도]",
-        "source": "한경매거진&북",
-        "url": "https://magazine.hankyung.com/business/article/202608201961b"
+        "title": "Falling for 7 Straight Sessions, Longest Slump in 4 Years... AI Earnings Report Ahead as Major Turning Point",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008720458"
       }
     },
     {
-      "keyword": "오늘의 운세",
+      "keyword": "미국 국방부",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "오늘의 운세- 2026년 8월 26일 (음 7월 14일)",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260826.22016007315"
-      }
-    },
-    {
-      "keyword": "프로야구 순위",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[프로야구] 중간 순위(25일)",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/baseball/6269388"
-      }
-    },
-    {
-      "keyword": "누리 호",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한국형발사체 '누리호' 5차 발사 심사 통과",
+        "title": "보잉, F-15 공급계약 182조원 수주…FMS 대상에 한국 포함",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826052510280"
+        "url": "https://v.daum.net/v/20260825114953861?f=p"
       }
     },
     {
-      "keyword": "배충식",
+      "keyword": "성과급",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "하이닉스 임단협 부결…‘초과이익 배분’ 갈등 고조",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826064638678"
+      }
+    },
+    {
+      "keyword": "skhy",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Analysts Offer Insights on NA Companies: SK Hynix (SKHY) and Solv Energy (Nasdaq: MWH)",
+        "source": "The Globe and Mail",
+        "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4031587/analysts-offer-insights-on-na-companies-sk-hynix-skhy-and-solv-energy-nasdaq-mwh/"
+      }
+    },
+    {
+      "keyword": "극초음속 활공체",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "KAIST \"내년 1학기까지 전과목 AI 활용체계 정립\"",
-        "source": "YTN 사이언스",
-        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608251602046452"
+        "title": "\"中, 수천㎞ 밖 항공기 공격 가능한 극초음속 무기 개발\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/zNVrBsb0GB"
       }
     },
     {
-      "keyword": "골 때리는 그녀들",
+      "keyword": "장우혁",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "3년 만의 왕좌 탈환이냐, 첫 우승 반란이냐…'골때녀' 발라드림VS원더우먼, 결승전 맞대결",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260825n20503"
+        "title": "“장우혁이 폭행했다” 여직원의 폭로…1심은 ‘사실’에 손 들었는데, 2심은?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260823193638658"
       }
     },
     {
-      "keyword": "이진숙",
+      "keyword": "이민정",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"토론도 못하나\" 버틴 이진숙‥의원 제명 촉구안",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847340_37012.html"
+        "title": "GTV ‘그래, 이혼하자’, 이민정X김지석 ‘이혼 전쟁’ 시작",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202608250742163918"
       }
     },
     {
-      "keyword": "이수경",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이수경, 결혼도 안 했는데 \"70세까지 남편 없어\"",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260821508942"
-      }
-    },
-    {
-      "keyword": "김은지",
+      "keyword": "트렌드",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김은지, 여자기사 최초 '10대 500승'…이창호 이어 역대 두 번째",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260824160900007"
+        "title": "[트렌드 왜이래] 유행보다 가성비…‘창고형 오프프라이스 점포’ 인기 급부상",
+        "source": "에너지경제신문",
+        "url": "https://m.ekn.kr/view.php?key=20260826027196120"
       }
     }
   ]
