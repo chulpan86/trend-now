@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-25T18:24:25.514512+09:00",
-  "label": "18:24",
+  "timestamp": "2026-08-25T19:21:03.898239+09:00",
+  "label": "19:21",
   "items": [
     {
-      "keyword": "반도체",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "송가인",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[특별기고]용수공급의 빈틈",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=371615"
+        "title": "송가인 \"얼굴·몸매 안 되니 노래로 승부하란 말 들어\"",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260825506242"
       }
     },
     {
-      "keyword": "삼성 라이온즈",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "xrp",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'페덱 대박' 삼성, 후라도까지 복귀 임박!…KIA 2군 상대 4이닝 1실점→최종 리허설 '성공적'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qoU538CEYV"
+        "title": "XRP Jumps Nearly 50% in a Week to One-Year High",
+        "source": "Seoul Economic Daily",
+        "url": "https://en.sedaily.com/finance/2026/08/24/xrp-jumps-nearly-50-percent-in-a-week-to-one-year-high"
       }
     },
     {
-      "keyword": "홍준표",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "오픈ai",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "홍준표 \"'명태균수사'서 나오는 거 없으니 또다른 별건 수사\"",
+        "title": "주별 규제 반대했던 오픈AI, 캘리포니아 AI 규제 강화 요구",
+        "source": "YTN 사이언스",
+        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202608241601209964"
+      }
+    },
+    {
+      "keyword": "수영",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "정상을 향해…아시안게임 수영 국가대표팀 미디어데이 행사",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825097300053"
+        "url": "https://www.yna.co.kr/view/IPT20260825000011365?section=gallery/index"
       }
     },
     {
-      "keyword": "관광객",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "하이닉스",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "중국·일본이 1위 아니라고? 한국 찾은 외국 관광객, 가장 많이 늘어난 나라는 '이곳'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825143643312"
+        "title": "\"이례적\" 호평에도…SK하닉 임단협 '단 0.16%포인트 차' 부결",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608250570g"
       }
     },
     {
-      "keyword": "스포티비뉴스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"너무 예쁘다, 배우 같아\" 일본 열도가 한국 미녀 선수에게 반했다...24살 신예, 일본전 맹활약→현지 인기 한 몸에",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825084749155"
-      }
-    },
-    {
-      "keyword": "서건창",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "공수 맹활약에 후배 멘털 케어까지…'키움 히어로' 서건창의 귀환",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260825_0003761128"
-      }
-    },
-    {
-      "keyword": "반도체 메모리",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "삼전닉스 잇단 호재, 사겠다고 줄섰다…메모리 매출 내년 더 늘어난다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825173000917"
-      }
-    },
-    {
-      "keyword": "냉장고",
+      "keyword": "인천광역시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한가인 \"14년 쓴 삼성 냉장고, 여전히 고성능에 디자인도 예뻐…이젠 AI 기능에 관심\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825135128305"
-      }
-    },
-    {
-      "keyword": "대한민국 교육부",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "미래를 위한 변화, 어떻게 만들어갈까요? - 전체 | 카드/한컷 | 멀티미디어",
+        "title": "인천 노후계획도시정비 선도지구 5곳 선정…1만 6267호 공급",
         "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970570&pWise=sub&pWiseSub=R3"
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970593&pWise=sub&pWiseSub=C3"
       }
     },
     {
-      "keyword": "아시안게임",
+      "keyword": "셀트리온",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "셀트리온 ‘옴리클로’ 고용량 출시로 유럽 공략 확대 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/science-chosun/bio/2026/08/25/3EYM37FQTVAD5KOE6FBJOUU4CM/"
+      }
+    },
+    {
+      "keyword": "총장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "카이스트 총장 “내년 1학기부터 인문사회·기초과학 수업서 AI 사용 배제”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608251200011"
+      }
+    },
+    {
+      "keyword": "광주공항",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] 광주 軍공항 '숨은 복병' 있었다…호남 반도체 '초비상'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608250785i"
+      }
+    },
+    {
+      "keyword": "로저 페더러",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김수지·김영남의 목표…중국 '다이빙 싹쓸이' 52년 아성에 도전",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825135700007"
+        "title": "페더러, 이벤트 경기로 7년 만에 US오픈 코트 복귀",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20260825/134539279/1"
       }
     }
   ]
