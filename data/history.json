@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-24T12:44:21.104142+09:00",
-    "label": "12:44",
-    "items": [
-      {
-        "keyword": "주식시장",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[증권가 이모저모] 여의도 증권맨들의 '불편한 점심시간'",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431352"
-        }
-      },
-      {
-        "keyword": "대한민국 청와대",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[사설]“청렴도 31위 부끄러워”… 감시가 소홀하면 권력은 썩기 마련",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527840/2"
-        }
-      },
-      {
-        "keyword": "사우델",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "태풍 4개 동시에 떴다…사우델·나라·개나리에 제21호 ‘앗사니’까지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824105716018"
-        }
-      },
-      {
-        "keyword": "한미약품",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한미약품, 3조5000억원 규모 신약 기술수출…제넨텍과 사상 최대 규모 계약",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2617410"
-        }
-      },
-      {
-        "keyword": "박기량",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[포토] 박기량 '젖을수록 째지는 날'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260823n14799"
-        }
-      },
-      {
-        "keyword": "한국공항공사",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "GS ITM, 한국공항공사 ‘차세대 스카이-포스’ 구축사업 수주",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824110928698"
-        }
-      },
-      {
-        "keyword": "국경일",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "캐시워크 정답",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독] 캐시워크 돈버는퀴즈 정답 8월 24일",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202608240063"
-        }
-      },
-      {
-        "keyword": "이소희",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이소희·백하나, 배드민턴 세계선수권 여자복식 31년 만에 우승(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823045100007"
-        }
-      },
-      {
-        "keyword": "outlook",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Strong storms possible Monday afternoon",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/weather-news/articles/strong-storms-possible-monday-afternoon-224940515.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-24T13:34:54.588319+09:00",
     "label": "13:34",
     "items": [
@@ -3777,6 +3675,112 @@
           "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
           "source": "Apple",
           "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
+        }
+      },
+      {
+        "keyword": "누리호",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "우주청, 누리호 5차발사 승인…10월 중 발사 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825184250373"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-26T01:24:08.633034+09:00",
+    "label": "01:24",
+    "items": [
+      {
+        "keyword": "하석진",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BodsEBEoTA?f=p"
+        }
+      },
+      {
+        "keyword": "이재명 지지율",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611790"
+        }
+      },
+      {
+        "keyword": "재벌x형사 2",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825185437697"
+        }
+      },
+      {
+        "keyword": "휴민트",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "돌아온 이창동 “노동 소멸의 시대, 삶 지탱하는 건 사랑”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826000308143"
+        }
+      },
+      {
+        "keyword": "장원영",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608251405013"
+        }
+      },
+      {
+        "keyword": "이재 시",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'이동국 딸' 이재시, 스무 살 되니 연예인급 미모 폭발…쌍둥이 재시도 \"아구 예뻐\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/26/MI4DOYZRGFQTKNZVMQYDMNBTMY/"
+        }
+      },
+      {
+        "keyword": "맥미니",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'온디바이스 AI용' 맥미니 신제품 출시…애플 첫 2나노 칩도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825220148885"
+        }
+      },
+      {
+        "keyword": "윤석민",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'동상이몽2' 윤석민 \"김병현, 방송할 거란 상상 못 해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825232042795"
+        }
+      },
+      {
+        "keyword": "apple",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
         }
       },
       {

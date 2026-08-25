@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-26T00:32:52.218791+09:00",
-  "label": "00:32",
+  "timestamp": "2026-08-26T01:24:08.633034+09:00",
+  "label": "01:24",
   "items": [
     {
-      "keyword": "재벌x형사 2",
+      "keyword": "하석진",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')",
+        "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825185437697"
+        "url": "https://v.daum.net/v/BodsEBEoTA?f=p"
       }
     },
     {
@@ -23,23 +23,33 @@
       }
     },
     {
+      "keyword": "재벌x형사 2",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "SBS 판 뒤집었다…시청률 9.4% 자체 '최고'→거침없는 상승세로 시청자 취향 저격한 韓 드라마 ('재벌X형사2')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825185437697"
+      }
+    },
+    {
       "keyword": "휴민트",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'197만' 굴욕 씻나…'왕사남' 기세에 49일 만 넷플릭스行→공개 5개월 만에 역주행 불 지핀 한국 영화",
+        "title": "돌아온 이창동 “노동 소멸의 시대, 삶 지탱하는 건 사랑”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825161009275"
+        "url": "https://v.daum.net/v/20260826000308143"
       }
     },
     {
-      "keyword": "하석진",
+      "keyword": "장원영",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BodsEBEoTA"
+        "title": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608251405013"
       }
     },
     {
@@ -73,23 +83,13 @@
       }
     },
     {
-      "keyword": "서 건창",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "디아즈, 솔로포 기쁨 만끽",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260825_0021410671"
-      }
-    },
-    {
       "keyword": "apple",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+        "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
         "source": "Apple",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
       }
     },
     {
