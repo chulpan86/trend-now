@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-25T22:40:03.136095+09:00",
-  "label": "22:40",
+  "timestamp": "2026-08-25T23:34:31.452090+09:00",
+  "label": "23:34",
   "items": [
     {
-      "keyword": "안도 미키",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "재벌x형사",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'김연아 라이벌' 日 안도 미키 \"9살 때 아버지 잃고 좌절…피겨로 극복\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260825_0003762152"
+        "title": "신예 박태린, '재벌X형사2' 반전의 중심",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824082020093"
       }
     },
     {
-      "keyword": "황재균",
+      "keyword": "kbo 리그",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[사진]손성빈-이이무라,'위기 지웠어' - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/sports_photo/2026/08/25/GU2TKMRVGE4DOZBVG5RTCOJZGA/"
+        "title": "\"어쨌든 가을야구 가네\"…한화, 10월 7일 고척서 정규시즌 마침표",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825143645314"
       }
     },
     {
-      "keyword": "진기주",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "kbo 순위",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[프로야구] 중간 순위(25일)",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/sports/baseball/6269388"
+      }
     },
     {
-      "keyword": "pga 투어",
+      "keyword": "오스틴",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "핀첨 전 PGA투어 커미셔너와 아내, ‘PGA투어 채리티’에 1300만달러 기부",
+        "title": "LG 복덩이 타자 오스틴, 역대 33번째 사이클링 히트",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825179200007"
+      }
+    },
+    {
+      "keyword": "매매",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“증권사 실수로 15억원 강제청산”...카카오페이증권에 무슨 일이",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12135629"
+      }
+    },
+    {
+      "keyword": "충남혁신도시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“8월에 한다더니 10월 이후로”…또 미뤄진 공공기관 이전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825215217725"
+      }
+    },
+    {
+      "keyword": "원자력 발전소",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "영덕군, '100년 미래' 책임질 신규 원전 이름 군민 손으로 짓는다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825152057549"
+      }
+    },
+    {
+      "keyword": "크보",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "KIA Tigers' Walk-Off Slam Marks Historic KBO First",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/golf/2026/08/25/BL544YQTCZAYBDXODCYHJYOHOM/"
+        "url": "https://www.chosun.com/english/sports-en/2026/08/25/KW5FHVVRORGBVHMLKAFARJ3C6M/"
       }
     },
     {
-      "keyword": "강혜연",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘현역가왕3’ 전국투어 대장정 마무리…서울 피날레 빛낸 ‘역대급 라인업’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/8qaBKA0HJ3"
-      }
-    },
-    {
-      "keyword": "파리바게뜨",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“빵 하나가 1만6000원 실화냐” 온라인 커뮤니티서 터진 빵값 논란…美·日·佛보다 비싸",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11611992"
-      }
-    },
-    {
-      "keyword": "슈퍼맨이 돌아왔다",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“효자 맞네요”…곽튜브 子, 예방접종에도 안 울고 배시시 웃기만 (슈돌)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825084640121"
-      }
-    },
-    {
-      "keyword": "박주봉",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "세계 무대 호령 한국 배드민턴…박주봉 감독 \"아시안게임에서도\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825082455506?f=p"
-      }
-    },
-    {
-      "keyword": "뉴데일리",
+      "keyword": "스디파",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[속보]대통령 40.0%턱걸이…호남서 16%p급락-미디어토마토",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11611790"
+        "title": "'스디파' 시미즈, 제이미 뺏기고 후회…댄서 캐스팅 진행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825224050445"
       }
     },
     {
-      "keyword": "sk 하이닉스 채용",
+      "keyword": "과천시",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'반도체 열풍' SK하이닉스 전남광주 채용설명회 북적",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824153354244"
+        "title": "\"도시 전체가 무대로\"…과천시 '지팝시티 2.0'으로 예술축제 지평 연다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/policy/2026/08/25/2026082513342325230"
       }
     }
   ]
