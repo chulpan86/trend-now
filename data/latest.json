@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-26T03:23:40.058900+09:00",
-  "label": "03:23",
+  "timestamp": "2026-08-26T04:23:01.070594+09:00",
+  "label": "04:23",
   "items": [
     {
       "keyword": "휴 민트",
@@ -13,19 +13,9 @@
       }
     },
     {
-      "keyword": "하석진",
+      "keyword": "유재석",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": {
-        "title": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BodsEBEoTA"
-      }
-    },
-    {
-      "keyword": "유재석",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
       "news": {
         "title": "차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이",
         "source": "머니투데이",
@@ -34,8 +24,8 @@
     },
     {
       "keyword": "장원영",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行",
         "source": "스포츠경향",
@@ -43,13 +33,33 @@
       }
     },
     {
+      "keyword": "dolly parton",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Dolly Parton, Country Music Legend, Dies at 80, Just 4 Days After Saying, ‘I Still Have so Many Things I Want to Achieve’",
+        "source": "People.com",
+        "url": "https://people.com/dolly-parton-dead-7565853"
+      }
+    },
+    {
+      "keyword": "퍼플렉시티",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "엔비디아, 10조 들여 개방형AI 개발한다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/08/25/2026082419593375966"
+      }
+    },
+    {
       "keyword": "수능접수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "수능 응시원서 접수하는 수험생들",
+        "title": "2027학년도 대학수학능력시험 응시원서 접수 시작",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260824037900013"
+        "url": "https://www.yna.co.kr/view/PYH20260824035700013"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260825153240129"
-      }
-    },
-    {
-      "keyword": "누리호",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "누리호 5호기 발사 승인…위성 15기 싣고 10월 발사될까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825190300961"
       }
     }
   ]
