@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-25T19:21:03.898239+09:00",
-  "label": "19:21",
+  "timestamp": "2026-08-25T20:17:12.486888+09:00",
+  "label": "20:17",
   "items": [
     {
-      "keyword": "송가인",
+      "keyword": "fc 서울 대 부천",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "카메라 향한 세리머니에 '경고'‥\"도발 의도 없었다\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846991_37004.html"
+      }
+    },
+    {
+      "keyword": "김천상무 대 전북",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "'김천교육지원청 브랜드데이' 김천상무, 전북현대 꺾고, 홈 무패 이어간다!",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824092637449"
+      }
+    },
+    {
+      "keyword": "최여진",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "김숙, 최여진 초호화 저택 가더니 \"얘 재밌게 사네\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260825_0003761112"
+      }
+    },
+    {
+      "keyword": "제주 대 포항",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "제주SK \"세트피스로 포항 넘어 10경기 무패 가자\"",
+        "source": "한라일보",
+        "url": "https://m.ihalla.com/article.php?aid=1787561781789625051"
+      }
+    },
+    {
+      "keyword": "뇌물",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "송가인 \"얼굴·몸매 안 되니 노래로 승부하란 말 들어\"",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260825506242"
+        "title": "'공수처 1호 인지' 경찰간부 뇌물사건 집행유예로 대폭 감형",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6847131_36918.html"
       }
     },
     {
-      "keyword": "xrp",
+      "keyword": "거북",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "XRP Jumps Nearly 50% in a Week to One-Year High",
-        "source": "Seoul Economic Daily",
-        "url": "https://en.sedaily.com/finance/2026/08/24/xrp-jumps-nearly-50-percent-in-a-week-to-one-year-high"
-      }
-    },
-    {
-      "keyword": "오픈ai",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "주별 규제 반대했던 오픈AI, 캘리포니아 AI 규제 강화 요구",
-        "source": "YTN 사이언스",
-        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202608241601209964"
-      }
-    },
-    {
-      "keyword": "수영",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "정상을 향해…아시안게임 수영 국가대표팀 미디어데이 행사",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/IPT20260825000011365?section=gallery/index"
-      }
-    },
-    {
-      "keyword": "하이닉스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"이례적\" 호평에도…SK하닉 임단협 '단 0.16%포인트 차' 부결",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608250570g"
-      }
-    },
-    {
-      "keyword": "인천광역시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "인천 노후계획도시정비 선도지구 5곳 선정…1만 6267호 공급",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970593&pWise=sub&pWiseSub=C3"
-      }
-    },
-    {
-      "keyword": "셀트리온",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "셀트리온 ‘옴리클로’ 고용량 출시로 유럽 공략 확대 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/science-chosun/bio/2026/08/25/3EYM37FQTVAD5KOE6FBJOUU4CM/"
-      }
-    },
-    {
-      "keyword": "총장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "카이스트 총장 “내년 1학기부터 인문사회·기초과학 수업서 AI 사용 배제”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608251200011"
-      }
-    },
-    {
-      "keyword": "광주공항",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독] 광주 軍공항 '숨은 복병' 있었다…호남 반도체 '초비상'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608250785i"
-      }
-    },
-    {
-      "keyword": "로저 페더러",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "페더러, 이벤트 경기로 7년 만에 US오픈 코트 복귀",
+        "title": "거북이 몸부림 치는데…아이 안고 올라탄 中여성 눈살(영상)",
         "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260825/134539279/1"
+        "url": "https://www.donga.com/news/Inter/article/all/20260825/134539477/2"
+      }
+    },
+    {
+      "keyword": "휴림로봇",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "휴림로봇, 제이케이시냅스 지분 31.71%로 확대…\"책임경영 강화\"",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02624006645550928&mediaCodeNo=257"
+      }
+    },
+    {
+      "keyword": "윤은혜",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'41세' 윤은혜, 제대로 '민폐 하객' 됐다…아덴 조 결혼식서 파격 드레스 자태",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825165928516"
+      }
+    },
+    {
+      "keyword": "맷 데이먼",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "신혼부부 몸값이 미쳤다…‘연기력 논란’ 젠데이아 6장면 120억, ♥홀랜드는 230배 폭등",
+        "source": "스포츠서울",
+        "url": "https://www.sportsseoul.com/news/read/1630572"
+      }
+    },
+    {
+      "keyword": "송강",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'살롱드립' 송강 \"농구부 제의 받은 적 있어…父, 기계체조 선수 출신\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825190139910"
       }
     }
   ]
