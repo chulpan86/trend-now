@@ -1,7 +1,27 @@
 {
-  "timestamp": "2026-08-25T15:27:50.176662+09:00",
-  "label": "15:27",
+  "timestamp": "2026-08-25T16:35:34.961910+09:00",
+  "label": "16:35",
   "items": [
+    {
+      "keyword": "법원행정처장",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "김어준의 ‘꽃’, “조희대 탄핵 반대” 중도·무당층 과반…李지지율 최저치 경신",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2qUR1hV7W5"
+      }
+    },
+    {
+      "keyword": "유어 아너",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "넷플릭스 공개되고 2위까지 치고 올라온 美친 역주행 드라마[MD이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825122351140"
+      }
+    },
     {
       "keyword": "임금피크제",
       "traffic_raw": "5000+",
@@ -13,73 +33,63 @@
       }
     },
     {
-      "keyword": "유어 아너",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "넷플릭스 공개되고 2위까지 치고 올라온 美친 역주행 드라마[MD이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825122351140"
-      }
-    },
-    {
-      "keyword": "배구",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "의정부 떠난 프로배구 KB손보, 평택으로 임시 연고지 결정",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825088200007"
-      }
-    },
-    {
-      "keyword": "원태인",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'307억원 노시환보다 많이 준다면야'...원태인, 삼성 떠날 이유 사라진다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825071651099"
-      }
-    },
-    {
-      "keyword": "광명시",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "광명시, 1천657억원 증액 2회 추경안 편성…미래도시 기반 강화",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825100215886"
-      }
-    },
-    {
-      "keyword": "화환",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "유족 동의 없이 화환 못 처분한다‥외부 과일·음료 반입 허용",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6847125_36932.html"
-      }
-    },
-    {
-      "keyword": "좌석",
+      "keyword": "난간",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "’만석’인데 사람 대신 가방…“돈 주고 산 좌석“·“배려 좀 하자“",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR202608240943275QT"
+        "title": "개통 후 97명 사망 ‘투신대교’ 오명 쓴 인천대교···추락방지 시설 설치",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608240903001"
       }
     },
     {
-      "keyword": "박준형",
+      "keyword": "류지현",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "택시 승객 인터뷰했는데, 정의선 셋째 누나…제작진도 몰랐다",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260820n34778"
+        "title": "'아시안게임 5연패 도전' 야구대표팀 코칭스태프 구성 완료",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825112327405"
+      }
+    },
+    {
+      "keyword": "육군",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "육군 11기동사단·홍천소방, 합동 소방 훈련…재난 대응력 강화",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825153156101"
+      }
+    },
+    {
+      "keyword": "세무조사",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "200억대 ‘황제 사택’, 150억 연봉 퍼주기…탈루 혐의 기업 세무조사",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/economy/economy_general/1274500.html"
+      }
+    },
+    {
+      "keyword": "입찰",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "송림동삼익아파트 가로주택조합 시공자 선정 입찰공고",
+        "source": "한국주택경제신문",
+        "url": "https://www.arunews.com/news/articleView.html?idxno=66372"
+      }
+    },
+    {
+      "keyword": "정형돈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'모친상' 정형돈, 母 6년 반 투병 회상 \"그만 괴로워하시길, 너무 힘들었다\" ('제목없음TV')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825064508619"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘아동 성범죄’ 최영중 전 시의원, 10대 피해자 2명 추가 확인",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8645376"
-      }
-    },
-    {
-      "keyword": "정형돈",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'모친상' 정형돈, 母 6년 반 투병 회상 \"그만 괴로워하시길, 너무 힘들었다\" ('제목없음TV')",
+        "title": "‘아동 성범죄 혐의’ 최영중 미성년 피해자 또 있다?…“4명” [지금뉴스]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825064508619"
+        "url": "https://v.daum.net/v/20260824180311816"
       }
     }
   ]
