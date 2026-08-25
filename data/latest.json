@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-26T05:17:09.199418+09:00",
-  "label": "05:17",
+  "timestamp": "2026-08-26T06:17:34.484531+09:00",
+  "label": "06:17",
   "items": [
     {
-      "keyword": "휴 민트",
+      "keyword": "김연경",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "‘왕사남’에 밀려 198만 그쳤는데…갑자기 넷플릭스 TOP10 오른 한국 영화",
-        "source": "위키트리",
-        "url": "https://www.wikitree.co.kr/articles/1154262"
+        "title": "김연경, 아시아배구연맹 선수위원회 위원장 선임",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825171900007"
       }
     },
     {
-      "keyword": "유재석",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082602285553663"
-      }
-    },
-    {
-      "keyword": "애플",
+      "keyword": "천궁",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Apple, 성능과 AI 컴퓨팅의 획기적인 도약을 이끌 M6 및 M5 Ultra 공개",
-        "source": "Apple",
-        "url": "https://www.apple.com/kr/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
+        "title": "조현, 쿠웨이트 외교장관과 회담…인프라·전략적 에너지 협력 논의",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260825/134543472/1"
       }
     },
     {
-      "keyword": "dolly parton",
+      "keyword": "노팅엄 포레스트 대 리즈 유나이티드",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Dolly Parton, Country Music Legend, Dies at 80, Just 4 Days After Saying, ‘I Still Have so Many Things I Want to Achieve’",
-        "source": "People.com",
-        "url": "https://people.com/dolly-parton-dead-7565853"
+        "title": "Nottingham Forest 0-2 Leeds: Leeds beat hosts for second time in four days to reach third round",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cm5y610x0we5t"
       }
     },
     {
-      "keyword": "퍼플렉시티",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "서식스 공작 해리",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "엔비디아, 10조 들여 개방형AI 개발한다 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/world/2026/08/25/2026082419593375966"
-      }
-    },
-    {
-      "keyword": "수능접수",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "2027학년도 대학수학능력시험 응시원서 접수 시작",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260824035700013"
-      }
-    },
-    {
-      "keyword": "리그컵",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'알론소 체제' 첼시, 31초 골로 '아르벨로아 감독' 풀럼에 3-2 승리...4시즌 만에 거둔 '개막전 승리'",
+        "title": "메건 마클 '더 젠틀맨' 캐스팅 취소…영국 내 반발여론에 무산",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825055837783?f=p"
+        "url": "https://v.daum.net/v/20260823170750077"
       }
     },
     {
-      "keyword": "대한상공회의소",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "대한민국의 대법관",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "대한상의 상근부회장에 김정일 전 산업부 통상전략실장 내정",
+        "title": "김민석·장동혁 어색한 첫 회동…‘대법관 제청’ 두고 신경전",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825170928011"
+        "url": "https://v.daum.net/v/20260825065713744"
       }
     },
     {
-      "keyword": "에어부산",
+      "keyword": "종합병원",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "43년 부천 지켰는데…뉴대성병원, 응급실·종합병원 지위 반납",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/area/capital/1274553.html"
+      }
+    },
+    {
+      "keyword": "피싱",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "국민의힘 부산의원들 \"통합 진에어 본사 부산으로 와야\"",
+        "title": "고령층 울린 100억대 피싱 조직…112 신고 전화까지 가로챘다(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825112854709?f=p"
+      }
+    },
+    {
+      "keyword": "광주시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "경기광주 탄벌지구 도시개발구역 지정…1천72세대 입주",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825149500051"
+        "url": "https://www.yna.co.kr/view/AKR20260825062500061"
       }
     },
     {
-      "keyword": "kt wiz",
+      "keyword": "tving",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Doosan jumps to first as Yang Eui-ji hits 300th homer - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/08/26/HASISGNAZ5HFLOYZQIQZ7T3HX4/"
+        "title": "훈련소 동기 이원정과 재회한 김민호…'신병4' 2.8% 출발",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825076100005"
+      }
+    },
+    {
+      "keyword": "al-ettifaq vs al-nassr",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "With the weapon of boldness: Al-Ettifaq coach challenges Al-Nassr",
+        "source": "Goal.com",
+        "url": "https://www.goal.com/en/news/with-the-weapon-of-boldness-al-ettifaq-coach-challenges-al-nassr/blt43e559e62c481740"
       }
     }
   ]
