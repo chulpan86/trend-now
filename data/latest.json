@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-25T11:12:10.199587+09:00",
-  "label": "11:12",
+  "timestamp": "2026-08-25T12:39:30.340688+09:00",
+  "label": "12:39",
   "items": [
     {
-      "keyword": "임금",
+      "keyword": "하루",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "가수 하루, 수박 팔아 8시간 만에 200만 원…17세부터 알바 섭렵",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260825/134536742/1"
+      }
+    },
+    {
+      "keyword": "황유민",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608250830001"
+        "title": "박성현, 1주만에 세계랭킹 반등…윤이나·최혜진·황유민은?",
+        "source": "골프한국",
+        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021652"
       }
     },
     {
-      "keyword": "공군사관학교",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "디즈니+",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "국방부, 내일 '통합 사관학교' 공청회…대국민 의견수렴",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825102704184"
+        "title": "9/11 다시 만난 사람들",
+        "source": "Disney Plus",
+        "url": "https://www.disneyplus.com/ko-kr/browse/entity-88f16401-7120-4fd2-9e48-aa0c01bdaf53"
       }
     },
     {
-      "keyword": "컨테이너선",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“앙숙 대만마저 중국에 발주”… 中에 컨테이너선 다 뺏긴 韓 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/industry/company/2026/08/25/W63GQX2DSRBQLJQTOJIYBTO664/"
-      }
-    },
-    {
-      "keyword": "이의 리",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[25일 프리뷰] KIA 끝내기 만루포 후유증 지울까",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112863138"
-      }
-    },
-    {
-      "keyword": "한웨",
+      "keyword": "전력",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "부상 떨친 여제 안세영, 세계선수권 '탈환'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6846747_37012.html"
+        "title": "효성중공업, ‘CIGRE 2026’서 차세대 전력망 기술 공개",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713510"
       }
     },
     {
-      "keyword": "삼성생명",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "달",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'달 남극 얼음 탐사선' 中창어7호 발사 연기…태풍 영향 등 거론",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824105601954"
-      }
-    },
-    {
-      "keyword": "디에고 시메오네",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이강인 투톱은 '땜빵?' 시메오네 솔직 고백…\"루크먼에게 미안, 원래 최전방 공격수 아냐\"→LEE 본격 경쟁 시작되나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824220150228"
-      }
-    },
-    {
-      "keyword": "드라이브",
+      "keyword": "넥토리얼",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "알파드라이브원 “퍼포먼스로 인정받겠단 확신 생겼죠”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8644372"
+        "title": "\"코딩 테스트 없애고 AI 활용 본다\"…넥슨, 신입 개발자 채용 방식 바꾼다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260825_0003761485"
       }
     },
     {
-      "keyword": "브래드 갈링하우스",
+      "keyword": "김병주",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'팔아야 산다' 홈플러스, 지방점포 12곳이 복병 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/living/2026/08/25/2026082419513716083"
+      }
+    },
+    {
+      "keyword": "태권도",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'태권도 세계대회 은메달' 19세 소녀, 수면 중 심장마비로 사망…\"법조인 꿈꿨는데\" 갑작스런 비극에 추모 물결",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825000237095"
+      }
+    },
+    {
+      "keyword": "광주 도시철도",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Securities/2026/08/202608240642098440e250e8e188_1"
+        "title": "전남광주시 \"도시철도 2호선 재점검…사업 재검토 아니다\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260824116600054"
+      }
+    },
+    {
+      "keyword": "아시아나",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[비디오머그] 항공사엔 4조 원 '빚' 있는데… 왜 마일리지 좌석은 못 구하나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824180315818"
+      }
+    },
+    {
+      "keyword": "에어로케이",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "에어로케이, 청주~베이징·마닐라 운항 추진",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643756"
       }
     }
   ]
