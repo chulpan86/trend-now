@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-25T12:39:30.340688+09:00",
-  "label": "12:39",
+  "timestamp": "2026-08-25T13:28:48.535607+09:00",
+  "label": "13:28",
   "items": [
     {
       "keyword": "하루",
@@ -13,7 +13,7 @@
       }
     },
     {
-      "keyword": "황유민",
+      "keyword": "황 유민",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
@@ -23,13 +23,33 @@
       }
     },
     {
-      "keyword": "디즈니+",
+      "keyword": "살인",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "9/11 다시 만난 사람들",
-        "source": "Disney Plus",
-        "url": "https://www.disneyplus.com/ko-kr/browse/entity-88f16401-7120-4fd2-9e48-aa0c01bdaf53"
+        "title": "‘성남 보복살인’ 피의자 신상 공개…52세 김상수",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260825580035"
+      }
+    },
+    {
+      "keyword": "육군사관학교",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'사관학교 통합반대' 육사출신 응급입원…총동창회 \"안타까워\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/H5jSY4IkYE"
+      }
+    },
+    {
+      "keyword": "김혁건",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"벌 받듯 서 있던 직원들\"…박위 KTX 낙상 사고 후 현장 분위기 논란",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6268288"
       }
     },
     {
@@ -37,15 +57,15 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "효성중공업, ‘CIGRE 2026’서 차세대 전력망 기술 공개",
+        "title": "대한전선, CIGRE서 HVDC 경쟁력 선보여",
         "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713510"
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713473"
       }
     },
     {
       "keyword": "넥토리얼",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "\"코딩 테스트 없애고 AI 활용 본다\"…넥슨, 신입 개발자 채용 방식 바꾼다",
         "source": "뉴시스",
@@ -53,29 +73,19 @@
       }
     },
     {
-      "keyword": "김병주",
+      "keyword": "김태균",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'팔아야 산다' 홈플러스, 지방점포 12곳이 복병 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/living/2026/08/25/2026082419513716083"
-      }
-    },
-    {
-      "keyword": "태권도",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'태권도 세계대회 은메달' 19세 소녀, 수면 중 심장마비로 사망…\"법조인 꿈꿨는데\" 갑작스런 비극에 추모 물결",
+        "title": "김태균 \"'컬투쇼' 20주년에 청취율 1위…전 국민이 키운 방송\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825000237095"
+        "url": "https://v.daum.net/v/20260824114043759"
       }
     },
     {
       "keyword": "광주 도시철도",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "전남광주시 \"도시철도 2호선 재점검…사업 재검토 아니다\"",
         "source": "연합뉴스",
@@ -89,17 +99,7 @@
       "news": {
         "title": "[비디오머그] 항공사엔 4조 원 '빚' 있는데… 왜 마일리지 좌석은 못 구하나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824180315818"
-      }
-    },
-    {
-      "keyword": "에어로케이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "에어로케이, 청주~베이징·마닐라 운항 추진",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643756"
+        "url": "https://v.daum.net/v/VaX3piHlU2"
       }
     }
   ]
