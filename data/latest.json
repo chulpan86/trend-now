@@ -1,51 +1,21 @@
 {
-  "timestamp": "2026-08-26T18:30:24.044032+09:00",
-  "label": "18:30",
+  "timestamp": "2026-08-26T19:24:17.424922+09:00",
+  "label": "19:24",
   "items": [
     {
-      "keyword": "시어머니",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "식장",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/26/2026082610042190929"
+        "title": "\"결혼식 코앞인데 식장 사라져\"…서강대 컨벤션 강제철거로 '발동동'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826120955090"
       }
     },
     {
-      "keyword": "홍준표",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "홍준표 “내가 오세훈처럼 어수룩한 줄 알아?”…‘명태균 의혹’ 수사 발끈",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1274671.html"
-      }
-    },
-    {
-      "keyword": "버스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "고속·시외버스 요금 3년 만에 9% 오른다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/08/26/G6Z4X3QSXJFZDDLIVCR35MS6TU/"
-      }
-    },
-    {
-      "keyword": "자폭형 무인 항공기",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "국내 개발 자폭드론 이륙 직후 추락…해군 “향후 또 도전”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260826/134546713/1"
-      }
-    },
-    {
-      "keyword": "한국반도체",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "한국 반도체",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의",
         "source": "대한민국 정책브리핑",
@@ -53,53 +23,83 @@
       }
     },
     {
-      "keyword": "강백호",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "의사",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "6살 많은 벤자민에게 주먹 쥐며 노려본 강백호, 사구인데 아무것도 없어? [곽경훈의 현장]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260826n11321"
+        "title": "\"39.4도 고열 견뎌라?\"…의사 단체, 아옳이 한의사 남친 '저격'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608263110H"
       }
     },
     {
-      "keyword": "존 f. 케네디 센터",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "관리 종목",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "“대통령 이름 넣었더니 사람 안 오고 기부 끊겼다”…파산 위기 몰린 케네디 센터",
+        "title": "스팩합병 기업, 코스닥 안착 어렵네… 3곳중 1곳 상폐 위기",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826103610686"
+        "url": "https://v.daum.net/v/20260825182133874"
+      }
+    },
+    {
+      "keyword": "1기 신도시",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"용산공원 결론 못 내려\"‥탄천부지는 '검토'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6847442_36974.html"
       }
     },
     {
       "keyword": "기생충",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "러 작은 탄광마을에 기생충 감염 폭증…\"北노동자 유입이 원인\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260826077100009"
+      }
+    },
+    {
+      "keyword": "김태효",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "북한 노동자 때문에 기생충 폭증한 러 마을…회충·편충·간흡충 등 다량 발생",
+        "title": "'계엄 정당화 메시지' 김태효 前안보실 차장측 \"내란 목적 아냐\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260826075000004"
+      }
+    },
+    {
+      "keyword": "이정은",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "이정은·김무열의 누아르 액션…넷플릭스 '할매' 주연",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260826051200005"
+      }
+    },
+    {
+      "keyword": "제주항공",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "제주항공, 부산∼구이린 노선 신규 취항…주 4회 운항",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260826066200003"
+      }
+    },
+    {
+      "keyword": "광주 도시철도 2호선",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "민형배 \"광주 도시철도2호선 공사 빨리 끝내야\"…재검토 선그어",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826131109340"
-      }
-    },
-    {
-      "keyword": "미래에셋",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“감사위원장 5개월 만에 사임”…미래에셋증권, 감사위 구성요건 미달",
-        "source": "디지털데일리",
-        "url": "https://www.ddaily.co.kr/page/view/2026082614024900999"
-      }
-    },
-    {
-      "keyword": "임현식",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'세 번 이혼' 박원숙 임현식과 재혼설 부인…\"다신 안 해\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/25/2026082509204936037"
+        "url": "https://v.daum.net/v/20260826103353558"
       }
     }
   ]
