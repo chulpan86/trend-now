@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-08-26T12:44:15.607088+09:00",
-  "label": "12:44",
+  "timestamp": "2026-08-26T13:29:49.935911+09:00",
+  "label": "13:29",
   "items": [
-    {
-      "keyword": "과태료",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "\"블랙박스에 딱 걸렸다\"…운전자들 '1조5000억' 토해낼 판",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026082522331"
-      }
-    },
     {
       "keyword": "부대",
       "traffic_raw": "2000+",
@@ -20,6 +10,16 @@
         "title": "'폭염 달리기에 취사병 사망' 육군 8사단장 직무배제‥\"지휘관리 소홀\"",
         "source": "MBC 뉴스",
         "url": "https://imnews.imbc.com/news/2026/politics/article/6847412_36911.html"
+      }
+    },
+    {
+      "keyword": "배틀그라운드",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "크래프톤, 배틀그라운드 후속작 'PUBG: 데드넷' 공개",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260826012200017"
       }
     },
     {
@@ -43,13 +43,13 @@
       }
     },
     {
-      "keyword": "정선희",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "재혼황후",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "정선희, \"왜 남자 안 만나냐\" 이경실 물음에 답은",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026082607510000306"
+        "title": "최초의 로판 한드 '재혼황후', 기대 반 우려 반 11월 공개 확정",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826092152671"
       }
     },
     {
@@ -63,6 +63,16 @@
       }
     },
     {
+      "keyword": "탄천물재생센터",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"용산공원 결론 못 내려\"‥탄천부지는 '검토'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6847419_36967.html"
+      }
+    },
+    {
       "keyword": "김의성",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -73,23 +83,13 @@
       }
     },
     {
-      "keyword": "재혼황후",
+      "keyword": "오크 스트리트의 마지막 날",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[방송소식] 신민아·주지훈 주연 '재혼 황후', 11월 첫선",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826055100005"
-      }
-    },
-    {
-      "keyword": "탄천물재생센터",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[속보] 김윤덕 “추가 발표 7.3만호는 경기도에만”…용산공원 제외",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/article/25456268"
+        "title": "[시네프리뷰] 오크 스트리트의 마지막 날-스마트폰이 없던 1982년, 공룡이 나타났다",
+        "source": "주간경향",
+        "url": "https://weekly.khan.co.kr/article/202608260600041"
       }
     },
     {
