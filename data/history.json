@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-25T03:24:41.058435+09:00",
-    "label": "03:24",
-    "items": [
-      {
-        "keyword": "돈",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "남편이 생일 선물로 순금 80돈을?…금은방 주인 ‘촉’ 발동 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644232"
-        }
-      },
-      {
-        "keyword": "화장실",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "여자화장실 칸막이 아래 휴대전화…공기업 카지노 직원 입건",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823008100030"
-        }
-      },
-      {
-        "keyword": "imdb",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Weekend Box Office: Spider-Man: Brand New Day Continues to Climb",
-          "source": "Rotten Tomatoes",
-          "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-4/"
-        }
-      },
-      {
-        "keyword": "유시민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“윤석열 때와 놀라울 만큼 닮았다”…유시민, 李대통령 작심 비판",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824233749912"
-        }
-      },
-      {
-        "keyword": "영화관",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"비싸도 볼래요\" 2만원에도 매진인데…영화관 '줄폐점' 이유",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260824n33783"
-        }
-      },
-      {
-        "keyword": "한국거래소",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독] 한국거래소, 28일 중간배당 결정…주당 5000원 유력",
-          "source": "쿠키뉴스",
-          "url": "https://www.kukinews.com/article/view/kuk202608240093"
-        }
-      },
-      {
-        "keyword": "롯데마트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "주말까지 기다리지 마세요…롯데마트 제타, 평일 300여 품목 최대 반값",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VJyeazcnCO"
-        }
-      },
-      {
-        "keyword": "경주마",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“마사회 ‘말복지 지표’ 의혹 밝혀야”…제주비건, 공익감사 촉구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824161815670"
-        }
-      },
-      {
-        "keyword": "첼시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "풀럼 vs 첼시 예측: 선두 경쟁의 뜨거운 대결",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-chelsea-diem-nong-cuoc-dua-top-dau"
-        }
-      },
-      {
-        "keyword": "신봉선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "신봉선 '웃찾사' 경력 싹 빼고 KBS 갔다 \"뚱뚱한 캐릭터 개그 요구, 싫었다\" 솔직(이홍렬TV)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260822n04058"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-25T04:21:14.939568+09:00",
     "label": "04:21",
     "items": [
@@ -3577,6 +3471,108 @@
       },
       {
         "keyword": "전략적 팀 전투",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-26T15:29:53.937892+09:00",
+    "label": "15:29",
+    "items": [
+      {
+        "keyword": "엔비디아 실적 발표",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "1,100억 달러 전망도 존재…엔비디아, 이번엔 랠리 나올까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826144056483"
+        }
+      },
+      {
+        "keyword": "여론",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "‘전국이 TK됐나?’ 李 지지율 38.9%, 조국혁신 등돌려…국힘은 중도층 못잡아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826123928732"
+        }
+      },
+      {
+        "keyword": "허영만",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "중환자실 갔던 허영만, 두 달 만에 전해진 근황 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/26/2026082608584649842"
+        }
+      },
+      {
+        "keyword": "최강야구",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"일본 출국 직전 폐지 통보\" 증언 나왔다..'최강야구' 충격 비하인드[스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826093109148"
+        }
+      },
+      {
+        "keyword": "동전주",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"매출 617억·4년째 흑자인데\"…'동전주'라고 퇴출 위기, 상폐 강화의 역설[상폐 칼바람 분다②]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826081111169"
+        }
+      },
+      {
+        "keyword": "현대차",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "현대차, 2030년까지 신차 100종 이상…연간생산 127만대 확대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826140355321"
+        }
+      },
+      {
+        "keyword": "가덕도신공항",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "가덕도 공항복합도시 초안 공개…내달 주민공람·설명회",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1148093"
+        }
+      },
+      {
+        "keyword": "인요한",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김민석, 李대통령에 \"인요한, 적십자사 회장 임명 않는 게 좋겠다\" 건의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826095638431"
+        }
+      },
+      {
+        "keyword": "비광",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "류승룡 “아들 고3…집에 가면 한숨 나와”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260826/134545628/1"
+        }
+      },
+      {
+        "keyword": "김윤식",
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null

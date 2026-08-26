@@ -1,99 +1,99 @@
 {
-  "timestamp": "2026-08-26T14:23:47.147176+09:00",
-  "label": "14:23",
+  "timestamp": "2026-08-26T15:29:53.937892+09:00",
+  "label": "15:29",
   "items": [
     {
-      "keyword": "박수홍",
+      "keyword": "엔비디아 실적 발표",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "1,100억 달러 전망도 존재…엔비디아, 이번엔 랠리 나올까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826144056483"
+      }
+    },
+    {
+      "keyword": "여론",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "‘전국이 TK됐나?’ 李 지지율 38.9%, 조국혁신 등돌려…국힘은 중도층 못잡아",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826123928732"
+      }
+    },
+    {
+      "keyword": "허영만",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "\"박수홍 가족, 아이 울자 내렸다가 재탑승…비행기 1시간 지연\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260826_0003762502"
-      }
-    },
-    {
-      "keyword": "조세",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "조세지출결산서 첫 국회 제출…與김영환 “국가 재정 통제의 중요한 전환점”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260825153610349"
-      }
-    },
-    {
-      "keyword": "로스앤젤레스 fc",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[공식발표] \"누구세요?\" 손흥민 도와줄 선수 맞나...LAFC, 미드필더 영입 깜짝 오피셜→조롱 폭발 \"시즌 그냥 망했네\" - 머니투데이",
+        "title": "중환자실 갔던 허영만, 두 달 만에 전해진 근황 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/26/202608261026775317O"
+        "url": "https://www.mt.co.kr/society/2026/08/26/2026082608584649842"
       }
     },
     {
-      "keyword": "배런 트럼프",
+      "keyword": "최강야구",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“트럼프 막내아들 어디서 죽일까”…이란 방송에 CNN도 발칵 [지금뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8646543"
-      }
-    },
-    {
-      "keyword": "콜레스테롤",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "남양주시, 혈압·혈당 확인하는 레드서클 캠페인",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713565"
-      }
-    },
-    {
-      "keyword": "배틀그라운드",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "크래프톤, 배틀그라운드 후속작 'PUBG: 데드넷' 공개",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826012200017"
-      }
-    },
-    {
-      "keyword": "sk아이이테크놀로지",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "SK이노베이션 \"SKIET 합병으로 연 600억 비용 절감…2년 내 분리막 흑자전환”",
+        "title": "\"일본 출국 직전 폐지 통보\" 증언 나왔다..'최강야구' 충격 비하인드[스타이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826131240373"
+        "url": "https://v.daum.net/v/20260826093109148"
       }
     },
     {
-      "keyword": "lask",
+      "keyword": "동전주",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"매출 617억·4년째 흑자인데\"…'동전주'라고 퇴출 위기, 상폐 강화의 역설[상폐 칼바람 분다②]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826081111169"
+      }
+    },
+    {
+      "keyword": "현대차",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "LASK v Celtic: Martin O'Neill takes responsibility",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/articles/c7506lkw1gno"
+        "title": "현대차, 2030년까지 신차 100종 이상…연간생산 127만대 확대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826140355321"
       }
     },
     {
-      "keyword": "오크 스트리트의 마지막 날",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "가덕도신공항",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[시네프리뷰] 오크 스트리트의 마지막 날-스마트폰이 없던 1982년, 공룡이 나타났다",
-        "source": "주간경향",
-        "url": "https://weekly.khan.co.kr/article/202608260600041"
+        "title": "가덕도 공항복합도시 초안 공개…내달 주민공람·설명회",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1148093"
       }
     },
     {
-      "keyword": "전략적 팀 전투",
+      "keyword": "인요한",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김민석, 李대통령에 \"인요한, 적십자사 회장 임명 않는 게 좋겠다\" 건의",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826095638431"
+      }
+    },
+    {
+      "keyword": "비광",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "류승룡 “아들 고3…집에 가면 한숨 나와”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20260826/134545628/1"
+      }
+    },
+    {
+      "keyword": "김윤식",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": null
