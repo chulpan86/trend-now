@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-25T11:12:10.199587+09:00",
-    "label": "11:12",
-    "items": [
-      {
-        "keyword": "임금",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608250830001"
-        }
-      },
-      {
-        "keyword": "공군사관학교",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "국방부, 내일 '통합 사관학교' 공청회…대국민 의견수렴",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825102704184"
-        }
-      },
-      {
-        "keyword": "컨테이너선",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“앙숙 대만마저 중국에 발주”… 中에 컨테이너선 다 뺏긴 韓 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/08/25/W63GQX2DSRBQLJQTOJIYBTO664/"
-        }
-      },
-      {
-        "keyword": "이의 리",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[25일 프리뷰] KIA 끝내기 만루포 후유증 지울까",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112863138"
-        }
-      },
-      {
-        "keyword": "한웨",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "부상 떨친 여제 안세영, 세계선수권 '탈환'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6846747_37012.html"
-        }
-      },
-      {
-        "keyword": "삼성생명",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "달",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'달 남극 얼음 탐사선' 中창어7호 발사 연기…태풍 영향 등 거론",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824105601954"
-        }
-      },
-      {
-        "keyword": "디에고 시메오네",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이강인 투톱은 '땜빵?' 시메오네 솔직 고백…\"루크먼에게 미안, 원래 최전방 공격수 아냐\"→LEE 본격 경쟁 시작되나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824220150228"
-        }
-      },
-      {
-        "keyword": "드라이브",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "알파드라이브원 “퍼포먼스로 인정받겠단 확신 생겼죠”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644372"
-        }
-      },
-      {
-        "keyword": "브래드 갈링하우스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "리플 CEO가 꼽은 XRP 가격 상승 가로막는 단 하나의 요인은?",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/08/202608240642098440e250e8e188_1"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-25T12:39:30.340688+09:00",
     "label": "12:39",
     "items": [
@@ -3677,6 +3575,108 @@
           "title": "[K리그1] 중간 순위(26일)",
           "source": "뉴스1",
           "url": "https://www.news1.kr/sports/soccer/6270636"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-26T23:34:21.362073+09:00",
+    "label": "23:34",
+    "items": [
+      {
+        "keyword": "치어리더",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'역대 최초 대기록' 세운 KIA 좌타자, 하루 만에 스타팅 승격→데뷔 첫 리드오프 선발…박정우·김호령 라인업 포함 [광주 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bsBc8nXSHH"
+        }
+      },
+      {
+        "keyword": "보잉 f 15ex 이글 ii",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/boeing-awarded-contract-with-ceiling-value-1312-billion-f-15-program-2026-08-24/"
+        }
+      },
+      {
+        "keyword": "trực tiếp bóng đá",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Trực tiếp chung kết ASEAN Cup 2026 Việt Nam vs Thái Lan 0-1 (H1): Thái Lan tăng sức ép",
+          "source": "Báo điện tử Tiền Phong",
+          "url": "https://tienphong.vn/truc-tiep-chung-ket-asean-cup-2026-viet-nam-vs-thai-lan-0-1-h1-thai-lan-tang-suc-ep-post1871432.tpo"
+        }
+      },
+      {
+        "keyword": "양수경",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“돌아오려고 용기냈어요”…34년 만에 전국 투어 콘서트 하는 양수경",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826174837945"
+        }
+      },
+      {
+        "keyword": "vietnam vs thailand",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Thailand captain Sarach Yooyen eager to keep golden run in ASEAN Championship going",
+          "source": "ESPN",
+          "url": "https://global.espn.com/football/story/_/id/49719828/thailand-captain-sarach-yooyen-eager-keep-golden-run-asean-championship"
+        }
+      },
+      {
+        "keyword": "เวียดนาม พบ ไทย",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "รายชื่อผู้เล่นตัวจริงของเวียดนาม vs ไทย: ทุกคนพร้อมเพื่อเป้าหมายในการคว้าแชมป์",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/doi-hinh-ra-san-viet-nam-vs-thai-lan-tat-ca-vi-muc-tieu-vo-dich"
+        }
+      },
+      {
+        "keyword": "lck 플레이인",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“이길 수 있는 경기 패배 너무 아쉬워, 꼭 PO 올라가겠다”, ‘쏭’ 김상수",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112864377"
+        }
+      },
+      {
+        "keyword": "전관예우",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "이대호",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“성공한 선수 몇 명이나 되느냐”…이대호, 고교 유망주 MLB 직행에 소신 밝혀",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826153152967"
+        }
+      },
+      {
+        "keyword": "무안군",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "무안 국가산단 후보지 3.47㎢ 토지거래허가구역 지정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826039200054"
         }
       }
     ]
