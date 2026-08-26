@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-08-26T15:29:53.937892+09:00",
-  "label": "15:29",
+  "timestamp": "2026-08-26T16:37:31.696072+09:00",
+  "label": "16:37",
   "items": [
     {
-      "keyword": "엔비디아 실적 발표",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "1,100억 달러 전망도 존재…엔비디아, 이번엔 랠리 나올까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826144056483"
-      }
-    },
-    {
-      "keyword": "여론",
+      "keyword": "면허",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "‘전국이 TK됐나?’ 李 지지율 38.9%, 조국혁신 등돌려…국힘은 중도층 못잡아",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826123928732"
+        "title": "'나혼산' 제작진 \"전현무 카자흐 '즉흥 여행' 조작 아니다\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825163900005"
       }
     },
     {
-      "keyword": "허영만",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "구속",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "중환자실 갔던 허영만, 두 달 만에 전해진 근황 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/26/2026082608584649842"
+        "title": "[속보] 장미란 씨 실종 다음 날 새벽 숨진 듯‥\"타살 가능성 낮아\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6847473_36974.html"
       }
     },
     {
-      "keyword": "최강야구",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김민석",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "\"일본 출국 직전 폐지 통보\" 증언 나왔다..'최강야구' 충격 비하인드[스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826093109148"
+        "title": "김민석, 이 대통령에 “인요한 적십자사 회장 임명 않으면 좋겠다”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/assembly/1274675.html"
       }
     },
     {
-      "keyword": "동전주",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "군수산업",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "\"매출 617억·4년째 흑자인데\"…'동전주'라고 퇴출 위기, 상폐 강화의 역설[상폐 칼바람 분다②]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826081111169"
+        "title": "與김병주·野유용원, 'K-방산 수출강화' 법안 6건 공동발의",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825158000001"
       }
     },
     {
-      "keyword": "현대차",
+      "keyword": "남성진",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김지영 아들, 이미 완성형 얼굴…빅뱅 콘서트서 포착",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260826_0003763581"
+      }
+    },
+    {
+      "keyword": "전주월드컵경기장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "현대차, 2030년까지 신차 100종 이상…연간생산 127만대 확대",
+        "title": "전주월드컵경기장 'KTX역 신설' 추진…공공기관·금융중심지 수요 정조준",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826140355321"
+        "url": "https://v.daum.net/v/20260826070301989"
       }
     },
     {
-      "keyword": "가덕도신공항",
+      "keyword": "이병헌",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "가덕도 공항복합도시 초안 공개…내달 주민공람·설명회",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1148093"
+        "title": "평당 1억 넘겼는데 어쩌다가, 이병헌 240억 옥수동 빌딩 하락장 직격탄",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260810518089"
       }
     },
     {
-      "keyword": "인요한",
+      "keyword": "여의도 시범아파트",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김민석, 李대통령에 \"인요한, 적십자사 회장 임명 않는 게 좋겠다\" 건의",
+        "title": "여의도 '최대어' 시범, 삼성물산 단독 입찰…경쟁 사라진 서울 재건축",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826095638431"
+        "url": "https://v.daum.net/v/uSP2DKwatg"
       }
     },
     {
-      "keyword": "비광",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "류승룡 “아들 고3…집에 가면 한숨 나와”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20260826/134545628/1"
-      }
-    },
-    {
-      "keyword": "김윤식",
+      "keyword": "오스탈",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "’오스탈 USA 위치’ 美앨라배마 지역 관계자 \"한화, 인수 실사 확실히 진행\" By The Guru",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-2074446"
+      }
+    },
+    {
+      "keyword": "아옳이",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "아옳이 한의사 남친 \"열 39.4도까진 참아봐야\"…의사단체 '발칵' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/08/26/2026082611035465911"
+      }
     }
   ]
 }
