@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-25T09:39:58.076119+09:00",
-    "label": "09:39",
-    "items": [
-      {
-        "keyword": "인플레이션",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611692"
-        }
-      },
-      {
-        "keyword": "김승윤",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "장동윤, 배우 김승윤과 10월 결혼…\"서로의 편 되어주기로\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825032800005"
-        }
-      },
-      {
-        "keyword": "송해나",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"일반인 입었으면 경악할 패션\"… 송해나, 도쿄 싹 쓸어버린 '쇼킹 레이어드'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824144935826"
-        }
-      },
-      {
-        "keyword": "장서희",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "대한전선",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대한전선, CIGRE서 HVDC 경쟁력 선보여",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713473"
-        }
-      },
-      {
-        "keyword": "합계출산율",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“아이 한 명당 7600만원 준다”···‘출산율 역대 최저’로 떨어져 파격 육아 지원책 내놓은 국가",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608241354011"
-        }
-      },
-      {
-        "keyword": "수능원서",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "오늘부터 2027학년도 수능 응시원서 접수",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260824_0021408255&pID=1&cID=&sID=1&type=Main&idx=4"
-        }
-      },
-      {
-        "keyword": "스테이블코인",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825050003818"
-        }
-      },
-      {
-        "keyword": "축제",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'양천가족 거리축제' 10월 개최…먹거리부스 참여 맛집 공모",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825030200004"
-        }
-      },
-      {
-        "keyword": "에코프로비엠",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "에코프로비엠, 하이니켈 양극소재 공급 위해 헝가리공장 개조",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=371555"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-25T11:12:10.199587+09:00",
     "label": "11:12",
     "items": [
@@ -3673,6 +3571,112 @@
           "title": "여자농구 우리은행, 드래프트 지명 못 받은 정혜윤 추가 선발",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260825125800007"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-26T22:44:39.934793+09:00",
+    "label": "22:44",
+    "items": [
+      {
+        "keyword": "베트남 대 태국",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[GOAL 하노이] 기자회견 도중 휴대폰 꺼버린 김상식 \"베트남 축구 역사에 영원히 남을 경기→주인공은 선수들\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZnYUzVsAnw"
+        }
+      },
+      {
+        "keyword": "재혼 황후",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "주지훈에 이혼 통보 받은 신민아?…'재혼 황후' 11월 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826160929167"
+        }
+      },
+      {
+        "keyword": "보잉 f-15ex 이글 ii",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/boeing-awarded-contract-with-ceiling-value-1312-billion-f-15-program-2026-08-24/"
+        }
+      },
+      {
+        "keyword": "việt nam đấu với thái lan",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Chủ tịch FIFA dự khán chung kết ASEAN Cup 2026",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/chu-tich-fifa-du-khan-chung-ket-asean-cup-2026-5113222.html"
+        }
+      },
+      {
+        "keyword": "테슬라 사이버캡",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"4000만 원대 로보택시 현실로\" 테슬라 '사이버캡' 9월 3일 출시 예고",
+          "source": "다나와 자동차",
+          "url": "https://auto.danawa.com/news/?Work=detail&no=6051206&NewsGroup=M"
+        }
+      },
+      {
+        "keyword": "이수민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘더 커뮤니티2’ 레드팀, “누구든 덤비면 피범벅” 강렬 선전포고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826113009830"
+        }
+      },
+      {
+        "keyword": "pce",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html"
+        }
+      },
+      {
+        "keyword": "예비타당성조사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대구-경북 광역철도 건설사업 예타 통과…통합신공항까지 25분",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970669&pWise=sub&pWiseSub=R5"
+        }
+      },
+      {
+        "keyword": "투표",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "국민의힘 주진우 “46곳서 투표소보다 득표수 많아…득표 데이터 오염”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826114748895"
+        }
+      },
+      {
+        "keyword": "k리그1 순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[K리그1] 중간 순위(26일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/soccer/6270636"
         }
       }
     ]
