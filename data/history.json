@@ -1,323 +1,5 @@
 [
   {
-    "timestamp": "2026-08-25T13:28:48.535607+09:00",
-    "label": "13:28",
-    "items": [
-      {
-        "keyword": "하루",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "가수 하루, 수박 팔아 8시간 만에 200만 원…17세부터 알바 섭렵",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260825/134536742/1"
-        }
-      },
-      {
-        "keyword": "황 유민",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "박성현, 1주만에 세계랭킹 반등…윤이나·최혜진·황유민은?",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021652"
-        }
-      },
-      {
-        "keyword": "살인",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘성남 보복살인’ 피의자 신상 공개…52세 김상수",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260825580035"
-        }
-      },
-      {
-        "keyword": "육군사관학교",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'사관학교 통합반대' 육사출신 응급입원…총동창회 \"안타까워\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/H5jSY4IkYE"
-        }
-      },
-      {
-        "keyword": "김혁건",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"벌 받듯 서 있던 직원들\"…박위 KTX 낙상 사고 후 현장 분위기 논란",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6268288"
-        }
-      },
-      {
-        "keyword": "전력",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "대한전선, CIGRE서 HVDC 경쟁력 선보여",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713473"
-        }
-      },
-      {
-        "keyword": "넥토리얼",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"코딩 테스트 없애고 AI 활용 본다\"…넥슨, 신입 개발자 채용 방식 바꾼다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260825_0003761485"
-        }
-      },
-      {
-        "keyword": "김태균",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김태균 \"'컬투쇼' 20주년에 청취율 1위…전 국민이 키운 방송\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824114043759"
-        }
-      },
-      {
-        "keyword": "광주 도시철도",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전남광주시 \"도시철도 2호선 재점검…사업 재검토 아니다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824116600054"
-        }
-      },
-      {
-        "keyword": "아시아나",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[비디오머그] 항공사엔 4조 원 '빚' 있는데… 왜 마일리지 좌석은 못 구하나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VaX3piHlU2"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T14:22:55.172005+09:00",
-    "label": "14:22",
-    "items": [
-      {
-        "keyword": "황 유민",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "박성현, 1주만에 세계랭킹 반등…윤이나·최혜진·황유민은?",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021652"
-        }
-      },
-      {
-        "keyword": "청소",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "입주 청소 의뢰한 아파트 거실에 '수거한 오물' 뿌린 업체 직원, 무슨 일?",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6266514"
-        }
-      },
-      {
-        "keyword": "로봇",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "우크라가 보여준 미래 군대... 로봇·드론, ‘받들어 총’은 없다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/08/25/YZ3K6X3GDVCURHV4PX2ZOXJUQA/"
-        }
-      },
-      {
-        "keyword": "박원숙",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "박원숙, 방송 줄이고 15년째 남해 생활 중…카페 운영하며 “서울은 아플 때”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825083850861"
-        }
-      },
-      {
-        "keyword": "가상화폐",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“미국, 국채금리 잡는 데 스테이블코인 활용…새 재정 전략”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8644924"
-        }
-      },
-      {
-        "keyword": "김태균",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김태균 \"'컬투쇼' 20주년에 청취율 1위…전 국민이 키운 방송\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824114043759"
-        }
-      },
-      {
-        "keyword": "조상우",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "공수 맹활약에 후배 멘털 케어까지…'키움 히어로' 서건창의 귀환",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260825_0003761128"
-        }
-      },
-      {
-        "keyword": "고려아연",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "고려아연 온산제련소, 울산 이주배경아동 교육 지원에 8000만원 전달",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260825000233"
-        }
-      },
-      {
-        "keyword": "신라젠",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "신라젠, 4년 전 도입 이중표적 항암제 FDA 희귀약 지정",
-          "source": "데일리팜",
-          "url": "https://dailypharm.com/user/news/341755"
-        }
-      },
-      {
-        "keyword": "포스코노동조합",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "포항 경제 흔들리는데… 포스코 파업까지 가야 하나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825123927484"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-25T15:27:50.176662+09:00",
-    "label": "15:27",
-    "items": [
-      {
-        "keyword": "임금피크제",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608250830001"
-        }
-      },
-      {
-        "keyword": "유어 아너",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "넷플릭스 공개되고 2위까지 치고 올라온 美친 역주행 드라마[MD이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825122351140"
-        }
-      },
-      {
-        "keyword": "배구",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "의정부 떠난 프로배구 KB손보, 평택으로 임시 연고지 결정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825088200007"
-        }
-      },
-      {
-        "keyword": "원태인",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'307억원 노시환보다 많이 준다면야'...원태인, 삼성 떠날 이유 사라진다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825071651099"
-        }
-      },
-      {
-        "keyword": "광명시",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "광명시, 1천657억원 증액 2회 추경안 편성…미래도시 기반 강화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825100215886"
-        }
-      },
-      {
-        "keyword": "화환",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "유족 동의 없이 화환 못 처분한다‥외부 과일·음료 반입 허용",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6847125_36932.html"
-        }
-      },
-      {
-        "keyword": "좌석",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "’만석’인데 사람 대신 가방…“돈 주고 산 좌석“·“배려 좀 하자“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202608240943275QT"
-        }
-      },
-      {
-        "keyword": "박준형",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "택시 승객 인터뷰했는데, 정의선 셋째 누나…제작진도 몰랐다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260820n34778"
-        }
-      },
-      {
-        "keyword": "최영중",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘아동 성범죄’ 최영중 전 시의원, 10대 피해자 2명 추가 확인",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8645376"
-        }
-      },
-      {
-        "keyword": "정형돈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'모친상' 정형돈, 母 6년 반 투병 회상 \"그만 괴로워하시길, 너무 힘들었다\" ('제목없음TV')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260825064508619"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-25T16:35:34.961910+09:00",
     "label": "16:35",
     "items": [
@@ -3673,6 +3355,112 @@
           "title": "Hundreds missing, including 291 foreign tourists, after deadly flash flood on Nepal-Tibet border",
           "source": "BBC",
           "url": "https://www.bbc.com/news/live/c6y8mjmnpxv0t"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-27T03:48:46.171752+09:00",
+    "label": "03:48",
+    "items": [
+      {
+        "keyword": "장려금",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "근로·자녀장려금 오늘 지급 시간… 나는 얼마 받을까?",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3675675"
+        }
+      },
+      {
+        "keyword": "팀 커리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'록키 호러 픽쳐 쇼' 컬트의 전설 팀 커리 별세…향년 80세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260827004300075"
+        }
+      },
+      {
+        "keyword": "한국고속철도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825173529137"
+        }
+      },
+      {
+        "keyword": "단발",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"인형이 빵을 먹네\"…이세영, '청바지' 하나로 촬영장 찢었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826053640391"
+        }
+      },
+      {
+        "keyword": "포수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘한국 최초 MLB 포수’에 성큼…엄형찬, 28일 만에 또 승격! 이제 한 단계 남았다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826145014992"
+        }
+      },
+      {
+        "keyword": "한기범",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"식당서 제자리 앉지 못해\"…한기범, '자폐 경계선' 두 아들 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082619422469238"
+        }
+      },
+      {
+        "keyword": "tim curry",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80",
+          "source": "CNN",
+          "url": "https://www.cnn.com/tim-curry-death"
+        }
+      },
+      {
+        "keyword": "국세청",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "40억 법인 아파트에 사주 자녀…\"1조 9천억 탈루\" 적발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826074806640"
+        }
+      },
+      {
+        "keyword": "황석정",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "황석정, 기획사 없어 시외버스 타고 ‘호프’ 촬영…\"내려서 흙바람 맞으며 헤맸다\" ('라스')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826225909923"
+        }
+      },
+      {
+        "keyword": "cd 나시오날",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "FC서울 송민규, 포르투갈 CD 나시오날 이적 임박…유럽 무대 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826201528974"
         }
       }
     ]

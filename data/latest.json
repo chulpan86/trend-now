@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-08-27T01:09:15.783832+09:00",
-  "label": "01:09",
+  "timestamp": "2026-08-27T03:48:46.171752+09:00",
+  "label": "03:48",
   "items": [
     {
-      "keyword": "박현주",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "박현주 \"부동산으로 버는 시대 끝내야…보유세 1억이면 반응할 것\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431965"
-      }
-    },
-    {
-      "keyword": "양수경",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“돌아오려고 용기냈어요”…34년 만에 전국 투어 콘서트 하는 양수경",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/article/25456420"
-      }
-    },
-    {
-      "keyword": "vietnam vs thailand",
+      "keyword": "장려금",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Kim Sang-sik leads Vietnam to consecutive ASEAN Hyundai Cup titles - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/08/27/R4DSOMCRBRAEZLRQXVHD4OMEYE/"
+        "title": "근로·자녀장려금 오늘 지급 시간… 나는 얼마 받을까?",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3675675"
       }
     },
     {
-      "keyword": "인천대교",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "팀 커리",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "인천대교, 97명 숨질 때까지 ‘PE드럼’ 설치가 고작… 이제서야 추락방지시설 내년 착공, ‘투신대교’ 오명 씻나",
+        "title": "'록키 호러 픽쳐 쇼' 컬트의 전설 팀 커리 별세…향년 80세",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260827004300075"
+      }
+    },
+    {
+      "keyword": "한국고속철도",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/6JifIatWYJ"
+        "url": "https://v.daum.net/v/20260825173529137"
       }
     },
     {
-      "keyword": "합계출산율",
+      "keyword": "단발",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"인형이 빵을 먹네\"…이세영, '청바지' 하나로 촬영장 찢었다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826053640391"
+      }
+    },
+    {
+      "keyword": "포수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘한국 최초 MLB 포수’에 성큼…엄형찬, 28일 만에 또 승격! 이제 한 단계 남았다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826145014992"
+      }
+    },
+    {
+      "keyword": "한기범",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"식당서 제자리 앉지 못해\"…한기범, '자폐 경계선' 두 아들 공개 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082619422469238"
+      }
+    },
+    {
+      "keyword": "tim curry",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "지난해 출생아 25만 4300명, 6.7% ↑…합계출산율 0.8명대 회복",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970652&pWise=sub&pWiseSub=C5"
+        "title": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80",
+        "source": "CNN",
+        "url": "https://www.cnn.com/tim-curry-death"
       }
     },
     {
-      "keyword": "물류",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "채정선 경기도의원, “푸드뱅크는 물품 나눔 넘어 지역사회 안전망 만드는 일”",
-        "source": "서울Pn",
-        "url": "https://go.seoul.co.kr/news/newsView.php?id=20260826500235"
-      }
-    },
-    {
-      "keyword": "수영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "광주수영연맹, 해외 전지훈련팀 유치",
-        "source": "남도일보",
-        "url": "https://www.namdonews.com/news/articleView.html?idxno=921324"
-      }
-    },
-    {
-      "keyword": "전관예우",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "giải vô địch đná",
+      "keyword": "국세청",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Không phải Xuân Son, lộ diện Cầu thủ xuất sắc nhất AFF Cup 2026",
-        "source": "Thể Thao 247",
-        "url": "https://thethao247.vn/aff-cup/426-khong-phai-xuan-son-lo-dien-cau-thu-xuat-sac-nhat-aff-cup-2026-c92-d433829.html"
+        "title": "40억 법인 아파트에 사주 자녀…\"1조 9천억 탈루\" 적발",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826074806640"
       }
     },
     {
-      "keyword": "nepal",
+      "keyword": "황석정",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Hundreds missing, including 291 foreign tourists, after deadly flash flood on Nepal-Tibet border",
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/c6y8mjmnpxv0t"
+        "title": "황석정, 기획사 없어 시외버스 타고 ‘호프’ 촬영…\"내려서 흙바람 맞으며 헤맸다\" ('라스')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826225909923"
+      }
+    },
+    {
+      "keyword": "cd 나시오날",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "FC서울 송민규, 포르투갈 CD 나시오날 이적 임박…유럽 무대 도전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826201528974"
       }
     }
   ]
