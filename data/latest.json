@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-26T11:18:42.675468+09:00",
-  "label": "11:18",
+  "timestamp": "2026-08-26T12:44:15.607088+09:00",
+  "label": "12:44",
   "items": [
     {
-      "keyword": "부천 상동 역 롯데 캐슬",
+      "keyword": "과태료",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "\"블랙박스에 딱 걸렸다\"…운전자들 '1조5000억' 토해낼 판",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026082522331"
+      }
+    },
+    {
+      "keyword": "부대",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"이 동네가 16억?\" 분양가에 화들짝…결국 '청약 미달'났다 [주간이집]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026082513246"
+        "title": "'폭염 달리기에 취사병 사망' 육군 8사단장 직무배제‥\"지휘관리 소홀\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6847412_36911.html"
       }
     },
     {
-      "keyword": "국회",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "롤 패치 노트",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "김민석, 이진숙에 “여자 전두환으로 통일해서 부르는 게 어떻겠나”",
+        "title": "26.17 패치 노트",
+        "source": "League of Legends",
+        "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-17-notes/"
+      }
+    },
+    {
+      "keyword": "아침",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“아침 늦게 먹는 사람, 사망 위험 29% 높아”…몇 시에 먹나? [건강팩트체크]",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/It/article/all/20260825/134540199/2"
+      }
+    },
+    {
+      "keyword": "정선희",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "정선희, \"왜 남자 안 만나냐\" 이경실 물음에 답은",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026082607510000306"
+      }
+    },
+    {
+      "keyword": "황광희",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "황광희 어깨동무에 질색하는 지드래곤..환장의 88라인",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826100409921"
+        "url": "https://v.daum.net/v/4JGc8v8BlB"
       }
     },
     {
-      "keyword": "톱스타뉴스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "임영웅, 손 연기로 신곡 힌트…'IM HERO 10' 스포일러 공개",
-        "source": "YTN",
-        "url": "https://star.ytn.co.kr/_sn/0117_202608261017303566"
-      }
-    },
-    {
-      "keyword": "경복궁 야간개장",
+      "keyword": "김의성",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[문화연예 플러스] 경복궁 경회루·향원정 특별관람 실시",
+        "title": "장항준, 차기작 배우들에 커피차 압박 \"주인공 평균 7.5대\" ('비보티비')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/ZcUnVYx2WF"
+        "url": "https://v.daum.net/v/20260826010308914"
       }
     },
     {
-      "keyword": "sk이노베이션",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "흡수합병 충격 이렇게 클 줄은…SK이노베이션 16% 급락 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/08/26/2026082609335877679"
-      }
-    },
-    {
-      "keyword": "항공",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"박수홍 가족, 아이 울자 내렸다가 재탑승…비행기 1시간 지연\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260826_0003762502"
-      }
-    },
-    {
-      "keyword": "미국 대통령",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "캐나다도 \"50% 관세\" 맞불 놓자…트럼프 ‘호수 명칭’ 도발",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12315105"
-      }
-    },
-    {
-      "keyword": "왕옌청",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'천만다행' 폐렴 진단→병원 입원에 한화 팬들 놀랐는데, 대만 특급 26일 퇴원→인천으로 전격 합류…\"지금 많이 좋아졌다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826044255787"
-      }
-    },
-    {
-      "keyword": "모두의창업",
+      "keyword": "재혼황후",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "단국대 창업지원단, ‘모두의 창업 프로젝트’ 2차 도전자 모집",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330431"
+        "title": "[방송소식] 신민아·주지훈 주연 '재혼 황후', 11월 첫선",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260826055100005"
       }
     },
     {
-      "keyword": "여객기",
+      "keyword": "탄천물재생센터",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "美 항공기 화재 이유는? 보조배터리 외에 '이것'도 조심",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=04867526645550928&mediaCodeNo=257"
+        "title": "[속보] 김윤덕 “추가 발표 7.3만호는 경기도에만”…용산공원 제외",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25456268"
+      }
+    },
+    {
+      "keyword": "us 오픈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'여제' 세리나와 '차세대 황제' 알카라스, US오픈 혼복 8강 탈락",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260826053500007"
       }
     }
   ]
