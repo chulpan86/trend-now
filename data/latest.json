@@ -1,106 +1,98 @@
 {
-  "timestamp": "2026-08-26T19:24:17.424922+09:00",
-  "label": "19:24",
+  "timestamp": "2026-08-26T20:19:47.710722+09:00",
+  "label": "20:19",
   "items": [
     {
-      "keyword": "식장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "강원 대 광주",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "\"결혼식 코앞인데 식장 사라져\"…서강대 컨벤션 강제철거로 '발동동'",
+        "title": "“될 때까지”… 문민서, 광주 22경기 무승 끊는다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826120955090"
+        "url": "https://v.daum.net/v/4EOFSWQ9Cl"
       }
     },
     {
-      "keyword": "한국 반도체",
+      "keyword": "안양 대 인천",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "반도체 메모리",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의",
+        "title": "韓 D램 1㎏ 가치, 금 620g 맞먹어… “메모리 공급 부족 더 심해진다” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/it-science/ict/2026/08/26/33MFXT4A6BEHBPT2SIRMV2WNTY/"
+      }
+    },
+    {
+      "keyword": "키움 히어로즈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[사진]미소짓는 정현우, '위기는 병살로' - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/sports/sports_photo/2026/08/26/G5RDKZDEGA2GMNDDMNSTEYTFMY/"
+      }
+    },
+    {
+      "keyword": "골프장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "부산진해경제자유구역청 용원체육공원 파크골프장 시설 개선 완료",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826114007474"
+      }
+    },
+    {
+      "keyword": "종합격투기",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "송영재·박보현, ROAD TO UFC 시즌5 4강 출전…UFC행 도전",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11612291"
+      }
+    },
+    {
+      "keyword": "공군사관학교",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "국방부 일일 정례 브리핑",
         "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775391"
+        "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156775418"
       }
     },
     {
-      "keyword": "의사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "공연",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "\"39.4도 고열 견뎌라?\"…의사 단체, 아옳이 한의사 남친 '저격'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608263110H"
-      }
-    },
-    {
-      "keyword": "관리 종목",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "스팩합병 기업, 코스닥 안착 어렵네… 3곳중 1곳 상폐 위기",
+        "title": "BTS 등 공연 티켓 2천여장 예매·되팔아 4억대 챙긴 30대 송치",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825182133874"
+        "url": "https://v.daum.net/v/20260826140909601"
       }
     },
     {
-      "keyword": "1기 신도시",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"용산공원 결론 못 내려\"‥탄천부지는 '검토'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6847442_36974.html"
-      }
-    },
-    {
-      "keyword": "기생충",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "러 작은 탄광마을에 기생충 감염 폭증…\"北노동자 유입이 원인\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826077100009"
-      }
-    },
-    {
-      "keyword": "김태효",
+      "keyword": "전략사령부",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'계엄 정당화 메시지' 김태효 前안보실 차장측 \"내란 목적 아냐\"",
+        "title": "軍, '내란 혐의' 전략사령관 직무배제…조성현도 곧 인사조치",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826075000004"
+        "url": "https://www.yna.co.kr/view/AKR20260826090000504"
       }
     },
     {
-      "keyword": "이정은",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이정은·김무열의 누아르 액션…넷플릭스 '할매' 주연",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826051200005"
-      }
-    },
-    {
-      "keyword": "제주항공",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "제주항공, 부산∼구이린 노선 신규 취항…주 4회 운항",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826066200003"
-      }
-    },
-    {
-      "keyword": "광주 도시철도 2호선",
+      "keyword": "메리츠화재",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "민형배 \"광주 도시철도2호선 공사 빨리 끝내야\"…재검토 선그어",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826103353558"
-      }
+      "news": null
     }
   ]
 }
