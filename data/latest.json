@@ -1,98 +1,106 @@
 {
-  "timestamp": "2026-08-26T20:19:47.710722+09:00",
-  "label": "20:19",
+  "timestamp": "2026-08-26T21:29:36.258278+09:00",
+  "label": "21:29",
   "items": [
     {
-      "keyword": "강원 대 광주",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "유학생",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "“될 때까지”… 문민서, 광주 22경기 무승 끊는다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/4EOFSWQ9Cl"
+        "title": "중국인 여성 유학생 실종 닷새만 숨진 채 발견‥실종신고 한 중국인 강사 체포",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6847556_37004.html"
       }
     },
     {
-      "keyword": "안양 대 인천",
+      "keyword": "난징 지하철",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": null
+      "news": {
+        "title": "지하철 바닥 한가득 ’꿈틀’…쏟아진 민물장어에 ’아수라장’",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260824092216WmK"
+      }
     },
     {
-      "keyword": "반도체 메모리",
+      "keyword": "네팔",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[속보] 네팔 홍수로 한국인 8명 연락두절·10명 고립",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6847566_37004.html"
+      }
+    },
+    {
+      "keyword": "스마트폰",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "韓 D램 1㎏ 가치, 금 620g 맞먹어… “메모리 공급 부족 더 심해진다” - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/it-science/ict/2026/08/26/33MFXT4A6BEHBPT2SIRMV2WNTY/"
-      }
-    },
-    {
-      "keyword": "키움 히어로즈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[사진]미소짓는 정현우, '위기는 병살로' - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/sports_photo/2026/08/26/G5RDKZDEGA2GMNDDMNSTEYTFMY/"
-      }
-    },
-    {
-      "keyword": "골프장",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "부산진해경제자유구역청 용원체육공원 파크골프장 시설 개선 완료",
+        "title": "갤럭시에 했던대로 힘줬더니 그대로 ‘우지직’…폴더블 신제품 내구성 테스트 ‘굴욕’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826114007474"
+        "url": "https://v.daum.net/v/20260826141805127"
       }
     },
     {
-      "keyword": "종합격투기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "송영재·박보현, ROAD TO UFC 시즌5 4강 출전…UFC행 도전",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11612291"
-      }
-    },
-    {
-      "keyword": "공군사관학교",
+      "keyword": "김시아",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "국방부 일일 정례 브리핑",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156775418"
+        "title": "[Y현장] 'D.P'이어 '부활남'으로 재회…구교환 \"신승호와 액션, 멜로처럼 연기\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202608261235058646"
       }
     },
     {
-      "keyword": "공연",
+      "keyword": "도지코인",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "BTS 등 공연 티켓 2천여장 예매·되팔아 4억대 챙긴 30대 송치",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826140909601"
+        "title": "도지코인 ETF '0달러 행진' 끊었다…0.1달러 돌파 시험대",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260826n05636"
       }
     },
     {
-      "keyword": "전략사령부",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "軍, '내란 혐의' 전략사령관 직무배제…조성현도 곧 인사조치",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826090000504"
-      }
-    },
-    {
-      "keyword": "메리츠화재",
+      "keyword": "제임스 매디슨",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "손흥민 또 울겠다! '전방십자인대 파열' 매디슨, '또또' 부상 '아웃'…첫 경기부터 어깨 골절, 데 제르비 \"그나마 경미\" 안도",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/08/26/GYYDIYZVGQ4GGZJRGU2TCOBSGM/"
+      }
+    },
+    {
+      "keyword": "부아디",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "아유브 부아디의 등번호 공개",
+        "source": "Manchester City FC",
+        "url": "https://kr.mancity.com/news/mens/ayyoub-bouaddi-squad-number-revealed-63923336"
+      }
+    },
+    {
+      "keyword": "정정용",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“정정용 나가!”…무너진 명가, 전주성에 울려 퍼진 팬들의 최후통첩",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826172425869"
+      }
+    },
+    {
+      "keyword": "한국여자프로농구",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "여자농구 우리은행, 드래프트 지명 못 받은 정혜윤 추가 선발",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260825125800007"
+      }
     }
   ]
 }
