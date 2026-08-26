@@ -1,31 +1,21 @@
 {
-  "timestamp": "2026-08-26T17:30:51.465394+09:00",
-  "label": "17:30",
+  "timestamp": "2026-08-26T18:30:24.044032+09:00",
+  "label": "18:30",
   "items": [
     {
-      "keyword": "군수 산업",
+      "keyword": "시어머니",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "與김병주·野유용원, 'K-방산 수출강화' 법안 6건 공동발의",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825158000001"
-      }
-    },
-    {
-      "keyword": "김민석",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "이 대통령 독대한 김민석 \"인요한 임명 않는 게 좋겠다\" 건의",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12315130"
+        "title": "결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/08/26/2026082610042190929"
       }
     },
     {
       "keyword": "홍준표",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "홍준표 “내가 오세훈처럼 어수룩한 줄 알아?”…‘명태균 의혹’ 수사 발끈",
         "source": "한겨레",
@@ -33,23 +23,43 @@
       }
     },
     {
+      "keyword": "버스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "고속·시외버스 요금 3년 만에 9% 오른다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/transport-environment/2026/08/26/G6Z4X3QSXJFZDDLIVCR35MS6TU/"
+      }
+    },
+    {
       "keyword": "자폭형 무인 항공기",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "軍 자폭드론 첫 해상 전투실험 실패…함정서 이륙 직후 추락",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260826144857Myl"
+        "title": "국내 개발 자폭드론 이륙 직후 추락…해군 “향후 또 도전”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260826/134546713/1"
       }
     },
     {
-      "keyword": "투신",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "한국반도체",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "모친에게 흉기 휘두른 20대, 투신 사망",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826120038470"
+        "title": "기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775391"
+      }
+    },
+    {
+      "keyword": "강백호",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "6살 많은 벤자민에게 주먹 쥐며 노려본 강백호, 사구인데 아무것도 없어? [곽경훈의 현장]",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260826n11321"
       }
     },
     {
@@ -63,43 +73,33 @@
       }
     },
     {
-      "keyword": "이진숙 제명",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[속보] '5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6847500_36911.html"
-      }
-    },
-    {
-      "keyword": "내포신도시",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'속도전' 외치더니 곳곳서 암초 … 공공기관 이전·주택공급 제동",
-        "source": "뉴데일리",
-        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600072.html"
-      }
-    },
-    {
-      "keyword": "강백호",
+      "keyword": "기생충",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "6살 많은 벤자민에게 주먹 쥐며 노려본 강백호, 사구인데 아무것도 없어? [곽경훈의 현장]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260826n11321"
+        "title": "북한 노동자 때문에 기생충 폭증한 러 마을…회충·편충·간흡충 등 다량 발생",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826131109340"
       }
     },
     {
-      "keyword": "종언 의 잔영",
+      "keyword": "미래에셋",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "스마일게이트 '로스트아크', 신규 전투 콘텐츠 '종언의 잔영' 업데이트",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260826172339"
+        "title": "“감사위원장 5개월 만에 사임”…미래에셋증권, 감사위 구성요건 미달",
+        "source": "디지털데일리",
+        "url": "https://www.ddaily.co.kr/page/view/2026082614024900999"
+      }
+    },
+    {
+      "keyword": "임현식",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'세 번 이혼' 박원숙 임현식과 재혼설 부인…\"다신 안 해\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/25/2026082509204936037"
       }
     }
   ]
