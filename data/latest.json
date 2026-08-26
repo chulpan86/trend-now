@@ -1,41 +1,11 @@
 {
-  "timestamp": "2026-08-26T16:37:31.696072+09:00",
-  "label": "16:37",
+  "timestamp": "2026-08-26T17:30:51.465394+09:00",
+  "label": "17:30",
   "items": [
     {
-      "keyword": "면허",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "'나혼산' 제작진 \"전현무 카자흐 '즉흥 여행' 조작 아니다\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825163900005"
-      }
-    },
-    {
-      "keyword": "구속",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "[속보] 장미란 씨 실종 다음 날 새벽 숨진 듯‥\"타살 가능성 낮아\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6847473_36974.html"
-      }
-    },
-    {
-      "keyword": "김민석",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "김민석, 이 대통령에 “인요한 적십자사 회장 임명 않으면 좋겠다”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/assembly/1274675.html"
-      }
-    },
-    {
-      "keyword": "군수산업",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "군수 산업",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "與김병주·野유용원, 'K-방산 수출강화' 법안 6건 공동발의",
         "source": "연합뉴스",
@@ -43,63 +13,93 @@
       }
     },
     {
-      "keyword": "남성진",
+      "keyword": "김민석",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "이 대통령 독대한 김민석 \"인요한 임명 않는 게 좋겠다\" 건의",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12315130"
+      }
+    },
+    {
+      "keyword": "홍준표",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "홍준표 “내가 오세훈처럼 어수룩한 줄 알아?”…‘명태균 의혹’ 수사 발끈",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1274671.html"
+      }
+    },
+    {
+      "keyword": "자폭형 무인 항공기",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "軍 자폭드론 첫 해상 전투실험 실패…함정서 이륙 직후 추락",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260826144857Myl"
+      }
+    },
+    {
+      "keyword": "투신",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "모친에게 흉기 휘두른 20대, 투신 사망",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826120038470"
+      }
+    },
+    {
+      "keyword": "존 f. 케네디 센터",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "김지영 아들, 이미 완성형 얼굴…빅뱅 콘서트서 포착",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260826_0003763581"
-      }
-    },
-    {
-      "keyword": "전주월드컵경기장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "전주월드컵경기장 'KTX역 신설' 추진…공공기관·금융중심지 수요 정조준",
+        "title": "“대통령 이름 넣었더니 사람 안 오고 기부 끊겼다”…파산 위기 몰린 케네디 센터",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826070301989"
+        "url": "https://v.daum.net/v/20260826103610686"
       }
     },
     {
-      "keyword": "이병헌",
+      "keyword": "이진숙 제명",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[속보] '5·18 폄훼논란' 이진숙 제명촉구안 與 주도 국회 본회의 통과",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6847500_36911.html"
+      }
+    },
+    {
+      "keyword": "내포신도시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'속도전' 외치더니 곳곳서 암초 … 공공기관 이전·주택공급 제동",
+        "source": "뉴데일리",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/26/2026082600072.html"
+      }
+    },
+    {
+      "keyword": "강백호",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "평당 1억 넘겼는데 어쩌다가, 이병헌 240억 옥수동 빌딩 하락장 직격탄",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260810518089"
+        "title": "6살 많은 벤자민에게 주먹 쥐며 노려본 강백호, 사구인데 아무것도 없어? [곽경훈의 현장]",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260826n11321"
       }
     },
     {
-      "keyword": "여의도 시범아파트",
+      "keyword": "종언 의 잔영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "여의도 '최대어' 시범, 삼성물산 단독 입찰…경쟁 사라진 서울 재건축",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/uSP2DKwatg"
-      }
-    },
-    {
-      "keyword": "오스탈",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "’오스탈 USA 위치’ 美앨라배마 지역 관계자 \"한화, 인수 실사 확실히 진행\" By The Guru",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/stock-market-news/article-2074446"
-      }
-    },
-    {
-      "keyword": "아옳이",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "아옳이 한의사 남친 \"열 39.4도까진 참아봐야\"…의사단체 '발칵' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/26/2026082611035465911"
+        "title": "스마일게이트 '로스트아크', 신규 전투 콘텐츠 '종언의 잔영' 업데이트",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260826172339"
       }
     }
   ]
