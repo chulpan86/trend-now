@@ -1,15 +1,55 @@
 {
-  "timestamp": "2026-08-26T13:29:49.935911+09:00",
-  "label": "13:29",
+  "timestamp": "2026-08-26T14:23:47.147176+09:00",
+  "label": "14:23",
   "items": [
     {
-      "keyword": "부대",
+      "keyword": "박수홍",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"박수홍 가족, 아이 울자 내렸다가 재탑승…비행기 1시간 지연\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260826_0003762502"
+      }
+    },
+    {
+      "keyword": "조세",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'폭염 달리기에 취사병 사망' 육군 8사단장 직무배제‥\"지휘관리 소홀\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6847412_36911.html"
+        "title": "조세지출결산서 첫 국회 제출…與김영환 “국가 재정 통제의 중요한 전환점”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260825153610349"
+      }
+    },
+    {
+      "keyword": "로스앤젤레스 fc",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[공식발표] \"누구세요?\" 손흥민 도와줄 선수 맞나...LAFC, 미드필더 영입 깜짝 오피셜→조롱 폭발 \"시즌 그냥 망했네\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/26/202608261026775317O"
+      }
+    },
+    {
+      "keyword": "배런 트럼프",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“트럼프 막내아들 어디서 죽일까”…이란 방송에 CNN도 발칵 [지금뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8646543"
+      }
+    },
+    {
+      "keyword": "콜레스테롤",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "남양주시, 혈압·혈당 확인하는 레드서클 캠페인",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=713565"
       }
     },
     {
@@ -23,63 +63,23 @@
       }
     },
     {
-      "keyword": "롤 패치 노트",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "sk아이이테크놀로지",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "26.17 패치 노트",
-        "source": "League of Legends",
-        "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-17-notes/"
-      }
-    },
-    {
-      "keyword": "아침",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“아침 늦게 먹는 사람, 사망 위험 29% 높아”…몇 시에 먹나? [건강팩트체크]",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/It/article/all/20260825/134540199/2"
-      }
-    },
-    {
-      "keyword": "재혼황후",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "최초의 로판 한드 '재혼황후', 기대 반 우려 반 11월 공개 확정",
+        "title": "SK이노베이션 \"SKIET 합병으로 연 600억 비용 절감…2년 내 분리막 흑자전환”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826092152671"
+        "url": "https://v.daum.net/v/20260826131240373"
       }
     },
     {
-      "keyword": "황광희",
+      "keyword": "lask",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "황광희 어깨동무에 질색하는 지드래곤..환장의 88라인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/4JGc8v8BlB"
-      }
-    },
-    {
-      "keyword": "탄천물재생센터",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"용산공원 결론 못 내려\"‥탄천부지는 '검토'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6847419_36967.html"
-      }
-    },
-    {
-      "keyword": "김의성",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "장항준, 차기작 배우들에 커피차 압박 \"주인공 평균 7.5대\" ('비보티비')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826010308914"
+        "title": "LASK v Celtic: Martin O'Neill takes responsibility",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/articles/c7506lkw1gno"
       }
     },
     {
@@ -93,14 +93,10 @@
       }
     },
     {
-      "keyword": "us 오픈",
+      "keyword": "전략적 팀 전투",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "'여제' 세리나와 '차세대 황제' 알카라스, US오픈 혼복 8강 탈락",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826053500007"
-      }
+      "news": null
     }
   ]
 }
