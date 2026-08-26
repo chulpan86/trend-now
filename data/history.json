@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-08-24T20:17:55.594333+09:00",
-    "label": "20:17",
-    "items": [
-      {
-        "keyword": "전원주",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "'전원주 유튜브' 채널 제작진 하차…\"이유를 알려 달라\" 공지에 당황 [전문]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824171439756"
-        }
-      },
-      {
-        "keyword": "마르코스 로드리게스 판 토하",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "12년간 늑대와 살았던 스페인 ’늑대 소년’, 80세로 세상 떠나",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260824140412cAO"
-        }
-      },
-      {
-        "keyword": "회사",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "직장인들 '학을 뗐다'…\"연봉 더 줘도 이 회사 안 간다\" 폭발 [리멤버 오피스워]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608237344g"
-        }
-      },
-      {
-        "keyword": "김효주",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김세영, LPGA 투어 CPKC 여자오픈 3위…야마시타 시즌 2승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824058300007"
-        }
-      },
-      {
-        "keyword": "한소희",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'인턴' 리메이크 우려 댓글 다 본 최민식 \"비교 좋아, 진심 다했다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824193802963"
-        }
-      },
-      {
-        "keyword": "스토크 시티 fc",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "제주항공",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "제주항공, 지난해 육아휴직 사용자 51% 증가",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pqtbWUNdSp"
-        }
-      },
-      {
-        "keyword": "신동욱",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "장동혁, 한 발 물러났지만…연쇄 폭발 '뇌관' 여전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824184255939"
-        }
-      },
-      {
-        "keyword": "동복댐",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "호남권 반도체 클러스터 범시민추진위 출범",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824123400054"
-        }
-      },
-      {
-        "keyword": "타이타닉",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Weekend Box Office: Spider-Man: Brand New Day Continues to Climb",
-          "source": "Rotten Tomatoes",
-          "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-4/"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-24T21:25:53.207062+09:00",
-    "label": "21:25",
-    "items": [
-      {
-        "keyword": "전원주",
-        "traffic_raw": "50000+",
-        "traffic": 50000,
-        "news": {
-          "title": "'전원주 유튜브' 채널 제작진 하차…\"이유를 알려 달라\" 공지에 당황 [전문]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824171439756"
-        }
-      },
-      {
-        "keyword": "김영록",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "전남광주 '통합 주역' 강기정, 중국으로…김영록, 나주로",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824054600054"
-        }
-      },
-      {
-        "keyword": "용산공원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "서울시민 3명 중 2명 \"용산공원 부지에 공공주택 공급 반대\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6846817_36918.html"
-        }
-      },
-      {
-        "keyword": "민희진",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 아일릿 디렉터도 민희진에 패소···하이브 진행 중 소송만 19건",
-          "source": "시사저널",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=384586"
-        }
-      },
-      {
-        "keyword": "김치",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'생활의 달인' 서울 김치 달인 양념 비법·부산 바게트·평택 호박시루떡 소개",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3673241"
-        }
-      },
-      {
-        "keyword": "박항서",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "박항서 감독과 이별 \"옳은 결정이었다\"...'韓 사령탑' 김상식 체제서 제2 전성기 맞은 베트남, PARK 감독 혜안 조명 \"새 도약 위한 기회 장 열어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824121449269"
-        }
-      },
-      {
-        "keyword": "lg 트윈스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘실책-실책’ 또 역전패 위기, 1사 만루를 삭제하다…ML 112승은 다르네 “인간이기에 실수 할 수 있다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824084238744?f=p"
-        }
-      },
-      {
-        "keyword": "sxmb",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Xổ số miền Nam ngày 24 tháng 8: Tìm nhiều người may mắn trúng số đài TP.HCM",
-          "source": "Báo Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-24-thang-8-tim-nhieu-nguoi-may-man-trung-so-dai-tphcm-185260823075558904.htm"
-        }
-      },
-      {
-        "keyword": "괴롭힘",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "충격 폭로! \"대표팀 관계자로부터 괴롭힘, 따돌림, 갑질 당해\"...\"죄송하지만, 이제는 한계\" 日 콘도 코코네, 장문의 성명문 게재",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824152249651"
-        }
-      },
-      {
-        "keyword": "동복댐",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "호남권 반도체 클러스터 범시민추진위 출범",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824123400054"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-24T22:41:36.912612+09:00",
     "label": "22:41",
     "items": [
@@ -3791,6 +3583,112 @@
           "title": "[트렌드 왜이래] 유행보다 가성비…‘창고형 오프프라이스 점포’ 인기 급부상",
           "source": "에너지경제신문",
           "url": "https://m.ekn.kr/view.php?key=20260826027196120"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-26T09:40:54.333775+09:00",
+    "label": "09:40",
+    "items": [
+      {
+        "keyword": "스코티 셰플러",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "우즈 '26년 천하' 막내리나…셰플러·매킬로이, 통산 상금 1위 도전",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/golf/6269440"
+        }
+      },
+      {
+        "keyword": "yeouido",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Wildfire Consumes Area 20 Times Size of Yeouido in Just One Day... Evacuation Orders Issued for 90,000",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008719671"
+        }
+      },
+      {
+        "keyword": "리그 오브 레전드",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "26.17 패치 노트",
+          "source": "League of Legends",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-17-notes/"
+        }
+      },
+      {
+        "keyword": "이준석",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[정치쇼] 김성태 \"이준석 사퇴, 하필 장동혁 취임 1주년 회견일…일부러 노렸나\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826091222211"
+        }
+      },
+      {
+        "keyword": "베라 루빈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대규모 에이전틱 AI 가속 위해 NVIDIA Vera CPU 도입하는 SpaceXAI",
+          "source": "NVIDIA",
+          "url": "https://blogs.nvidia.co.kr/blog/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale/"
+        }
+      },
+      {
+        "keyword": "돌리 파튼",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美 '컨트리음악 여왕' 돌리 파튼 별세…향년 80세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260826005500071"
+        }
+      },
+      {
+        "keyword": "한국고속철도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825173529137"
+        }
+      },
+      {
+        "keyword": "엔비디아 실적",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646118"
+        }
+      },
+      {
+        "keyword": "한겨레",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김회승 신임 춘추관장 임명에 \"청와대 직행, 깊은 유감\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VWBU9dYCUX"
+        }
+      },
+      {
+        "keyword": "판결",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[판결] “주총 권한 밖 결의라도, 무조건 각하 안 돼”",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225323"
         }
       }
     ]
