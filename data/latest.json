@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-26T09:40:54.333775+09:00",
-  "label": "09:40",
+  "timestamp": "2026-08-26T11:18:42.675468+09:00",
+  "label": "11:18",
   "items": [
     {
-      "keyword": "스코티 셰플러",
+      "keyword": "부천 상동 역 롯데 캐슬",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "우즈 '26년 천하' 막내리나…셰플러·매킬로이, 통산 상금 1위 도전",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/golf/6269440"
+        "title": "\"이 동네가 16억?\" 분양가에 화들짝…결국 '청약 미달'났다 [주간이집]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026082513246"
       }
     },
     {
-      "keyword": "yeouido",
+      "keyword": "국회",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Wildfire Consumes Area 20 Times Size of Yeouido in Just One Day... Evacuation Orders Issued for 90,000",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008719671"
+        "title": "김민석, 이진숙에 “여자 전두환으로 통일해서 부르는 게 어떻겠나”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826100409921"
       }
     },
     {
-      "keyword": "리그 오브 레전드",
+      "keyword": "톱스타뉴스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "26.17 패치 노트",
-        "source": "League of Legends",
-        "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-17-notes/"
+        "title": "임영웅, 손 연기로 신곡 힌트…'IM HERO 10' 스포일러 공개",
+        "source": "YTN",
+        "url": "https://star.ytn.co.kr/_sn/0117_202608261017303566"
       }
     },
     {
-      "keyword": "이준석",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[정치쇼] 김성태 \"이준석 사퇴, 하필 장동혁 취임 1주년 회견일…일부러 노렸나\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826091222211"
-      }
-    },
-    {
-      "keyword": "베라 루빈",
+      "keyword": "경복궁 야간개장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "대규모 에이전틱 AI 가속 위해 NVIDIA Vera CPU 도입하는 SpaceXAI",
-        "source": "NVIDIA",
-        "url": "https://blogs.nvidia.co.kr/blog/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale/"
+        "title": "[문화연예 플러스] 경복궁 경회루·향원정 특별관람 실시",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/ZcUnVYx2WF"
       }
     },
     {
-      "keyword": "돌리 파튼",
+      "keyword": "sk이노베이션",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "美 '컨트리음악 여왕' 돌리 파튼 별세…향년 80세",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260826005500071"
+        "title": "흡수합병 충격 이렇게 클 줄은…SK이노베이션 16% 급락 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/08/26/2026082609335877679"
       }
     },
     {
-      "keyword": "한국고속철도",
+      "keyword": "항공",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\"",
+        "title": "\"박수홍 가족, 아이 울자 내렸다가 재탑승…비행기 1시간 지연\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260826_0003762502"
+      }
+    },
+    {
+      "keyword": "미국 대통령",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "캐나다도 \"50% 관세\" 맞불 놓자…트럼프 ‘호수 명칭’ 도발",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12315105"
+      }
+    },
+    {
+      "keyword": "왕옌청",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'천만다행' 폐렴 진단→병원 입원에 한화 팬들 놀랐는데, 대만 특급 26일 퇴원→인천으로 전격 합류…\"지금 많이 좋아졌다\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260825173529137"
+        "url": "https://v.daum.net/v/20260826044255787"
       }
     },
     {
-      "keyword": "엔비디아 실적",
+      "keyword": "모두의창업",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8646118"
+        "title": "단국대 창업지원단, ‘모두의 창업 프로젝트’ 2차 도전자 모집",
+        "source": "인천일보",
+        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330431"
       }
     },
     {
-      "keyword": "한겨레",
+      "keyword": "여객기",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김회승 신임 춘추관장 임명에 \"청와대 직행, 깊은 유감\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VWBU9dYCUX"
-      }
-    },
-    {
-      "keyword": "판결",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[판결] “주총 권한 밖 결의라도, 무조건 각하 안 돼”",
-        "source": "법률신문",
-        "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225323"
+        "title": "美 항공기 화재 이유는? 보조배터리 외에 '이것'도 조심",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=04867526645550928&mediaCodeNo=257"
       }
     }
   ]
