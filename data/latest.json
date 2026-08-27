@@ -1,97 +1,101 @@
 {
-  "timestamp": "2026-08-27T11:24:22.777486+09:00",
-  "label": "11:24",
+  "timestamp": "2026-08-27T22:19:49.454006+09:00",
+  "label": "22:19",
   "items": [
     {
-      "keyword": "금리",
+      "keyword": "정청래",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "여야, 각각 1박 2일 워크숍·연찬회…전열 정비",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/IPT20260827000011365?section=gallery/index"
+      }
+    },
+    {
+      "keyword": "항공사",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[속보]한은, 기준금리 두달 연속 인상…2.75→3.00%",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20260827/134554028/1"
+        "title": "“국제선 왕복권 사면 국내선 공짜”… 가루다인도네시아항공, 무료 항공권 프로모션",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260827500348"
       }
     },
     {
-      "keyword": "디에고 시메오네",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "정기예금",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "“이강인은 유니폼 판매용 선수가 아니다” 아틀레티코에서 직접 증명하기 시작했다...스페인 현지에서 쏟아지는 호평 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/27/202608271036778298O"
+        "title": "4000조 ‘시니어 머니’ 잡아라… 은행권, 신탁시장 공략 본격화",
+        "source": "아시아투데이",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260828010009578"
       }
     },
     {
-      "keyword": "세종특별자치시",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "thời tiết ngày mai",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'작물 가꾸며 활력 충전'...세종지역 공동주택 어르신 '실버텃밭' 교육",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260827000291"
+        "title": "Dự báo thời tiết đêm nay và ngày mai 28/8/2026: Mưa dông Bắc Bộ",
+        "source": "Báo Nhân Dân điện tử",
+        "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-2882026-mua-dong-bao-trum-bac-bo-trung-bo-co-noi-nang-nong-gay-gat-post984897.html"
       }
     },
     {
-      "keyword": "페달",
+      "keyword": "박정수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "오늘부터 기존 차에도 페달 오조작 방지장치 장착 가능 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/policy/policy_sub/2026/08/27/XGA4KD63GZH4VCLDLHCJ3ETLTE/"
+        "title": "박정수, ‘수영과 결별’ 정경호 결혼 언급에 극대노…“어딜 감히”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260827172642268"
       }
     },
     {
-      "keyword": "티웨이항공",
+      "keyword": "cuaca besok",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“찬물 마시며 더위 버텨”… 티웨이항공 운항 강행 논란",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/terhAZd85F?f=p"
+        "title": "BMKG Peringatkan Hujan Lebat Besok 28 Agustus 2026, Ini Daftar Wilayahnya",
+        "source": "Kompas.com",
+        "url": "https://video.kompas.com/watch/1951124/bmkg-peringatkan-hujan-lebat-besok-28-agustus-2026-ini-daftar-wilayahnya"
       }
     },
     {
-      "keyword": "임찬규",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "LG 오스틴, NC전서 구단 외인 첫 사이클링 히트…잠실구장 ‘3루타 맛집’의 추억",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608262045005"
-      }
-    },
-    {
-      "keyword": "국민임대주택",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "погода завтра",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": null
     },
     {
-      "keyword": "꽃게",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "공청회",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“꽃게 파티 열어볼까”…제철 맞아 불붙은 ‘최저가 전쟁’ [이슈픽]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826183638644"
+        "title": "“깡패 난장판” · “규백이 나와”… 고성 오간 통합사관학교 공청회",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11612510"
       }
     },
     {
-      "keyword": "skc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
+      "keyword": "나승엽",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“아직도 좋은 카운트에 안 친다, 더 적극적으로” ML이 탐냈던 롯데의 재능러…김태형 인정, 나승엽 만족 경계[MD광주]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/zsrRW6hDIu"
+      }
     },
     {
-      "keyword": "병사",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "스카웃",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "1군단장 이어 8사단장도 직무배제…잇단 지휘관 공백 문제없나?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260827074842328"
+        "title": "3일 만의 재대결, 1렙 와드부터 바꾼 BNK",
+        "source": "국민일보",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000006888&code=61162012&sid1=prj"
       }
     }
   ]
