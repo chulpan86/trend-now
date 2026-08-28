@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-08-27T06:27:40.912839+09:00",
-    "label": "06:27",
-    "items": [
-      {
-        "keyword": "배구",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "“배우 같은 얼굴이다”…일본에서 찬사 쏟아진 한국 여자 배구 선수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826174201631"
-        }
-      },
-      {
-        "keyword": "현대 아반떼",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "비싸다더니 하루 만에 터졌다…'3700만원' 아반떼 대반전 [신차털기]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608250659g"
-        }
-      },
-      {
-        "keyword": "이진숙",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘이진숙 제명 촉구 결의안’ 국회 의결…국힘 최소 2명 찬성",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1274741.html"
-        }
-      },
-      {
-        "keyword": "영화",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "류승룡 “고3 아들, 김시아와 동갑…집에 가면 한숨”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260826/134545628/1"
-        }
-      },
-      {
-        "keyword": "김원중",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'9회 충격 역전패' 롯데 결국 결단 내렸다, 김태형 감독 \"오늘부터 마무리는 이이무라, 김원중 타자 못 이겨낸다\" [광주 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ponJ2A0HHS"
-        }
-      },
-      {
-        "keyword": "음료",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"술 대신 마셔요\"…위고비·마운자로 열풍에 '초대박' [트렌드+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608264709g"
-        }
-      },
-      {
-        "keyword": "김도영",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "양키스+텍사스 관계자 몰려왔다...155km 밀어쳐 39호 스리런→커브 당겨쳐 적시 2루타....김도영 장타쇼, 최연소 40홈런 100타점 100득점 눈앞",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260827021111813"
-        }
-      },
-      {
-        "keyword": "전욱민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전소민 동생 전욱민, 섭외 제안 모두 거절… \"나 아닌 누나 이야기 원했다\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026082614220000257"
-        }
-      },
-      {
-        "keyword": "공군",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "공사 총동창회장 “공군, 통합사관학교 논쟁에서 뒷전 밀려”[人터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826090818025"
-        }
-      },
-      {
-        "keyword": "뉴캐슬",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘韓 축구 안타까운 소식’ 133년 역사상 첫 ‘한국 방문’까지 했던 뉴캐슬, 박승수 포함 ‘4명 임대 이적’ ...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608270524003"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-27T11:24:22.777486+09:00",
-    "label": "11:24",
-    "items": [
-      {
-        "keyword": "금리",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[속보]한은, 기준금리 두달 연속 인상…2.75→3.00%",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260827/134554028/1"
-        }
-      },
-      {
-        "keyword": "디에고 시메오네",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“이강인은 유니폼 판매용 선수가 아니다” 아틀레티코에서 직접 증명하기 시작했다...스페인 현지에서 쏟아지는 호평 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/27/202608271036778298O"
-        }
-      },
-      {
-        "keyword": "세종특별자치시",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'작물 가꾸며 활력 충전'...세종지역 공동주택 어르신 '실버텃밭' 교육",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260827000291"
-        }
-      },
-      {
-        "keyword": "페달",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "오늘부터 기존 차에도 페달 오조작 방지장치 장착 가능 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/08/27/XGA4KD63GZH4VCLDLHCJ3ETLTE/"
-        }
-      },
-      {
-        "keyword": "티웨이항공",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“찬물 마시며 더위 버텨”… 티웨이항공 운항 강행 논란",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/terhAZd85F?f=p"
-        }
-      },
-      {
-        "keyword": "임찬규",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "LG 오스틴, NC전서 구단 외인 첫 사이클링 히트…잠실구장 ‘3루타 맛집’의 추억",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608262045005"
-        }
-      },
-      {
-        "keyword": "국민임대주택",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "꽃게",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“꽃게 파티 열어볼까”…제철 맞아 불붙은 ‘최저가 전쟁’ [이슈픽]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826183638644"
-        }
-      },
-      {
-        "keyword": "skc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "병사",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "1군단장 이어 8사단장도 직무배제…잇단 지휘관 공백 문제없나?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260827074842328"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-27T22:19:49.454006+09:00",
     "label": "22:19",
     "items": [
@@ -513,6 +309,112 @@
           "title": "여의도 재건축 15조 전쟁",
           "source": "한경매거진&북",
           "url": "https://magazine.hankyung.com/money/article/202607131911c"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-29T04:46:28.915585+09:00",
+    "label": "04:46",
+    "items": [
+      {
+        "keyword": "바이에른 대 슈투트가르트",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "日, 김민재 고집에 깜짝 놀랐다!…'EPL 챔피언' 아스널 러브콜 단칼 거절→\"놀라움 안겼다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828182437130"
+        }
+      },
+      {
+        "keyword": "정의선",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "현대차·기아, 협력사 AI 전환과 경쟁력 강화 'AI 특화 공동훈련센터' 개소",
+          "source": "다나와 자동차",
+          "url": "https://auto.danawa.com/news/?Tab=A&Work=detail&no=6051880"
+        }
+      },
+      {
+        "keyword": "전 소연",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "아이들 소연, 파격 '퇴사할게여' 기안84 내레이션 참여",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HYHsWJGh7x"
+        }
+      },
+      {
+        "keyword": "명태균",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "명태균 증언대로…\"오세훈, 나경원 이기는 조사해달라 해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828194125301"
+        }
+      },
+      {
+        "keyword": "선우용여",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'82세' 선우용여, 700만원→58만원으로 뚝…\"원단 사서 옷 만들어\" ('순풍')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828150237638"
+        }
+      },
+      {
+        "keyword": "정명훈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "같은 날 지휘자로 무대 오른 父子…아버지는 아들이 떠올랐다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082801321"
+        }
+      },
+      {
+        "keyword": "건설",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"결국 댐이었나\"...댐 건설 반대 주민·환경단체 결집",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828205159368"
+        }
+      },
+      {
+        "keyword": "twitch",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Is Twitch Down? What We Know About ‘Major Outage’",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/27/twitch-reports-major-outages-after-gta-6-trailer-drops/"
+        }
+      },
+      {
+        "keyword": "티파니",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "뒤늦은 신혼여행?…'티파니♥' 변요한, 하와이서 포착→애정 담긴 사진 공개 [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828175903449"
+        }
+      },
+      {
+        "keyword": "서영교",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“한국에서 태어났다면 국적 관계없이 출생등록”… 헌재, 외국인 아동 권리 인정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Wi5C7mB3ay"
         }
       }
     ]
