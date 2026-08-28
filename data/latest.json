@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-08-28T08:21:20.315323+09:00",
-  "label": "08:21",
+  "timestamp": "2026-08-28T16:54:17.757570+09:00",
+  "label": "16:54",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "마지노선",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "오늘부터 '가을 장마'‥주말까지 최대 100mm",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847916_37012.html"
+        "title": "이 대통령 지지율 42% '최저치'...부정 평가 50%",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0101_202608281205393235"
       }
     },
     {
-      "keyword": "weather",
+      "keyword": "엔비디아",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "The next Atlantic storm will be named Dolly, but it’s not connected to Parton’s death",
-        "source": "AP News",
-        "url": "https://apnews.com/article/dolly-parton-atlantic-tropical-storm-weather-d9ae9ddfe892d154f9c61fb604c0f1e2"
+        "title": "엔비디아, ‘경영 간섭·반독점 우려’에 AI 클라우드 금융 프로그램 일부 중단",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260828143149378"
       }
     },
     {
-      "keyword": "정해영",
+      "keyword": "불",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "충남 천안 페인트 원료 생산공장서 불‥3명 사망·2명 부상",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6848030_36918.html"
+      }
+    },
+    {
+      "keyword": "황유민",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "기습폭우 챔필 물바다→호우주의보 발령, 김도영 최연소 40홈런 도전 하루 연기...27일 롯데-KIA 광주경기 우천취소",
+        "title": "김세영, LPGA 투어 FM 챔피언십 1R 선두…유해란·김효주 5위",
         "source": "Daum",
-        "url": "https://v.daum.net/v/tH9x0g1yTy"
+        "url": "https://v.daum.net/v/20260828084950322?f=p"
       }
     },
     {
-      "keyword": "이혼숙려캠프: 새로고침",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "대한민국의 대법관",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'라면 부부' 폭행 진실 공방…거짓말 탐지기 결과 '충격' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/28/2026082804060023532"
+        "title": "[속보] 이 대통령, 손봉기 대법관 후보 반려…“절차적 완결성 부족”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/bluehouse/1275121.html"
       }
     },
     {
-      "keyword": "아스널 fc",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "기저귀",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"만장일치 확인\" 알바레스, 바르셀로나 절대 못 간다...ATM, 분노의 성명문 \"협상 진행된 적도 없고, 앞으로도 없을 것\" [공식발표]",
+        "title": "“30대도 찾는 요실금 제품…편견 깨질 것”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260828012410046"
+        "url": "https://v.daum.net/v/20260828113647508"
       }
     },
     {
-      "keyword": "사고",
+      "keyword": "여군",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "죽음의 롤러코스터…美놀이공원 식스플래그서 잇단 뇌출혈 사고",
+        "title": "8사단 여군 하사 “상사에 피해” 호소하다 숨져…인권위 조사 착수",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260828035952576"
+        "url": "https://v.daum.net/v/20260828103949161"
       }
     },
     {
-      "keyword": "天气",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "This week’s heat wave brought record-setting temperatures to SoCal. What comes next?",
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/california/story/2026-08-27/worst-of-record-smashing-socal-heat-wave-is-over-it-wont-feel-like-it"
-      }
-    },
-    {
-      "keyword": "fc barcelona vs athletic bilbao standings",
+      "keyword": "채무",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Barcelona 2-0 Athletic Club: Raphinha scores again as Rodri makes debut",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c69989m7ld0lt"
+        "title": "회생절차 돌입 JTBC, \"조속한 매각으로 경영 정상화하겠다\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/broadcast-media/2026/08/28/XTUVABLHKNAMZBSIZ2IHR35KOQ/"
       }
     },
     {
-      "keyword": "대천해수욕장",
+      "keyword": "김주원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "운영 끝난 해수욕장서 물놀이…순식간 30m 휩쓸려갔다",
+        "title": "ML 스카우트 앞에서 5안타 폭발…NC 걱정은 올해가 아니다? AG 금메달 따면 ML 도전 앞당겨진다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260826100901178?f=p"
+        "url": "https://v.daum.net/v/20260828121015537"
       }
     },
     {
-      "keyword": "윤상현",
+      "keyword": "여의도 시범아파트",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "윤상현 \"특위 재검표 물건너갔다…선관위 특검에 다 넘어가\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260827181600001"
+        "title": "여의도 재건축 15조 전쟁",
+        "source": "한경매거진&북",
+        "url": "https://magazine.hankyung.com/money/article/202607131911c"
       }
     }
   ]
