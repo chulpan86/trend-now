@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-28T16:54:17.757570+09:00",
-    "label": "16:54",
-    "items": [
-      {
-        "keyword": "마지노선",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "이 대통령 지지율 42% '최저치'...부정 평가 50%",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608281205393235"
-        }
-      },
-      {
-        "keyword": "엔비디아",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "엔비디아, ‘경영 간섭·반독점 우려’에 AI 클라우드 금융 프로그램 일부 중단",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828143149378"
-        }
-      },
-      {
-        "keyword": "불",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "충남 천안 페인트 원료 생산공장서 불‥3명 사망·2명 부상",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6848030_36918.html"
-        }
-      },
-      {
-        "keyword": "황유민",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김세영, LPGA 투어 FM 챔피언십 1R 선두…유해란·김효주 5위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828084950322?f=p"
-        }
-      },
-      {
-        "keyword": "대한민국의 대법관",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보] 이 대통령, 손봉기 대법관 후보 반려…“절차적 완결성 부족”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1275121.html"
-        }
-      },
-      {
-        "keyword": "기저귀",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“30대도 찾는 요실금 제품…편견 깨질 것”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828113647508"
-        }
-      },
-      {
-        "keyword": "여군",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "8사단 여군 하사 “상사에 피해” 호소하다 숨져…인권위 조사 착수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828103949161"
-        }
-      },
-      {
-        "keyword": "채무",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "회생절차 돌입 JTBC, \"조속한 매각으로 경영 정상화하겠다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/broadcast-media/2026/08/28/XTUVABLHKNAMZBSIZ2IHR35KOQ/"
-        }
-      },
-      {
-        "keyword": "김주원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "ML 스카우트 앞에서 5안타 폭발…NC 걱정은 올해가 아니다? AG 금메달 따면 ML 도전 앞당겨진다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828121015537"
-        }
-      },
-      {
-        "keyword": "여의도 시범아파트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "여의도 재건축 15조 전쟁",
-          "source": "한경매거진&북",
-          "url": "https://magazine.hankyung.com/money/article/202607131911c"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-29T04:46:28.915585+09:00",
     "label": "04:46",
     "items": [
@@ -627,6 +521,112 @@
           "title": "Bournemouth vs Everton: Premier League preview, team news, stats & head-to-head",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/ckm2qnyv5l51t"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-30T06:22:21.976987+09:00",
+    "label": "06:22",
+    "items": [
+      {
+        "keyword": "세비야 대 아틀레티코",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "이강인, 라리가 1호 도움…세비야전 바에나 선제골 어시스트",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260830_0003768068"
+        }
+      },
+      {
+        "keyword": "빙하 붕괴",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[속보]네팔서 한국대응팀 헬기 2대 띄웠다…수색 작업 본격화",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11613003"
+        }
+      },
+      {
+        "keyword": "혈압",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"혈압 낮추려면 매일 먹어라\"…영양 전문가들이 추천한 '이 과일'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tZGqFBEoNQ"
+        }
+      },
+      {
+        "keyword": "한반도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "태풍 '사우델' 중국 남동부 상륙...9개 성·자치구에 폭우",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608281601398226"
+        }
+      },
+      {
+        "keyword": "오마르 마르무시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'손흥민 떠나자 공격진 초토화' 토트넘, 사비우-마르무시 영입에도 만족 NO…은디아예도 관심 \"히샬리송과 스왑딜 검토\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260830n00639"
+        }
+      },
+      {
+        "keyword": "유벤투스 대 파르마",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "유벤투스 vs 파르마 프리뷰: 우승 경쟁의 뜨거운 승부",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-parma-diem-nong-cuoc-dua-top-dau"
+        }
+      },
+      {
+        "keyword": "pl",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Karol i Marta Nawroccy w pasujących do siebie stylówkach przechadzają się po plaży w Juracie, TRZYMAJĄC SIĘ ZA RĘCE (ZDJĘCIA)",
+          "source": "Pudelek.pl",
+          "url": "https://www.pudelek.pl/karol-i-marta-nawroccy-w-pasujacych-do-siebie-stylowkach-przechadzaja-sie-po-plazy-w-juracie-trzymajac-sie-za-rece-zdjecia-7323735906932768g"
+        }
+      },
+      {
+        "keyword": "해외축구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "등 전체를 덮은 '사무라이 문신'…日 문화 푹 빠진 '이강인 전 동료' 바르콜라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829225237843"
+        }
+      },
+      {
+        "keyword": "fotmob",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Milan, Amorim need reinforcements: Leao’s departure must not be underestimated",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/en/lists/milan-amorim-need-reinforcements-leao-s-departure-must-not-be-underestimated/blt1a076a329f1ac78e"
+        }
+      },
+      {
+        "keyword": "헐크",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[헐크 이만수의 힘] \"만수야\", 귓가에 울리는 따뜻한 음성과 남은 다짐",
+          "source": "내외경제TV",
+          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024140"
         }
       }
     ]
