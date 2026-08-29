@@ -422,5 +422,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-29T18:33:19.528303+09:00",
+    "label": "18:33",
+    "items": [
+      {
+        "keyword": "반도체",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "최태원 “꼭 호남에 반도체?” 두 달 뒤 투자…野, 최태원·이재용 부르나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829141638634"
+        }
+      },
+      {
+        "keyword": "홍상수",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"홍상수 아들은 상속받지만 김민희는 NO\" 변호사가 밝혔다 [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/29/GUZGEMJXGM2WINLCG43GGNJYMQ/"
+        }
+      },
+      {
+        "keyword": "사랑 이 온다",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "하석진 때문에 모녀 갈등..'짝사랑' 이주연·'반대' 윤유선 사이 안절부절 ('사랑이 온다') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/29/MFSGCYTDG5TDIYLCMYZDQMLGGQ/"
+        }
+      },
+      {
+        "keyword": "아이폰",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "드디어 애플 첫 폴더블폰...9월 10일 ‘아이폰 울트라’ 공개",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12137853"
+        }
+      },
+      {
+        "keyword": "mlb",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Skubal dominates former team as Dodgers end skid with Freeman go-ahead hit - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/29/EY4I2IMOZBCOPFZCDIQZNWROBU/"
+        }
+      },
+      {
+        "keyword": "전광훈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"소변도 힘든\" 전광훈 또 선동…법원은 \"제한 계획 없다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828195904553"
+        }
+      },
+      {
+        "keyword": "목욕탕",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "강릉 목욕탕서 80대 남성 숨져",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Hzw3LKwaSg"
+        }
+      },
+      {
+        "keyword": "북한이탈주민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "군 장교까지 연인으로 만든 '탈북 여간첩 1호'…18년 뒤 남은 의문들[뉴스속오늘] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/27/2026082616044667945"
+        }
+      },
+      {
+        "keyword": "김광현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김광현이 인천과 점점 가까워진다… 코칭스태프 예상 무색, 유니폼 다시 꺼낼 준비하세요",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829083242858"
+        }
+      },
+      {
+        "keyword": "lck 플레이오프",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[Oh!쎈 롤챔스] ‘도깨비 팀’ 피어엑스, 어떻게 판 뒤집었나… ‘래더’ 코치가 말하는 PO 진출 키워드 세가지",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260828214930360"
+        }
+      }
+    ]
   }
 ]
