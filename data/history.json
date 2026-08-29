@@ -630,5 +630,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-30T08:42:03.862693+09:00",
+    "label": "08:42",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "[날씨/XR] 전국으로 비 확대… 수도권은 5~20mm",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829203920325"
+        }
+      },
+      {
+        "keyword": "thời tiết",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Bão Saudel có thể mạnh trở lại khi vào Biển Đông",
+          "source": "Báo Nông nghiệp và Môi trường",
+          "url": "https://nongnghiepmoitruong.vn/bao-saudel-co-the-manh-tro-lai-khi-vao-bien-dong-d828745.html"
+        }
+      },
+      {
+        "keyword": "범죄",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "檢, '여친 살해·유기' 20대 항소심서 \"항소 기각\" 요청",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828160447385"
+        }
+      },
+      {
+        "keyword": "สภาพอากาศ",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
+          "source": "Thansettakij",
+          "url": "https://www.thansettakij.com/general-news/667729"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france"
+        }
+      },
+      {
+        "keyword": "할인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이마트 '친환경 추석 선물세트' 사전예약 행사",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1150252"
+        }
+      },
+      {
+        "keyword": "상장지수 펀드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美달러가 무너질 때 오르는 ETF가 있다?…최근 저점 대비 25% 상승 [주末머니]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6Y7PoatWaB?f=p"
+        }
+      },
+      {
+        "keyword": "김태균",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "인사말 하는 송재혁 센터장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260828112800013"
+        }
+      },
+      {
+        "keyword": "문근영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "문근영, 결혼 후 물 오른 미모 \"내 곱슬은 매직을 이겨\" [N샷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829193728458"
+        }
+      },
+      {
+        "keyword": "자산",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "실업자 절반이 2030… \"자산 관리? 자산 자체가 없어\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/08/29/TFRDPAIJ6JEDXFI55XRXP27XAE/"
+        }
+      }
+    ]
   }
 ]
