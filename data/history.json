@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-28T08:21:20.315323+09:00",
-    "label": "08:21",
-    "items": [
-      {
-        "keyword": "날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "오늘부터 '가을 장마'‥주말까지 최대 100mm",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847916_37012.html"
-        }
-      },
-      {
-        "keyword": "weather",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "The next Atlantic storm will be named Dolly, but it’s not connected to Parton’s death",
-          "source": "AP News",
-          "url": "https://apnews.com/article/dolly-parton-atlantic-tropical-storm-weather-d9ae9ddfe892d154f9c61fb604c0f1e2"
-        }
-      },
-      {
-        "keyword": "정해영",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "기습폭우 챔필 물바다→호우주의보 발령, 김도영 최연소 40홈런 도전 하루 연기...27일 롯데-KIA 광주경기 우천취소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tH9x0g1yTy"
-        }
-      },
-      {
-        "keyword": "이혼숙려캠프: 새로고침",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'라면 부부' 폭행 진실 공방…거짓말 탐지기 결과 '충격' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/28/2026082804060023532"
-        }
-      },
-      {
-        "keyword": "아스널 fc",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"만장일치 확인\" 알바레스, 바르셀로나 절대 못 간다...ATM, 분노의 성명문 \"협상 진행된 적도 없고, 앞으로도 없을 것\" [공식발표]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828012410046"
-        }
-      },
-      {
-        "keyword": "사고",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "죽음의 롤러코스터…美놀이공원 식스플래그서 잇단 뇌출혈 사고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828035952576"
-        }
-      },
-      {
-        "keyword": "天气",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "This week’s heat wave brought record-setting temperatures to SoCal. What comes next?",
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/california/story/2026-08-27/worst-of-record-smashing-socal-heat-wave-is-over-it-wont-feel-like-it"
-        }
-      },
-      {
-        "keyword": "fc barcelona vs athletic bilbao standings",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Barcelona 2-0 Athletic Club: Raphinha scores again as Rodri makes debut",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c69989m7ld0lt"
-        }
-      },
-      {
-        "keyword": "대천해수욕장",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "운영 끝난 해수욕장서 물놀이…순식간 30m 휩쓸려갔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826100901178?f=p"
-        }
-      },
-      {
-        "keyword": "윤상현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "윤상현 \"특위 재검표 물건너갔다…선관위 특검에 다 넘어가\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260827181600001"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-28T16:54:17.757570+09:00",
     "label": "16:54",
     "items": [
@@ -525,6 +419,112 @@
           "title": "[Oh!쎈 롤챔스] ‘도깨비 팀’ 피어엑스, 어떻게 판 뒤집었나… ‘래더’ 코치가 말하는 PO 진출 키워드 세가지",
           "source": "미주중앙일보",
           "url": "https://www.koreadaily.com/article/20260828214930360"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-29T23:48:09.699667+09:00",
+    "label": "23:48",
+    "items": [
+      {
+        "keyword": "lck",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Doran: \"With so much best-of experience, T1 felt no pressure even when down 1-2\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/25358/doran-with-so-much-best-of-experience-t1-felt-no-pressure-even-when-down-1-2"
+        }
+      },
+      {
+        "keyword": "박정우",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "경기 첫 득점 올리는 박성한",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260829_0021415589"
+        }
+      },
+      {
+        "keyword": "챔피언십",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'백승호 첫 교체 출전' 버밍엄, 렉섬 2-1로 꺾고 리그 첫 승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260829018900007"
+        }
+      },
+      {
+        "keyword": "우마르 누르마고메도프",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "레슬링 막아야 산다, 송야동의 누르마고메도프 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829105750682"
+        }
+      },
+      {
+        "keyword": "박위 논란",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[스경X이슈] 박위, 이번엔 학폭설까지…“소년원 다녀와” vs “인성 갖춘 친구”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608291027003"
+        }
+      },
+      {
+        "keyword": "이은결",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이은결, 미녀 어시스턴트 출신 아내 공개 \"한국무용 전공자\"(아형)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260829n11699"
+        }
+      },
+      {
+        "keyword": "무뇨스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[현대차 인베스터 데이①] 2030년 555만대 목표 그대로…달라진 건 '가는 길'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260826n29049"
+        }
+      },
+      {
+        "keyword": "이민영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "배우 이민영 부친상…연인 소속사 대표와 빈소 지켜",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260829_0003767982"
+        }
+      },
+      {
+        "keyword": "황석정",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "현실판 '파묘'...황석정, 1000평 농장서 '2중 관' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/27/2026082704395064000"
+        }
+      },
+      {
+        "keyword": "야구순위",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[프로야구] 중간 순위(29일)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6273566"
         }
       }
     ]
