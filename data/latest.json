@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-08-30T08:42:03.862693+09:00",
-  "label": "08:42",
+  "timestamp": "2026-08-30T11:25:18.974601+09:00",
+  "label": "11:25",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "손주",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "[날씨/XR] 전국으로 비 확대… 수도권은 5~20mm",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260829203920325"
+        "title": "\"시아버지와 매일 영통, 너무 힘들다\"…도 넘은 손주 사랑에 번호 차단",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6272904"
       }
     },
     {
-      "keyword": "thời tiết",
+      "keyword": "볼로디미르 젤렌스키",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Bão Saudel có thể mạnh trở lại khi vào Biển Đông",
-        "source": "Báo Nông nghiệp và Môi trường",
-        "url": "https://nongnghiepmoitruong.vn/bao-saudel-co-the-manh-tro-lai-khi-vao-bien-dong-d828745.html"
+        "title": "러시아, 우크라이나 키이우 인근 드론 공격···최소 37명 사망",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608292231001"
       }
     },
     {
-      "keyword": "범죄",
+      "keyword": "보조금",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "檢, '여친 살해·유기' 20대 항소심서 \"항소 기각\" 요청",
+        "title": "완주군의회 혁신연대 \"완주군의 해외연수 보조금 전수조사\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260828160447385"
+        "url": "https://v.daum.net/v/20260824142601466"
       }
     },
     {
-      "keyword": "สภาพอากาศ",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
-        "source": "Thansettakij",
-        "url": "https://www.thansettakij.com/general-news/667729"
-      }
-    },
-    {
-      "keyword": "天气",
+      "keyword": "inter miami vs montréal",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france"
+        "title": "Are Lionel Messi and Alexis Sanchez playing today, Aug. 29, in Inter Miami vs CF Montreal?",
+        "source": "Bolavip US",
+        "url": "https://bolavip.com/en/soccer/are-lionel-messi-and-alexis-sanchez-playing-today-aug-29-in-inter-miami-vs-cf-montreal"
       }
     },
     {
-      "keyword": "할인",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "스페이스x",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "이마트 '친환경 추석 선물세트' 사전예약 행사",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1150252"
-      }
-    },
-    {
-      "keyword": "상장지수 펀드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "美달러가 무너질 때 오르는 ETF가 있다?…최근 저점 대비 25% 상승 [주末머니]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6Y7PoatWaB?f=p"
-      }
-    },
-    {
-      "keyword": "김태균",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "인사말 하는 송재혁 센터장",
+        "title": "한화, 우주 콘퍼런스서 \"한국판 스페이스X 필요\" 공감대",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260828112800013"
+        "url": "https://www.yna.co.kr/view/AKR20260830020500003"
       }
     },
     {
-      "keyword": "문근영",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "손태영",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "문근영, 결혼 후 물 오른 미모 \"내 곱슬은 매직을 이겨\" [N샷]",
+        "title": "'권상우♥손태영 아들' 룩희, '태평양 어깨' 깜짝...아빠 빼닮은 훈남",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260828193623135"
+      }
+    },
+    {
+      "keyword": "총장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대교협 \"지방대 엄청나게 망할 것\"… 등록금 자율화·AI 예산 확충 요구",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260829193728458"
+        "url": "https://v.daum.net/v/20260830090227636"
       }
     },
     {
-      "keyword": "자산",
+      "keyword": "메르세데스-벤츠 s 클래스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘S-클래스의 ‘S’가 무슨 뜻인지 아십니까’⋯ 75년 헤리티지에 숨겨진 비밀",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260830500171"
+      }
+    },
+    {
+      "keyword": "살림하는 남자들",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "실업자 절반이 2030… \"자산 관리? 자산 자체가 없어\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/economy_general/2026/08/29/TFRDPAIJ6JEDXFI55XRXP27XAE/"
+        "title": "95년생 박서진, 모솔 탈출하나? 황혜선과 소개팅 후 자취방 방문까지 (살림남) - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/tv/2026/08/30/GA4TGNDDGE3GMZJQHA3TOY3DGU/"
       }
+    },
+    {
+      "keyword": "진기주",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }
