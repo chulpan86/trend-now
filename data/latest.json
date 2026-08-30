@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-08-30T11:25:18.974601+09:00",
-  "label": "11:25",
+  "timestamp": "2026-08-30T17:40:18.124173+09:00",
+  "label": "17:40",
   "items": [
     {
-      "keyword": "손주",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"시아버지와 매일 영통, 너무 힘들다\"…도 넘은 손주 사랑에 번호 차단",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6272904"
-      }
-    },
-    {
-      "keyword": "볼로디미르 젤렌스키",
+      "keyword": "자포리자",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "러시아, 우크라이나 키이우 인근 드론 공격···최소 37명 사망",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608292231001"
+        "title": "‘유럽 최대’ 우크라이나 자포리자 원전, 블랙아웃 위기… 방사능 유출 재난 우려 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/international/international_economy/2026/08/30/7W6RZPJUQZHUFMECYXCDLA74PE/"
       }
     },
     {
-      "keyword": "보조금",
+      "keyword": "살인",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "경산 유학생 살인 피해자 시신 일부 추가 수습",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608300854001"
+      }
+    },
+    {
+      "keyword": "법인세",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "완주군의회 혁신연대 \"완주군의 해외연수 보조금 전수조사\"",
+        "title": "삼성전자·SK하이닉스 법인세 11조 돌파",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260824142601466"
+        "url": "https://v.daum.net/v/20260830171354814"
       }
     },
     {
-      "keyword": "inter miami vs montréal",
+      "keyword": "텐배거",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Are Lionel Messi and Alexis Sanchez playing today, Aug. 29, in Inter Miami vs CF Montreal?",
-        "source": "Bolavip US",
-        "url": "https://bolavip.com/en/soccer/are-lionel-messi-and-alexis-sanchez-playing-today-aug-29-in-inter-miami-vs-cf-montreal"
+        "title": "'현금 두둑' 삼성바이오, 왜 3조 유증 택했나…계열사 투자 규모는 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/thebio/2026/08/30/2026083011484547273"
       }
     },
     {
-      "keyword": "스페이스x",
+      "keyword": "피겨스케이팅",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한화, 우주 콘퍼런스서 \"한국판 스페이스X 필요\" 공감대",
+        "title": "피겨 최하빈, 2차 주니어 GP 우승…쿼드러플 러츠 두 차례 성공",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260830020500003"
+        "url": "https://www.yna.co.kr/view/AKR20260829050700007"
       }
     },
     {
-      "keyword": "손태영",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "us 오픈",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'권상우♥손태영 아들' 룩희, '태평양 어깨' 깜짝...아빠 빼닮은 훈남",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20260828193623135"
+        "title": "부상 회복한 리바키나 \"몸 상태 좋다\"…2026 US오픈 출전 준비 완료",
+        "source": "테니스코리아",
+        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53562"
       }
     },
     {
-      "keyword": "총장",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "최지만",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "대교협 \"지방대 엄청나게 망할 것\"… 등록금 자율화·AI 예산 확충 요구",
+        "title": "\"아예 없애자는 게 아니다\" KBO 복귀 앞둔 67홈런 메이저리거 소신, 최지만은 '왜' 해외파 2년 유예 규정 개선 외쳤나",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260830090227636"
+        "url": "https://v.daum.net/v/20260830075210755"
       }
     },
     {
-      "keyword": "메르세데스-벤츠 s 클래스",
+      "keyword": "흡연",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘S-클래스의 ‘S’가 무슨 뜻인지 아십니까’⋯ 75년 헤리티지에 숨겨진 비밀",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260830500171"
+        "title": "“개집이 650만원?” 비판 쏟아지자… 타이베이시 '철창 흡연구역' 사흘 만에 철거",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260830000050"
       }
     },
     {
-      "keyword": "살림하는 남자들",
+      "keyword": "1박 2일",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김종민, 무슨 사연이길래…'1박 2일' 멤버들+전 스태프 응원단 변신 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/tv/2026/08/30/GQ4DSMRWMZRWEOJQMVSGCNDFME/"
+      }
+    },
+    {
+      "keyword": "하지원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "95년생 박서진, 모솔 탈출하나? 황혜선과 소개팅 후 자취방 방문까지 (살림남) - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/tv/2026/08/30/GA4TGNDDGE3GMZJQHA3TOY3DGU/"
+        "title": "데뷔 30년 차 하지원, 자기관리 비법 묻자 \"좋은 건 10년 넘게\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260829162152033?f=p"
       }
-    },
-    {
-      "keyword": "진기주",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }

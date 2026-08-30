@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-29T04:46:28.915585+09:00",
-    "label": "04:46",
-    "items": [
-      {
-        "keyword": "바이에른 대 슈투트가르트",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "日, 김민재 고집에 깜짝 놀랐다!…'EPL 챔피언' 아스널 러브콜 단칼 거절→\"놀라움 안겼다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828182437130"
-        }
-      },
-      {
-        "keyword": "정의선",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "현대차·기아, 협력사 AI 전환과 경쟁력 강화 'AI 특화 공동훈련센터' 개소",
-          "source": "다나와 자동차",
-          "url": "https://auto.danawa.com/news/?Tab=A&Work=detail&no=6051880"
-        }
-      },
-      {
-        "keyword": "전 소연",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "아이들 소연, 파격 '퇴사할게여' 기안84 내레이션 참여",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HYHsWJGh7x"
-        }
-      },
-      {
-        "keyword": "명태균",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "명태균 증언대로…\"오세훈, 나경원 이기는 조사해달라 해\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828194125301"
-        }
-      },
-      {
-        "keyword": "선우용여",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'82세' 선우용여, 700만원→58만원으로 뚝…\"원단 사서 옷 만들어\" ('순풍')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828150237638"
-        }
-      },
-      {
-        "keyword": "정명훈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "같은 날 지휘자로 무대 오른 父子…아버지는 아들이 떠올랐다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082801321"
-        }
-      },
-      {
-        "keyword": "건설",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"결국 댐이었나\"...댐 건설 반대 주민·환경단체 결집",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828205159368"
-        }
-      },
-      {
-        "keyword": "twitch",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Is Twitch Down? What We Know About ‘Major Outage’",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/27/twitch-reports-major-outages-after-gta-6-trailer-drops/"
-        }
-      },
-      {
-        "keyword": "티파니",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "뒤늦은 신혼여행?…'티파니♥' 변요한, 하와이서 포착→애정 담긴 사진 공개 [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828175903449"
-        }
-      },
-      {
-        "keyword": "서영교",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“한국에서 태어났다면 국적 관계없이 출생등록”… 헌재, 외국인 아동 권리 인정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Wi5C7mB3ay"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-29T11:36:04.523689+09:00",
     "label": "11:36",
     "items": [
@@ -836,6 +730,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-30T17:40:18.124173+09:00",
+    "label": "17:40",
+    "items": [
+      {
+        "keyword": "자포리자",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘유럽 최대’ 우크라이나 자포리자 원전, 블랙아웃 위기… 방사능 유출 재난 우려 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_economy/2026/08/30/7W6RZPJUQZHUFMECYXCDLA74PE/"
+        }
+      },
+      {
+        "keyword": "살인",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "경산 유학생 살인 피해자 시신 일부 추가 수습",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608300854001"
+        }
+      },
+      {
+        "keyword": "법인세",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "삼성전자·SK하이닉스 법인세 11조 돌파",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830171354814"
+        }
+      },
+      {
+        "keyword": "텐배거",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'현금 두둑' 삼성바이오, 왜 3조 유증 택했나…계열사 투자 규모는 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/08/30/2026083011484547273"
+        }
+      },
+      {
+        "keyword": "피겨스케이팅",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "피겨 최하빈, 2차 주니어 GP 우승…쿼드러플 러츠 두 차례 성공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260829050700007"
+        }
+      },
+      {
+        "keyword": "us 오픈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "부상 회복한 리바키나 \"몸 상태 좋다\"…2026 US오픈 출전 준비 완료",
+          "source": "테니스코리아",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53562"
+        }
+      },
+      {
+        "keyword": "최지만",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"아예 없애자는 게 아니다\" KBO 복귀 앞둔 67홈런 메이저리거 소신, 최지만은 '왜' 해외파 2년 유예 규정 개선 외쳤나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830075210755"
+        }
+      },
+      {
+        "keyword": "흡연",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“개집이 650만원?” 비판 쏟아지자… 타이베이시 '철창 흡연구역' 사흘 만에 철거",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260830000050"
+        }
+      },
+      {
+        "keyword": "1박 2일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김종민, 무슨 사연이길래…'1박 2일' 멤버들+전 스태프 응원단 변신 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/30/GQ4DSMRWMZRWEOJQMVSGCNDFME/"
+        }
+      },
+      {
+        "keyword": "하지원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "데뷔 30년 차 하지원, 자기관리 비법 묻자 \"좋은 건 10년 넘게\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829162152033?f=p"
+        }
       }
     ]
   }
