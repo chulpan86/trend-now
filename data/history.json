@@ -1,319 +1,5 @@
 [
   {
-    "timestamp": "2026-08-30T06:22:21.976987+09:00",
-    "label": "06:22",
-    "items": [
-      {
-        "keyword": "세비야 대 아틀레티코",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "이강인, 라리가 1호 도움…세비야전 바에나 선제골 어시스트",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260830_0003768068"
-        }
-      },
-      {
-        "keyword": "빙하 붕괴",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[속보]네팔서 한국대응팀 헬기 2대 띄웠다…수색 작업 본격화",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11613003"
-        }
-      },
-      {
-        "keyword": "혈압",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"혈압 낮추려면 매일 먹어라\"…영양 전문가들이 추천한 '이 과일'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tZGqFBEoNQ"
-        }
-      },
-      {
-        "keyword": "한반도",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "태풍 '사우델' 중국 남동부 상륙...9개 성·자치구에 폭우",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608281601398226"
-        }
-      },
-      {
-        "keyword": "오마르 마르무시",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'손흥민 떠나자 공격진 초토화' 토트넘, 사비우-마르무시 영입에도 만족 NO…은디아예도 관심 \"히샬리송과 스왑딜 검토\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260830n00639"
-        }
-      },
-      {
-        "keyword": "유벤투스 대 파르마",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "유벤투스 vs 파르마 프리뷰: 우승 경쟁의 뜨거운 승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-parma-diem-nong-cuoc-dua-top-dau"
-        }
-      },
-      {
-        "keyword": "pl",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Karol i Marta Nawroccy w pasujących do siebie stylówkach przechadzają się po plaży w Juracie, TRZYMAJĄC SIĘ ZA RĘCE (ZDJĘCIA)",
-          "source": "Pudelek.pl",
-          "url": "https://www.pudelek.pl/karol-i-marta-nawroccy-w-pasujacych-do-siebie-stylowkach-przechadzaja-sie-po-plazy-w-juracie-trzymajac-sie-za-rece-zdjecia-7323735906932768g"
-        }
-      },
-      {
-        "keyword": "해외축구",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "등 전체를 덮은 '사무라이 문신'…日 문화 푹 빠진 '이강인 전 동료' 바르콜라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829225237843"
-        }
-      },
-      {
-        "keyword": "fotmob",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Milan, Amorim need reinforcements: Leao’s departure must not be underestimated",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/lists/milan-amorim-need-reinforcements-leao-s-departure-must-not-be-underestimated/blt1a076a329f1ac78e"
-        }
-      },
-      {
-        "keyword": "헐크",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[헐크 이만수의 힘] \"만수야\", 귓가에 울리는 따뜻한 음성과 남은 다짐",
-          "source": "내외경제TV",
-          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024140"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-30T08:42:03.862693+09:00",
-    "label": "08:42",
-    "items": [
-      {
-        "keyword": "날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "[날씨/XR] 전국으로 비 확대… 수도권은 5~20mm",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829203920325"
-        }
-      },
-      {
-        "keyword": "thời tiết",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Bão Saudel có thể mạnh trở lại khi vào Biển Đông",
-          "source": "Báo Nông nghiệp và Môi trường",
-          "url": "https://nongnghiepmoitruong.vn/bao-saudel-co-the-manh-tro-lai-khi-vao-bien-dong-d828745.html"
-        }
-      },
-      {
-        "keyword": "범죄",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "檢, '여친 살해·유기' 20대 항소심서 \"항소 기각\" 요청",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828160447385"
-        }
-      },
-      {
-        "keyword": "สภาพอากาศ",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
-          "source": "Thansettakij",
-          "url": "https://www.thansettakij.com/general-news/667729"
-        }
-      },
-      {
-        "keyword": "天气",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france"
-        }
-      },
-      {
-        "keyword": "할인",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이마트 '친환경 추석 선물세트' 사전예약 행사",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1150252"
-        }
-      },
-      {
-        "keyword": "상장지수 펀드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "美달러가 무너질 때 오르는 ETF가 있다?…최근 저점 대비 25% 상승 [주末머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6Y7PoatWaB?f=p"
-        }
-      },
-      {
-        "keyword": "김태균",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "인사말 하는 송재혁 센터장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260828112800013"
-        }
-      },
-      {
-        "keyword": "문근영",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "문근영, 결혼 후 물 오른 미모 \"내 곱슬은 매직을 이겨\" [N샷]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829193728458"
-        }
-      },
-      {
-        "keyword": "자산",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "실업자 절반이 2030… \"자산 관리? 자산 자체가 없어\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/08/29/TFRDPAIJ6JEDXFI55XRXP27XAE/"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-08-30T11:25:18.974601+09:00",
-    "label": "11:25",
-    "items": [
-      {
-        "keyword": "손주",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"시아버지와 매일 영통, 너무 힘들다\"…도 넘은 손주 사랑에 번호 차단",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6272904"
-        }
-      },
-      {
-        "keyword": "볼로디미르 젤렌스키",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "러시아, 우크라이나 키이우 인근 드론 공격···최소 37명 사망",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608292231001"
-        }
-      },
-      {
-        "keyword": "보조금",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "완주군의회 혁신연대 \"완주군의 해외연수 보조금 전수조사\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824142601466"
-        }
-      },
-      {
-        "keyword": "inter miami vs montréal",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Are Lionel Messi and Alexis Sanchez playing today, Aug. 29, in Inter Miami vs CF Montreal?",
-          "source": "Bolavip US",
-          "url": "https://bolavip.com/en/soccer/are-lionel-messi-and-alexis-sanchez-playing-today-aug-29-in-inter-miami-vs-cf-montreal"
-        }
-      },
-      {
-        "keyword": "스페이스x",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한화, 우주 콘퍼런스서 \"한국판 스페이스X 필요\" 공감대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260830020500003"
-        }
-      },
-      {
-        "keyword": "손태영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'권상우♥손태영 아들' 룩희, '태평양 어깨' 깜짝...아빠 빼닮은 훈남",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260828193623135"
-        }
-      },
-      {
-        "keyword": "총장",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대교협 \"지방대 엄청나게 망할 것\"… 등록금 자율화·AI 예산 확충 요구",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260830090227636"
-        }
-      },
-      {
-        "keyword": "메르세데스-벤츠 s 클래스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘S-클래스의 ‘S’가 무슨 뜻인지 아십니까’⋯ 75년 헤리티지에 숨겨진 비밀",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260830500171"
-        }
-      },
-      {
-        "keyword": "살림하는 남자들",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "95년생 박서진, 모솔 탈출하나? 황혜선과 소개팅 후 자취방 방문까지 (살림남) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/30/GA4TGNDDGE3GMZJQHA3TOY3DGU/"
-        }
-      },
-      {
-        "keyword": "진기주",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-30T17:40:18.124173+09:00",
     "label": "17:40",
     "items": [
@@ -941,6 +627,100 @@
           "title": "한화, 스페인 방산업체와 K9 자주포 계약…서유럽 시장 첫 진출(종합)",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260831120642468"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-31T23:35:22.741009+09:00",
+    "label": "23:35",
+    "items": [
+      {
+        "keyword": "김민하",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "김민하, 가슴뼈가 다 보이네…앙상한 몸매 깜짝",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260831n23259"
+        }
+      },
+      {
+        "keyword": "삼성화재배 월드바둑마스터스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'219명 중 단 1명 본선행' 韓 바둑, 또 굴욕…신진서, 설욕?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260831110605357"
+        }
+      },
+      {
+        "keyword": "바르콜라",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘살라 공백’ 메우는 리버풀, PSG 바르콜라 품는다…5년 계약 전망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260831125128432"
+        }
+      },
+      {
+        "keyword": "포헨즈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "소형모듈원자로",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "600조 원 SMR(소형모듈원자로) 세계시장, 부산이 선점한다(종합)",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260901.22001009230"
+        }
+      },
+      {
+        "keyword": "persib bandung vs manila digger",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "토신",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "리노베이션",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "LPC To Review Revised Renovation Plans For 80 Horatio Street In West Village, Manhattan",
+          "source": "New York YIMBY",
+          "url": "https://newyorkyimby.com/2026/08/lpc-to-review-revised-renovation-plans-for-80-horatio-street-in-west-village-manhattan.html"
+        }
+      },
+      {
+        "keyword": "마커스 래시퍼드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"그의 합류는 새로운 선수를 영입한 것과 같다\"…맨체스터 유나이티드 사령탑 극찬, 래시포드 잔류 청신호",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260831n32384"
+        }
+      },
+      {
+        "keyword": "진에어",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "부울경 NGO \"에어부산 합병, 지역거점 항공사 확보 전략 세워야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260831081600051"
         }
       }
     ]
