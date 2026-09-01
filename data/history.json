@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-08-30T23:05:01.948737+09:00",
-    "label": "23:05",
-    "items": [
-      {
-        "keyword": "전고체 전지",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'꿈의 배터리' 전고체 양산 기대 … 기관 앞다퉈 삼성SDI 폭풍매수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260830165108296"
-        }
-      },
-      {
-        "keyword": "미인 대회",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "미스코리아 '외모 품평' 시끌…작년 眞 정연우 \"무례하고 가치 없다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6570063"
-        }
-      },
-      {
-        "keyword": "제주스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "로드리, 바르샤 데뷔전서 승리…\"내가 뛰고 싶었던 팀에 왔다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BTIDKsb0ZI?f=p"
-        }
-      },
-      {
-        "keyword": "chelsea vs brighton",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Premier League LIVE: Live text, radio & score updates as it happens from across the Premier League",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq563p0xvgxt"
-        }
-      },
-      {
-        "keyword": "가상자산",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "코인 묻어두고 매달 100억원 보상…122만명 몰린 ‘스테이킹’ 뭐길래",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2m7hWpae5k"
-        }
-      },
-      {
-        "keyword": "เชลซี พบ ไบรตัน",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "พรีวิวและคาดการณ์ผลการแข่งขันระหว่างเชลซีกับไบรท์ตัน: \"นกนางนวล\" จะโบยบินที่สแตมฟอร์ดบริดจ์ได้หรือไม่?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-du-doan-tran-dau-chelsea-vs-brighton-chim-mong-bien-tung-canh-tai-stamford-bridge"
-        }
-      },
-      {
-        "keyword": "에밀리아노 마르티네스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[공식발표] '월드컵 위너' 마르티네스, 첼시 골문 지킨다! '日 골키퍼'에게 뒤 맡기고 빌라와 작별...\"너무 쉬운 결정이었다\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/08/30/GE3DIYZWMFRGIY3FGNSWMYRYHA/"
-        }
-      },
-      {
-        "keyword": "여자 배구",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'한국 깔보던' 日 여자배구 초비상! 28년 만의 올림픽 출전 좌절? 벌벌 떤다…\"일단 3위라도 하자\" 아시아에서도 고개 숙였다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260830123637022"
-        }
-      },
-      {
-        "keyword": "microduck",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Hugging Face Unveils $399 Microduck Robot to Democratize AI",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/08/28/ODKRSHPZ5FE7XP3V4G7FS4YXSI/"
-        }
-      },
-      {
-        "keyword": "가덕도신공항",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "정부, “가덕도신공항 추진 지역균형발전 위해 타당하다” 결론",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260830.99099008653"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-31T03:15:04.096225+09:00",
     "label": "03:15",
     "items": [
@@ -823,6 +717,112 @@
           "title": "헌재 “단체교섭 거부한 사업주 형사처벌하는 노조법은 합헌”",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202608301200011"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T14:51:32.235851+09:00",
+    "label": "14:51",
+    "items": [
+      {
+        "keyword": "고우석",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "고우석, 3년 만에 LG 복귀…1일 오후 귀국해 계약 예정(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901101900465"
+        }
+      },
+      {
+        "keyword": "이남철",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이남철 경북 고령군수 신병 치료 중 별세…향년 65세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901085405764"
+        }
+      },
+      {
+        "keyword": "전기 요금",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "삼성전자, '스마트가전 캐시백' 시범사업…스마트싱스로 신청",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901028300003"
+        }
+      },
+      {
+        "keyword": "kbo 리그 월간 mvp",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[오피셜] 두산·삼성→2명, KIA·롯데·키움·SSG→각 1명 '총 8명' KBO 8월 월간 MVP 후보 공식 발표",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901111445072"
+        }
+      },
+      {
+        "keyword": "김주애",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "국정원 \"北 김주애 사실상 후계자 내정…북미 정상회담 언제든 가능\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6276140"
+        }
+      },
+      {
+        "keyword": "웃으면 복이와요",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'웃으면 복이와요' 원로 코미디언 유성 별세…향년 88세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fl5vdC2uY5"
+        }
+      },
+      {
+        "keyword": "스테이트 오브 플레이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "State of Play, 그리고 State of Play Japan이 9월 3일 돌아옵니다!",
+          "source": "PlayStation",
+          "url": "https://blog.ko.playstation.com/2026/09/01/20260901-sop/"
+        }
+      },
+      {
+        "keyword": "리쥬란",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[단독]연 수천억 팔리는 리쥬란, 10년전 3상 논문 철회, 그 배경은",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=02128726645575856"
+        }
+      },
+      {
+        "keyword": "진술조서",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"오늘 돈 줘, 다 '불기소'해버릴 테니까\"..제주실종사건, 뇌물과 맞바꾼 수사종결권 [PD수첩]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uivtkHRfTG"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 북",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "비싸진 노트북에 부담 커지자…삼성·LG, 100만원대 실속형 '출격'[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901104907425"
         }
       }
     ]
