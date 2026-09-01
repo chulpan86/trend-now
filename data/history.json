@@ -724,5 +724,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-02T06:38:01.734479+09:00",
+    "label": "06:38",
+    "items": [
+      {
+        "keyword": "송혜교",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "엄정화, 이탈리아 현지 핫가이와 건배..직접 ‘와인’ 제작 눈길",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/02/HFRDEYJXGVSTCNZWHEZTSZJRGM/"
+        }
+      },
+      {
+        "keyword": "로봇",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "예약 몰린 AI오리로봇, K관절 달았다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/02/2026090119365389652"
+        }
+      },
+      {
+        "keyword": "김수현",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "논란 벗은 김수현, 국내 활동 박차…'TMA' 이어 'AAA' 시상식 연속 참석",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202609010951247462"
+        }
+      },
+      {
+        "keyword": "정오 의 희망곡",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“제2 인생 위해”…김신영, 14년 진행 ‘정오의 희망곡’ 잠시 떠난다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901233437415"
+        }
+      },
+      {
+        "keyword": "대한민국 국세청",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "국세청, 조세회피 잡아내는 '글로벌최저한세' 제도 태국에 수출",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=348783"
+        }
+      },
+      {
+        "keyword": "정준하",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "정준하, 돌연 지상렬 '디스'…\"어느 장례식 가도 술로 진상\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260901_0003772202"
+        }
+      },
+      {
+        "keyword": "노인 돌봄",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"독거노인 돌봄 실천\"…팔걷고 나선 예비 약사들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260831_0003769769"
+        }
+      },
+      {
+        "keyword": "3기 신도시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "반도건설, ‘계양신도시 카이브 유보라’ 10월 분양",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901111259967"
+        }
+      },
+      {
+        "keyword": "군수산업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "K-방산 빅4, '글로벌 톱100' 진입…한화 16위로 韓기업 중 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qlXacPlwG1"
+        }
+      },
+      {
+        "keyword": "중위소득",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "내년 공적주택 21.8만 호 공급 …청년월세 지원 대폭 확대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971011&pWise=sub&pWiseSub=J2"
+        }
+      }
+    ]
   }
 ]

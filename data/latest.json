@@ -1,59 +1,39 @@
 {
-  "timestamp": "2026-09-02T03:59:25.916764+09:00",
-  "label": "03:59",
+  "timestamp": "2026-09-02T06:38:01.734479+09:00",
+  "label": "06:38",
   "items": [
     {
-      "keyword": "파기환송",
+      "keyword": "송혜교",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260901121307568"
+        "title": "엄정화, 이탈리아 현지 핫가이와 건배..직접 ‘와인’ 제작 눈길",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/09/02/HFRDEYJXGVSTCNZWHEZTSZJRGM/"
       }
     },
     {
-      "keyword": "기아 쏘렌토",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "로봇",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "기아 대표 3종 ‘블랙 에디션’ 출시",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20260827/134556798/1"
+        "title": "예약 몰린 AI오리로봇, K관절 달았다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/09/02/2026090119365389652"
       }
     },
     {
-      "keyword": "이민정",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김수현",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "'MJ' 이민정 \"중국에서 골프는 처음\"…3대 가족 해외여행",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260901183950789"
+        "title": "논란 벗은 김수현, 국내 활동 박차…'TMA' 이어 'AAA' 시상식 연속 참석",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202609010951247462"
       }
     },
     {
-      "keyword": "중대범죄 수사청",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "중수청 간다던 검찰인력 615명이나 철회…공소청 직제 영향 관측(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260901180053511"
-      }
-    },
-    {
-      "keyword": "케이",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260901191100004"
-      }
-    },
-    {
-      "keyword": "정오의 희망곡",
+      "keyword": "정오 의 희망곡",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
@@ -63,43 +43,63 @@
       }
     },
     {
-      "keyword": "jyp 엔터테인먼트",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "대한민국 국세청",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "중국 엔터, 쯔위 영입해 '하나의 중국' 띄우나 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090109060586043"
+        "title": "국세청, 조세회피 잡아내는 '글로벌최저한세' 제도 태국에 수출",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=348783"
       }
     },
     {
-      "keyword": "박신혜",
+      "keyword": "정준하",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "정준하, 돌연 지상렬 '디스'…\"어느 장례식 가도 술로 진상\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260901_0003772202"
+      }
+    },
+    {
+      "keyword": "노인 돌봄",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'둘째 임신' 박신혜, 임신부 맞아? D라인 실종 '美친 미모' [N샷]",
+        "title": "\"독거노인 돌봄 실천\"…팔걷고 나선 예비 약사들",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260831_0003769769"
+      }
+    },
+    {
+      "keyword": "3기 신도시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "반도건설, ‘계양신도시 카이브 유보라’ 10월 분양",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260901171752416"
+        "url": "https://v.daum.net/v/20260901111259967"
       }
     },
     {
-      "keyword": "공무원 노동조합",
+      "keyword": "군수산업",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "장흥군공무원노조·의회, ‘존중’으로 갈등 막고 협력문화 만든다",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260901501197"
+        "title": "K-방산 빅4, '글로벌 톱100' 진입…한화 16위로 韓기업 중 1위",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qlXacPlwG1"
       }
     },
     {
-      "keyword": "유튜브 광고",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "중위소득",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "금융상품 광고 심사 깐깐해진다…온라인 '뒷광고' 점검 강화",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260901113300002"
+        "title": "내년 공적주택 21.8만 호 공급 …청년월세 지원 대폭 확대",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971011&pWise=sub&pWiseSub=J2"
       }
     }
   ]
