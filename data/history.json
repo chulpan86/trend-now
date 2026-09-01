@@ -830,5 +830,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-02T08:40:28.963971+09:00",
+    "label": "08:40",
+    "items": [
+      {
+        "keyword": "보조금",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[이진영 칼럼]용혜인 논란이 덮은 김승원 인사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260901/134586846/2"
+        }
+      },
+      {
+        "keyword": "노화",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“확실히 노화 막는다”… 의사 극찬한 ‘젊어지는 음식’, 뭘까?",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/01/2026090102208.html"
+        }
+      },
+      {
+        "keyword": "윤후",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'윤민수 아들' 윤후, 카투사 최종 불합격…\"응원해 주셔서 감사\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090119375011100"
+        }
+      },
+      {
+        "keyword": "코인니스 - 빠르고 정확한 코인 투자 뉴스, 커뮤니티",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "속보 | BTC $8만 일시 회복에도…\"지금은 못 사, 눌림목 대기\" 41.3%",
+          "source": "CoinNess",
+          "url": "https://coinness.com/news/1167142/quote"
+        }
+      },
+      {
+        "keyword": "오타니 쇼헤이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"오타니 마운드 복귀 기대 접어라\" ERA 1.79인데 왜?…두 달째 못 던지고 타율도 .133 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/02/202609020742777306O"
+        }
+      },
+      {
+        "keyword": "경북일보",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "포항사랑카드 잔액 부족해도 결제…3일부터 자동충전",
+          "source": "경북일보",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082869"
+        }
+      },
+      {
+        "keyword": "최지만",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘35살 신인’ 최지만, “가고 싶은 팀은 있다. 8년은 더”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901220642376"
+        }
+      },
+      {
+        "keyword": "엔조",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[오피셜] 맨시티, 첼시로부터 엔조 페르난데스 영입 완료",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/enzo-fernandez-signs-for-city-63923900"
+        }
+      },
+      {
+        "keyword": "골키퍼",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"10대 GK 역대 최고액\" 리버풀 미쳤다! 18세 골키퍼에게 555억 투자…201cm '괴물 유망주' 품는다",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260831n32478"
+        }
+      },
+      {
+        "keyword": "화장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "30년 화장 안 지운 아내 '충격'…\"클렌징은 식용유로, 피부도 매끈\"('결혼지옥')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901101640311"
+        }
+      }
+    ]
   }
 ]
