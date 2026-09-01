@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-08-31T09:01:16.333575+09:00",
-    "label": "09:01",
-    "items": [
-      {
-        "keyword": "국민연금공단",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "노령연금 신청 안 해도 자동 지급…세금 공제도 알아서 해준다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8649499"
-        }
-      },
-      {
-        "keyword": "창원시",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "엄태웅",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘엄태웅♥’ 윤혜진, 이러니까 뼈말라지…탄수화물 ‘제로’ 충격적인 식단",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260830172437014"
-        }
-      },
-      {
-        "keyword": "로보택시",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "1억km 달린 中 택시의 침투…'한국시장 다 먹힌다' 공포 확산",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026083020281"
-        }
-      },
-      {
-        "keyword": "보증금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "청주시, 전세보증금반환보증 보증료 지원",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8649879"
-        }
-      },
-      {
-        "keyword": "목진석",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한국 5명·중국 25명, 통합예선 결승 진출",
-          "source": "사이버오로",
-          "url": "https://www.cyberoro.com/news/news_view.oro?num=532754"
-        }
-      },
-      {
-        "keyword": "연금 개혁",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[김승련 칼럼]기초연금 개혁, 지지율 때문에 후퇴하나",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260830/134572821/2"
-        }
-      },
-      {
-        "keyword": "경기도교육감",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "용인교육지원청, 퇴직교원 95명 새 출발 응원",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1330730"
-        }
-      },
-      {
-        "keyword": "as 모나코 대 마르세유",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "모나코 vs 마르세유 예측: 치열한 경쟁이 펼쳐질 최고 리그전",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-monaco-vs-marseille-diem-nong-cuoc-dua-top-dau"
-        }
-      },
-      {
-        "keyword": "이관희",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이관희♥유시은, 공개 열애 후 방콕호텔에서 애정 행각",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/bj2ZYnXSw1?f=p"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-31T15:24:16.057295+09:00",
     "label": "15:24",
     "items": [
@@ -717,6 +615,112 @@
           "title": "“야구 그만하고 싶었지만 어떻게든 버텼다”…구속·자신감 UP 이승민의 투구 전환점 [SD 베이스볼 피플]",
           "source": "스포츠동아",
           "url": "https://sports.donga.com/sports/article/all/20260901/134580182/1"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-02T00:17:58.674483+09:00",
+    "label": "00:17",
+    "items": [
+      {
+        "keyword": "중대범죄 수사청",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "중수청 간다던 검찰인력 615명이나 철회…공소청 직제 영향 관측(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901174152530"
+        }
+      },
+      {
+        "keyword": "조국",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901121307568"
+        }
+      },
+      {
+        "keyword": "정오의 희망곡",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“제2 인생 위해”…김신영, 14년 진행 ‘정오의 희망곡’ 잠시 떠난다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901233437415"
+        }
+      },
+      {
+        "keyword": "회계사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "올해 공인회계사 시험 1천150명 최종 합격",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901134700002"
+        }
+      },
+      {
+        "keyword": "케이",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901191100004"
+        }
+      },
+      {
+        "keyword": "공무원 노동조합",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "장흥군공무원노조·의회, ‘존중’으로 갈등 막고 협력문화 만든다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260901501197"
+        }
+      },
+      {
+        "keyword": "강민구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김민석, '정청래 측 개입 정황 주장' 강민구 윤리감찰단 부단장 해임",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6848927_36911.html"
+        }
+      },
+      {
+        "keyword": "미국 중간선거",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "3선한다더니 갑자기 ‘퇴임 후’ 언급하는 트럼프… 레임덕 예감? [오늘의world+]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901105610893"
+        }
+      },
+      {
+        "keyword": "유튜브 광고",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“지금이 바겐세일” “상장 후는 늦습니다”…이런 광고 앞으론 금지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901140213337"
+        }
+      },
+      {
+        "keyword": "k-패스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "대중교통 소득공제 없어진다…내년부터 K-패스 환급으로 전환",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901114550988?f=p"
         }
       }
     ]
