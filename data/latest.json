@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-09-02T00:17:58.674483+09:00",
-  "label": "00:17",
+  "timestamp": "2026-09-02T03:59:25.916764+09:00",
+  "label": "03:59",
   "items": [
     {
-      "keyword": "중대범죄 수사청",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "중수청 간다던 검찰인력 615명이나 철회…공소청 직제 영향 관측(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260901174152530"
-      }
-    },
-    {
-      "keyword": "조국",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "파기환송",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”",
         "source": "Daum",
@@ -23,9 +13,49 @@
       }
     },
     {
+      "keyword": "기아 쏘렌토",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "기아 대표 3종 ‘블랙 에디션’ 출시",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260827/134556798/1"
+      }
+    },
+    {
+      "keyword": "이민정",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'MJ' 이민정 \"중국에서 골프는 처음\"…3대 가족 해외여행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901183950789"
+      }
+    },
+    {
+      "keyword": "중대범죄 수사청",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "중수청 간다던 검찰인력 615명이나 철회…공소청 직제 영향 관측(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901180053511"
+      }
+    },
+    {
+      "keyword": "케이",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260901191100004"
+      }
+    },
+    {
       "keyword": "정오의 희망곡",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "“제2 인생 위해”…김신영, 14년 진행 ‘정오의 희망곡’ 잠시 떠난다",
         "source": "Daum",
@@ -33,23 +63,23 @@
       }
     },
     {
-      "keyword": "회계사",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "올해 공인회계사 시험 1천150명 최종 합격",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260901134700002"
-      }
-    },
-    {
-      "keyword": "케이",
+      "keyword": "jyp 엔터테인먼트",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260901191100004"
+        "title": "중국 엔터, 쯔위 영입해 '하나의 중국' 띄우나 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090109060586043"
+      }
+    },
+    {
+      "keyword": "박신혜",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'둘째 임신' 박신혜, 임신부 맞아? D라인 실종 '美친 미모' [N샷]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901171752416"
       }
     },
     {
@@ -63,43 +93,13 @@
       }
     },
     {
-      "keyword": "강민구",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김민석, '정청래 측 개입 정황 주장' 강민구 윤리감찰단 부단장 해임",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6848927_36911.html"
-      }
-    },
-    {
-      "keyword": "미국 중간선거",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "3선한다더니 갑자기 ‘퇴임 후’ 언급하는 트럼프… 레임덕 예감? [오늘의world+]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260901105610893"
-      }
-    },
-    {
       "keyword": "유튜브 광고",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“지금이 바겐세일” “상장 후는 늦습니다”…이런 광고 앞으론 금지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260901140213337"
-      }
-    },
-    {
-      "keyword": "k-패스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "대중교통 소득공제 없어진다…내년부터 K-패스 환급으로 전환",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260901114550988?f=p"
+        "title": "금융상품 광고 심사 깐깐해진다…온라인 '뒷광고' 점검 강화",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260901113300002"
       }
     }
   ]
