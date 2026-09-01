@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-01T05:28:29.350900+09:00",
-  "label": "05:28",
+  "timestamp": "2026-09-01T09:11:37.440285+09:00",
+  "label": "09:11",
   "items": [
     {
-      "keyword": "바르셀로나 대 라요",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "김병지",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "바르셀로나 vs 라요 바예카노 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까요?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-rayo-vallecano-chu-nha-noi-dai-mach-thang-hoa"
+        "title": "\"따님은 어쩌다 캐나다 유학을?\" 김병지 사생활 저격→박문성 답했다...\"제 아이 생활이 무슨 관계인가\" 논점 흐리기 지적",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901045010903"
       }
     },
     {
-      "keyword": "애스턴 빌라 대 아스널",
+      "keyword": "연애 전쟁",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "아스톤 빌라 vs 아스널 프리뷰: 우승 경쟁의 뜨거운 승부",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-aston-villa-vs-arsenal-diem-nong-cuoc-dua-top-dau"
+        "title": "이효리, '워터밤' 제안 단칼에 거절…\"관객으로 즐길 것\" ('연애전쟁')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260831235637297"
       }
     },
     {
-      "keyword": "샌프란시스코 자이언츠",
+      "keyword": "볼보 es90",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "CJ제일제당, 미국 프로스포츠 경기장서 '비비고 김' 알린다",
+        "title": "7천만원대 세단부터 3억짜리 SUV까지…대형 전기차 하반기 격돌",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260831144758"
+      }
+    },
+    {
+      "keyword": "모두의 카드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "서울시 '기후동행패스' 출시… '39세' 청년할인 누리세요",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/article/2026090108464806401"
+      }
+    },
+    {
+      "keyword": "댐",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'홍수 방어' 댐 5개 재추진...\"메가프로젝트도 고려\"",
+        "source": "YTN 사이언스",
+        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202608311105010855"
+      }
+    },
+    {
+      "keyword": "르윈 디아즈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "민주당tv",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김민석, 민주당TV '민티07' 첫방 출연…\"공부하는 정치로\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901081732617"
+      }
+    },
+    {
+      "keyword": "성별임금격차",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "월급 500의 꿈, 여성에겐 더 멀었다···10명 중 7명은 200만원",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608311400001"
+      }
+    },
+    {
+      "keyword": "대한민국 u-20 축구 국가대표팀",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "U-19 축구 대표팀, U-20 아시안컵 예선 1차전서 레바논 3-2 격파",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260831036200030"
+        "url": "https://www.yna.co.kr/view/AKR20260831176700007"
       }
     },
     {
-      "keyword": "징검다리",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "징검다리 건너다 사망‥1시간 폭우에 '쑥대밭'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260831195213108"
-      }
-    },
-    {
-      "keyword": "신용회복위원회",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“갚은 내가 바보냐”…코로나 빚 6조 탕감, 논란 커지는 이유 [잇슈 머니]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8649970"
-      }
-    },
-    {
-      "keyword": "카를로스 알카라스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "알카라스, US오픈 1라운드부터 '난적' 사피울린과 격돌…4개월 만의 단식 복귀전",
-        "source": "테니스코리아",
-        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53550"
-      }
-    },
-    {
-      "keyword": "fc 바르셀로나",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘HERE WE GO 나왔다’ 결국 이강인의 아틀레티코 마드리드와 협상조차 못 한 바르셀로나, 제수스로 선회 ‘이적료 최소 160억·2+1년 계약’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/u7GbMo5Tni"
-      }
-    },
-    {
-      "keyword": "latest iphone rumors",
+      "keyword": "단체교섭",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "iPhone 18 Pro pre-orders might start later than usual this year",
-        "source": "Macworld",
-        "url": "https://www.macworld.com/article/3222711/iphone-18-pro-pre-orders-later-than-usual.html"
-      }
-    },
-    {
-      "keyword": "레체 대 로마",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "레체 대 로마 경기 승리 배당률: 옵타 데이터에 따르면 원정팀인 로마의 승리가 더 유리합니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/ty-le-thang-lecce-vs-roma-du-lieu-opta-nghieng-ve-doi-khach"
-      }
-    },
-    {
-      "keyword": "donald trump",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "White House announces nearly a dozen new drug pricing deals with pharmaceutical companies",
-        "source": "MS NOW",
-        "url": "https://www.ms.now/news/drug-pricing-agreements-trump-white-house-medicaid"
+        "title": "헌재 “단체교섭 거부한 사업주 형사처벌하는 노조법은 합헌”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608301200011"
       }
     }
   ]
