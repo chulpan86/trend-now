@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-02T15:49:59.021618+09:00",
-  "label": "15:49",
+  "timestamp": "2026-09-02T20:51:29.286324+09:00",
+  "label": "20:51",
   "items": [
     {
-      "keyword": "지젤 실바",
+      "keyword": "과일",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "디펜딩 챔피언 GS칼텍스 \"새 시즌에도 봄 배구\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260901024300038"
-      }
-    },
-    {
-      "keyword": "해병대 제2사단",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독] 외래진료 나간 해병대원, 무단이탈 나흘 만에 자수…군 당국 경위 조사",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12316246"
-      }
-    },
-    {
-      "keyword": "hd현대",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "HD현대중공업, 액화 이산화탄소 운반선 기술로 'IR52 장영실상' - 머니투데이",
+        "title": "\"자극적 냄새에 인기 없는 줄\"…올해만 1751톤 수입된 '이 과일' - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/09/02/2026090213355277549"
+        "url": "https://www.mt.co.kr/living/2026/09/02/2026090208532918546"
       }
     },
     {
-      "keyword": "양경숙",
+      "keyword": "용 혜인 남편",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“대동강 맥주 팔아 北에 마스크” 33억 사기…양경숙, 징역 5년 확정",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260902/134588543/2"
+        "title": "‘좌우 모두 외면’ 용혜인, 여당서 자진사퇴론···“청문회 전에 본인 결단이 낫다”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609021855001"
       }
     },
     {
-      "keyword": "교과",
+      "keyword": "이순철",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[대입 내비게이션] 선발 확대와 대학별 세부 전형 변화까지 살펴야",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260902053434654"
+        "title": "\"도루왕 누가 알아주나\"…이순철, 40홈런 앞둔 김도영에게 간곡한 부탁 \"야구 선배 말 좀 들어달라\"",
+        "source": "네이트",
+        "url": "https://m.news.nate.com/view/20260902n21226?mid=s01&list=recent&cpcd="
       }
     },
     {
-      "keyword": "기쁜 우리 좋은 날",
+      "keyword": "땅",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "정유경",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
-        "title": "[단독] 정용진·정유경 신세계 남매, 코엑스 별마당 도서관 '프리즈 서울' 갈라 디너 동행",
-        "source": "뉴데일리",
-        "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/02/2026090200043.html"
-      }
-    },
-    {
-      "keyword": "급여",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“삼전·닉스가 아니네”···‘1인당 1억8400만원’ 평균급여 1위 기업은 어디?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260902110439834"
-      }
-    },
-    {
-      "keyword": "이규혁",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이규혁♥손담비, 드디어 새집..명품 로고 쿠션+딸 소파까지 \"완벽\"",
+        "title": "[단독] 집 지을 땅 없자 17년 묵힌 카드 꺼냈다… LH, 수도권 땅 첫 매입 - 조선비즈",
         "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/01/GE3WGZLBMNTGENZSG43GKNRYGA/"
+        "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/02/JL6UN4IFDBAJLCTSVS3BWXI4EM/"
       }
     },
     {
-      "keyword": "압수수색",
+      "keyword": "샤인머스캣",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"돈 된다\" 너도나도 심더니…'귀족 과일' 샤인머스캣의 추락 [박상경의 영수증 리뷰]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202609029405g"
+      }
+    },
+    {
+      "keyword": "가상자산",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "최근 3개월 가상자산거래소 중 투자자 관심도 1위 '업비트'…2위 빗썸 '바짝 추격'",
+        "source": "빅데이터뉴스",
+        "url": "https://www.thebigdata.co.kr/view.php?ud=202609020805548994d0a8833aad_23"
+      }
+    },
+    {
+      "keyword": "이창민",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "경찰·고용부, 경기광주 쿠팡 물류센터 끼임사고 관련 압수수색",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260902039600061"
+        "title": "2AM 이창민 \"'무명전설'로 트로트 도전…경연하며 9㎏ 빠져\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/broadcast-tv/6276970"
+      }
+    },
+    {
+      "keyword": "메가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "800조 메가 프로젝트와 '수축사회'의 생존 경쟁 [소셜 코리아]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260902151259591"
+      }
+    },
+    {
+      "keyword": "알 테오 젠",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "노바티스와 4.4조 계약…알테오젠, ‘정맥→피하주사’ 기술 뭐길래",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260902153607025"
+      }
+    },
+    {
+      "keyword": "sk스퀘어",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "SK스퀘어, 주주환원 체급이 달라진다...목표가 150만원 By 알파경제 alphabiz",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-2081519"
       }
     }
   ]
