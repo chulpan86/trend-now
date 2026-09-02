@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-03T04:05:06.617283+09:00",
-  "label": "04:05",
+  "timestamp": "2026-09-03T07:08:42.098481+09:00",
+  "label": "07:08",
   "items": [
     {
-      "keyword": "vfl 오스나브뤼크 대 바이에른",
+      "keyword": "농지",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "농지 조사하던 50대 트럭에 치여 사망…농식품부, 전국조사 중지(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260902148251061"
+      }
+    },
+    {
+      "keyword": "이수현",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "‘당뇨 전 단계’에서 30kg 뺀 이수현, 청바지도 커 보이는 근황 “여름 잘 가!” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/03/G42DKZBVGRQTEMTEMU2TENJXGE/"
+      }
+    },
+    {
+      "keyword": "나 혼자 산다",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Preview: VfL Osnabrück vs. FC Bayern, DFB Cup first round",
-        "source": "FC Bayern",
-        "url": "https://fcbayern.com/en/news/matchpreviews/2026/09/preview-vfl-osnabrueck-vs.-fc-bayern-dfb-cup-first-round"
-      }
-    },
-    {
-      "keyword": "여자 야구",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘야구여왕2’ 국대 출신 9명 보유 강팀과 붙는다…선발 ‘1+1’ 파격 기용",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202609021612003"
-      }
-    },
-    {
-      "keyword": "리사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "리사, 교토서 찾은 여유…고혹적인 드레스 자태에 \"현실 공주\"",
+        "title": "\"또 짜고치는 고스톱인가\"…'나혼산' 김신영 계획여행 발표에 싸늘한 반응[MD이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/xtYopeWITO?f=p"
+        "url": "https://v.daum.net/v/20260902151843853"
       }
     },
     {
-      "keyword": "투표용지",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "김종민",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "헌재, ‘6·3 지선 투표용지 부족’ 헌법소원 각하…4건 모두 종결",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260902/134594491/1"
-      }
-    },
-    {
-      "keyword": "박재홍",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "운동하다 쓰러진 박재홍 아나운서…“뇌경색 진단, 생각보다 심각했다”",
-        "source": "주간조선",
-        "url": "http://weekly.chosun.com/news/articleView.html?idxno=54898"
-      }
-    },
-    {
-      "keyword": "아시안 게임 야구",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "아시안게임 야구대표팀 프로필 사진 논란(?)",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2620916"
-      }
-    },
-    {
-      "keyword": "보물",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"마당 흙 파다 덜컥\"… 덴마크 집주인, 18.5kg 은 보물 싹쓸이",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260902141815"
-      }
-    },
-    {
-      "keyword": "카사마츠 쇼",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'모범택시3' 배우, 공항서 40분 꾸몄는데 팬 0명 굴욕…\"한국 인기 거짓\" [라스]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260901n32610"
-      }
-    },
-    {
-      "keyword": "mbk 파트너스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "고려아연, 임시주총 앞두고 영풍·MBK 측 형사고소 예고",
+        "title": "'슈돌' 김종민 \"영탁, 결혼식 축의금 많이 내고 가\"…남다른 의리",
         "source": "Daum",
-        "url": "https://v.daum.net/v/bb6729rNTX"
+        "url": "https://v.daum.net/v/20260902205328424"
       }
     },
     {
-      "keyword": "포항시장",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "기상",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "경찰, 박용선 포항시장 선거법 위반 혐의 검찰 재송치",
+        "title": "동해안 중심으로 비 내리고 곳곳 소나기…수도권은 맑음",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260902161900053"
+        "url": "https://www.yna.co.kr/view/AKR20260903007100034"
+      }
+    },
+    {
+      "keyword": "새마을금고",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "직원 등 명의로 110억 차명 예금 새마을금고 이사장 경찰 수사",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260902177900004"
+      }
+    },
+    {
+      "keyword": "충남함",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260902179800071"
+      }
+    },
+    {
+      "keyword": "트레이드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'가을 야구' 못 뛰는데도…고우석, LG 복귀만으로 큰 힘",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260902132200007"
+      }
+    },
+    {
+      "keyword": "가스 터빈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "머스크 “10년 후 휴머노이드 10억대…인류 생산성 추월”",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20086443"
+      }
+    },
+    {
+      "keyword": "롯데마트",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "어묵탕 담았더니 주방용품 따라오네…롯데마트·슈퍼, 단독 상품 출시",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260901_0003771911"
       }
     }
   ]
