@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-08-31T23:35:22.741009+09:00",
-    "label": "23:35",
-    "items": [
-      {
-        "keyword": "김민하",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "김민하, 가슴뼈가 다 보이네…앙상한 몸매 깜짝",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260831n23259"
-        }
-      },
-      {
-        "keyword": "삼성화재배 월드바둑마스터스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'219명 중 단 1명 본선행' 韓 바둑, 또 굴욕…신진서, 설욕?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260831110605357"
-        }
-      },
-      {
-        "keyword": "바르콜라",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘살라 공백’ 메우는 리버풀, PSG 바르콜라 품는다…5년 계약 전망",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260831125128432"
-        }
-      },
-      {
-        "keyword": "포헨즈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "소형모듈원자로",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "600조 원 SMR(소형모듈원자로) 세계시장, 부산이 선점한다(종합)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260901.22001009230"
-        }
-      },
-      {
-        "keyword": "persib bandung vs manila digger",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "토신",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "리노베이션",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "LPC To Review Revised Renovation Plans For 80 Horatio Street In West Village, Manhattan",
-          "source": "New York YIMBY",
-          "url": "https://newyorkyimby.com/2026/08/lpc-to-review-revised-renovation-plans-for-80-horatio-street-in-west-village-manhattan.html"
-        }
-      },
-      {
-        "keyword": "마커스 래시퍼드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"그의 합류는 새로운 선수를 영입한 것과 같다\"…맨체스터 유나이티드 사령탑 극찬, 래시포드 잔류 청신호",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260831n32384"
-        }
-      },
-      {
-        "keyword": "진에어",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "부울경 NGO \"에어부산 합병, 지역거점 항공사 확보 전략 세워야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260831081600051"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-01T05:28:29.350900+09:00",
     "label": "05:28",
     "items": [
@@ -1035,6 +941,108 @@
           "title": "MLB 컵스, 밀워키전 9홈런 폭발…역대 한 경기 최다 공동 2위",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260901151100007"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-02T15:49:59.021618+09:00",
+    "label": "15:49",
+    "items": [
+      {
+        "keyword": "지젤 실바",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "디펜딩 챔피언 GS칼텍스 \"새 시즌에도 봄 배구\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260901024300038"
+        }
+      },
+      {
+        "keyword": "해병대 제2사단",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 외래진료 나간 해병대원, 무단이탈 나흘 만에 자수…군 당국 경위 조사",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12316246"
+        }
+      },
+      {
+        "keyword": "hd현대",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "HD현대중공업, 액화 이산화탄소 운반선 기술로 'IR52 장영실상' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/02/2026090213355277549"
+        }
+      },
+      {
+        "keyword": "양경숙",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“대동강 맥주 팔아 北에 마스크” 33억 사기…양경숙, 징역 5년 확정",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260902/134588543/2"
+        }
+      },
+      {
+        "keyword": "교과",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[대입 내비게이션] 선발 확대와 대학별 세부 전형 변화까지 살펴야",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902053434654"
+        }
+      },
+      {
+        "keyword": "기쁜 우리 좋은 날",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "정유경",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 정용진·정유경 신세계 남매, 코엑스 별마당 도서관 '프리즈 서울' 갈라 디너 동행",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/02/2026090200043.html"
+        }
+      },
+      {
+        "keyword": "급여",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“삼전·닉스가 아니네”···‘1인당 1억8400만원’ 평균급여 1위 기업은 어디?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902110439834"
+        }
+      },
+      {
+        "keyword": "이규혁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이규혁♥손담비, 드디어 새집..명품 로고 쿠션+딸 소파까지 \"완벽\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/01/GE3WGZLBMNTGENZSG43GKNRYGA/"
+        }
+      },
+      {
+        "keyword": "압수수색",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경찰·고용부, 경기광주 쿠팡 물류센터 끼임사고 관련 압수수색",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902039600061"
         }
       }
     ]
