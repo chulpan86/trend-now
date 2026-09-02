@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T14:51:32.235851+09:00",
-    "label": "14:51",
-    "items": [
-      {
-        "keyword": "고우석",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "고우석, 3년 만에 LG 복귀…1일 오후 귀국해 계약 예정(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901101900465"
-        }
-      },
-      {
-        "keyword": "이남철",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이남철 경북 고령군수 신병 치료 중 별세…향년 65세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901085405764"
-        }
-      },
-      {
-        "keyword": "전기 요금",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "삼성전자, '스마트가전 캐시백' 시범사업…스마트싱스로 신청",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260901028300003"
-        }
-      },
-      {
-        "keyword": "kbo 리그 월간 mvp",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[오피셜] 두산·삼성→2명, KIA·롯데·키움·SSG→각 1명 '총 8명' KBO 8월 월간 MVP 후보 공식 발표",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901111445072"
-        }
-      },
-      {
-        "keyword": "김주애",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "국정원 \"北 김주애 사실상 후계자 내정…북미 정상회담 언제든 가능\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/politics/assembly/6276140"
-        }
-      },
-      {
-        "keyword": "웃으면 복이와요",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'웃으면 복이와요' 원로 코미디언 유성 별세…향년 88세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fl5vdC2uY5"
-        }
-      },
-      {
-        "keyword": "스테이트 오브 플레이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "State of Play, 그리고 State of Play Japan이 9월 3일 돌아옵니다!",
-          "source": "PlayStation",
-          "url": "https://blog.ko.playstation.com/2026/09/01/20260901-sop/"
-        }
-      },
-      {
-        "keyword": "리쥬란",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독]연 수천억 팔리는 리쥬란, 10년전 3상 논문 철회, 그 배경은",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=02128726645575856"
-        }
-      },
-      {
-        "keyword": "진술조서",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"오늘 돈 줘, 다 '불기소'해버릴 테니까\"..제주실종사건, 뇌물과 맞바꾼 수사종결권 [PD수첩]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uivtkHRfTG"
-        }
-      },
-      {
-        "keyword": "삼성 갤럭시 북",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "비싸진 노트북에 부담 커지자…삼성·LG, 100만원대 실속형 '출격'[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901104907425"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-01T19:45:32.727262+09:00",
     "label": "19:45",
     "items": [
@@ -1047,6 +941,112 @@
           "title": "포항테크노파크, 2026 그린바이오산업 국제컨퍼런스 개최",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260902n01919"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-03T04:05:06.617283+09:00",
+    "label": "04:05",
+    "items": [
+      {
+        "keyword": "vfl 오스나브뤼크 대 바이에른",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Preview: VfL Osnabrück vs. FC Bayern, DFB Cup first round",
+          "source": "FC Bayern",
+          "url": "https://fcbayern.com/en/news/matchpreviews/2026/09/preview-vfl-osnabrueck-vs.-fc-bayern-dfb-cup-first-round"
+        }
+      },
+      {
+        "keyword": "여자 야구",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘야구여왕2’ 국대 출신 9명 보유 강팀과 붙는다…선발 ‘1+1’ 파격 기용",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609021612003"
+        }
+      },
+      {
+        "keyword": "리사",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "리사, 교토서 찾은 여유…고혹적인 드레스 자태에 \"현실 공주\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xtYopeWITO?f=p"
+        }
+      },
+      {
+        "keyword": "투표용지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "헌재, ‘6·3 지선 투표용지 부족’ 헌법소원 각하…4건 모두 종결",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260902/134594491/1"
+        }
+      },
+      {
+        "keyword": "박재홍",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "운동하다 쓰러진 박재홍 아나운서…“뇌경색 진단, 생각보다 심각했다”",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=54898"
+        }
+      },
+      {
+        "keyword": "아시안 게임 야구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아시안게임 야구대표팀 프로필 사진 논란(?)",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2620916"
+        }
+      },
+      {
+        "keyword": "보물",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"마당 흙 파다 덜컥\"… 덴마크 집주인, 18.5kg 은 보물 싹쓸이",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260902141815"
+        }
+      },
+      {
+        "keyword": "카사마츠 쇼",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'모범택시3' 배우, 공항서 40분 꾸몄는데 팬 0명 굴욕…\"한국 인기 거짓\" [라스]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260901n32610"
+        }
+      },
+      {
+        "keyword": "mbk 파트너스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고려아연, 임시주총 앞두고 영풍·MBK 측 형사고소 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bb6729rNTX"
+        }
+      },
+      {
+        "keyword": "포항시장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "경찰, 박용선 포항시장 선거법 위반 혐의 검찰 재송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902161900053"
         }
       }
     ]
