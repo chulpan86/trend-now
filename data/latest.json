@@ -1,81 +1,51 @@
 {
-  "timestamp": "2026-09-03T09:51:19.783730+09:00",
-  "label": "09:51",
+  "timestamp": "2026-09-03T14:20:23.247530+09:00",
+  "label": "14:20",
   "items": [
     {
-      "keyword": "중앙일보 오늘의 운세",
+      "keyword": "습관",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[오늘의 운세] 9월 7일",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20260902080244003"
+        "title": "“친구 만나 커피 한 잔 마셔라”… 치매 위험 낮추는 습관 6",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/09/02/2026090202528.html"
       }
     },
     {
-      "keyword": "코레일",
+      "keyword": "난간",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "코레일 \"SPC 독립 권리주체 아냐\"…과거엔 '사업추진 주체' 명시",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/realestate/general/6277933"
+        "title": "아파트 6층에 설치할 난간 밧줄로 끌어올리다 추락…2명 사망(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903082351805"
       }
     },
     {
-      "keyword": "사우 델",
+      "keyword": "농협",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "18호 태풍 ‘사우델’ 부활…중국 남부 강타",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8653118"
+        "title": "안동과 예천, 기부로 이어진 지역 상생의 길",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260902500514"
       }
     },
     {
-      "keyword": "빙하 붕괴",
+      "keyword": "마비노기 이터니티",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“2㎞ 규모 암반·얼음 떨어져…기존 빙하호 붕괴와 달랐다”",
+        "title": "넥슨 '마비노기 이터니티', 첫 알파 테스트 D-1…환골탈태한 '판타지 라이프' 주목",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260903001714365"
+        "url": "https://v.daum.net/v/20260902105251010"
       }
     },
     {
-      "keyword": "남보라",
+      "keyword": "외환보유고",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "남보라 아들, 생후 3개월만 첫 은행 업무..도장 꽉 쥔 '고사리 손' 귀여워",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903010210859"
-      }
-    },
-    {
-      "keyword": "공동 명의",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'비거주 1주택' 이형일 후보자 \"거주 중심 주택시장 정착 방향성 확고\" [현장영상+]",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609030850409984_005.html"
-      }
-    },
-    {
-      "keyword": "이재영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'학폭 논란' 이재영 \"사랑해요!\"…손하트까지 폭발! 아제르바이잔 새 팀 '투란VC'에서 첫 인사",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903040157427"
-      }
-    },
-    {
-      "keyword": "외환시장",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
         "title": "외환보유액 순위 25년 만에 '슬쩍' 비공개로 돌린 한은",
         "source": "Daum",
@@ -83,23 +53,53 @@
       }
     },
     {
-      "keyword": "정책",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "한국전력공사",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "손영래 실장 “지역·필수·공공의료, 선택과 집중…취약지역 거점병원 집중 육성”",
-        "source": "후생신보",
-        "url": "http://www.whosaeng.com/173360"
+        "title": "[단독] 삼성전자 20조·하이닉스 5조… 정부, 5년치 전기료 선납 제안",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903050209918"
       }
     },
     {
-      "keyword": "블리즈컨",
+      "keyword": "황신혜",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "양정아는 돌싱, 신계숙은 미혼인데...황신혜 눈치+공감 제로 육아 얘기[별별TV]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260902203951149"
+      }
+    },
+    {
+      "keyword": "gemini 3.8 flash",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html"
+      }
+    },
+    {
+      "keyword": "이주 아",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[오피셜] '태국에 막혀 LA 직행 무산' 韓 여자배구, 주장 강소휘 등 AG 대표팀 최종 12명 확정... 남자 대표팀은 방강호 긴급 수혈",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/6BfhV1mjhF"
+      }
+    },
+    {
+      "keyword": "공공기관 통폐합",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "블리자드, '블리즈컨 2026' 프로그램 일정 공개…韓 공식 생중계·드롭스 마련",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260902153151755"
+        "title": "공공기관 109개 줄인다…석유-가스공사 합치고, 발전5사 통폐합",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/economy/economy_general/1276024.html"
       }
     }
   ]
