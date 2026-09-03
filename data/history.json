@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T19:45:32.727262+09:00",
-    "label": "19:45",
-    "items": [
-      {
-        "keyword": "kia 대 nc",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "KIA 김태군 '아프네요'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260901n36366"
-        }
-      },
-      {
-        "keyword": "한화 대 kt",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[포토]'우리 한때 원팀이었지!' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/01/2026090119164848891"
-        }
-      },
-      {
-        "keyword": "ssg 대 키움",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[오피셜] 두산·삼성→2명, KIA·롯데·키움·SSG→각 1명 '총 8명' KBO 8월 월간 MVP 후보 공식 발표",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901111445072"
-        }
-      },
-      {
-        "keyword": "혼인",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "이 대통령 \"내년 7월부터 확대될 출산아동수당, 1월생부터 주자\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6848815_36911.html"
-        }
-      },
-      {
-        "keyword": "심유진",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'와' 韓 18-0 대만, 심유진 완벽했다! 2게임 연속 18득점 대폭발…44위 쑹쒀윈 32분 만에 2-0 완파→中 마스터즈 여자단식16강 진출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901144551628"
-        }
-      },
-      {
-        "keyword": "ตรวจหวย",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "ผลการออกรางวัลลอตเตอรี่ประจำวันนี้ วันอังคารที่ 1 กันยายน 2569",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/ket-qua-xo-so-kqxs-hom-nay-thu-ba-ngay-1-9-2026"
-        }
-      },
-      {
-        "keyword": "서울대 10개 만들기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[속보]'서울대 10개' 견인할 3개 거점대 확정…부산대·전남대·충남대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901170130421"
-        }
-      },
-      {
-        "keyword": "교통",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "2030년까지 교통 환승센터 65곳 구축…더 빠르고 편리하게",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970911&pWise=sub&pWiseSub=C2"
-        }
-      },
-      {
-        "keyword": "방신실",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김민솔, OK저축은행 읏맨 오픈서 루키 4승·상금 1위 탈환 도전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260901082600007"
-        }
-      },
-      {
-        "keyword": "이승민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“야구 그만하고 싶었지만 어떻게든 버텼다”…구속·자신감 UP 이승민의 투구 전환점 [SD 베이스볼 피플]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260901/134580182/1"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-02T00:17:58.674483+09:00",
     "label": "00:17",
     "items": [
@@ -1153,6 +1047,112 @@
           "title": "어묵탕 담았더니 주방용품 따라오네…롯데마트·슈퍼, 단독 상품 출시",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260901_0003771911"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-03T09:51:19.783730+09:00",
+    "label": "09:51",
+    "items": [
+      {
+        "keyword": "중앙일보 오늘의 운세",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[오늘의 운세] 9월 7일",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260902080244003"
+        }
+      },
+      {
+        "keyword": "코레일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "코레일 \"SPC 독립 권리주체 아냐\"…과거엔 '사업추진 주체' 명시",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6277933"
+        }
+      },
+      {
+        "keyword": "사우 델",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "18호 태풍 ‘사우델’ 부활…중국 남부 강타",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8653118"
+        }
+      },
+      {
+        "keyword": "빙하 붕괴",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“2㎞ 규모 암반·얼음 떨어져…기존 빙하호 붕괴와 달랐다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903001714365"
+        }
+      },
+      {
+        "keyword": "남보라",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "남보라 아들, 생후 3개월만 첫 은행 업무..도장 꽉 쥔 '고사리 손' 귀여워",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903010210859"
+        }
+      },
+      {
+        "keyword": "공동 명의",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'비거주 1주택' 이형일 후보자 \"거주 중심 주택시장 정착 방향성 확고\" [현장영상+]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609030850409984_005.html"
+        }
+      },
+      {
+        "keyword": "이재영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'학폭 논란' 이재영 \"사랑해요!\"…손하트까지 폭발! 아제르바이잔 새 팀 '투란VC'에서 첫 인사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903040157427"
+        }
+      },
+      {
+        "keyword": "외환시장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "외환보유액 순위 25년 만에 '슬쩍' 비공개로 돌린 한은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903060156005"
+        }
+      },
+      {
+        "keyword": "정책",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "손영래 실장 “지역·필수·공공의료, 선택과 집중…취약지역 거점병원 집중 육성”",
+          "source": "후생신보",
+          "url": "http://www.whosaeng.com/173360"
+        }
+      },
+      {
+        "keyword": "블리즈컨",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "블리자드, '블리즈컨 2026' 프로그램 일정 공개…韓 공식 생중계·드롭스 마련",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902153151755"
         }
       }
     ]
