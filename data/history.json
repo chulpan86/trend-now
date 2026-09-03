@@ -944,5 +944,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-04T03:13:38.813690+09:00",
+    "label": "03:13",
+    "items": [
+      {
+        "keyword": "chatgpt",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "AI outage hits Claude, OpenAI, Grok as users report disruption",
+          "source": "NewsNation",
+          "url": "https://www.newsnationnow.com/business/tech/ai/ai-outage-disruption/"
+        }
+      },
+      {
+        "keyword": "제미나이",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "구글, 사이버 보안 특화 ‘제미나이 3.8 플래시 사이버’ 공개... 추론·코딩 특화 ‘제미나이 3.8 플래시’ 함께",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=145626"
+        }
+      },
+      {
+        "keyword": "챗gpt",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[미국 특징주] 오픈AI·앤스로픽·스페이스XAI, 동시다발 서비스 장애…AI 3사 고객 '불편'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260904n00694"
+        }
+      },
+      {
+        "keyword": "폐쇄회로 텔레비전",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "범죄 예방 CCTV도 '재정' 따라…서울 자치구별 설치 격차",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260903001160"
+        }
+      },
+      {
+        "keyword": "스낳대",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "스틸시리즈, ‘자낳대26: 스타크래프트’ 공식 스폰서 참여…게이밍 기어 지원",
+          "source": "뉴스탭",
+          "url": "https://www.newstap.co.kr/news/articleView.html?idxno=333391"
+        }
+      },
+      {
+        "keyword": "ai",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+        }
+      },
+      {
+        "keyword": "거점국립대학교",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "지방거점국립대 정시경쟁률 최근 5년간 최고치",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260903.99099000960"
+        }
+      },
+      {
+        "keyword": "챗",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "구글, 국내 이용자수 네이버 두달 연속 앞서…AI 영향 주목",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903110750624"
+        }
+      },
+      {
+        "keyword": "저작권",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "미 정부, 저작권 소송서 AI 빅테크 옹호…\"AI 경쟁력은 안보\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903094500463"
+        }
+      },
+      {
+        "keyword": "시부모",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "주말 교회 갈 때마다 용돈 주겠다는 시부모…“얼마 주면 다닐 수 있나요?”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10860816"
+        }
+      }
+    ]
   }
 ]

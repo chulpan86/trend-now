@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-03T23:48:11.194049+09:00",
-  "label": "23:48",
+  "timestamp": "2026-09-04T03:13:38.813690+09:00",
+  "label": "03:13",
   "items": [
     {
-      "keyword": "중독",
+      "keyword": "chatgpt",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "AI outage hits Claude, OpenAI, Grok as users report disruption",
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/business/tech/ai/ai-outage-disruption/"
+      }
+    },
+    {
+      "keyword": "제미나이",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "구글, 사이버 보안 특화 ‘제미나이 3.8 플래시 사이버’ 공개... 추론·코딩 특화 ‘제미나이 3.8 플래시’ 함께",
+        "source": "보안뉴스",
+        "url": "https://www.boannews.com/news/articleView.html?idxno=145626"
+      }
+    },
+    {
+      "keyword": "챗gpt",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[속보]경찰, 가스중독 남녀 눈앞에 두고 “자는 줄” 철수",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11614382"
+        "title": "[미국 특징주] 오픈AI·앤스로픽·스페이스XAI, 동시다발 서비스 장애…AI 3사 고객 '불편'",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260904n00694"
       }
     },
     {
-      "keyword": "이보람",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "이보람, '골 때리는 그녀들' 합류…FC 발라드림 새 멤버",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903080532330"
-      }
-    },
-    {
-      "keyword": "농림축산식품부",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "농림축산식품부, 나주 공공기관과 보호동물 입양 확산 나서",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903233127435"
-      }
-    },
-    {
-      "keyword": "가수",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'공부왕찐천재' 홍진경, 곽진언에 \"문신 진짜 안 어울려\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903190727938"
-      }
-    },
-    {
-      "keyword": "이웅평",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'귀순' 이웅평 아내, \"신혼집서 도청장치 발견\"…'15억 보상금' 뜻밖의 행방 ('꼬꼬무')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903123407476"
-      }
-    },
-    {
-      "keyword": "대한민국 여자 배구 국가대표팀",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[오피셜] '이주아→정호영 교체' 차상현호, 아시안게임 최종 엔트리 확정... 남자 대표팀, 신호진→방강호 교체",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/tiCpFCnQw5"
-      }
-    },
-    {
-      "keyword": "호르무즈 파병",
+      "keyword": "폐쇄회로 텔레비전",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독]정부, 호르무즈에 '파병' 가닥...\"국회에 파병동의안 제출 준비 중\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903193816721"
+        "title": "범죄 예방 CCTV도 '재정' 따라…서울 자치구별 설치 격차",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260903001160"
       }
     },
     {
-      "keyword": "명예훼손",
+      "keyword": "스낳대",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "MC몽, 김민종 ‘명예훼손’ 고소에도 태연…“나이트서 부킹이나 하자” - 스타투데이",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/hot-issues/12142981"
+        "title": "스틸시리즈, ‘자낳대26: 스타크래프트’ 공식 스폰서 참여…게이밍 기어 지원",
+        "source": "뉴스탭",
+        "url": "https://www.newstap.co.kr/news/articleView.html?idxno=333391"
       }
     },
     {
-      "keyword": "용적률",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "ai",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“사업성 좋아질까, 집값 자극할까”…용적률 1.2배 파격 카드에 시장 ‘술렁’",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/12143520"
+        "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
       }
     },
     {
-      "keyword": "관세",
+      "keyword": "거점국립대학교",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "지방거점국립대 정시경쟁률 최근 5년간 최고치",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260903.99099000960"
+      }
+    },
+    {
+      "keyword": "챗",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이미 美에 수백억달러 투자 중인데… 삼전닉스 \"파장 예의주시\"",
+        "title": "구글, 국내 이용자수 네이버 두달 연속 앞서…AI 영향 주목",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260903185328483"
+        "url": "https://v.daum.net/v/20260903110750624"
+      }
+    },
+    {
+      "keyword": "저작권",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "미 정부, 저작권 소송서 AI 빅테크 옹호…\"AI 경쟁력은 안보\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903094500463"
+      }
+    },
+    {
+      "keyword": "시부모",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "주말 교회 갈 때마다 용돈 주겠다는 시부모…“얼마 주면 다닐 수 있나요?”",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10860816"
       }
     }
   ]
