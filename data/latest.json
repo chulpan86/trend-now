@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-09-04T03:13:38.813690+09:00",
-  "label": "03:13",
+  "timestamp": "2026-09-04T06:30:10.366509+09:00",
+  "label": "06:30",
   "items": [
-    {
-      "keyword": "chatgpt",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "AI outage hits Claude, OpenAI, Grok as users report disruption",
-        "source": "NewsNation",
-        "url": "https://www.newsnationnow.com/business/tech/ai/ai-outage-disruption/"
-      }
-    },
     {
       "keyword": "제미나이",
       "traffic_raw": "10000+",
@@ -27,15 +17,15 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[미국 특징주] 오픈AI·앤스로픽·스페이스XAI, 동시다발 서비스 장애…AI 3사 고객 '불편'",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260904n00694"
+        "title": "챗GPT·클로드·그록, 한때 '먹통'…이례적 동시다발 장애",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904045101415"
       }
     },
     {
       "keyword": "폐쇄회로 텔레비전",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "범죄 예방 CCTV도 '재정' 따라…서울 자치구별 설치 격차",
         "source": "뉴스핌",
@@ -43,43 +33,63 @@
       }
     },
     {
+      "keyword": "박항서",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“축구협회 너무 교만했다. 카르텔을 깨야 한다” 월드컵 조별리그 탈락에 방패막이 자청했던 박항서 전 단장의 한숨",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904005909601"
+      }
+    },
+    {
+      "keyword": "손담비",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이규혁♥손담비, 드디어 새집..명품 로고 쿠션+딸 소파까지 “완벽” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/01/GE3WGZLBMNTGENZSG43GKNRYGA/"
+      }
+    },
+    {
+      "keyword": "정일우",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "배우 정일우, 네팔 대홍수 이재민 위해 기부…\"하루 빨리 복구되길\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260902150250080?f=m"
+      }
+    },
+    {
+      "keyword": "이재영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/09/03/2026090321451110452"
+      }
+    },
+    {
+      "keyword": "러시아",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "푸틴, 출산율 강조하며 한국 언급…\"전쟁도 안 하는데 저출산\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903204327224"
+      }
+    },
+    {
       "keyword": "스낳대",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "스틸시리즈, ‘자낳대26: 스타크래프트’ 공식 스폰서 참여…게이밍 기어 지원",
-        "source": "뉴스탭",
-        "url": "https://www.newstap.co.kr/news/articleView.html?idxno=333391"
-      }
-    },
-    {
-      "keyword": "ai",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
-      }
-    },
-    {
-      "keyword": "거점국립대학교",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "지방거점국립대 정시경쟁률 최근 5년간 최고치",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260903.99099000960"
-      }
-    },
-    {
-      "keyword": "챗",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "구글, 국내 이용자수 네이버 두달 연속 앞서…AI 영향 주목",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903110750624"
+        "title": "스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여",
+        "source": "로이슈",
+        "url": "https://www.lawissue.co.kr/view.php?ud=202609032303204263204ead0791_12"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "미 정부, 저작권 소송서 AI 빅테크 옹호…\"AI 경쟁력은 안보\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903094500463"
-      }
-    },
-    {
-      "keyword": "시부모",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "주말 교회 갈 때마다 용돈 주겠다는 시부모…“얼마 주면 다닐 수 있나요?”",
-        "source": "헤럴드경제",
-        "url": "https://biz.heraldcorp.com/article/10860816"
+        "title": "박슬기와 푸는 일상 저작권 궁금증… '슬기로운 저작권 생활' 공개",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/life-culture/general-cultural/6279570"
       }
     }
   ]
