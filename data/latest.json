@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-09-03T19:22:18.450108+09:00",
-  "label": "19:22",
+  "timestamp": "2026-09-03T23:48:11.194049+09:00",
+  "label": "23:48",
   "items": [
     {
-      "keyword": "굴착기",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "구의역 인근서 우회전 굴착기에 치여 70대 숨져",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260903/134597883/2"
-      }
-    },
-    {
-      "keyword": "김병만",
+      "keyword": "중독",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "김병만, 재혼 1년 후 근황…아들이 머리채 붙잡아도 행복",
+        "title": "[속보]경찰, 가스중독 남녀 눈앞에 두고 “자는 줄” 철수",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11614382"
+      }
+    },
+    {
+      "keyword": "이보람",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "이보람, '골 때리는 그녀들' 합류…FC 발라드림 새 멤버",
         "source": "Daum",
-        "url": "https://v.daum.net/v/WmKrjFLxZW"
+        "url": "https://v.daum.net/v/20260903080532330"
       }
     },
     {
-      "keyword": "노동 쟁의",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘N% 성과급’으로 파업 못한다…의무교섭-쟁의대상 아냐",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260903/134598082/1"
-      }
-    },
-    {
-      "keyword": "아시안 게임",
+      "keyword": "농림축산식품부",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"애국심과 책임감\"·\"순간을 즐기자\"…AG 태극전사 '금빛 각오'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260903148700007"
+        "title": "농림축산식품부, 나주 공공기관과 보호동물 입양 확산 나서",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903233127435"
       }
     },
     {
-      "keyword": "히샬리송",
+      "keyword": "가수",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“토트넘 떠나겠다” 히샬리송, ‘연봉 3배’에 합의했다…튀르키예 트라브존스포르행 급물살",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202609031700003"
+        "title": "'공부왕찐천재' 홍진경, 곽진언에 \"문신 진짜 안 어울려\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903190727938"
       }
     },
     {
-      "keyword": "한국방송대상",
+      "keyword": "이웅평",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "제53회 한국방송대상 오늘(3일) MBC 공개홀서 개최…리센느 축하공연",
-        "source": "iMBC 연예",
-        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/516929"
+        "title": "'귀순' 이웅평 아내, \"신혼집서 도청장치 발견\"…'15억 보상금' 뜻밖의 행방 ('꼬꼬무')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903123407476"
       }
     },
     {
-      "keyword": "조규성",
+      "keyword": "대한민국 여자 배구 국가대표팀",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[오피셜] '이주아→정호영 교체' 차상현호, 아시안게임 최종 엔트리 확정... 남자 대표팀, 신호진→방강호 교체",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/tiCpFCnQw5"
+      }
+    },
+    {
+      "keyword": "호르무즈 파병",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "홍현석, 조규성과 한솥밥‥덴마크 미트윌란으로 임대 이적",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6849303_36946.html"
+        "title": "[단독]정부, 호르무즈에 '파병' 가닥...\"국회에 파병동의안 제출 준비 중\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903193816721"
       }
     },
     {
-      "keyword": "목동 윤슬 자이",
+      "keyword": "명예훼손",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "GS건설, ‘목동윤슬자이’ 3일 견본주택 열고 분양 시작",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026090309250401162"
+        "title": "MC몽, 김민종 ‘명예훼손’ 고소에도 태연…“나이트서 부킹이나 하자” - 스타투데이",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12142981"
       }
     },
     {
-      "keyword": "보잉",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Jet Fuel Spews at New York Airport During Refueling Accident",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008736786&oaid=N1008700447&plink=TOP&cooper=SBSNEWSEND"
-      }
-    },
-    {
-      "keyword": "jtbc",
+      "keyword": "용적률",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "“사업성 좋아질까, 집값 자극할까”…용적률 1.2배 파격 카드에 시장 ‘술렁’",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/12143520"
+      }
+    },
+    {
+      "keyword": "관세",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "이미 美에 수백억달러 투자 중인데… 삼전닉스 \"파장 예의주시\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260903185328483"
+      }
     }
   ]
 }
