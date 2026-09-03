@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-09-03T14:20:23.247530+09:00",
-  "label": "14:20",
+  "timestamp": "2026-09-03T19:22:18.450108+09:00",
+  "label": "19:22",
   "items": [
     {
-      "keyword": "습관",
+      "keyword": "굴착기",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "구의역 인근서 우회전 굴착기에 치여 70대 숨져",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260903/134597883/2"
+      }
+    },
+    {
+      "keyword": "김병만",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“친구 만나 커피 한 잔 마셔라”… 치매 위험 낮추는 습관 6",
-        "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/09/02/2026090202528.html"
+        "title": "김병만, 재혼 1년 후 근황…아들이 머리채 붙잡아도 행복",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WmKrjFLxZW"
       }
     },
     {
-      "keyword": "난간",
+      "keyword": "노동 쟁의",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘N% 성과급’으로 파업 못한다…의무교섭-쟁의대상 아냐",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260903/134598082/1"
+      }
+    },
+    {
+      "keyword": "아시안 게임",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "아파트 6층에 설치할 난간 밧줄로 끌어올리다 추락…2명 사망(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903082351805"
+        "title": "\"애국심과 책임감\"·\"순간을 즐기자\"…AG 태극전사 '금빛 각오'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260903148700007"
       }
     },
     {
-      "keyword": "농협",
+      "keyword": "히샬리송",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“토트넘 떠나겠다” 히샬리송, ‘연봉 3배’에 합의했다…튀르키예 트라브존스포르행 급물살",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202609031700003"
+      }
+    },
+    {
+      "keyword": "한국방송대상",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "안동과 예천, 기부로 이어진 지역 상생의 길",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260902500514"
+        "title": "제53회 한국방송대상 오늘(3일) MBC 공개홀서 개최…리센느 축하공연",
+        "source": "iMBC 연예",
+        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/516929"
       }
     },
     {
-      "keyword": "마비노기 이터니티",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "넥슨 '마비노기 이터니티', 첫 알파 테스트 D-1…환골탈태한 '판타지 라이프' 주목",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260902105251010"
-      }
-    },
-    {
-      "keyword": "외환보유고",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "외환보유액 순위 25년 만에 '슬쩍' 비공개로 돌린 한은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903060156005"
-      }
-    },
-    {
-      "keyword": "한국전력공사",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[단독] 삼성전자 20조·하이닉스 5조… 정부, 5년치 전기료 선납 제안",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903050209918"
-      }
-    },
-    {
-      "keyword": "황신혜",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "양정아는 돌싱, 신계숙은 미혼인데...황신혜 눈치+공감 제로 육아 얘기[별별TV]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260902203951149"
-      }
-    },
-    {
-      "keyword": "gemini 3.8 flash",
+      "keyword": "조규성",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html"
+        "title": "홍현석, 조규성과 한솥밥‥덴마크 미트윌란으로 임대 이적",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/sports/article/6849303_36946.html"
       }
     },
     {
-      "keyword": "이주 아",
+      "keyword": "목동 윤슬 자이",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[오피셜] '태국에 막혀 LA 직행 무산' 韓 여자배구, 주장 강소휘 등 AG 대표팀 최종 12명 확정... 남자 대표팀은 방강호 긴급 수혈",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6BfhV1mjhF"
+        "title": "GS건설, ‘목동윤슬자이’ 3일 견본주택 열고 분양 시작",
+        "source": "아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026090309250401162"
       }
     },
     {
-      "keyword": "공공기관 통폐합",
+      "keyword": "보잉",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Jet Fuel Spews at New York Airport During Refueling Accident",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008736786&oaid=N1008700447&plink=TOP&cooper=SBSNEWSEND"
+      }
+    },
+    {
+      "keyword": "jtbc",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "공공기관 109개 줄인다…석유-가스공사 합치고, 발전5사 통폐합",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/economy/economy_general/1276024.html"
-      }
+      "news": null
     }
   ]
 }
