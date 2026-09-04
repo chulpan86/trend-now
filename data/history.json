@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-03T09:51:19.783730+09:00",
-    "label": "09:51",
-    "items": [
-      {
-        "keyword": "중앙일보 오늘의 운세",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[오늘의 운세] 9월 7일",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260902080244003"
-        }
-      },
-      {
-        "keyword": "코레일",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "코레일 \"SPC 독립 권리주체 아냐\"…과거엔 '사업추진 주체' 명시",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6277933"
-        }
-      },
-      {
-        "keyword": "사우 델",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "18호 태풍 ‘사우델’ 부활…중국 남부 강타",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8653118"
-        }
-      },
-      {
-        "keyword": "빙하 붕괴",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“2㎞ 규모 암반·얼음 떨어져…기존 빙하호 붕괴와 달랐다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903001714365"
-        }
-      },
-      {
-        "keyword": "남보라",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "남보라 아들, 생후 3개월만 첫 은행 업무..도장 꽉 쥔 '고사리 손' 귀여워",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903010210859"
-        }
-      },
-      {
-        "keyword": "공동 명의",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'비거주 1주택' 이형일 후보자 \"거주 중심 주택시장 정착 방향성 확고\" [현장영상+]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609030850409984_005.html"
-        }
-      },
-      {
-        "keyword": "이재영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'학폭 논란' 이재영 \"사랑해요!\"…손하트까지 폭발! 아제르바이잔 새 팀 '투란VC'에서 첫 인사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903040157427"
-        }
-      },
-      {
-        "keyword": "외환시장",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "외환보유액 순위 25년 만에 '슬쩍' 비공개로 돌린 한은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903060156005"
-        }
-      },
-      {
-        "keyword": "정책",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "손영래 실장 “지역·필수·공공의료, 선택과 집중…취약지역 거점병원 집중 육성”",
-          "source": "후생신보",
-          "url": "http://www.whosaeng.com/173360"
-        }
-      },
-      {
-        "keyword": "블리즈컨",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "블리자드, '블리즈컨 2026' 프로그램 일정 공개…韓 공식 생중계·드롭스 마련",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260902153151755"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-03T14:20:23.247530+09:00",
     "label": "14:20",
     "items": [
@@ -1047,6 +941,112 @@
           "title": "출근길이 120m 암벽 등반…아슬아슬한 편의점 '화제'",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20260903091806"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-05T01:39:02.694913+09:00",
+    "label": "01:39",
+    "items": [
+      {
+        "keyword": "이혼",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독] \"이혼 잘 끝내고 아이랑 여행간다 했는데\" 너무 이른 작별",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904202633502"
+        }
+      },
+      {
+        "keyword": "곽튜브",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "전현무, 2주 연속 녹화 불참 곽튜브 언급 \"오늘도 그 녀석 없어\" (전현무계획4)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904213909139"
+        }
+      },
+      {
+        "keyword": "유가 람",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[오피셜] 여자배구 개막 앞두고 트레이드 성사…GS칼텍스-SOOP, 박사랑-유가람 1대1 맞교환 단행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904170949527"
+        }
+      },
+      {
+        "keyword": "박세완",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "박세완, 수영장서 깜짝 비키니 자태…반전 매력 [DA★]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260904/134609168/1"
+        }
+      },
+      {
+        "keyword": "장수",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"63개 마을 식품사막화 해소\" 옥천 이동식 마켓 인기 만점",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904104350159"
+        }
+      },
+      {
+        "keyword": "여수세계박람회장",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘클래식의 향연’ 여수음악제 열 돌…인재 양성 요람으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904223354967"
+        }
+      },
+      {
+        "keyword": "스낳대",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202609032303204263204ead0791_12"
+        }
+      },
+      {
+        "keyword": "부상",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'벨기에 1부 임대' 양민혁, 부상으로 리그 명단 제외… 아시안게임 합류 앞두고 '불운'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1BMUzRu5S0"
+        }
+      },
+      {
+        "keyword": "의료",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "울주병원 개원, 울주군 남부권 7년 의료 공백 해소 기대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905001610999"
+        }
+      },
+      {
+        "keyword": "최대호",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "티앤디소프트, 지속적인 지역사회 나눔 실천… 성남시장 표창 수상",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=145664"
         }
       }
     ]
