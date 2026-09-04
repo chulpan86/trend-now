@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-05T04:12:28.930193+09:00",
-  "label": "04:12",
+  "timestamp": "2026-09-05T06:56:19.237382+09:00",
+  "label": "06:56",
   "items": [
     {
-      "keyword": "이혼",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "tving",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[단독] “신고하면 가만 안 둬” 공무원 남편 협박에…‘이혼 살인’ 피해자 신고 못했다",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8655234"
+        "title": "Ccej condemns Tving over massive data leak and urges Korea class action law - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-society/2026/09/04/G7ZXWQAKYVHZLDS2UTDPFISCQY/"
       }
     },
     {
-      "keyword": "에이브러햄 링컨",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'지옥에 다녀온' 5천 미군‥\"땅이다\" 파타야 우르르",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6849661_36925.html"
-      }
-    },
-    {
-      "keyword": "곽튜브",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "전현무, 2주 연속 녹화 불참 곽튜브 언급 \"오늘도 그 녀석 없어\" (전현무계획4)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260904213909139"
-      }
-    },
-    {
-      "keyword": "유가 람",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "프로배구 GS칼텍스-SOOP, 리베로 유가람↔세터 박사랑 트레이드",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260904149600007"
-      }
-    },
-    {
-      "keyword": "박세완",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "박세완, 수영장서 깜짝 비키니 자태…반전 매력 [DA★]",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260904/134609168/1"
-      }
-    },
-    {
-      "keyword": "스낳대",
+      "keyword": "한국경제",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여",
-        "source": "로이슈",
-        "url": "https://www.lawissue.co.kr/view.php?ud=202609032303204263204ead0791_12"
+        "title": "[논현광장-일본은 지금] 일본 경제는 부활하는가?",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2621523"
       }
     },
     {
-      "keyword": "여수세계박람회장",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘클래식의 향연’ 여수음악제 열 돌…인재 양성 요람으로",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260904223354967"
-      }
-    },
-    {
-      "keyword": "장영란",
+      "keyword": "신지",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'복권 카드' 장영란, 타로 예언에 놀랐다 \"스태프 불화→억대 매출까지\"('A급 장영란')",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/09/03/MUYDMZDCGJSDSMBWMVSWKNLDMU/"
+        "title": "\"어떠신지 누구신지\"…문원♥신지 42㎏까지 '쏙' 몰라보게 홀쭉해진 비결",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260904_0003776325"
       }
     },
     {
-      "keyword": "의료",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "미국 해군",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "울주병원 개원, 울주군 남부권 7년 의료 공백 해소 기대",
+        "title": "美해군, 차기 호위함에 ‘한국 충남급’ 등 검토",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260905001610999"
+        "url": "https://v.daum.net/v/p3i6Rc6bzl?f=p"
       }
     },
     {
-      "keyword": "최대호",
+      "keyword": "psg",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "PSG-ASM : Marquinhos ouvre le score en patron",
+        "source": "Foot01",
+        "url": "https://www.foot01.com/paris/psg-asm-marquinhos-ouvre-le-score-en-patron"
+      }
+    },
+    {
+      "keyword": "psg vs monaco",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "“안전한 한가위” 안양시 범계역 광장서 안전문화 캠페인",
-        "source": "데일리안",
-        "url": "https://www.dailian.co.kr/news/view/1686709/%E2%80%9C%EC%95%88%EC%A0%84%ED%95%9C-%ED%95%9C%EA%B0%80%EC%9C%84%E2%80%9D-%EC%95%88%EC%96%91%EC%8B%9C-%EB%B2%94%EA%B3%84%EC%97%AD-%EA%B4%91%EC%9E%A5-2026"
+        "title": "Paris Saint-Germain 1-2 AS Monaco: Paris fall at the hands of Ligue 1 leaders Monaco",
+        "source": "PSG Post",
+        "url": "https://psgpost.com/paris-saint-germain-1-2-as-monaco-paris-fall-at-the-hands-of-ligue-1-leaders-monaco-01m1pt9rrg05"
+      }
+    },
+    {
+      "keyword": "현대 포터",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“네 덕분에 두 아이 키워” 29년 뛴 포터와 이별한 차주…현대차 “연락주세요”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260904/134609944/2"
+      }
+    },
+    {
+      "keyword": "안선영",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "안선영, 결혼 1년 전 독립 이유 “母 집착+우울증···정 떼기 연습한 못된 딸”(‘안선영의 이중생활') - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/04/GRRTMNJUMNRWCMJVGU4TIOLFMM/"
+      }
+    },
+    {
+      "keyword": "ipswich town vs liverpool",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Premier League LIVE: Ipswich Town vs Liverpool - score, text commentary, team news & match stats",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c6vgy8x2z08et"
+      }
+    },
+    {
+      "keyword": "변요한",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "변요한, '♥티파니'와 결혼한 이유 고백 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/03/2026090321551655424"
       }
     }
   ]

@@ -1050,5 +1050,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-05T06:56:19.237382+09:00",
+    "label": "06:56",
+    "items": [
+      {
+        "keyword": "tving",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Ccej condemns Tving over massive data leak and urges Korea class action law - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-society/2026/09/04/G7ZXWQAKYVHZLDS2UTDPFISCQY/"
+        }
+      },
+      {
+        "keyword": "한국경제",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[논현광장-일본은 지금] 일본 경제는 부활하는가?",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2621523"
+        }
+      },
+      {
+        "keyword": "신지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"어떠신지 누구신지\"…문원♥신지 42㎏까지 '쏙' 몰라보게 홀쭉해진 비결",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260904_0003776325"
+        }
+      },
+      {
+        "keyword": "미국 해군",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美해군, 차기 호위함에 ‘한국 충남급’ 등 검토",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/p3i6Rc6bzl?f=p"
+        }
+      },
+      {
+        "keyword": "psg",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "PSG-ASM : Marquinhos ouvre le score en patron",
+          "source": "Foot01",
+          "url": "https://www.foot01.com/paris/psg-asm-marquinhos-ouvre-le-score-en-patron"
+        }
+      },
+      {
+        "keyword": "psg vs monaco",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Paris Saint-Germain 1-2 AS Monaco: Paris fall at the hands of Ligue 1 leaders Monaco",
+          "source": "PSG Post",
+          "url": "https://psgpost.com/paris-saint-germain-1-2-as-monaco-paris-fall-at-the-hands-of-ligue-1-leaders-monaco-01m1pt9rrg05"
+        }
+      },
+      {
+        "keyword": "현대 포터",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“네 덕분에 두 아이 키워” 29년 뛴 포터와 이별한 차주…현대차 “연락주세요”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260904/134609944/2"
+        }
+      },
+      {
+        "keyword": "안선영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "안선영, 결혼 1년 전 독립 이유 “母 집착+우울증···정 떼기 연습한 못된 딸”(‘안선영의 이중생활') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/04/GRRTMNJUMNRWCMJVGU4TIOLFMM/"
+        }
+      },
+      {
+        "keyword": "ipswich town vs liverpool",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Premier League LIVE: Ipswich Town vs Liverpool - score, text commentary, team news & match stats",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6vgy8x2z08et"
+        }
+      },
+      {
+        "keyword": "변요한",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "변요한, '♥티파니'와 결혼한 이유 고백 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/03/2026090321551655424"
+        }
+      }
+    ]
   }
 ]
