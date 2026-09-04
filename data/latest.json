@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-04T08:40:56.237535+09:00",
-  "label": "08:40",
+  "timestamp": "2026-09-04T10:59:15.433747+09:00",
+  "label": "10:59",
   "items": [
     {
-      "keyword": "astra",
+      "keyword": "gpt6",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "GPT-6 Astra: A new generation of intelligence",
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
         "source": "OpenAI",
-        "url": "https://openai.com/index/gpt-6-astra/"
+        "url": "https://openai.com/index/path-to-astra/"
       }
     },
     {
-      "keyword": "체포",
+      "keyword": "자기주식",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“나도 봤는데, 여성 뒤만 노려 바짝”…50대 ‘2호선 밀착남’ 잠복 경찰이 체포",
+        "title": "이노그리드, 자기주식 취득 결정",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260903205127374"
+        "url": "https://v.daum.net/v/20260904092629144"
       }
     },
     {
-      "keyword": "들쥐",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"벽 밀고 와\" 공황 표현·류준열 목소리…'들쥐' 감독 해석[왓더OTT]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260904050340725"
-      }
-    },
-    {
-      "keyword": "김혜수",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "김혜수가 17년째 먹여 살리고 있는 연예인…\"강의료 전액 내줘\" 미담 확산 [핫피플]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pZAytXDgWV"
-      }
-    },
-    {
-      "keyword": "항공모함",
+      "keyword": "코레일",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "286일간 무슨 일이…\"전염병처럼 번진다\" 태국에 나타난 美항모 모습 '충격'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903213651327"
+        "title": "코레일, 버려진 플라스틱 용산역 벤치로 재탄생",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260904000072"
       }
     },
     {
-      "keyword": "에코프로비엠",
+      "keyword": "결혼식",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "에코프로비엠 유증절차 개시…1차 발행가액 기준 8천900억",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260902126500003"
+        "title": "불바다 된 이란 “보복작전 명칭은 ‘번개’…UAE·바레인 미군 기지 드론 공격” [현장영상]",
+        "source": "채널A",
+        "url": "https://ichannela.com/news/detail/000000548506.do"
       }
     },
     {
-      "keyword": "강정호",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "쓰레기통",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "이정후, 대타로 적시 2루타‥4경기 만에 안타 '타율 0.283'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6849552_36946.html"
-      }
-    },
-    {
-      "keyword": "알렉산드라 에알라",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'필리핀 영웅' 이알라, US오픈 테니스 3회전으로 순항",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260904010600007"
-      }
-    },
-    {
-      "keyword": "알테오젠",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[특징주] 알테오젠, 노바티스와 최대 4.4조원 계약 소식에 강세",
+        "title": "부산 외국인 관광객 300만명 눈앞…지역 내 소비도 급증",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260903090841424"
+        "url": "https://v.daum.net/v/20260904093007341"
       }
     },
     {
-      "keyword": "사이버캡",
+      "keyword": "스카이랩스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"글로벌 성장 발판\"…스카이랩스, 코스닥 '입성'",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260904_0003776066"
+      }
+    },
+    {
+      "keyword": "의령군",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "국채",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“이번에도 역시, 외국인은 이미 움직였네”…금리충격 전부터 ‘소·금·바’ 담았다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904102400039"
+      }
+    },
+    {
+      "keyword": "안셀 엘고트",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "핸들·페달 없는 금빛 테슬라 무인 택시 출시 예정",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0104_202609040809373688"
+        "title": "K컬처 행사에 유카타 입고 온 美 배우…“너무 무례한 짓” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/topics/topics_social/2026/09/04/HLFCRAMAMNDZRCP7523YG3QFEQ/"
+      }
+    },
+    {
+      "keyword": "샤인머스캣",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“반값이어도 안 사요”…3만→1만원 추락한 ‘샤인머스캣’, 맛 변한 진짜 이유 [일상톡톡 플러스]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904050245700"
       }
     }
   ]
