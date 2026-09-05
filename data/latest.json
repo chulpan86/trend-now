@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-05T15:46:36.348111+09:00",
-  "label": "15:46",
+  "timestamp": "2026-09-05T20:02:44.209000+09:00",
+  "label": "20:02",
   "items": [
     {
-      "keyword": "환희",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "fc 서울 대 인천",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "이장우 불똥 맞은 환희, '전처' 박화요비 재결합 가능성..\"연락해봐\" ('살림남')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905100748916"
+        "title": "4경기 17골 몰아친 서울, 시즌 첫 5연승 노린다!",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0107_202609042321455273"
       }
     },
     {
-      "keyword": "이동건",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "전북 대 포항",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "이동건 제주 카페, '재정비'라더니…다른 매장 들어섰다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905070640740"
+        "title": "ACL과 프로축구 K리그|'이승우 선발 vs 기성용 출격' 전북-포항, 승점 4점 걸린 상위권 운명의 맞대결 [오!쎈 현장]",
+        "source": "ZUM 뉴스",
+        "url": "https://m.news.zum.com/photo/58122204/107580861?cm=news_photolist&r=5&thumb=1"
       }
     },
     {
-      "keyword": "엘니뇨",
+      "keyword": "사건",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"지구가 경험한 적 없는 괴물이 온다\"…초대형 기후 재앙의 경고 [스프]",
+        "title": "'재벌X형사2' 연쇄 실종 사건 진범은 유승호? 이번엔 이새롬 초대",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260905090301005"
+        "url": "https://v.daum.net/v/20260905165440301"
       }
     },
     {
-      "keyword": "보험",
+      "keyword": "등산",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“AI가 가라는대로 갔다가” 美초보 등산객 3명, 해발 4000m 산서 조난",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20260905/134610925/2"
+      }
+    },
+    {
+      "keyword": "고령자",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "나이 들면 역세권보다 ‘이것’...중산층 고령자가 살고싶은 집은 [부동산360]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905150210976"
+      }
+    },
+    {
+      "keyword": "제주 대 울산",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "보스턴 다이내믹스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "건보공단 \"사회보험료 완납 증명서 위·변조 주의해야\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260904059000530"
+        "title": "“보스턴다이내믹스 몸값 45조 vs 적자 2조”… 현대차 로봇 홀로서기 성공할까",
+        "source": "IT조선",
+        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169539"
       }
     },
     {
-      "keyword": "튀르키예",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "美 '왕따작전' 먹히나…물가폭등·통화폭락 이란 경제 '질식'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260904173555440"
-      }
-    },
-    {
-      "keyword": "핵무기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘핵무기 문턱까지’…사우디 우라늄 20% 농축 통로 열렸다",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20086888"
-      }
-    },
-    {
-      "keyword": "롯데그룹",
+      "keyword": "어린이집",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "다시 뛰는 ‘재계 거인’...롯데의 변신",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905101437004"
+        "title": "[속보]어린이집서 낮잠자던 3세 남아 심정지 상태로 발견…경찰 수사",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11614642"
       }
     },
     {
-      "keyword": "뱀장어",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "양의지",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "태평양에서 3000㎞ 헤엄쳐 왔는데…실뱀장어의 기구한 운명",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905060300245"
+        "title": "‘설마 가을야구 탈락하나’ 두산, 타선 빈공에 5연패 추락…SSG, 거포 유망주 2G 연속 홈런→위닝시리즈 확보 [인천 리뷰] - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/sports/baseball/2026/09/05/GU3DONZRMEYDCYTBGBSWKODCGA/"
       }
     },
     {
-      "keyword": "정책 금리",
+      "keyword": "인수 합병",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "중동 리스크에 유가·금리 '들썩'…국내 경제 발목잡나",
+        "title": "삼성생명, 美 PFG 지분 10%대 인수 검토",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260905101332997"
-      }
-    },
-    {
-      "keyword": "무역",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "트럼프 \"연준 금리인하 안하면 美가 적자보는 나라와 무역 중단\"(종합2보)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260905000652071"
+        "url": "https://v.daum.net/v/GSocK7vmH3"
       }
     }
   ]
