@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-09-06T02:00:54.648222+09:00",
-  "label": "02:00",
+  "timestamp": "2026-09-06T04:42:07.892553+09:00",
+  "label": "04:42",
   "items": [
     {
       "keyword": "샬케 대 바이에른",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
         "source": "Vietnam.vn",
@@ -14,12 +14,22 @@
     },
     {
       "keyword": "로또 1240",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "로또 1240회 1등 16명···각 17억9000만원씩",
         "source": "경향신문",
         "url": "https://www.khan.co.kr/article/202609052112001"
+      }
+    },
+    {
+      "keyword": "아틀레틱 빌바오 대 아틀레티코 마드리드 라인업",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'너무 아깝다!' 이강인, 골대가 2호 골 막았다→시메오네도 얼굴 가리고 좌절...아틀레티코, 빌바오 원정 0-0 전반 종료",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260906001148366"
       }
     },
     {
@@ -43,33 +53,23 @@
       }
     },
     {
-      "keyword": "토트넘 노팅엄",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "5500억 썼지만 달라진 게 없다…토트넘이 못산 '위닝 멘털리티'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WTxuKnb01x"
-      }
-    },
-    {
       "keyword": "athletic vs atlético madrid",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "¡Descubre las alineaciones titulares del Athletic Club-Atlético de Madrid!",
-        "source": "Página oficial del Atlético de Madrid",
-        "url": "https://www.atleticodemadrid.com/noticias/descubre-las-alineaciones-titulares-del-athletic-club-atletico-de-madrid"
+        "title": "'Golazo que golpeó el poste' Lee Kang-in, fuera a los 58 minutos... 'Colapso' del Atlético, 0-2 'Consecutivos goles en contra'",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/es/sports/2026/09/06/2026090521365778909"
       }
     },
     {
-      "keyword": "man city vs coventry",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "석유",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c6dj4d7xzjzkt"
+        "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905233000991"
       }
     },
     {
@@ -87,9 +87,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still winless",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt"
+        "title": "Tottenham's £370M Squad Draws 0-0, Three Straight Blanked Matches",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/09/06/NTQL55IRDNCJTECQVFO6RGX6EM/"
       }
     },
     {
