@@ -1262,5 +1262,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-06T08:26:48.432805+09:00",
+    "label": "08:26",
+    "items": [
+      {
+        "keyword": "이병헌",
+        "traffic_raw": "50000+",
+        "traffic": 50000,
+        "news": {
+          "title": "고영욱 \"이민정 고1 때 압구정서...\" 이병헌도 저격 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090423390233706"
+        }
+      },
+      {
+        "keyword": "최준희",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'11살 연상♥' 최준희, 럭셔리 한강뷰 신혼집=불꽃축제 1열..\"주니홈 명당\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906010807664"
+        }
+      },
+      {
+        "keyword": "카밀라 발리예바",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김연아 작심 발언, 4년 흘러도 빛난다…'56가지 약물 범벅' 발리예바, AIN 자격 박탈 → 국제대회 복귀 불가",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZcH9ff5TvR"
+        }
+      },
+      {
+        "keyword": "충돌",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "예멘 정부군·후티 반군 충돌로 이틀새 190명 넘게 사망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260906001200108"
+        }
+      },
+      {
+        "keyword": "문근영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'정평과 결혼' 문근영, 살 빠졌네…홀쭉해진 볼에 깨끗한 피부 \"오운완\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905162149881"
+        }
+      },
+      {
+        "keyword": "정현창",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"차라리 홈런 맞는게 나았다\" 이강철은 왜 김도영 볼넷 아쉬워했나 [오!쎈 광주]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905170109404"
+        }
+      },
+      {
+        "keyword": "이다영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘학폭 논란→국대 박탈→V리그 퇴출’ 이다영, 해외 떠돌다 아제르바이잔까지…활짝 웃으며 “정말 설렌다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QuC4dZwaWd"
+        }
+      },
+      {
+        "keyword": "현행범",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'8천억 위조수표' 입금하려다 은행원 신고에 덜미…현행범 체포",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260904085200004"
+        }
+      },
+      {
+        "keyword": "거래소",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "SCEX 암호화폐 거래소, 시가총액 5조 VND 돌파하며 그 이면에 숨겨진 생태계 공개.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/san-tai-san-ma-hoa-scex-tang-von-vot-len-5-000-ty-dong-he-lo-he-sinh-thai-dung-sau"
+        }
+      },
+      {
+        "keyword": "서울경제",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"그만 나오셔도 돼요\" 해고 칼바람...관리자 줄이는 미국 기업, 왜 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/09/05/2026090411551621452"
+        }
+      }
+    ]
   }
 ]
