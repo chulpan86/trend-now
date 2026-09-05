@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-05T20:02:44.209000+09:00",
-  "label": "20:02",
+  "timestamp": "2026-09-05T23:13:18.765127+09:00",
+  "label": "23:13",
   "items": [
     {
-      "keyword": "fc 서울 대 인천",
+      "keyword": "노팅엄 포레스트 대 토트넘",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "5500억 썼지만 달라진 게 없다…토트넘이 못산 '위닝 멘털리티'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WTxuKnb01x"
+      }
+    },
+    {
+      "keyword": "해피투게더",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "유재석, 결국 또 시청률 1%대 찍었다…안은진 눈물→생활고 고백에도 '1.9%' ('해투')[종합]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905120207211"
+      }
+    },
+    {
+      "keyword": "윤혜진",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "4경기 17골 몰아친 서울, 시즌 첫 5연승 노린다!",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0107_202609042321455273"
+        "title": "엄태웅♥윤혜진 딸, 중학생 키가 벌써 178cm..진짜 폭풍 성장 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/05/GM2DQYJSGQZTGZBUMI2WMZBYGU/"
       }
     },
     {
-      "keyword": "전북 대 포항",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "ACL과 프로축구 K리그|'이승우 선발 vs 기성용 출격' 전북-포항, 승점 4점 걸린 상위권 운명의 맞대결 [오!쎈 현장]",
-        "source": "ZUM 뉴스",
-        "url": "https://m.news.zum.com/photo/58122204/107580861?cm=news_photolist&r=5&thumb=1"
-      }
-    },
-    {
-      "keyword": "사건",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'재벌X형사2' 연쇄 실종 사건 진범은 유승호? 이번엔 이새롬 초대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905165440301"
-      }
-    },
-    {
-      "keyword": "등산",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“AI가 가라는대로 갔다가” 美초보 등산객 3명, 해발 4000m 산서 조난",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20260905/134610925/2"
-      }
-    },
-    {
-      "keyword": "고령자",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "나이 들면 역세권보다 ‘이것’...중산층 고령자가 살고싶은 집은 [부동산360]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905150210976"
-      }
-    },
-    {
-      "keyword": "제주 대 울산",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "보스턴 다이내믹스",
+      "keyword": "이상순",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“보스턴다이내믹스 몸값 45조 vs 적자 2조”… 현대차 로봇 홀로서기 성공할까",
-        "source": "IT조선",
-        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169539"
+        "title": "이상순, 7일 연속 라디오 DJ 불참…청취자 걱정 커저",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260905_0003777718"
       }
     },
     {
-      "keyword": "어린이집",
+      "keyword": "호펜하임 대 도르트문트",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "1899 호펜하임 vs 보루시아 도르트문트 예측: 정상 경쟁의 뜨거운 승부",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-1899-hoffenheim-vs-borussia-dortmund-diem-nong-cuoc-dua-top-dau"
+      }
+    },
+    {
+      "keyword": "젠지 한화",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[LCK] ‘회심의 조커픽 정글 아트록스’ 젠지, 한화생명에 2-1 역전…결승 ‘눈 앞’",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112870730"
+      }
+    },
+    {
+      "keyword": "대한민국 의 대법관",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[속보]어린이집서 낮잠자던 3세 남아 심정지 상태로 발견…경찰 수사",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11614642"
+        "title": "고심 길어지는 조희대…'대법관 재제청' 관련 입장 발표 미뤄",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260904107900004"
       }
     },
     {
-      "keyword": "양의지",
+      "keyword": "주유소",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘설마 가을야구 탈락하나’ 두산, 타선 빈공에 5연패 추락…SSG, 거포 유망주 2G 연속 홈런→위닝시리즈 확보 [인천 리뷰] - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/baseball/2026/09/05/GU3DONZRMEYDCYTBGBSWKODCGA/"
+        "title": "셀프 주유했다 ‘날벼락’…수리비만 수천만 원·‘행정처분’ 계획 [이런뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8655584"
       }
     },
     {
-      "keyword": "인수 합병",
+      "keyword": "김재윤",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "삼성생명, 美 PFG 지분 10%대 인수 검토",
+        "title": "‘강민호 역전타’ 삼성, 연장 11회 뒤집기…사흘 만에 선두 탈환",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655652"
+      }
+    },
+    {
+      "keyword": "이강철",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“던질 수 있겠냐?” 꽃범호의 믿음에 이의리가 화답했다…BSV? 대역전극 발판 마련, KIA 클로저가 또 성장했다[MD광주]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/GSocK7vmH3"
+        "url": "https://v.daum.net/v/20260905161127751"
       }
     }
   ]
