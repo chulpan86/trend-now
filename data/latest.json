@@ -1,35 +1,55 @@
 {
-  "timestamp": "2026-09-06T04:42:07.892553+09:00",
-  "label": "04:42",
+  "timestamp": "2026-09-06T06:47:16.082572+09:00",
+  "label": "06:47",
   "items": [
     {
       "keyword": "샬케 대 바이에른",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao"
+        "title": "'역대급 실책' 골키퍼는 잊어라! 케인 슛 선방하며 MOM 선정, 카리우스 감동적인 빅리그 복귀전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260906034328038"
       }
     },
     {
-      "keyword": "로또 1240",
+      "keyword": "아들",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "로또 1240회 1등 16명···각 17억9000만원씩",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609052112001"
+        "title": "계곡서 초2 아들 구한 40대 아버지 끝내 사망…돕던 남성도 숨져",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260905/134610987/2"
       }
     },
     {
-      "keyword": "아틀레틱 빌바오 대 아틀레티코 마드리드 라인업",
+      "keyword": "석유",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "석유공사 자원개발 기능 사라지나…자원 안보 역행 지적",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260905038000003"
+      }
+    },
+    {
+      "keyword": "아틀레티코 마드리드 경기",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘왼발 막으니 오른발’ 이강인, 3분 만에 골대 강타...59분 활약에도 '완패'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260906014749868"
+      }
+    },
+    {
+      "keyword": "샤오 미",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'너무 아깝다!' 이강인, 골대가 2호 골 막았다→시메오네도 얼굴 가리고 좌절...아틀레티코, 빌바오 원정 0-0 전반 종료",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260906001148366"
+        "title": "샤오미 아이패드 9 프로 맥스의 성능 분석: Xring O3 프로세서, 13.3인치 화면, 120W 충전.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/phan-tich-suc-manh-xiaomi-pad-9-pro-max-vi-xu-ly-xring-o3-man-hinh-13-3-inch-sac-120w"
       }
     },
     {
@@ -40,36 +60,6 @@
         "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
         "source": "Formula 1",
         "url": "https://www.formula1.com/en/latest/article/gasly-charges-to-sensational-maiden-f1-pole-at-monza-over-russell-and-piastri.4CKkkbvgmqL04ijMNBfuXF"
-      }
-    },
-    {
-      "keyword": "agi",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/industry-en/2026/09/05/5PK67HFKHVB3NLAP46JIYLNMOY/"
-      }
-    },
-    {
-      "keyword": "athletic vs atlético madrid",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'Golazo que golpeó el poste' Lee Kang-in, fuera a los 58 minutos... 'Colapso' del Atlético, 0-2 'Consecutivos goles en contra'",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/es/sports/2026/09/06/2026090521365778909"
-      }
-    },
-    {
-      "keyword": "석유",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905233000991"
       }
     },
     {
@@ -87,9 +77,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Tottenham's £370M Squad Draws 0-0, Three Straight Blanked Matches",
+        "title": "Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still winless",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt"
+      }
+    },
+    {
+      "keyword": "athletic bilbao vs atlético madrid standings",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Lee Kang-in's Shot Hits Post as Atletico Madrid Suffers 0-3 Defeat",
         "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/09/06/NTQL55IRDNCJTECQVFO6RGX6EM/"
+        "url": "https://www.chosun.com/english/sports-en/2026/09/06/O24CMTOV3JG57LHK6D7CVWWI4I/"
       }
     },
     {

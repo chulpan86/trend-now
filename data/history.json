@@ -1156,5 +1156,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-06T06:47:16.082572+09:00",
+    "label": "06:47",
+    "items": [
+      {
+        "keyword": "샬케 대 바이에른",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "'역대급 실책' 골키퍼는 잊어라! 케인 슛 선방하며 MOM 선정, 카리우스 감동적인 빅리그 복귀전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906034328038"
+        }
+      },
+      {
+        "keyword": "아들",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "계곡서 초2 아들 구한 40대 아버지 끝내 사망…돕던 남성도 숨져",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260905/134610987/2"
+        }
+      },
+      {
+        "keyword": "석유",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "석유공사 자원개발 기능 사라지나…자원 안보 역행 지적",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260905038000003"
+        }
+      },
+      {
+        "keyword": "아틀레티코 마드리드 경기",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘왼발 막으니 오른발’ 이강인, 3분 만에 골대 강타...59분 활약에도 '완패'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906014749868"
+        }
+      },
+      {
+        "keyword": "샤오 미",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "샤오미 아이패드 9 프로 맥스의 성능 분석: Xring O3 프로세서, 13.3인치 화면, 120W 충전.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/phan-tich-suc-manh-xiaomi-pad-9-pro-max-vi-xu-ly-xring-o3-man-hinh-13-3-inch-sac-120w"
+        }
+      },
+      {
+        "keyword": "f1",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/gasly-charges-to-sensational-maiden-f1-pole-at-monza-over-russell-and-piastri.4CKkkbvgmqL04ijMNBfuXF"
+        }
+      },
+      {
+        "keyword": "분데스리가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/3HZQKXDgCb"
+        }
+      },
+      {
+        "keyword": "nottm forest vs spurs",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still winless",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt"
+        }
+      },
+      {
+        "keyword": "athletic bilbao vs atlético madrid standings",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Lee Kang-in's Shot Hits Post as Atletico Madrid Suffers 0-3 Defeat",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/06/O24CMTOV3JG57LHK6D7CVWWI4I/"
+        }
+      },
+      {
+        "keyword": "실시간스포츠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905143207699"
+        }
+      }
+    ]
   }
 ]
