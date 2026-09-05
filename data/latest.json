@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-05T08:36:44.592357+09:00",
-  "label": "08:36",
+  "timestamp": "2026-09-05T10:59:39.549091+09:00",
+  "label": "10:59",
   "items": [
     {
-      "keyword": "에이브 러햄 링컨",
+      "keyword": "이민정",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "고영욱 \"이민정 고1 때 압구정서...\" 이병헌도 저격 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/05/2026090423390233706"
+      }
+    },
+    {
+      "keyword": "이영표",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'지옥에 다녀온' 5천 미군‥\"땅이다\" 파타야 우르르",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6849661_36925.html"
-      }
-    },
-    {
-      "keyword": "선수",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "정말 선수 맞아? 실력만큼 외모도 뜨겁다 \"눈을 둘 데가 없다, 정말 환상적\"…日서 외모-성공 관계까지 갑론을박",
+        "title": "“홍명보 감독보다 더 큰 재앙 올 것 같아” 팬들 우려와 달리…이영표 해설위원 긍정적 전망 “아시안게임 4연속 금메달 딸 수 있을 것”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260905034641128"
+        "url": "https://v.daum.net/v/20260905061909373"
       }
     },
     {
-      "keyword": "민혜 연",
+      "keyword": "용준형",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "주진모, 오랜만에 근황..아내 ♥민혜연 \"예쁘지 않아?\"에 현실 반응",
+        "title": "현아♥용준형, 미국서 제대로 붙어 다니네…안경까지 맞춘 '커플룩'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/Quy30A8Bvq"
+        "url": "https://v.daum.net/v/20260904235451750"
       }
     },
     {
-      "keyword": "삼성sdi",
+      "keyword": "산불",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[특징주] 삼성SDI, 국내 ESS 시장 확대 기대에 4%대 강세",
+        "title": "산불 현장마다 나타나…'혈세 700억 원' 빼돌렸다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/XbqapSgRvH"
+        "url": "https://v.daum.net/v/20260903210005537"
       }
     },
     {
-      "keyword": "기안84",
+      "keyword": "사업",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "네팔 대홍수 속 무사하다던 '기안84 셰르파' 라이, 아산서 깜짝 포착",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6280444"
+        "title": "보링 컴퍼니, 최신 투자 라운드에서 기업 가치 200억 달러 달성",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-2084987"
       }
     },
     {
-      "keyword": "연평부대",
+      "keyword": "현대제철",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“태권선수 여대생이?”연평부대 전차소대장 정체",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11614515"
+        "title": "‘쇳물부터 자동차까지’ 美서 완성... 현대제철·포스코 8조 제철소 첫삽",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/09/05/HIRSMW2H4RBVRPF2RFFAX3DLSQ/"
       }
     },
     {
-      "keyword": "klasemen real betis vs real madrid",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "한국갤럽",
+      "keyword": "계룡대",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[뉴스 즉설]민주당보다 못한 이 대통령 지지율, 김승원·용혜인 카드는 '자충수'",
+        "title": "계룡대 근무지원단 가혹행위 의혹…병사들, 경찰에 선임병들 고소",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260905060841318"
+        "url": "https://v.daum.net/v/20260904172041873"
       }
     },
     {
-      "keyword": "us open",
+      "keyword": "트로이 패럿",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'It's so strong' - Sabalenka halts play over cannabis smell",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/tennis/articles/c4gm2607p0zo"
+        "title": "Seán O’Connor: Troy Parrott v Jose Mourinho — Seven years on, Irish striker no longer has point to prove to his old boss",
+        "source": "Irish Independent",
+        "url": "https://www.independent.ie/sport/soccer/sean-oconnor-troy-parrott-v-jose-mourinho-seven-years-on-irish-striker-no-longer-has-point-to-prove-to-his-old-boss/a/160743471.html"
       }
     },
     {
-      "keyword": "mu",
+      "keyword": "유",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "MU Stock Gains, but the 50-Day Moving Average Is a Mystery",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/micron-stock-price-today-27b238bd"
+        "title": "與전대 여론조사 조작의혹 유튜버, 김민석 명예훼손 등으로 고소(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904205852259?f=p"
+      }
+    },
+    {
+      "keyword": "야구 순위",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"뽑히면 울고 싶어요\" 전체 1순위 유력 하현승, 뜻밖의 한마디... 태극마크에 마음 다잡았다 \"일본·대만전 다 던져 이길게요\" [인터뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905063238464"
       }
     }
   ]
