@@ -1,11 +1,51 @@
 {
-  "timestamp": "2026-09-05T23:13:18.765127+09:00",
-  "label": "23:13",
+  "timestamp": "2026-09-06T02:00:54.648222+09:00",
+  "label": "02:00",
   "items": [
     {
-      "keyword": "노팅엄 포레스트 대 토트넘",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "샬케 대 바이에른",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao"
+      }
+    },
+    {
+      "keyword": "로또 1240",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "로또 1240회 1등 16명···각 17억9000만원씩",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609052112001"
+      }
+    },
+    {
+      "keyword": "f1",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri",
+        "source": "Formula 1",
+        "url": "https://www.formula1.com/en/latest/article/gasly-charges-to-sensational-maiden-f1-pole-at-monza-over-russell-and-piastri.4CKkkbvgmqL04ijMNBfuXF"
+      }
+    },
+    {
+      "keyword": "agi",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/industry-en/2026/09/05/5PK67HFKHVB3NLAP46JIYLNMOY/"
+      }
+    },
+    {
+      "keyword": "토트넘 노팅엄",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "5500억 썼지만 달라진 게 없다…토트넘이 못산 '위닝 멘털리티'",
         "source": "Daum",
@@ -13,93 +53,53 @@
       }
     },
     {
-      "keyword": "해피투게더",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "유재석, 결국 또 시청률 1%대 찍었다…안은진 눈물→생활고 고백에도 '1.9%' ('해투')[종합]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905120207211"
-      }
-    },
-    {
-      "keyword": "윤혜진",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "엄태웅♥윤혜진 딸, 중학생 키가 벌써 178cm..진짜 폭풍 성장 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/05/GM2DQYJSGQZTGZBUMI2WMZBYGU/"
-      }
-    },
-    {
-      "keyword": "이상순",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "이상순, 7일 연속 라디오 DJ 불참…청취자 걱정 커저",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260905_0003777718"
-      }
-    },
-    {
-      "keyword": "호펜하임 대 도르트문트",
+      "keyword": "athletic vs atlético madrid",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "1899 호펜하임 vs 보루시아 도르트문트 예측: 정상 경쟁의 뜨거운 승부",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-1899-hoffenheim-vs-borussia-dortmund-diem-nong-cuoc-dua-top-dau"
+        "title": "¡Descubre las alineaciones titulares del Athletic Club-Atlético de Madrid!",
+        "source": "Página oficial del Atlético de Madrid",
+        "url": "https://www.atleticodemadrid.com/noticias/descubre-las-alineaciones-titulares-del-athletic-club-atletico-de-madrid"
       }
     },
     {
-      "keyword": "젠지 한화",
+      "keyword": "man city vs coventry",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[LCK] ‘회심의 조커픽 정글 아트록스’ 젠지, 한화생명에 2-1 역전…결승 ‘눈 앞’",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112870730"
+        "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c6dj4d7xzjzkt"
       }
     },
     {
-      "keyword": "대한민국 의 대법관",
+      "keyword": "분데스리가",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "고심 길어지는 조희대…'대법관 재제청' 관련 입장 발표 미뤄",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260904107900004"
-      }
-    },
-    {
-      "keyword": "주유소",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "셀프 주유했다 ‘날벼락’…수리비만 수천만 원·‘행정처분’ 계획 [이런뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8655584"
-      }
-    },
-    {
-      "keyword": "김재윤",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘강민호 역전타’ 삼성, 연장 11회 뒤집기…사흘 만에 선두 탈환",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655652"
-      }
-    },
-    {
-      "keyword": "이강철",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“던질 수 있겠냐?” 꽃범호의 믿음에 이의리가 화답했다…BSV? 대역전극 발판 마련, KIA 클로저가 또 성장했다[MD광주]",
+        "title": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260905161127751"
+        "url": "https://v.daum.net/v/3HZQKXDgCb"
+      }
+    },
+    {
+      "keyword": "nottm forest vs spurs",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still winless",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt"
+      }
+    },
+    {
+      "keyword": "실시간스포츠",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905143207699"
       }
     }
   ]
