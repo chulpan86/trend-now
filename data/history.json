@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-09-05T20:02:44.209000+09:00",
-    "label": "20:02",
-    "items": [
-      {
-        "keyword": "fc 서울 대 인천",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "4경기 17골 몰아친 서울, 시즌 첫 5연승 노린다!",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202609042321455273"
-        }
-      },
-      {
-        "keyword": "전북 대 포항",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "ACL과 프로축구 K리그|'이승우 선발 vs 기성용 출격' 전북-포항, 승점 4점 걸린 상위권 운명의 맞대결 [오!쎈 현장]",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/58122204/107580861?cm=news_photolist&r=5&thumb=1"
-        }
-      },
-      {
-        "keyword": "사건",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'재벌X형사2' 연쇄 실종 사건 진범은 유승호? 이번엔 이새롬 초대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905165440301"
-        }
-      },
-      {
-        "keyword": "등산",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“AI가 가라는대로 갔다가” 美초보 등산객 3명, 해발 4000m 산서 조난",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260905/134610925/2"
-        }
-      },
-      {
-        "keyword": "고령자",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "나이 들면 역세권보다 ‘이것’...중산층 고령자가 살고싶은 집은 [부동산360]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905150210976"
-        }
-      },
-      {
-        "keyword": "제주 대 울산",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": null
-      },
-      {
-        "keyword": "보스턴 다이내믹스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“보스턴다이내믹스 몸값 45조 vs 적자 2조”… 현대차 로봇 홀로서기 성공할까",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169539"
-        }
-      },
-      {
-        "keyword": "어린이집",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[속보]어린이집서 낮잠자던 3세 남아 심정지 상태로 발견…경찰 수사",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11614642"
-        }
-      },
-      {
-        "keyword": "양의지",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘설마 가을야구 탈락하나’ 두산, 타선 빈공에 5연패 추락…SSG, 거포 유망주 2G 연속 홈런→위닝시리즈 확보 [인천 리뷰] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/09/05/GU3DONZRMEYDCYTBGBSWKODCGA/"
-        }
-      },
-      {
-        "keyword": "인수 합병",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "삼성생명, 美 PFG 지분 10%대 인수 검토",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GSocK7vmH3"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-05T23:13:18.765127+09:00",
     "label": "23:13",
     "items": [
@@ -1361,6 +1259,112 @@
           "title": "대한광통신, 올해 흑자전환 기대…실적 눈높이도 껑충",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/202609066367i"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-07T08:20:37.184408+09:00",
+    "label": "08:20",
+    "items": [
+      {
+        "keyword": "오타니 쇼헤이",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260906012700007"
+        }
+      },
+      {
+        "keyword": "빌라",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독]\"이사비 7000만원도 거절당했다\"... 집주인이 내민 '백지수표'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906145111175"
+        }
+      },
+      {
+        "keyword": "종합부동산세",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "집값 계속 오르면 2030년 서울 22개구 종부세 과세권",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260906_0003777997"
+        }
+      },
+      {
+        "keyword": "사과",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "송미령 농식품부 장관, 추석 전 사과 수급 및 생육 상황 현장 점검",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780402"
+        }
+      },
+      {
+        "keyword": "구자욱",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "LG-삼성, 승부를 가른 결정적 장면",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8655919"
+        }
+      },
+      {
+        "keyword": "추석",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "롯데백화점, 추석 맞아 '하몽 카빙·케이터링 출장 서비스' 선봬",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260906015900030"
+        }
+      },
+      {
+        "keyword": "조명우",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“역시 세계1위” 조명우, 야스퍼스에 완승 벨기에 리르3쿠션월드컵 정상…개인통산 6회 우승",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12145640"
+        }
+      },
+      {
+        "keyword": "srt",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "New Dodge Copperhead SRT Wants To Put the Ford Mustang (GTD) Back in Its Corner – Rendering",
+          "source": "autoevolution",
+          "url": "https://www.autoevolution.com/news/new-dodge-copperhead-srt-wants-to-put-the-ford-mustang-gtd-back-in-its-corner-rendering-275070.html"
+        }
+      },
+      {
+        "keyword": "마르세유 대 파리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "마르세유 vs 파리 FC 생중계: 후반전 시작, 파리 FC 2-1 리드",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-marseille-vs-paris-fc-hiep-2-bat-dau-paris-fc-dan-2-1"
+        }
+      },
+      {
+        "keyword": "juventus vs milan",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Juventus 2-1 AC Milan: Federico Gatti scores late equaliser for unbeaten Juve",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cke87vv5jrret"
         }
       }
     ]

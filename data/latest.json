@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-07T06:50:06.354999+09:00",
-  "label": "06:50",
+  "timestamp": "2026-09-07T08:20:37.184408+09:00",
+  "label": "08:20",
   "items": [
     {
-      "keyword": "관광객",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "오타니 쇼헤이",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“한국전도사였는데, 다신 안옵니다”…中관광객 불편신고 600건 ‘최다’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZqfQCsd8WN"
+        "title": "다저스 오타니, 3경기 연속 결장…부상자 명단 올라가나",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260906012700007"
       }
     },
     {
-      "keyword": "김윤지",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "김윤지, 딸과 미국行→벌써 4개월째..김영임도 손녀 보러 출국 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/06/GQ3GKNTBME3TGZLEGQYWMZBSMM/"
-      }
-    },
-    {
-      "keyword": "us 오픈",
+      "keyword": "빌라",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'전세계 강타' 필리핀 女 테니스 스타, 그의 뒤엔 라파엘 나달 삼촌 있었다…나달 아카데미 졸업→\"US오픈 디렉터로 곁에 있어\"",
+        "title": "[단독]\"이사비 7000만원도 거절당했다\"... 집주인이 내민 '백지수표'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/PTOl88tWtS"
+        "url": "https://v.daum.net/v/20260906145111175"
       }
     },
     {
-      "keyword": "오세훈",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "오세훈표 '서울의 밤' 첫 제동…서울시의회, 야간경제 12억 삭감",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260906064128373"
-      }
-    },
-    {
-      "keyword": "카를로스 알카라스",
+      "keyword": "종합부동산세",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "스물셋에 상금만 890억…최연소 1위 찍고도 파티 즐기는 Z세대 챔피언",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260901513537"
+        "title": "집값 계속 오르면 2030년 서울 22개구 종부세 과세권",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260906_0003777997"
       }
     },
     {
-      "keyword": "thứ hạng của arsenal gặp chelsea",
+      "keyword": "사과",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "송미령 농식품부 장관, 추석 전 사과 수급 및 생육 상황 현장 점검",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780402"
+      }
+    },
+    {
+      "keyword": "구자욱",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "LG-삼성, 승부를 가른 결정적 장면",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8655919"
+      }
+    },
+    {
+      "keyword": "추석",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "آرسنال مقابل چلسی ۲-۱ (نیمه اول): از دست رفته!!! رایا یک سیو عالی انجام داد.",
+        "title": "롯데백화점, 추석 맞아 '하몽 카빙·케이터링 출장 서비스' 선봬",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260906015900030"
+      }
+    },
+    {
+      "keyword": "조명우",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“역시 세계1위” 조명우, 야스퍼스에 완승 벨기에 리르3쿠션월드컵 정상…개인통산 6회 우승",
+        "source": "mkbn.mk.co.kr",
+        "url": "https://mkbn.mk.co.kr/news/sports/12145640"
+      }
+    },
+    {
+      "keyword": "srt",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "New Dodge Copperhead SRT Wants To Put the Ford Mustang (GTD) Back in Its Corner – Rendering",
+        "source": "autoevolution",
+        "url": "https://www.autoevolution.com/news/new-dodge-copperhead-srt-wants-to-put-the-ford-mustang-gtd-back-in-its-corner-rendering-275070.html"
+      }
+    },
+    {
+      "keyword": "마르세유 대 파리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "마르세유 vs 파리 FC 생중계: 후반전 시작, 파리 FC 2-1 리드",
         "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/fa/truc-tiep-arsenal-vs-chelsea-2-1-h2-khong-vao-raya-cuu-thua-xuat-sac"
+        "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-marseille-vs-paris-fc-hiep-2-bat-dau-paris-fc-dan-2-1"
       }
     },
     {
-      "keyword": "피고인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "李대통령, 법무장관에 김승원 지명…메가프로젝트 보좌관 이원주 임명",
-        "source": "남도일보",
-        "url": "https://www.namdonews.com/news/articleView.html?idxno=921571"
-      }
-    },
-    {
-      "keyword": "valencia cf vs fc barcelona standings",
+      "keyword": "juventus vs milan",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Preview: Valencia vs Barcelona - prediction, team news, lineups",
-        "source": "Sports Mole",
-        "url": "https://www.sportsmole.co.uk/football/barcelona/race-for-the-la-liga-title/preview/valencia-vs-barcelona-prediction-team-news-lineups_604500.html"
-      }
-    },
-    {
-      "keyword": "문보경",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "9회 무사 1,3루 놓치고 연장 패배하며 5연승 끊긴 LG ‘염갈량’...“야구, 어렵다 어려워...문보경은 허리 통증으로 라인업 제외” [잠실 프리뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZWdmbzTsop"
-      }
-    },
-    {
-      "keyword": "대한 광통신",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "대한광통신, 올해 흑자전환 기대…실적 눈높이도 껑충",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202609066367i"
+        "title": "Juventus 2-1 AC Milan: Federico Gatti scores late equaliser for unbeaten Juve",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cke87vv5jrret"
       }
     }
   ]
