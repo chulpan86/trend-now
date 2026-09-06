@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-06T20:25:54.314241+09:00",
-  "label": "20:25",
+  "timestamp": "2026-09-06T23:36:52.739725+09:00",
+  "label": "23:36",
   "items": [
     {
-      "keyword": "자동차",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849833_37004.html"
-      }
-    },
-    {
-      "keyword": "수원 대 충남 아산 fc",
+      "keyword": "발렌시아 대 바르셀로나",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"수원 GK 실수 좀 해줬으면\"…충남아산 안드레 감독의 미소 \"승점 3점 가져오겠다\" [현장인터뷰]",
+        "title": "\"레알 마드리드 패배? 그게 축구다\"… 라이벌 팀 결과에서 교훈 찾는 한지 플릭 감독, \"우리 자신에게 집중할 것\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260906190109011"
+        "url": "https://v.daum.net/v/20260906172037757"
       }
     },
     {
-      "keyword": "안양 대 강원",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "김천상무 대 광주",
+      "keyword": "이영자",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "24경기 무승 끝낸다…광주FC, 김천과 벼랑 끝 ‘승점 6점’ 승부",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905171722614"
+        "title": "이영자, 직접 키운 오이 씨도 안 버린다 “밤에 이걸로 마사지”",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260906/134614721/1"
       }
     },
     {
-      "keyword": "마이클 버리",
+      "keyword": "코레일",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“65% 빠졌는데 계속 물타기, 괜찮겠니?”…‘빅쇼트’ 마이클 버리 발목잡은 ‘레깅스’",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1154196"
+        "title": "추석 명절 승차권 예매 내일 시작",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260906030000013"
       }
     },
     {
-      "keyword": "양현준",
+      "keyword": "เอฟเวอร์ตัน พบ แมนยู",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "ดูบอลสดฟรี เอฟเวอร์ตัน พบ แมนยู ถ่ายทอดสดช่อง MONOMAX SPORTS เวลา 20.00 น.",
+        "source": "Thansettakij",
+        "url": "https://www.thansettakij.com/sport/668233"
+      }
+    },
+    {
+      "keyword": "everton đấu với man utd",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "아시안게임 앞둔 양현준 2경기 연속골…셀틱 개막 5연승(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260906006751007"
+        "title": "Everton vs MU: Điểm tựa Bruno Fernandes",
+        "source": "Znews",
+        "url": "https://lifestyle.zingnews.vn/everton-vs-mu-diem-tua-bruno-fernandes-post1681459.html"
       }
     },
     {
-      "keyword": "정은지",
+      "keyword": "valencia vs barcelona",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'15년차' 에이핑크 폭로전…\"윤보미 클럽 갈 때 갈매기눈썹\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260905_0003777535"
+        "title": "Valencia - Barcelona en directo, el partido de la Liga en vivo",
+        "source": "EL PAÍS",
+        "url": "https://elpais.com/deportes/futbol/2026-09-06/valencia-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
       }
     },
     {
-      "keyword": "샤인머스캣",
+      "keyword": "이창동",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "샤인머스캣, 미묘하게 다른 빛깔…‘이 색’ 골라야 더 달다",
+        "title": "‘가능한 사랑’ 베니스영화제 입성…설경구 “초심으로 돌아가는 ‘이창동 매직’ 경험해”",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609050830001"
+        "url": "https://www.khan.co.kr/article/202609062122001"
       }
     },
     {
-      "keyword": "후라도",
+      "keyword": "사라 두테르테",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "삼성 후라도, 61일 만의 부상 복귀전서 5⅔이닝 4실점",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260906_0003778160"
+        "title": "“나 죽으면 대통령 죽여라” 지시 필리핀 부통령, 보석 석방돼",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/international/international_general/1276488.html"
       }
     },
     {
-      "keyword": "페이커",
+      "keyword": "카드론",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "은행 막히자 보험권 '풍선효과'…보험 가계대출 석달새 2.7조 쑥",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1154256"
+      }
+    },
+    {
+      "keyword": "south africa vs zimbabwe",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[LCK] ‘도란·오너 슈퍼플레이’ T1, DK와 42분 접전 끝에 기선 제압",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112871173"
+        "title": "RSA vs ZIM, Final, Namibia T20I Tri-Series 2026 - Commentary",
+        "source": "Cricbuzz",
+        "url": "https://www.cricbuzz.com/live-cricket-scores/170017/rsa-vs-zim-final-namibia-t20i-tri-series-2026"
       }
     }
   ]
