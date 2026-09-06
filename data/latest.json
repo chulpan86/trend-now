@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-06T15:39:45.755201+09:00",
-  "label": "15:39",
+  "timestamp": "2026-09-06T20:25:54.314241+09:00",
+  "label": "20:25",
   "items": [
     {
-      "keyword": "김밥",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "자동차",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "\"기차역서 김밥 한 줄 사 먹었는데…\" 화들짝 놀란 이유가",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026090662817"
+        "title": "관세 피해 美에서 쇳물 뽑는다‥\"반도체도 지어라\" 압박",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849833_37004.html"
       }
     },
     {
-      "keyword": "돌싱글즈",
+      "keyword": "수원 대 충남 아산 fc",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘돌싱글즈3’ 한정민♥유다연, 혼인신고 1년만에 결혼식… 전다빈·이소라 등 총출동",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202609052358003"
-      }
-    },
-    {
-      "keyword": "교산",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "3호선·9호선에 GTX까지 뚫린다?…서울 직장인 몰려간 동네 [철길옆집]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026090436616"
-      }
-    },
-    {
-      "keyword": "린",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'이수와 이혼' 린, 파경 1년됐는데 아직도 화장실 생활..비상금 위해 금 판다(미우새)",
+        "title": "\"수원 GK 실수 좀 해줬으면\"…충남아산 안드레 감독의 미소 \"승점 3점 가져오겠다\" [현장인터뷰]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260906082309460"
+        "url": "https://v.daum.net/v/20260906190109011"
       }
     },
     {
-      "keyword": "농구",
+      "keyword": "안양 대 강원",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "김천상무 대 광주",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "24경기 무승 끝낸다…광주FC, 김천과 벼랑 끝 ‘승점 6점’ 승부",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905171722614"
+      }
+    },
+    {
+      "keyword": "마이클 버리",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“65% 빠졌는데 계속 물타기, 괜찮겠니?”…‘빅쇼트’ 마이클 버리 발목잡은 ‘레깅스’",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1154196"
+      }
+    },
+    {
+      "keyword": "양현준",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한국 여자농구, 월드컵 2차전서 '유럽 최강' 프랑스에 완패",
+        "title": "아시안게임 앞둔 양현준 2경기 연속골…셀틱 개막 5연승(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260906011900007"
+        "url": "https://www.yna.co.kr/view/AKR20260906006751007"
       }
     },
     {
-      "keyword": "스낳대",
+      "keyword": "정은지",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "스틸시리즈, '자낳대26' 공식 스폰서 참여 \"게임·e스포츠 팬들과 접점 확대\"",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260905n08945"
+        "title": "'15년차' 에이핑크 폭로전…\"윤보미 클럽 갈 때 갈매기눈썹\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260905_0003777535"
       }
     },
     {
-      "keyword": "야구 경기장",
+      "keyword": "샤인머스캣",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“요즘 누가 야구장에서 치맥 먹어요”…인기 1위는 ‘이 메뉴’",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11614799"
+        "title": "샤인머스캣, 미묘하게 다른 빛깔…‘이 색’ 골라야 더 달다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609050830001"
       }
     },
     {
-      "keyword": "전경철",
+      "keyword": "후라도",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'유퀴즈' 울렸던 간암 말기 '피터팬 아빠' 전경철 작가, 5일 별세…추모 물결",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260906141530243"
+        "title": "삼성 후라도, 61일 만의 부상 복귀전서 5⅔이닝 4실점",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260906_0003778160"
       }
     },
     {
-      "keyword": "여주시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“여주시민들 뿔났다”...물·전력 내주고 희생만 강요받아",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260905580102"
-      }
-    },
-    {
-      "keyword": "엘에이 fc",
+      "keyword": "페이커",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "DeAndre Yedlin makes sliding clearance in 87th to preserve Real Salt Lake's 2-2 draw with LAFC",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/losangeles/news/deandre-yedlin-makes-sliding-clearance-in-87th-to-preserve-real-salt-lakes-2-2-draw-with-lafc/"
+        "title": "[LCK] ‘도란·오너 슈퍼플레이’ T1, DK와 42분 접전 끝에 기선 제압",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112871173"
       }
     }
   ]
