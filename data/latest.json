@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-06T10:55:13.059906+09:00",
-  "label": "10:55",
+  "timestamp": "2026-09-06T15:39:45.755201+09:00",
+  "label": "15:39",
   "items": [
     {
-      "keyword": "솔트레이크 대 엘에이 fc",
+      "keyword": "김밥",
       "traffic_raw": "20000+",
       "traffic": 20000,
-      "news": null
-    },
-    {
-      "keyword": "왕 즈이",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
       "news": {
-        "title": "'안세영 또또또 우승' 진짜 코앞이다...'세계 3위' 야마구치 제압→중국 마스터스 결승서 '日 배드민턴 아이돌' 미야자키와 격돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260906091549196"
+        "title": "\"기차역서 김밥 한 줄 사 먹었는데…\" 화들짝 놀란 이유가",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026090662817"
       }
     },
     {
-      "keyword": "인터 마이애미 대 애틀랜타 유나이티드",
+      "keyword": "돌싱글즈",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘돌싱글즈3’ 한정민♥유다연, 혼인신고 1년만에 결혼식… 전다빈·이소라 등 총출동",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202609052358003"
+      }
+    },
+    {
+      "keyword": "교산",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'4골에 도움 1개' 원맨쇼‥'39살 나이는 숫자일 뿐'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6848373_37004.html"
+        "title": "3호선·9호선에 GTX까지 뚫린다?…서울 직장인 몰려간 동네 [철길옆집]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026090436616"
       }
     },
     {
-      "keyword": "알렉산드라 에알라",
+      "keyword": "린",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'이수와 이혼' 린, 파경 1년됐는데 아직도 화장실 생활..비상금 위해 금 판다(미우새)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260906082309460"
+      }
+    },
+    {
+      "keyword": "농구",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'전세계 강타' 필리핀 女 테니스 스타, 그의 뒤엔 라파엘 나달 삼촌 있었다…나달 아카데미 졸업→\"US오픈 디렉터로 곁에 있어\"",
+        "title": "한국 여자농구, 월드컵 2차전서 '유럽 최강' 프랑스에 완패",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260906011900007"
+      }
+    },
+    {
+      "keyword": "스낳대",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "스틸시리즈, '자낳대26' 공식 스폰서 참여 \"게임·e스포츠 팬들과 접점 확대\"",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260905n08945"
+      }
+    },
+    {
+      "keyword": "야구 경기장",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“요즘 누가 야구장에서 치맥 먹어요”…인기 1위는 ‘이 메뉴’",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11614799"
+      }
+    },
+    {
+      "keyword": "전경철",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'유퀴즈' 울렸던 간암 말기 '피터팬 아빠' 전경철 작가, 5일 별세…추모 물결",
         "source": "Daum",
-        "url": "https://v.daum.net/v/PTOl88tWtS"
+        "url": "https://v.daum.net/v/20260906141530243"
       }
     },
     {
-      "keyword": "inter miami vs atlanta united",
+      "keyword": "여주시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Why is kickoff for Inter Miami vs Atlanta United delayed today, Sep. 5?",
-        "source": "Bolavip US",
-        "url": "https://bolavip.com/en/soccer/why-is-kickoff-for-inter-miami-vs-atlanta-united-delayed-today-sep-5"
+        "title": "“여주시민들 뿔났다”...물·전력 내주고 희생만 강요받아",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260905580102"
       }
     },
     {
-      "keyword": "유현주",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "기권하지 않고 최선을 다한 유현주, 다음 기회에~ [KLPGA OK저축은행 읏맨오픈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905220349219"
-      }
-    },
-    {
-      "keyword": "스타뉴스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독]\"70억 빚 갚고 공허했는데\"..이상민, ♥아내 덕에 결심한 아이돌 제작 [★창간22 FULL인터뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260906070219673"
-      }
-    },
-    {
-      "keyword": "오정연",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "오정연, 강원 바다에서 선글라스 잃어버렸다 20분 만에 찾았다 \"韓 양심 클래스\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/celebrity-topic/6280880"
-      }
-    },
-    {
-      "keyword": "메르카토르 도법",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "세계지도 : '유럽 중심 지도가 바뀐다' 새 지도에서 아프리카의 크기가 대폭 커진 이유",
-        "source": "BBC",
-        "url": "https://www.bbc.com/korean/articles/c2l8kdvny28o"
-      }
-    },
-    {
-      "keyword": "us open",
+      "keyword": "엘에이 fc",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Tennis Legends Williams Sisters Lose in US Open Return After 4-Year Absence",
-        "source": "news.sbs.co.kr",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008739169"
+        "title": "DeAndre Yedlin makes sliding clearance in 87th to preserve Real Salt Lake's 2-2 draw with LAFC",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/losangeles/news/deandre-yedlin-makes-sliding-clearance-in-87th-to-preserve-real-salt-lakes-2-2-draw-with-lafc/"
       }
     }
   ]
