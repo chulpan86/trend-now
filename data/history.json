@@ -1368,5 +1368,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-07T10:52:30.885125+09:00",
+    "label": "10:52",
+    "items": [
+      {
+        "keyword": "해군사관학교",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독] 軍, 해군사관학교 부지 ‘핵추진잠수함 기지’로 검토[이현호의 밀리터리!톡]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20087726"
+        }
+      },
+      {
+        "keyword": "양현종",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "KIA 45억 투자 의아했는데, 위대한 클래스… 기대주 사라진 자리, 고목은 그대로 서 있다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907012149703"
+        }
+      },
+      {
+        "keyword": "아스트라",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[마켓뷰] 오픈AI발 호재에 美반도체 급등…코스피도 강세 기대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907080638446"
+        }
+      },
+      {
+        "keyword": "비대면 주민등록 사실조사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "옥천군, 미참여 세대 주민등록 방문조사…9월 8일부터 11월 9일까지",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3686267"
+        }
+      },
+      {
+        "keyword": "여자 축구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "U20 여자축구, 월드컵 첫 경기서 '강호' 프랑스와 1-1 무승부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/FcENe7vm1Z"
+        }
+      },
+      {
+        "keyword": "원서접수",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'80% 선발' 수시 원서접수 시작…'막차 입시·지역의사제' 변수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907050336273"
+        }
+      },
+      {
+        "keyword": "항공 승무원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "진에어, 승무원 청바지 유니폼으로 소형 주머니 열쇠고리 제작",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YpPVw9HlcG"
+        }
+      },
+      {
+        "keyword": "wec",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Giovinazzi gives Ferrari pole for Lone Star Le Mans, as Aitken matches his lap time for second",
+          "source": "DIVEBOMB Motorsport",
+          "url": "https://www.dive-bomb.com/article/giovinazzi-gives-ferrari-pole-for-lone-star-le-mans-as-aitken-matches-his-lap-time-for-second"
+        }
+      },
+      {
+        "keyword": "sk그룹",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "전기차 빈자리 ESS가 채운다…K배터리 3사, 美서 새 성장축 확보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260906060212878"
+        }
+      },
+      {
+        "keyword": "아스트라 ai",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "코스피, 오픈AI발 호재에 6,900선 탈환…코스닥은 1% 상승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907101802042"
+        }
+      }
+    ]
   }
 ]
