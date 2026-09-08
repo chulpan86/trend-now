@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-07T15:47:16.466105+09:00",
-    "label": "15:47",
-    "items": [
-      {
-        "keyword": "선전포고",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“독일, 전쟁 원한다…사실상 선전포고” 세계대전까지 거론한 상황 [배틀라인]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/2026/09/07/20260907500084"
-        }
-      },
-      {
-        "keyword": "성리",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "성리, 또 트로피 품에 안았다…'트로트 대세' 증명한 연타석 수상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907093736761"
-        }
-      },
-      {
-        "keyword": "휘발유",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "이란, 반정부 시위 우려에도 '휘발유 가격' 인상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907060600500"
-        }
-      },
-      {
-        "keyword": "김병기",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "경찰, 김병기 의원 뇌물·업무방해 구속영장 신청…수사 1년만(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907145951286"
-        }
-      },
-      {
-        "keyword": "계엄",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "윤석열, ‘선관위 서버 점검 위한 계엄’ 주장하려 국정원 간부 증인 신청",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1276519.html"
-        }
-      },
-      {
-        "keyword": "삼성전자 채용",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "삼성, 2026년 하반기 공채 실시",
-          "source": "Samsung Global Newsroom",
-          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1-2026%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EA%B3%B5%EC%B1%84-%EC%8B%A4%EC%8B%9C"
-        }
-      },
-      {
-        "keyword": "전재수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전재수-서지영 '북항 돔구장' 정면충돌…\"장관 때 검토\" 놓고 선거법 공방",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907150605678"
-        }
-      },
-      {
-        "keyword": "배구 선수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "배구 선수 루 티 후에가 아웃사이드 히터 비 티 누 퀸을 대신해 2020 아시안게임에 참가하게 되었습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tuyen-thu-bong-chuyen-luu-thi-hue-thay-the-chu-cong-vi-thi-nhu-quynh-tham-du-asiad-20"
-        }
-      },
-      {
-        "keyword": "시우민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "엑소 멤버 첸·백현·시우민, 소속사에 전속계약 효력정지 가처분",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260907029100004"
-        }
-      },
-      {
-        "keyword": "조원태",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "서울경찰청, 대한항공 지주사 한진칼 압수수색",
-          "source": "m.news.sbs.co.kr",
-          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008741043"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-07T22:08:20.655039+09:00",
     "label": "22:08",
     "items": [
@@ -949,6 +843,108 @@
           "title": "네팔 대홍수 참사…세계 곳곳서 커지는 '빙하호' 위험",
           "source": "아시아경제",
           "url": "https://www.asiae.co.kr/article/2026090210173777586"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T04:39:12.910035+09:00",
+    "label": "04:39",
+    "items": [
+      {
+        "keyword": "레알 마드리드 대 인테르",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "포르투 대 맨 시티",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "시티, FC 포르투전 원정 명단 확정",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/fc-porto-manchester-city-travelling-squad-63924422"
+        }
+      },
+      {
+        "keyword": "양구",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908154800951"
+        }
+      },
+      {
+        "keyword": "한화에어로스페이스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "폴란드 집결하는 K방산… ‘한국산 방공망’으로 유럽 뚫는다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/company/2026/09/08/DIVJFAFP2VFEHPTJJNSZLVLDGI/"
+        }
+      },
+      {
+        "keyword": "sbs",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SBS News Hunters Preview for September 8",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008743656"
+        }
+      },
+      {
+        "keyword": "인플루언서",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "팔로워 123만 먹방 中 인플루언서 사망…사인은 미공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909042207108"
+        }
+      },
+      {
+        "keyword": "풍자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xZjVlZwath"
+        }
+      },
+      {
+        "keyword": "club brugge vs aston villa",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Club Brugge vs Aston Villa Confirmed Lineups",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/news/BOCV7AZDLEmpQ4b9P4v5jw/show/20260908-club-brugge-vs-aston-villa-confirmed-lineup-1788881899"
+        }
+      },
+      {
+        "keyword": "메이드인코리아 시즌2",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909000225976"
+        }
+      },
+      {
+        "keyword": "신병",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202609080939000467"
         }
       }
     ]

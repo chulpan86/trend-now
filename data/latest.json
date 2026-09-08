@@ -1,41 +1,27 @@
 {
-  "timestamp": "2026-09-09T01:54:38.923020+09:00",
-  "label": "01:54",
+  "timestamp": "2026-09-09T04:39:12.910035+09:00",
+  "label": "04:39",
   "items": [
     {
-      "keyword": "메이드인코리아 시즌2",
+      "keyword": "레알 마드리드 대 인테르",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "포르투 대 맨 시티",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260909000225976"
-      }
-    },
-    {
-      "keyword": "gta6",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America",
-        "source": "Digital Foundry",
-        "url": "https://www.digitalfoundry.net/news/2026/09/gta-6s-worldwide-release-times-revealed-with-new-zealand-set-to-receive-access-19-hours-before-mexico-and-central-america"
-      }
-    },
-    {
-      "keyword": "전환사채",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'따따블' 증설 나선 엘앤에프플러스, 탈중국 LFP 정조준[르포] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/09/08/2026090814234089308"
+        "title": "시티, FC 포르투전 원정 명단 확정",
+        "source": "Manchester City FC",
+        "url": "https://kr.mancity.com/news/mens/fc-porto-manchester-city-travelling-squad-63924422"
       }
     },
     {
       "keyword": "양구",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아",
         "source": "Daum",
@@ -44,32 +30,62 @@
     },
     {
       "keyword": "한화에어로스페이스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "한화에어로, 자체 AI 연산 인프라 구축…GPU 팜 400억원 투자",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260908192549033"
+        "title": "폴란드 집결하는 K방산… ‘한국산 방공망’으로 유럽 뚫는다 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/industry/company/2026/09/08/DIVJFAFP2VFEHPTJJNSZLVLDGI/"
       }
     },
     {
-      "keyword": "사회복지사",
+      "keyword": "sbs",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“사회복지사끼리 결혼하면 기초수급자”…주말마다 투잡 뛴다",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=03834326645578152&mediaCodeNo=257"
+        "title": "SBS News Hunters Preview for September 8",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008743656"
       }
     },
     {
-      "keyword": "챔피언스리그",
+      "keyword": "인플루언서",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "다시 시작하는 별들의 전쟁…이강인, 김민재 등 코리안리거 연달아 출격",
+        "title": "팔로워 123만 먹방 中 인플루언서 사망…사인은 미공개",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260908091008322"
+        "url": "https://v.daum.net/v/20260909042207108"
+      }
+    },
+    {
+      "keyword": "풍자",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xZjVlZwath"
+      }
+    },
+    {
+      "keyword": "club brugge vs aston villa",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Club Brugge vs Aston Villa Confirmed Lineups",
+        "source": "WhoScored.com",
+        "url": "https://www.whoscored.com/news/BOCV7AZDLEmpQ4b9P4v5jw/show/20260908-club-brugge-vs-aston-villa-confirmed-lineup-1788881899"
+      }
+    },
+    {
+      "keyword": "메이드인코리아 시즌2",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260909000225976"
       }
     },
     {
@@ -80,26 +96,6 @@
         "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
         "source": "YTN",
         "url": "https://www.ytn.co.kr/_ln/0117_202609080939000467"
-      }
-    },
-    {
-      "keyword": "수시원서접수",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "원서 접수만 수십만원…수시 전형료 장사에 수험생·학부모 '비명'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260908000226090"
-      }
-    },
-    {
-      "keyword": "고려대",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "네팔 대홍수 참사…세계 곳곳서 커지는 '빙하호' 위험",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026090210173777586"
       }
     }
   ]
