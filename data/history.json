@@ -948,5 +948,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-09T07:09:39.255405+09:00",
+    "label": "07:09",
+    "items": [
+      {
+        "keyword": "이완규",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'안가회동 위증' 이완규, 항소기각에 불복했지만…대법서 최종 기각",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pQbqwnb0HW"
+        }
+      },
+      {
+        "keyword": "김하영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908211759627"
+        }
+      },
+      {
+        "keyword": "porto vs man city",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Champions League: Haaland double gives Man City routine win at Porto - reaction",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmde091l9kzkt"
+        }
+      },
+      {
+        "keyword": "이종석",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘아이유와 결별' 이종석 맞아?…배 나오고 턱선 사라진 근황",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908210949460"
+        }
+      },
+      {
+        "keyword": "도르트문트 대 비야레알",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "보루시아 도르트문트 vs 비야레알 예측: 선두 경쟁의 뜨거운 승부",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-borussia-dortmund-vs-villarreal-diem-nong-cuoc-dua-top-dau"
+        }
+      },
+      {
+        "keyword": "реал мадрид – интер",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "«Реал Мадрид» - «Интер»: Тікелей эфир!",
+          "source": "Qazsport",
+          "url": "https://qazsporttv.kz/ru/news/20983"
+        }
+      },
+      {
+        "keyword": "real madrid đấu với inter",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Video bóng đá Real Madrid - Inter Milan: Trừng phạt sai lầm (Cúp C1)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-inter-milan-trung-phat-sai-lam-cup-c1-c48a1793141.html"
+        }
+      },
+      {
+        "keyword": "미래에셋",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘TIGER 미국S&P500미국채혼합50' ETF 신규 상장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908100600244"
+        }
+      },
+      {
+        "keyword": "대구 도시철도 엑스코선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "착공 앞둔 대구 4호선 '건설방식 재검토'…시민 의견 묻는다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260908119000053"
+        }
+      },
+      {
+        "keyword": "토토",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[토토 투데이] 해외축구 개막의 즐거움 더한다…스포츠토토, ‘벳머니 킥오프 페스타’ 20일까지 진행 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/sports_general/2026/09/08/MIYDSOJRHFSTOZBTGZRTGZDCME/"
+        }
+      }
+    ]
   }
 ]

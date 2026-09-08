@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-09T04:39:12.910035+09:00",
-  "label": "04:39",
+  "timestamp": "2026-09-09T07:09:39.255405+09:00",
+  "label": "07:09",
   "items": [
     {
-      "keyword": "레알 마드리드 대 인테르",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "포르투 대 맨 시티",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "시티, FC 포르투전 원정 명단 확정",
-        "source": "Manchester City FC",
-        "url": "https://kr.mancity.com/news/mens/fc-porto-manchester-city-travelling-squad-63924422"
-      }
-    },
-    {
-      "keyword": "양구",
+      "keyword": "이완규",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아",
+        "title": "'안가회동 위증' 이완규, 항소기각에 불복했지만…대법서 최종 기각",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260908154800951"
+        "url": "https://v.daum.net/v/pQbqwnb0HW"
       }
     },
     {
-      "keyword": "한화에어로스페이스",
+      "keyword": "김하영",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "폴란드 집결하는 K방산… ‘한국산 방공망’으로 유럽 뚫는다 - 조선비즈",
+        "title": "'서프라이즈' 22년' 김하영, \"토니안 부인\" 됐다!..장기근속 보람",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260908211759627"
+      }
+    },
+    {
+      "keyword": "porto vs man city",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Champions League: Haaland double gives Man City routine win at Porto - reaction",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cmde091l9kzkt"
+      }
+    },
+    {
+      "keyword": "이종석",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘아이유와 결별' 이종석 맞아?…배 나오고 턱선 사라진 근황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260908210949460"
+      }
+    },
+    {
+      "keyword": "도르트문트 대 비야레알",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "보루시아 도르트문트 vs 비야레알 예측: 선두 경쟁의 뜨거운 승부",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-borussia-dortmund-vs-villarreal-diem-nong-cuoc-dua-top-dau"
+      }
+    },
+    {
+      "keyword": "реал мадрид – интер",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "«Реал Мадрид» - «Интер»: Тікелей эфир!",
+        "source": "Qazsport",
+        "url": "https://qazsporttv.kz/ru/news/20983"
+      }
+    },
+    {
+      "keyword": "real madrid đấu với inter",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Video bóng đá Real Madrid - Inter Milan: Trừng phạt sai lầm (Cúp C1)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-inter-milan-trung-phat-sai-lam-cup-c1-c48a1793141.html"
+      }
+    },
+    {
+      "keyword": "미래에셋",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘TIGER 미국S&P500미국채혼합50' ETF 신규 상장",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260908100600244"
+      }
+    },
+    {
+      "keyword": "대구 도시철도 엑스코선",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "착공 앞둔 대구 4호선 '건설방식 재검토'…시민 의견 묻는다",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260908119000053"
+      }
+    },
+    {
+      "keyword": "토토",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[토토 투데이] 해외축구 개막의 즐거움 더한다…스포츠토토, ‘벳머니 킥오프 페스타’ 20일까지 진행 - 조선비즈",
         "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/industry/company/2026/09/08/DIVJFAFP2VFEHPTJJNSZLVLDGI/"
-      }
-    },
-    {
-      "keyword": "sbs",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "SBS News Hunters Preview for September 8",
-        "source": "news.sbs.co.kr",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008743656"
-      }
-    },
-    {
-      "keyword": "인플루언서",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "팔로워 123만 먹방 中 인플루언서 사망…사인은 미공개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260909042207108"
-      }
-    },
-    {
-      "keyword": "풍자",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/xZjVlZwath"
-      }
-    },
-    {
-      "keyword": "club brugge vs aston villa",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Club Brugge vs Aston Villa Confirmed Lineups",
-        "source": "WhoScored.com",
-        "url": "https://www.whoscored.com/news/BOCV7AZDLEmpQ4b9P4v5jw/show/20260908-club-brugge-vs-aston-villa-confirmed-lineup-1788881899"
-      }
-    },
-    {
-      "keyword": "메이드인코리아 시즌2",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[TF초점] 9월 OTT 점령한 부부…현빈·손예진, 동시 출격",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260909000225976"
-      }
-    },
-    {
-      "keyword": "신병",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'신병4' 김민호·이원정, 밝혀진 악연의 비밀…4.1%, 꾸준한 상승세",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0117_202609080939000467"
+        "url": "https://biz.chosun.com/sports/sports_general/2026/09/08/MIYDSOJRHFSTOZBTGZRTGZDCME/"
       }
     }
   ]
