@@ -1164,5 +1164,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-08T11:03:32.961052+09:00",
+    "label": "11:03",
+    "items": [
+      {
+        "keyword": "레즈 대 다저스",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"온 힘을 다해 뛰고 있다\" 한국계 복덩이, 4G 타율 0.412 폭발→팀도 4연승 질주...\"정말 뛰어난 선수\" 다저스 감독도 홀딱 반했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907213212488"
+        }
+      },
+      {
+        "keyword": "일본",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"지하차도서 또\"‥일본, 큰비에 피해 잇따라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908073109403"
+        }
+      },
+      {
+        "keyword": "gpt 아스트라",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260907170942"
+        }
+      },
+      {
+        "keyword": "이의 리",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“(이)의리 엄청 부럽죠, 저는 아무리 노력해도 155km 못 던져요” KIA 어느 불펜투수의 고백…막상 KIA에 없으면 안 되는 존재[MD광주]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907130149212"
+        }
+      },
+      {
+        "keyword": "문구점",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8657216"
+        }
+      },
+      {
+        "keyword": "gpt 6 astra",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-astra/"
+        }
+      },
+      {
+        "keyword": "신다인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘발목 부상’ 박현경, KB금융 챔피언십도 못 나온다…‘올해 통산 10승’ 목표 달성 더욱 어려워질 듯",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908073928541"
+        }
+      },
+      {
+        "keyword": "박선주",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박선주, 이찬원에 \"사회성 뛰어난 보컬\"…진해성엔 \"평가 불가 수준\" ('K트롯 진선미') [종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260907235547986"
+        }
+      },
+      {
+        "keyword": "스카이랩스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "청약 흥행 참패했는데 상장 후 주가 대박…상한가 친 새내기주는",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1154825"
+        }
+      },
+      {
+        "keyword": "박용택",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260908053156600"
+        }
+      }
+    ]
   }
 ]
