@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-09-08T08:51:11.197457+09:00",
-    "label": "08:51",
-    "items": [
-      {
-        "keyword": "주식",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "'카뱅' 앱에서도 주식 산다…카카오페이증권, 서비스 시작",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026090808204939164"
-        }
-      },
-      {
-        "keyword": "아이유",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "아이유, 이종석과 결별 후 긴머리 싹뚝 잘랐다…단발 비주얼 “이 별로부터”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908073038394"
-        }
-      },
-      {
-        "keyword": "야구",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“한국에 이런 투수가…” 日도 놀란 ‘부산의 오타니’, 151km 쾅! 5⅔이닝 무실점 12K 괴력투",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9LNAfhLxlL"
-        }
-      },
-      {
-        "keyword": "엄태웅",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "엄태웅 딸 엄지온, 훌쩍 커버린 근황…\"너무 길어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260907_0003779587"
-        }
-      },
-      {
-        "keyword": "왕 옌청",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한국 야구 희소식!…\"韓 선수들 꼭 군대 보내야\" 도발 대만, 日 AG 최종 명단 발표→구린루이양 왼쪽 옆구리 부상 낙마 \"왕옌청 합류 확정\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5RmFiZwatg"
-        }
-      },
-      {
-        "keyword": "이더리움",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이더리움(ETH) 거래판 갈아엎는다...부테린 “90%는 단순화 가능”",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/256840"
-        }
-      },
-      {
-        "keyword": "오상진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"난 헛똑똑이였구나\"…'오상진 아내' 김소영, 북클럽 돌연 폐업",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907203251476"
-        }
-      },
-      {
-        "keyword": "수원남문시장",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "수원남문시장, 밤이 살아났다…‘불취무귀’ 하루 1만명",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2622689"
-        }
-      },
-      {
-        "keyword": "us open",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "US Open Tennis",
-          "source": "Idaho Press",
-          "url": "https://www.idahopress.com/sports/national/us-open-tennis/image_cb7f7a6e-f4b3-5287-9405-fb51d77df409.html"
-        }
-      },
-      {
-        "keyword": "나는 solo, 그 후 사랑은 계속된다",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'나솔' 남규홍 PD, 이제는 결혼 다룬다…'계약결혼' 론칭",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VWBmQTNdpX"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-08T11:03:32.961052+09:00",
-    "label": "11:03",
-    "items": [
-      {
-        "keyword": "레즈 대 다저스",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "\"온 힘을 다해 뛰고 있다\" 한국계 복덩이, 4G 타율 0.412 폭발→팀도 4연승 질주...\"정말 뛰어난 선수\" 다저스 감독도 홀딱 반했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907213212488"
-        }
-      },
-      {
-        "keyword": "일본",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"지하차도서 또\"‥일본, 큰비에 피해 잇따라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908073109403"
-        }
-      },
-      {
-        "keyword": "gpt 아스트라",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260907170942"
-        }
-      },
-      {
-        "keyword": "이의 리",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“(이)의리 엄청 부럽죠, 저는 아무리 노력해도 155km 못 던져요” KIA 어느 불펜투수의 고백…막상 KIA에 없으면 안 되는 존재[MD광주]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907130149212"
-        }
-      },
-      {
-        "keyword": "문구점",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“탁구채 2개에 14만 원” 논란에…본사 “가맹계약 해지” [잇슈 키워드]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8657216"
-        }
-      },
-      {
-        "keyword": "gpt 6 astra",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "GPT-6 Astra: A new generation of intelligence",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gpt-6-astra/"
-        }
-      },
-      {
-        "keyword": "신다인",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘발목 부상’ 박현경, KB금융 챔피언십도 못 나온다…‘올해 통산 10승’ 목표 달성 더욱 어려워질 듯",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908073928541"
-        }
-      },
-      {
-        "keyword": "박선주",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박선주, 이찬원에 \"사회성 뛰어난 보컬\"…진해성엔 \"평가 불가 수준\" ('K트롯 진선미') [종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260907235547986"
-        }
-      },
-      {
-        "keyword": "스카이랩스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "청약 흥행 참패했는데 상장 후 주가 대박…상한가 친 새내기주는",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1154825"
-        }
-      },
-      {
-        "keyword": "박용택",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'짠한형' 이대호 \"나지완, 진짜 주당…물 대신 소주\" [RE:TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908053156600"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-08T16:32:40.627521+09:00",
     "label": "16:32",
     "items": [
@@ -1051,6 +839,112 @@
           "title": "크래프톤 '배틀그라운드 모바일', 신규 테마 모드 '블러드헌트' 추가",
           "source": "데일리한국",
           "url": "https://daily.hankooki.com/news/articleView.html?idxno=1404385"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T23:54:08.733814+09:00",
+    "label": "23:54",
+    "items": [
+      {
+        "keyword": "김민석",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "김민석 수첩에 ‘서울시장 후보 정청래’ 메모···정청래 “이번엔 수첩으로 때리나” 발끈",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609092005001"
+        }
+      },
+      {
+        "keyword": "뉴데일리",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[여론조사 ‘경향’]국정 운영 지지율 첫 30%대 하락…민주당·국힘 지지율도 근접",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609091129011"
+        }
+      },
+      {
+        "keyword": "정치인",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "부산시선관위, 추석 전후 위법행위 예방·단속 강화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260909149800051"
+        }
+      },
+      {
+        "keyword": "예비역",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"예비역 병장서 다시 예비역 하사로\" 육군, 예비역 부사관 239명 임용",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909174333464"
+        }
+      },
+      {
+        "keyword": "사이언스 투데이",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[다시보기] 9월 9일 (수) 오후 사이언스 투데이",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202609091603037571"
+        }
+      },
+      {
+        "keyword": "민주노동조합총연맹",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] “내 세금으로 민주노총 사무실 보증금을 왜”…100억대 예산 삭감했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909152706391"
+        }
+      },
+      {
+        "keyword": "이정은",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“화장실서 반라로 발견될 정도”…이준서 의사, 9년 알코올 중독 고백 [TVis]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909213127293"
+        }
+      },
+      {
+        "keyword": "서정진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[Who Is ?] 서정진 셀트리온그룹 회장",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446427"
+        }
+      },
+      {
+        "keyword": "한지윤",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[스경X현장]빅이닝에 쏘아올린 1군 첫 만루포…한화 한지윤 “몬스터월 넘겨서 더 좋았어요”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609092256003"
+        }
+      },
+      {
+        "keyword": "고영표",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "SSG 이로운, 6⅔이닝 9K 무실점 깜짝 호투…데뷔 첫 선발승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8659313"
         }
       }
     ]
