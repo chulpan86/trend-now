@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-09T09:51:33.191441+09:00",
-  "label": "09:51",
+  "timestamp": "2026-09-09T14:32:38.500703+09:00",
+  "label": "14:32",
   "items": [
     {
-      "keyword": "폭발",
+      "keyword": "이재명",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"호르무즈 긴밀 공조\"‥안보·국방 협력 강화",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6850529_37012.html"
+      }
+    },
+    {
+      "keyword": "미스터트롯",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"기름 다 뺐는데‥\"‥갑자기 폭발 1명 사망",
+        "title": "황가람 생애 첫 트로트 도전…김용빈 견제 난리 (미스트롯 포유)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260909/134634269/1"
+      }
+    },
+    {
+      "keyword": "송진우",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“송진우 선배님 기록 갈아치우는 걸 보고 싶다” 꽃범호 진심…KIA 대투수 12번째 10승, 멀기만 하던 210승 혹시 내년에?[MD광주]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xIyRzTNdwi?f=p"
+      }
+    },
+    {
+      "keyword": "조혜련",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "조권 \"부모님 암 투병에 발가락 절단·수술 4번...김혜수가 도와줘\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/09/2026090905045129663"
+      }
+    },
+    {
+      "keyword": "이채영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "데프콘·이이경 아니었다…'나솔' PD 선택은 안정환·효연·이채영 ('계약결혼')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260909100008664"
+      }
+    },
+    {
+      "keyword": "2027",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Exclusive | Jimmy Kimmel’s late-night show set to end in 2027 after 24 years on air",
+        "source": "Page Six",
+        "url": "https://pagesix.com/2026/09/08/entertainment/jimmy-kimmels-late-night-show-set-to-end-after-next-season-after-24-years/"
+      }
+    },
+    {
+      "keyword": "최승호",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "삼성 노조위원장, 장인 회사에 3억대 집회용 조끼 발주 논란…\"가장 저렴했다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260909114236353"
+      }
+    },
+    {
+      "keyword": "류현진",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[엠빅뉴스] “죄송합니다” 석 달 만의 승리, 류현진의 사과",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850469_37004.html"
+        "url": "https://imnews.imbc.com/original/mbig/6850647_29041.html"
       }
     },
     {
-      "keyword": "이재명 정부",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이재명 정부의 위기, 지지율보다 더 심각한 것 [신진욱의 시선]",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/opinion/column/1276913.html"
-      }
-    },
-    {
-      "keyword": "의왕역",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[단독] 의왕역 사망 근로자, 열차 꽁무니에 매달렸다가 결국…",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260909073353259"
-      }
-    },
-    {
-      "keyword": "황희찬",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "말도 안 돼! 김민재 '주전 입지' 다시 흔들리나...'경쟁자' 샬케전 최우수 선수 선정, \"KIM과의 센터백 경쟁 우위 점할 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260909065730557"
-      }
-    },
-    {
-      "keyword": "땅집고",
+      "keyword": "목동윤슬자이",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "원주민 이익 빼앗는 지분 쪼개기, \"조합원 추가분담금 폭탄으로\"",
-        "source": "땅집고",
-        "url": "https://realty.chosun.com/site/data/html_dir/2026/09/02/2026090200545.html"
+        "title": "“아파트 대체한다”…옛 KT 부지 ‘목동윤슬자이’ 평균 경쟁률 5.8대 1 기록",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260909/134633478/1"
       }
     },
     {
-      "keyword": "dwcs",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Christian Natividad Scores First-Round TKO | Dana White's Contender Series, Season 10",
-        "source": "UFC.com",
-        "url": "https://www.ufc.com/video/159927"
-      }
-    },
-    {
-      "keyword": "홍윤화",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "동상이몽2_너는 내 운명 : 오경주, 홍윤화의 독보적인 ‘먹부림 스킬’ 전수받아 치즈와 물아일체 퍼포먼스",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC481691878"
-      }
-    },
-    {
-      "keyword": "이종상",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "5000원권 율곡·5만원권 신사임당 그린 한국화 거장 일랑 이종상 화백 별세",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/people/2026/09/08/QL476UNP25CIDK24BALCV5WBHA/"
-      }
-    },
-    {
-      "keyword": "리버풀 fc",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "챔스 의무 기자회견 '노쇼'한 아스널, 그런데 벌금은 없다…UEFA가 인정한 '불가항력'",
-        "source": "Nate News",
-        "url": "https://m.news.nate.com/view/20260909n08485?mid=s22&list=recent&cpcd="
-      }
-    },
-    {
-      "keyword": "삼성sds",
+      "keyword": "박주호",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "삼성SDS “로봇통합운영 플랫폼 내년 출시”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609082036015"
+        "title": "박주호 \"축구인으로서 도의적 책임…유소년 축구대회 직접 열 것\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/09/08/2026090821463215012"
       }
     }
   ]
