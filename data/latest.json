@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-10T06:22:08.053600+09:00",
-  "label": "06:22",
+  "timestamp": "2026-09-10T08:39:53.079318+09:00",
+  "label": "08:39",
   "items": [
     {
-      "keyword": "걷기",
+      "keyword": "시청률",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "[TF초점] 익숙함이 무기가 됐다…'틈만나면,'이 시즌5를 이어온 힘",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/7F5JRNfzNf?f=p"
+      }
+    },
+    {
+      "keyword": "시어머니",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "하루 7500~1만 보, 조기 사망 위험 최저…못 채운다면 ‘속도’ 높여라 [바디플랜]",
+        "title": "\"돈도 벌고 애도 직접 키워라…엄마 없어도 잘 큰다\" 막말 시모에 울분",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6282416"
+      }
+    },
+    {
+      "keyword": "자동차",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"차량 무상 점검 하세요\"…추석 맞이 서비스 제공",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260909101949903"
+        "url": "https://v.daum.net/v/20260910074208519"
       }
     },
     {
-      "keyword": "금양",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "이재 시",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "금양, 기장공장을 데이터센터로 물적분할 추진…상폐 돌파구",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260910.22010003164"
+        "title": "“출국 3일 전 포기”…‘이동국 딸’ 재시, 美 명문대 휴학한 이유?",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12148802"
       }
     },
     {
-      "keyword": "liverpool vs atlético madrid",
+      "keyword": "nintendo",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Nintendo Direct reveals Metroid Ravenous, Kirby and the World Beyond, and more games for Nintendo Switch 2 and Nintendo Switch - News - Nintendo Official Site",
+        "source": "Nintendo",
+        "url": "https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/"
+      }
+    },
+    {
+      "keyword": "장갑차",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Posible once del Atlético ante el Liverpool en Champions hoy",
-        "source": "Diario AS",
-        "url": "https://as.com/futbol/champions/posible-once-del-atletico-ante-el-liverpool-en-champions-hoy-f202609-n/"
-      }
-    },
-    {
-      "keyword": "채무",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[사설] 빚 탕감 또 확대, 버티기식 악순환 우려된다",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20089140"
-      }
-    },
-    {
-      "keyword": "napoli vs arsenal",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Odegaard hits Arsenal winner to sink Napoli",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c6z9zywpj3l5t"
-      }
-    },
-    {
-      "keyword": "엘레나 리바키나",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "테니스 리바키나, 오사카 꺾고 US오픈 8강…세계 1위까지 1승(종합)",
+        "title": "[영상] 7.62㎜ 철갑탄 막는다…그레나디어 방탄 군용차 공개",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260908039851007"
+        "url": "https://www.yna.co.kr/view/MYH20260909017400704"
       }
     },
     {
-      "keyword": "champions league",
+      "keyword": "브래드 피트",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Champions League LIVE: Liverpool vs Atletico & Napoli vs Arsenal plus four games - scores, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cm4gkpnd7kvrt"
+        "title": "\"브래드 피트에 '첫눈에 반했다\"기네스 팰트로 30년전 사랑 회상...\"여전히 좋은 사람\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260909192407534"
       }
     },
     {
-      "keyword": "후지 산",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "일본 중부 폭우로 곳곳 피해…\"최소 41명 부상\"",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260910053113nA0"
-      }
-    },
-    {
-      "keyword": "al-nassr vs abha",
+      "keyword": "문근영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Is Cristiano Ronaldo playing today? Confirmed lineups for Al-Nassr vs Abha in 2026-27 Saudi Pro League season",
-        "source": "World Soccer Talk",
-        "url": "https://worldsoccertalk.com/news/is-cristiano-ronaldo-playing-today-projected-lineups-for-al-nassr-vs-abha-in-2026-27-saudi-pro-league-season/"
+        "title": "\"결혼 후 살 확 빠져\" 문근영, 더 날씬해진 근황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260909214850692"
       }
     },
     {
-      "keyword": "이창용",
+      "keyword": "sk온",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이창용 前총재, 피터슨연구소 비상근 선임연구위원 합류",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/us/2026/09/10/EDWBEQYMONGJJPMJAUT36NLJV4/"
+        "title": "유일로보틱스-SK온, 휴머노이드 전고체 배터리 개발",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260909000223"
+      }
+    },
+    {
+      "keyword": "nfl",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Patriots Gameplan: 3 keys to victory in Super Bowl rematch vs. the Seahawks",
+        "source": "New England Patriots",
+        "url": "https://www.patriots.com/news/patriots-gameplan-3-keys-to-victory-in-super-bowl-rematch-vs-the-seahawks-in-week-1"
       }
     }
   ]
