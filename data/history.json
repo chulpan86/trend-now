@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-08T16:32:40.627521+09:00",
-    "label": "16:32",
-    "items": [
-      {
-        "keyword": "임신",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "양준모, ‘임신’ 양지원 손등에 ‘쪽’…웨딩화보 추가 공개",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12147097"
-        }
-      },
-      {
-        "keyword": "장기 기증",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "폭우 속 배달하다 사고…가족 위해 산 46세, 4명 살리고 영면[아살세]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908140709404"
-        }
-      },
-      {
-        "keyword": "이현배",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“화해는 안 했지만 이건 못 참아”…이하늘, 김창열 악성 영상에 분노",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12146894"
-        }
-      },
-      {
-        "keyword": "겨울",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "맨온더분, 한국 `겨울바다` 정취 담은 2026 가을·겨울 컬렉션 공개",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026090715385333680"
-        }
-      },
-      {
-        "keyword": "어선",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "中, 서해 불법조업 자국 '유령선박' 처벌 나서…韓에 증거 요청",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260907111200083"
-        }
-      },
-      {
-        "keyword": "한국토지주택공사",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "손끝으로 청약정보를…LH, 청약플러스에 전자점자 서비스",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908093358526"
-        }
-      },
-      {
-        "keyword": "야차룰",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'야차룰' 강요받은 20대 여성…10대 2명과 싸우다 숨져",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908130447312"
-        }
-      },
-      {
-        "keyword": "유해란",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘슈퍼루키’ 김민솔, 세계랭킹 14위 상승…개인 최고 순위 타이",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908091608605"
-        }
-      },
-      {
-        "keyword": "미국",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[오늘 트럼프는] '북중미 전체 미국 땅' 칠한 지도 올려",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260908113256447"
-        }
-      },
-      {
-        "keyword": "nol 티켓",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "여행·전시를 한 번에…놀유니버스, 인터파크투어·NOL티켓 통합",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260908025100030"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-08T21:23:03.928949+09:00",
     "label": "21:23",
     "items": [
@@ -1051,6 +945,112 @@
           "title": "영국·이스라엘, 정착촌 놓고 ‘정면충돌’···“수십년 우방 관계 최악”",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202609091521001"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T06:22:08.053600+09:00",
+    "label": "06:22",
+    "items": [
+      {
+        "keyword": "걷기",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "하루 7500~1만 보, 조기 사망 위험 최저…못 채운다면 ‘속도’ 높여라 [바디플랜]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909101949903"
+        }
+      },
+      {
+        "keyword": "금양",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "금양, 기장공장을 데이터센터로 물적분할 추진…상폐 돌파구",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260910.22010003164"
+        }
+      },
+      {
+        "keyword": "liverpool vs atlético madrid",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Posible once del Atlético ante el Liverpool en Champions hoy",
+          "source": "Diario AS",
+          "url": "https://as.com/futbol/champions/posible-once-del-atletico-ante-el-liverpool-en-champions-hoy-f202609-n/"
+        }
+      },
+      {
+        "keyword": "채무",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[사설] 빚 탕감 또 확대, 버티기식 악순환 우려된다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20089140"
+        }
+      },
+      {
+        "keyword": "napoli vs arsenal",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Odegaard hits Arsenal winner to sink Napoli",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6z9zywpj3l5t"
+        }
+      },
+      {
+        "keyword": "엘레나 리바키나",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "테니스 리바키나, 오사카 꺾고 US오픈 8강…세계 1위까지 1승(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260908039851007"
+        }
+      },
+      {
+        "keyword": "champions league",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Champions League LIVE: Liverpool vs Atletico & Napoli vs Arsenal plus four games - scores, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm4gkpnd7kvrt"
+        }
+      },
+      {
+        "keyword": "후지 산",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "일본 중부 폭우로 곳곳 피해…\"최소 41명 부상\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260910053113nA0"
+        }
+      },
+      {
+        "keyword": "al-nassr vs abha",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Is Cristiano Ronaldo playing today? Confirmed lineups for Al-Nassr vs Abha in 2026-27 Saudi Pro League season",
+          "source": "World Soccer Talk",
+          "url": "https://worldsoccertalk.com/news/is-cristiano-ronaldo-playing-today-projected-lineups-for-al-nassr-vs-abha-in-2026-27-saudi-pro-league-season/"
+        }
+      },
+      {
+        "keyword": "이창용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이창용 前총재, 피터슨연구소 비상근 선임연구위원 합류",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/09/10/EDWBEQYMONGJJPMJAUT36NLJV4/"
         }
       }
     ]
