@@ -948,5 +948,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-10T03:09:53.949337+09:00",
+    "label": "03:09",
+    "items": [
+      {
+        "keyword": "애플",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“19조 대박이라던데”…애플 초고가 ‘첫 폴더블 아이폰’ 카운트다운",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909195527241"
+        }
+      },
+      {
+        "keyword": "바르셀로나 대 페예노르트",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"우리는 UCL 우승할 능력 있다\" 플릭의 선전포고...'19세 주장' 야말도 \"올해는 가능하다\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/09/202609091409776507O"
+        }
+      },
+      {
+        "keyword": "apple",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Apple event live updates: First foldable iPhone, iPhone 18 Pro, and watches expected",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/live/apple-event-live-updates-first-foldable-iphone-iphone-18-pro-and-watches-expected-122840434.html"
+        }
+      },
+      {
+        "keyword": "파주 냉동창고",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6850682_36918.html"
+        }
+      },
+      {
+        "keyword": "틈만나면,",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "존박, 알고 보니 고졸…\"'슈스케2' 출연 후 美 명문대 중퇴\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260908_0003781632"
+        }
+      },
+      {
+        "keyword": "barcelona vs feyenoord",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Barcelona’s predicted lineup against Feyenoord in the Champions League",
+          "source": "صوت الإمارات",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/09/09/barcelonas-predicted-lineup-against-feyenoord-in-the-champions-league/"
+        }
+      },
+      {
+        "keyword": "뷔",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "방탄소년단 뷔, 상의 탈의 하고 타투 새기나...월드스타의 일상 훔쳐보기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260909193639841"
+        }
+      },
+      {
+        "keyword": "신탁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"치매 걸리면 강남 아파트는 손자에게\"… 유언대용신탁 7조원 넘었다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609093635i"
+        }
+      },
+      {
+        "keyword": "보통주",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "유안타증권, 최대주주 Yuanta Securities Asia Financial Services 등 주식 1만500주 증가…최대주주 장내매수",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699423"
+        }
+      },
+      {
+        "keyword": "서안",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "영국·이스라엘, 정착촌 놓고 ‘정면충돌’···“수십년 우방 관계 최악”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609091521001"
+        }
+      }
+    ]
   }
 ]

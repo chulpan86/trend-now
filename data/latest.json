@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-09T23:54:08.733814+09:00",
-  "label": "23:54",
+  "timestamp": "2026-09-10T03:09:53.949337+09:00",
+  "label": "03:09",
   "items": [
     {
-      "keyword": "김민석",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "김민석 수첩에 ‘서울시장 후보 정청래’ 메모···정청래 “이번엔 수첩으로 때리나” 발끈",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609092005001"
-      }
-    },
-    {
-      "keyword": "뉴데일리",
+      "keyword": "애플",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[여론조사 ‘경향’]국정 운영 지지율 첫 30%대 하락…민주당·국힘 지지율도 근접",
+        "title": "“19조 대박이라던데”…애플 초고가 ‘첫 폴더블 아이폰’ 카운트다운",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260909195527241"
+      }
+    },
+    {
+      "keyword": "바르셀로나 대 페예노르트",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"우리는 UCL 우승할 능력 있다\" 플릭의 선전포고...'19세 주장' 야말도 \"올해는 가능하다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/09/09/202609091409776507O"
+      }
+    },
+    {
+      "keyword": "apple",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Apple event live updates: First foldable iPhone, iPhone 18 Pro, and watches expected",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/live/apple-event-live-updates-first-foldable-iphone-iphone-18-pro-and-watches-expected-122840434.html"
+      }
+    },
+    {
+      "keyword": "파주 냉동창고",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[단독] 냉동창고에 가둔 직후 AI에 \"창고에 사람 있으면 어떻게 되나?\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6850682_36918.html"
+      }
+    },
+    {
+      "keyword": "틈만나면,",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "존박, 알고 보니 고졸…\"'슈스케2' 출연 후 美 명문대 중퇴\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260908_0003781632"
+      }
+    },
+    {
+      "keyword": "barcelona vs feyenoord",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Barcelona’s predicted lineup against Feyenoord in the Champions League",
+        "source": "صوت الإمارات",
+        "url": "https://www.voiceofemirates.com/en/sport/2026/09/09/barcelonas-predicted-lineup-against-feyenoord-in-the-champions-league/"
+      }
+    },
+    {
+      "keyword": "뷔",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "방탄소년단 뷔, 상의 탈의 하고 타투 새기나...월드스타의 일상 훔쳐보기",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260909193639841"
+      }
+    },
+    {
+      "keyword": "신탁",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"치매 걸리면 강남 아파트는 손자에게\"… 유언대용신탁 7조원 넘었다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202609093635i"
+      }
+    },
+    {
+      "keyword": "보통주",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "유안타증권, 최대주주 Yuanta Securities Asia Financial Services 등 주식 1만500주 증가…최대주주 장내매수",
+        "source": "디지털투데이",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699423"
+      }
+    },
+    {
+      "keyword": "서안",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "영국·이스라엘, 정착촌 놓고 ‘정면충돌’···“수십년 우방 관계 최악”",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609091129011"
-      }
-    },
-    {
-      "keyword": "정치인",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "부산시선관위, 추석 전후 위법행위 예방·단속 강화",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260909149800051"
-      }
-    },
-    {
-      "keyword": "예비역",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"예비역 병장서 다시 예비역 하사로\" 육군, 예비역 부사관 239명 임용",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260909174333464"
-      }
-    },
-    {
-      "keyword": "사이언스 투데이",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[다시보기] 9월 9일 (수) 오후 사이언스 투데이",
-        "source": "YTN 사이언스",
-        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202609091603037571"
-      }
-    },
-    {
-      "keyword": "민주노동조합총연맹",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[단독] “내 세금으로 민주노총 사무실 보증금을 왜”…100억대 예산 삭감했다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260909152706391"
-      }
-    },
-    {
-      "keyword": "이정은",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“화장실서 반라로 발견될 정도”…이준서 의사, 9년 알코올 중독 고백 [TVis]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260909213127293"
-      }
-    },
-    {
-      "keyword": "서정진",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[Who Is ?] 서정진 셀트리온그룹 회장",
-        "source": "비즈니스포스트",
-        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446427"
-      }
-    },
-    {
-      "keyword": "한지윤",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[스경X현장]빅이닝에 쏘아올린 1군 첫 만루포…한화 한지윤 “몬스터월 넘겨서 더 좋았어요”",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202609092256003"
-      }
-    },
-    {
-      "keyword": "고영표",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "SSG 이로운, 6⅔이닝 9K 무실점 깜짝 호투…데뷔 첫 선발승",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8659313"
+        "url": "https://www.khan.co.kr/article/202609091521001"
       }
     }
   ]
