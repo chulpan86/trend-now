@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-10T21:29:04.445435+09:00",
-  "label": "21:29",
+  "timestamp": "2026-09-11T01:44:48.103005+09:00",
+  "label": "01:44",
   "items": [
     {
-      "keyword": "안성훈",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "구글",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "“방송사고” 비명…안성훈·손빈아 무대 중 돌발 상황 (미스트롯 포유)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260910/134643772/1"
-      }
-    },
-    {
-      "keyword": "강선영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "韓총리, '군대 안 가 국방 무지' 지적에 \"그렇다고 애국심 없는 것 아냐\"",
+        "title": "구글, ‘원전 강국’ 핀란드에 20조원 AI 투자",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260910162042580"
+        "url": "https://v.daum.net/v/20260911003637125"
       }
     },
     {
-      "keyword": "김종규",
+      "keyword": "신지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'문원♥' 신지, 가을 옷을 입어도 감출 수 없는 '뼈말라 몸매'…청순미 폭발 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/tv/2026/09/10/GEYTCMJRGQ2WEOBWMMZTANZRME/"
+      }
+    },
+    {
+      "keyword": "어디가",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“액티브냐 패시브냐” 끝났다…기관 돈 잡는 ‘크로스플랫폼’ 경쟁",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/Read?newsId=04418166645578808"
+      }
+    },
+    {
+      "keyword": "유해진",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'황정음과 공개연애' 김종규, 결별 2년 만에 경사…\"느낌 아니까\"",
+        "title": "\"상 때문에 연기하니? 됐어\"…백상 주연상 불발에 유해진이 유해진 했다 [유퀴즈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260910105149389"
+        "url": "https://v.daum.net/v/BnkIHFOcEF"
       }
     },
     {
-      "keyword": "신진서",
+      "keyword": "히 샬리 송",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한국 바둑 첫 주자 안성준, 농심신라면배 2국서 양딩신에 패배(종합)",
+        "title": "'토트넘과 법정 싸움 불사' 히샬리송, U-21 강등에 폭발...계약 해지 후 '어린 시절 꿈' 바스쿠행 추진",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/09/10/HBRDGMBWGZTDIYZWMJQWIZRYMY/"
+      }
+    },
+    {
+      "keyword": "무신사",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'무신사 뷰티' 첫 단독 오프라인 매장 11일 홍대에 오픈",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260910089751007"
+        "url": "https://www.yna.co.kr/view/PYH20260910131400013"
       }
     },
     {
-      "keyword": "skc",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "주성엔지니어링",
+      "keyword": "금메달",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "주성엔지·티에스이 10% 급등…리밸런싱 수요에 소부장 강세",
+        "title": "\"당연히 이길 생각, 우승하겠다!\" 日 16년 만의 亞 정상 탈환 도전…'이민성호' 최대 라이벌 오이와 고 감독 \"경험 쌓으려 출전하는 것 아니다\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/football/2026/09/10/GUZTONJTGBSDSZDDGJRTMZJYGI/"
+      }
+    },
+    {
+      "keyword": "google",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Google Has Removed The Pixel Tablet From Its Store",
+        "source": "Engadget",
+        "url": "https://www.engadget.com/2254487/google-store-removed-pixel-tablet/"
+      }
+    },
+    {
+      "keyword": "웹툰",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "네이버웹툰 직계약 창작자 10명 중 9명, 수익 정산 과정 만족",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260910202451435"
+      }
+    },
+    {
+      "keyword": "수시 경쟁률",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"10년 걸려 의사한다고?\"…부모들 돌변하더니 '대반전'",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202609106282i"
-      }
-    },
-    {
-      "keyword": "화산분화",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "인니 화산 분화 취재하던 사진기자 5명 등 8명 해상서 실종",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260910104709130"
-      }
-    },
-    {
-      "keyword": "메이플 블루아카이브",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘메이플스토리’, 블루 아카이브 콜라보·‘방탈출 카페’ 등 특별한 가을 예고",
-        "source": "경향게임스",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308267"
-      }
-    },
-    {
-      "keyword": "방아쇠",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "강도범이 몸싸움 중 떨어진 권총 주워 경찰관 향해 방아쇠 당겨",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Bv1VdTNdHX"
-      }
-    },
-    {
-      "keyword": "pakistan vs england",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Ball by Ball Commentary & Live Score - ENG vs PAK, 3rd Test",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/pakistan-tour-in-england-2026-1496563/england-vs-pakistan-3rd-test-1496584/ball-by-ball-commentary"
+        "url": "https://www.hankyung.com/article/2026091073241"
       }
     }
   ]
