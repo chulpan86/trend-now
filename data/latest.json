@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-11T04:20:33.560659+09:00",
-  "label": "04:20",
+  "timestamp": "2026-09-11T07:04:29.228286+09:00",
+  "label": "07:04",
   "items": [
     {
-      "keyword": "바이에른 대 보되/글림트",
+      "keyword": "잠수함",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "바이에른 뮌헨 콤파이 감독, 우파메카노-요나단 타 듀오 재신임…UCL 첫 경기 현지 예측",
+        "title": "핵잠 이상 기류…미해군, 日 보유긍정·韓 과시용 안돼",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260910200328849"
+        "url": "https://v.daum.net/v/8Ex4jwMVYX"
       }
     },
     {
-      "keyword": "채무",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"'빚→주식' 못 바꾸나\"…中정부 제동에 부동산기업 채무조정 '비상'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260910112611612"
-      }
-    },
-    {
-      "keyword": "전국삼성전자노동조합",
+      "keyword": "정년",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "최승호 위원장, '장인 수의계약 잘못' 따진 노조원에 '인사 보복' 압박",
+        "title": "김민석 \"메가특구 실현, 勞와 협의\"…한노총 \"노동권 후퇴 안돼\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/yT4X4MUZah"
+        "url": "https://v.daum.net/v/20260910115257718"
       }
     },
     {
-      "keyword": "ucl",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "손태진",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Manchester United v Sabah: Champions League – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live"
-      }
-    },
-    {
-      "keyword": "유가",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[글로벌증시] 유가·국채 금리 급등에 뉴욕증시 일제 하락",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260910002800038"
-      }
-    },
-    {
-      "keyword": "ai",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate",
-        "source": "WSJ",
-        "url": "https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1"
-      }
-    },
-    {
-      "keyword": "먹방",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "24살 120만 '먹방 인플루언서' 떠났다…한번에 70개 먹은 '음식' 뭐길래 [글로벌 pick]",
+        "title": "'편스토랑' 손태진 \"할머니, 美 대사관 근무…전쟁 중 라디오 방송까지\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260909111045199"
+        "url": "https://v.daum.net/v/20260910215328022"
       }
     },
     {
-      "keyword": "skt",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "성과급",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "SK Telecom discusses AI growth strategy with global telecom leaders",
-        "source": "Telecompaper",
-        "url": "https://www.telecompaper.com/news/sk-telecom-discusses-ai-growth-strategy-with-global-telecom-leaders--1582252"
+        "title": "삼성SDI, 성과급 산정방식 '영업이익 10%'로 변경…내년 적용",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260910133438689"
       }
     },
     {
-      "keyword": "숲",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "대한체육회",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "김요한",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "제주, 2030 온실가스 감축 목표 58%로 상향",
-        "source": "제민일보",
-        "url": "https://www.jemin.com/news/articleView.html?idxno=842814"
+        "title": "김요한·오연희, 핑크빛 기류…“이 정도면 연인”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20260910/134642021/1"
       }
     },
     {
-      "keyword": "google usa",
+      "keyword": "삼성 라이온즈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[스포츠 영상] 모두를 놀라게 한 호수비‥'후라도는 망연자실'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2azGK41yWs"
+      }
+    },
+    {
+      "keyword": "예금",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "은행권 정기예금 금리 줄인상...증시자금 은행으로?",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0102_202609110030503764"
+      }
+    },
+    {
+      "keyword": "비트코인",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "New Mexico leaders ask Apple and Google not to use ‘New America’ on their maps",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/09/10/new-mexico-leaders-ask-apple-google-not-use-new-america-their-maps/"
+        "title": "코인베이스 CEO, 비트코인 바닥 찍었다 선언",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/cryptocurrency-news/article-2089653"
+      }
+    },
+    {
+      "keyword": "앤트로픽",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"인류 멸종될 수도\"‥집단행동까지 하며 폭주하는 AI 충격",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851016_37004.html"
       }
     }
   ]
