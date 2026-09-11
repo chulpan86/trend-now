@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-11T19:12:39.762033+09:00",
-  "label": "19:12",
+  "timestamp": "2026-09-11T23:41:58.370720+09:00",
+  "label": "23:41",
   "items": [
     {
-      "keyword": "키움 대 삼성",
+      "keyword": "대한민국의 대법관",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "“피자 파워” 페덱, 11일 키움 상대 5승 도전…박승규 2번 RF-김영웅 6번 3B [오!쎈 대구] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/09/11/202609111547776449O"
+        "title": "청와대, 조희대에 \"대법관 재제청, 신속히 진행해야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/6JrvBloM7N"
       }
     },
     {
-      "keyword": "게임",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "한화 이글스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "엔씨·삼성, 도쿄게임쇼서 손잡는다…게임·3D 전시 협업",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260911052300017"
+        "title": "'한화가 6억 질렀는데' ERA 14.06→선발 박탈, '1이닝-2이닝' 연투도 문제없었다…최인호 미친 수비에 무실점 이어가다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/tRUfse71mY"
       }
     },
     {
-      "keyword": "lg이노텍",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'145만원→55만원' 주가 롤러코스터…\"2배 뛴다\" 깜짝 전망 [종목+]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202609107076i"
-      }
-    },
-    {
-      "keyword": "이종섭",
+      "keyword": "김원호",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'이종섭 호주 도피' 윤석열 1심 무죄‥법원 \"수사방해 의도 단정 못 해\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6851206_36918.html"
-      }
-    },
-    {
-      "keyword": "차정원",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘하정우♥’ 차정원 ‘뼈말라 몸매’의 정석…미야코지마서 뽐낸 헐렁한 수영복 자태",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202609101710003"
-      }
-    },
-    {
-      "keyword": "가능한 사랑",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이창동 감독 신작 ‘가능한 사랑’, 베네치아국제영화제 황금사자상 놓고 경쟁",
+        "title": "\"세계 1위 한국 이겼잖아! 왜 해체하나?\"…韓 서승재·김원호 이겼다고 이런 일이→'해체 철회' 말레이 조, 10월부터 다시 뛴다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260911150553991"
+        "url": "https://v.daum.net/v/20260911162236932"
       }
     },
     {
-      "keyword": "승무원",
+      "keyword": "마무리 투수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "다저스 6900만 달러 완전히 헛돈썼네…'최고 168km' 무명 투수 PS 마무리 1순위 급부상, 사사키도 후보",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260911094327608"
+      }
+    },
+    {
+      "keyword": "cpi 발표",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "美 8월 CPI 전년비 3.4% 상승…금리 인상 가능성 높아져(종합2보)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260911223640697"
+      }
+    },
+    {
+      "keyword": "전소연",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "익스 이상미, 전소연 '퇴사할게여' 유사 의혹에 직접 등판…\"억측 그만\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260911175949929?f=m"
+      }
+    },
+    {
+      "keyword": "목사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "학대 목사, 숨진 ‘장애 11살’ 활동지원사 등록…급여 받았다",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/area/chungcheong/1277361.html"
+      }
+    },
+    {
+      "keyword": "공인중개사",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"선배 스타킹 빨았다\" \"男승객이 치맛속 찍어\"...승무원 남모를 고충 - 머니투데이",
+        "title": "집 맘에 안 들어도 2만원? 임장비 논란에 발칵…중개사협회 \"사실 아냐\" - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/11/2026091110351349878"
+        "url": "https://www.mt.co.kr/estate/2026/09/11/2026091014532799818"
       }
     },
     {
-      "keyword": "부천시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "철원군, 2026년 공직자 청렴 교육…실천 의지 다져",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260911153354099"
-      }
-    },
-    {
-      "keyword": "마블 시네마틱 유니버스",
+      "keyword": "라이머",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Marvel unveils new Avengers: Doomsday trailer in honor of MCU milestone",
-        "source": "IMDb",
-        "url": "https://www.imdb.com/news/ni66008646/?ref_=ttnw_art_perm"
+        "title": "'김구라 子' 그리가 던진 진심…\"아빠 재혼 후 훨씬 밝아져, 동생도 태어났다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260911222950622"
       }
     },
     {
-      "keyword": "벤처 캐피털",
+      "keyword": "콜 오브 듀티",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "실적 좋아 상장 준비했는데…가짜 회계장부로 투자받아 VC업계 ‘충격’ [VC는 지금]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260911074130626"
+        "title": "[기자수첩] 한국전쟁은 게임으로 만들면 왜 안 된다는 것인가",
+        "source": "펜앤마이크",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=127575"
       }
     }
   ]
