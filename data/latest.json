@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-12T05:40:23.326362+09:00",
-  "label": "05:40",
+  "timestamp": "2026-09-12T07:53:01.083399+09:00",
+  "label": "07:53",
   "items": [
     {
-      "keyword": "이서진",
+      "keyword": "박재현",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "'비자책 11승' 대투수 또 연패 끊다! 김도영 대신 3번타자 박재현 역전포...KIA 5-2 승리, 3연패 탈출 [광주 리뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260911213352721"
+      }
+    },
+    {
+      "keyword": "명태균",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“추석 선물로 보내주세요!” 서인영, 김광규가 준비한 ‘리프레시 음료’에 화색♥ | SBS 260911 방송",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC481733853"
+        "title": "김종인 “명태균에 여론조사 의뢰 안해”… 오세훈 측은 “金이 의뢰”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260911/134653572/2"
       }
     },
     {
-      "keyword": "혈당",
+      "keyword": "야구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“꼴찌팀이 고교 최대어 독점, 이래도 되나”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260912003552232"
+      }
+    },
+    {
+      "keyword": "체포",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "내년부터 당원병 환자 혈당관리 물품 본인부담금 지원",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971645"
+        "title": "남자친구 체포 막다 경찰관 손가락 깨문 50대…공무집행방해·상해 혐의 인정",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260912580005"
       }
     },
     {
-      "keyword": "알렉산더 즈베레프",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "츠베레프, US오픈 남자단식 준결승 진출…생애 첫 우승에 '성큼'(종합)",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/general-sport/6286379"
-      }
-    },
-    {
-      "keyword": "동남아시아",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "인도네시아 축구계, \"우리가 동남아시아를 앞서가고 있다\"고 선언",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/lang-bong-da-indonesia-tuyen-bo-chung-ta-vuot-tren-dong-nam-a"
-      }
-    },
-    {
-      "keyword": "부동산 거품",
+      "keyword": "루카스 베리발",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“韓도 日처럼 잃어버린 30년 될수도”…李 ‘부동산 거품’ 경고에 힘 실은 김윤덕",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/politics/12150672"
+        "title": "[오피셜] 손흥민 향해 “제 우상입니다” 공개적으로 존경심 드러냈던 베리발, 재계약 체결…“토트넘은 제 목표 이루기에 가장 적합한 곳”",
+        "source": "Goal.com",
+        "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB-%E1%84%92%E1%85%A3%E1%86%BC%E1%84%92%E1%85%A2-%E1%84%8C%E1%85%A6-%E1%84%8B%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9-%E1%84%8C%E1%85%A9%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%89%E1%85%B5%E1%86%B7-%E1%84%83%E1%85%B3%E1%84%85%E1%85%A5%E1%84%82%E1%85%A2%E1%86%BB%E1%84%83%E1%85%A5%E1%86%AB-%E1%84%87%E1%85%A6%E1%84%85%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AF-%E1%84%8C%E1%85%A2%E1%84%80%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8-%E1%84%8E%E1%85%A6%E1%84%80%E1%85%A7%E1%86%AF--%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%8C%E1%85%A6-%E1%84%86%E1%85%A9%E1%86%A8%E1%84%91%E1%85%AD-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%AE%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A6-%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%92%E1%85%A1%E1%86%B8%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%A9%E1%86%BA/blta68a6eec665490f1"
       }
     },
     {
-      "keyword": "한지민",
+      "keyword": "대학",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"잘 지내시죠\" 한지민, '최정훈♥' 황당 결별설 …4개월만 생존신고 [Oh!쎈 이슈]",
+        "title": "‘서울대 10개 만들기’ 선정 3개 대학, 수시 지원자 늘었다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260911224241769"
+        "url": "https://v.daum.net/v/20260911225207939"
       }
     },
     {
-      "keyword": "아스트라 ai",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "us 오픈",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "3D 작업도 '척척'…'아스트라' 등장에 술렁이는 게임업계",
+        "title": "취미로 테니스 한다고? ‘15조 금수저’ 한국계 페굴라의 반란",
         "source": "Daum",
-        "url": "https://v.daum.net/v/WGSud0CElI"
+        "url": "https://v.daum.net/v/qgIT3SgRvt"
       }
     },
     {
-      "keyword": "기쁜 우리 좋은 날",
+      "keyword": "유격수",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘기쁜 우리 좋은 날’ 정호빈, 윤다영 복수 계획 만류…“네 행복이 보상”",
-        "source": "싱글리스트",
-        "url": "https://www.slist.kr/news/articleView.html?idxno=765222"
+        "title": "'괴물' 엘리 데 라 크루즈 '로켓팔' 증명…내야수 최고 구속 어시스트 독식",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260910n16161"
       }
     },
     {
-      "keyword": "최저임금",
+      "keyword": "암호화폐",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘노란봉투법’ 이어 근로자 추정제 논란",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260912004037353"
+        "title": "지난 1시간 2.36억 달러 규모 선물 포지션 강제 청산",
+        "source": "코인리더스",
+        "url": "https://www.coinreaders.com/257844"
       }
     },
     {
-      "keyword": "100달러",
+      "keyword": "พยากรณ์อากาศ",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "국제 유가, 중동-이란 호르무즈 협상 기대에 2%대 하락",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260912050009439"
+        "title": "กรมอุตุนิยมวิทยา ออกประกาศเตือนฉบับที่ 1 ฝนตกหนักมาก ตั้งแต่วันที่ 8-13 ก.ย.-พายุลูกใหม่ก่อตัว ฟิลิปปินส์",
+        "source": "js100.com",
+        "url": "https://www.js100.com/en/site/news/view/164240"
       }
     }
   ]
