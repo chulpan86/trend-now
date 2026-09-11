@@ -940,5 +940,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-12T02:59:50.421050+09:00",
+    "label": "02:59",
+    "items": [
+      {
+        "keyword": "중앙일보",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "중앙일보는 워크아웃, JTBC는 회생…리테일 채권 회수 전망도 갈린다",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/09/07/2026090780135.html"
+        }
+      },
+      {
+        "keyword": "파이널 테이블",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "안효섭·홍화연, '파이널 테이블'로 시청자 오감 자극",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260911111849202"
+        }
+      },
+      {
+        "keyword": "옵세션",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Here’s what to look for at this year’s Toronto International Film Festival",
+          "source": "AP News",
+          "url": "https://apnews.com/article/tiff-toronto-film-festival-2d7faa3d3b6a77824f1af43932ecaba0"
+        }
+      },
+      {
+        "keyword": "네이버웹툰",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "네이버웹툰 작가 만족도 높았다…\"계약·정산 신뢰 88.9점\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260911123000864"
+        }
+      },
+      {
+        "keyword": "니콜 키드먼",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "니콜 키드먼, 톰 크루즈와 헤어진 후 매우 외로웠다고 밝혀",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/yeu-360/nicole-kidman-tiet-lo-da-rat-co-don-sau-khi-chia-tay-tom-cruise-1764979.ldo"
+        }
+      },
+      {
+        "keyword": "원자로",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "소형모듈원자로(SMR) 특별법 시행…2035년 SMR 상용화 본격화",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971747"
+        }
+      },
+      {
+        "keyword": "이엘리야",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'보이스피싱범' 잡은 며느리, 시어머니의 시선이 돌변했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bcRxSJqFpx"
+        }
+      },
+      {
+        "keyword": "코믹월드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2026년 8월 3주차 주간게임동향",
+          "source": "게임트릭스",
+          "url": "https://www.gametrics.com/news/News01_View.aspx?seqid=68867"
+        }
+      },
+      {
+        "keyword": "타짜",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[피플] 배우 스윙스의 재발견",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260911171836661"
+        }
+      },
+      {
+        "keyword": "더커뮤니티2",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘더 커뮤니티2’ 5화, 3시간 라이브로 함께 즐긴다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260911115612989"
+        }
+      }
+    ]
   }
 ]
