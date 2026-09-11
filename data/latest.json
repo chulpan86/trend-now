@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-11T09:40:14.426159+09:00",
-  "label": "09:40",
+  "timestamp": "2026-09-11T14:24:56.622379+09:00",
+  "label": "14:24",
   "items": [
     {
-      "keyword": "김연정",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "이동건",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'경기장의 꽃' 치어리더 열전",
-        "source": "ZUM 뉴스",
-        "url": "https://m.news.zum.com/photo/15816740/107686671?cm=news_photolist&r=1&thumb=1"
+        "title": "이동건 측, 제주 카페 '방치' 논란에 선 그었다 \"정리하고 나와, 이후 상황 모른다\" [공식]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260911134407708"
       }
     },
     {
-      "keyword": "장교",
+      "keyword": "이용진",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[단독] 최근 3년간 사관학교 출신 장교 42명, 의대시험 안보고 의대行[이현호의 밀리터리!톡]",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20089608"
+        "title": "이용진, ‘1박 2일’ 합류 3개월 만에 촬영 보이콧 선언…“이럴 거면 안 해”",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260911/134648761/1"
       }
     },
     {
-      "keyword": "반찬",
+      "keyword": "두산에너 빌리티",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "증권가가 ‘핵심 원전주’ 두산에너빌리티를 주목하는 이유",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202609106897i"
+      }
+    },
+    {
+      "keyword": "이더 리움",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "ETH 현물 ETF 400억원 순유출...하루만에 전환",
+        "source": "코인리더스",
+        "url": "http://www.coinreaders.com/257741"
+      }
+    },
+    {
+      "keyword": "김민수",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "기사",
-      "traffic_raw": "500+",
-      "traffic": 500,
       "news": {
-        "title": "부산 삼락·화명 수상 레포츠타운 조류경보 '관심'으로 하향",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260910120600051"
-      }
-    },
-    {
-      "keyword": "마우리시오 포체티노",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"토트넘에 우승 줘야 해\" 손흥민도 리그 타이틀 생긴다? 포체티노 깜짝 주장...\"징계받은 첼시, 2017년 우승 박탈해라\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/09/10/202609101655773353O"
-      }
-    },
-    {
-      "keyword": "시위",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“우리를 규제하라”…거리로 나온 AI 로봇들의 이색 시위 [잇슈SNS]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260911074046611"
-      }
-    },
-    {
-      "keyword": "엘링 홀란",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘무려 2732억!’ 괴물 FW 홀란, FC 바르셀로나 이적 고려 중 “맨시티의 방향성에 불만, 에이전트들 이미 접촉”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260910194909441"
-      }
-    },
-    {
-      "keyword": "연금복권720+",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“여보, 나 1등이래” 복권 긁다 ‘싸한 느낌’…5억원 대박 터진 사연",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20088569"
-      }
-    },
-    {
-      "keyword": "코모",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "아직도 이런 '낭만 팀'이 있었나…伊 코모, 암 진단 선수 재계약 → 고령 팬에 챔스 좌석 양도 '눈길'",
+        "title": "남규리, 씨야 활동 중단 당시 심경 \"보이콧 돼..결국 노래가 날 부르더라\"",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/09/09/MYYTGNBWGVRTQYTFMI4DQMBVMM/"
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/09/10/GIYTOMBYGIZTQNZZMJRTAOBXGY/"
       }
     },
     {
-      "keyword": "도지코인",
+      "keyword": "푸바오",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "에버랜드 '바오패밀리' 막내 판다 이름은 '슈바오'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260911034600061"
+      }
+    },
+    {
+      "keyword": "앤 해서웨이",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "앤 해서웨이, ‘가짜 임신설’ 잠재운 완벽 만삭 D라인… 여전한 할리우드 여신 미모",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202609102200003"
+      }
+    },
+    {
+      "keyword": "와이파이",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대한항공-아시아나, 15일부터 ‘무료 기내 와이파이’ 서비스",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/09/11/57ILFX7LZ5CEVN2G5EFPGH4ZRI/"
+      }
+    },
+    {
+      "keyword": "유보영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "비트와이즈, 도지코인 ETF 'BWOW' 청산 및 상장폐지 결정",
-        "source": "데이터투자",
-        "url": "https://www.datatooza.com/article/202609110518133231cd1e77fdd5_80"
+        "title": "치어리더 유보영,’잠실 찾은 랜더스 여신’ [O! SPORTS 숏폼]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/09/10/MY3WKNJZGRSGKODGGRTGGMTFGY/"
+      }
+    },
+    {
+      "keyword": "livenation",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Taylor Swift Promoter Says Live Nation Shut Him Out as AEG Calls for Ticketmaster Breakup",
+        "source": "TicketNews",
+        "url": "https://www.ticketnews.com/2026/09/aeg-louis-messina-live-nation-settlement/"
       }
     }
   ]
