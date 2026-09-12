@@ -1050,5 +1050,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-13T01:37:47.114258+09:00",
+    "label": "01:37",
+    "items": [
+      {
+        "keyword": "토트넘 대 에버턴",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“저는 믿습니다” 5500억 사용하고 ‘0승·0골·17위’ 진짜 승리가 필요한 시점에 토트넘 감독 “나는 선수들 능력에 확신이 있다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912111240478"
+        }
+      },
+      {
+        "keyword": "분데스리가",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "황희찬, 독일 데뷔전서 ‘택배 크로스’로 첫 도움…샬케 시즌 첫 승리",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609120931001"
+        }
+      },
+      {
+        "keyword": "리버풀",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'이강인과 훈련 후 달라졌다'…이적 요청 논란 후 첫 선발 출전 '팀이 정상화되고 있다'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912192850018"
+        }
+      },
+      {
+        "keyword": "프리미어리그",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "엔조 감독, 맨체스터 더비에 대해: \"이런 경기를 원합니다\"",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/enzo-maresca-manchester-united-preview-september-2026-63924717"
+        }
+      },
+      {
+        "keyword": "epl",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Everton at Tottenham: Starting Lineups, TV and Live Streams, How to Watch Online",
+          "source": "Royal Blue Mersey",
+          "url": "https://royalbluemersey.sbnation.com/everton-gamethread-live-blog/83221/tottenham-everton-starting-lineups-tv-and-live-streams-how-to-watch-online"
+        }
+      },
+      {
+        "keyword": "pl",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Koniec z dominacją big techów w chmurze? KE ma plan, polska branża się spiera",
+          "source": "wnp.pl",
+          "url": "https://www.wnp.pl/tech/koniec-z-dominacja-big-techow-w-chmurze-ke-ma-plan-polska-branza-sie-spiera,1097244.html"
+        }
+      },
+      {
+        "keyword": "이은결",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'870평 부지 소유' 이은결, 마술 공연 장비만 200억 이상 “2억짜리 기차도 한 번 써”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260913005349234"
+        }
+      },
+      {
+        "keyword": "블리치",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Bleach: Thousand-Year Blood War – The Calamity Episode 8: Release Date, Time, Where to Watch, and More",
+          "source": "IMDb",
+          "url": "https://www.imdb.com/news/ni66003950/"
+        }
+      },
+      {
+        "keyword": "ngoại hạng anh",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Siêu máy tính Opta dự đoán Ngoại hạng Anh 12/9: Liverpool, Chelsea sáng cửa, đại chiến Villa - Forest dễ chia điểm",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/sieu-may-tinh-opta-du-doan-ngoai-hang-anh-12-9-liverpool-chelsea-sang-cua-dai-chien-villa-forest-de-chia-diem"
+        }
+      },
+      {
+        "keyword": "광명시의회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "회기 중 女와 호텔 간 광명시의원 “사생활 있는 것 아니냐”…항변에도 결국 징계 절차",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912090510939"
+        }
+      }
+    ]
   }
 ]
