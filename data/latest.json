@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-13T01:37:47.114258+09:00",
-  "label": "01:37",
+  "timestamp": "2026-09-13T03:52:06.684173+09:00",
+  "label": "03:52",
   "items": [
     {
       "keyword": "토트넘 대 에버턴",
@@ -13,23 +13,13 @@
       }
     },
     {
-      "keyword": "분데스리가",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "연애",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "황희찬, 독일 데뷔전서 ‘택배 크로스’로 첫 도움…샬케 시즌 첫 승리",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609120931001"
-      }
-    },
-    {
-      "keyword": "리버풀",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "'이강인과 훈련 후 달라졌다'…이적 요청 논란 후 첫 선발 출전 '팀이 정상화되고 있다'",
+        "title": "안은진, '임신' 의심에 \"안 한 지 6개월도 넘어\" 폭탄 발언..서강준 당황 [너 말고 다른 연애]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260912192850018"
+        "url": "https://v.daum.net/v/20260912235548768"
       }
     },
     {
@@ -44,12 +34,22 @@
     },
     {
       "keyword": "epl",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "Everton at Tottenham: Starting Lineups, TV and Live Streams, How to Watch Online",
-        "source": "Royal Blue Mersey",
-        "url": "https://royalbluemersey.sbnation.com/everton-gamethread-live-blog/83221/tottenham-everton-starting-lineups-tv-and-live-streams-how-to-watch-online"
+        "title": "Premier League LIVE: Build-up, Team news, live text, radio & score updates as it happens from across the Premier League",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cvg93lp3271t"
+      }
+    },
+    {
+      "keyword": "블리치",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘Bleach: Thousand-Year Blood War’ Part 4, Episode 8 Release Date, Time and Where to Watch",
+        "source": "IMDb",
+        "url": "https://www.imdb.com/news/ni66003105/?ref_=int_nwr_6"
       }
     },
     {
@@ -57,9 +57,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Koniec z dominacją big techów w chmurze? KE ma plan, polska branża się spiera",
-        "source": "wnp.pl",
-        "url": "https://www.wnp.pl/tech/koniec-z-dominacja-big-techow-w-chmurze-ke-ma-plan-polska-branza-sie-spiera,1097244.html"
+        "title": "Wojsko ostrzega przed rosyjskim atakiem na Ukrainę. Alert RCB dla dwóch województw",
+        "source": "TVN24",
+        "url": "https://tvn24.pl/polska/wojsko-ostrzega-przed-rosyjskim-atakiem-na-ukraine-alert-rcb-dla-dwoch-wojewodztw-st9234133"
       }
     },
     {
@@ -73,33 +73,33 @@
       }
     },
     {
-      "keyword": "블리치",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "spurs vs everton",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "Bleach: Thousand-Year Blood War – The Calamity Episode 8: Release Date, Time, Where to Watch, and More",
-        "source": "IMDb",
-        "url": "https://www.imdb.com/news/ni66003950/"
+        "title": "Tottenham 0-0 Everton: Spurs still without Premier League goal this season",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cqx2zkde1xpet"
       }
     },
     {
-      "keyword": "ngoại hạng anh",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "twitch",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "Siêu máy tính Opta dự đoán Ngoại hạng Anh 12/9: Liverpool, Chelsea sáng cửa, đại chiến Villa - Forest dễ chia điểm",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/sieu-may-tinh-opta-du-doan-ngoai-hang-anh-12-9-liverpool-chelsea-sang-cua-dai-chien-villa-forest-de-chia-diem"
+        "title": "Doja Cat Sparks Fan Concern After Slurring Words on Livestream: 'I'm So Tired of This, Man'",
+        "source": "Complex",
+        "url": "https://www.complex.com/music/a/kris-seavers/doja-cat-slurring-twitch-stream"
       }
     },
     {
-      "keyword": "광명시의회",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "도경완",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "회기 중 女와 호텔 간 광명시의원 “사생활 있는 것 아니냐”…항변에도 결국 징계 절차",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260912090510939"
+        "title": "도경완, 200만 원 대 텐트 구매했는데···장윤정 \"비닐하우스야?\"('도장TV')",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/09/12/GQ2TIZLDMQ2DAM3DMMZGIN3CGM/"
       }
     }
   ]
