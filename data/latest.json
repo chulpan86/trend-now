@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-12T14:15:21.763358+09:00",
-  "label": "14:15",
+  "timestamp": "2026-09-12T18:46:47.473018+09:00",
+  "label": "18:46",
   "items": [
     {
-      "keyword": "김하성",
+      "keyword": "안리원",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "애틀랜타 김하성, 연장 11회 동점 적시타 치고 끝내기 득점",
+        "title": "'뉴욕대 졸업' 안정환 딸, 한국서 취업…\"출근 2일차\" 자식자랑 ('놀면 뭐하니')[방송 프리뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260912133153658"
+      }
+    },
+    {
+      "keyword": "박수진",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'박수진♥' 배용준, 백발 장발 근황 후 또 포착…'14세 장타자'와 라운딩",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260912135549879"
+      }
+    },
+    {
+      "keyword": "술",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "줄줄이 \"술집 안 가요\"…20대들 향하는 곳",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745927"
+      }
+    },
+    {
+      "keyword": "몸매",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "강민경, 독보적 골반 라인 비결은…\"주 4회 고강도 운동·1일 1식\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260912_0003786674"
+      }
+    },
+    {
+      "keyword": "대한민국 교육부",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "외국인 유학생 지난해 50만 첫 돌파…4년 새 6배 급증",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260912026800007"
+        "url": "https://www.yna.co.kr/view/PYH20260910124700013"
       }
     },
     {
-      "keyword": "배구",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "persija jakarta vs persib bandung",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "“한국, 대체 어떤 팀이야?” 결승 길목서 만난 日 초긴장…‘득점 2위’ 허수봉에 ‘수호신’ 박경민까지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260912023112956"
+        "title": "Demi Persija vs Persib, The Jakmania Rela Datang dari Luar Jakarta",
+        "source": "Liputan6.com",
+        "url": "https://www.liputan6.com/news/read/8290369/demi-persija-vs-persib-the-jakmania-rela-datang-dari-luar-jakarta"
       }
     },
     {
-      "keyword": "집",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "k리그1",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "거래 절벽에 \"민간 살아나야\"...대출 규제 '딜레마'",
+        "title": "'멀티골'로 대전 연승 이끈 주민규, K리그 28라운드 MVP",
         "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0102_202609120526240840"
+        "url": "https://www.ytn.co.kr/_ln/0107_202609112311165988"
       }
     },
     {
-      "keyword": "캠브리콘",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'웃돈 5배 줘도 못 구한다'…삼전닉스에 목줄 잡힌 中 [강경주의 테크X]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026091194276"
-      }
+      "keyword": "호시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     },
     {
-      "keyword": "원자력 발전소",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독] 원자력 발전소에 ‘만취 노동자’…사흘 새 2명 적발",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12317947"
-      }
-    },
-    {
-      "keyword": "리브 골프",
+      "keyword": "기부",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "6.7조 쏟아붓고 스타 싹쓸이…\"돈 떨어지니 남남\" 허무한 몰락 [조수영의 구설(球說)]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202609106999i"
+        "title": "동해시, 추석 고향사랑기부 '혜택 하나 더'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260911059800062"
       }
     },
     {
-      "keyword": "박지현",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "프랑코 마스탄투오노",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "‘13억→31억’ 집 등장에 박지현 “집 사보고 싶다”",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260911510411"
-      }
-    },
-    {
-      "keyword": "중앙은행",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "ECB 올해 두 번째 금리 인상…예금금리 연 2.50%로 0.25%p↑",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fwdVyNfzzw"
-      }
-    },
-    {
-      "keyword": "탄도 미사일",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "합참 “북한, 동해상으로 단거리 탄도미사일 수발 발사”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609120747001"
-      }
-    },
-    {
-      "keyword": "판결",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[AI그래픽뉴스] 법원 향한 매서운 불신… \"차라리 AI 판사에게 재판받겠다\"",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260910000217"
+        "title": "메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260912026600007"
       }
     }
   ]
