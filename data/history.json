@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-09-11T07:04:29.228286+09:00",
-    "label": "07:04",
-    "items": [
-      {
-        "keyword": "잠수함",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "핵잠 이상 기류…미해군, 日 보유긍정·韓 과시용 안돼",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8Ex4jwMVYX"
-        }
-      },
-      {
-        "keyword": "정년",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김민석 \"메가특구 실현, 勞와 협의\"…한노총 \"노동권 후퇴 안돼\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910115257718"
-        }
-      },
-      {
-        "keyword": "손태진",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'편스토랑' 손태진 \"할머니, 美 대사관 근무…전쟁 중 라디오 방송까지\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910215328022"
-        }
-      },
-      {
-        "keyword": "성과급",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼성SDI, 성과급 산정방식 '영업이익 10%'로 변경…내년 적용",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910133438689"
-        }
-      },
-      {
-        "keyword": "대한체육회",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "김요한",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김요한·오연희, 핑크빛 기류…“이 정도면 연인”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260910/134642021/1"
-        }
-      },
-      {
-        "keyword": "삼성 라이온즈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[스포츠 영상] 모두를 놀라게 한 호수비‥'후라도는 망연자실'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2azGK41yWs"
-        }
-      },
-      {
-        "keyword": "예금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "은행권 정기예금 금리 줄인상...증시자금 은행으로?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0102_202609110030503764"
-        }
-      },
-      {
-        "keyword": "비트코인",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "코인베이스 CEO, 비트코인 바닥 찍었다 선언",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2089653"
-        }
-      },
-      {
-        "keyword": "앤트로픽",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"인류 멸종될 수도\"‥집단행동까지 하며 폭주하는 AI 충격",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6851016_37004.html"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-11T09:40:14.426159+09:00",
-    "label": "09:40",
-    "items": [
-      {
-        "keyword": "김연정",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'경기장의 꽃' 치어리더 열전",
-          "source": "ZUM 뉴스",
-          "url": "https://m.news.zum.com/photo/15816740/107686671?cm=news_photolist&r=1&thumb=1"
-        }
-      },
-      {
-        "keyword": "장교",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 최근 3년간 사관학교 출신 장교 42명, 의대시험 안보고 의대行[이현호의 밀리터리!톡]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20089608"
-        }
-      },
-      {
-        "keyword": "반찬",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "기사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "부산 삼락·화명 수상 레포츠타운 조류경보 '관심'으로 하향",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260910120600051"
-        }
-      },
-      {
-        "keyword": "마우리시오 포체티노",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"토트넘에 우승 줘야 해\" 손흥민도 리그 타이틀 생긴다? 포체티노 깜짝 주장...\"징계받은 첼시, 2017년 우승 박탈해라\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/10/202609101655773353O"
-        }
-      },
-      {
-        "keyword": "시위",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“우리를 규제하라”…거리로 나온 AI 로봇들의 이색 시위 [잇슈SNS]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260911074046611"
-        }
-      },
-      {
-        "keyword": "엘링 홀란",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘무려 2732억!’ 괴물 FW 홀란, FC 바르셀로나 이적 고려 중 “맨시티의 방향성에 불만, 에이전트들 이미 접촉”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260910194909441"
-        }
-      },
-      {
-        "keyword": "연금복권720+",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“여보, 나 1등이래” 복권 긁다 ‘싸한 느낌’…5억원 대박 터진 사연",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20088569"
-        }
-      },
-      {
-        "keyword": "코모",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "아직도 이런 '낭만 팀'이 있었나…伊 코모, 암 진단 선수 재계약 → 고령 팬에 챔스 좌석 양도 '눈길'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/09/MYYTGNBWGVRTQYTFMI4DQMBVMM/"
-        }
-      },
-      {
-        "keyword": "도지코인",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "비트와이즈, 도지코인 ETF 'BWOW' 청산 및 상장폐지 결정",
-          "source": "데이터투자",
-          "url": "https://www.datatooza.com/article/202609110518133231cd1e77fdd5_80"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-11T14:24:56.622379+09:00",
     "label": "14:24",
     "items": [
@@ -1149,6 +945,108 @@
           "title": "메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260912026600007"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-12T22:14:24.696778+09:00",
+    "label": "22:14",
+    "items": [
+      {
+        "keyword": "배우",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "SBS 제대로 판 키웠다…'시청률 24.9%' 배우 의사 가운 착장→초대박 예고한 韓 드라마 ('닥터X')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260912130149404"
+        }
+      },
+      {
+        "keyword": "애플",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[테크톡노트] 329만원 아이폰, 접었다고 지갑도 열릴까",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260911129700017"
+        }
+      },
+      {
+        "keyword": "김정은",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“김정은 욕해봐” 美기업 검증 강화에… 北, 외국인에 ‘면접 하청’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZRTzx7vmSn"
+        }
+      },
+      {
+        "keyword": "사고",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "만취해 시내서 시속 104㎞ 질주…사망사고 낸 20대 징역 5년",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260911128500062"
+        }
+      },
+      {
+        "keyword": "메이저 리그 베이스볼",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“한국에서 성공한 뒤 MLB 가겠다”던 부산고 에이스는 결국… [베이스볼 비키니]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260912/134655105/1"
+        }
+      },
+      {
+        "keyword": "블리자드 엔터테인먼트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "스타크래프트 후속작 공개하나…블리즈컨 2026에 쏟아지는 관심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/u1jibBWIHN"
+        }
+      },
+      {
+        "keyword": "apple store",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/"
+        }
+      },
+      {
+        "keyword": "mbc",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "استقالة علي جابر... وخوف من عملية صرف واسعة | MBC: السَعوَدَة جارية على قدم وساق!",
+          "source": "Al Akhbar",
+          "url": "https://www.al-akhbar.com/NewspaperArticles/culture/903884/%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%B9%D9%84%D9%8A-%D8%AC%D8%A7%D8%A8%D8%B1----%D9%88%D8%AE%D9%88%D9%81-%D9%85%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B5%D8%B1%D9%81-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9---mbc--%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D8%A9-%D8%AC"
+        }
+      },
+      {
+        "keyword": "하이마트",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "경찰관",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "경찰 매달고 도주한 오토바이 50대男…‘무면허 들킬까봐’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260912/134654694/1"
         }
       }
     ]
