@@ -1050,5 +1050,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-14T01:45:51.955235+09:00",
+    "label": "01:45",
+    "items": [
+      {
+        "keyword": "맨유 대 맨 시티",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "캐릭 “이상적이지 않다”→마레스카 “적응해야” 정면충돌… 시즌 첫 맨체스터 더비, 벌써 뜨겁다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260913173727769"
+        }
+      },
+      {
+        "keyword": "man utd vs man city",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Premier League: Man Utd bidding to end Man City's perfect start to season",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmdx50vd2v2yt"
+        }
+      },
+      {
+        "keyword": "재혼",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“이주은PD가 돈 축낸다고 악플”…최고기 “돈 축 내도 내 돈이다. 나 돈 많다” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/MNSTOYLEMU3TKNBSMYZTINDGGI/"
+        }
+      },
+      {
+        "keyword": "고우림",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김연아, 고우림과 와인 데이트…때아닌 임신설 부인 후 근황 공개 [N샷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260913190151605"
+        }
+      },
+      {
+        "keyword": "afghanistan vs india",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "IND vs AFG Cricket Scorecard, 1st T20I at Delhi, September 13, 2026",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/afghanistan-in-india-2026-1549583/india-vs-afghanistan-1st-t20i-1549586/full-scorecard"
+        }
+      },
+      {
+        "keyword": "무신사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"올리브영 잡아라\"…K-뷰티 특화 매장으로 도전장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260912001500038"
+        }
+      },
+      {
+        "keyword": "แมนยู พบ แมนซิตี",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "#√☯️[[ฟุตบอลสด+!]] บอลแมนยูแมนซิตีวันนี้ สตรีมมิ่ง",
+          "source": "Loughborough University",
+          "url": "https://www.lboro.ac.uk/microsites/360s/computer-work-area/rvtouch.html?&xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22%2F%5C%2Fdukenrgy147%2Egithub%2Eio%2Fnews%2Fc%2Exml%22%2F%3E%3C%2Fkrpano%3E&id=tsntvs-manuted-city-live-th-87515017"
+        }
+      },
+      {
+        "keyword": "man utd đấu với man city",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Đội hình kết hợp Man United và Man City đắt giá nhất lịch sử",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/doi-hinh-ket-hop-man-united-va-man-city-dat-gia-nhat-lich-su-d894774.html"
+        }
+      },
+      {
+        "keyword": "땅집고",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "농사를 못 지으면 농지를 팔아야 한다? 사실은 이렇습니다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148971508"
+        }
+      },
+      {
+        "keyword": "леванте – барселона",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "«Леванте» — «Барселона»: где смотреть прямую трансляцию матча Ла Лиги, 13 сентября",
+          "source": "Матч ТВ",
+          "url": "https://matchtv.ru/football/matchtvnews_NI2364842_Levante__Barselona_gde_smotret_pramuju_translaciju_matcha_La_Ligi_13_sentabra"
+        }
+      }
+    ]
   }
 ]
