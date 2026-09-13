@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-13T08:33:48.413984+09:00",
-  "label": "08:33",
+  "timestamp": "2026-09-13T11:04:04.170100+09:00",
+  "label": "11:04",
   "items": [
     {
-      "keyword": "박위",
+      "keyword": "캔자스시티 대 엘에이 fc",
+      "traffic_raw": "50000+",
+      "traffic": 50000,
+      "news": {
+        "title": "\"손흥민 지쳤다고? 선수가 피곤한 건 당연, 힘들어도 뛰어야\"…LAFC 감독, SON 향해 냉정한 태도→정작 의존도 질문에는 \"줄여야 해\" 강조",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260912n09557"
+      }
+    },
+    {
+      "keyword": "필리스 대 브레이브스",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "현지인 고생='웃긴 장면' 희화화, 또 걸렸다..박위, 해외서도 도움받고 착한 이미지만 쏙 [스타이슈]",
+        "title": "김하성 지킨 애틀랜타 인내심, “‘영웅적 활약+히든카드’로 보상 받았다” 美 매체 호평",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260912212709533"
+        "url": "https://v.daum.net/v/20260913070855512"
       }
     },
     {
-      "keyword": "범죄",
+      "keyword": "지예은",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "유튜버에 언론까지… ‘갈대밭 괴담’ 조회수 장사로 ‘제주 혐오’ 조장",
-        "source": "한겨레21",
-        "url": "https://h21.hani.co.kr/arti/society/society_general/59898.html"
+        "title": "지예은 \"충주서 농사짓는 시부모 뵈러..김종국 콘서트 못 가\" 예비 며느리 근황 [스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260913060109787"
       }
     },
     {
-      "keyword": "청바지",
+      "keyword": "독트린 오버 워치",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "수지처럼 올가을 청바지 점수는 발끝에서 결정됩니다",
-        "source": "엘르 코리아 │ ELLE KOREA",
-        "url": "https://www.elle.co.kr/article/1909213"
+        "title": "솜브라 지원 전향·뱀파이어 '독트린' 합류…블리자드 오버워치, 5시즌 대대적 판갈이",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260913065820"
       }
     },
     {
-      "keyword": "농민신문",
+      "keyword": "지방 공항",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김해공항 ‘입국 관문’ 육성…남부권 관광 활성화",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8661343"
+      }
+    },
+    {
+      "keyword": "inter miami vs nashville",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "MATCH PREVIEW: Inter Miami CF Hosts Nashville SC This Saturday",
+        "source": "Inter Miami CF",
+        "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-hosts-nashville-sc-this-saturday"
+      }
+    },
+    {
+      "keyword": "즉석밥",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'농사 안 짓는 땅 팔아라'...284만 필지 위반 의심, 얼어붙은 시장",
+        "title": "CJ제일제당 ‘햇반 백미’, 美 타임스퀘어 전광판 등장",
+        "source": "브릿지경제",
+        "url": "https://viva100.com/article/20260910500454"
+      }
+    },
+    {
+      "keyword": "김가은",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "한국 2 vs 0 중국…안세영, 中이 가장 두려워하는 이름 → 걱정 또 걱정 \"단식+단체전 또 당할 수는 없는데\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260911160210246"
+        "url": "https://v.daum.net/v/2gHJWEQ9Ce"
       }
     },
     {
-      "keyword": "조민아",
+      "keyword": "김상식",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "쥬얼리, 완전체 넘은 찐친···조민아 子 업은 이지현까지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260913073110720"
-      }
-    },
-    {
-      "keyword": "us open",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "US Open 2026 final LIVE: Elena Rybakina beats Aryna Sabalenka for title - scores, radio & live text updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/tennis/live/ckgd2jp4pxvt"
-      }
-    },
-    {
-      "keyword": "잔",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "뜨거운 커피·차 즐긴 사람 식도암 위험 높았다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260911142947380"
-      }
-    },
-    {
-      "keyword": "가을",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[7시 날씨] 휴일, 일교차 큰 날씨…남부 한낮 30도 안팎",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260913071926629"
-      }
-    },
-    {
-      "keyword": "애스트로스 대 레이스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "MLB 탬파베이, 끝내기 홈런으로 가을 야구 확정",
+        "title": "[부고] 김상식(베트남 축구대표팀 감독)씨 부친상",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260912025000007"
+        "url": "https://www.yna.co.kr/view/AKR20260912051100007"
       }
     },
     {
-      "keyword": "국가보훈부",
+      "keyword": "기금",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"보훈급여 과오급 6년새 100억 넘었는데 …환수율 매년 20%대\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/tHrEmrRf1N"
+        "title": "예금보험기금 운용액 20조 돌파했지만…수익률 0.5% 그쳐",
+        "source": "데일리안",
+        "url": "https://www.dailian.co.kr/news/view/1689407/%EC%98%88%EA%B8%88%EB%B3%B4%ED%97%98%EA%B8%B0%EA%B8%88-%EC%9A%B4%EC%9A%A9%EC%95%A1-20%EC%A1%B0-%EB%8F%8C%ED%8C%8C%ED%96%88%EC%A7%80%EB%A7%8C-2026"
       }
     }
   ]
