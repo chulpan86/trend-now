@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-13T16:45:29.564685+09:00",
-  "label": "16:45",
+  "timestamp": "2026-09-13T21:56:01.641224+09:00",
+  "label": "21:56",
   "items": [
     {
-      "keyword": "인도네시아",
+      "keyword": "100일의 거짓말",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "tvN 폼 미쳤다…최고 시청률 '27.6%’ 제작진 집결→'천만' 배우 조합으로 들썩이는 韓 드라마 ('100일의 거짓말')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260913200237655"
+      }
+    },
+    {
+      "keyword": "월드컵",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "243명 탄 인도네시아 여객선 해상 사고‥1명 사망·140명 실종",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6851484_36925.html"
+        "title": "세터 바꾸니 9cm 큰 호주에 역전…한국, 9년 만에 亞 선수권 3위 → 내년 월드컵 출전권 획득",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260913182049726"
       }
     },
     {
-      "keyword": "위스키",
+      "keyword": "신탁",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“술 끊는 사람이 너무 많습니다”…45년래 최악의 불황, 무너지는 위스키 본고장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260913090900955"
+        "title": "돈 때문에 자식들 원수지간 될라…\"유언장 안 쓴다\" 돌변",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026091313521"
       }
     },
     {
-      "keyword": "송지호",
+      "keyword": "휴머노이드 로봇",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "바다를 걸어 섬 위 하늘로…6일 만에 2만명 발길",
+        "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html"
+      }
+    },
+    {
+      "keyword": "이더 리움",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "기준금리 인상으로 기우는 추…미 국채 ‘10년물 금리’ 5% 넘나",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609132026035"
+      }
+    },
+    {
+      "keyword": "무인 항공기",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "9·11 25주기… 美 전·현직 대통령 엇갈린 행보",
         "source": "Daum",
-        "url": "https://v.daum.net/v/KCw1N41y7E"
+        "url": "https://v.daum.net/v/20260913210250577"
       }
     },
     {
-      "keyword": "김태희",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "송민규",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "비, ♥김태희 아침 육아에 스스로 뺨까지 \"무조건 일어나야\" (시언스쿨)",
+        "title": "'27세 늦깎이 유럽 도전' 송민규, 꿈꾸던 유럽 무대 밟았다…45분 만에 만회골 만들어냈다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4alKM3GhZw"
+        "url": "https://v.daum.net/v/20260913100148827"
       }
     },
     {
-      "keyword": "노승희",
+      "keyword": "임찬규",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "노승희, ‘KB금융 골든라이프 챔피언십’ 3라운드에서 홀인원…부상으로 벤츠 받아 [KLPGA]",
-        "source": "스포츠 & 골프",
-        "url": "https://programs.sbs.co.kr/sbsgolf/26klpgatour/article/88967/G20000002514"
+        "title": "'오스틴 39호포+임찬규 14승' LG, 삼성 13-5 제압! 2위 삼성, 1위 KT와 '2G 차' 벌어지다 [대구 현장리뷰] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/09/13/2026091313215985071"
       }
     },
     {
-      "keyword": "진중권",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[속보] 진중권 “이재명 정부 몰락 속도 너무 가팔라…현실 감각 잃은 듯”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260913131620145"
-      }
-    },
-    {
-      "keyword": "오상진",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'아형' 오상진♥김소영 \"둘째는 아들…안았을 때 첫째 딸과 느낌 확실히 달라\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/6288540"
-      }
-    },
-    {
-      "keyword": "거점 국립 대학교",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "경상국립대, 내년 신입생 수시모집 경쟁율 8.09대 1",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260913_0003787024"
-      }
-    },
-    {
-      "keyword": "소득세",
+      "keyword": "kt wiz",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "출발선부터 격차…'슈퍼리치' 한 돌 아기 금융소득 연 4천만원",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260911170700002"
+        "title": "KT Wiz Extend Streak in Hwang's Retirement Victory",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/09/13/E3OTX47K3VE5ZPD3USJNRVWWSU/"
       }
     },
     {
-      "keyword": "거래소",
+      "keyword": "김강률",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "내일부터 ‘퇴근 후 주식거래’ 확대…한국거래소 애프터마켓 개장",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8662029"
+        "title": "김강률, 무려 2달 만에 엔트리 복귀! '문보경·천성호 IN' LG, 삼성전 선발 라인업 공개",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260912151608806"
       }
     }
   ]
