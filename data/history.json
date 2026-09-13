@@ -1160,5 +1160,103 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-14T08:47:56.288143+09:00",
+    "label": "08:47",
+    "items": [
+      {
+        "keyword": "거점국립대학교",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "문동주",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[런서울런2026] 러닝대회에 한화 이글스 유니폼이? \"문동주 쾌유 빌기 위해 달립니다\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260913n06010"
+        }
+      },
+      {
+        "keyword": "real sociedad vs atlético madrid standings",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Real Sociedad vs Atletico Madrid: Spanish La Liga stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ck1e5j6ydjq1t"
+        }
+      },
+      {
+        "keyword": "김기동",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘레전드’ 기성용 내친 김기동 감독 판단 결국 옳았다…서울의 압도적 선두 질주에 팬들도 ‘환호’ [오!쎈 전주]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/K8tPYLx2T5"
+        }
+      },
+      {
+        "keyword": "장인화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "장인화 임기 6개월 앞으로…연임 도전 시 SWOT 따져보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Hei7G9Hllm"
+        }
+      },
+      {
+        "keyword": "전소미",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "임시완, 벌크업 후 달라진 분위기…직각 어깨+두터워진 팔뚝 '깜짝'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/HwZPHNfzSL"
+        }
+      },
+      {
+        "keyword": "유가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "시장금리 꺾이면 하이닉스·엔비디아…고금리 버틸 전력기기도 주목",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609131232i"
+        }
+      },
+      {
+        "keyword": "정준원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "공효진·정준원, '유부녀 킬러'와 안녕 \"많이 배우고 성장한 작품\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/W9plqIkL7H"
+        }
+      },
+      {
+        "keyword": "리노베이션",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "A $1.5 Million Renovation Gave Her Atlanta Mansion Main-Character Energy",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/real-estate/luxury-homes/shamea-morton-real-housewives-atlanta-home-7a60c7dc"
+        }
+      },
+      {
+        "keyword": "l g 에너지 솔루션",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]

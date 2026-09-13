@@ -1,106 +1,98 @@
 {
-  "timestamp": "2026-09-14T06:55:34.784944+09:00",
-  "label": "06:55",
+  "timestamp": "2026-09-14T08:47:56.288143+09:00",
+  "label": "08:47",
   "items": [
     {
-      "keyword": "이강인",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "'바르셀로나 이적 요청 거부, 의문의 팀 훈련 불참'…아틀레티코, 이강인 의존도 더 높아진다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260913210329584"
-      }
+      "keyword": "거점국립대학교",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
     },
     {
-      "keyword": "운세",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "[재미로 보는 오늘의 운세] 9월 13일 (일요일) 69년생, 지금의 위치를 고수하는 것이 바람직하다",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260910516200"
-      }
-    },
-    {
-      "keyword": "보루시아 묀헨글라트바흐",
+      "keyword": "문동주",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'어깨부상 아시안게임 탈락에 소속팀 감독까지 경질' 옌스 카스트로프에게 닥친 아픈 시련 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/09/13/202609132117773170O"
+        "title": "[런서울런2026] 러닝대회에 한화 이글스 유니폼이? \"문동주 쾌유 빌기 위해 달립니다\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260913n06010"
       }
     },
     {
-      "keyword": "us 오픈",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "real sociedad vs atlético madrid standings",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'5억 금목걸이 차고 망사 드레스까지 입었는데...' 사발렌카 US오픈 결승에서 '멘탈붕괴'...100주 만에 세계 1위 빼앗겼다",
+        "title": "Real Sociedad vs Atletico Madrid: Spanish La Liga stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/ck1e5j6ydjq1t"
+      }
+    },
+    {
+      "keyword": "김기동",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘레전드’ 기성용 내친 김기동 감독 판단 결국 옳았다…서울의 압도적 선두 질주에 팬들도 ‘환호’ [오!쎈 전주]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260913174110867"
+        "url": "https://v.daum.net/v/K8tPYLx2T5"
       }
     },
     {
-      "keyword": "김혜수",
+      "keyword": "장인화",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'56세' 김혜수, 부동산으로 1년만 40억 벌더니..럭셔리한 근황 [스타이슈]",
+        "title": "장인화 임기 6개월 앞으로…연임 도전 시 SWOT 따져보니",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260913201637923"
+        "url": "https://v.daum.net/v/Hei7G9Hllm"
       }
     },
     {
-      "keyword": "xrp 레저",
+      "keyword": "전소미",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "전 리플 CTO \"XRP가 비트코인 시총 추월 가능\"...역전 시나리오는?",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Securities/2026/09/202609121931546804e250e8e188_1"
+        "title": "임시완, 벌크업 후 달라진 분위기…직각 어깨+두터워진 팔뚝 '깜짝'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/HwZPHNfzSL"
       }
     },
     {
-      "keyword": "조영남",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'윤여정과 이혼' 조영남 또..\"바람피우기 전, 행복하게 잘 살 때\" ('금타는 금요일')",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112874198"
-      }
-    },
-    {
-      "keyword": "해군사관학교",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[기고]해수부는 부산으로, 해군사관학교는 왜 내륙인 대전 자운대로?",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11616632"
-      }
-    },
-    {
-      "keyword": "real sociedad vs atlético madrid",
+      "keyword": "유가",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "🚨XIs confirmados: \"Prueba límite\" para el Cholo Simeone en Anoeta",
-        "source": "Yahoo",
-        "url": "https://es-us.noticias.yahoo.com/deportes/xis-confirmados-prueba-l%C3%ADmite-cholo-181000817.html"
+        "title": "시장금리 꺾이면 하이닉스·엔비디아…고금리 버틸 전력기기도 주목",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202609131232i"
       }
     },
     {
-      "keyword": "신유빈",
+      "keyword": "정준원",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "아시안게임 탁구: 신유빈 포함 한국 대표팀 경기 일정·관전 포인트 [아이치-나고야 2026]",
-        "source": "Olympic Channel",
-        "url": "https://www.olympics.com/ko/news/team-korea-schedule-preview-table-tennis-asian-games-2026"
+        "title": "공효진·정준원, '유부녀 킬러'와 안녕 \"많이 배우고 성장한 작품\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/W9plqIkL7H"
       }
+    },
+    {
+      "keyword": "리노베이션",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "A $1.5 Million Renovation Gave Her Atlanta Mansion Main-Character Energy",
+        "source": "WSJ",
+        "url": "https://www.wsj.com/real-estate/luxury-homes/shamea-morton-real-housewives-atlanta-home-7a60c7dc"
+      }
+    },
+    {
+      "keyword": "l g 에너지 솔루션",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }
