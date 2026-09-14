@@ -1,98 +1,102 @@
 {
-  "timestamp": "2026-09-15T05:02:06.072635+09:00",
-  "label": "05:02",
+  "timestamp": "2026-09-15T08:35:07.896967+09:00",
+  "label": "08:35",
   "items": [
     {
-      "keyword": "전투기 조종사",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "김호령",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "격추 후 이란서 구출된 美공군 대령 \"시속 160㎞ 추락하며 기도\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260914131600009"
-      }
-    },
-    {
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "GTA V, RDR2, 그리고 GTA VI를 비교해 보면 락스타 게임즈의 그래픽 발전상을 알 수 있습니다.",
-        "source": "GameGPU",
-        "url": "https://ko.gamegpu.com/news/igry/sravnenie-gta-v-rdr2-i-gta-vi-pokazalo-progress-grafiki-rockstar-games"
-      }
-    },
-    {
-      "keyword": "강균성",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘14살 차’ 강균성♥유하진, ‘로판’ 부부 됐다…이색 웨딩 화보 공개",
+        "title": "‘홀짝 대전’ 홀수 팀이 웃었다…AI “KT 1위, LG 3위, 두산 5위 간다” [어제의 프로야구]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260914122309791"
+        "url": "https://v.daum.net/v/ZIUCsMV73f?f=p"
       }
     },
     {
-      "keyword": "함소원",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "박수홍",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'진화와 이혼' 함소원, 공개 자랑…\"딸, 태권도 대회서 동메달 따\" [MHN:피드]",
+        "title": "'기내 민폐 사과' 박수홍·김다예, 3주 만 유튜브 복귀…\"요즘 이렇게 지내요\" [MD이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260914175325412"
+        "url": "https://v.daum.net/v/zTXJbjJ6Iv"
       }
     },
     {
-      "keyword": "마약",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "앞머리",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "나나처럼 앞머리 이렇게 자르면 도파민 터집니다",
+        "source": "엘르 코리아 │ ELLE KOREA",
+        "url": "https://www.elle.co.kr/article/1909534"
+      }
     },
     {
-      "keyword": "후보",
+      "keyword": "띠별 운세",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "김지용 중수청장 후보 \"윤석열 정부에서 좌천당해\" '친윤' 지적에 반박",
+        "title": "[오늘의 운세] 2026년 09월 15일 띠별 운세",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0121_202609150000000001"
+      }
+    },
+    {
+      "keyword": "주가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "삼성전자 ‘27만원’·SK하이닉스 ‘148만원’...BNK “주가 상단 제한적”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260914202529052"
+      }
+    },
+    {
+      "keyword": "하프마라톤",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'하프 마라톤 도전' 정준하 \"116kg, 나 잘못된 거 같아\"..'무도런 경주' D-7 근황 [스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/yKHszHlwTX"
+      }
+    },
+    {
+      "keyword": "거래소",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'퇴근장' 첫날 1조 8천억 거래‥한때 시스템 '혼선'",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6851735_36918.html"
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851831_37012.html"
       }
     },
     {
-      "keyword": "여자 축구",
+      "keyword": "김소영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“퇴직금 3000만원으로 시작, 70억 사업가로”…‘오상진 아내’ 김소영, ‘깜짝’ 근황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VgP8eV7150"
+      }
+    },
+    {
+      "keyword": "장민호",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[아시안게임] '김민지 해트트릭' 한국 여자축구, 첫 경기서 미얀마 5-0 완파",
+        "title": "‘전설의 사내’ 성리, 연기 도전…장민호 “잠깐만” 급제지 이유는",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260914212942241"
+        "url": "https://v.daum.net/v/20260914132327989?f=p"
       }
     },
     {
-      "keyword": "앨런 리치슨",
+      "keyword": "외환보유고",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": null
-    },
-    {
-      "keyword": "트리니티항공",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "트리니티항공, 사명 변경 기념 국제선 항공권 할인 행사 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/industry/company/2026/09/14/XIGJ7MTFZRE3RJAOBYFXDRJB6A/"
-      }
-    },
-    {
-      "keyword": "정혁",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "KGM, '2026 런서울런' 마라톤 공식 후원 행사 성료",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20260914007000353"
-      }
     }
   ]
 }
