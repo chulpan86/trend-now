@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-14T17:17:00.734484+09:00",
-  "label": "17:17",
+  "timestamp": "2026-09-15T00:25:21.321361+09:00",
+  "label": "00:25",
   "items": [
     {
-      "keyword": "자전거",
+      "keyword": "전현무계획",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "동대문구, 무료 자전거교실 운영…‘초등학생도 함께’",
-        "source": "서울신문",
-        "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/14/20260914500258"
-      }
-    },
-    {
-      "keyword": "개헌",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "윤건영 “이 대통령, 국민 이기려 해선 안 돼…공소 취소·연임 개헌 정리해야”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1277665.html"
-      }
-    },
-    {
-      "keyword": "고기",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "추석 '바가지요금' 막는다…전통시장·관광지 불공정 집중 점검",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971828"
-      }
-    },
-    {
-      "keyword": "살인",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'냉동창고 살인' 카페 사장 구속 송치‥\"거액 빚 갚으려 계획 범행\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6851672_36918.html"
-      }
-    },
-    {
-      "keyword": "수도권 광역급행철도 c노선",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "2년 넘게 미뤄진 GTX-C 15일 착공···수원역~청량리역 30분, 양주덕정~삼성역 30분",
+        "title": "전현무 방송 ‘조작설’ 또 터져···‘전현무계획4’ “식당 사전섭외 아냐” 의혹 전면 부인",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609141532001"
+        "url": "https://www.khan.co.kr/article/202609141924001"
       }
     },
     {
-      "keyword": "삼성중공업",
+      "keyword": "신병4",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“로또 당첨 급” 한가인 등장에 뒤집어져…‘신병4’ 김동준 판박이 친누나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260914092449536"
+      }
+    },
+    {
+      "keyword": "그랜드 테프트 오토 vi",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "삼성重, 1.4조원 LNG선 수주 잭팟…조선 3사, 가스텍서 미래 먹거리 공개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260914164737241"
+        "title": "GTA V, RDR2, 그리고 GTA VI를 비교해 보면 락스타 게임즈의 그래픽 발전상을 알 수 있습니다.",
+        "source": "GameGPU",
+        "url": "https://ko.gamegpu.com/news/igry/sravnenie-gta-v-rdr2-i-gta-vi-pokazalo-progress-grafiki-rockstar-games"
       }
     },
     {
-      "keyword": "지연수",
+      "keyword": "강균성",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'일라이와 이혼' 지연수, 유튜브 채널 수익금 전액 기부…\"한부모 여성 위해\"",
+        "title": "'10월 결혼' 강균성♥유하진, 웨딩 화보 공개…다이아 반지 몇 캐럿? '시선강탈'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260914151949882"
+        "url": "https://v.daum.net/v/20260914145239227"
       }
     },
     {
-      "keyword": "나성범",
+      "keyword": "프리시전 캐스트 파츠",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "최지만에 빚진 KIA 나성범, 야구 배트 몇 자루로 갚을지 관심",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260914064524258"
+        "title": "\"너무 비싸게 샀다\" 버핏이 후회하던 그 회사, 10년 뒤 '잭팟'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202609143373i"
       }
     },
     {
-      "keyword": "새만금",
+      "keyword": "中村ゆり",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "中村ゆりさん死去 MARIが追悼",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595303"
+      }
+    },
+    {
+      "keyword": "후보",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[르포]현대차 9조 투자에 '희망고문' 마침표…새만금, AI·로봇 거점 도약",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260914120301218"
+        "title": "李대통령, 중수청장 후보 추가검증 지시…\"사실관계 더 확인\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260914133900001"
       }
     },
     {
-      "keyword": "김승윤",
+      "keyword": "김혜선",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김혜선 “독일서 남편과 소개팅으로 만나…1시간 늦었는데도 기다린 뒤 안아줘”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Entertainment/article/all/20260914/134667128/1"
+      }
+    },
+    {
+      "keyword": "트리니티항공",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'장동윤♥' 김승윤, 시어머니표 도시락 자랑 \"최고로 맛있던\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/14/2026091410575440318"
+        "title": "트리니티항공, 사명 변경 기념 국제선 항공권 할인 행사 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/industry/company/2026/09/14/XIGJ7MTFZRE3RJAOBYFXDRJB6A/"
+      }
+    },
+    {
+      "keyword": "정혁",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "KGM, '2026 런서울런' 마라톤 공식 후원 행사 성료",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/RPR20260914007000353"
       }
     }
   ]
