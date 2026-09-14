@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-14T11:22:05.205505+09:00",
-  "label": "11:22",
+  "timestamp": "2026-09-14T17:17:00.734484+09:00",
+  "label": "17:17",
   "items": [
     {
-      "keyword": "폴란드",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "러, 폴란드 2㎞ 앞 공습…영국·스웨덴 전 총리 탄 열차 맞을뻔(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260914030352306"
-      }
-    },
-    {
-      "keyword": "여론 조사",
+      "keyword": "자전거",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "이 대통령 지지율 33.8%, 취임 후 최저치‥국힘 42.1%·민주 36.1%",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6851609_36911.html"
+        "title": "동대문구, 무료 자전거교실 운영…‘초등학생도 함께’",
+        "source": "서울신문",
+        "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/14/20260914500258"
       }
     },
     {
-      "keyword": "신랑",
+      "keyword": "개헌",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "윤건영 “이 대통령, 국민 이기려 해선 안 돼…공소 취소·연임 개헌 정리해야”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1277665.html"
+      }
+    },
+    {
+      "keyword": "고기",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "추석 '바가지요금' 막는다…전통시장·관광지 불공정 집중 점검",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971828"
+      }
+    },
+    {
+      "keyword": "살인",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "예비 신랑의 ’학교폭력 가해자’ 과거…아이 생겨 결혼 고민 [SNS 와글]",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260914104040AyZ"
+        "title": "'냉동창고 살인' 카페 사장 구속 송치‥\"거액 빚 갚으려 계획 범행\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6851672_36918.html"
       }
     },
     {
-      "keyword": "전준우",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "수도권 광역급행철도 c노선",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[사진] 전준우, 득점 찬스 만든 안타 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/sports_photo/2026/09/11/GNRGKZRVG42DMYRTGU2DOZRRHA/"
+        "title": "2년 넘게 미뤄진 GTX-C 15일 착공···수원역~청량리역 30분, 양주덕정~삼성역 30분",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609141532001"
       }
     },
     {
-      "keyword": "차태현",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "삼성중공업",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "74억 강남 건물 산 차태현, 유재석이 테이블 주고 박보영이 명패 만든 이유",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260907516224"
-      }
-    },
-    {
-      "keyword": "생계",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“4달 동안 수입 없었다”… 당국 총량 관리에 대출모집인 생계 불똥",
+        "title": "삼성重, 1.4조원 LNG선 수주 잭팟…조선 3사, 가스텍서 미래 먹거리 공개",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260914050436256"
+        "url": "https://v.daum.net/v/20260914164737241"
       }
     },
     {
-      "keyword": "윤성호",
+      "keyword": "지연수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'일라이와 이혼' 지연수, 유튜브 채널 수익금 전액 기부…\"한부모 여성 위해\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260914151949882"
+      }
+    },
+    {
+      "keyword": "나성범",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "최지만에 빚진 KIA 나성범, 야구 배트 몇 자루로 갚을지 관심",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260914064524258"
+      }
+    },
+    {
+      "keyword": "새만금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "윤성호 \"'개콘' 후배가 머리 툭툭 쳐\"…옥상 몸싸움 중 머리까지 물렸다 (나무미키)",
+        "title": "[르포]현대차 9조 투자에 '희망고문' 마침표…새만금, AI·로봇 거점 도약",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260914104008671"
+        "url": "https://v.daum.net/v/20260914120301218"
       }
     },
     {
-      "keyword": "ssg",
+      "keyword": "김승윤",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "KBO League surpasses 11 million fans for second straight year - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/09/13/E4LSIC6AW5EKDDJPN7GFLOL6MM/"
-      }
-    },
-    {
-      "keyword": "mail",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘Theatrical’ litigation: Republican AGs fight for Trump voting rules that their election officials say they can’t implement",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/12/politics/republican-attorneys-general-trump-mail-voting"
-      }
-    },
-    {
-      "keyword": "은마종합상가",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "재건축 달리나 했더니 ‘투쟁’ 붙었다…은마 재건축, 상가 세입자 집단반발",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/12151631"
+        "title": "'장동윤♥' 김승윤, 시어머니표 도시락 자랑 \"최고로 맛있던\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/14/2026091410575440318"
       }
     }
   ]
