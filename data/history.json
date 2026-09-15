@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-14T17:17:00.734484+09:00",
-    "label": "17:17",
-    "items": [
-      {
-        "keyword": "자전거",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "동대문구, 무료 자전거교실 운영…‘초등학생도 함께’",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/14/20260914500258"
-        }
-      },
-      {
-        "keyword": "개헌",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "윤건영 “이 대통령, 국민 이기려 해선 안 돼…공소 취소·연임 개헌 정리해야”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1277665.html"
-        }
-      },
-      {
-        "keyword": "고기",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "추석 '바가지요금' 막는다…전통시장·관광지 불공정 집중 점검",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148971828"
-        }
-      },
-      {
-        "keyword": "살인",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'냉동창고 살인' 카페 사장 구속 송치‥\"거액 빚 갚으려 계획 범행\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6851672_36918.html"
-        }
-      },
-      {
-        "keyword": "수도권 광역급행철도 c노선",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "2년 넘게 미뤄진 GTX-C 15일 착공···수원역~청량리역 30분, 양주덕정~삼성역 30분",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609141532001"
-        }
-      },
-      {
-        "keyword": "삼성중공업",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "삼성重, 1.4조원 LNG선 수주 잭팟…조선 3사, 가스텍서 미래 먹거리 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260914164737241"
-        }
-      },
-      {
-        "keyword": "지연수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'일라이와 이혼' 지연수, 유튜브 채널 수익금 전액 기부…\"한부모 여성 위해\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260914151949882"
-        }
-      },
-      {
-        "keyword": "나성범",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "최지만에 빚진 KIA 나성범, 야구 배트 몇 자루로 갚을지 관심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260914064524258"
-        }
-      },
-      {
-        "keyword": "새만금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[르포]현대차 9조 투자에 '희망고문' 마침표…새만금, AI·로봇 거점 도약",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260914120301218"
-        }
-      },
-      {
-        "keyword": "김승윤",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'장동윤♥' 김승윤, 시어머니표 도시락 자랑 \"최고로 맛있던\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/14/2026091410575440318"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-15T00:25:21.321361+09:00",
     "label": "00:25",
     "items": [
@@ -823,6 +717,112 @@
           "title": "산유국 러시아의 ‘굴욕’…한국 기름 사다 쓰는 사정은 [핫클립]",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8663996"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-16T05:44:23.929199+09:00",
+    "label": "05:44",
+    "items": [
+      {
+        "keyword": "리버풀 대 토트넘",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "리버풀 vs 토트넘 예측: 승리 시 다음 라운드 진출",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-liverpool-vs-tottenham-thang-de-di-tiep"
+        }
+      },
+      {
+        "keyword": "박원숙",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "박원숙 \"세상 떠난 아들 못 해준 게 후회…손녀에 오피스텔·차 선물\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790995"
+        }
+      },
+      {
+        "keyword": "엘체 대 레알 마드리드",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "엘체 vs 레알 마드리드 예측: 선두 자리를 노릴 기회",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-elche-vs-real-madrid-co-hoi-bam-duoi-ngoi-dau"
+        }
+      },
+      {
+        "keyword": "입스위치 대 아스널",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "입스위치 vs 아스널 예측: 승리 시 다음 라운드 진출",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-ipswich-vs-arsenal-thang-de-di-tiep"
+        }
+      },
+      {
+        "keyword": "송지은",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'박위 논란' 송지은, 결혼 전 시母 언급 장면 재조명…\"이해 안 가\" 비난 댓글",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bhO3SpXSmB"
+        }
+      },
+      {
+        "keyword": "스마트폰",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성전자, 내년 1분기 메모리 가격 30~40% 인상..애플도 '수용'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260915174015614"
+        }
+      },
+      {
+        "keyword": "신정환",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'월 매출 1억' 신정환, 가게 연 지 6개월도 넘었는데..\"10원도 정산 못 받아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260915235448821"
+        }
+      },
+      {
+        "keyword": "england vs sri lanka",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "England look to continue domineering T20 form",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/eng-vs-sl-1st-t20i-england-look-to-continue-domineering-t20-form-1554229"
+        }
+      },
+      {
+        "keyword": "fomc",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "強くなったウォン相場の負担に加え、長期金利急騰にともなう収益性の懸念まで重なり、造船·電力機器など主要重厚長大業種の株価が一斉に急落した。 前日、米国債10年物金利が取引中5%をタッチし、長期調達金利..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/jp/stock/12153471"
+        }
+      },
+      {
+        "keyword": "clarity act",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html"
         }
       }
     ]

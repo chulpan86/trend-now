@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-16T02:56:22.706658+09:00",
-  "label": "02:56",
+  "timestamp": "2026-09-16T05:44:23.929199+09:00",
+  "label": "05:44",
   "items": [
     {
-      "keyword": "윤여정",
+      "keyword": "리버풀 대 토트넘",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "리버풀 vs 토트넘 예측: 승리 시 다음 라운드 진출",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-liverpool-vs-tottenham-thang-de-di-tiep"
+      }
+    },
+    {
+      "keyword": "박원숙",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "박원숙 \"세상 떠난 아들 못 해준 게 후회…손녀에 오피스텔·차 선물\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260915_0003790995"
+      }
+    },
+    {
+      "keyword": "엘체 대 레알 마드리드",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘성난 사람들 2’ 미국 에미상 3관왕···시상식 간 윤여정은 ‘여우조연상 불발’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609151435001"
+        "title": "엘체 vs 레알 마드리드 예측: 선두 자리를 노릴 기회",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-elche-vs-real-madrid-co-hoi-bam-duoi-ngoi-dau"
       }
     },
     {
-      "keyword": "패션",
+      "keyword": "입스위치 대 아스널",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "아이유, 충격의 사복 패션 어떻길래?…\"비싼 옷에 명품 백이긴 한데\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yl6yNKpXOB"
+        "title": "입스위치 vs 아스널 예측: 승리 시 다음 라운드 진출",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-ipswich-vs-arsenal-thang-de-di-tiep"
       }
     },
     {
-      "keyword": "정종철",
+      "keyword": "송지은",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "정종철, 아들에 2억 6000만 원 뒷바라지…♥황규림은 '명품 풀착장'",
-        "source": "텐아시아",
-        "url": "https://www.tenasia.co.kr/article/2026091557294"
+        "title": "'박위 논란' 송지은, 결혼 전 시母 언급 장면 재조명…\"이해 안 가\" 비난 댓글",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/bhO3SpXSmB"
       }
     },
     {
-      "keyword": "양상국",
+      "keyword": "스마트폰",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "소속사에 돈 떼인 양상국...\"김준호가 대신 돈 준다고\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/15/2026091506241212216"
-      }
-    },
-    {
-      "keyword": "대한민국 교육부",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "원서접수 끝나기 전에 수시모집 경쟁률 공개대학 17곳(종합)",
+        "title": "삼성전자, 내년 1분기 메모리 가격 30~40% 인상..애플도 '수용'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260915235700841"
+        "url": "https://v.daum.net/v/20260915174015614"
       }
     },
     {
-      "keyword": "sk하이닉스 주가",
+      "keyword": "신정환",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"삼전닉스, 과거 주가 회복 쉽지 않다\" 고점론 띄웠던 증권사, 또다시 경고",
+        "title": "'월 매출 1억' 신정환, 가게 연 지 6개월도 넘었는데..\"10원도 정산 못 받아\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260915153310404"
+        "url": "https://v.daum.net/v/20260915235448821"
       }
     },
     {
-      "keyword": "堀大輔",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "서장훈의 이웃집 백만장자",
+      "keyword": "england vs sri lanka",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이영혜, 잡지로 연 매출 480억…한남동 집엔 1억 테이블",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Entertainment/article/all/20260915/134671253/1"
+        "title": "England look to continue domineering T20 form",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/story/eng-vs-sl-1st-t20i-england-look-to-continue-domineering-t20-form-1554229"
       }
     },
     {
-      "keyword": "퇴학",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "fomc",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "전 여친에게 원치 않는 신체접촉·폭행…고교생 퇴학처분 정당",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260914036900051"
+        "title": "強くなったウォン相場の負担に加え、長期金利急騰にともなう収益性の懸念まで重なり、造船·電力機器など主要重厚長大業種の株価が一斉に急落した。 前日、米国債10年物金利が取引中5%をタッチし、長期調達金利..",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/jp/stock/12153471"
       }
     },
     {
-      "keyword": "기름",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "clarity act",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "산유국 러시아의 ‘굴욕’…한국 기름 사다 쓰는 사정은 [핫클립]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8663996"
+        "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html"
       }
     }
   ]
