@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-15T11:27:23.233716+09:00",
-  "label": "11:27",
+  "timestamp": "2026-09-15T17:09:24.539069+09:00",
+  "label": "17:09",
   "items": [
     {
-      "keyword": "이봉원",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "김한정",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "박미선♥이봉원 아들·딸 모두 배우였다…\"부모 숨기고 엑스트라부터\" (신여성)",
+        "title": "‘여론조사 비용 대납’ 지목 오세훈 후원가, 2심에 녹취록 제출…“내가 혼자 한 일”",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20091191"
+      }
+    },
+    {
+      "keyword": "어부",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "호르무즈 초대형 유조선 폭발…'송유관 피격' 사우디, 다시 호르무즈로",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260914191710766"
+        "url": "https://v.daum.net/v/20260915155453720"
       }
     },
     {
-      "keyword": "김호영",
+      "keyword": "해상 작전 헬기",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"결혼 앞둔 지인 손절\"...김호영, 황당 요구에 분노한 사연 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/15/2026091506473568522"
+        "title": "해상 작전 헬기 ‘시호크’ 20여 대 추가 도입",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8663852"
       }
     },
     {
-      "keyword": "농구",
+      "keyword": "에너지",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[스포츠머그] 농구 한일전에 '태풍주의보' 예언부터 퇴근 선언까지, 전태풍 해설 데뷔전 킬포 모음",
+        "title": "재생에너지 보급제도 15년 만에 전면 개편…RPS, 경쟁입찰 시장으로 전환",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=372424"
+      }
+    },
+    {
+      "keyword": "신주아",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "류화영, 결혼식 사진 공개 \"흔들림까지도 함께 품으며…단단하게 걸어갈 것\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260914181800367"
+        "url": "https://v.daum.net/v/20260914092103362?f=p"
       }
     },
     {
-      "keyword": "맞춤형복지",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "정선 고한읍, 지역 맞춤형 복지사업 발굴",
-        "source": "참뉴스",
-        "url": "https://www.chamnews.net/news/articleView.html?idxno=242626"
-      }
+      "keyword": "조재윤",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
     },
     {
-      "keyword": "아크 인베스트",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“구글팔고 ‘이 주식’ 375억원 매수했다”…돈나무 언니가 베팅한 AI 수혜주",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11616939"
-      }
-    },
-    {
-      "keyword": "백종원",
+      "keyword": "에코프로 비엠",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "M&A에 쓴다고 했던 935억 파킹통장에… 백종원 더본코리아, 연내 인수전 나설까 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/stock/market_trend/2026/09/15/JQHWRUQUBRCWDI7VNSNSZEN7VM/"
+        "title": "에코프로비엠, 헝가리 공장 SNS 의혹 정면 반박…유럽 공급망 수성 총력",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609150556155430fbbec65dfb_1"
       }
     },
     {
-      "keyword": "lpga",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "US Solheim Cup captain Angela Stanford takes assistant job at alma mater TCU after loss to Europe",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/sports/golf/2026/09/14/angela-stanford-tcu-lpga/799df4e6-b087-11f1-92c2-5c918f4a6127_story.html"
-      }
-    },
-    {
-      "keyword": "홍진영",
+      "keyword": "미국의 재무부 장관",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "홍진영 친언니, 의미심장 글 \"선 넘으면 호의도 끝\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260914_0003788555"
+        "title": "[이슈&인사이트] 성장으로 빚을 갚는다는 약속, 그 청구서는 누가 받는가",
+        "source": "에너지경제신문",
+        "url": "https://m.ekn.kr/view.php?key=20260915020057747"
       }
     },
     {
-      "keyword": "왕옌청",
+      "keyword": "나영석",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한화의 복덩이, 아시안게임선 적으로",
+        "title": "[방송소식] 나영석 사단 새 예능 '그냥 사람 친구' 4분기 첫선",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260915068000005"
+      }
+    },
+    {
+      "keyword": "우주 무기",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "미 \"우주 궤도에 무기 운용 중\"…첫 공식 인정",
         "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/09/15/LVGILZFDVFCUFCW2DTDDWI2N5A/"
-      }
-    },
-    {
-      "keyword": "위암",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "에이비엘바이오 담도암 신약 ‘주춤’, 위암 파이프라인 가치 입증할까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260915050007265"
+        "url": "https://www.chosun.com/economy/tech_it/2026/09/15/WTNIQ7RPTZFHJJHWHZ5MLR76FA/"
       }
     }
   ]
