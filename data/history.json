@@ -826,5 +826,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-16T08:18:30.413763+09:00",
+    "label": "08:18",
+    "items": [
+      {
+        "keyword": "이더리움",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "리플XRP·비트코인·이더리움 하락…XRP 거래 1위",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16195297"
+        }
+      },
+      {
+        "keyword": "렉서스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[모빌리티 인사이트] 렉서스의 승부수... 신형 ES 전기차, 하이브리드보다 싸게",
+          "source": "다나와 자동차",
+          "url": "https://auto.danawa.com/news/?Work=detail&no=6059605&Tab=N1"
+        }
+      },
+      {
+        "keyword": "elche cf vs real madrid standings",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Carlos Espí: “I try to help the team in any way I can and I’m very happy”",
+          "source": "Real Madrid CF | Web Oficial",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declaraciones-jugador-1-post-elche-real-madrid-j6-liga-15-09-2026"
+        }
+      },
+      {
+        "keyword": "투수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"153km? 지금은 구속 욕심 안 낸다\" 124일 만에 돌아온 1차 지명 파이어볼러, 비로소 '투수'가 되어간다 [오!쎈 대구]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/16/MFSDAYRRHAZDSZRXGMYGEMRWMU/"
+        }
+      },
+      {
+        "keyword": "농촌",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "보은군의회 \"농어촌기본소득 국비 지원 확대해야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260915131738699"
+        }
+      },
+      {
+        "keyword": "유해진",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[인터뷰]결국 울어버린 유해진 \"고맙습니다, 더 잘할게요\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260915_0003790376"
+        }
+      },
+      {
+        "keyword": "여수시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "제주시, 대형유통시설 가스 안전 점검",
+          "source": "제민일보",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=843013"
+        }
+      },
+      {
+        "keyword": "박문성",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘홍명보 스리백’ 본 모레노의 결론은 4-4-2 “전임 감독에 대한 평가는 안하겠다” [오!쎈 천안]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QGdNi1yOhO"
+        }
+      },
+      {
+        "keyword": "liverpool đấu với tottenham",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Video bóng đá Liverpool - Tottenham: Khoảnh khắc ngôi sao, siêu phẩm ấn định (League Cup)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-liverpool-tottenham-khoanh-khac-ngoi-sao-no-luc-muon-mang-league-cup-c48a1795074.html"
+        }
+      },
+      {
+        "keyword": "일본 엔",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[사설]글로벌 금리인상 충격에 대비할 때 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/09/15/2026091416103015930"
+        }
+      }
+    ]
   }
 ]
