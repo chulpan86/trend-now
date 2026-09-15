@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-15T17:09:24.539069+09:00",
-  "label": "17:09",
+  "timestamp": "2026-09-15T22:58:34.804792+09:00",
+  "label": "22:58",
   "items": [
     {
-      "keyword": "김한정",
+      "keyword": "lg이노텍",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“180만원→50만원” 삼전닉스보다 훨씬 심하다…‘황제주’ 급락, 무슨 일이",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/61L5lb0HHM"
+      }
+    },
+    {
+      "keyword": "회사",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘여론조사 비용 대납’ 지목 오세훈 후원가, 2심에 녹취록 제출…“내가 혼자 한 일”",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20091191"
+        "title": "[초점] 정몽규 HDC 회장, ‘친족회사 20곳 누락’…결국 법정으로",
+        "source": "알티케이뉴스",
+        "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=34754"
       }
     },
     {
-      "keyword": "어부",
+      "keyword": "송치",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "호르무즈 초대형 유조선 폭발…'송유관 피격' 사우디, 다시 호르무즈로",
+        "title": "최성해 전 동양대 총장, 정경심 재판 일부 발언 위증 혐의 송치돼",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260915155453720"
+        "url": "https://v.daum.net/v/20260915160852655"
       }
     },
     {
-      "keyword": "해상 작전 헬기",
+      "keyword": "심은하",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "해상 작전 헬기 ‘시호크’ 20여 대 추가 도입",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8663852"
+        "title": "‘초록 눈의 심은하’ 납량특집 드라마, 33년 만에 리부트···티빙 ‘M:리부트’ 내년 공개",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609151058001"
       }
     },
     {
-      "keyword": "에너지",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "재생에너지 보급제도 15년 만에 전면 개편…RPS, 경쟁입찰 시장으로 전환",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=372424"
-      }
-    },
-    {
-      "keyword": "신주아",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "류화영, 결혼식 사진 공개 \"흔들림까지도 함께 품으며…단단하게 걸어갈 것\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260914092103362?f=p"
-      }
-    },
-    {
-      "keyword": "조재윤",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "에코프로 비엠",
+      "keyword": "윤여정",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "에코프로비엠, 헝가리 공장 SNS 의혹 정면 반박…유럽 공급망 수성 총력",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609150556155430fbbec65dfb_1"
+        "title": "‘성난 사람들 2’ 미국 에미상 3관왕···시상식 간 윤여정은 ‘여우조연상 불발’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609151435001"
       }
     },
     {
-      "keyword": "미국의 재무부 장관",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "패션",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[이슈&인사이트] 성장으로 빚을 갚는다는 약속, 그 청구서는 누가 받는가",
-        "source": "에너지경제신문",
-        "url": "https://m.ekn.kr/view.php?key=20260915020057747"
+        "title": "아이유, 상하이서 포착된 옷차림…패션 센스",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260915_0003790176"
       }
     },
     {
-      "keyword": "나영석",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "상장지수 펀드",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[방송소식] 나영석 사단 새 예능 '그냥 사람 친구' 4분기 첫선",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260915068000005"
+        "title": "미래운용 \"'TIGER 미국S&P500 ETF, 하반기 개인 순매수 1위\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260915104256403"
       }
     },
     {
-      "keyword": "우주 무기",
+      "keyword": "양민혁",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "미 \"우주 궤도에 무기 운용 중\"…첫 공식 인정",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/09/15/WTNIQ7RPTZFHJJHWHZ5MLR76FA/"
+        "title": "'韓축구 보물' 양민혁 미래 망쳐놓고 본인은 '폭삭' 망했다...램파드의 처참한 현실, PL 4전 전패·무득점→107년 만의 굴욕",
+        "source": "스포탈코리아",
+        "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553537374"
+      }
+    },
+    {
+      "keyword": "안현모",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘서울대→SBS 기자 출신’ 안현모, 강호동·전현무·장도연과 한솥밥 [공식] - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/15/MUYDIOJRMYZTGMBYMQZGIY3GMU/"
+      }
+    },
+    {
+      "keyword": "송이",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "양양송이연어축제 공식 캐릭터 공개…'산·강 이야기 담았다'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260915110538856"
       }
     }
   ]
