@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-09-15T08:35:07.896967+09:00",
-  "label": "08:35",
+  "timestamp": "2026-09-15T11:27:23.233716+09:00",
+  "label": "11:27",
   "items": [
     {
-      "keyword": "김호령",
+      "keyword": "이봉원",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "박미선♥이봉원 아들·딸 모두 배우였다…\"부모 숨기고 엑스트라부터\" (신여성)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260914191710766"
+      }
+    },
+    {
+      "keyword": "김호영",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"결혼 앞둔 지인 손절\"...김호영, 황당 요구에 분노한 사연 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/15/2026091506473568522"
+      }
+    },
+    {
+      "keyword": "농구",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[스포츠머그] 농구 한일전에 '태풍주의보' 예언부터 퇴근 선언까지, 전태풍 해설 데뷔전 킬포 모음",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260914181800367"
+      }
+    },
+    {
+      "keyword": "맞춤형복지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "정선 고한읍, 지역 맞춤형 복지사업 발굴",
+        "source": "참뉴스",
+        "url": "https://www.chamnews.net/news/articleView.html?idxno=242626"
+      }
+    },
+    {
+      "keyword": "아크 인베스트",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“구글팔고 ‘이 주식’ 375억원 매수했다”…돈나무 언니가 베팅한 AI 수혜주",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11616939"
+      }
+    },
+    {
+      "keyword": "백종원",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘홀짝 대전’ 홀수 팀이 웃었다…AI “KT 1위, LG 3위, 두산 5위 간다” [어제의 프로야구]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZIUCsMV73f?f=p"
+        "title": "M&A에 쓴다고 했던 935억 파킹통장에… 백종원 더본코리아, 연내 인수전 나설까 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/stock/market_trend/2026/09/15/JQHWRUQUBRCWDI7VNSNSZEN7VM/"
       }
     },
     {
-      "keyword": "박수홍",
+      "keyword": "lpga",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'기내 민폐 사과' 박수홍·김다예, 3주 만 유튜브 복귀…\"요즘 이렇게 지내요\" [MD이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zTXJbjJ6Iv"
+        "title": "US Solheim Cup captain Angela Stanford takes assistant job at alma mater TCU after loss to Europe",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/sports/golf/2026/09/14/angela-stanford-tcu-lpga/799df4e6-b087-11f1-92c2-5c918f4a6127_story.html"
       }
     },
     {
-      "keyword": "앞머리",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "나나처럼 앞머리 이렇게 자르면 도파민 터집니다",
-        "source": "엘르 코리아 │ ELLE KOREA",
-        "url": "https://www.elle.co.kr/article/1909534"
-      }
-    },
-    {
-      "keyword": "띠별 운세",
+      "keyword": "홍진영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[오늘의 운세] 2026년 09월 15일 띠별 운세",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0121_202609150000000001"
+        "title": "홍진영 친언니, 의미심장 글 \"선 넘으면 호의도 끝\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260914_0003788555"
       }
     },
     {
-      "keyword": "주가",
+      "keyword": "왕옌청",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "삼성전자 ‘27만원’·SK하이닉스 ‘148만원’...BNK “주가 상단 제한적”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260914202529052"
+        "title": "한화의 복덩이, 아시안게임선 적으로",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/09/15/LVGILZFDVFCUFCW2DTDDWI2N5A/"
       }
     },
     {
-      "keyword": "하프마라톤",
+      "keyword": "위암",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'하프 마라톤 도전' 정준하 \"116kg, 나 잘못된 거 같아\"..'무도런 경주' D-7 근황 [스타이슈]",
+        "title": "에이비엘바이오 담도암 신약 ‘주춤’, 위암 파이프라인 가치 입증할까",
         "source": "Daum",
-        "url": "https://v.daum.net/v/yKHszHlwTX"
+        "url": "https://v.daum.net/v/20260915050007265"
       }
-    },
-    {
-      "keyword": "거래소",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'퇴근장' 첫날 1조 8천억 거래‥한때 시스템 '혼선'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851831_37012.html"
-      }
-    },
-    {
-      "keyword": "김소영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“퇴직금 3000만원으로 시작, 70억 사업가로”…‘오상진 아내’ 김소영, ‘깜짝’ 근황",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VgP8eV7150"
-      }
-    },
-    {
-      "keyword": "장민호",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘전설의 사내’ 성리, 연기 도전…장민호 “잠깐만” 급제지 이유는",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260914132327989?f=p"
-      }
-    },
-    {
-      "keyword": "외환보유고",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }
