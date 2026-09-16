@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-16T11:21:10.476110+09:00",
-  "label": "11:21",
+  "timestamp": "2026-09-16T17:03:10.998899+09:00",
+  "label": "17:03",
   "items": [
     {
-      "keyword": "브래드 갈링 하우스",
+      "keyword": "박지윤",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "美 클래리티법 부결…비트코인 7만 5000달러 붕괴",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260916081303"
+        "title": "\"지인과 불륜\" 최동석만 항소, 박지윤은 포기했다...11월 결론 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/09/16/2026091609033974951"
       }
     },
     {
-      "keyword": "베트남 축구 국가 대표팀",
+      "keyword": "오윤아",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
+        "title": "'재혼' 오윤아 아들, 다른 사람 됐네..살 빼고 났더니 '훤칠' 비주얼",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260915214007127"
+        "url": "https://v.daum.net/v/tNtbqfztl2"
       }
     },
     {
-      "keyword": "브레이브스 대 컵스",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'7타수 무안타' 김하성 대타 교체→홈런 폭발…작전은 맞았지만, 타격감 또 빨간불 3G 연속 무안타에 타율 0.126 하락",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/YSHtYae4CR"
-      }
-    },
-    {
-      "keyword": "자녀",
+      "keyword": "계엄",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“부모도 자식도, 이젠 웬수 같아요”…‘샌드위치’ 돌봄 중장년, 내 삶이 없다",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/politics/12153827"
+        "title": "'한덕수 재판 위증' 윤석열, 2심도 무죄…尹측 \"특검의 삼류소설\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260916120737388"
       }
     },
     {
-      "keyword": "장신영",
+      "keyword": "김부장",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "♥강경준이 찍어줬나..장신영, 여행 중 미소가 끊이질 않네",
+        "title": "'김부장' 원현준, 배우 이수진과 내달 4일 결혼…\"평생 약속\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260914171900005"
+      }
+    },
+    {
+      "keyword": "교섭 단체",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김민석 \"진보 대통합 본격화‥오늘부터 혁신당·진보3당 접촉할 것\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6852209_36911.html"
+      }
+    },
+    {
+      "keyword": "재산세",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "울산 9월 재산세 2천112억원 부과…작년보다 3.3% 증가",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260916002512377"
+        "url": "https://v.daum.net/v/20260916090452667"
       }
     },
     {
-      "keyword": "스페이스x",
+      "keyword": "포스코노동조합",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "포스코, 120시간 2차 부분파업…참여 규모 놓고 노사 입장차(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260916162040533"
+      }
+    },
+    {
+      "keyword": "군위군",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"100명 태우고 화성 간다더니\"…머스크 '20조원 로켓' 승부수",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026091671277"
+        "title": "'추석 명절 안전하게'…전북경찰, 특별치안 대책 추진",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260916089600055"
       }
     },
     {
-      "keyword": "물 부족",
+      "keyword": "최두호",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독] 광주 반도체에 쓰일 동복댐 물 부족…“하루 30만톤 공급 불가능”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/environment/1278000.html"
+        "title": "UFC 랭커 진입 앞둔 최두호 \"상대 파훼법 알아, 내 타격 못버틸 것\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/09/16/BYICTIB77RAYXDLPKOTBBSJ6JQ/"
       }
     },
     {
-      "keyword": "맞춤형복지",
+      "keyword": "주호민",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "안민석",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
-        "title": "남양주 오남고의 특별한 수업, 안민석 경기교육감이 주목한 이유",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260916500592"
-      }
-    },
-    {
-      "keyword": "마취",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[단독] ‘15분 시술’ 눈 떠보니 9시간 지나 있었다…마취 뒤 ‘삐뚤빼뚤 서명’ / 풀버전",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12318508"
+        "title": "'주호민 아들' 특수교사에 '교권보호관' 붙었다…\"워낙 강경하게 대응해서\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260915194207638"
       }
     }
   ]
