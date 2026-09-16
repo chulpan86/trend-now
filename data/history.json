@@ -932,5 +932,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-16T11:21:10.476110+09:00",
+    "label": "11:21",
+    "items": [
+      {
+        "keyword": "브래드 갈링 하우스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "美 클래리티법 부결…비트코인 7만 5000달러 붕괴",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260916081303"
+        }
+      },
+      {
+        "keyword": "베트남 축구 국가 대표팀",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260915214007127"
+        }
+      },
+      {
+        "keyword": "브레이브스 대 컵스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'7타수 무안타' 김하성 대타 교체→홈런 폭발…작전은 맞았지만, 타격감 또 빨간불 3G 연속 무안타에 타율 0.126 하락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YSHtYae4CR"
+        }
+      },
+      {
+        "keyword": "자녀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“부모도 자식도, 이젠 웬수 같아요”…‘샌드위치’ 돌봄 중장년, 내 삶이 없다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12153827"
+        }
+      },
+      {
+        "keyword": "장신영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "♥강경준이 찍어줬나..장신영, 여행 중 미소가 끊이질 않네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260916002512377"
+        }
+      },
+      {
+        "keyword": "스페이스x",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"100명 태우고 화성 간다더니\"…머스크 '20조원 로켓' 승부수",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026091671277"
+        }
+      },
+      {
+        "keyword": "물 부족",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 광주 반도체에 쓰일 동복댐 물 부족…“하루 30만톤 공급 불가능”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/environment/1278000.html"
+        }
+      },
+      {
+        "keyword": "맞춤형복지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "안민석",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "남양주 오남고의 특별한 수업, 안민석 경기교육감이 주목한 이유",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260916500592"
+        }
+      },
+      {
+        "keyword": "마취",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[단독] ‘15분 시술’ 눈 떠보니 9시간 지나 있었다…마취 뒤 ‘삐뚤빼뚤 서명’ / 풀버전",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12318508"
+        }
+      }
+    ]
   }
 ]
