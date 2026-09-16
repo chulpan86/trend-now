@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-09-15T17:09:24.539069+09:00",
-    "label": "17:09",
-    "items": [
-      {
-        "keyword": "김한정",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘여론조사 비용 대납’ 지목 오세훈 후원가, 2심에 녹취록 제출…“내가 혼자 한 일”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20091191"
-        }
-      },
-      {
-        "keyword": "어부",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "호르무즈 초대형 유조선 폭발…'송유관 피격' 사우디, 다시 호르무즈로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260915155453720"
-        }
-      },
-      {
-        "keyword": "해상 작전 헬기",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "해상 작전 헬기 ‘시호크’ 20여 대 추가 도입",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663852"
-        }
-      },
-      {
-        "keyword": "에너지",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "재생에너지 보급제도 15년 만에 전면 개편…RPS, 경쟁입찰 시장으로 전환",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=372424"
-        }
-      },
-      {
-        "keyword": "신주아",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "류화영, 결혼식 사진 공개 \"흔들림까지도 함께 품으며…단단하게 걸어갈 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260914092103362?f=p"
-        }
-      },
-      {
-        "keyword": "조재윤",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "에코프로 비엠",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "에코프로비엠, 헝가리 공장 SNS 의혹 정면 반박…유럽 공급망 수성 총력",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/09/202609150556155430fbbec65dfb_1"
-        }
-      },
-      {
-        "keyword": "미국의 재무부 장관",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[이슈&인사이트] 성장으로 빚을 갚는다는 약속, 그 청구서는 누가 받는가",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260915020057747"
-        }
-      },
-      {
-        "keyword": "나영석",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[방송소식] 나영석 사단 새 예능 '그냥 사람 친구' 4분기 첫선",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260915068000005"
-        }
-      },
-      {
-        "keyword": "우주 무기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "미 \"우주 궤도에 무기 운용 중\"…첫 공식 인정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/09/15/WTNIQ7RPTZFHJJHWHZ5MLR76FA/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-15T22:58:34.804792+09:00",
     "label": "22:58",
     "items": [
@@ -937,6 +835,112 @@
           "title": "서대구역 인근에 UAM 버티포트…\"미래 도심항공 주도권 선점\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260916153355792"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-17T05:37:43.383259+09:00",
+    "label": "05:37",
+    "items": [
+      {
+        "keyword": "이강인",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"이강인 공 너무 오래 소유\" 스페인 매체 지적에 '日 동감'…\"ATM 7번 될 수 있나, 현대축구와 안 맞아\" 지적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260916205951040"
+        }
+      },
+      {
+        "keyword": "김구라",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'재혼 7년차' 김구라, '두 집 살림' 고백…\"아내, 벌써 안 돌아오려 해\" [MHN:픽]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260915174025618"
+        }
+      },
+      {
+        "keyword": "바르셀로나 대 라싱 산탄데르",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "바르셀로나 vs 라싱 산탄데르 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-racing-santander-chu-nha-noi-dai-mach-thang-hoa"
+        }
+      },
+      {
+        "keyword": "냄비",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“내 사진으로 20년 장사”…백일섭, 주방업체 상대 1억원 배상받는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260916160003260"
+        }
+      },
+      {
+        "keyword": "man utd vs brighton",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Man Utd vs Brighton Predictions, Bet Builder Tips, Lineups, Odds",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/articles/DJJkT1C0f0i4R-KrlD-hfA/show/20260916-man-utd-vs-brighton-prediction-1789564571"
+        }
+      },
+      {
+        "keyword": "แมนยู พบ ไบรตัน",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "โปรแกรมการแข่งขันฟุตบอลลีกคัพอังกฤษล่าสุด: แมนเชสเตอร์ ยูไนเต็ด และ แมนเชสเตอร์ ซิตี้ จะลงสนามแข่งขัน",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/lich-thi-dau-cup-lien-doan-anh-moi-nhat-mu-man-city-lan-luot-ra-quan"
+        }
+      },
+      {
+        "keyword": "로스앤젤레스 fc",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'손흥민 득점포 침묵, 최근 9경기에서 1승' LAFC, '우승 후보에서 플레이오프 진출도 불투명' 추락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260916023149195?f=p"
+        }
+      },
+      {
+        "keyword": "man utd đấu với brighton",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Trực tiếp bóng đá MU - Brighton: Rashford - Sesko lĩnh xướng hàng công (League Cup)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-brighton-ap-luc-bua-vay-carrick-league-cup-c48a1795286.html"
+        }
+      },
+      {
+        "keyword": "카라바오컵",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“손흥민 ‘리더의 부재’ 너무 커” 英 BBC 이상 최고 공신력 언론의 조명 “그는 좋은 방향으로 토트넘을 이끌 수 있다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qgwf5lwazi"
+        }
+      },
+      {
+        "keyword": "돈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경찰, 한동훈 “李, 방북 대가로 北에 돈 건너간 건 팩트” 발언에 무혐의 처분",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WadsUfztGt"
         }
       }
     ]
