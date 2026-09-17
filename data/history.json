@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-09-16T02:56:22.706658+09:00",
-    "label": "02:56",
-    "items": [
-      {
-        "keyword": "윤여정",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘성난 사람들 2’ 미국 에미상 3관왕···시상식 간 윤여정은 ‘여우조연상 불발’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609151435001"
-        }
-      },
-      {
-        "keyword": "패션",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "아이유, 충격의 사복 패션 어떻길래?…\"비싼 옷에 명품 백이긴 한데\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/yl6yNKpXOB"
-        }
-      },
-      {
-        "keyword": "정종철",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "정종철, 아들에 2억 6000만 원 뒷바라지…♥황규림은 '명품 풀착장'",
-          "source": "텐아시아",
-          "url": "https://www.tenasia.co.kr/article/2026091557294"
-        }
-      },
-      {
-        "keyword": "양상국",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "소속사에 돈 떼인 양상국...\"김준호가 대신 돈 준다고\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/15/2026091506241212216"
-        }
-      },
-      {
-        "keyword": "대한민국 교육부",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "원서접수 끝나기 전에 수시모집 경쟁률 공개대학 17곳(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260915235700841"
-        }
-      },
-      {
-        "keyword": "sk하이닉스 주가",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"삼전닉스, 과거 주가 회복 쉽지 않다\" 고점론 띄웠던 증권사, 또다시 경고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260915153310404"
-        }
-      },
-      {
-        "keyword": "堀大輔",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "서장훈의 이웃집 백만장자",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이영혜, 잡지로 연 매출 480억…한남동 집엔 1억 테이블",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260915/134671253/1"
-        }
-      },
-      {
-        "keyword": "퇴학",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전 여친에게 원치 않는 신체접촉·폭행…고교생 퇴학처분 정당",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260914036900051"
-        }
-      },
-      {
-        "keyword": "기름",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "산유국 러시아의 ‘굴욕’…한국 기름 사다 쓰는 사정은 [핫클립]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8663996"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-16T05:44:23.929199+09:00",
     "label": "05:44",
     "items": [
@@ -1047,6 +945,112 @@
           "title": "TypeSafe AI Emerges From Stealth With $40M in Funding With New Model for Composable AI",
           "source": "Business Wire",
           "url": "https://www.businesswire.com/news/home/20260915525333/en/TypeSafe-AI-Emerges-From-Stealth-With-%2440M-in-Funding-With-New-Model-for-Composable-AI"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-17T17:09:21.886737+09:00",
+    "label": "17:09",
+    "items": [
+      {
+        "keyword": "장기 기증",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "아내와 사별 후 홀로 딸 키우던 40대 외아들, 6명에 생명 나눔",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260917072100530"
+        }
+      },
+      {
+        "keyword": "화재",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "추석 연휴 앞두고, 다중이용시설 불시 화재안전조사 - 전체 | 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148971978&pWise=sub&pWiseSub=C1"
+        }
+      },
+      {
+        "keyword": "박스오피스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "최민식·한소희 ‘인턴’이 ‘오디세이’ 제쳤다···개봉 첫 날 박스오피스 1위",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609171106001"
+        }
+      },
+      {
+        "keyword": "이금희",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이금희, 모친상 비보…“평안한 영면 기원 부탁”",
+          "source": "매일경제",
+          "url": "https://m.mk.co.kr/news/hot-issues/12155085"
+        }
+      },
+      {
+        "keyword": "위조품",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"어쩐지 이상하더라\" 중국산 가짜 상품 8만 3천개 유통됐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pPx2Uu5Twy"
+        }
+      },
+      {
+        "keyword": "안젤리나 졸리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "브래드 피트, '자식들 절연' 마음고생해 늙었나..\"배달원이 못알아봐\" [Oh!llywood]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VyUQqPKpCc"
+        }
+      },
+      {
+        "keyword": "김관영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'대리 운전비 살포' 혐의 김관영 전 전북도지사 송치(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260917112552982"
+        }
+      },
+      {
+        "keyword": "교통",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "울주군, 초등생들 통학환경 개선 건의에 '안전한 등굣길' 조성",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/uuyaSHlwZB"
+        }
+      },
+      {
+        "keyword": "안전공업(주)",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘14명 사망’ 안전공업, ‘화재경보 차단’ 직원 교육까지 했다…13명 불구속송치",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/chungcheong/1278267.html"
+        }
+      },
+      {
+        "keyword": "아바타",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[인문학 칼럼] 고향 (못) 가는 이야기",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260917.22019005127"
         }
       }
     ]
