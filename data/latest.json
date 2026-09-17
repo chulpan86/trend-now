@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-17T22:56:04.870058+09:00",
-  "label": "22:56",
+  "timestamp": "2026-09-18T02:52:20.588414+09:00",
+  "label": "02:52",
   "items": [
     {
-      "keyword": "weather tomorrow",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "특공무술",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "Crews respond to water rescues as storms move through Phoenix area",
-        "source": "AZ Family",
-        "url": "https://www.azfamily.com/2026/09/16/storms-packing-heavy-rain-arrive-valley/"
+        "title": "[속보]특공무술 심사 중 쓰러진 특전사 숨져…유가족은 장기기증 결정",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11617893"
       }
     },
     {
-      "keyword": "라이머",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "라이머, 안현모와 이혼 후 남은 '강남 7층 빌딩' 자랑..父 \"사귀는 여자는?\"(신랑수업2)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260917141607389"
-      }
-    },
-    {
-      "keyword": "thời tiết ngày mai",
+      "keyword": "시부모",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Đường Hà Nội ngập sâu, giao thông tê liệt",
-        "source": "VnExpress",
-        "url": "https://vnexpress.net/duong-ha-noi-ngap-sau-giao-thong-te-liet-5121237.html"
+        "title": "\"손주 보러 가려했는데\"…호텔서 자라는 며느리 말에 시어머니 '엉엉'",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260916_0003791630"
       }
     },
     {
-      "keyword": "웨이모",
+      "keyword": "안선영",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나",
+        "title": "안선영, 子 유학 따라간 캐나다서 '대재앙'..\"연예인 여기서 아무 쓸모 없어\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260917163207809"
+        "url": "https://v.daum.net/v/20260917194007455"
       }
     },
     {
-      "keyword": "cuaca besok",
+      "keyword": "봉누도",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "전제완",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "6 Wilayah Jawa Barat Berpotensi Hujan Ringan Besok (16/9), Cek Daftar Lengkapnya",
-        "source": "kontan.co.id",
-        "url": "https://momsmoney.kontan.co.id/news/6-wilayah-jawa-barat-berpotensi-hujan-ringan-besok-169-cek-daftar-lengkapnya"
+        "title": "'꼬꼬무', 1세대 IT계 신화 프리챌 전제완, 청소부 된 충격 근황 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/17/2026091720007284709"
       }
     },
     {
-      "keyword": "mcdonald's",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "National Cheeseburger Day deals at McDonald's, Burger King, more",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/money/food/2026/09/17/national-cheeseburger-day-2026-deals-free-burgers/91459117007/"
-      }
-    },
-    {
-      "keyword": "채수빈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'나를 충전해줘' 김영광·채수빈, 찌릿한 로코 케미…스틸 공개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/0uyCD8B3oN"
-      }
-    },
-    {
-      "keyword": "영일만",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김영헌 포항시의원 \"영일만 횡단대교 더 이상 늦춰선 안 돼\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/UABz1tWICo"
-      }
-    },
-    {
-      "keyword": "가해자",
+      "keyword": "송지효",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"'야차룰' 동의?\"…경찰, 피해자 녹음파일 통째로 '누락'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260917140614831"
+        "title": "송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/GMYWGNZXGU2DAMZWGM3DCMJQHE/"
       }
     },
     {
-      "keyword": "포스코퓨처엠",
+      "keyword": "india vs afghanistan",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "안대천 포항시의원, 1인·여성 소상공인 범죄예방 지원 근거 마련",
-        "source": "세계일보",
-        "url": "https://m.segye.com/view/20260916517626"
+        "title": "IND vs AFG Cricket Scorecard, 3rd T20I at Delhi, September 17, 2026",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/afghanistan-in-india-2026-1549583/india-vs-afghanistan-3rd-t20i-1549588/full-scorecard"
+      }
+    },
+    {
+      "keyword": "what is a data breach",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Hackers demand Revolut pay $3mn ransom after data breach",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1"
+      }
+    },
+    {
+      "keyword": "황유민",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "아시안게임 출전 양윤서, KLPGA 하나금융 대회 1R서 이븐파 선전",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260917138800007"
+      }
+    },
+    {
+      "keyword": "지진희",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "염정아, 20년지기 남사친 등장에 기절초풍…“결혼식 사회도 봐” (산지직송3)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260917131251353"
       }
     }
   ]
