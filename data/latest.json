@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-18T05:44:37.055221+09:00",
-  "label": "05:44",
+  "timestamp": "2026-09-18T08:15:16.005702+09:00",
+  "label": "08:15",
   "items": [
     {
-      "keyword": "봉누도2",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "날씨",
+      "traffic_raw": "100000+",
+      "traffic": 100000,
       "news": {
-        "title": "'봉누도 시즌2' 2일차. '갱단' 설립을 향한 레이스 … 온 세상이 '범죄'다",
-        "source": "경향게임스",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308432"
+        "title": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918063302423"
       }
     },
     {
-      "keyword": "백화점",
+      "keyword": "weather",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "A 50/50 weekend with a dry and seasonable day today followed by a stormy start to Sunday",
+        "source": "WTNH.com",
+        "url": "https://www.wtnh.com/weather/quiet-weather-today/"
+      }
+    },
+    {
+      "keyword": "김서현",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "경북 의성군, 현대백화점과 손잡고 농특산물 프리미엄화 추진",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260917501027"
+        "title": "‘1-6에서 7-6 대역전’ 야구대표팀, 연습경기서 끝내기승…류지현 감독 “좋은 에너지 받았다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Zo0seTsAd2"
       }
     },
     {
-      "keyword": "압구정 현대아파트",
+      "keyword": "vix",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "압구정현대보다 비쌌던 '원조 부촌'…대규모 부활 예고",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202609166959i"
+        "title": "Stock Market Warning? VIX Rises as Semiconductors Collapse",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/analysis/stock-market-warning-vix-rises-as-semiconductors-collapse-200687706"
       }
     },
     {
-      "keyword": "크리스털 팰리스 대 레흐 포즈난",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "погода",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "크리스탈 팰리스 vs 레흐 포즈난 예측: 상위권 경쟁의 뜨거운 승부",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-crystal-palace-vs-lech-poznan-diem-nong-cuoc-dua-top-dau"
+        "title": "Прогноз погоды на сегодня и завтра (18 сентября 2026 г.): сильные дожди на севере, грозы на юге вечером.",
+        "source": "baonghean.vn",
+        "url": "https://baonghean.vn/ru/du-bao-thoi-tiet-dem-nay-va-ngay-mai-18092026-bac-bo-mua-to-nam-bo-dong-chieu-toi-10351560.html"
       }
     },
     {
-      "keyword": "송지효",
+      "keyword": "삼성 갤럭시 z 폴드 8",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\"",
+        "title": "접는 아이폰 나오자 삼성 Z폴드8 판매 급증",
         "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/09/17/GMYWGNZXGU2DAMZWGM3DCMJQHE/"
+        "url": "https://www.chosun.com/economy/tech_it/2026/09/18/7WHJN6UQ7NHCJO24B27QLTU7OA/"
       }
     },
     {
-      "keyword": "man city vs norwich city",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "ionq",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "EFL Cup 3rd Round LIVE: Manchester City vs Norwich City - live text updates, score & radio commentary",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cmlyjl6qdw6et"
+        "title": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/company-news/ionq-synopsys-cut-simulation-time-by-146-with-quantum-tech-93CH-4905765"
       }
     },
     {
-      "keyword": "what is phishing",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "블레이크 스넬",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Hackers demand Revolut pay $3mn ransom after data breach",
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1"
+        "title": "MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20260917/134686769/1"
       }
     },
     {
-      "keyword": "록히드 마틴 f-35 라이트닝 ii",
+      "keyword": "사노피",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "State Department approves potential F-35 sales to Saudi Arabia",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/09/17/state-department-f-35-saudi-arabia-israel"
+        "title": "J&J '이마비'로 첫발 뗀 wAIHA 치료제… 사노피 추격 예고",
+        "source": "히트뉴스",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79224"
       }
     },
     {
-      "keyword": "삼중살",
+      "keyword": "qqq",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260917180711216"
-      }
-    },
-    {
-      "keyword": "아스트라에 오라티오",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "오타쿠 전유물? 대접 확 달라졌다…100억달러 낳는 이 게임 [팩플]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260918050317132"
+        "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/500-000-split-between-voo-221509822.html"
       }
     }
   ]

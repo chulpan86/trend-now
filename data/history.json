@@ -948,5 +948,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-18T08:15:16.005702+09:00",
+    "label": "08:15",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "100000+",
+        "traffic": 100000,
+        "news": {
+          "title": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918063302423"
+        }
+      },
+      {
+        "keyword": "weather",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "A 50/50 weekend with a dry and seasonable day today followed by a stormy start to Sunday",
+          "source": "WTNH.com",
+          "url": "https://www.wtnh.com/weather/quiet-weather-today/"
+        }
+      },
+      {
+        "keyword": "김서현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘1-6에서 7-6 대역전’ 야구대표팀, 연습경기서 끝내기승…류지현 감독 “좋은 에너지 받았다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Zo0seTsAd2"
+        }
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Stock Market Warning? VIX Rises as Semiconductors Collapse",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/stock-market-warning-vix-rises-as-semiconductors-collapse-200687706"
+        }
+      },
+      {
+        "keyword": "погода",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Прогноз погоды на сегодня и завтра (18 сентября 2026 г.): сильные дожди на севере, грозы на юге вечером.",
+          "source": "baonghean.vn",
+          "url": "https://baonghean.vn/ru/du-bao-thoi-tiet-dem-nay-va-ngay-mai-18092026-bac-bo-mua-to-nam-bo-dong-chieu-toi-10351560.html"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 z 폴드 8",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "접는 아이폰 나오자 삼성 Z폴드8 판매 급증",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/09/18/7WHJN6UQ7NHCJO24B27QLTU7OA/"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/ionq-synopsys-cut-simulation-time-by-146-with-quantum-tech-93CH-4905765"
+        }
+      },
+      {
+        "keyword": "블레이크 스넬",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260917/134686769/1"
+        }
+      },
+      {
+        "keyword": "사노피",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "J&J '이마비'로 첫발 뗀 wAIHA 치료제… 사노피 추격 예고",
+          "source": "히트뉴스",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79224"
+        }
+      },
+      {
+        "keyword": "qqq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/500-000-split-between-voo-221509822.html"
+        }
+      }
+    ]
   }
 ]
