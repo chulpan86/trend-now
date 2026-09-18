@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-09-18T08:15:16.005702+09:00",
-  "label": "08:15",
+  "timestamp": "2026-09-18T11:10:50.527563+09:00",
+  "label": "11:10",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "100000+",
-      "traffic": 100000,
+      "keyword": "이재명",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260918063302423"
+        "title": "[속보] 이 대통령 \"국민주권정부 함께 했던 분들이 혐오의 언어 주고받아 안타까워\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6852726_36911.html"
       }
     },
     {
-      "keyword": "weather",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "sk그룹",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "A 50/50 weekend with a dry and seasonable day today followed by a stormy start to Sunday",
-        "source": "WTNH.com",
-        "url": "https://www.wtnh.com/weather/quiet-weather-today/"
-      }
-    },
-    {
-      "keyword": "김서현",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘1-6에서 7-6 대역전’ 야구대표팀, 연습경기서 끝내기승…류지현 감독 “좋은 에너지 받았다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Zo0seTsAd2"
-      }
-    },
-    {
-      "keyword": "vix",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Stock Market Warning? VIX Rises as Semiconductors Collapse",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/analysis/stock-market-warning-vix-rises-as-semiconductors-collapse-200687706"
-      }
-    },
-    {
-      "keyword": "погода",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Прогноз погоды на сегодня и завтра (18 сентября 2026 г.): сильные дожди на севере, грозы на юге вечером.",
-        "source": "baonghean.vn",
-        "url": "https://baonghean.vn/ru/du-bao-thoi-tiet-dem-nay-va-ngay-mai-18092026-bac-bo-mua-to-nam-bo-dong-chieu-toi-10351560.html"
-      }
-    },
-    {
-      "keyword": "삼성 갤럭시 z 폴드 8",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "접는 아이폰 나오자 삼성 Z폴드8 판매 급증",
+        "title": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류",
         "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/09/18/7WHJN6UQ7NHCJO24B27QLTU7OA/"
+        "url": "https://www.chosun.com/economy/industry-company/2026/09/18/7QHMEZAUBRCNRC2FUU2VYBANAY/"
       }
     },
     {
-      "keyword": "ionq",
+      "keyword": "왕옌청",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "한국 야구 터질 것이 터졌다! 한화 아쿼 좌완, 진짜 비수 꽂나? 대만 한국전 올인 선언…왕옌청 선발→린위민 불펜 전망 \"경의 표할 상대\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/fguwMSrNtX"
+      }
+    },
+    {
+      "keyword": "세무사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "경안시장서 '찾아가는 마을세무사'…상인·시민 무료 세무상담",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918103752126"
+      }
+    },
+    {
+      "keyword": "이혼숙려캠프: 새로고침",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/company-news/ionq-synopsys-cut-simulation-time-by-146-with-quantum-tech-93CH-4905765"
+        "title": "'월 250만원' 돌봄비 받은 시모, 전부 며느리 돈…서장훈 \"아들이 300만원 버는데\" 팩폭 (이숙캠)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260917223550787"
       }
     },
     {
-      "keyword": "블레이크 스넬",
+      "keyword": "허양 임",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260917/134686769/1"
+        "title": "생사 넘나들었던 고지용…\"의사 허양임, 홍보 위해 아들 사진 사용\" 증언",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6293889"
       }
     },
     {
-      "keyword": "사노피",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "한화그룹",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "J&J '이마비'로 첫발 뗀 wAIHA 치료제… 사노피 추격 예고",
-        "source": "히트뉴스",
-        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79224"
+        "title": "[Who Is ?] 김동관 한화그룹 수석부회장",
+        "source": "비즈니스포스트",
+        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446264"
       }
     },
     {
-      "keyword": "qqq",
+      "keyword": "노란봉투법",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "법원, '노란봉투법' 첫 판단…극동건설 집행정지 신청 기각",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260917187300530"
+      }
+    },
+    {
+      "keyword": "볼보 es90",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/500-000-split-between-voo-221509822.html"
+        "title": "SUV의 공간에 세단의 주행감 담았다…볼보 전기차 ES90 타보니",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609180000001"
       }
+    },
+    {
+      "keyword": "철도망",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     }
   ]
 }
