@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-09-18T21:28:42.387825+09:00",
-  "label": "21:28",
+  "timestamp": "2026-09-19T01:48:07.014276+09:00",
+  "label": "01:48",
   "items": [
     {
-      "keyword": "전투기",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[르포] \"KF-21 월 2대 이상\"…전투기·헬기 넘어 우주까지 뻗어가는 KAI",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260918060119823"
-      }
-    },
-    {
-      "keyword": "두산에너 빌리티",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "반토막 난 '텐배거' 두산에너빌리티⋯대미투자에 다시 쏠린 눈",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260918151807008"
-      }
-    },
-    {
-      "keyword": "xsmb",
+      "keyword": "마이크론 테크놀로지",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Kết quả xổ số miền Trung hôm nay 18.9: Gia Lai, Ninh Thuận",
-        "source": "Laodong.vn",
-        "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-189-gia-lai-ninh-thuan-1768916.ldo"
+        "title": "Micron Gains 1.4% as 512GB Module Raises the AI Memory Ceiling",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/micron-gains-1-4-512gb-152828297.html"
       }
     },
     {
-      "keyword": "경상남도",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "청하",
+      "keyword": "자동차산업",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "청하, 오늘(18일) 새벽 응급실 이송…소속사 결별 앞두고 연속 악재 [Oh!쎈 이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260918143007243"
+        "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야”",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=372609"
       }
     },
     {
-      "keyword": "특별감찰관",
+      "keyword": "지창욱",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "최길수, '김현지 실장 감찰'에 \"법상 수석비서관 이상만 대상\"(종합)",
+        "title": "'비서진' 이서진 \"손예진 제일 예뻐!\"…'스캔들' 제발회 깜짝 만남",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260918165752167"
+        "url": "https://v.daum.net/v/20260918235638259"
       }
     },
     {
-      "keyword": "배그",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "이선민",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "미디어웹, Npay와 'CBL: PUBG' 랭킹전 개최… 마일리지 및 경",
-        "source": "디스이즈게임",
-        "url": "https://www.thisisgame.com/articles/430110"
-      }
-    },
-    {
-      "keyword": "m",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html"
-      }
-    },
-    {
-      "keyword": "south korea",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Korea men’s basketball routs Iran, reaches Asian Games final - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/09/18/ETBOIJ72KJGYLKGKWLCZXJYE2U/"
-      }
-    },
-    {
-      "keyword": "지승현",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'편스토랑' 지승현 \"父 무도 10단 체육 교사·母 교장선생님 출신\"",
+        "title": "'대세' 이선민, '가성비 인간'의 쇼핑법 [나혼산]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260917212927785"
+        "url": "https://v.daum.net/v/toe1c71yTj"
+      }
+    },
+    {
+      "keyword": "장신영",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…” - 스타투데이",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12156204"
+      }
+    },
+    {
+      "keyword": "업비트",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "1엔짜리 스테이블코인이 4배 폭등?…업비트서 무슨 일이",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918173753740"
+      }
+    },
+    {
+      "keyword": "재벌형사2",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "재벌X형사 2 : [최종회 예고] “내가 마무리할게” 정은채, 도망친 유승호 향한 숨 막히는 마지막 추격",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481815191"
+      }
+    },
+    {
+      "keyword": "아스트라에 오라티오",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/tech_it/2026/09/18/62QMWHVOEJEIVFMDKWV6KVUPGY/"
+      }
+    },
+    {
+      "keyword": "수성구",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "수성구 30-11구역, 시공자 재입찰… 1차는 한신공영만",
+        "source": "한국주택경제신문",
+        "url": "https://www.arunews.com/news/articleView.html?idxno=67404"
+      }
+    },
+    {
+      "keyword": "비트코인 시세",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[코인시황] 지캐시 20.19% 상승, 스테이블 10.45% 하락",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2626621"
       }
     }
   ]
