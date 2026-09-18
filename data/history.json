@@ -940,5 +940,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-19T04:17:53.519656+09:00",
+    "label": "04:17",
+    "items": [
+      {
+        "keyword": "바이에른 대 우니온 베를린",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이럴 수가! '코리안 더비' 불발되나...김민재 '선발 제외' 전망한 獨 유력지, 정우영은 '출격 예측'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918122350614"
+        }
+      },
+      {
+        "keyword": "레알 마드리드 cf",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"이강인이 최고 레전드 그리즈만 뛰어넘었다, 무려 이 정도라니...\" 스페인 유력지 '이례적 극찬'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9z9fpjJ6SW"
+        }
+      },
+      {
+        "keyword": "팬심",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "스마일게이트 CBO \"향후 애니메이션 게임 라인업 비중 늘릴 것\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260918088800017"
+        }
+      },
+      {
+        "keyword": "자동차 산업",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "中 전기차 판매 비중 35%…“생산 연계 세액공제 서둘러야”",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372609"
+        }
+      },
+      {
+        "keyword": "주한 미군 사령관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "벨 前주한미군사령관 \"전작권 전환 반대 소신 지금도 그대로\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918191352322"
+        }
+      },
+      {
+        "keyword": "넷플",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“제일 예쁘다” 이서진, 손예진에 꿀 건네며 팬심 드러내",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918170248357"
+        }
+      },
+      {
+        "keyword": "재귀적 자기 개선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215459"
+        }
+      },
+      {
+        "keyword": "백종원",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[단독] 백종원도 ‘사이버 레커’ 잡았다…유튜브 채널 삭제 엔딩",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260918180551777"
+        }
+      },
+      {
+        "keyword": "버크셔 해서웨이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "96세 버핏, 버크셔 회장에서도 퇴진…명예회장으로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260918182700009"
+        }
+      },
+      {
+        "keyword": "배틀그라운드",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드",
+          "source": "PUBG: BATTLEGROUNDS",
+          "url": "https://www.pubg.com/ko/events/notice/10926"
+        }
+      }
+    ]
   }
 ]
