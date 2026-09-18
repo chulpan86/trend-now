@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-09-18T11:10:50.527563+09:00",
-  "label": "11:10",
+  "timestamp": "2026-09-18T16:44:16.078979+09:00",
+  "label": "16:44",
   "items": [
     {
-      "keyword": "이재명",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "도플 갱어",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "[속보] 이 대통령 \"국민주권정부 함께 했던 분들이 혐오의 언어 주고받아 안타까워\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6852726_36911.html"
+        "title": "한가인, ‘도플갱어’ 김동준 친누나 됐다…“감독님이 2년간 모시고 싶었다고”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918152437305"
       }
     },
     {
-      "keyword": "sk그룹",
+      "keyword": "리트리버",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/09/18/7QHMEZAUBRCNRC2FUU2VYBANAY/"
+        "title": "도둑 쫓지 않고 장난감 놀이…'직무유기' 반려견 딱 걸렸다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918050243079"
       }
     },
     {
-      "keyword": "왕옌청",
+      "keyword": "수학",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[단독] ‘수학 학원’ 생각하는황소, 개인정보 유출 정황… “해커 침입 확인” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/topics/topics_social/2026/09/18/JJTB4XZT65AOFDYDC3KQY2XJGQ/"
+      }
+    },
+    {
+      "keyword": "필리핀 u-23 축구 국가대표팀 대 베트남 u-23",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "한국 야구 터질 것이 터졌다! 한화 아쿼 좌완, 진짜 비수 꽂나? 대만 한국전 올인 선언…왕옌청 선발→린위민 불펜 전망 \"경의 표할 상대\"",
+        "title": "김상식 없으니 약하네…베트남 축구, AG 첫 경기서 쿠웨이트에 졸전 끝 무승부 [나고야 AG]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/fguwMSrNtX"
+        "url": "https://v.daum.net/v/20260915214007127?f=p"
       }
     },
     {
-      "keyword": "세무사",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "교장",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "경안시장서 '찾아가는 마을세무사'…상인·시민 무료 세무상담",
+        "title": "교단에 선 산울학교 교장… 초·중 경계 허문 '수업 나눔'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260918103752126"
+        "url": "https://v.daum.net/v/20260918141650666"
       }
     },
     {
-      "keyword": "이혼숙려캠프: 새로고침",
+      "keyword": "상장지수 펀드",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'월 250만원' 돌봄비 받은 시모, 전부 며느리 돈…서장훈 \"아들이 300만원 버는데\" 팩폭 (이숙캠)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260917223550787"
-      }
-    },
-    {
-      "keyword": "허양 임",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "생사 넘나들었던 고지용…\"의사 허양임, 홍보 위해 아들 사진 사용\" 증언",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6293889"
-      }
-    },
-    {
-      "keyword": "한화그룹",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[Who Is ?] 김동관 한화그룹 수석부회장",
-        "source": "비즈니스포스트",
-        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446264"
-      }
-    },
-    {
-      "keyword": "노란봉투법",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "법원, '노란봉투법' 첫 판단…극동건설 집행정지 신청 기각",
+        "title": "미래운용 \"미국 대표지수 커버드콜 ETF 2종 순자산 3조원 돌파\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260917187300530"
+        "url": "https://www.yna.co.kr/view/AKR20260917054700008"
       }
     },
     {
-      "keyword": "볼보 es90",
+      "keyword": "미국 증권거래위원회",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "70조달러 美 증시 문 열렸다… 상장 주식도 블록체인 거래",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/int_economy/2026/09/18/RAPTZEWJZZFJXCAWFP35A65OJU/"
+      }
+    },
+    {
+      "keyword": "하이 록스",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'설사록스' 논란 일으킨 하이록스 우승자, 일주일 만 사과…기권패 처리",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918133912206"
+      }
+    },
+    {
+      "keyword": "수지",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "SUV의 공간에 세단의 주행감 담았다…볼보 전기차 ES90 타보니",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609180000001"
+        "title": "수지라고? 뼈말라에 올백 '믿기지 않은 미모 경신' [핫피플]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918141007432"
       }
     },
     {
-      "keyword": "철도망",
+      "keyword": "정구",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "“태극기 왜 막아?”…신유빈·서승재, 日제지에 입국장서 태극기 못 들어",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918120407129"
+      }
     }
   ]
 }
