@@ -1156,5 +1156,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-20T08:47:59.625670+09:00",
+    "label": "08:47",
+    "items": [
+      {
+        "keyword": "로또번호",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03017606645581760&mediaCodeNo=257"
+        }
+      },
+      {
+        "keyword": "토트넘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919233728375"
+        }
+      },
+      {
+        "keyword": "ufc",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12157113"
+        }
+      },
+      {
+        "keyword": "아스날",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026092006434550257"
+        }
+      },
+      {
+        "keyword": "sxmb",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026",
+          "source": "An ninh Tiền tệ",
+          "url": "https://antt.nguoiduatin.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-19-9-2026-205260918222542149.htm"
+        }
+      },
+      {
+        "keyword": "유주상",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2PuDAnQ9En"
+        }
+      },
+      {
+        "keyword": "최예나",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "최예나 '캐치 캐치' 처음 듣고 대박 예감…\"5초 만에 안무 만들어\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/20/2026092007482053792"
+        }
+      },
+      {
+        "keyword": "유영우",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920052636444"
+        }
+      },
+      {
+        "keyword": "재벌형사",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "안보현·정은채, 시즌1 시청률 넘었다..미치광이 살인마 유승호 완벽 응징(재벌X형사2)[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920082237021"
+        }
+      },
+      {
+        "keyword": "pl",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Mieli zagrać z Polakami. Bułgaria w szoku. 'Dramat i porażka' Siatkówka",
+          "source": "Sport.pl",
+          "url": "https://www.sport.pl/siatkowka/7,64948,33033834,mieli-zagrac-z-polakami-bulgaria-w-szoku-dramat-i-porazka.html"
+        }
+      }
+    ]
   }
 ]

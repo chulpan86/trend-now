@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-20T06:55:43.482459+09:00",
-  "label": "06:55",
+  "timestamp": "2026-09-20T08:47:59.625670+09:00",
+  "label": "08:47",
   "items": [
     {
       "keyword": "로또번호",
@@ -23,13 +23,23 @@
       }
     },
     {
+      "keyword": "ufc",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/en/sports/12157113"
+      }
+    },
+    {
       "keyword": "아스날",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"무조건 퇴장이야\" 아스널 0-3 대참사→라이스는 상대 다리 걷어차고도 퇴장 면했다...英 \"100% 레드카드, 정말 운 좋았다\"",
-        "source": "스포탈코리아",
-        "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553554400"
+        "title": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패",
+        "source": "마이데일리",
+        "url": "https://www.mydaily.co.kr/page/view/2026092006434550257"
       }
     },
     {
@@ -43,13 +53,13 @@
       }
     },
     {
-      "keyword": "프로야구 순위",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "유주상",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광주 현장]",
+        "title": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260918120220046"
+        "url": "https://v.daum.net/v/2PuDAnQ9En"
       }
     },
     {
@@ -57,9 +67,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "최예나, '워터밤' 전신 슈트·'청룡' 화제의 무대 비하인드 공개",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260919205749914"
+        "title": "최예나 '캐치 캐치' 처음 듣고 대박 예감…\"5초 만에 안무 만들어\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/20/2026092007482053792"
       }
     },
     {
@@ -77,9 +87,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전",
+        "title": "안보현·정은채, 시즌1 시청률 넘었다..미치광이 살인마 유승호 완벽 응징(재벌X형사2)[종합]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260919201251301"
+        "url": "https://v.daum.net/v/20260920082237021"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Tramwaje ścigały się w Warszawie. Mistrzami motorniczowie z czeskiej Pragi [ZDJĘCIA]",
-        "source": "Polska Agencja Prasowa SA",
-        "url": "https://www.pap.pl/aktualnosci/warszawa-motorniczowie-z-czeskiej-pragi-zwyciezcami-europejskich-mistrzostw"
-      }
-    },
-    {
-      "keyword": "이승기",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "TV-라디오 화제의 순간|'너 말고 다른 연애' 서강준♥안은진, 풀세팅 ‘꾸꾸꾸’ 데이트 전말 베일 벗는다 [방송 프리뷰]",
-        "source": "ZUM 뉴스",
-        "url": "https://m.news.zum.com/photo/39547648/107845928?cm=news_photolist&r=3&thumb=1"
+        "title": "Mieli zagrać z Polakami. Bułgaria w szoku. 'Dramat i porażka' Siatkówka",
+        "source": "Sport.pl",
+        "url": "https://www.sport.pl/siatkowka/7,64948,33033834,mieli-zagrac-z-polakami-bulgaria-w-szoku-dramat-i-porazka.html"
       }
     }
   ]
