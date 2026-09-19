@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-09-19T09:46:48.045523+09:00",
-  "label": "09:46",
+  "timestamp": "2026-09-19T14:16:59.802665+09:00",
+  "label": "14:16",
   "items": [
     {
-      "keyword": "사고",
+      "keyword": "소재원",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"잠자는 것도 안 맞아\"...고지용·허양임, 이혼 전 발언 재조명 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/18/2026091812341731038"
+      }
+    },
+    {
+      "keyword": "이미숙",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "故윤희상, 교통사고→전신마비 극복했는데..오늘(19일) 사망 9주기",
+        "title": "이미숙 “며느리 올까 봐 무서워…명절에도 안 부르고 여행 가라고”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260919051151568"
+        "url": "https://v.daum.net/v/tcWP3fzt7O"
       }
     },
     {
-      "keyword": "엘레나 리바 키나",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "원자력 발전소",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[오피셜] 전부 다 한국 온다고? '여자테니스 1위' 리바키나, 크리스마스 때 내한 경기…사발렌카·오사카·시비옹테크·안드레예바·파올리니도 온다",
+        "title": "세계 최초의 레이저 기반 핵융합 발전소가 독일에서 건설되고 있습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nha-may-dien-nhiet-hach-bang-laser-dau-tien-the-gioi-duoc-xay-dung-tai-duc"
+      }
+    },
+    {
+      "keyword": "빈곤",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "노인 3명 중 1명 빈곤…\"기초연금 하후상박·일자리 연계해야\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260918195349921"
+        "url": "https://v.daum.net/v/y2cDINd8Hj"
       }
     },
     {
-      "keyword": "bayern munich vs union berlin standings",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "윤미라",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Bayern 7-0 Union Berlin (Sep 18, 2026) Game Analysis",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/report/_/gameId/401884790"
+        "title": "윤미라 \"스폰서 제안 숱하게 왔다, 집 찾아오기도…인생 망친 애들 여럿\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6295405"
       }
     },
     {
-      "keyword": "노시환",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "이마트",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "노시환 이래서 상의 안 입었구나…뜻밖의 '태극기 거꾸로' 해프닝→액땜 속 결전지 입성 [나고야 현장]",
+        "title": "\"비늘 벗기고 5시간\"…이마트가 키운 '반건조 생선' [현장]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260919015607089"
+        "url": "https://v.daum.net/v/20260919070238975?f=p"
       }
     },
     {
-      "keyword": "출연료",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "인천국제공항",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“회당 출연료 ‘5억’에 난리더니” ‘큰돈’ 아끼는 방법 나왔다…뭐길래",
+        "title": "'캐리어가 안실렸어요'…인천국제공항 위탁수하물 미탑재 속출",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4bdTurNdtO"
+        "url": "https://v.daum.net/v/20260919072838271"
       }
     },
     {
-      "keyword": "ai 데이터 센터",
+      "keyword": "타이거스 대 화이트삭스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "美 데이터센터 전력비 부담 법안 통과에 美원전주 급등 By The Guru",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/stock-market-news/article-2099170"
+        "title": "'뼈아픈 역전패' 8회에만 5실점 무너진 화이트삭스, 가을야구 순위 싸움서 클리블랜드에 지구 선두 헌납",
+        "source": "www.mlbkor.com",
+        "url": "https://www.mlbkor.com/news/articleView.html?idxno=33215"
       }
     },
     {
-      "keyword": "필리조선소",
+      "keyword": "도서관",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[단독] 미 전쟁부 부차관보 한화오션 거제사업장 찾았다...‘마스가’ 속도 빨라지나",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260917508531"
+        "title": "다대포 노을에 책 펼치고… 하반기 '부산바다도서관'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260918115842854"
       }
     },
     {
-      "keyword": "이승철",
+      "keyword": "그린란드",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이승철, 할아버지 됐다…손자 공개하며 \"웰컴\"",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008759241"
+        "title": "트럼프 결국 “그린란드 확보” 선언…미군 주둔 강화 [지금뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8667823"
       }
-    },
-    {
-      "keyword": "조선일보",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[조우석 칼럼] 실로 충격인 조선일보 김대중의 실체",
-        "source": "파이낸스투데이",
-        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=393303"
-      }
-    },
-    {
-      "keyword": "klasemen brentford vs chelsea",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }
