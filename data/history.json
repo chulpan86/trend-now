@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-19T14:16:59.802665+09:00",
-    "label": "14:16",
-    "items": [
-      {
-        "keyword": "소재원",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"잠자는 것도 안 맞아\"...고지용·허양임, 이혼 전 발언 재조명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/18/2026091812341731038"
-        }
-      },
-      {
-        "keyword": "이미숙",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이미숙 “며느리 올까 봐 무서워…명절에도 안 부르고 여행 가라고”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tcWP3fzt7O"
-        }
-      },
-      {
-        "keyword": "원자력 발전소",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "세계 최초의 레이저 기반 핵융합 발전소가 독일에서 건설되고 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nha-may-dien-nhiet-hach-bang-laser-dau-tien-the-gioi-duoc-xay-dung-tai-duc"
-        }
-      },
-      {
-        "keyword": "빈곤",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "노인 3명 중 1명 빈곤…\"기초연금 하후상박·일자리 연계해야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/y2cDINd8Hj"
-        }
-      },
-      {
-        "keyword": "윤미라",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "윤미라 \"스폰서 제안 숱하게 왔다, 집 찾아오기도…인생 망친 애들 여럿\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6295405"
-        }
-      },
-      {
-        "keyword": "이마트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"비늘 벗기고 5시간\"…이마트가 키운 '반건조 생선' [현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260919070238975?f=p"
-        }
-      },
-      {
-        "keyword": "인천국제공항",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'캐리어가 안실렸어요'…인천국제공항 위탁수하물 미탑재 속출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260919072838271"
-        }
-      },
-      {
-        "keyword": "타이거스 대 화이트삭스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'뼈아픈 역전패' 8회에만 5실점 무너진 화이트삭스, 가을야구 순위 싸움서 클리블랜드에 지구 선두 헌납",
-          "source": "www.mlbkor.com",
-          "url": "https://www.mlbkor.com/news/articleView.html?idxno=33215"
-        }
-      },
-      {
-        "keyword": "도서관",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "다대포 노을에 책 펼치고… 하반기 '부산바다도서관'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918115842854"
-        }
-      },
-      {
-        "keyword": "그린란드",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "트럼프 결국 “그린란드 확보” 선언…미군 주둔 강화 [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8667823"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-19T18:56:32.380985+09:00",
     "label": "18:56",
     "items": [
@@ -1143,6 +1037,108 @@
           "title": "李대통령 '눈높이' 언급 후 급변…'추가의혹에 임명제동' 관측도",
           "source": "연합뉴스 한민족센터",
           "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1413144"
+        }
+      },
+      {
+        "keyword": "김영범",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6853116_36946.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-21T04:58:34.554787+09:00",
+    "label": "04:58",
+    "items": [
+      {
+        "keyword": "이현중",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“일본이 언제부터 다국적 국가였나” 농구 결승에 귀화 선수까지 총출동…'외국계 부모 4명+귀화 1명'에도 한국 못 넘었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920235251378?x_trkm=t"
+        }
+      },
+      {
+        "keyword": "레알마드리드",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[공식발표] '리그 2호골 작렬' 이강인, 선발 확정! '전 소속팀 동료' 음바페와 정면승부...마드리드 더비 라인업 발표",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260920221328334"
+        }
+      },
+      {
+        "keyword": "축구중계",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "리버풀",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[pl.review] ‘2400억 사나이’ 이삭 결승골! 리버풀, 본머스에 1-0 승...5G 무패",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98130"
+        }
+      },
+      {
+        "keyword": "맨시티",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210000773725O"
+        }
+      },
+      {
+        "keyword": "instagram",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Kate Beckinsale Shares Bleak Messages on Instagram",
+          "source": "People.com",
+          "url": "https://people.com/kate-beckinsale-shares-bleak-messages-on-instagram-12130092"
+        }
+      },
+      {
+        "keyword": "google",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"
+        }
+      },
+      {
+        "keyword": "sxmb",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
+          "source": "Báo Thanh Niên",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-9-nguoi-trung-32-to-nhan-chuyen-khoan-ngay-185260920171315124.htm"
+        }
+      },
+      {
+        "keyword": "kbs",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "PPP Media Committee: 'Alleged Protest Call to KBS by DP Aide Constitutes External Pressure if True'",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008762457"
         }
       },
       {
