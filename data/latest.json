@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-21T04:58:34.554787+09:00",
-  "label": "04:58",
+  "timestamp": "2026-09-21T07:11:08.974094+09:00",
+  "label": "07:11",
   "items": [
     {
       "keyword": "이현중",
@@ -17,25 +17,29 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[공식발표] '리그 2호골 작렬' 이강인, 선발 확정! '전 소속팀 동료' 음바페와 정면승부...마드리드 더비 라인업 발표",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260920221328334"
+        "title": "‘쐐기골 기점’ 이강인, 첫 마드리드 더비서 기립박수 받았다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/09/21/DCYXYV5Z4ZC6NIF6QXO6ZYREEM/"
       }
     },
     {
       "keyword": "축구중계",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "'놀뭐', AG 중계로 3주 결방…유재석 \"4년 땀 흘린 선수들 멋진 경기 펼치길\"",
+        "source": "파이낸셜뉴스",
+        "url": "https://www.fnnews.com/news/202609130848482921"
+      }
     },
     {
       "keyword": "리버풀",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[pl.review] ‘2400억 사나이’ 이삭 결승골! 리버풀, 본머스에 1-0 승...5G 무패",
-        "source": "포포투",
-        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98130"
+        "title": "맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/43GbnoMVEp"
       }
     },
     {
@@ -43,9 +47,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/09/21/202609210000773725O"
+        "title": "BRITAIN SOCCER",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260921051158146"
       }
     },
     {
@@ -73,9 +77,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
-        "source": "Báo Thanh Niên",
-        "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-9-nguoi-trung-32-to-nhan-chuyen-khoan-ngay-185260920171315124.htm"
+        "title": "XSMN 20/9 - Kết quả xổ số miền Nam hôm nay 20/9/2026 - XSMN ngày 20 tháng 9",
+        "source": "Giáo dục Thủ đô",
+        "url": "https://giaoducthudo.giaoducthoidai.vn/xsmn-20-9-ket-qua-xo-so-mien-nam-hom-nay-20-9-2026-xsmn-ngay-20-thang-9-222500.html"
       }
     },
     {
@@ -93,9 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6853116_36946.html"
+        "title": "황금세대가 함께 날았다…황선우·김영범·이주호 동반 메달",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8668047"
       }
     }
   ]
