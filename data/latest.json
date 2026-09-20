@@ -1,7 +1,17 @@
 {
-  "timestamp": "2026-09-20T11:22:08.988635+09:00",
-  "label": "11:22",
+  "timestamp": "2026-09-20T17:03:16.387537+09:00",
+  "label": "17:03",
   "items": [
+    {
+      "keyword": "조슈아 반",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "UFC 한국인 파이터 전멸… 최두호 1R KO패하며 랭커 복귀 실패",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/09/20/HCVNV56EWJAYDPM3VJYDCT2Z6U/"
+      }
+    },
     {
       "keyword": "ufc",
       "traffic_raw": "2000+",
@@ -13,23 +23,13 @@
       }
     },
     {
-      "keyword": "최두호",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260919194549891"
-      }
-    },
-    {
       "keyword": "유주상",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "3라운드 추격 아쉽다...'좀비 주니어' 유주상, UFC 복귀전서 판정패→애스웰 주니어에게 당하며 2연패 늪",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_general/2026/09/20/GMZWIYRQGA4WGYLCGI4GEZRUGE/"
+        "title": "'도발→TKO 패' UFC 유주상 \"내 방식! 또 도발할 수 있다\" [인터뷰]",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6580598"
       }
     },
     {
@@ -37,9 +37,29 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패",
-        "source": "마이데일리",
-        "url": "https://www.mydaily.co.kr/page/view/2026092006434550257"
+        "title": "‘33세 감독’ 휘르첼러, EPL 강타 아스널 3-0 잡았다···브라이턴, 5경기 16골 ‘공+수+신구+믿음’ ...",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202609201413003"
+      }
+    },
+    {
+      "keyword": "유영우",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "유영우, 리센느 원이·이선민에 51만원 한우 선물",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260920_0003797146"
+      }
+    },
+    {
+      "keyword": "백억커피",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드",
+        "source": "PUBG: BATTLEGROUNDS",
+        "url": "https://www.pubg.com/ko/events/notice/10926"
       }
     },
     {
@@ -47,9 +67,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Player Status Report | San Jose Earthquakes vs. LAFC - 2026 MLS Season",
-        "source": "Los Angeles Football Club",
-        "url": "https://www.lafc.com/news/player-status-report-san-jose-earthquakes-vs-lafc-2026-mls-season-september-19"
+        "title": "Son Heung-min Shines, LAFC Draws 2-2 with San Jose",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/world-en/2026/09/20/NEZIFNN45ZDTJOISTSBIGUMBME/"
       }
     },
     {
@@ -57,45 +77,29 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'",
+        "title": "'유럽 축구 1대장'은 하피냐...'또 해트트릭' 7경기 12골 3도움→11-12시즌 '프라임 메시'까지 소환",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/09/20/MRRDIZJQMQYGIOBSGYYGMMJWGA/"
+        "url": "https://www.chosun.com/sports/world-football/2026/09/20/HBSTOMRRMFRWEYJQHAYTEYLFGY/"
+      }
+    },
+    {
+      "keyword": "토토",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "2026 LCK 평균 시청자 약 40만 명, 전년 대비 10% 증가",
+        "source": "뉴스투온",
+        "url": "https://www.newstoon.co.kr/news/articleView.html?idxno=80715"
       }
     },
     {
       "keyword": "최예나",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "유영우",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
-        "title": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260920052636444"
-      }
-    },
-    {
-      "keyword": "재벌형사",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "유승호 단죄한 안보현…'재벌X형사2' 11.8% 자체 최고 종영",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260920012000005"
-      }
-    },
-    {
-      "keyword": "pl",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Pokonali Polaków, a teraz katastrofa. Blisko awantury pod siatką, hala w Sofii uciszona",
-        "source": "Interia Sport",
-        "url": "https://sport.interia.pl/siatkowka/mistrzostwa-europy-mezczyzn/news-pokonali-polakow-a-teraz-katastrofa-blisko-awantury-pod-siat,nId,23546040"
+        "title": "최예나, 이준에 '캐치 캐치' 뺏길 뻔?...\"위기감 들어\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/20/2026092007482053792"
       }
     }
   ]
