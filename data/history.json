@@ -1054,5 +1054,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-21T02:07:25.787238+09:00",
+    "label": "02:07",
+    "items": [
+      {
+        "keyword": "이현중",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6853145_36946.html"
+        }
+      },
+      {
+        "keyword": "라리가",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이강인, 첫 마드리드 더비 제대로 즐겼다! 89분 종횡무진→평점 7.2점...ATM, 레알 2-1 격파하고 2위 탈환 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210119778761O"
+        }
+      },
+      {
+        "keyword": "축구중계",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "리버풀",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919190549367"
+        }
+      },
+      {
+        "keyword": "맨시티",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210000773725O"
+        }
+      },
+      {
+        "keyword": "instagram",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Kate Beckinsale Shares Bleak Messages on Instagram",
+          "source": "People.com",
+          "url": "https://people.com/kate-beckinsale-shares-bleak-messages-on-instagram-12130092"
+        }
+      },
+      {
+        "keyword": "google",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
+        }
+      },
+      {
+        "keyword": "sxmb",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
+          "source": "Báo Thanh Niên",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-9-nguoi-trung-32-to-nhan-chuyen-khoan-ngay-185260920171315124.htm"
+        }
+      },
+      {
+        "keyword": "kbs",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "李대통령 '눈높이' 언급 후 급변…'추가의혹에 임명제동' 관측도",
+          "source": "연합뉴스 한민족센터",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1413144"
+        }
+      },
+      {
+        "keyword": "김영범",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6853116_36946.html"
+        }
+      }
+    ]
   }
 ]
