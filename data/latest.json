@@ -1,21 +1,11 @@
 {
-  "timestamp": "2026-09-21T20:25:40.062638+09:00",
-  "label": "20:25",
+  "timestamp": "2026-09-22T02:24:59.072786+09:00",
+  "label": "02:24",
   "items": [
     {
-      "keyword": "드래프트",
+      "keyword": "발로란트 추석 이벤트",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": {
-        "title": "양키스 거절 에이스·빅리거 거포…뜨거운 KBO 신인들",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260920001800038"
-      }
-    },
-    {
-      "keyword": "발로란트 추석 이벤트",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
       "news": {
         "title": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
         "source": "VALORANT",
@@ -23,43 +13,33 @@
       }
     },
     {
+      "keyword": "아시안게임",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "도쿄 '턱밑' 근접한 태풍 \"무서워‥바람이 울부짖는 듯\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6853304_36925.html"
+      }
+    },
+    {
       "keyword": "최지만",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "전직 빅리거 최지만, 2라운드 전체 15순위로 KT행…하현승, 전체 1순위 키움행(종합2보)",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260921_0003798657"
+        "title": "최지만 2R까지 밀렸다! KT 전격 지명 완료!…ML 67홈런+35세 베테랑 최지만 어떤 모습일까",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9EJahnQ9h2"
       }
     },
     {
-      "keyword": "김다현",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "조병현",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "심수봉, 후배 가수에 \"노래 모르는 아가씨\" 직격…논란일자 사과",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260921140200005"
-      }
-    },
-    {
-      "keyword": "강훈식",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "강훈식 대통령 비서실장 사의…청와대 \"국정 전반 종합적 책임\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12319353"
-      }
-    },
-    {
-      "keyword": "부산국제영화제",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'재혼황후', 제31회 BIFF 예매 오픈 후 전석 매진! 스틸 4종 공개 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/21/2026092117157296136"
+        "title": "‘곽빈 6이닝 노히트’ 한국, 아시안게임 첫 경기에서 ‘난적’ 대만 5대0 제압",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_special/2026/09/21/MZWI65KVIBGEFEEVKH7MZPMYYM/"
       }
     },
     {
@@ -67,19 +47,29 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "아시안게임 영상 클립, AI로 생성…‘스포터’로 생태계 확대하는 네이버 치지직",
-        "source": "www.dt.co.kr",
-        "url": "https://www.dt.co.kr/article/12085177"
+        "title": "'농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인",
+        "source": "테크M",
+        "url": "https://www.techm.kr/news/articleView.html?idxno=155448"
       }
     },
     {
-      "keyword": "아시안게임",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "윤동희",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "김영범, 수영 자유형 50m에서 대회신으로 금",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6853336_36946.html"
+        "title": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/09/22/202609220023771335O"
+      }
+    },
+    {
+      "keyword": "김영범",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876"
       }
     },
     {
@@ -87,9 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Yonhap News Summary",
+        "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
         "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20260921009700320"
+        "url": "https://en.yna.co.kr/view/AEN20260921006100315"
       }
     },
     {
@@ -97,9 +87,19 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“AI가 만든 이미지인줄” 외신도 감탄한 韓펜싱 국대",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260921/134713093/1"
+        "title": "“AI처럼 완벽한 미모”…외신 놀란 ‘韓펜싱 국가대표’ 정체",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260921124436921"
+      }
+    },
+    {
+      "keyword": "업비트",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260921101149542"
       }
     }
   ]

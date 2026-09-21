@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-09-20T08:47:59.625670+09:00",
-    "label": "08:47",
-    "items": [
-      {
-        "keyword": "로또번호",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03017606645581760&mediaCodeNo=257"
-        }
-      },
-      {
-        "keyword": "토트넘",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260919233728375"
-        }
-      },
-      {
-        "keyword": "ufc",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12157113"
-        }
-      },
-      {
-        "keyword": "아스날",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026092006434550257"
-        }
-      },
-      {
-        "keyword": "sxmb",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026",
-          "source": "An ninh Tiền tệ",
-          "url": "https://antt.nguoiduatin.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-19-9-2026-205260918222542149.htm"
-        }
-      },
-      {
-        "keyword": "유주상",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2PuDAnQ9En"
-        }
-      },
-      {
-        "keyword": "최예나",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "최예나 '캐치 캐치' 처음 듣고 대박 예감…\"5초 만에 안무 만들어\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/20/2026092007482053792"
-        }
-      },
-      {
-        "keyword": "유영우",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920052636444"
-        }
-      },
-      {
-        "keyword": "재벌형사",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "안보현·정은채, 시즌1 시청률 넘었다..미치광이 살인마 유승호 완벽 응징(재벌X형사2)[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920082237021"
-        }
-      },
-      {
-        "keyword": "pl",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Mieli zagrać z Polakami. Bułgaria w szoku. 'Dramat i porażka' Siatkówka",
-          "source": "Sport.pl",
-          "url": "https://www.sport.pl/siatkowka/7,64948,33033834,mieli-zagrac-z-polakami-bulgaria-w-szoku-dramat-i-porazka.html"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-20T11:22:08.988635+09:00",
-    "label": "11:22",
-    "items": [
-      {
-        "keyword": "ufc",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12157113"
-        }
-      },
-      {
-        "keyword": "최두호",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260919194549891"
-        }
-      },
-      {
-        "keyword": "유주상",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "3라운드 추격 아쉽다...'좀비 주니어' 유주상, UFC 복귀전서 판정패→애스웰 주니어에게 당하며 2연패 늪",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/20/GMZWIYRQGA4WGYLCGI4GEZRUGE/"
-        }
-      },
-      {
-        "keyword": "아스날",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026092006434550257"
-        }
-      },
-      {
-        "keyword": "lafc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Player Status Report | San Jose Earthquakes vs. LAFC - 2026 MLS Season",
-          "source": "Los Angeles Football Club",
-          "url": "https://www.lafc.com/news/player-status-report-san-jose-earthquakes-vs-lafc-2026-mls-season-september-19"
-        }
-      },
-      {
-        "keyword": "하피냐",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/20/MRRDIZJQMQYGIOBSGYYGMMJWGA/"
-        }
-      },
-      {
-        "keyword": "최예나",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "유영우",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920052636444"
-        }
-      },
-      {
-        "keyword": "재벌형사",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "유승호 단죄한 안보현…'재벌X형사2' 11.8% 자체 최고 종영",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260920012000005"
-        }
-      },
-      {
-        "keyword": "pl",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Pokonali Polaków, a teraz katastrofa. Blisko awantury pod siatką, hala w Sofii uciszona",
-          "source": "Interia Sport",
-          "url": "https://sport.interia.pl/siatkowka/mistrzostwa-europy-mezczyzn/news-pokonali-polakow-a-teraz-katastrofa-blisko-awantury-pod-siat,nId,23546040"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-20T17:03:16.387537+09:00",
     "label": "17:03",
     "items": [
@@ -1039,6 +831,112 @@
           "title": "“AI가 만든 이미지인줄” 외신도 감탄한 韓펜싱 국대",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Sports/article/all/20260921/134713093/1"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-22T02:24:59.072786+09:00",
+    "label": "02:24",
+    "items": [
+      {
+        "keyword": "발로란트 추석 이벤트",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
+          "source": "VALORANT",
+          "url": "https://playvalorant.com/ko-kr/news/announcements/2026-chuseok-event/"
+        }
+      },
+      {
+        "keyword": "아시안게임",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "도쿄 '턱밑' 근접한 태풍 \"무서워‥바람이 울부짖는 듯\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6853304_36925.html"
+        }
+      },
+      {
+        "keyword": "최지만",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "최지만 2R까지 밀렸다! KT 전격 지명 완료!…ML 67홈런+35세 베테랑 최지만 어떤 모습일까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9EJahnQ9h2"
+        }
+      },
+      {
+        "keyword": "조병현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘곽빈 6이닝 노히트’ 한국, 아시안게임 첫 경기에서 ‘난적’ 대만 5대0 제압",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_special/2026/09/21/MZWI65KVIBGEFEEVKH7MZPMYYM/"
+        }
+      },
+      {
+        "keyword": "치지직",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인",
+          "source": "테크M",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=155448"
+        }
+      },
+      {
+        "keyword": "윤동희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/22/202609220023771335O"
+        }
+      },
+      {
+        "keyword": "김영범",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876"
+        }
+      },
+      {
+        "keyword": "dmz",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260921006100315"
+        }
+      },
+      {
+        "keyword": "양승혜",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“AI처럼 완벽한 미모”…외신 놀란 ‘韓펜싱 국가대표’ 정체",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921124436921"
+        }
+      },
+      {
+        "keyword": "업비트",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921101149542"
         }
       }
     ]
