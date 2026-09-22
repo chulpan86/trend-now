@@ -940,5 +940,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-22T09:23:11.656562+09:00",
+    "label": "09:23",
+    "items": [
+      {
+        "keyword": "아시안게임",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "김도영에게 4중키킹? 린이웨이 투구폼 정상적인가…그냥 넘어갈 일 아니다, 결승서 또 당할 수 있다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922081127998"
+        }
+      },
+      {
+        "keyword": "구글",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Google hit with $463 million fine for EU location data rule breach",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/Technology/wireStory/google-hit-463-million-fine-eu-location-data-136616044"
+        }
+      },
+      {
+        "keyword": "치지직",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "기상청",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "전국 맑고 일교차 최대 15도↑ 전형적 가을날…서쪽 오존·건조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922082053265"
+        }
+      },
+      {
+        "keyword": "윤동희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922072408090"
+        }
+      },
+      {
+        "keyword": "김영범",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김영범, 자유형 50m 금메달‥예선·결승 대회신",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853411_37012.html"
+        }
+      },
+      {
+        "keyword": "dmz",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Yonhap News Summary",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260921009700320"
+        }
+      },
+      {
+        "keyword": "조선일보",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/22/MDGAVMJPENFCNDJQ7MKSWFLW5Y/"
+        }
+      },
+      {
+        "keyword": "삼성전자 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“코스피 겨우 버텼는데 어쩌지”...삼전닉스 자사주 매입 종료 임박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921150002083"
+        }
+      },
+      {
+        "keyword": "업비트",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260921101149542"
+        }
+      }
+    ]
   }
 ]

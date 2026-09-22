@@ -1,25 +1,15 @@
 {
-  "timestamp": "2026-09-22T06:23:37.037057+09:00",
-  "label": "06:23",
+  "timestamp": "2026-09-22T09:23:11.656562+09:00",
+  "label": "09:23",
   "items": [
-    {
-      "keyword": "발로란트 추석 이벤트",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
-        "source": "VALORANT",
-        "url": "https://playvalorant.com/ko-kr/news/announcements/2026-chuseok-event/"
-      }
-    },
     {
       "keyword": "아시안게임",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“미모와 기량에서 모두 한국을 압도했다!” 日언론도 한국전 대폭발한 미녀선수에게 찬사 [아시안게임]",
+        "title": "김도영에게 4중키킹? 린이웨이 투구폼 정상적인가…그냥 넘어갈 일 아니다, 결승서 또 당할 수 있다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260922010054036"
+        "url": "https://v.daum.net/v/20260922081127998"
       }
     },
     {
@@ -27,19 +17,25 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260921155254"
+        "title": "Google hit with $463 million fine for EU location data rule breach",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://abcnews.com/Technology/wireStory/google-hit-463-million-fine-eu-location-data-136616044"
       }
     },
     {
       "keyword": "치지직",
       "traffic_raw": "500+",
       "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "기상청",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인",
-        "source": "테크M",
-        "url": "https://www.techm.kr/news/articleView.html?idxno=155448"
+        "title": "전국 맑고 일교차 최대 15도↑ 전형적 가을날…서쪽 오존·건조",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260922082053265"
       }
     },
     {
@@ -47,19 +43,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "윤동희 '활짝'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260921313500013"
-      }
-    },
-    {
-      "keyword": "조병현",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "야구대표팀 대만과 1차전‥곽빈 6이닝 노히트 10탈삼진 역투",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853365_37004.html"
+        "title": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260922072408090"
       }
     },
     {
@@ -67,9 +53,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876"
+        "title": "김영범, 자유형 50m 금메달‥예선·결승 대회신",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853411_37012.html"
       }
     },
     {
@@ -77,19 +63,29 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
+        "title": "Yonhap News Summary",
         "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20260921006100315"
+        "url": "https://en.yna.co.kr/view/AEN20260921009700320"
       }
     },
     {
-      "keyword": "양승혜",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "조선일보",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "“AI가 만든 줄”…태국 언론도 놀란 韓 20세 ‘펜싱 국대’",
-        "source": "주간조선",
-        "url": "http://weekly.chosun.com/news/articleView.html?idxno=55493"
+        "title": "여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/assembly/2026/09/22/MDGAVMJPENFCNDJQ7MKSWFLW5Y/"
+      }
+    },
+    {
+      "keyword": "삼성전자 주가",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“코스피 겨우 버텼는데 어쩌지”...삼전닉스 자사주 매입 종료 임박",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260921150002083"
       }
     },
     {
@@ -97,9 +93,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한국 상장하며 몸집 불린 엔화 코인…일평균 거래 2억→450억원",
+        "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
         "source": "Daum",
-        "url": "https://v.daum.net/v/G6J30qFYtp"
+        "url": "https://v.daum.net/v/20260921101149542"
       }
     }
   ]
