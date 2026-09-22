@@ -1,91 +1,67 @@
 {
-  "timestamp": "2026-09-23T00:15:06.332330+09:00",
-  "label": "00:15",
+  "timestamp": "2026-09-23T04:22:39.730394+09:00",
+  "label": "04:22",
   "items": [
     {
-      "keyword": "혼인",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "연애전쟁",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'정경호 부친' 정을영♥박정수 웨딩화보 공개...사실혼 25년만 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092210332753050"
+        "title": "‘나솔’ 22기 현숙, 전 남편에 맞아 장기파열…현 남친 “ 왜 맞았는지 알겠다”",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10881752"
       }
     },
     {
-      "keyword": "삼성전기",
+      "keyword": "혼인",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "죽음",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[현장칼럼] 'MLCC의 법칙' 제안한 삼성전기",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436066"
+        "title": "[공감]죽음의 메시지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260922201244889"
+      }
+    },
+    {
+      "keyword": "김혜수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'시그널2' 기다리는 중..'56세' 김혜수 미모는 더욱 물올랐다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260922185737147"
       }
     },
     {
       "keyword": "대통령",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "이 대통령, 이형일·강신철·홍지선 장관 임명안 재가",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6853457_36911.html"
-      }
-    },
-    {
-      "keyword": "박남정",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"아버지 얼굴도, 이름도 모른다\" 박남정, 가정사 고백 ('새롭게 하소서')",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/09/22/GJTDCYJSGZRDKMLFGRRGCMZWGQ/"
-      }
-    },
-    {
-      "keyword": "england vs sri lanka",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Droguet vs Poling | Prediction Markets",
-        "source": "Coinbase",
-        "url": "https://www.coinbase.com/predictions/event/KXATPCHALLENGERMATCH-26SEP22DROPOL"
-      }
-    },
-    {
-      "keyword": "노원구",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘강북 중저가’ 옛말…‘성북의 반란’ 어디까지",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12158202"
-      }
-    },
-    {
-      "keyword": "이대역 화재",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "지하철 2호선 이대역서 연기 발생…무정차 통과 중",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8669740"
-      }
-    },
-    {
-      "keyword": "죽도시장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"값 더 오르기 전에 사야죠\"…새벽 5시부터 북적인 포항 죽도시장",
+        "title": "\"지금까지 국민 속인 것\" 날 선 발언…또 이 대통령 직격",
         "source": "Daum",
-        "url": "https://v.daum.net/v/GFDi2yOc1A"
+        "url": "https://v.daum.net/v/3cxYBiPK34"
+      }
+    },
+    {
+      "keyword": "무신사",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "무신사, 라코스테·핏더사이즈 협업 에디션 선봬",
+        "source": "로이슈",
+        "url": "https://www.lawissue.co.kr/view.php?ud=202609220920494747204ead0791_12"
       }
     },
     {
       "keyword": "신병",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "‘신병4’ 2중대 ‘전원 전사’ 충격에 각성…3회 연속 시청률 4.6% 콘크리트 [차트IS]",
         "source": "Daum",
@@ -93,13 +69,33 @@
       }
     },
     {
+      "keyword": "박남정",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "가정사 공개한 박남정 \"아버지 얼굴도 이름도 모른다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260922_0003800924"
+      }
+    },
+    {
+      "keyword": "england vs sri lanka",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "England vs Sri Lanka: Will Jacks' career-best 5-22 helps hosts win in Durham",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/cricket/articles/ckvgydn1gvlpo"
+      }
+    },
+    {
       "keyword": "편의점",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "상어 박사 \"부산 상어, 방어 찾아서 올라온듯…생닭 안 먹어\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260922113901828"
+        "title": "상어 '부캉이' 장기체류 조짐…추석 연휴 후 외해 유도 검토(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260922142851051"
       }
     }
   ]
