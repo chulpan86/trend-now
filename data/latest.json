@@ -1,71 +1,95 @@
 {
-  "timestamp": "2026-09-22T09:23:11.656562+09:00",
-  "label": "09:23",
+  "timestamp": "2026-09-22T14:36:28.420595+09:00",
+  "label": "14:36",
   "items": [
     {
-      "keyword": "아시안게임",
+      "keyword": "제미나이",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260921155254"
+      }
+    },
+    {
+      "keyword": "게임",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "넷마블 게임 11종, 추석 명절 이벤트 진행",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=372717"
+      }
+    },
+    {
+      "keyword": "청약홈",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "김도영에게 4중키킹? 린이웨이 투구폼 정상적인가…그냥 넘어갈 일 아니다, 결승서 또 당할 수 있다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260922081127998"
+        "title": "시세 14억인데 분양가 7억…철산자이 6가구 '줍줍' 오늘 청약",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260921_0003798981"
       }
     },
     {
-      "keyword": "구글",
+      "keyword": "지도",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Google hit with $463 million fine for EU location data rule breach",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://abcnews.com/Technology/wireStory/google-hit-463-million-fine-eu-location-data-136616044"
+        "title": "카카오맵, ‘2026 부산국제록페스티벌’ 축제 전용 지도 제공 …무대·부스·주변 맛집 한곳에",
+        "source": "카카오",
+        "url": "https://www.kakaocorp.com/page/detail/12147"
       }
     },
     {
-      "keyword": "치지직",
+      "keyword": "기상청 날씨누리",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "기상청",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
-        "title": "전국 맑고 일교차 최대 15도↑ 전형적 가을날…서쪽 오존·건조",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260922082053265"
-      }
-    },
-    {
-      "keyword": "윤동희",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260922072408090"
-      }
-    },
-    {
-      "keyword": "김영범",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김영범, 자유형 50m 금메달‥예선·결승 대회신",
+        "title": "기상청 '날씨지도' 개편‥우리 기술로 전 세계 날씨 한눈에",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853411_37012.html"
+        "url": "https://imnews.imbc.com/news/2026/society/article/6853473_36918.html"
       }
     },
     {
-      "keyword": "dmz",
+      "keyword": "타자",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Yonhap News Summary",
-        "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20260921009700320"
+        "title": "'日·대만 기자도 놀란 164km 실화냐' 항저우 무임승차? \"金 따낸 뒤 한없이 말할게요\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260922102108199"
+      }
+    },
+    {
+      "keyword": "달력",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "음력으로 오늘 9월 18일은 음력 8월 8일입니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/lich-am-hom-nay-18-9-mung-8-thang-8"
+      }
+    },
+    {
+      "keyword": "메타 뮤즈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "AMD, 시총 1조 달러 첫 돌파...서버용 에픽 CPU 기대감 ↑",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260922075234"
+      }
+    },
+    {
+      "keyword": "하이닉스 주가",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "SK하이닉스 주가, 오늘 급등하는 이유는?",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2101825"
       }
     },
     {
@@ -73,29 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/assembly/2026/09/22/MDGAVMJPENFCNDJQ7MKSWFLW5Y/"
-      }
-    },
-    {
-      "keyword": "삼성전자 주가",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“코스피 겨우 버텼는데 어쩌지”...삼전닉스 자사주 매입 종료 임박",
+        "title": "이 대통령 기자회견 30분 늦춘 이유, 이것 때문이었나 [이게 이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260921150002083"
-      }
-    },
-    {
-      "keyword": "업비트",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260921101149542"
+        "url": "https://v.daum.net/v/98MoOx2uUK"
       }
     }
   ]

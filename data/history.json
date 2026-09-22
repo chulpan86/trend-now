@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-09-20T22:18:35.425997+09:00",
-    "label": "22:18",
-    "items": [
-      {
-        "keyword": "이현중",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[속보]‘버스 노쇼’도 안 통했다…韓, 개최국 日 꺾고 농구 금메달",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11618388"
-        }
-      },
-      {
-        "keyword": "최두호",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "UFC 한국인 파이터 전멸… 최두호 1R KO패하며 랭커 복귀 실패",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/20/HCVNV56EWJAYDPM3VJYDCT2Z6U/"
-        }
-      },
-      {
-        "keyword": "백억커피",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "베트남 선수 '방플' 논란에 PUBG 대회 취소…\"재발 방지책 마련\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260920213254723"
-        }
-      },
-      {
-        "keyword": "8",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Lane Kiffin reflective as LSU falls in coach's Ole Miss return",
-          "source": "ESPN",
-          "url": "https://www.espn.com/college-football/story/_/id/49987109/lane-kiffin-reflective-defeat-lsu-falls-ole-miss"
-        }
-      },
-      {
-        "keyword": "google",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"
-        }
-      },
-      {
-        "keyword": "kbs",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday",
-          "source": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10877917"
-        }
-      },
-      {
-        "keyword": "김영범",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김영범·황선우, 아시안게임 자유형 100m서 銀·銅 합작",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11618386"
-        }
-      },
-      {
-        "keyword": "lafc",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Son Heung-min Shines, LAFC Draws 2-2 with San Jose",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/world-en/2026/09/20/NEZIFNN45ZDTJOISTSBIGUMBME/"
-        }
-      },
-      {
-        "keyword": "하피냐",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/09/20/MRRDIZJQMQYGIOBSGYYGMMJWGA/"
-        }
-      },
-      {
-        "keyword": "6",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Authorities respond to barn fire in Town of Cambria",
-          "source": "WIVB News 4",
-          "url": "https://www.wivb.com/news/local-news/niagara-county/authorities-respond-to-barn-fire-in-town-of-cambria/"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-21T02:07:25.787238+09:00",
-    "label": "02:07",
-    "items": [
-      {
-        "keyword": "이현중",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[아시안게임] 이현중 27점·18리바운드‥남자 농구 12년만의 금메달",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6853145_36946.html"
-        }
-      },
-      {
-        "keyword": "라리가",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "이강인, 첫 마드리드 더비 제대로 즐겼다! 89분 종횡무진→평점 7.2점...ATM, 레알 2-1 격파하고 2위 탈환 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210119778761O"
-        }
-      },
-      {
-        "keyword": "축구중계",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "리버풀",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260919190549367"
-        }
-      },
-      {
-        "keyword": "맨시티",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/21/202609210000773725O"
-        }
-      },
-      {
-        "keyword": "instagram",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Kate Beckinsale Shares Bleak Messages on Instagram",
-          "source": "People.com",
-          "url": "https://people.com/kate-beckinsale-shares-bleak-messages-on-instagram-12130092"
-        }
-      },
-      {
-        "keyword": "google",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html"
-        }
-      },
-      {
-        "keyword": "sxmb",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
-          "source": "Báo Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-9-nguoi-trung-32-to-nhan-chuyen-khoan-ngay-185260920171315124.htm"
-        }
-      },
-      {
-        "keyword": "kbs",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "李대통령 '눈높이' 언급 후 급변…'추가의혹에 임명제동' 관측도",
-          "source": "연합뉴스 한민족센터",
-          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1413144"
-        }
-      },
-      {
-        "keyword": "김영범",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6853116_36946.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-21T04:58:34.554787+09:00",
     "label": "04:58",
     "items": [
@@ -1039,6 +831,112 @@
           "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260921101149542"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-22T14:36:28.420595+09:00",
+    "label": "14:36",
+    "items": [
+      {
+        "keyword": "제미나이",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260921155254"
+        }
+      },
+      {
+        "keyword": "게임",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "넷마블 게임 11종, 추석 명절 이벤트 진행",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=372717"
+        }
+      },
+      {
+        "keyword": "청약홈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "시세 14억인데 분양가 7억…철산자이 6가구 '줍줍' 오늘 청약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260921_0003798981"
+        }
+      },
+      {
+        "keyword": "지도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "카카오맵, ‘2026 부산국제록페스티벌’ 축제 전용 지도 제공 …무대·부스·주변 맛집 한곳에",
+          "source": "카카오",
+          "url": "https://www.kakaocorp.com/page/detail/12147"
+        }
+      },
+      {
+        "keyword": "기상청 날씨누리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "기상청 '날씨지도' 개편‥우리 기술로 전 세계 날씨 한눈에",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6853473_36918.html"
+        }
+      },
+      {
+        "keyword": "타자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'日·대만 기자도 놀란 164km 실화냐' 항저우 무임승차? \"金 따낸 뒤 한없이 말할게요\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922102108199"
+        }
+      },
+      {
+        "keyword": "달력",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "음력으로 오늘 9월 18일은 음력 8월 8일입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lich-am-hom-nay-18-9-mung-8-thang-8"
+        }
+      },
+      {
+        "keyword": "메타 뮤즈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "AMD, 시총 1조 달러 첫 돌파...서버용 에픽 CPU 기대감 ↑",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260922075234"
+        }
+      },
+      {
+        "keyword": "하이닉스 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "SK하이닉스 주가, 오늘 급등하는 이유는?",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2101825"
+        }
+      },
+      {
+        "keyword": "조선일보",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이 대통령 기자회견 30분 늦춘 이유, 이것 때문이었나 [이게 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/98MoOx2uUK"
         }
       }
     ]
