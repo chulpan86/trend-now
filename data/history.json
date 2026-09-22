@@ -838,5 +838,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-23T07:31:14.523555+09:00",
+    "label": "07:31",
+    "items": [
+      {
+        "keyword": "현대자동차",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "현대로템, 항공우주에 ‘현대차 AI’ 이식…“안전사고 없이 품질 극대화”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922193337007"
+        }
+      },
+      {
+        "keyword": "김민석",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김민석, 중수청장 인사 반발 김용민에 “법사위서 뺄수도”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923043829024"
+        }
+      },
+      {
+        "keyword": "인공지능",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"AI 속도 늦추자\"더니…오픈AI·앤트로픽, 더 싼 신모델 맞불",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923035243639"
+        }
+      },
+      {
+        "keyword": "재건축",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "목동9·13단지 최고 49층 아파트...홍제동 개미마을엔 30층 주택",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/96XMwRfzy3"
+        }
+      },
+      {
+        "keyword": "김성주",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김성주, '명문대' 아들 민국 근황 깜짝 공개…\"지금 망나니 됐다\" (일타강사 리센느)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WVmAZV71GW"
+        }
+      },
+      {
+        "keyword": "보스턴다이내믹스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“백덤블링하던 로봇이 공장 일을”…현대차 ‘아틀라스’ 실전 훈련 돌입",
+          "source": "주간조선",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=55536"
+        }
+      },
+      {
+        "keyword": "피부과",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] '9시간 재운' 강남 피부과…\"나도 당했다\" 제보 속출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922200847791"
+        }
+      },
+      {
+        "keyword": "농민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"농지 가격 떨어지고 매매 뚝\"…농식품장관에 불만 터뜨린 농민들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tu0tH9UZ5A"
+        }
+      },
+      {
+        "keyword": "익산시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[2026년9월22일 익산 읍면동소식] 모현동·삼성동·춘포면·평화동",
+          "source": "익산시민뉴스",
+          "url": "https://www.iscmnews.com/news/articleView.html?idxno=503243"
+        }
+      },
+      {
+        "keyword": "천궁",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"무기는 정했다, 남은 건 계약\"…UAE, 한화 L-SAM 도입 초읽기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KjuMse4q5z?f=p"
+        }
+      }
+    ]
   }
 ]
