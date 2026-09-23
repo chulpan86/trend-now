@@ -1,15 +1,45 @@
 {
-  "timestamp": "2026-09-23T21:32:44.225407+09:00",
-  "label": "21:32",
+  "timestamp": "2026-09-24T02:34:23.318873+09:00",
+  "label": "02:34",
   "items": [
     {
-      "keyword": "김세의",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "김수용",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'김수현 명예훼손 혐의' 김세의, 1.2억 수임료 못내 압구정 아파트 경매로",
+        "title": "김수용, 주식계좌 직접 깠다…\"6년간 200억 굴려\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260923_0003802616"
+      }
+    },
+    {
+      "keyword": "차예련",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "주상욱♥차예련 9살 딸 공개…아빠·엄마 반반 닮은 완성형 비주얼",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260923175928399"
+        "url": "https://v.daum.net/v/20260923163253885"
+      }
+    },
+    {
+      "keyword": "김유정",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "달빛프린스 보검&진영의 〈안갯길〉 in 구르미 칸타빌레 | KBS 260923 방송",
+        "source": "대한민국 대표 공영미디어 KBS",
+        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026141570-01-000_MFSC3&program_code=T2026-0515&program_id=PS-2026141570-01-000&section_code=04&broadcast_complete_yn=N&section_id=28254"
+      }
+    },
+    {
+      "keyword": "지 창욱",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'스캔들' 혹평도 서러워 죽겠는데..지창욱, 경솔한 답변이 불러온 불화설 [Oh!쎈 이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/51ikM0NdW5"
       }
     },
     {
@@ -17,29 +47,19 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "신유빈, 女 단체전 준결승 1차전 0-3 완패…日 하야타 만나 '24분 만에' 고개 숙였다→'파리 올림픽 땐 팽팽했는데'",
+        "title": "'한국도 당했다' 日 17살 탁구 천재, 알람도 못 들을 만큼 녹초였는데…30분 낮잠→하루 3승 '괴력'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260923201608379"
+        "url": "https://v.daum.net/v/20260924002251684"
       }
     },
     {
-      "keyword": "울산광역시",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "울산시, 병역명문가 예우 주소지 제한 없앤다…조례 개정 추진",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WpyoTcnQZA"
-      }
-    },
-    {
-      "keyword": "차예련",
+      "keyword": "전주시",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "주상욱♥차예련 9살 딸 공개…\"엄마·아빠 반반 빼닮았네\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/23/2026092319382265854"
+        "title": "울주군·농협, 추석맞이 고향사랑기부제 합동 홍보 캠페인",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Hf4irztWX1"
       }
     },
     {
@@ -47,59 +67,39 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "트럼프 vs 유엔, AI 안전 장치 놓고 충돌...올해는 에스컬레이터 대신 CNN 취재 문제 삼아",
-        "source": "YTN 사이언스",
-        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202609231101188016"
+        "title": "트럼프 “AI 규제 반대” 마크롱 “독자 생태계 추진”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260924014254160"
       }
     },
     {
-      "keyword": "하지원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "하지원, 곧 반백살 미모가…늘 설레게 하는 ‘첫♥ 비주얼’",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260923/134724992/1"
-      }
-    },
-    {
-      "keyword": "권금성",
+      "keyword": "신현준",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "설악산서 등산객 숨진 채 발견…권금성 인근서 추락 추정(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260923112000062"
+        "title": "'유퀴즈' 신현준, 테니스 유망주→운명처럼 '하야시' 합격",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260923223059347"
       }
     },
     {
-      "keyword": "티비",
+      "keyword": "무료영화",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "US Justice Dept says Trump can deny journalists White House access",
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us-justice-dept-says-trump-074536366.html"
+        "title": "KT, 추석 맞아 영상통화 무료…영화·공연 할인도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260923102652986"
       }
     },
     {
       "keyword": "록히드 마틴 f-35 라이트닝 ii",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "美 F-35 핵심 부품, 배송 사고로 中에 배달 뒤 사라져",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260923115808765"
-      }
-    },
-    {
-      "keyword": "김창열",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김창열, 30년 전 욕설 폭로에 즉각 사과했다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260923_0003802370"
+        "title": "호주가 미국 보낸 F-35 부품, 어쩌다 홍콩에?…배달 사고 비상",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923151322I47"
       }
     }
   ]
