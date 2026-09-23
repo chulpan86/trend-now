@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-09-22T06:23:37.037057+09:00",
-    "label": "06:23",
-    "items": [
-      {
-        "keyword": "발로란트 추석 이벤트",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
-          "source": "VALORANT",
-          "url": "https://playvalorant.com/ko-kr/news/announcements/2026-chuseok-event/"
-        }
-      },
-      {
-        "keyword": "아시안게임",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“미모와 기량에서 모두 한국을 압도했다!” 日언론도 한국전 대폭발한 미녀선수에게 찬사 [아시안게임]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922010054036"
-        }
-      },
-      {
-        "keyword": "구글",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260921155254"
-        }
-      },
-      {
-        "keyword": "치지직",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'농구 결승에 38만명 몰렸다'...한일전 응원 열기 모인 치지직, 스포츠 중계 가능성 확인",
-          "source": "테크M",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=155448"
-        }
-      },
-      {
-        "keyword": "윤동희",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "윤동희 '활짝'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260921313500013"
-        }
-      },
-      {
-        "keyword": "조병현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "야구대표팀 대만과 1차전‥곽빈 6이닝 노히트 10탈삼진 역투",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853365_37004.html"
-        }
-      },
-      {
-        "keyword": "김영범",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "20살 괴물 김영범 금메달에 어머니 눈물 “꽃게탕 먹자”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8668876"
-        }
-      },
-      {
-        "keyword": "dmz",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260921006100315"
-        }
-      },
-      {
-        "keyword": "양승혜",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“AI가 만든 줄”…태국 언론도 놀란 韓 20세 ‘펜싱 국대’",
-          "source": "주간조선",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55493"
-        }
-      },
-      {
-        "keyword": "업비트",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한국 상장하며 몸집 불린 엔화 코인…일평균 거래 2억→450억원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/G6J30qFYtp"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-22T09:23:11.656562+09:00",
-    "label": "09:23",
-    "items": [
-      {
-        "keyword": "아시안게임",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김도영에게 4중키킹? 린이웨이 투구폼 정상적인가…그냥 넘어갈 일 아니다, 결승서 또 당할 수 있다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922081127998"
-        }
-      },
-      {
-        "keyword": "구글",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Google hit with $463 million fine for EU location data rule breach",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://abcnews.com/Technology/wireStory/google-hit-463-million-fine-eu-location-data-136616044"
-        }
-      },
-      {
-        "keyword": "치지직",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "기상청",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "전국 맑고 일교차 최대 15도↑ 전형적 가을날…서쪽 오존·건조",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922082053265"
-        }
-      },
-      {
-        "keyword": "윤동희",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922072408090"
-        }
-      },
-      {
-        "keyword": "김영범",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김영범, 자유형 50m 금메달‥예선·결승 대회신",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853411_37012.html"
-        }
-      },
-      {
-        "keyword": "dmz",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Yonhap News Summary",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20260921009700320"
-        }
-      },
-      {
-        "keyword": "조선일보",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/09/22/MDGAVMJPENFCNDJQ7MKSWFLW5Y/"
-        }
-      },
-      {
-        "keyword": "삼성전자 주가",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“코스피 겨우 버텼는데 어쩌지”...삼전닉스 자사주 매입 종료 임박",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260921150002083"
-        }
-      },
-      {
-        "keyword": "업비트",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260921101149542"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-22T14:36:28.420595+09:00",
     "label": "14:36",
     "items": [
@@ -941,6 +733,112 @@
           "title": "이기인 “천하람 경기남부 출마 안하면 당헌당규 따라 조치”",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260923100749050"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-23T21:32:44.225407+09:00",
+    "label": "21:32",
+    "items": [
+      {
+        "keyword": "김세의",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'김수현 명예훼손 혐의' 김세의, 1.2억 수임료 못내 압구정 아파트 경매로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923175928399"
+        }
+      },
+      {
+        "keyword": "주천희",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "신유빈, 女 단체전 준결승 1차전 0-3 완패…日 하야타 만나 '24분 만에' 고개 숙였다→'파리 올림픽 땐 팽팽했는데'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923201608379"
+        }
+      },
+      {
+        "keyword": "울산광역시",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "울산시, 병역명문가 예우 주소지 제한 없앤다…조례 개정 추진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WpyoTcnQZA"
+        }
+      },
+      {
+        "keyword": "차예련",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "주상욱♥차예련 9살 딸 공개…\"엄마·아빠 반반 빼닮았네\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/23/2026092319382265854"
+        }
+      },
+      {
+        "keyword": "젠슨 황",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "트럼프 vs 유엔, AI 안전 장치 놓고 충돌...올해는 에스컬레이터 대신 CNN 취재 문제 삼아",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202609231101188016"
+        }
+      },
+      {
+        "keyword": "하지원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "하지원, 곧 반백살 미모가…늘 설레게 하는 ‘첫♥ 비주얼’",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260923/134724992/1"
+        }
+      },
+      {
+        "keyword": "권금성",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "설악산서 등산객 숨진 채 발견…권금성 인근서 추락 추정(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260923112000062"
+        }
+      },
+      {
+        "keyword": "티비",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "US Justice Dept says Trump can deny journalists White House access",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/politics/articles/us-justice-dept-says-trump-074536366.html"
+        }
+      },
+      {
+        "keyword": "록히드 마틴 f-35 라이트닝 ii",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美 F-35 핵심 부품, 배송 사고로 中에 배달 뒤 사라져",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923115808765"
+        }
+      },
+      {
+        "keyword": "김창열",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김창열, 30년 전 욕설 폭로에 즉각 사과했다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260923_0003802370"
         }
       }
     ]
