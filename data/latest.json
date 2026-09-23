@@ -1,75 +1,45 @@
 {
-  "timestamp": "2026-09-24T02:34:23.318873+09:00",
-  "label": "02:34",
+  "timestamp": "2026-09-24T05:50:31.314520+09:00",
+  "label": "05:50",
   "items": [
     {
       "keyword": "김수용",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "김수용, 주식계좌 직접 깠다…\"6년간 200억 굴려\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260923_0003802616"
+        "title": "김수용, 6년간 주식매수 211억·매도 239억…수익은",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11619296"
       }
     },
     {
-      "keyword": "차예련",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "주상욱♥차예련 9살 딸 공개…아빠·엄마 반반 닮은 완성형 비주얼",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260923163253885"
-      }
-    },
-    {
-      "keyword": "김유정",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "달빛프린스 보검&진영의 〈안갯길〉 in 구르미 칸타빌레 | KBS 260923 방송",
-        "source": "대한민국 대표 공영미디어 KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026141570-01-000_MFSC3&program_code=T2026-0515&program_id=PS-2026141570-01-000&section_code=04&broadcast_complete_yn=N&section_id=28254"
-      }
-    },
-    {
-      "keyword": "지 창욱",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'스캔들' 혹평도 서러워 죽겠는데..지창욱, 경솔한 답변이 불러온 불화설 [Oh!쎈 이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/51ikM0NdW5"
-      }
-    },
-    {
-      "keyword": "주천희",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'한국도 당했다' 日 17살 탁구 천재, 알람도 못 들을 만큼 녹초였는데…30분 낮잠→하루 3승 '괴력'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260924002251684"
-      }
-    },
-    {
-      "keyword": "전주시",
+      "keyword": "은지원",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "울주군·농협, 추석맞이 고향사랑기부제 합동 홍보 캠페인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Hf4irztWX1"
+        "title": "은지원 “장모님이 한 상 가득…음식 남기면 죄송해 찾아뵙기 부담”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Entertainment/article/all/20260923/134725057/1"
       }
     },
     {
-      "keyword": "젠슨 황",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "리 성금",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "트럼프 “AI 규제 반대” 마크롱 “독자 생태계 추진”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260924014254160"
+        "title": "“북한? 똑바로 하십쇼” 韓기자에 ‘발끈’北…이유는",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11619310"
+      }
+    },
+    {
+      "keyword": "과일",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“혈당 걱정 내려놓고 먹어라” 의사가 꼽아준 7가지 과일",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/09/22/2026092202179.html"
       }
     },
     {
@@ -83,23 +53,49 @@
       }
     },
     {
-      "keyword": "무료영화",
+      "keyword": "전주시",
       "traffic_raw": "500+",
       "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "대한민국 대법관",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "KT, 추석 맞아 영상통화 무료…영화·공연 할인도",
+        "title": "사법공백 장기화 우려… “李, 차라리 임명거부권 행사를” [靑·대법, 초유의 정면충돌]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260923102652986"
+        "url": "https://v.daum.net/v/20260923151611095"
       }
     },
     {
-      "keyword": "록히드 마틴 f-35 라이트닝 ii",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "호주가 미국 보낸 F-35 부품, 어쩌다 홍콩에?…배달 사고 비상",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260923151322I47"
+        "title": "'6회' 비욘세 콘서트보다 보기 힘든 토트넘 홈 승리...36경기서 단 5승, 개막 후에도 리그 승리 '0' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/09/23/202609230713776329O"
+      }
+    },
+    {
+      "keyword": "생계",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "번 돈 맞먹는 생계급여 삭감?…국회·복지부 '94% 통계' 공방",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260923164000530"
+      }
+    },
+    {
+      "keyword": "토토",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "실제로 만나는 토토, \"토토의 이야기\" 공연이 몽파르나스 극장에서",
+        "source": "Sortir à Paris",
+        "url": "https://www.sortiraparis.com/ko/paliui-bolgeoli/geugjang/articles/352105-hyeonjang-eulo-dol-aon-toto-totoui-iyagi-gong-yeon-i-mongpaleunaseu-mudaeeseo"
       }
     }
   ]
