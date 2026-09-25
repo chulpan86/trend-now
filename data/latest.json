@@ -1,35 +1,15 @@
 {
-  "timestamp": "2026-09-26T00:39:43.313402+09:00",
-  "label": "00:39",
+  "timestamp": "2026-09-26T04:41:42.478476+09:00",
+  "label": "04:41",
   "items": [
     {
       "keyword": "내일 날씨",
       "traffic_raw": "500000+",
       "traffic": 500000,
       "news": {
-        "title": "[날씨/XR] '구름 뒤 보름달' 전국 비…내일까지 이어져",
+        "title": "[뉴스9 날씨] 내일, 남부·제주에 비…중부 오전부터 맑아져",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260925220006655"
-      }
-    },
-    {
-      "keyword": "금",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "추석에 '금테크' 해볼까…180억달러 몰린 금 ETF, 유의할 점은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/2Qs4RbrNkJ"
-      }
-    },
-    {
-      "keyword": "중산층",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"4억 자산 있어도 중산층 아닙니다\"…진짜 중산층의 6가지 조건 뭐길래[주末머니]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260925141651236"
+        "url": "https://v.daum.net/v/20260925214622502"
       }
     },
     {
@@ -37,39 +17,29 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "다운증후군 작가 서은혜, 초음파 사진 확산 후 \"AI 이미지, 임신 아냐\" 해명",
+        "title": "'다운증후군 작가' 서은혜 \"임신 아냐, 아이 갖지 않는 것으로 합의\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260925_0003803493"
+      }
+    },
+    {
+      "keyword": "하주석",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "이범호 “KIA에서 많이 안 뛰더니 도루 많이 하네”…80억 유격수 “뒤에서 빵빵 쳤으니까 뛸 필요가 없었죠”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/3cT91fCEXI"
+        "url": "https://v.daum.net/v/qAqW7PvmWv"
       }
     },
     {
-      "keyword": "thời tiết ngày mai",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "맨시티",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "Cảnh báo đợt mưa lớn cục bộ kèm lốc sét tại Trung Bộ và Nam Bộ từ chiều tối 25/09/2026",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/canh-bao-dot-mua-lon-cuc-bo-kem-loc-set-tai-trung-bo-va-nam-bo-tu-chieu-toi-25-09-2026"
-      }
-    },
-    {
-      "keyword": "weather tomorrow",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "UAE weather: it's officially autumn equinox today, so why still 45°C?",
-        "source": "Gulf News",
-        "url": "https://gulfnews.com/uae/weather/uae-weather-its-officially-autumn-equinox-today-so-why-still-45c-1.500684604"
-      }
-    },
-    {
-      "keyword": "박현호",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[단독] 은가은♥박현호, 이혼 루머 물렀거라..\"재벌설? 헛웃음만\" [한복인터뷰③]",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/music/2026/09/25/2026092315081840523"
+        "title": "\"우승 박탈까지 가능\" 맨시티, 115개 혐의 중 114개 '유죄' 판정...프리미어리그 퇴출 가능성도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260926000213634"
       }
     },
     {
@@ -83,6 +53,16 @@
       }
     },
     {
+      "keyword": "olympia",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Mr. Olympia schedule 2026: Dates, times, live stream to watch men's, women's bodybuilding events",
+        "source": "Sporting News AU",
+        "url": "https://www.sportingnews.com/us/tsn/news/mr-olympia-schedule-2026-times-live-stream-watch-bodybuilding/1f0b6628afa9a07020047700"
+      }
+    },
+    {
       "keyword": "이승철",
       "traffic_raw": "500+",
       "traffic": 500,
@@ -93,13 +73,33 @@
       }
     },
     {
-      "keyword": "기사",
+      "keyword": "türkiye vs france",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "뉴욕 증시, AI 낙관론에 상승 출발",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260925233337401"
+        "title": "Turkey vs France: UEFA Nations League stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/crlyqpvqjgqet"
+      }
+    },
+    {
+      "keyword": "사회적 고립",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/society/12161378"
+      }
+    },
+    {
+      "keyword": "윌스미스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Rob Lowe awkwardly admits he was ‘the only person happy’ when Will Smith slapped Chris Rock at Oscars",
+        "source": "Page Six",
+        "url": "https://pagesix.com/2026/09/25/entertainment/rob-lowe-admits-he-was-the-only-person-happy-when-will-smith-slapped-chris-rock-at-oscars/"
       }
     }
   ]
