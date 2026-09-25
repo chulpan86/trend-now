@@ -944,5 +944,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-25T09:08:46.259494+09:00",
+    "label": "09:08",
+    "items": [
+      {
+        "keyword": "weather",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Florida's taste of fall arrives, it's been overa 5 years since something similar has happened!",
+          "source": "WGCU",
+          "url": "https://www.wgcu.org/2026-09-24/floridas-taste-of-fall-arrives-its-been-overa-5-years-since-something-similar-has-happened"
+        }
+      },
+      {
+        "keyword": "차례상",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[무등테이블] \"남자도 같이 상 차려야지\"···추석 연휴 MZ들의 모습은?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924114125541"
+        }
+      },
+      {
+        "keyword": "thời tiết",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Mưa lớn ở miền Trung, cảnh báo nguy cơ lũ quét, sạt lở đất",
+          "source": "Cổng thông tin đài tiếng nói Việt Nam",
+          "url": "https://vov.gov.vn/mua-lon-o-mien-trung-canh-bao-nguy-co-lu-quet-sat-lo-dat-dtnew-1166561"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests",
+          "source": "ABC7 Los Angeles",
+          "url": "https://abc7.com/story/super-sized-el-nio-could-cause-more-450000-heat-deaths-february-study-suggests/19867587/"
+        }
+      },
+      {
+        "keyword": "열차",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] “걸려도 배째라?” 열차 부정승차 3년간 80만건 단속…강제 징수 수단은 사실상 ‘0’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924102008994"
+        }
+      },
+      {
+        "keyword": "추석 차례상",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "전통시장서 송편 열 개·전 한 장씩…명절 장보기도 '먹을 만큼만'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260924060220988"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "IonQ Superion 256 to Power NVIDIA Quantum Research Center",
+          "source": "IonQ",
+          "url": "https://www.ionq.com/news/ionq-to-advance-quantum-supercomputing-by-bringing-first-qpu-to-nvidia-accelerated-quantum-research-center"
+        }
+      },
+      {
+        "keyword": "서울지하철",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "India VIX Surges 22.9% as Nifty Falls Below 23,100",
+          "source": "HDFC Sky",
+          "url": "https://hdfcsky.com/news/india-vix-surges-22-9percent-as-us-yields-crude-and-financial-stocks-drive-market-volatility-september-24-2026"
+        }
+      },
+      {
+        "keyword": "해외여행",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"케데헌 속 한국, 직접 왔다\"…추석 도심 관광지 '북적'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7b3v3ZiPUk"
+        }
+      }
+    ]
   }
 ]

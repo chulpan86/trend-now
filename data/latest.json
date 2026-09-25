@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-09-25T06:53:20.973732+09:00",
-  "label": "06:53",
+  "timestamp": "2026-09-25T09:08:46.259494+09:00",
+  "label": "09:08",
   "items": [
     {
-      "keyword": "안세영",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "weather",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "안세영 꺾고 12년 만에 AG 金인데 갑자기 \"생리 중 진통제 먹었다\"…日 잡은 왕즈이에 쏟아진 관심",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260925014651598"
+        "title": "Florida's taste of fall arrives, it's been overa 5 years since something similar has happened!",
+        "source": "WGCU",
+        "url": "https://www.wgcu.org/2026-09-24/floridas-taste-of-fall-arrives-its-been-overa-5-years-since-something-similar-has-happened"
       }
     },
     {
-      "keyword": "portugal vs wales",
+      "keyword": "차례상",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[무등테이블] \"남자도 같이 상 차려야지\"···추석 연휴 MZ들의 모습은?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260924114125541"
+      }
+    },
+    {
+      "keyword": "thời tiết",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Mưa lớn ở miền Trung, cảnh báo nguy cơ lũ quét, sạt lở đất",
+        "source": "Cổng thông tin đài tiếng nói Việt Nam",
+        "url": "https://vov.gov.vn/mua-lon-o-mien-trung-canh-bao-nguy-co-lu-quet-sat-lo-dat-dtnew-1166561"
+      }
+    },
+    {
+      "keyword": "天气",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "How far is Cristiano Ronaldo from 1,000 goals after Portugal’s 2026-27 UEFA Nations League debut?",
-        "source": "World Soccer Talk",
-        "url": "https://worldsoccertalk.com/news/how-far-is-cristiano-ronaldo-from-1000-goals-after-portugals-2026-27-uefa-nations-league-debut/"
+        "title": "Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests",
+        "source": "ABC7 Los Angeles",
+        "url": "https://abc7.com/story/super-sized-el-nio-could-cause-more-450000-heat-deaths-february-study-suggests/19867587/"
       }
     },
     {
-      "keyword": "부부",
+      "keyword": "열차",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“아내보다 엄마가 먼저”…母에 아내 돈 월 250만원, ‘남의편 남편’ 속마음 들통 (‘이혼숙려캠프’)",
+        "title": "[단독] “걸려도 배째라?” 열차 부정승차 3년간 80만건 단속…강제 징수 수단은 사실상 ‘0’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260924224736944"
+        "url": "https://v.daum.net/v/20260924102008994"
       }
     },
     {
-      "keyword": "최진실",
+      "keyword": "추석 차례상",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "홍진경, 故 최진실 이모 오해 해명…\"최준희 돈 노린다고? 사랑으로 케어\" (공부왕찐천재)",
+        "title": "전통시장서 송편 열 개·전 한 장씩…명절 장보기도 '먹을 만큼만'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/9f4x6qDg5j"
+        "url": "https://v.daum.net/v/20260924060220988"
       }
     },
     {
-      "keyword": "심수봉",
+      "keyword": "ionq",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/09/24/2026092411514728169"
+        "title": "IonQ Superion 256 to Power NVIDIA Quantum Research Center",
+        "source": "IonQ",
+        "url": "https://www.ionq.com/news/ionq-to-advance-quantum-supercomputing-by-bringing-first-qpu-to-nvidia-accelerated-quantum-research-center"
       }
     },
     {
-      "keyword": "서울특별시",
+      "keyword": "서울지하철",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "vix",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "아프면 어디로, 막차는 언제?…추석 연휴 서울서 꼭 알아둘 것들",
+        "title": "India VIX Surges 22.9% as Nifty Falls Below 23,100",
+        "source": "HDFC Sky",
+        "url": "https://hdfcsky.com/news/india-vix-surges-22-9percent-as-us-yields-crude-and-financial-stocks-drive-market-volatility-september-24-2026"
+      }
+    },
+    {
+      "keyword": "해외여행",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"케데헌 속 한국, 직접 왔다\"…추석 도심 관광지 '북적'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260924231243215"
-      }
-    },
-    {
-      "keyword": "norway vs denmark",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Norway vs Denmark Predictions, Bet Builder Tips, Lineups, Odds",
-        "source": "WhoScored.com",
-        "url": "https://www.whoscored.com/articles/q_S7-hLQxkaxZE62fTl3vw/show/20260924-norway-vs-denmark-prediction-1790247321"
-      }
-    },
-    {
-      "keyword": "성유리",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "완전체 뭉친 핑클, 30주년까지 달린다…2년간 장기 프로젝트 돌입",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/QQKouh4qWX"
-      }
-    },
-    {
-      "keyword": "추신수",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"성형 너무 해서 얼굴 이상해\"…추신수, 하원미 뒷담화에 발끈",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260923210129051"
-      }
-    },
-    {
-      "keyword": "nations league",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Preview: Serbia vs Greece - prediction, team news, lineups",
-        "source": "Sports Mole",
-        "url": "https://www.sportsmole.co.uk/football/serbia/uefa-nations-league/preview/serbia-vs-greece-prediction-team-news-lineups_605618.html"
+        "url": "https://v.daum.net/v/7b3v3ZiPUk"
       }
     }
   ]
