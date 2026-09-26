@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-26T07:57:05.220724+09:00",
-  "label": "07:57",
+  "timestamp": "2026-09-26T10:08:09.523269+09:00",
+  "label": "10:08",
   "items": [
     {
-      "keyword": "다우 존스 산업평균지수",
+      "keyword": "날씨",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
+      "news": {
+        "title": "남부·제주에 오후까지 비…중부는 오후부터 맑아져",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260926082951844"
+      }
+    },
+    {
+      "keyword": "과일",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "한풀 꺾인 메타, 힘받는 MS… 뉴욕증시도 SK하닉도 올랐다",
+        "title": "“혼수 상태로 실려온다” 당뇨 의사가 질색하는 과일 2가지",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260926055110071"
+        "url": "https://v.daum.net/v/20260926060230283"
       }
     },
     {
-      "keyword": "심수봉",
+      "keyword": "임영웅",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "유퉁 \"심수봉 정신 왔다 갔다, 스스로 연예계 사망 선고\"…'김다현 직격'에 쓴소리",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/people/6301585"
-      }
-    },
-    {
-      "keyword": "여에스더",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'여에스더 남사친' 함익병 \"대통령보다 홍혜걸이 더 부러워\"",
+        "title": "\"임영웅 행사비 1억, 가수 추가 섭외 힘들다\"…김호중·박지현 몸값은 얼마",
         "source": "Daum",
-        "url": "https://v.daum.net/v/KhfjPAUZyd"
+        "url": "https://v.daum.net/v/uwcsOfCEZp"
       }
     },
     {
-      "keyword": "이민우",
+      "keyword": "jpn vs nep",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘이민우♥’ 이아미, 한국살이 1년…“정답 아니어도 솔직하고파” - 스타투데이",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/hot-issues/12159951"
+        "title": "JPN vs NEP Today’s Match Prediction & Cricket Betting Tips: Asian Games 2026, Match 5, September 26",
+        "source": "India Fantasy",
+        "url": "https://www.indiafantasy.com/cricket-betting/tips/jpn-vs-nep-september-26/"
       }
     },
     {
-      "keyword": "s&p 500",
+      "keyword": "연애전쟁",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "S&P 500 rises, heads for winning week despite Treasury yield surge: Live updates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html"
+        "title": "\"방송 후 각자의 길\"…'연애전쟁'서 갈등 공개한 22기 현숙·16기 광수 결별",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6583168"
       }
     },
     {
-      "keyword": "킬리안 음바페",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘메시보다 잘하고 싶다고? 그런 생각 안 한다!’ 야말의 당찬 선언...“나는 야말로 기억되고 싶다”",
-        "source": "포포투",
-        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98301"
-      }
-    },
-    {
-      "keyword": "햄버거",
+      "keyword": "박명수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"출근할 때 아침 안 먹었는데\"…SNS서 난리 난 '킹모닝' 정체 [키워드랩]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202609183281g"
+        "title": "박명수 기도 통했네…'무용 엘리트' 딸 수시로 대학 합격",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260925_0003803555"
       }
     },
     {
-      "keyword": "리플",
+      "keyword": "재건축",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "리플 CEO \"XRP 가격 극대화론자 아니다…고객 요구가 최우선\"",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Securities/2026/09/202609251153415077e250e8e188_1"
-      }
-    },
-    {
-      "keyword": "이혼 소송",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "최태원, 재산분할 재상고 접수…인지대 8억원 납부",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260918510564"
-      }
-    },
-    {
-      "keyword": "고우리",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘임신’ 고우리, 남편 공개…출산 11일 앞두고 한복 만삭화보 찍었다 “이제 곧 셋”",
+        "title": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도",
         "source": "Daum",
-        "url": "https://v.daum.net/v/z3OOvk71hP"
+        "url": "https://v.daum.net/v/20260925092702234"
+      }
+    },
+    {
+      "keyword": "배틀그라운드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "영구 제재에 피해자 보호까지…크래프톤, '방플' 논란 수습 국면",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260924054607644"
+      }
+    },
+    {
+      "keyword": "김가연",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김가연 모친, 사위보다 6살 어린 손주사위에 대만족 \"마음에 쏙 들어\" (게임부부)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/tVZQNKmjHK"
+      }
+    },
+    {
+      "keyword": "퇴장",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "총 쏘는 세리머니?…이스라엘 축구 선수, 경고 누적으로 '퇴장'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/yobNlbrNH9"
       }
     }
   ]
