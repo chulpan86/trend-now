@@ -1,17 +1,7 @@
 {
-  "timestamp": "2026-09-27T00:38:22.900110+09:00",
-  "label": "00:38",
+  "timestamp": "2026-09-27T03:50:37.592334+09:00",
+  "label": "03:50",
   "items": [
-    {
-      "keyword": "로또",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609262248001"
-      }
-    },
     {
       "keyword": "휴게소",
       "traffic_raw": "5000+",
@@ -43,13 +33,23 @@
       }
     },
     {
+      "keyword": "이창섭",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "이창섭, '소유 부친상 위로' 이미지 좋았는데..'쓰레기 논쟁'으로 치명타[Oh!쎈 이슈]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/09/26/GZRGKYLDHBTDEYZSMM3TSZJXGY/"
+      }
+    },
+    {
       "keyword": "왕사남",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "1692만 흥행작 ‘왕과 사는 남자’, 오늘(26일) 추석 특선 영화 방송",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/broadcasting-service/12156590"
+        "title": "'매출 1500억→역대 흥행 2위'…추석 안방극장 최초 상륙, 기대감 폭발한 韓 대표 영화",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260926100030937"
       }
     },
     {
@@ -63,6 +63,16 @@
       }
     },
     {
+      "keyword": "윤아",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "임윤아, 이탈리아가 깜짝 놀란 미모…이날 얼마나 예뻤길래",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260926210451160"
+      }
+    },
+    {
       "keyword": "지선",
       "traffic_raw": "200+",
       "traffic": 200,
@@ -70,16 +80,6 @@
         "title": "600대 1 경쟁률 뚫었는데…러브홀릭 지선, 팀 탈퇴한 이유?(‘백투더뮤직2’) - 스타투데이",
         "source": "매일경제",
         "url": "https://www.mk.co.kr/news/broadcasting-service/12161642"
-      }
-    },
-    {
-      "keyword": "오원석",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김도영도 노시환도 놀랐다! 일본서 뛰는데 한국 같은 이 느낌…K-응원과 함께 金 간다 [AG 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260925120709899?f=m"
       }
     },
     {
