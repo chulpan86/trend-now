@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-09-25T03:03:11.253954+09:00",
-    "label": "03:03",
-    "items": [
-      {
-        "keyword": "종합부동산세",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "같은 집에 서로 다른 보유세 '논란'…1주택자들 '불만 폭발'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609245131i"
-        }
-      },
-      {
-        "keyword": "조인성",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "조인성, 베니스영화제 갔는데 짐 가방 실종..\"옷 돌려막기 하는 중\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260923194332134"
-        }
-      },
-      {
-        "keyword": "엘니뇨",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"내년 초까지 사망자 45만명 나올 것\"…세계가 '못 살겠다' 최악 엘니뇨 전망",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026092413490077989"
-        }
-      },
-      {
-        "keyword": "박찬호",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"박찬호 아니었으면 지금도 서산에…\" KIA 트레이드 보물도 인정, 80억 FA는 누군가의 야구인생을 바꿨다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9SI5IL1yv5"
-        }
-      },
-      {
-        "keyword": "사고",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독]지뢰폭발 수술 후 부하 안부 물은 수색대대장…‘들불’처럼 번지는 모금 캠페인",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11619386"
-        }
-      },
-      {
-        "keyword": "이창섭",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이창섭, 과격 언행 반성…\"재밌으려고 적정선 넘은 듯\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260923112448316"
-        }
-      },
-      {
-        "keyword": "중추절",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"추석 훔쳤다\"는 中누리꾼에 서경덕 \"중추절과 전혀 달라\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924083158012"
-        }
-      },
-      {
-        "keyword": "심형래",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "심형래 \"CF 1편에 8000만원, 100편 찍었다…강남 아파트 7800만원 시절\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260924_0003803121"
-        }
-      },
-      {
-        "keyword": "신뢰도",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘가장 신뢰하는 프로그램 1위’ 뉴스공장은 이제 지상파?",
-          "source": "미디어오늘",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337342"
-        }
-      },
-      {
-        "keyword": "피파랭킹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-25T06:53:20.973732+09:00",
     "label": "06:53",
     "items": [
@@ -937,6 +835,112 @@
           "title": "총 쏘는 세리머니?…이스라엘 축구 선수, 경고 누적으로 '퇴장'",
           "source": "Daum",
           "url": "https://v.daum.net/v/yobNlbrNH9"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-26T15:50:39.381257+09:00",
+    "label": "15:50",
+    "items": [
+      {
+        "keyword": "윤동희",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "한국 야구 '실업팀' 일본에 0-5‥예상 밖 완패",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854166_37012.html"
+        }
+      },
+      {
+        "keyword": "개",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“금메달인데 기쁜 게 하나도 없어요”…카누 2관왕 영광 뒤 서러운 눈물 [아시안게임]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260926135917964"
+        }
+      },
+      {
+        "keyword": "재산",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[속보] “명절에도 연락 안 해”…딸들만 재산 안 준 부모, 법원 판단은",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260926580062"
+        }
+      },
+      {
+        "keyword": "이재명",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "대한민국과 멕시코, 서로에게 없어서는 안 될 소중한 동반자입니다",
+          "source": "대한민국 청와대",
+          "url": "https://www.president.go.kr/social-media/Atu725UE"
+        }
+      },
+      {
+        "keyword": "천위페이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[아시안게임] 황당한 '1일 2경기' 일정에 안세영도 갸웃…\"이런 경우 처음\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260926031000007"
+        }
+      },
+      {
+        "keyword": "오픈ai",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "오픈AI도 전모 모른다…챗GPT, 사용자 이미지 53장 유출",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1279507.html"
+        }
+      },
+      {
+        "keyword": "로이킴",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "로이킴 \"안소희와 미래까지 OK..아이 이름까지 짓겠다” 깜짝 발언 이유는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260926065007733"
+        }
+      },
+      {
+        "keyword": "진 양곤",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘3전4기’ 진양곤 HLB그룹 의장, 세 번 고배 끝에 美 FDA 신약 품다[화제의 바이오人]",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=01561286645584056"
+        }
+      },
+      {
+        "keyword": "왕추친",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'매국노라 욕했던' 日 귀화 하리모토에 무너진 中 탁구…남자 단체 9연패 실패",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6583161"
+        }
+      },
+      {
+        "keyword": "미인 대회",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2002년생 베트남 미인대회 우승자이자 4개 국어에 능통하고 미국 대학을 수석으로 졸업한 그녀는 누구일까요?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hoa-hau-viet-sinh-nam-2002-gioi-4-ngon-ngu-tot-nghiep-xuat-sac-o-my-la-ai"
         }
       }
     ]
