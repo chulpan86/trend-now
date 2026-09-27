@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-26T15:50:39.381257+09:00",
-    "label": "15:50",
-    "items": [
-      {
-        "keyword": "윤동희",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "한국 야구 '실업팀' 일본에 0-5‥예상 밖 완패",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854166_37012.html"
-        }
-      },
-      {
-        "keyword": "개",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "“금메달인데 기쁜 게 하나도 없어요”…카누 2관왕 영광 뒤 서러운 눈물 [아시안게임]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926135917964"
-        }
-      },
-      {
-        "keyword": "재산",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[속보] “명절에도 연락 안 해”…딸들만 재산 안 준 부모, 법원 판단은",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260926580062"
-        }
-      },
-      {
-        "keyword": "이재명",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "대한민국과 멕시코, 서로에게 없어서는 안 될 소중한 동반자입니다",
-          "source": "대한민국 청와대",
-          "url": "https://www.president.go.kr/social-media/Atu725UE"
-        }
-      },
-      {
-        "keyword": "천위페이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[아시안게임] 황당한 '1일 2경기' 일정에 안세영도 갸웃…\"이런 경우 처음\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260926031000007"
-        }
-      },
-      {
-        "keyword": "오픈ai",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "오픈AI도 전모 모른다…챗GPT, 사용자 이미지 53장 유출",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1279507.html"
-        }
-      },
-      {
-        "keyword": "로이킴",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "로이킴 \"안소희와 미래까지 OK..아이 이름까지 짓겠다” 깜짝 발언 이유는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926065007733"
-        }
-      },
-      {
-        "keyword": "진 양곤",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘3전4기’ 진양곤 HLB그룹 의장, 세 번 고배 끝에 美 FDA 신약 품다[화제의 바이오人]",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=01561286645584056"
-        }
-      },
-      {
-        "keyword": "왕추친",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'매국노라 욕했던' 日 귀화 하리모토에 무너진 中 탁구…남자 단체 9연패 실패",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583161"
-        }
-      },
-      {
-        "keyword": "미인 대회",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "2002년생 베트남 미인대회 우승자이자 4개 국어에 능통하고 미국 대학을 수석으로 졸업한 그녀는 누구일까요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hoa-hau-viet-sinh-nam-2002-gioi-4-ngon-ngu-tot-nghiep-xuat-sac-o-my-la-ai"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-26T20:57:04.282952+09:00",
     "label": "20:57",
     "items": [
@@ -929,6 +823,112 @@
           "title": "와인 마시고 한우 맛보고…영천 공동축제 내달 2일 개막",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260927065151963"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-28T04:55:00.603230+09:00",
+    "label": "04:55",
+    "items": [
+      {
+        "keyword": "로봇",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "배송·주차·청소까지…'로봇 아파트' 뜬다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026092776141"
+        }
+      },
+      {
+        "keyword": "우상혁",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[아시안게임] 높이뛰기 우상혁, 2ｍ22로 3위…3회 연속 메달 획득",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927213150564"
+        }
+      },
+      {
+        "keyword": "gpt-6 아스트라",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "GPT-6 아스트라, 85년 난제 '에니그마' 암호 해독...도구·시뮬레이터 구현",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215677"
+        }
+      },
+      {
+        "keyword": "심진화",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "다이어트가 최고의 성형…심진화, 이목구비 꽉 찬 ‘인형 비주얼’ 폭발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927195538137"
+        }
+      },
+      {
+        "keyword": "나경원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "靑 “우크라 거짓발표, 사과하라”…‘北포로 비공개 합의’ 대충돌",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25465017"
+        }
+      },
+      {
+        "keyword": "빨래",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“세탁기 청소엔 어떤 가루?”…세탁조 전용 클리너부터 확인",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=459673"
+        }
+      },
+      {
+        "keyword": "미운 우리 새끼",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "방송용 연애 사실인가…'55세' 김승수, 16년째 솔로 고백→송종호와 합숙 맞선 ('미우새')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927150148656"
+        }
+      },
+      {
+        "keyword": "norway vs portugal",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "!+[𝐒𝐓ream]HERE'S*!$ Norway Football Team vs Portugal Match Live streams",
+          "source": "CzechInvest",
+          "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvbnVudS54bWwiLz48L2tycGFubz4=&id=norway-football-team-vs-portugal-liv-on-tv-18"
+        }
+      },
+      {
+        "keyword": "로드리고 벤탕쿠르",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'쏘니 옛 동료' 벤탕쿠르 \"손흥민에게 실점하지 않도록 준비\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/P0lHdMWI5i"
+        }
+      },
+      {
+        "keyword": "신병",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "단 두 회 남긴 '신병4:사보타주' 신병즈 종영소감 \"금방 돌아올게요~\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092710147282763"
         }
       }
     ]
