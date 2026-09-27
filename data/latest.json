@@ -1,31 +1,11 @@
 {
-  "timestamp": "2026-09-27T20:35:45.027650+09:00",
-  "label": "20:35",
+  "timestamp": "2026-09-28T01:00:43.339293+09:00",
+  "label": "01:00",
   "items": [
     {
-      "keyword": "아시안게임 야구 중계",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "“25억9천만원씩 받는다”…추석 연휴 로또 1등 12명, 명당은 어디",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260926580120"
-      }
-    },
-    {
-      "keyword": "아시안게임 야구",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "야구 대표팀, 중국 꺾고 결승행‥오늘 한일전",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854290_37012.html"
-      }
-    },
-    {
       "keyword": "이정후",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
         "title": "\"이정후 평범한 수준의 타자, 수비도 급격히 무너지고…\" 美 언론 실망했네, 이제는 트레이드도 쉽지 않다",
         "source": "Daum",
@@ -33,39 +13,29 @@
       }
     },
     {
-      "keyword": "3 기 신도시",
+      "keyword": "로봇",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "경기도, 3기 신도시 '속도·기능' 종합 점검",
-        "source": "인천일보",
-        "url": "http://incheonilbo.com/news/articleView.html?idxno=1332896"
+        "title": "배송·주차·청소까지…'로봇 아파트' 뜬다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026092776141"
       }
     },
     {
-      "keyword": "정영주",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "우상혁",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "정영주 \"아들, 사고로 얼굴 1400바늘 꿰맸다\"…충격에 기절까지",
+        "title": "[아시안게임] 높이뛰기 우상혁, 2ｍ22로 3위…3회 연속 메달 획득",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260927012607589"
-      }
-    },
-    {
-      "keyword": "박유천",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "미키광수 “여친 믿고 주식 투자 맡겼는데…3천만원→3백만원”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/bwSq28lwWV?f=p"
+        "url": "https://v.daum.net/v/20260927213150564"
       }
     },
     {
       "keyword": "레버리지",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
         "title": "“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF",
         "source": "Daum",
@@ -73,13 +43,53 @@
       }
     },
     {
-      "keyword": "그리스",
+      "keyword": "미운 우리 새끼",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "방송용 연애 사실이었다…'55세' 김승수, 16년째 솔로 고백→송종호와 합숙 맞선 ('미우새')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/V9BHtxyOZv"
+      }
+    },
+    {
+      "keyword": "심진화",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "아테네 관광지서 건물 붕괴…美관광객 등 6명 사망",
+        "title": "다이어트가 최고의 성형…심진화, 이목구비 꽉 찬 ‘인형 비주얼’ 폭발",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260927091802699"
+        "url": "https://v.daum.net/v/20260927195538137"
+      }
+    },
+    {
+      "keyword": "빨래",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“이럴 거면 왜 했나”…돈 쏟아붓고 ‘국제 망신’ 산 나고야·여수",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260927162509281"
+      }
+    },
+    {
+      "keyword": "박유천",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김구라, '마약·세금 체납' 박유천 재기 언급..\"누구나 부침 있어, 딛고 일어나야\"[스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260927161247098"
+      }
+    },
+    {
+      "keyword": "나경원",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "靑, 우크라 ‘비공개 합의없다’ 주장에 “거짓발표에 강력 유감...사과하라”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260927234407336"
       }
     },
     {
@@ -90,16 +100,6 @@
         "title": "와인 마시고 한우 맛보고…영천 공동축제 내달 2일 개막",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260927065151963"
-      }
-    },
-    {
-      "keyword": "england vs sri lanka",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "England vs Sri Lanka LIVE: Third ODI, The Oval - cricket score, commentary & video highlights",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/sport/cricket/live/c15dwnqeenlt"
       }
     }
   ]
