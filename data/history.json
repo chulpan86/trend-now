@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-09-27T14:59:15.235774+09:00",
-    "label": "14:59",
-    "items": [
-      {
-        "keyword": "살인",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "남아공 연쇄살인 공포…10번째 여성 시신 발견",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927090601523"
-        }
-      },
-      {
-        "keyword": "상속",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "아버지 숨지자 나타난 혼외자…5일 전 아내에게 준 재산도 뒤집혔다[세금GO]",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01144726645584384&mediaCodeNo=257"
-        }
-      },
-      {
-        "keyword": "권 민아",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'AOA 탈퇴' 권민아, 녹취록 공개 초강수..\"내가 나쁜짓거리 참 많이 했나봅니다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927080309757"
-        }
-      },
-      {
-        "keyword": "은가은",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "박서진, 추석 앞두고 父 쓰러져 병원행 \"토하고 어지럽다고\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092702093332722"
-        }
-      },
-      {
-        "keyword": "학생",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "SKY 다니다 그만둔 학생 5년 새 1만 명 돌파…결국 의대행?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927080131669"
-        }
-      },
-      {
-        "keyword": "천연가스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "에너지 불안 EU, 겨울철 앞두고 가스 수요 억제 조치 검토 요청",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260926_0003803921"
-        }
-      },
-      {
-        "keyword": "나 혼자 산다",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "유리, 요리하는 김대호에 \"섹시해\"…10년 솔로 탈출하나 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092620290342450"
-        }
-      },
-      {
-        "keyword": "콘크리트",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927090128321"
-        }
-      },
-      {
-        "keyword": "선우은숙",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"며느리 도리는 멀리\" 선우은숙 며느리, 이래도 되나..육아 맡기고 \"진정한 아기의 추석\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-09-26/202609260100173450011433"
-        }
-      },
-      {
-        "keyword": "부산광역시",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-27T20:35:45.027650+09:00",
     "label": "20:35",
     "items": [
@@ -839,6 +737,112 @@
           "title": "국수본 \"'내란 특수본' 관련 靑 별도 지시 없어‥인계 사건 검토 중\"",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/society/article/6854495_36918.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-29T07:20:31.199220+09:00",
+    "label": "07:20",
+    "items": [
+      {
+        "keyword": "중앙일보",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "OK금융 '예별손보·중앙일보' 품는다…현금창출력 보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929062811396"
+        }
+      },
+      {
+        "keyword": "이민우",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'母 치매·26억 소송' 이민우♥이아미, '살림남' 하차…\"논의 끝에 결정\" [단독]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928104408772"
+        }
+      },
+      {
+        "keyword": "s&p 500",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Stocks fall to start the week as Treasury yields rise once again: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"
+        }
+      },
+      {
+        "keyword": "필라델피아 반도체 지수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼전 5%↓ '배당 기회' 포기한 매도세…외인 1.4조 '팔자'[핫종목](종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928163544661"
+        }
+      },
+      {
+        "keyword": "인공지능",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "주요 AI연구자 22명 \"AI 지능폭발 임박…통제 못하면 인류멸망\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929031002918"
+        }
+      },
+      {
+        "keyword": "퇴직금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "매달 113만원씩 퇴직금 미리 줬다가…\"1.4억 날렸다\" 분통 [사장님 고충백서]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607056224i"
+        }
+      },
+      {
+        "keyword": "택시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "부캉이에 열광하는 사람들...여수섬박람회는 '씁쓸' [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202609281421452653"
+        }
+      },
+      {
+        "keyword": "사업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "동네의원서 치료·건강관리·돌봄…'지역사회 일차의료 혁신' 시작",
+          "source": "정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972687&pWise=sub&pWiseSub=R3"
+        }
+      },
+      {
+        "keyword": "삼성sdi",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼성SDI LFP 배터리 탑재 ESS, 화재 안전성 글로벌 인증 획득",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928082350019"
+        }
+      },
+      {
+        "keyword": "fifa u-20 여자 월드컵",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "전 경기 무실점에도 ‘북한의 눈물’···U-20월드컵 여자축구 승부차기 한 골에 ‘2연패’ 좌절",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609281844001"
         }
       }
     ]

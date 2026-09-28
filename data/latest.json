@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-29T01:23:13.946066+09:00",
-  "label": "01:23",
+  "timestamp": "2026-09-29T07:20:31.199220+09:00",
+  "label": "07:20",
   "items": [
     {
-      "keyword": "선거",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "중앙일보",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "김상욱 시장 50억, 추경호 시장 42억, 추미애 지사 36억",
+        "title": "OK금융 '예별손보·중앙일보' 품는다…현금창출력 보니",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260929000211536"
+        "url": "https://v.daum.net/v/20260929062811396"
       }
     },
     {
-      "keyword": "김연자",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793"
-      }
-    },
-    {
-      "keyword": "파운드리",
+      "keyword": "이민우",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "퀄컴과 길어진 협상…HBM4가 바꾼 삼성전자 파운드리 셈법",
+        "title": "'母 치매·26억 소송' 이민우♥이아미, '살림남' 하차…\"논의 끝에 결정\" [단독]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/2zbKJqDgSG"
+        "url": "https://v.daum.net/v/20260928104408772"
       }
     },
     {
-      "keyword": "김민수",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "모레노호, 우루과이에 전반 0-3 밀려…출범 첫 패배 위기",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673032"
-      }
-    },
-    {
-      "keyword": "채무",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"또 빚탕감\"…이미 56조 갚은 22만명 역차별",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260928172711002"
-      }
-    },
-    {
-      "keyword": "일본 우루과이",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“손흥민도 펑펑 울어… 중국 전원 군대 보내야” 韓 무더기 병역 혜택 주목, 中 허탈한 자조",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008592"
-      }
-    },
-    {
-      "keyword": "포를란",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'쏘니 옛 동료' 벤탕쿠르 \"손흥민에게 실점하지 않도록 준비\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/P0lHdMWI5i?f=p"
-      }
-    },
-    {
-      "keyword": "설영우",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"멍청한 플레이, 대체 왜 가만히 서있나\" 우루과이전 도중 설영우의 안일한 플레이...휘슬 안 불렸으면 실점 위기→팬들 비판 쏟아져 [SPO 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260928203831691"
-      }
-    },
-    {
-      "keyword": "전지현",
+      "keyword": "s&p 500",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "전지현, 생얼에 가죽재킷..올블랙 여신, 파리行 [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1PHR4IV7vz"
+        "title": "Stocks fall to start the week as Treasury yields rise once again: Live updates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"
       }
     },
     {
-      "keyword": "국가수사본부",
+      "keyword": "필라델피아 반도체 지수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "국수본 \"'내란 특수본' 관련 靑 별도 지시 없어‥인계 사건 검토 중\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6854495_36918.html"
+        "title": "삼전 5%↓ '배당 기회' 포기한 매도세…외인 1.4조 '팔자'[핫종목](종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260928163544661"
+      }
+    },
+    {
+      "keyword": "인공지능",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "주요 AI연구자 22명 \"AI 지능폭발 임박…통제 못하면 인류멸망\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260929031002918"
+      }
+    },
+    {
+      "keyword": "퇴직금",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "매달 113만원씩 퇴직금 미리 줬다가…\"1.4억 날렸다\" 분통 [사장님 고충백서]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607056224i"
+      }
+    },
+    {
+      "keyword": "택시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "부캉이에 열광하는 사람들...여수섬박람회는 '씁쓸' [자막뉴스]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0134_202609281421452653"
+      }
+    },
+    {
+      "keyword": "사업",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "동네의원서 치료·건강관리·돌봄…'지역사회 일차의료 혁신' 시작",
+        "source": "정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972687&pWise=sub&pWiseSub=R3"
+      }
+    },
+    {
+      "keyword": "삼성sdi",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "삼성SDI LFP 배터리 탑재 ESS, 화재 안전성 글로벌 인증 획득",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260928082350019"
+      }
+    },
+    {
+      "keyword": "fifa u-20 여자 월드컵",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "전 경기 무실점에도 ‘북한의 눈물’···U-20월드컵 여자축구 승부차기 한 골에 ‘2연패’ 좌절",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609281844001"
       }
     }
   ]
