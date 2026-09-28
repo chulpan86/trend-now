@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-09-27T06:42:36.799155+09:00",
-    "label": "06:42",
-    "items": [
-      {
-        "keyword": "현금",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"현금으로 두면 안전하다?\"…예적금 대신 전문가가 제안한 방법",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260926_0003803770"
-        }
-      },
-      {
-        "keyword": "카를로스 알카라스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'알카라스-멘시크 조 복식 승리' 팀 유럽, 레이버컵 3-1로 앞서...호다르, 데뷔전 승리",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926120008637"
-        }
-      },
-      {
-        "keyword": "한채아",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한채아 8살 딸, 벌써 이렇게 컸어? 폭풍성장..할아버지 차범근과 다정한 산책 [핫피플]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926184051387"
-        }
-      },
-      {
-        "keyword": "안영미",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "안영미, 남편도 미국서 들어왔나..'母붕어빵' 둘째 아들 백일잔치 보니 [핫피플]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qYNJhTQ9TO"
-        }
-      },
-      {
-        "keyword": "암호화폐",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘태워야 폭등한다’… 코인 시장 휩쓴 ‘소각 열풍’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/weeklybiz/2026/09/26/WAJQJRKS3FBDDMUNIVAXUJVTLI/"
-        }
-      },
-      {
-        "keyword": "장 한별",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독]가수 장한별 오는 27일 kbs 전국노래자랑 포항 녹화 진행",
-          "source": "더퍼블릭",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=320148"
-        }
-      },
-      {
-        "keyword": "공격수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'PSG에 사기 당한 수준, 이강인과 정반대'…1146억에 이적한 공격수, 시즌 1골 혹평",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2RxRoWMVww"
-        }
-      },
-      {
-        "keyword": "종이팩",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "anh đấu với tây ban nha",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Trực tiếp bóng đá Anh - Tây Ban Nha: Yamal đá chính (Nations League)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-anh-tay-ban-nha-tam-su-gap-thach-thuc-nations-league-c48a1797972.html"
-        }
-      },
-      {
-        "keyword": "홍진경",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "홍진경 \"최진실 '이모' 발언 삭제? 오해 말아달라\"",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260926503302"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-27T09:02:14.504905+09:00",
-    "label": "09:02",
-    "items": [
-      {
-        "keyword": "왕 즈이",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "'세계랭킹 1위' 안세영까지 작심 비판 \"당황스러워\" 7시간 사이에 2경기 소화...남자부는 자정쯤 경기 마무리 사태",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fgNfmS6blj"
-        }
-      },
-      {
-        "keyword": "예금",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8GAZEiZvSE"
-        }
-      },
-      {
-        "keyword": "김하성",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김하성, 2년 만에 3루타+시즌 첫 멀티 득점…타율 0.118↑",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8672030"
-        }
-      },
-      {
-        "keyword": "육상 경기",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"한국 육상 여신, 말 안 나올 정도로 예쁘다\" 일본 팬들, 나고야 트랙에 등장한 김주하에 환호…외모→기록→소신 발언까지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927040639927"
-        }
-      },
-      {
-        "keyword": "100일의 거짓말",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "20주년 tvN, 상반기는 아쉬움…김유정에 쏠린 기대 [엑's 초점]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926121110776"
-        }
-      },
-      {
-        "keyword": "톱스타뉴스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "9월 4주차 두산에너빌리티 주가 변동성 확대",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16215520"
-        }
-      },
-      {
-        "keyword": "한진칼",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "소송",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"조달청, 외부선임 소송 패소율 41%…직접 수행 두배\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927060104897"
-        }
-      },
-      {
-        "keyword": "이경실",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "조영남 \"바람둥이 오해받아\" 발언에… 임예진·이경실 \"바람피운 적 있지 뭐\" 강력 일침 ('동치미')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927002114260"
-        }
-      },
-      {
-        "keyword": "운수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[오늘의 운세] 2026년 9월 27일 (음 8월 17일)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260927.99099008097"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-27T14:59:15.235774+09:00",
     "label": "14:59",
     "items": [
@@ -937,6 +733,112 @@
           "title": "단독 박보검·신예은, 로맨스 호흡 불발…'밤 여행자' 제작 난항",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0117_202609280700012282"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-29T01:23:13.946066+09:00",
+    "label": "01:23",
+    "items": [
+      {
+        "keyword": "선거",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "김상욱 시장 50억, 추경호 시장 42억, 추미애 지사 36억",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929000211536"
+        }
+      },
+      {
+        "keyword": "김연자",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793"
+        }
+      },
+      {
+        "keyword": "파운드리",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "퀄컴과 길어진 협상…HBM4가 바꾼 삼성전자 파운드리 셈법",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2zbKJqDgSG"
+        }
+      },
+      {
+        "keyword": "김민수",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "모레노호, 우루과이에 전반 0-3 밀려…출범 첫 패배 위기",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673032"
+        }
+      },
+      {
+        "keyword": "채무",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"또 빚탕감\"…이미 56조 갚은 22만명 역차별",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928172711002"
+        }
+      },
+      {
+        "keyword": "일본 우루과이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“손흥민도 펑펑 울어… 중국 전원 군대 보내야” 韓 무더기 병역 혜택 주목, 中 허탈한 자조",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008592"
+        }
+      },
+      {
+        "keyword": "포를란",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'쏘니 옛 동료' 벤탕쿠르 \"손흥민에게 실점하지 않도록 준비\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/P0lHdMWI5i?f=p"
+        }
+      },
+      {
+        "keyword": "설영우",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"멍청한 플레이, 대체 왜 가만히 서있나\" 우루과이전 도중 설영우의 안일한 플레이...휘슬 안 불렸으면 실점 위기→팬들 비판 쏟아져 [SPO 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928203831691"
+        }
+      },
+      {
+        "keyword": "전지현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "전지현, 생얼에 가죽재킷..올블랙 여신, 파리行 [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1PHR4IV7vz"
+        }
+      },
+      {
+        "keyword": "국가수사본부",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "국수본 \"'내란 특수본' 관련 靑 별도 지시 없어‥인계 사건 검토 중\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854495_36918.html"
         }
       }
     ]
