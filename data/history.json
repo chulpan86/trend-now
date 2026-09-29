@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-28T16:56:59.422597+09:00",
-    "label": "16:56",
-    "items": [
-      {
-        "keyword": "삼성전자 주가",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "삼전 5%↓ '배당 기회' 포기한 매도세…외인 1.4조 '팔자'[핫종목](종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928163544661"
-        }
-      },
-      {
-        "keyword": "아시안 게임 e스포츠",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "e스포츠, 2026년 끝으로 아시안게임 정식 종목서 제외",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2629671"
-        }
-      },
-      {
-        "keyword": "싸이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "다음달 3∼5일 도산대로 ‘강남페스티벌’…싸이 공연·주민 퍼레이드",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928163257550"
-        }
-      },
-      {
-        "keyword": "살림하는 남자들",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'母 치매·26억 소송' 이민우♥이아미, '살림남' 하차…\"논의 끝에 결정\" [단독]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928104408772"
-        }
-      },
-      {
-        "keyword": "삼성전기",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "40% 하락에 비명 터졌는데…\"주가 220만원 간다\" 파격 전망",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026092339216"
-        }
-      },
-      {
-        "keyword": "옥천군",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "옥천군, '청산별곡 은하수 숲' 산림청 자연휴양림으로 지정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260928001100353"
-        }
-      },
-      {
-        "keyword": "lg전자",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "LG전자, 엔비디아 AI 데이터센터 냉각 공식 파트너 됐다",
-          "source": "동아비즈니스리뷰",
-          "url": "https://dbr.donga.com/kfocus/view/article_no/3619"
-        }
-      },
-      {
-        "keyword": "정원오",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 추미애 이어 ‘명픽’ 정원오도...李 측근 일하는 업체에 컨설팅비 등 13억 지출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928040337766"
-        }
-      },
-      {
-        "keyword": "마크 도스 산토스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "손흥민 뛰는 LAFC, 도스 산토스 감독 경질",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928105150180"
-        }
-      },
-      {
-        "keyword": "박보검",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "단독 박보검·신예은, 로맨스 호흡 불발…'밤 여행자' 제작 난항",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202609280700012282"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-29T01:23:13.946066+09:00",
     "label": "01:23",
     "items": [
@@ -631,6 +525,112 @@
           "title": "[날씨] 충북 곳곳 아침 짙은 안개…낮 최고 24~27도",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260929104151646"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-30T06:09:32.692456+09:00",
+    "label": "06:09",
+    "items": [
+      {
+        "keyword": "체코 대 잉글랜드",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "경기 프리뷰: 체코 vs 잉글랜드, 9월 30일 오전 1시 45분: 첫 승점 획득.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-ch-czech-vs-anh-1h45-ngay-30-9-diem-so-dau-tay"
+        }
+      },
+      {
+        "keyword": "정부",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“괜찮아?” 뛰어가다 다시 ‘쾅’…폭발 당일 재구성",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8673939"
+        }
+      },
+      {
+        "keyword": "우크라이나",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[시선집중] [단독] 젤렌스키 ‘北포로 송환 공개’ 직전 우크라가 먼저 ‘비공개’ 요청. 장관 협의도 했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/95qfdtoMqz"
+        }
+      },
+      {
+        "keyword": "맨시티",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[오피셜] ‘유죄 확정’ 맨시티, 115건 혐의 전부 인정 “허위 스폰서십 계약·재정 은폐·지출 한도 등 위반”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609300528003"
+        }
+      },
+      {
+        "keyword": "고소영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "고소영 친오빠 실물 공개? \"진짜 잘 생겨, 팬들이 나중에 오빠한테 팬레터 보내\"('고소영')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4qvQ0yx2hs"
+        }
+      },
+      {
+        "keyword": "추무빈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'추신수子' 추무빈, 연예인급 미모의 여자친구 '깜짝' 공개…만난 지 벌써 1년",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929150142911"
+        }
+      },
+      {
+        "keyword": "spain vs croatia",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form"
+        }
+      },
+      {
+        "keyword": "야구여왕",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "추신수, 누적 6승 2패 블랙퀸즈 지휘… \"이기는 경기 위한 최고의 라인업\" ('야구여왕2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929085214024"
+        }
+      },
+      {
+        "keyword": "홍진영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "홍진영 언니 홍선영 근황 공개 \"오랜만에 먹고 떠들고\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260929_0003807856"
+        }
+      },
+      {
+        "keyword": "진중권",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"유해진에게도 실망\"…'암살자(들)' 불똥, 버거킹 광고 댓글 창 막았다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930051359257"
         }
       }
     ]
