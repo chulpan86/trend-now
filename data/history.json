@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-09-28T01:00:43.339293+09:00",
-    "label": "01:00",
-    "items": [
-      {
-        "keyword": "이정후",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "\"이정후 평범한 수준의 타자, 수비도 급격히 무너지고…\" 美 언론 실망했네, 이제는 트레이드도 쉽지 않다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927011051526"
-        }
-      },
-      {
-        "keyword": "로봇",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "배송·주차·청소까지…'로봇 아파트' 뜬다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026092776141"
-        }
-      },
-      {
-        "keyword": "우상혁",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[아시안게임] 높이뛰기 우상혁, 2ｍ22로 3위…3회 연속 메달 획득",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927213150564"
-        }
-      },
-      {
-        "keyword": "레버리지",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926235245993"
-        }
-      },
-      {
-        "keyword": "미운 우리 새끼",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "방송용 연애 사실이었다…'55세' 김승수, 16년째 솔로 고백→송종호와 합숙 맞선 ('미우새')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/V9BHtxyOZv"
-        }
-      },
-      {
-        "keyword": "심진화",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "다이어트가 최고의 성형…심진화, 이목구비 꽉 찬 ‘인형 비주얼’ 폭발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927195538137"
-        }
-      },
-      {
-        "keyword": "빨래",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“이럴 거면 왜 했나”…돈 쏟아붓고 ‘국제 망신’ 산 나고야·여수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927162509281"
-        }
-      },
-      {
-        "keyword": "박유천",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김구라, '마약·세금 체납' 박유천 재기 언급..\"누구나 부침 있어, 딛고 일어나야\"[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927161247098"
-        }
-      },
-      {
-        "keyword": "나경원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "靑, 우크라 ‘비공개 합의없다’ 주장에 “거짓발표에 강력 유감...사과하라”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927234407336"
-        }
-      },
-      {
-        "keyword": "영천시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "와인 마시고 한우 맛보고…영천 공동축제 내달 2일 개막",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927065151963"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-28T04:55:00.603230+09:00",
-    "label": "04:55",
-    "items": [
-      {
-        "keyword": "로봇",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "배송·주차·청소까지…'로봇 아파트' 뜬다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026092776141"
-        }
-      },
-      {
-        "keyword": "우상혁",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[아시안게임] 높이뛰기 우상혁, 2ｍ22로 3위…3회 연속 메달 획득",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927213150564"
-        }
-      },
-      {
-        "keyword": "gpt-6 아스트라",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "GPT-6 아스트라, 85년 난제 '에니그마' 암호 해독...도구·시뮬레이터 구현",
-          "source": "AI타임스",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215677"
-        }
-      },
-      {
-        "keyword": "심진화",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "다이어트가 최고의 성형…심진화, 이목구비 꽉 찬 ‘인형 비주얼’ 폭발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927195538137"
-        }
-      },
-      {
-        "keyword": "나경원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "靑 “우크라 거짓발표, 사과하라”…‘北포로 비공개 합의’ 대충돌",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25465017"
-        }
-      },
-      {
-        "keyword": "빨래",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“세탁기 청소엔 어떤 가루?”…세탁조 전용 클리너부터 확인",
-          "source": "제주교통복지신문",
-          "url": "https://www.jejutwn.com/news/article.html?no=459673"
-        }
-      },
-      {
-        "keyword": "미운 우리 새끼",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "방송용 연애 사실인가…'55세' 김승수, 16년째 솔로 고백→송종호와 합숙 맞선 ('미우새')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927150148656"
-        }
-      },
-      {
-        "keyword": "norway vs portugal",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "!+[𝐒𝐓ream]HERE'S*!$ Norway Football Team vs Portugal Match Live streams",
-          "source": "CzechInvest",
-          "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvbnVudS54bWwiLz48L2tycGFubz4=&id=norway-football-team-vs-portugal-liv-on-tv-18"
-        }
-      },
-      {
-        "keyword": "로드리고 벤탕쿠르",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'쏘니 옛 동료' 벤탕쿠르 \"손흥민에게 실점하지 않도록 준비\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/P0lHdMWI5i"
-        }
-      },
-      {
-        "keyword": "신병",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "단 두 회 남긴 '신병4:사보타주' 신병즈 종영소감 \"금방 돌아올게요~\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092710147282763"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-28T07:41:11.550318+09:00",
     "label": "07:41",
     "items": [
@@ -843,6 +631,112 @@
           "title": "‘전혀 생각지도 못한...’…전통시장 살리자고 나눠준 온누리상품권, 흘러간 곳 보니",
           "source": "문화일보",
           "url": "https://www.munhwa.com/article/11619993"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-29T18:16:04.842730+09:00",
+    "label": "18:16",
+    "items": [
+      {
+        "keyword": "혈당",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“시험 앞두고 받은 스트레스, 혈당 올렸다”",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/09/29/2026092903786.html"
+        }
+      },
+      {
+        "keyword": "임신",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"윤아가 임신?\" AI 합성 사진 확산…SM \"형사 고소 마쳤다\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202609291121058mn"
+        }
+      },
+      {
+        "keyword": "해커",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "한국 망명 시도하다 붙잡힌 北해커…“온몸 석고로 떠서 북한 끌려가”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929104114617"
+        }
+      },
+      {
+        "keyword": "송영길",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "생방송 중 “대통령 모시고 식사하러”…송영길, 인터뷰 갑자기 끊더니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929101633116"
+        }
+      },
+      {
+        "keyword": "박혜정",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "박혜정, 역도 여자 최중량급 은메달…2연속 메달",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/IPT20260929000014365?section=gallery/index"
+        }
+      },
+      {
+        "keyword": "박보경",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘로또 1등도 출근합니다’ 박보경, 이준혁에 책임 물었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929080513963"
+        }
+      },
+      {
+        "keyword": "배구",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘정말 기본도 안 돼 있다’ 한국 이어 파키스탄도 당했다, 남자배구 대표팀 버스에서 경기 준비…역대급 최악의 AG",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929102214454"
+        }
+      },
+      {
+        "keyword": "스크린쿼터",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"1000만 영화를 내리라고?\"…'오디세이' 닥친 초유의 상황",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202609289880i"
+        }
+      },
+      {
+        "keyword": "경보",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "발바닥 찢어져도 끝까지…박민호, 피 흘리며 마라톤 완주[AG]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/general-sport/6304465"
+        }
+      },
+      {
+        "keyword": "이소희",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "배드민턴 백하나·이소희, 세계 1위 잡고 24년 만에 여자복식 金[AG]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260929143657320"
         }
       }
     ]
