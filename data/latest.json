@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-29T07:20:31.199220+09:00",
-  "label": "07:20",
+  "timestamp": "2026-09-29T11:23:55.852487+09:00",
+  "label": "11:23",
   "items": [
     {
-      "keyword": "중앙일보",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "개그콘서트",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "OK금융 '예별손보·중앙일보' 품는다…현금창출력 보니",
+        "title": "故박지선 떠난 뒤 발 끊겨.. 22기 동기들에 박성광 “이름조차 못 꺼내” 뭉클 (‘짠한형’)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260929062811396"
+        "url": "https://v.daum.net/v/20260928230814752"
       }
     },
     {
-      "keyword": "이민우",
+      "keyword": "창신 메모리 테크놀로지",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“창신메모리 공정, 100% 삼성 것…기술 넘기자 쫓겨나” 유출범 후회",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260929050330000"
+      }
+    },
+    {
+      "keyword": "sl vs nep",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'母 치매·26억 소송' 이민우♥이아미, '살림남' 하차…\"논의 끝에 결정\" [단독]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260928104408772"
+        "title": "3rd Quarter-Final, Nisshin, September 29, 2026, Asian Games Men's Cricket Competition",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/asian-games-men-s-cricket-competition-2026-1552449/nepal-vs-sri-lanka-3rd-quarter-final-1552774/live-cricket-score"
       }
     },
     {
-      "keyword": "s&p 500",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "운동",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "Stocks fall to start the week as Treasury yields rise once again: Live updates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"
+        "title": "\"헬스장서 속옷 안 입는 여성 증가\"…'노팬티는 성병 옮긴다' 진실은?",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/world/global-topic/6302385"
       }
     },
     {
-      "keyword": "필라델피아 반도체 지수",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "삼전 5%↓ '배당 기회' 포기한 매도세…외인 1.4조 '팔자'[핫종목](종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260928163544661"
-      }
-    },
-    {
-      "keyword": "인공지능",
+      "keyword": "63빌딩",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "주요 AI연구자 22명 \"AI 지능폭발 임박…통제 못하면 인류멸망\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260929031002918"
+        "title": "박세리 \"결혼할 것\" 깜짝 선언…새 타운하우스도 공개",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260927_0003803999"
       }
     },
     {
-      "keyword": "퇴직금",
+      "keyword": "세무서",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "매달 113만원씩 퇴직금 미리 줬다가…\"1.4억 날렸다\" 분통 [사장님 고충백서]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607056224i"
+        "title": "체납 상담이 복지 지원으로…창원세무서 체납관리단 '복지 세정'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260928137900052"
       }
     },
     {
-      "keyword": "택시",
+      "keyword": "장한별",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "부캉이에 열광하는 사람들...여수섬박람회는 '씁쓸' [자막뉴스]",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0134_202609281421452653"
+        "title": "‘전설의 사내’ 가수 장한별, ‘사랑 참’ 무대 예고",
+        "source": "톱스타뉴스",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16226374"
       }
     },
     {
-      "keyword": "사업",
+      "keyword": "김명수 배우",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "동네의원서 치료·건강관리·돌봄…'지역사회 일차의료 혁신' 시작",
-        "source": "정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972687&pWise=sub&pWiseSub=R3"
+        "title": "정은표·김명수·김학도·장한별 '서울의 별' 주역들 '아침마당' 떴다",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3707743"
       }
     },
     {
-      "keyword": "삼성sdi",
+      "keyword": "정은표",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "삼성SDI LFP 배터리 탑재 ESS, 화재 안전성 글로벌 인증 획득",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260928082350019"
+        "title": "정은표 '서울대생' 아들, 40kg 뺀 근황…\"100kg 넘었는데 군대에서 빼고 나와\" (아침마당)",
+        "source": "www.xportsnews.com",
+        "url": "https://www.xportsnews.com/article/2201757"
       }
     },
     {
-      "keyword": "fifa u-20 여자 월드컵",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "문화일보",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "전 경기 무실점에도 ‘북한의 눈물’···U-20월드컵 여자축구 승부차기 한 골에 ‘2연패’ 좌절",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609281844001"
+        "title": "‘전혀 생각지도 못한...’…전통시장 살리자고 나눠준 온누리상품권, 흘러간 곳 보니",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11619993"
       }
     }
   ]
