@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-01T03:42:05.485278+09:00",
-  "label": "03:42",
+  "timestamp": "2026-10-01T07:43:17.988701+09:00",
+  "label": "07:43",
   "items": [
     {
-      "keyword": "서정희",
+      "keyword": "삼전 닉스",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'유방암 극복' 서정희, 60대에도 완벽 비주얼 이유 있었네 \"오늘은 슬로우 조깅\" - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/tv/2026/09/29/GUZDGMZSGAZTENJXMJTDGMRZMI/"
+        "title": "마이크론, 분기매출 73.5조 원으로 '사상 최대'...\"내년 실적 더 강력\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202610010605439998"
       }
     },
     {
-      "keyword": "고현정",
+      "keyword": "김하성",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "고현정 맞아? 고윤정인 줄..50대 중반이라더니 여전한 미스코리아 '선'",
+        "title": "김하성, 1볼넷 1득점…애틀랜타, WC 2차전 연장 역전패",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001013200007"
+      }
+    },
+    {
+      "keyword": "상어",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "상어박사 최윤 \"부캉이 귀향실패? 숨으면 떠오르길 기다려야\"[한판승부]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260930181411028"
+        "url": "https://v.daum.net/v/20261001070300546"
       }
     },
     {
-      "keyword": "담배",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "이휘향, '조폭 출신 남편'에 담배 배워…\"제대로 안하면 시청자에 욕 먹는다고\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/f9343Hd8Xh"
-      }
-    },
-    {
-      "keyword": "wnba playoffs",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Breanna Stewart talks big win in Brooklyn",
-        "source": "The IX Sports",
-        "url": "https://www.theixsports.com/newsletter/new-york-liberty-breanna-stewart-talks-game-2-win/"
-      }
-    },
-    {
-      "keyword": "김형은",
+      "keyword": "해군사관학교",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "심진화, 첫 월세방 떠올리며 먹먹…\"故 김형은 보낸 보험금으로\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093022474096049"
+        "title": "해군사관학교: 캄보디아 왕립 육군 장교들을 위한 수로측량 훈련 과정 수료식.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/hoc-vien-hai-quan-be-mac-lop-tap-huan-chuyen-nganh-thuy-dac-cho-can-bo-quan-doi-hoang-gia-campuchia"
       }
     },
     {
-      "keyword": "방탄소년단",
+      "keyword": "kf-21 보라매",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "직접 글 쓰고, 음악 골라… 큐레이터 된 RM “이번 전시는 아주 긴 내 소개”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261001004117166"
+        "title": "공군 품에 안긴 KF-21, 바로 싸울 수 있나…첫 인도 이후가 중요한 이유 [밀리터리+]",
+        "source": "나우뉴스",
+        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260929601026"
       }
     },
     {
-      "keyword": "비타민 c",
+      "keyword": "погода",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "해썹인증원, 국제비교숙련도 평가 3년 연속 ‘만족’…영양성분 분석 신뢰도 입증",
-        "source": "한국영농신문",
-        "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=70700"
+        "title": "Российский регион засыпет снегом: Климат и экология: Экономика",
+        "source": "https://lenta.news/",
+        "url": "https://lenta.news/news/2026/09/28/rossiyskiy-region-zasypet-snegom/"
       }
     },
     {
-      "keyword": "봉누도",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "봉누도2, 경찰은 왜 '대격변'이 일어나야 했을까",
-        "source": "게임플",
-        "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216581"
-      }
-    },
-    {
-      "keyword": "2026년 아시안게임",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "한일전인데‥관중 '998명' 텅 빈 관중석에 일본도 '헉'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6855036_37004.html"
-      }
-    },
-    {
-      "keyword": "fat bear",
+      "keyword": "퇴직금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Alaska’s Fat Bear Week Winner Is 89 Backpack",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/29/style/fat-bear-week-winner.html"
+        "title": "근로자 1명 고용에 월 668만원…대기업 노동비용 증가폭 ‘두 배 이상’",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=372946"
+      }
+    },
+    {
+      "keyword": "아버지",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "병원 찾아온 80대 아버지 밀어 숨지게 한 아들…구속영장 신청",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260930073259568"
+      }
+    },
+    {
+      "keyword": "맨체스터 시티 fc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘장부 조작’ 맨시티…EPL 퇴출에 줄소송으로 공중분해될 수도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/VGP3tYRf5j"
+      }
+    },
+    {
+      "keyword": "철도",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "600조 요구 몰린 5차 국가철도망…향후 10년 철도 투자 어디로",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930150103424"
       }
     }
   ]
