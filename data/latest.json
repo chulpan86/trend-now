@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-09-30T15:09:19.091608+09:00",
-  "label": "15:09",
+  "timestamp": "2026-09-30T22:10:14.127922+09:00",
+  "label": "22:10",
   "items": [
     {
-      "keyword": "이혼",
+      "keyword": "이동국",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "'16살 차이' 코미디언·스타, 결혼 3년 만→'이혼' 발표…\"서로 다른 길 선택\" [MHN:글로벌]",
+        "title": "‘이동국 딸’ 재시만 예쁜 줄 알았더니…중학생 설아도 미모 폭발",
+        "source": "서울신문",
+        "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/30/20260930500237"
+      }
+    },
+    {
+      "keyword": "이",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "지렁이·인간·꽃이 닮았다? ‘몸’을 탐구하는 작품들",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11620638"
+      }
+    },
+    {
+      "keyword": "혼외자",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“해외서 딴남자 애까지 낳았는데 이혼안해줍니다”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11620366"
+      }
+    },
+    {
+      "keyword": "안전",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "민·관이 함께 '국가 AI 안전 종합계획' 수립한다",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972829"
+      }
+    },
+    {
+      "keyword": "명태균",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "명태균 “‘오 시장 몰라요’ 녹취는 단일화 내용”…오세훈 2심 증거 왜곡 주장",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/society/society_general/1280263.html"
+      }
+    },
+    {
+      "keyword": "여자 농구",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“韓 농구팀에 숨은 미녀” 中서 난리 女선수",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11620580"
+      }
+    },
+    {
+      "keyword": "서승재",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "안세영도 못했는데 '세계 1위' 韓 잡고 2관왕...1056개월 월급이 포상금→랭킹 46위의 '인생 대회'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260930103017713"
+        "url": "https://v.daum.net/v/20260930112745673"
       }
     },
     {
-      "keyword": "김정은",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "국정원 \"김정은 140kg대 초고도비만, 주애 160cm, 50kg 넘어\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/assembly/2026/09/30/O3SKB5LZEZHSTB6ZUJOJEOPVOU/"
-      }
-    },
-    {
-      "keyword": "앱 스토어",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
-        "source": "요즘IT",
-        "url": "https://yozm.wishket.com/magazine/detail/3968/"
-      }
-    },
-    {
-      "keyword": "성현주",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "성현주, 허경환 신인 시절 폭로 “우리 집에서 자주 잤다”",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260930503559"
-      }
-    },
-    {
-      "keyword": "주병진",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "주병진, 이경규에 서운함 토로…\"힘들 때 문자도 없어\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260930_0003808819"
-      }
-    },
-    {
-      "keyword": "건설근로자공제회",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260929150400530"
-      }
-    },
-    {
-      "keyword": "채시라",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "58세 채시라, 올화이트룩에 핑크 워커…패션센스",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260928503294"
-      }
-    },
-    {
-      "keyword": "뇌물",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[판결] 압수수색 중에 증거 치우려 했는데 무죄 받은 이유",
-        "source": "법률신문",
-        "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227030"
-      }
-    },
-    {
-      "keyword": "유재명",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"재명아 먹어라\"…'72년생' 유재석, 1살 동생 유재명에 힙겹게 '반말'('틈만나면')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260930143457130"
-      }
-    },
-    {
-      "keyword": "샘 오취리",
+      "keyword": "우즈베키스탄 u-23 대 일본 u-23",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“갈 곳 없어 한국에 남았다” 샘 오취리, 121일 만 SNS 재개…10년 세월 ‘깜짝’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260930102011201"
+        "title": "이민성호, 또 하늘이 돕는다! '89분 극장골' 일본-우즈벡, 1-1로 연장 돌입...한국과 결승 앞두고 '120분' 혈투 확정 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/09/30/202609302023778253O"
+      }
+    },
+    {
+      "keyword": "이완섭",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대통령은 또 “속도내라”지만…호남반도체 ‘실행 계획’이 없다",
+        "source": "에너지경제신문",
+        "url": "https://m.ekn.kr/view.php?key=20260930021500222"
+      }
+    },
+    {
+      "keyword": "west indies vs india",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "IND Vs WI : India Won The Toss And Opted To Ball First, J&K Player To Debut Today",
+        "source": "Sportscape Magazine",
+        "url": "https://www.sportscapemagazine.com/blog/ind-vs-wi-india-won-the-toss-and-opted-to-ball-first-jk-player-auqib-nabi-to-debut-today"
       }
     }
   ]

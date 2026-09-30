@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-29T07:20:31.199220+09:00",
-    "label": "07:20",
-    "items": [
-      {
-        "keyword": "중앙일보",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "OK금융 '예별손보·중앙일보' 품는다…현금창출력 보니",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929062811396"
-        }
-      },
-      {
-        "keyword": "이민우",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'母 치매·26억 소송' 이민우♥이아미, '살림남' 하차…\"논의 끝에 결정\" [단독]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928104408772"
-        }
-      },
-      {
-        "keyword": "s&p 500",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Stocks fall to start the week as Treasury yields rise once again: Live updates",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"
-        }
-      },
-      {
-        "keyword": "필라델피아 반도체 지수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "삼전 5%↓ '배당 기회' 포기한 매도세…외인 1.4조 '팔자'[핫종목](종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928163544661"
-        }
-      },
-      {
-        "keyword": "인공지능",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "주요 AI연구자 22명 \"AI 지능폭발 임박…통제 못하면 인류멸망\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929031002918"
-        }
-      },
-      {
-        "keyword": "퇴직금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "매달 113만원씩 퇴직금 미리 줬다가…\"1.4억 날렸다\" 분통 [사장님 고충백서]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607056224i"
-        }
-      },
-      {
-        "keyword": "택시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "부캉이에 열광하는 사람들...여수섬박람회는 '씁쓸' [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202609281421452653"
-        }
-      },
-      {
-        "keyword": "사업",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "동네의원서 치료·건강관리·돌봄…'지역사회 일차의료 혁신' 시작",
-          "source": "정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972687&pWise=sub&pWiseSub=R3"
-        }
-      },
-      {
-        "keyword": "삼성sdi",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼성SDI LFP 배터리 탑재 ESS, 화재 안전성 글로벌 인증 획득",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928082350019"
-        }
-      },
-      {
-        "keyword": "fifa u-20 여자 월드컵",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "전 경기 무실점에도 ‘북한의 눈물’···U-20월드컵 여자축구 승부차기 한 골에 ‘2연패’ 좌절",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609281844001"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-29T11:23:55.852487+09:00",
     "label": "11:23",
     "items": [
@@ -733,6 +627,112 @@
           "title": "“갈 곳 없어 한국에 남았다” 샘 오취리, 121일 만 SNS 재개…10년 세월 ‘깜짝’",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260930102011201"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-30T22:10:14.127922+09:00",
+    "label": "22:10",
+    "items": [
+      {
+        "keyword": "이동국",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "‘이동국 딸’ 재시만 예쁜 줄 알았더니…중학생 설아도 미모 폭발",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/30/20260930500237"
+        }
+      },
+      {
+        "keyword": "이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "지렁이·인간·꽃이 닮았다? ‘몸’을 탐구하는 작품들",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11620638"
+        }
+      },
+      {
+        "keyword": "혼외자",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“해외서 딴남자 애까지 낳았는데 이혼안해줍니다”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11620366"
+        }
+      },
+      {
+        "keyword": "안전",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "민·관이 함께 '국가 AI 안전 종합계획' 수립한다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972829"
+        }
+      },
+      {
+        "keyword": "명태균",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "명태균 “‘오 시장 몰라요’ 녹취는 단일화 내용”…오세훈 2심 증거 왜곡 주장",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1280263.html"
+        }
+      },
+      {
+        "keyword": "여자 농구",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“韓 농구팀에 숨은 미녀” 中서 난리 女선수",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11620580"
+        }
+      },
+      {
+        "keyword": "서승재",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "안세영도 못했는데 '세계 1위' 韓 잡고 2관왕...1056개월 월급이 포상금→랭킹 46위의 '인생 대회'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930112745673"
+        }
+      },
+      {
+        "keyword": "우즈베키스탄 u-23 대 일본 u-23",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이민성호, 또 하늘이 돕는다! '89분 극장골' 일본-우즈벡, 1-1로 연장 돌입...한국과 결승 앞두고 '120분' 혈투 확정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/30/202609302023778253O"
+        }
+      },
+      {
+        "keyword": "이완섭",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대통령은 또 “속도내라”지만…호남반도체 ‘실행 계획’이 없다",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260930021500222"
+        }
+      },
+      {
+        "keyword": "west indies vs india",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "IND Vs WI : India Won The Toss And Opted To Ball First, J&K Player To Debut Today",
+          "source": "Sportscape Magazine",
+          "url": "https://www.sportscapemagazine.com/blog/ind-vs-wi-india-won-the-toss-and-opted-to-ball-first-jk-player-auqib-nabi-to-debut-today"
         }
       }
     ]
