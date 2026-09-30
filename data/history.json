@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-29T01:23:13.946066+09:00",
-    "label": "01:23",
-    "items": [
-      {
-        "keyword": "선거",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "김상욱 시장 50억, 추경호 시장 42억, 추미애 지사 36억",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929000211536"
-        }
-      },
-      {
-        "keyword": "김연자",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793"
-        }
-      },
-      {
-        "keyword": "파운드리",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "퀄컴과 길어진 협상…HBM4가 바꾼 삼성전자 파운드리 셈법",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2zbKJqDgSG"
-        }
-      },
-      {
-        "keyword": "김민수",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "모레노호, 우루과이에 전반 0-3 밀려…출범 첫 패배 위기",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673032"
-        }
-      },
-      {
-        "keyword": "채무",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"또 빚탕감\"…이미 56조 갚은 22만명 역차별",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928172711002"
-        }
-      },
-      {
-        "keyword": "일본 우루과이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“손흥민도 펑펑 울어… 중국 전원 군대 보내야” 韓 무더기 병역 혜택 주목, 中 허탈한 자조",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008592"
-        }
-      },
-      {
-        "keyword": "포를란",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'쏘니 옛 동료' 벤탕쿠르 \"손흥민에게 실점하지 않도록 준비\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/P0lHdMWI5i?f=p"
-        }
-      },
-      {
-        "keyword": "설영우",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"멍청한 플레이, 대체 왜 가만히 서있나\" 우루과이전 도중 설영우의 안일한 플레이...휘슬 안 불렸으면 실점 위기→팬들 비판 쏟아져 [SPO 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928203831691"
-        }
-      },
-      {
-        "keyword": "전지현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "전지현, 생얼에 가죽재킷..올블랙 여신, 파리行 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1PHR4IV7vz"
-        }
-      },
-      {
-        "keyword": "국가수사본부",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "국수본 \"'내란 특수본' 관련 靑 별도 지시 없어‥인계 사건 검토 중\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6854495_36918.html"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-29T07:20:31.199220+09:00",
     "label": "07:20",
     "items": [
@@ -733,6 +627,112 @@
           "title": "원주 첫 복숭아 농업마이스터 배출…이병동 씨 지정",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260930092144818"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-30T15:09:19.091608+09:00",
+    "label": "15:09",
+    "items": [
+      {
+        "keyword": "이혼",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'16살 차이' 코미디언·스타, 결혼 3년 만→'이혼' 발표…\"서로 다른 길 선택\" [MHN:글로벌]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930103017713"
+        }
+      },
+      {
+        "keyword": "김정은",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "국정원 \"김정은 140kg대 초고도비만, 주애 160cm, 50kg 넘어\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/09/30/O3SKB5LZEZHSTB6ZUJOJEOPVOU/"
+        }
+      },
+      {
+        "keyword": "앱 스토어",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
+          "source": "요즘IT",
+          "url": "https://yozm.wishket.com/magazine/detail/3968/"
+        }
+      },
+      {
+        "keyword": "성현주",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "성현주, 허경환 신인 시절 폭로 “우리 집에서 자주 잤다”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260930503559"
+        }
+      },
+      {
+        "keyword": "주병진",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "주병진, 이경규에 서운함 토로…\"힘들 때 문자도 없어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260930_0003808819"
+        }
+      },
+      {
+        "keyword": "건설근로자공제회",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260929150400530"
+        }
+      },
+      {
+        "keyword": "채시라",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "58세 채시라, 올화이트룩에 핑크 워커…패션센스",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260928503294"
+        }
+      },
+      {
+        "keyword": "뇌물",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[판결] 압수수색 중에 증거 치우려 했는데 무죄 받은 이유",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227030"
+        }
+      },
+      {
+        "keyword": "유재명",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"재명아 먹어라\"…'72년생' 유재석, 1살 동생 유재명에 힙겹게 '반말'('틈만나면')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930143457130"
+        }
+      },
+      {
+        "keyword": "샘 오취리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“갈 곳 없어 한국에 남았다” 샘 오취리, 121일 만 SNS 재개…10년 세월 ‘깜짝’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930102011201"
         }
       }
     ]
