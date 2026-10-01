@@ -1,25 +1,55 @@
 {
-  "timestamp": "2026-10-02T00:49:05.696377+09:00",
-  "label": "00:49",
+  "timestamp": "2026-10-02T05:40:19.351660+09:00",
+  "label": "05:40",
   "items": [
+    {
+      "keyword": "설영우",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "모레노가 꺼내든 오답노트 …“11명 전원수비, 전원공격”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002000322825"
+      }
+    },
+    {
+      "keyword": "현무-3",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "李대통령 참석 국군의날 시연행사서 드론 또 추락…\"기상 영향\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001132400504"
+      }
+    },
+    {
+      "keyword": "자동차",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "美, 이란 자동차·철도망 제재…바다 이어 육로까지 차단",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002035257967"
+      }
+    },
     {
       "keyword": "미사일",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "李 \"DMZ서 불의의 사고\"... 국힘 \"대한민국 대통령 맞나\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/politics_general/2026/10/01/VMTBJCWZQZG7HBN6KWN7Y3GQFY/"
+        "title": "북 극초음속미사일, 서울 1~2분내 타격 가능[홍영식의 이슈 워치]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002050143606"
       }
     },
     {
-      "keyword": "자동차",
+      "keyword": "덴마크 대 포르투갈",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "현대차·기아 9월 실적 명암…추석 탓하기엔 뼈아픈 현대차 역성장",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610011702001"
+        "title": "UEFA 네이션스리그: 헤수스 감독은 완벽한 3연승을 노린다",
+        "source": "티스토리",
+        "url": "https://sbotopkr.tistory.com/2577"
       }
     },
     {
@@ -27,70 +57,16 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "같은 이차전지인데…'삼성SDI·포스코퓨처엠'만 올린 이유",
+        "title": "고점서 28% 빠진 삼성SDI…개미들 '줍줍' 기회 열렸다",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202610017970i"
-      }
-    },
-    {
-      "keyword": "군함",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[영상] 끈질긴 추격 끝에 쾅!…'시속 425km 비행' 러 제트 드론 요격",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260930171147068"
-      }
-    },
-    {
-      "keyword": "강화도",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“집 흔들릴 정도로 쾅”…귀신소리 울린 그곳, 이젠 北폭발에 떤다 [르포]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261001142213167"
-      }
-    },
-    {
-      "keyword": "구속",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "“고령자 보내라”…‘냉동창고 살인’ 계획에 수십억 위약금 노려",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8675862"
+        "url": "https://www.hankyung.com/article/202610017323i"
       }
     },
     {
       "keyword": "분당구",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "하루만에 호가 '1억 더'…특별정비 지정에 분당 아파트 '들썩'",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=03876966645608656&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "청라하늘대교",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"창원 실리도-원전항 해상 배전선로 지나는 25m 선박은 반드시 신고\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/busan-gyeongnam/6307460"
-      }
-    },
-    {
-      "keyword": "송강",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "송강X이준영, 천재 피아니스트들의 빛나는 피날레… ‘포핸즈’ 클래식·OST 합본 연속 발매",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261001151149971"
-      }
+      "news": null
     },
     {
       "keyword": "탄약",
@@ -99,7 +75,27 @@
       "news": {
         "title": "로켓 파편 살펴보는 우크라이나 소년",
         "source": "뉴시스",
-        "url": "https://mobile.newsis.com/photo/NISI20261001_0002252689"
+        "url": "https://www.newsis.com/view/NISI20261001_0002252689"
+      }
+    },
+    {
+      "keyword": "김해시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김해시, 고용·복지 앞장선 일자리 우수기업 5곳 선정",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=717437"
+      }
+    },
+    {
+      "keyword": "denmark vs portugal",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Licensable picture: Denmark V Portugal: Group Stage - UEFA Nations League",
+        "source": "Reuters Connect",
+        "url": "https://www.reutersconnect.com/item/denmark-v-portugal-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBVMjE2SE4"
       }
     }
   ]

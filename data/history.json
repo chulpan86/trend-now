@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-30T15:09:19.091608+09:00",
-    "label": "15:09",
-    "items": [
-      {
-        "keyword": "이혼",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'16살 차이' 코미디언·스타, 결혼 3년 만→'이혼' 발표…\"서로 다른 길 선택\" [MHN:글로벌]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930103017713"
-        }
-      },
-      {
-        "keyword": "김정은",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "국정원 \"김정은 140kg대 초고도비만, 주애 160cm, 50kg 넘어\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/09/30/O3SKB5LZEZHSTB6ZUJOJEOPVOU/"
-        }
-      },
-      {
-        "keyword": "앱 스토어",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
-          "source": "요즘IT",
-          "url": "https://yozm.wishket.com/magazine/detail/3968/"
-        }
-      },
-      {
-        "keyword": "성현주",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "성현주, 허경환 신인 시절 폭로 “우리 집에서 자주 잤다”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260930503559"
-        }
-      },
-      {
-        "keyword": "주병진",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "주병진, 이경규에 서운함 토로…\"힘들 때 문자도 없어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260930_0003808819"
-        }
-      },
-      {
-        "keyword": "건설근로자공제회",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260929150400530"
-        }
-      },
-      {
-        "keyword": "채시라",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "58세 채시라, 올화이트룩에 핑크 워커…패션센스",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260928503294"
-        }
-      },
-      {
-        "keyword": "뇌물",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[판결] 압수수색 중에 증거 치우려 했는데 무죄 받은 이유",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227030"
-        }
-      },
-      {
-        "keyword": "유재명",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"재명아 먹어라\"…'72년생' 유재석, 1살 동생 유재명에 힙겹게 '반말'('틈만나면')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930143457130"
-        }
-      },
-      {
-        "keyword": "샘 오취리",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“갈 곳 없어 한국에 남았다” 샘 오취리, 121일 만 SNS 재개…10년 세월 ‘깜짝’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930102011201"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-30T22:10:14.127922+09:00",
     "label": "22:10",
     "items": [
@@ -737,6 +631,108 @@
           "title": "로켓 파편 살펴보는 우크라이나 소년",
           "source": "뉴시스",
           "url": "https://mobile.newsis.com/photo/NISI20261001_0002252689"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-02T05:40:19.351660+09:00",
+    "label": "05:40",
+    "items": [
+      {
+        "keyword": "설영우",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "모레노가 꺼내든 오답노트 …“11명 전원수비, 전원공격”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002000322825"
+        }
+      },
+      {
+        "keyword": "현무-3",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "李대통령 참석 국군의날 시연행사서 드론 또 추락…\"기상 영향\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261001132400504"
+        }
+      },
+      {
+        "keyword": "자동차",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "美, 이란 자동차·철도망 제재…바다 이어 육로까지 차단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002035257967"
+        }
+      },
+      {
+        "keyword": "미사일",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "북 극초음속미사일, 서울 1~2분내 타격 가능[홍영식의 이슈 워치]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002050143606"
+        }
+      },
+      {
+        "keyword": "덴마크 대 포르투갈",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "UEFA 네이션스리그: 헤수스 감독은 완벽한 3연승을 노린다",
+          "source": "티스토리",
+          "url": "https://sbotopkr.tistory.com/2577"
+        }
+      },
+      {
+        "keyword": "포스코 퓨처 엠",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "고점서 28% 빠진 삼성SDI…개미들 '줍줍' 기회 열렸다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610017323i"
+        }
+      },
+      {
+        "keyword": "분당구",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": null
+      },
+      {
+        "keyword": "탄약",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "로켓 파편 살펴보는 우크라이나 소년",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261001_0002252689"
+        }
+      },
+      {
+        "keyword": "김해시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김해시, 고용·복지 앞장선 일자리 우수기업 5곳 선정",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=717437"
+        }
+      },
+      {
+        "keyword": "denmark vs portugal",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Licensable picture: Denmark V Portugal: Group Stage - UEFA Nations League",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/denmark-v-portugal-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBVMjE2SE4"
         }
       }
     ]
