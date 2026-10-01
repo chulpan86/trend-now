@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-09-30T06:09:32.692456+09:00",
-    "label": "06:09",
-    "items": [
-      {
-        "keyword": "체코 대 잉글랜드",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "경기 프리뷰: 체코 vs 잉글랜드, 9월 30일 오전 1시 45분: 첫 승점 획득.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-ch-czech-vs-anh-1h45-ngay-30-9-diem-so-dau-tay"
-        }
-      },
-      {
-        "keyword": "정부",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“괜찮아?” 뛰어가다 다시 ‘쾅’…폭발 당일 재구성",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8673939"
-        }
-      },
-      {
-        "keyword": "우크라이나",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[시선집중] [단독] 젤렌스키 ‘北포로 송환 공개’ 직전 우크라가 먼저 ‘비공개’ 요청. 장관 협의도 했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/95qfdtoMqz"
-        }
-      },
-      {
-        "keyword": "맨시티",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[오피셜] ‘유죄 확정’ 맨시티, 115건 혐의 전부 인정 “허위 스폰서십 계약·재정 은폐·지출 한도 등 위반”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609300528003"
-        }
-      },
-      {
-        "keyword": "고소영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "고소영 친오빠 실물 공개? \"진짜 잘 생겨, 팬들이 나중에 오빠한테 팬레터 보내\"('고소영')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4qvQ0yx2hs"
-        }
-      },
-      {
-        "keyword": "추무빈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'추신수子' 추무빈, 연예인급 미모의 여자친구 '깜짝' 공개…만난 지 벌써 1년",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929150142911"
-        }
-      },
-      {
-        "keyword": "spain vs croatia",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form"
-        }
-      },
-      {
-        "keyword": "야구여왕",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "추신수, 누적 6승 2패 블랙퀸즈 지휘… \"이기는 경기 위한 최고의 라인업\" ('야구여왕2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929085214024"
-        }
-      },
-      {
-        "keyword": "홍진영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "홍진영 언니 홍선영 근황 공개 \"오랜만에 먹고 떠들고\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260929_0003807856"
-        }
-      },
-      {
-        "keyword": "진중권",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"유해진에게도 실망\"…'암살자(들)' 불똥, 버거킹 광고 댓글 창 막았다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930051359257"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-30T09:53:03.935696+09:00",
-    "label": "09:53",
-    "items": [
-      {
-        "keyword": "국군 의 날",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "2026년 국군의날 공휴일 지정 되나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930035747419"
-        }
-      },
-      {
-        "keyword": "연애전쟁",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'연애전쟁' 이효리, 피에로男 귀여운 척에 '솔직 반응' [RE:TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929053214462?f=m"
-        }
-      },
-      {
-        "keyword": "우서윤",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "우지원 딸 맞아? '미코眞' 우지원, '아웃송' 댄스까지 화제만발[이슈S]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929174230456"
-        }
-      },
-      {
-        "keyword": "김사랑",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": null
-      },
-      {
-        "keyword": "핵무기",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[삶-특집] \"韓 현무 미사일 2000기로도 北 핵무기 1기 감당 못한다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930060310889"
-        }
-      },
-      {
-        "keyword": "빈곤",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“국민연금 65세→68세로 늦추자?”…개혁 또 나오는 이유는? [잇슈 머니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930071320274"
-        }
-      },
-      {
-        "keyword": "송은이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "월급 20만원이던 무명 송은이 33년 뒤…은행 경고 무시하고 버틴 결과",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260922513927"
-        }
-      },
-      {
-        "keyword": "오픈ai",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "DevDay 2026 주요 발표",
-          "source": "OpenAI",
-          "url": "https://openai.com/ko-KR/index/devday-2026-recap/"
-        }
-      },
-      {
-        "keyword": "한화 이글스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'153km 흙속의 진주' 한화 유니폼 입는다…육성선수 입단 합의, 드래프트 미지명→프로행 기적 또 탄생",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930002600493"
-        }
-      },
-      {
-        "keyword": "원주시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "원주 첫 복숭아 농업마이스터 배출…이병동 씨 지정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930092144818"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-30T15:09:19.091608+09:00",
     "label": "15:09",
     "items": [
@@ -839,6 +631,112 @@
           "title": "엄마 복붙한 줄…‘백종원♥’ 소유진, 제주서 공개한 훌쩍 큰 딸 ‘붕어빵 비주얼’ - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/01/MIYGKM3BMVTDSOJXG4ZDOYZUME/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-02T00:49:05.696377+09:00",
+    "label": "00:49",
+    "items": [
+      {
+        "keyword": "미사일",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "李 \"DMZ서 불의의 사고\"... 국힘 \"대한민국 대통령 맞나\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/10/01/VMTBJCWZQZG7HBN6KWN7Y3GQFY/"
+        }
+      },
+      {
+        "keyword": "자동차",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "현대차·기아 9월 실적 명암…추석 탓하기엔 뼈아픈 현대차 역성장",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610011702001"
+        }
+      },
+      {
+        "keyword": "포스코 퓨처 엠",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "같은 이차전지인데…'삼성SDI·포스코퓨처엠'만 올린 이유",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610017970i"
+        }
+      },
+      {
+        "keyword": "군함",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[영상] 끈질긴 추격 끝에 쾅!…'시속 425km 비행' 러 제트 드론 요격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930171147068"
+        }
+      },
+      {
+        "keyword": "강화도",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“집 흔들릴 정도로 쾅”…귀신소리 울린 그곳, 이젠 北폭발에 떤다 [르포]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001142213167"
+        }
+      },
+      {
+        "keyword": "구속",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“고령자 보내라”…‘냉동창고 살인’ 계획에 수십억 위약금 노려",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8675862"
+        }
+      },
+      {
+        "keyword": "분당구",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "하루만에 호가 '1억 더'…특별정비 지정에 분당 아파트 '들썩'",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03876966645608656&mediaCodeNo=257"
+        }
+      },
+      {
+        "keyword": "청라하늘대교",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"창원 실리도-원전항 해상 배전선로 지나는 25m 선박은 반드시 신고\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6307460"
+        }
+      },
+      {
+        "keyword": "송강",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "송강X이준영, 천재 피아니스트들의 빛나는 피날레… ‘포핸즈’ 클래식·OST 합본 연속 발매",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001151149971"
+        }
+      },
+      {
+        "keyword": "탄약",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "로켓 파편 살펴보는 우크라이나 소년",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20261001_0002252689"
         }
       }
     ]

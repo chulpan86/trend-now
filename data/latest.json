@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-01T17:00:28.390917+09:00",
-  "label": "17:00",
+  "timestamp": "2026-10-02T00:49:05.696377+09:00",
+  "label": "00:49",
   "items": [
     {
-      "keyword": "눈꺼풀",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "눈꺼풀에서 송곳니가 나왔다…어쩌다가 이런 일이?",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11620754"
-      }
-    },
-    {
-      "keyword": "심진화",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "심진화, 극단적 생각까지...첫 월세방 떠올리며 '먹먹' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093022474096049"
-      }
-    },
-    {
-      "keyword": "이재명 지지율",
+      "keyword": "미사일",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "이 대통령 지지율 43%, 3주 전과 동일···‘조희대가 다른 후보자 제청해야’ 55%[NBS]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yaALzN0HWS"
+        "title": "李 \"DMZ서 불의의 사고\"... 국힘 \"대한민국 대통령 맞나\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/politics_general/2026/10/01/VMTBJCWZQZG7HBN6KWN7Y3GQFY/"
       }
     },
     {
-      "keyword": "부동산",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "[속보] 서울 아파트값 86주째 올라 최장 기록 경신",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610011400344413_005.html"
-      }
-    },
-    {
-      "keyword": "사형",
+      "keyword": "자동차",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "31년전 살인 美사형수, 두차례 독극물 주사에도 생존…집행 중단",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261001162118712"
+        "title": "현대차·기아 9월 실적 명암…추석 탓하기엔 뼈아픈 현대차 역성장",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610011702001"
       }
     },
     {
-      "keyword": "이진숙",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "포스코 퓨처 엠",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "검찰, 국민의힘에 고발된 ‘이진숙 체포 경찰·검사·판사‘ 불기소",
+        "title": "같은 이차전지인데…'삼성SDI·포스코퓨처엠'만 올린 이유",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610017970i"
+      }
+    },
+    {
+      "keyword": "군함",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[영상] 끈질긴 추격 끝에 쾅!…'시속 425km 비행' 러 제트 드론 요격",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930171147068"
+      }
+    },
+    {
+      "keyword": "강화도",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“집 흔들릴 정도로 쾅”…귀신소리 울린 그곳, 이젠 北폭발에 떤다 [르포]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261001142213167"
+      }
+    },
+    {
+      "keyword": "구속",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“고령자 보내라”…‘냉동창고 살인’ 계획에 수십억 위약금 노려",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8675409"
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8675862"
       }
     },
     {
-      "keyword": "신혜선",
+      "keyword": "분당구",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'뭐 했어?' 신혜선, 얼굴 크기마저 달라진 근황",
+        "title": "하루만에 호가 '1억 더'…특별정비 지정에 분당 아파트 '들썩'",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=03876966645608656&mediaCodeNo=257"
+      }
+    },
+    {
+      "keyword": "청라하늘대교",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"창원 실리도-원전항 해상 배전선로 지나는 25m 선박은 반드시 신고\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/local/busan-gyeongnam/6307460"
+      }
+    },
+    {
+      "keyword": "송강",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "송강X이준영, 천재 피아니스트들의 빛나는 피날레… ‘포핸즈’ 클래식·OST 합본 연속 발매",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260930184742079"
+        "url": "https://v.daum.net/v/20261001151149971"
       }
     },
     {
-      "keyword": "지드래곤",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "지드래곤, 뉴욕서 신혼여행…\"우리 채널 이름 부부로그\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260930_0003809019"
-      }
-    },
-    {
-      "keyword": "병무청",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'재입대' 하겠다던 송민호, 1심 판결 나오자 반응이‥",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261001134618083"
-      }
-    },
-    {
-      "keyword": "소유진",
+      "keyword": "탄약",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "엄마 복붙한 줄…‘백종원♥’ 소유진, 제주서 공개한 훌쩍 큰 딸 ‘붕어빵 비주얼’ - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/01/MIYGKM3BMVTDSOJXG4ZDOYZUME/"
+        "title": "로켓 파편 살펴보는 우크라이나 소년",
+        "source": "뉴시스",
+        "url": "https://mobile.newsis.com/photo/NISI20261001_0002252689"
       }
     }
   ]
