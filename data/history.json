@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-09-30T01:14:14.381351+09:00",
-    "label": "01:14",
-    "items": [
-      {
-        "keyword": "클로드",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[AI는 지금] 앤트로픽, 오픈AI '가성비 전략'에 맞불…소넷 5.5 공개",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260929082055"
-        }
-      },
-      {
-        "keyword": "정부24",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "(설명) 개인정보 털린 정부24, 늑장 통지까지... 뒷북 공지 행안부에 국민 분통(문화)",
-          "source": "정책브리핑",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148972699"
-        }
-      },
-      {
-        "keyword": "단발",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"크~\" 송혜교, 안경 꼈을 뿐인데...감탄 부르는 '지성미 폭발' 비주얼",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929221831850"
-        }
-      },
-      {
-        "keyword": "천궁",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "한국에 천궁-Ⅱ 줄 돈 없다던 이라크, 튀르키예·프랑스 방공망 추가 도입",
-          "source": "더구루",
-          "url": "https://theguru.co.kr/news/article.html?no=107624"
-        }
-      },
-      {
-        "keyword": "xrp",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "XRP Eyes $1.80 to $1.90 If It Clears 50-Week EMA: Analyst",
-          "source": "CryptoPotato",
-          "url": "https://cryptopotato.com/xrp-eyes-1-80-to-1-90-if-it-clears-50-week-ema-analyst/"
-        }
-      },
-      {
-        "keyword": "공군사관학교",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "공군사관학교 관사서 부사관 숨진 채 발견…군 당국 수사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260929172800064"
-        }
-      },
-      {
-        "keyword": "중증외상센터",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'증조부 논란' 하영 떠난 '중증외상센터', 러블리즈 정예인 합류",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929152656445"
-        }
-      },
-      {
-        "keyword": "wnba playoffs",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Game Recap: Indiana Fever Fall in Game One of 2026 WNBA Playoffs",
-          "source": "Indiana Fever",
-          "url": "https://fever.wnba.com/news/game-recap-fever-aces-260927"
-        }
-      },
-      {
-        "keyword": "커플",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“한국 남성과 한 번 사귀면…” 日여성들, 한국 남성 찾는 이유는",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260929580536"
-        }
-      },
-      {
-        "keyword": "도맑음",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[날씨] 충북 곳곳 아침 짙은 안개…낮 최고 24~27도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929104151646"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-30T06:09:32.692456+09:00",
     "label": "06:09",
     "items": [
@@ -839,6 +733,112 @@
           "title": "[토스, 증권을 품은 대가①] 몸집은 금융그룹, 내부통제는 따라왔나",
           "source": "한국아이닷컴",
           "url": "https://www.hankooki.com/news/articleView.html?idxno=344707"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-01T17:00:28.390917+09:00",
+    "label": "17:00",
+    "items": [
+      {
+        "keyword": "눈꺼풀",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "눈꺼풀에서 송곳니가 나왔다…어쩌다가 이런 일이?",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11620754"
+        }
+      },
+      {
+        "keyword": "심진화",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "심진화, 극단적 생각까지...첫 월세방 떠올리며 '먹먹' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/30/2026093022474096049"
+        }
+      },
+      {
+        "keyword": "이재명 지지율",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "이 대통령 지지율 43%, 3주 전과 동일···‘조희대가 다른 후보자 제청해야’ 55%[NBS]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yaALzN0HWS"
+        }
+      },
+      {
+        "keyword": "부동산",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[속보] 서울 아파트값 86주째 올라 최장 기록 경신",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202610011400344413_005.html"
+        }
+      },
+      {
+        "keyword": "사형",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "31년전 살인 美사형수, 두차례 독극물 주사에도 생존…집행 중단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001162118712"
+        }
+      },
+      {
+        "keyword": "이진숙",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "검찰, 국민의힘에 고발된 ‘이진숙 체포 경찰·검사·판사‘ 불기소",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8675409"
+        }
+      },
+      {
+        "keyword": "신혜선",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'뭐 했어?' 신혜선, 얼굴 크기마저 달라진 근황",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930184742079"
+        }
+      },
+      {
+        "keyword": "지드래곤",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "지드래곤, 뉴욕서 신혼여행…\"우리 채널 이름 부부로그\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260930_0003809019"
+        }
+      },
+      {
+        "keyword": "병무청",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'재입대' 하겠다던 송민호, 1심 판결 나오자 반응이‥",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001134618083"
+        }
+      },
+      {
+        "keyword": "소유진",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "엄마 복붙한 줄…‘백종원♥’ 소유진, 제주서 공개한 훌쩍 큰 딸 ‘붕어빵 비주얼’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/01/MIYGKM3BMVTDSOJXG4ZDOYZUME/"
         }
       }
     ]
