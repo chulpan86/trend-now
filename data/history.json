@@ -736,5 +736,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-01T10:41:34.684801+09:00",
+    "label": "10:41",
+    "items": [
+      {
+        "keyword": "네이버",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "네이버웹툰, 김용수·김규남 공동대표 선임…공동경영 체제로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261001060300005"
+        }
+      },
+      {
+        "keyword": "chat gpt",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "Introducing dots",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-dots/"
+        }
+      },
+      {
+        "keyword": "챗gpt",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "싼 구독료 미끼로 AI 의존 높이더니… \"챗GPT 월67만원\"",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12165226"
+        }
+      },
+      {
+        "keyword": "김태형",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "9년 연속 사직에 가을은 없었다...달콤하지 않은 승리, 김태형 감독 \"팬 여러분께 감사드린다\" [오!쎈 부산]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930231058202"
+        }
+      },
+      {
+        "keyword": "chatgpt",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chatgpt-maker-wants-app-store-013825295.html"
+        }
+      },
+      {
+        "keyword": "argentina vs bolivia",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Scaloni yet to decide who will succeed Messi",
+          "source": "beIN SPORTS",
+          "url": "https://www.beinsports.com/en-nz/football/friendlies/articles/scaloni-yet-to-decide-who-will-succeed-messi-2026-09-30"
+        }
+      },
+      {
+        "keyword": "돌싱글즈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘유현철♥’ 10기 옥순 김슬기, 결혼식 코앞인데 눈에 시퍼런 멍…무슨 일?",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609301439003"
+        }
+      },
+      {
+        "keyword": "손혁",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘2위→9위’ 추락 한화, 손혁 단장-김경문 감독 ‘동반 퇴진’하나 [김대호의 야구생각]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261001044143886"
+        }
+      },
+      {
+        "keyword": "우즈베키스탄 축구 국가대표팀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "냉온탕 오간 모레노호, 베네수엘라와 격돌…중원 조합 등 관심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930111057531"
+        }
+      },
+      {
+        "keyword": "토스증권",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[토스, 증권을 품은 대가①] 몸집은 금융그룹, 내부통제는 따라왔나",
+          "source": "한국아이닷컴",
+          "url": "https://www.hankooki.com/news/articleView.html?idxno=344707"
+        }
+      }
+    ]
   }
 ]
