@@ -1,35 +1,55 @@
 {
-  "timestamp": "2026-10-02T22:20:57.772713+09:00",
-  "label": "22:20",
+  "timestamp": "2026-10-03T03:48:11.522751+09:00",
+  "label": "03:48",
   "items": [
     {
-      "keyword": "한국 대 베네수엘라",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "여행",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "모레노호, 월드컵 못 간 베네수엘라와 졸전 끝에 0-0 무승부",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261002181200007"
-      }
-    },
-    {
-      "keyword": "결승전",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "\"일본은 21살인데\" 이민성 감독 작심 발언 \"우리가 부정 선수 출전시킨 것도 아니잖나\"…韓 U-23 질문에 반박",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261002145631087"
+        "title": "“괌 비행기 누워서 갑니다”…한국인 떠나자 벌어진 충격 근황 [잇슈#태그]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8676765"
       }
     },
     {
       "keyword": "이상순",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
         "title": "'복귀' 이상순 \"완전히 나은 건 아니다\"…아침 러닝까지 \"저도 살아보겠다고\" [엑's 이슈]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261002155113461"
+        "url": "https://v.daum.net/v/tS9WUdHlZf"
+      }
+    },
+    {
+      "keyword": "타잔",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"관객 믿고 몸 던졌다 그대로 '쿵'\"…올데프 타잔, 축제서 추락",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002211158215"
+      }
+    },
+    {
+      "keyword": "야구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "추신수가 본 AG 야구 금메달과 한국의 미래, “기대되지만… 리그가 명확한 플랜 가져야”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002061143610"
+      }
+    },
+    {
+      "keyword": "김민",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "기안84도 깜짝...김민, \"지하수 끌어올려 생활\" 90년 된 자택 공개 [나혼산]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002233743232"
       }
     },
     {
@@ -37,35 +57,15 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"美, 대이란 폭격재개 대비해 사우디·카타르에 패트리엇 증강\"",
+        "title": "사우디 주도 연합군 \"후티, 성지 메디나에 전력공급하는 배전소 공격\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261002152056109"
-      }
-    },
-    {
-      "keyword": "무역수지",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "씨티 \"달러-원 1,300원 아래로 빠르게 내리면 당국 매수 가능\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437459"
-      }
-    },
-    {
-      "keyword": "south korea vs venezuela",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Venezuela coach says Korea showed attack but Uruguay exposed defensive gaps - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/10/01/T4TQUCG2LFACNIXHEH2K6UYBL4/"
+        "url": "https://v.daum.net/v/20261002035544971"
       }
     },
     {
       "keyword": "진양곤",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "진양곤 HLB그룹 의장, 개인법인 '에포케' 통해 계열사 지분 확대",
         "source": "팜이데일리",
@@ -74,32 +74,28 @@
     },
     {
       "keyword": "신랑",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "\"5만원 내고 22만원 먹었다\"…신랑·신부도 모르는 하객",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=02797846645608984&mediaCodeNo=257"
+        "title": "'11만원 뷔페' 결혼식에 5만원 내고 식사한 커플…\"모르는 사람\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/10/02/2026100209184876774"
       }
     },
     {
-      "keyword": "인천국제공항",
+      "keyword": "최동원",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": {
-        "title": "인천공항, CAPA '올해의 아시아 대형공항상' 수상",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261002056800065"
-      }
+      "news": null
     },
     {
-      "keyword": "채무",
+      "keyword": "김민수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[단독] “채무조정 못 해줍니다”…절반 넘게 이유 모호한 ‘퇴짜’",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12166747"
+        "title": "김민수의 미친 존재감! \"독보적인 기량이 문제\"...레인저스 '폭풍 활약'에 불안감 증폭, 대체 왜? \"EPL 이적할까 조바심\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002160359035"
       }
     }
   ]
