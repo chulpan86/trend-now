@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-02T09:20:09.301529+09:00",
-  "label": "09:20",
+  "timestamp": "2026-10-02T15:26:34.391494+09:00",
+  "label": "15:26",
   "items": [
     {
-      "keyword": "패션",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "탑 나나",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "Lola Tung, Sarah Pidgeon, and more celebrity style at Paris Fashion Week",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/28/style/paris-fashion-week-celebrity-fashion"
-      }
-    },
-    {
-      "keyword": "제미 나이 4 아르곤",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "구글, 최상위 AI ‘아르곤’ 공개… 오픈AI·앤스로픽 제쳤다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/10/01/5QGIAQAC4VHOFCODVWZZITNBCQ/"
-      }
-    },
-    {
-      "keyword": "추성훈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "야노시호, 51세 추성훈 마지막 경기 앞두고..\"아름다울 것\" [편스토랑]",
+        "title": "탑·나나, 열애 인정 \"6월경 연인으로 발전\"…스타 커플 탄생(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261002080513686"
+        "url": "https://v.daum.net/v/20261002114959923"
       }
     },
     {
-      "keyword": "콜레스테롤",
+      "keyword": "쓰레기봉투",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "쓰레기봉투 속 2500만 원 끝내 주인 안 나타나… 최초 발견자 품으로",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20261002502623"
+      }
+    },
+    {
+      "keyword": "홍진경",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "29억 건물 매입 홍진경, ‘연예인 착각’ 버리자 50층 아파트가 보였다",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260625510091"
+      }
+    },
+    {
+      "keyword": "박장범",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "법원, 박장범 가처분 기각…\"KBS 이사회 의결에 하자 없어\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002141058042"
+      }
+    },
+    {
+      "keyword": "오세훈",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'여론조사비 대납 혐의' 오세훈 2심서 징역 1년6개월 구형돼",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002145414022"
+      }
+    },
+    {
+      "keyword": "더중앙플러스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "똑같이 9시간 앉아도 몸 달랐다…사망 위험 치솟는 ‘이 습관’",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25466329"
+      }
+    },
+    {
+      "keyword": "조보아",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "조보아, 子 출산 8개월만 복귀하나..\"교통사고 하차 이청아, 대타 투입 논의” [공식입장] - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/02/ME3DSNRVGRQTEMTGHA2DMZJQMQ/"
+      }
+    },
+    {
+      "keyword": "아시안게임 롤",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'져도 이상하지 않았다'… 한국, 대만에 진땀승→1-0 리드[AG 결승]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261002133255711"
+      }
+    },
+    {
+      "keyword": "개천절",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'혈압·콜레스테롤' 한 번에 잡는 가을 제철 생선 4가지",
-        "source": "하이뉴스",
-        "url": "https://www.hinews.co.kr/view.php?ud=2026100116381318229284fa285d_48"
+        "title": "개천절 연휴 돌풍-천둥 ‘요란한 비’…강원 산간엔 얼음도",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20261002/134774332/1"
       }
     },
     {
-      "keyword": "김지원",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "박성현",
+      "keyword": "포수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "박성현 \"미국이든 한국이든… 뛸 무대 있다면 어디든 최선\"",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=01125046645608984&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "태양광 발전",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "500kW 이하는 '전용 시장' 신설…소규모 태양광 사업자들 주목",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202610017400i"
-      }
-    },
-    {
-      "keyword": "skhy",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "SK hynix Maintains 3.4 Million Won Target Price: \"Strong Memory Demand\" [Click eJongmok]",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/en/article/2026093015170008670"
-      }
-    },
-    {
-      "keyword": "육군사관학교",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[화보] 육사·3사·국간사·ROTC 예비 장교들, 육사서 전투기술 뽐냈다",
-        "source": "월간조선",
-        "url": "https://monthly.chosun.com/news/articleView.html?idxno=71566"
-      }
-    },
-    {
-      "keyword": "경제",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "靑 정책실장에 하준경 경제수석 임명",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/blue_house/2026/10/02/ZGNSVZQ255DSXPZW2M7BXHWNBA/"
+        "title": "\"방에서 쓰러진 채 발견\" 돌연 사망, 19세 신인 포수에게 대체 무슨 일이…\"전날까지 방망이 휘둘렀는데\" 갑작스러운 비보",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/pYhR9QTstB"
       }
     }
   ]
