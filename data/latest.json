@@ -1,15 +1,25 @@
 {
-  "timestamp": "2026-10-04T01:51:59.685783+09:00",
-  "label": "01:51",
+  "timestamp": "2026-10-04T04:35:50.224193+09:00",
+  "label": "04:35",
   "items": [
     {
       "keyword": "내일 날씨",
       "traffic_raw": "200000+",
       "traffic": 200000,
       "news": {
-        "title": "내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다",
+        "title": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
         "source": "Daum",
-        "url": "https://v.daum.net/v/p3ppxDqFyo"
+        "url": "https://v.daum.net/v/20261003214013432"
+      }
+    },
+    {
+      "keyword": "크로아티아 대 잉글랜드",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전",
+        "source": "마이데일리",
+        "url": "https://www.mydaily.co.kr/page/view/2026100319453836161"
       }
     },
     {
@@ -27,19 +37,9 @@
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "'살림남' 박서진, 본선 직전 초비상...박효정에 \"너 필요없어\" 분노",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261003110631208"
-      }
-    },
-    {
-      "keyword": "크로아티아 대 잉글랜드",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전",
-        "source": "마이데일리",
-        "url": "https://www.mydaily.co.kr/page/view/2026100319453836161"
+        "title": "“응급 처치 해야 해”…박서진, ‘국중박 분장놀이’ 본선 당일 초비상 (살림남)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261003/134779888/1"
       }
     },
     {
@@ -47,29 +47,29 @@
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Monsoon withdrawal advances Saturday: Rain expected in south, northeast",
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/science/story/monsoon-retreat-india-october-weather-forecast-rain-storms-keralam-tamil-nadu-3008153-2026-10-02"
+        "title": "Delhi to stay hot, mercury may touch 36°C; rain in several parts of India",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/india-news/delhi-to-stay-hot-mercury-may-touch-36c-rain-in-several-parts-of-india-126100300127_1.html"
       }
     },
     {
-      "keyword": "유재석",
+      "keyword": "croatia vs england",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "유재석, 명절에 한우 100여명 보낸다더니 \"주소 취합해 우체국 가서 붙이면 돼\" (핑계고)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261003151513225"
+        "title": "Croatia 0-7 England: Harry Kane and Bukayo Saka both score twice in Nations League win",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cm046w9zdkrwt"
       }
     },
     {
-      "keyword": "미스터 서",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "기안84",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "14기 영자, 미스터 서와 파국 위기?…“실망했다” (나솔사계)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20261003/134780035/1"
+        "title": "\"밥 해드리고 싶은데\" 기안84·톰 크루즈 어깨동무 투샷 떴다..이시언도 부러워 난리 [순간포착] - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/03/MUZGEYJVGRTGMODEMNRWENRYMQ/"
       }
     },
     {
@@ -77,9 +77,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“주담대 금리 7.28%, 숨쉴수가 없습니다”…매일 돈 삭제된다는 미국상황",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/yQEQjFgRTF"
+        "title": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/int_economy/2026/10/02/HMTGJIKNRRH45FYXLFXDRIQ33A/"
       }
     },
     {
@@ -89,7 +89,7 @@
       "news": {
         "title": "\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261003113914727"
+        "url": "https://v.daum.net/v/8sNRqJXSCk"
       }
     },
     {
