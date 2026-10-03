@@ -728,5 +728,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-03T10:33:27.240972+09:00",
+    "label": "10:33",
+    "items": [
+      {
+        "keyword": "천위페이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "中 왕즈이-천위페이 '한국 안 가요, 일본은 갑니다'…코리아오픈 불참→일본 마스터즈 출전 왜?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261003050143086"
+        }
+      },
+      {
+        "keyword": "최준희",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘故최진실 딸’ 최준희, 안타까운 근황 “불안에 발발 떨고 속상해 눈물”",
+          "source": "TWIG",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/10/02/20261002500021"
+        }
+      },
+      {
+        "keyword": "경복궁",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "퇴근길 산책에 결혼식까지…일상으로 스며든 K-유산",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261003071917326"
+        }
+      },
+      {
+        "keyword": "콜레스테롤",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "콜레스테롤, 우리 몸에 꼭 필요한 성분이다?!",
+          "source": "채널A 뉴스",
+          "url": "https://ichannela.com/program/clip/000000553230.do"
+        }
+      },
+      {
+        "keyword": "개천절",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "개천절 연휴도 '쌀쌀'…내일 밤부터 전국 비",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261003095346987"
+        }
+      },
+      {
+        "keyword": "김구라",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'김구라 아들' 그리 \"아파트 하나 사놨다\" 재산 공개 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/02/2026100221410896812"
+        }
+      },
+      {
+        "keyword": "한화 이글스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'불명예 2위' 한화 12패 외인 재계약 간절했나, 추가 등판 자청…김경문 \"화이트 한 번 더 보겠다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002012342705?f=p"
+        }
+      },
+      {
+        "keyword": "1박 2일",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "문세윤, ‘먹튀’ 논란 터졌다…급기야 변호사 소환→대국민 사과 (1박 2일)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261003/134779959/1"
+        }
+      },
+      {
+        "keyword": "문가영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "레이스카부터 전기 SUV까지…서울에 포르셰 70대가 모인 이유는?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/auto/2026/10/02/QXNXMN5YTZGF3CSBKX4MSYT7WY/"
+        }
+      },
+      {
+        "keyword": "보그",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "가을 바지는 딱 다이애나 왕세자비처럼 입으면 됩니다",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/09/30/%EA%B0%80%EC%9D%84-%EB%B0%94%EC%A7%80%EB%8A%94-%EB%94%B1-%EB%8B%A4%EC%9D%B4%EC%95%A0%EB%82%98-%EC%99%95%EC%84%B8%EC%9E%90%EB%B9%84%EC%B2%98%EB%9F%BC-%EC%9E%85%EC%9C%BC%EB%A9%B4-%EB%90%A9%EB%8B%88/"
+        }
+      }
+    ]
   }
 ]
