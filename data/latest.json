@@ -1,45 +1,55 @@
 {
-  "timestamp": "2026-10-03T21:51:03.917754+09:00",
-  "label": "21:51",
+  "timestamp": "2026-10-04T01:51:59.685783+09:00",
+  "label": "01:51",
   "items": [
     {
-      "keyword": "엄지성",
-      "traffic_raw": "50000+",
-      "traffic": 50000,
+      "keyword": "내일 날씨",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
       "news": {
-        "title": "[아시안게임] 남자축구 4연패 걸린 한일전에 이영준·엄지성 등 선발 출격",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261003043600007"
-      }
-    },
-    {
-      "keyword": "치지직",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "[테크스냅] 네이버 치지직 '데마시아 컵' 국제대회 생중계",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261002058100017"
-      }
-    },
-    {
-      "keyword": "북항친수공원",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "그물 맴돌던 '부캉이', 그물 뚫고 북항친수공원 쪽으로 이동",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/busan-gyeongnam/6309759"
-      }
-    },
-    {
-      "keyword": "고현정",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "'가을 입은' 고현정, 20대 못지않은 패션 소화력...남다른 아우라",
+        "title": "내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261002184143693"
+        "url": "https://v.daum.net/v/p3ppxDqFyo"
+      }
+    },
+    {
+      "keyword": "인도 대 브라질",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "India vs Brazil: Friendlies stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cm36lgnwx4zpt"
+      }
+    },
+    {
+      "keyword": "박서진",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "'살림남' 박서진, 본선 직전 초비상...박효정에 \"너 필요없어\" 분노",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261003110631208"
+      }
+    },
+    {
+      "keyword": "크로아티아 대 잉글랜드",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전",
+        "source": "마이데일리",
+        "url": "https://www.mydaily.co.kr/page/view/2026100319453836161"
+      }
+    },
+    {
+      "keyword": "weather tomorrow",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Monsoon withdrawal advances Saturday: Rain expected in south, northeast",
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/science/story/monsoon-retreat-india-october-weather-forecast-rain-storms-keralam-tamil-nadu-3008153-2026-10-02"
       }
     },
     {
@@ -53,19 +63,9 @@
       }
     },
     {
-      "keyword": "김지수",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"거친 플레이? 중국은 원래 그런 것 좋아해\" 소림축구에 김지수 소신발언...\"과정 어쨌든 이기면 돼\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/UKS40zEohR"
-      }
-    },
-    {
       "keyword": "미스터 서",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "14기 영자, 미스터 서와 파국 위기?…“실망했다” (나솔사계)",
         "source": "스포츠동아",
@@ -73,13 +73,13 @@
       }
     },
     {
-      "keyword": "복지",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "금융위기",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "“몰라서 못 받는 복지 없게”…아동수당·부모급여 ‘신청주의’ 없앤다",
+        "title": "“주담대 금리 7.28%, 숨쉴수가 없습니다”…매일 돈 삭제된다는 미국상황",
         "source": "Daum",
-        "url": "https://v.daum.net/v/t5FjrwB3To"
+        "url": "https://v.daum.net/v/yQEQjFgRTF"
       }
     },
     {
@@ -97,9 +97,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Arrest - Saskatchewan Internet Child Exploitation Unit Investigation - RM Of Morris, SK",
-        "source": "Saskatoon Police Service",
-        "url": "https://saskatoonpolice.ca/news/2026602"
+        "title": "Swift Current, Sask., man charged with sexual assault as RCMP look for more victims",
+        "source": "CBC",
+        "url": "https://www.cbc.ca/news/canada/saskatoon/swift-current-rcmp-sexual-assault-snapchat-girls-aniken-edwards-9.7367734"
       }
     }
   ]
