@@ -838,5 +838,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-04T07:32:10.295424+09:00",
+    "label": "07:32",
+    "items": [
+      {
+        "keyword": "시어머니",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "고3 아들 방서 자고 가겠다는 시모…거절하니, 시누 \"너도 쫓겨날 것\" 막말",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6308693"
+        }
+      },
+      {
+        "keyword": "이동국",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이동국 셋째 설아, 美 중학교 입학..언니 재시 이어 유학길 \"가족 다 흩어져\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/V3DxRWMVhA"
+        }
+      },
+      {
+        "keyword": "1244 회 로또",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "1244회 로또복권 1등 18명…당첨금 16억469만 원",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261003.99099000624"
+        }
+      },
+      {
+        "keyword": "불",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "재난문자",
+          "source": "KBS 재난포털",
+          "url": "https://d.kbs.co.kr/info/messageView?seq=205847&areaCd=50"
+        }
+      },
+      {
+        "keyword": "김소영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'오상진 판박이 子' 수호, 6개월 지나니 母 김소영 닮아가네…\"눈이 계속 내려가\" [RE:스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261002101513014"
+        }
+      },
+      {
+        "keyword": "송기윤",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "송기윤 아내 \"차량 형체도 없이 사라져\"…교통사고 후유증 전해",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6586844"
+        }
+      },
+      {
+        "keyword": "선수",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "양의지와 오타니의 공통점… 몸값보다 중요한 선수의 가치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/03/FU2ASWZSDJCGRBUBGV3VCW5CPM/"
+        }
+      },
+      {
+        "keyword": "해리 케인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“자랑스럽고 정말 고맙다” SON ‘영혼단짝’ 케인, 발롱도르 응원 소식에 “너무 기쁘고, 감사하다는 말씀을 드...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610020808003"
+        }
+      },
+      {
+        "keyword": "원자력 발전소",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"가스전 합의 안 하면 2배 청구\"..트럼프, 한국에 노골적 압박",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/fBBXrwB3pO"
+        }
+      },
+      {
+        "keyword": "김다영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'배성재♥' 김다영 \"사진 한 장 때문에 임신 공개…올 연말 출산 예정\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6309969"
+        }
+      }
+    ]
   }
 ]
