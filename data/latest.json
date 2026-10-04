@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-10-04T23:37:53.134309+09:00",
-  "label": "23:37",
+  "timestamp": "2026-10-05T03:27:41.033507+09:00",
+  "label": "03:27",
   "items": [
     {
       "keyword": "내일 날씨",
       "traffic_raw": "100000+",
       "traffic": 100000,
       "news": {
-        "title": "[날씨] 연휴 둘째 날 가을비…내일 낮부터 찬바람",
+        "title": "[날씨] 연휴 마지막 날 오전까지 전국 비…돌풍·우박 가능성",
         "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261004160848nX0"
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261004194704Sna"
       }
     },
     {
@@ -23,13 +23,33 @@
       }
     },
     {
+      "keyword": "정년",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "[단독] ‘소득공백’ 정년퇴직 공무원, 3년새 2배↑",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20261004506958"
+      }
+    },
+    {
       "keyword": "김희애",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "59세 김희애, 자연스러운 주름 공개 속 여전한 미모 과시",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Entertainment/article/all/20261004/134781753/1"
+        "title": "‘물광 아이콘’ 김희애, 세월의 흔적에 누리꾼 “주름도 우아해”",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202610041224003"
+      }
+    },
+    {
+      "keyword": "과즙세연",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20261003164540798"
       }
     },
     {
@@ -43,33 +63,13 @@
       }
     },
     {
-      "keyword": "정년",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[fn이사람] \"50대에 정년 걱정 덜어주니… 고난도 연구 온전히 집중\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zkIGCyx2Nc?f=p"
-      }
-    },
-    {
-      "keyword": "과즙세연",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/8XrFCkb0TD"
-      }
-    },
-    {
       "keyword": "허미미",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]",
+        "title": "할머니가 이어준 태극마크…허미미 재일동포 할머니들과 “대한민국”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/YGAWKbrNUB"
+        "url": "https://v.daum.net/v/20261004213505137"
       }
     },
     {
@@ -77,19 +77,19 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Thời tiết tuần 5/10 – 11/10: Không khí lạnh tràn về, nhiều khu vực mưa lớn",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/thoi-tiet-tuan-5-10-11-10-khong-khi-lanh-tran-ve-nhieu-khu-vuc-mua-lon"
+        "title": "Dự báo gió mạnh, sóng lớn và mưa dông trên biển trong ngày và đêm 5/10",
+        "source": "Đài Phát thanh và Truyền hình TP.HCM",
+        "url": "https://htv.vn/du-bao-gio-manh-song-lon-va-mua-dong-tren-bien-trong-ngay-va-dem-5-10-22226100410511709.htm"
       }
     },
     {
-      "keyword": "머스캣",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김혜자",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261004071059165"
+        "title": "85세 김혜자, 65년 연기와 35년 나눔…‘죽지 마세요’에 담았다",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/article/all/20261001/134765833/2?gid=134773457&srev=2&regdate=20261002"
       }
     },
     {
@@ -99,7 +99,7 @@
       "news": {
         "title": "“이희진과 100일” 임원희, 과감한 스킨십→마음 고백 (미우새)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/5Vblb3cnUQ"
+        "url": "https://v.daum.net/v/20261004090143095"
       }
     }
   ]
