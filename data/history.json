@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-10-03T07:41:04.960780+09:00",
-    "label": "07:41",
-    "items": [
-      {
-        "keyword": "배당",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "삼성카드 6.2%·NH證 5.0%…국고채 4%에도 배당주 뜨는 이유",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261002001257"
-        }
-      },
-      {
-        "keyword": "kf-21 보라매",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "1조9000억원 투입되는 KF-21 공대공 미사일, LIG·한화 공동개발 유력",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003005011083"
-        }
-      },
-      {
-        "keyword": "s&p 500",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Stocks rise Friday after soft jobs data, Nvidia leads Nasdaq to intraday record",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html"
-        }
-      },
-      {
-        "keyword": "이장우",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“이때로 돌아갈 순 없겠지” 이장우, 역대급 슬림했던 과거 소환에 ‘씁쓸’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610021639003"
-        }
-      },
-      {
-        "keyword": "spcx",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Why is Space Exploration Technologies stock surging 6% today?",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-surging-6-today-93CH-4930067"
-        }
-      },
-      {
-        "keyword": "김용빈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이수근·안성훈·김용빈, 폭우 뚫고 청양行…‘트키쇼’ 첫 출격",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202610021027545896"
-        }
-      },
-      {
-        "keyword": "에코프로",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "에코프로, 사장단 인사 조기 단행…최상운·박종환 사장 승진",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373039"
-        }
-      },
-      {
-        "keyword": "연기금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독] 성과급 3461만→1억1130만원…공공기관서 보너스 3배 뛴 사연은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/22bEjKmjSr"
-        }
-      },
-      {
-        "keyword": "현대자동차그룹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“현대차, 포드 제치고 미국 국민차 노린다”…50만대 팔아치웠다는데",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003065101022"
-        }
-      },
-      {
-        "keyword": "송기윤",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "74세 송기윤, 15세 연하 미모의 아내 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261002_0003811637"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-03T10:33:27.240972+09:00",
-    "label": "10:33",
-    "items": [
-      {
-        "keyword": "천위페이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "中 왕즈이-천위페이 '한국 안 가요, 일본은 갑니다'…코리아오픈 불참→일본 마스터즈 출전 왜?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003050143086"
-        }
-      },
-      {
-        "keyword": "최준희",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘故최진실 딸’ 최준희, 안타까운 근황 “불안에 발발 떨고 속상해 눈물”",
-          "source": "TWIG",
-          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/10/02/20261002500021"
-        }
-      },
-      {
-        "keyword": "경복궁",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "퇴근길 산책에 결혼식까지…일상으로 스며든 K-유산",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003071917326"
-        }
-      },
-      {
-        "keyword": "콜레스테롤",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "콜레스테롤, 우리 몸에 꼭 필요한 성분이다?!",
-          "source": "채널A 뉴스",
-          "url": "https://ichannela.com/program/clip/000000553230.do"
-        }
-      },
-      {
-        "keyword": "개천절",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "개천절 연휴도 '쌀쌀'…내일 밤부터 전국 비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003095346987"
-        }
-      },
-      {
-        "keyword": "김구라",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'김구라 아들' 그리 \"아파트 하나 사놨다\" 재산 공개 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/02/2026100221410896812"
-        }
-      },
-      {
-        "keyword": "한화 이글스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'불명예 2위' 한화 12패 외인 재계약 간절했나, 추가 등판 자청…김경문 \"화이트 한 번 더 보겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002012342705?f=p"
-        }
-      },
-      {
-        "keyword": "1박 2일",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "문세윤, ‘먹튀’ 논란 터졌다…급기야 변호사 소환→대국민 사과 (1박 2일)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261003/134779959/1"
-        }
-      },
-      {
-        "keyword": "문가영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "레이스카부터 전기 SUV까지…서울에 포르셰 70대가 모인 이유는?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/auto/2026/10/02/QXNXMN5YTZGF3CSBKX4MSYT7WY/"
-        }
-      },
-      {
-        "keyword": "보그",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "가을 바지는 딱 다이애나 왕세자비처럼 입으면 됩니다",
-          "source": "Vogue korea",
-          "url": "https://www.vogue.co.kr/2026/09/30/%EA%B0%80%EC%9D%84-%EB%B0%94%EC%A7%80%EB%8A%94-%EB%94%B1-%EB%8B%A4%EC%9D%B4%EC%95%A0%EB%82%98-%EC%99%95%EC%84%B8%EC%9E%90%EB%B9%84%EC%B2%98%EB%9F%BC-%EC%9E%85%EC%9C%BC%EB%A9%B4-%EB%90%A9%EB%8B%88/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-03T16:17:23.861921+09:00",
     "label": "16:17",
     "items": [
@@ -945,6 +733,112 @@
           "title": "[원주 현장] \"이런 적은 처음\" 이규섭 감독도 놀랐다... 원주 열기 미쳤다! DB 홈 개막전 5분 만에 매진 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/04/2026100413031478356"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-04T23:37:53.134309+09:00",
+    "label": "23:37",
+    "items": [
+      {
+        "keyword": "내일 날씨",
+        "traffic_raw": "100000+",
+        "traffic": 100000,
+        "news": {
+          "title": "[날씨] 연휴 둘째 날 가을비…내일 낮부터 찬바람",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261004160848nX0"
+        }
+      },
+      {
+        "keyword": "넷플릭스",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "'화제성 88.3% 급상승→넷플릭스 1위'…글로벌 인기 쌍끌이 중인 韓 예능 ('기안장2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004180052410"
+        }
+      },
+      {
+        "keyword": "김희애",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "59세 김희애, 자연스러운 주름 공개 속 여전한 미모 과시",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261004/134781753/1"
+        }
+      },
+      {
+        "keyword": "기능사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“돈 되는 자격증 이것뿐” 前트럭기사가 찾은 ‘월 400 직장’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Kt4GQZgRvM"
+        }
+      },
+      {
+        "keyword": "정년",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[fn이사람] \"50대에 정년 걱정 덜어주니… 고난도 연구 온전히 집중\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zkIGCyx2Nc?f=p"
+        }
+      },
+      {
+        "keyword": "과즙세연",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8XrFCkb0TD"
+        }
+      },
+      {
+        "keyword": "허미미",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YGAWKbrNUB"
+        }
+      },
+      {
+        "keyword": "thời tiết ngày mai",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Thời tiết tuần 5/10 – 11/10: Không khí lạnh tràn về, nhiều khu vực mưa lớn",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/thoi-tiet-tuan-5-10-11-10-khong-khi-lanh-tran-ve-nhieu-khu-vuc-mua-lon"
+        }
+      },
+      {
+        "keyword": "머스캣",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004071059165"
+        }
+      },
+      {
+        "keyword": "이희진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“이희진과 100일” 임원희, 과감한 스킨십→마음 고백 (미우새)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5Vblb3cnUQ"
         }
       }
     ]
