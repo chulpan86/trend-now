@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-10-03T03:48:11.522751+09:00",
-    "label": "03:48",
-    "items": [
-      {
-        "keyword": "여행",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "“괌 비행기 누워서 갑니다”…한국인 떠나자 벌어진 충격 근황 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8676765"
-        }
-      },
-      {
-        "keyword": "이상순",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'복귀' 이상순 \"완전히 나은 건 아니다\"…아침 러닝까지 \"저도 살아보겠다고\" [엑's 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tS9WUdHlZf"
-        }
-      },
-      {
-        "keyword": "타잔",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"관객 믿고 몸 던졌다 그대로 '쿵'\"…올데프 타잔, 축제서 추락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002211158215"
-        }
-      },
-      {
-        "keyword": "야구",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "추신수가 본 AG 야구 금메달과 한국의 미래, “기대되지만… 리그가 명확한 플랜 가져야”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002061143610"
-        }
-      },
-      {
-        "keyword": "김민",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "기안84도 깜짝...김민, \"지하수 끌어올려 생활\" 90년 된 자택 공개 [나혼산]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002233743232"
-        }
-      },
-      {
-        "keyword": "사우디 아라비아",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "사우디 주도 연합군 \"후티, 성지 메디나에 전력공급하는 배전소 공격\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002035544971"
-        }
-      },
-      {
-        "keyword": "진양곤",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "진양곤 HLB그룹 의장, 개인법인 '에포케' 통해 계열사 지분 확대",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=03503046645608984"
-        }
-      },
-      {
-        "keyword": "신랑",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'11만원 뷔페' 결혼식에 5만원 내고 식사한 커플…\"모르는 사람\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/02/2026100209184876774"
-        }
-      },
-      {
-        "keyword": "최동원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "김민수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김민수의 미친 존재감! \"독보적인 기량이 문제\"...레인저스 '폭풍 활약'에 불안감 증폭, 대체 왜? \"EPL 이적할까 조바심\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261002160359035"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-03T07:41:04.960780+09:00",
     "label": "07:41",
     "items": [
@@ -941,6 +839,112 @@
           "title": "[이자Car야] 시동 꺼도 에어컨 ‘쌩쌩’…6년 만에 바뀐 투싼, 뭐가 달라졌나",
           "source": "Daum",
           "url": "https://v.daum.net/v/20261004060121151"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-04T17:58:08.020330+09:00",
+    "label": "17:58",
+    "items": [
+      {
+        "keyword": "아들",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "\"60세에 딸 낳았다\"…58세에 아들 출산한 여성, 2년 만에 둘째 순산",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/general-world/6310075"
+        }
+      },
+      {
+        "keyword": "진중권",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "유해진에 ‘북한상’이라는 주진우…진중권마저 “참 저질” 때렸다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004083544840"
+        }
+      },
+      {
+        "keyword": "롯데 대 kt",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "롯데만 만나면 지던 선수 맞나, ERA 9.00→1.40 대반전…\"시즌 끝났으니 비법 공개\" [MD수원]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004091230319"
+        }
+      },
+      {
+        "keyword": "장민욱",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "장민욱, ♥강성연과 결혼 후 두 아이 아빠 됐다..“이렇게 행복해도 되나” (‘아침마당’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/03/MUZDCNTCGJTGGNJUHBTDAYZWHA/"
+        }
+      },
+      {
+        "keyword": "분만",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "인천 분만 절반 이상 미추홀구…지역별 분만 인프라 격차",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036557"
+        }
+      },
+      {
+        "keyword": "울산바위",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보]고성 금강산서 사진찍다 40ｍ 추락…심정지 상태로 헬기 이송",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11621296"
+        }
+      },
+      {
+        "keyword": "미국",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "트럼프 “이란전 결정 임박”…사우디-후티 공습 격화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004121055787"
+        }
+      },
+      {
+        "keyword": "남문철",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'범죄도시2' 故 남문철, 대장암 투병 끝 별세…향년 50세→벌써 돌아온 '5주기' [MHN:그날]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1tCkhRZvJh"
+        }
+      },
+      {
+        "keyword": "김상욱",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“무혐의 나오면 책임져야 할 것”···‘성매매 의혹’ 고발당한 김상욱, 경찰 출석",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610041053001"
+        }
+      },
+      {
+        "keyword": "원주 db 대 고양 소노",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[원주 현장] \"이런 적은 처음\" 이규섭 감독도 놀랐다... 원주 열기 미쳤다! DB 홈 개막전 5분 만에 매진 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/04/2026100413031478356"
         }
       }
     ]
