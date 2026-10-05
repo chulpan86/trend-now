@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-05T10:24:05.280254+09:00",
-  "label": "10:24",
+  "timestamp": "2026-10-05T16:55:07.179481+09:00",
+  "label": "16:55",
   "items": [
     {
-      "keyword": "브레이브스 대 다저스",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "kia 대 lg",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
       "news": {
-        "title": "스쿠벌 6이닝 1실점 다저스, NLDS 기선 제압…김하성 1볼넷",
+        "title": "LG 이러다 가을 최약체 전락하나, 2연패 전선 비상등… KIA-두산은 있는데 LG는 없다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261005011159395"
+      }
+    },
+    {
+      "keyword": "두산 대 삼성",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "[프로야구 대구전적] 두산 12-0 삼성",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261004006800007"
+        "url": "https://www.yna.co.kr/view/AKR20261001196659007"
       }
     },
     {
-      "keyword": "미운 우리 새끼",
+      "keyword": "키움 대 한화",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "[프로야구 대전전적] 키움 9-3 한화",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261001196660007"
+      }
+    },
+    {
+      "keyword": "티빙",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'조윤희와 이혼' 이동건, 결혼할 때 산 가구 그대로 사용 \"원래 내 거라...\"('미우새')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261004223959591"
+        "title": "걸핏하면 ‘회사 떠나라’던 오피스물… 이제 직장서 ‘나’를 찾는 주인공들 그려",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/k-culture/2026/10/05/FIAZ4VH53BHS5IXLUVQKBZQ4HA/"
       }
     },
     {
-      "keyword": "나는 solo",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'식탐' 지적받은 '나는 솔로' 33기 영수 \"부족한 모습…개선하도록 노력\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/celebrity-topic/6309937"
-      }
-    },
-    {
-      "keyword": "구속",
+      "keyword": "폭격기",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"범인은 현직 경찰\"…임용 전부터 이어온 '끔찍 범행'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261004203305565"
+        "title": "미 폭격기 12대 영국서 긴급 철수 \"극히 이례적 대피\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202610051213293463"
       }
     },
     {
-      "keyword": "교사",
+      "keyword": "한동훈",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "일본 교사 ‘긴 노동ㆍ낮은 보상’⋯만족도 추락하자 학자금까지 지원",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261004070103950"
+        "title": "[속보]한동훈 “노무현이 아니라 이용해 먹는 민주당 비판한 것”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11621344"
       }
     },
     {
-      "keyword": "임신",
+      "keyword": "개인종합자산관리계좌",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'이긴자로'였던 배성재 \"아내 김다영 관리 덕에 100kg→85kg 감량\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261004112945293"
+        "title": "이자·배당 비과세에 건보료 부담까지 줄인다… 은퇴자 새 절세 통장",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/10/05/JAK6XUTNMRC65MUN6ATHZHVXPM/"
       }
     },
     {
-      "keyword": "황재균",
+      "keyword": "서경환",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "서경환 대법관 자녀 김앤장 근무에…지난해 사건 35건 주심 변경",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261005070201309"
+      }
+    },
+    {
+      "keyword": "울산 현대모비스 대 부산 kcc",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“몸은 뜨겁게 머리는 차갑게”…선수들 스스로 깨어나길 강조한 양동근 감독 [SD 울산 브리핑]",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/sports/article/all/20261005/134786399/1"
+      }
+    },
+    {
+      "keyword": "매운탕",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'18㎏ 감량' 황재균, 긴 머리까지 자르고 환골탈태",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261004_0003813824"
-      }
-    },
-    {
-      "keyword": "김성근",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'불꽃야구 시즌2' 이대은 감기에 이대호 부상...연패 탈출 '위기'",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3712972"
-      }
-    },
-    {
-      "keyword": "김준현",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김준현, 다이어트 주사 경험 고백 \"저녁까지 배 안 고파\"",
+        "title": "\"어차피 한국인들이 먹는 거니까\"…일주일 된 생선 끓이며 '낄낄'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261004153247162"
-      }
-    },
-    {
-      "keyword": "lpga",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Nelly Korda attends Packers game as Jeeno Thitikul chases a win in Hawaii",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/nelly-korda-attends-packers-game-185331486.html"
+        "url": "https://v.daum.net/v/20261004191457750"
       }
     }
   ]

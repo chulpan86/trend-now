@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-10-04T01:51:59.685783+09:00",
-    "label": "01:51",
-    "items": [
-      {
-        "keyword": "내일 날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/p3ppxDqFyo"
-        }
-      },
-      {
-        "keyword": "인도 대 브라질",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "India vs Brazil: Friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm36lgnwx4zpt"
-        }
-      },
-      {
-        "keyword": "박서진",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'살림남' 박서진, 본선 직전 초비상...박효정에 \"너 필요없어\" 분노",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003110631208"
-        }
-      },
-      {
-        "keyword": "크로아티아 대 잉글랜드",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026100319453836161"
-        }
-      },
-      {
-        "keyword": "weather tomorrow",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Monsoon withdrawal advances Saturday: Rain expected in south, northeast",
-          "source": "India Today",
-          "url": "https://www.indiatoday.in/science/story/monsoon-retreat-india-october-weather-forecast-rain-storms-keralam-tamil-nadu-3008153-2026-10-02"
-        }
-      },
-      {
-        "keyword": "유재석",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "유재석, 명절에 한우 100여명 보낸다더니 \"주소 취합해 우체국 가서 붙이면 돼\" (핑계고)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003151513225"
-        }
-      },
-      {
-        "keyword": "미스터 서",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "14기 영자, 미스터 서와 파국 위기?…“실망했다” (나솔사계)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261003/134780035/1"
-        }
-      },
-      {
-        "keyword": "금융위기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“주담대 금리 7.28%, 숨쉴수가 없습니다”…매일 돈 삭제된다는 미국상황",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/yQEQjFgRTF"
-        }
-      },
-      {
-        "keyword": "이주승",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003113914727"
-        }
-      },
-      {
-        "keyword": "mbc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Swift Current, Sask., man charged with sexual assault as RCMP look for more victims",
-          "source": "CBC",
-          "url": "https://www.cbc.ca/news/canada/saskatoon/swift-current-rcmp-sexual-assault-snapchat-girls-aniken-edwards-9.7367734"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-04T04:35:50.224193+09:00",
-    "label": "04:35",
-    "items": [
-      {
-        "keyword": "내일 날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003214013432"
-        }
-      },
-      {
-        "keyword": "크로아티아 대 잉글랜드",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026100319453836161"
-        }
-      },
-      {
-        "keyword": "인도 대 브라질",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "India vs Brazil: Friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm36lgnwx4zpt"
-        }
-      },
-      {
-        "keyword": "박서진",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“응급 처치 해야 해”…박서진, ‘국중박 분장놀이’ 본선 당일 초비상 (살림남)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261003/134779888/1"
-        }
-      },
-      {
-        "keyword": "weather tomorrow",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Delhi to stay hot, mercury may touch 36°C; rain in several parts of India",
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/india-news/delhi-to-stay-hot-mercury-may-touch-36c-rain-in-several-parts-of-india-126100300127_1.html"
-        }
-      },
-      {
-        "keyword": "croatia vs england",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Croatia 0-7 England: Harry Kane and Bukayo Saka both score twice in Nations League win",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm046w9zdkrwt"
-        }
-      },
-      {
-        "keyword": "기안84",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"밥 해드리고 싶은데\" 기안84·톰 크루즈 어깨동무 투샷 떴다..이시언도 부러워 난리 [순간포착] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/03/MUZGEYJVGRTGMODEMNRWENRYMQ/"
-        }
-      },
-      {
-        "keyword": "금융위기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/int_economy/2026/10/02/HMTGJIKNRRH45FYXLFXDRIQ33A/"
-        }
-      },
-      {
-        "keyword": "이주승",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8sNRqJXSCk"
-        }
-      },
-      {
-        "keyword": "mbc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Swift Current, Sask., man charged with sexual assault as RCMP look for more victims",
-          "source": "CBC",
-          "url": "https://www.cbc.ca/news/canada/saskatoon/swift-current-rcmp-sexual-assault-snapchat-girls-aniken-edwards-9.7367734"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-04T07:32:10.295424+09:00",
     "label": "07:32",
     "items": [
@@ -949,6 +737,112 @@
           "title": "Nelly Korda attends Packers game as Jeeno Thitikul chases a win in Hawaii",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/articles/nelly-korda-attends-packers-game-185331486.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-05T16:55:07.179481+09:00",
+    "label": "16:55",
+    "items": [
+      {
+        "keyword": "kia 대 lg",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "LG 이러다 가을 최약체 전락하나, 2연패 전선 비상등… KIA-두산은 있는데 LG는 없다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005011159395"
+        }
+      },
+      {
+        "keyword": "두산 대 삼성",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[프로야구 대구전적] 두산 12-0 삼성",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261001196659007"
+        }
+      },
+      {
+        "keyword": "키움 대 한화",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[프로야구 대전전적] 키움 9-3 한화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261001196660007"
+        }
+      },
+      {
+        "keyword": "티빙",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "걸핏하면 ‘회사 떠나라’던 오피스물… 이제 직장서 ‘나’를 찾는 주인공들 그려",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/k-culture/2026/10/05/FIAZ4VH53BHS5IXLUVQKBZQ4HA/"
+        }
+      },
+      {
+        "keyword": "폭격기",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "미 폭격기 12대 영국서 긴급 철수 \"극히 이례적 대피\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610051213293463"
+        }
+      },
+      {
+        "keyword": "한동훈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보]한동훈 “노무현이 아니라 이용해 먹는 민주당 비판한 것”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11621344"
+        }
+      },
+      {
+        "keyword": "개인종합자산관리계좌",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이자·배당 비과세에 건보료 부담까지 줄인다… 은퇴자 새 절세 통장",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/05/JAK6XUTNMRC65MUN6ATHZHVXPM/"
+        }
+      },
+      {
+        "keyword": "서경환",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "서경환 대법관 자녀 김앤장 근무에…지난해 사건 35건 주심 변경",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005070201309"
+        }
+      },
+      {
+        "keyword": "울산 현대모비스 대 부산 kcc",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“몸은 뜨겁게 머리는 차갑게”…선수들 스스로 깨어나길 강조한 양동근 감독 [SD 울산 브리핑]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20261005/134786399/1"
+        }
+      },
+      {
+        "keyword": "매운탕",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"어차피 한국인들이 먹는 거니까\"…일주일 된 생선 끓이며 '낄낄'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261004191457750"
         }
       }
     ]
