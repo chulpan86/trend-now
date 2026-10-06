@@ -1,102 +1,102 @@
 {
-  "timestamp": "2026-10-06T11:44:45.124564+09:00",
-  "label": "11:44",
+  "timestamp": "2026-10-06T18:36:00.770835+09:00",
+  "label": "18:36",
   "items": [
     {
-      "keyword": "클로드",
+      "keyword": "코스피",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261006050146626"
+        "title": "코스피 다시 7,000선 아래로…코스닥은 3% 가까이 상승",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8678689"
       }
     },
     {
-      "keyword": "이자",
+      "keyword": "비상사태",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "은행보다 1~2%P 높다…‘5% 이자’ 증권사 특판 러시",
+        "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
         "source": "Daum",
-        "url": "https://v.daum.net/v/F9DQIau5vx"
+        "url": "https://v.daum.net/v/20261006093605841"
       }
     },
     {
-      "keyword": "성현주",
+      "keyword": "전원주",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "성현주, 8살 아들상 비보..\"천일간 의식 無→마지막 눈 직접 감겨줘\" 눈물[짠한형]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261005195211851"
-      }
-    },
-    {
-      "keyword": "조세",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "우리은행",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261004021100002"
-      }
-    },
-    {
-      "keyword": "엔화",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
+        "title": "'자산 40억' 전원주, 자식에 절반 증여…\"다 주면 효도 못 받아\" - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/finance/2026/10/04/2026092915563875663"
+        "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100614502975896"
       }
     },
     {
-      "keyword": "하나은행",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "사기",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "서울 달빛야장 소상공인에 687억 특별보증",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20261005/134789320/2"
+        "title": "전세사기 피해자, 정부가 '보증금 3분의 1' 보장‥다음 달부터 시행",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6856067_36932.html"
       }
     },
     {
-      "keyword": "송강",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "태양광 발전",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "송강 옆에서 '쩍벌'한 태국 배우…\"미안해, 다음엔 내 다리 쳐도 돼\"",
+        "title": "[단독] 李 “묵히는 밭에 태양광 깔자”는데… 농식품부 “태양광만 노린 형식적 영농 우려” - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/policy/policy_sub/2026/10/06/DOFTFRPUARBVREVID2WIYVV6KA/"
+      }
+    },
+    {
+      "keyword": "이서진",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"돈이 다야\" 주 40개 스케줄·섭외만 하루 100통…이서진, 인생 역전한 걸그룹에 조언 ('비서진')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261006022611075"
+        "url": "https://v.daum.net/v/20261005163113011"
       }
     },
     {
-      "keyword": "1박 2일",
+      "keyword": "흑상어",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘부캉이’는 무태상어 아닌 흑상어였다···“고등어·전갱이 잘 먹어”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610061621001"
+      }
+    },
+    {
+      "keyword": "위원장",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "경찰, 삼성전자 노조위원장 '장인 회사 계약 논란' 수사 착수",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6855993_36918.html"
+      }
+    },
+    {
+      "keyword": "엑스포츠뉴스",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "8세 日 아이돌 연습생, 무대 선 지 5일 만에…'독감 합병증' 사망 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/10/05/2026100510044671636"
+      }
+    },
+    {
+      "keyword": "두산그룹",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "'1박2일' 문세윤 거짓말 논란 일파만파..KBS 출연 정지·하차 요구 빗발 '웃음'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WhgPNn3GTN"
-      }
-    },
-    {
-      "keyword": "유승민",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "유승민 “162조 미래대응기금으로 현금 살포…반도체에서 번 돈으로 선거용 매표행위”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261005120645326?f=p"
-      }
+      "news": null
     }
   ]
 }

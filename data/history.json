@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-05T03:27:41.033507+09:00",
-    "label": "03:27",
-    "items": [
-      {
-        "keyword": "내일 날씨",
-        "traffic_raw": "100000+",
-        "traffic": 100000,
-        "news": {
-          "title": "[날씨] 연휴 마지막 날 오전까지 전국 비…돌풍·우박 가능성",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261004194704Sna"
-        }
-      },
-      {
-        "keyword": "넷플릭스",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "'화제성 88.3% 급상승→넷플릭스 1위'…글로벌 인기 쌍끌이 중인 韓 예능 ('기안장2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004180052410"
-        }
-      },
-      {
-        "keyword": "정년",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[단독] ‘소득공백’ 정년퇴직 공무원, 3년새 2배↑",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261004506958"
-        }
-      },
-      {
-        "keyword": "김희애",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘물광 아이콘’ 김희애, 세월의 흔적에 누리꾼 “주름도 우아해”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610041224003"
-        }
-      },
-      {
-        "keyword": "과즙세연",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261003164540798"
-        }
-      },
-      {
-        "keyword": "기능사",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“돈 되는 자격증 이것뿐” 前트럭기사가 찾은 ‘월 400 직장’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Kt4GQZgRvM"
-        }
-      },
-      {
-        "keyword": "허미미",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "할머니가 이어준 태극마크…허미미 재일동포 할머니들과 “대한민국”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004213505137"
-        }
-      },
-      {
-        "keyword": "thời tiết ngày mai",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Dự báo gió mạnh, sóng lớn và mưa dông trên biển trong ngày và đêm 5/10",
-          "source": "Đài Phát thanh và Truyền hình TP.HCM",
-          "url": "https://htv.vn/du-bao-gio-manh-song-lon-va-mua-dong-tren-bien-trong-ngay-va-dem-5-10-22226100410511709.htm"
-        }
-      },
-      {
-        "keyword": "김혜자",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "85세 김혜자, 65년 연기와 35년 나눔…‘죽지 마세요’에 담았다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/article/all/20261001/134765833/2?gid=134773457&srev=2&regdate=20261002"
-        }
-      },
-      {
-        "keyword": "이희진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“이희진과 100일” 임원희, 과감한 스킨십→마음 고백 (미우새)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004090143095"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-05T07:05:41.783403+09:00",
     "label": "07:05",
     "items": [
@@ -730,6 +624,108 @@
           "source": "Daum",
           "url": "https://v.daum.net/v/20261005120645326?f=p"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-06T18:36:00.770835+09:00",
+    "label": "18:36",
+    "items": [
+      {
+        "keyword": "코스피",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "코스피 다시 7,000선 아래로…코스닥은 3% 가까이 상승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678689"
+        }
+      },
+      {
+        "keyword": "비상사태",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006093605841"
+        }
+      },
+      {
+        "keyword": "전원주",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'자산 40억' 전원주, 자식에 절반 증여…\"다 주면 효도 못 받아\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100614502975896"
+        }
+      },
+      {
+        "keyword": "사기",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "전세사기 피해자, 정부가 '보증금 3분의 1' 보장‥다음 달부터 시행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6856067_36932.html"
+        }
+      },
+      {
+        "keyword": "태양광 발전",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] 李 “묵히는 밭에 태양광 깔자”는데… 농식품부 “태양광만 노린 형식적 영농 우려” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/06/DOFTFRPUARBVREVID2WIYVV6KA/"
+        }
+      },
+      {
+        "keyword": "이서진",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"돈이 다야\" 주 40개 스케줄·섭외만 하루 100통…이서진, 인생 역전한 걸그룹에 조언 ('비서진')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005163113011"
+        }
+      },
+      {
+        "keyword": "흑상어",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘부캉이’는 무태상어 아닌 흑상어였다···“고등어·전갱이 잘 먹어”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610061621001"
+        }
+      },
+      {
+        "keyword": "위원장",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "경찰, 삼성전자 노조위원장 '장인 회사 계약 논란' 수사 착수",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6855993_36918.html"
+        }
+      },
+      {
+        "keyword": "엑스포츠뉴스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "8세 日 아이돌 연습생, 무대 선 지 5일 만에…'독감 합병증' 사망 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/05/2026100510044671636"
+        }
+      },
+      {
+        "keyword": "두산그룹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
       }
     ]
   }
