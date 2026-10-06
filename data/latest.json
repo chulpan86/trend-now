@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-10-06T18:36:00.770835+09:00",
-  "label": "18:36",
+  "timestamp": "2026-10-07T01:23:29.147675+09:00",
+  "label": "01:23",
   "items": [
     {
-      "keyword": "코스피",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "코스피 다시 7,000선 아래로…코스닥은 3% 가까이 상승",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8678689"
-      }
-    },
-    {
-      "keyword": "비상사태",
+      "keyword": "장동윤",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261006093605841"
+        "title": "배우 이유진·차경은 결혼…\"첫눈에 반해 교제 5개월 만에\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261006064700005"
       }
     },
     {
-      "keyword": "전원주",
+      "keyword": "박지선",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "故박지선, 떠난 뒤 발견된 동기 20명 사진..\"서랍에 모두 간직해\"[짠한형]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261005201913210?f=m"
+      }
+    },
+    {
+      "keyword": "보이스 피싱",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'자산 40억' 전원주, 자식에 절반 증여…\"다 주면 효도 못 받아\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100614502975896"
+        "title": "보안 '사각지대' 뚫리자 속수무책‥올 초 인터넷은행들도 노렸다",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856118_37004.html"
       }
     },
     {
-      "keyword": "사기",
+      "keyword": "world space week 2026",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "전세사기 피해자, 정부가 '보증금 3분의 1' 보장‥다음 달부터 시행",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6856067_36932.html"
+        "title": "World Space Week: Which countries have sent people to space?",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space"
       }
     },
     {
-      "keyword": "태양광 발전",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "투수",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[단독] 李 “묵히는 밭에 태양광 깔자”는데… 농식품부 “태양광만 노린 형식적 영농 우려” - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/policy/policy_sub/2026/10/06/DOFTFRPUARBVREVID2WIYVV6KA/"
-      }
-    },
-    {
-      "keyword": "이서진",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"돈이 다야\" 주 40개 스케줄·섭외만 하루 100통…이서진, 인생 역전한 걸그룹에 조언 ('비서진')",
+        "title": "프로야구 KIA, 투수 이준혁·최승혁 등 육성선수 7명 영입",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261005163113011"
+        "url": "https://v.daum.net/v/20261006154257760"
       }
     },
     {
-      "keyword": "흑상어",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "전력",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "‘부캉이’는 무태상어 아닌 흑상어였다···“고등어·전갱이 잘 먹어”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610061621001"
+        "title": "AI 전력난에 기존 원전 영끌…구글, 전력 3.6GW 확보",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=07094646645610296"
       }
     },
     {
-      "keyword": "위원장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "경찰, 삼성전자 노조위원장 '장인 회사 계약 논란' 수사 착수",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6855993_36918.html"
-      }
-    },
-    {
-      "keyword": "엑스포츠뉴스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "8세 日 아이돌 연습생, 무대 선 지 5일 만에…'독감 합병증' 사망 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/world/2026/10/05/2026100510044671636"
-      }
-    },
-    {
-      "keyword": "두산그룹",
+      "keyword": "이정재",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
+      "news": {
+        "title": "이정재, 최근 부친상…“가족장으로 조용히 치러”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20261006/134792815/2"
+      }
+    },
+    {
+      "keyword": "남성진",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘김용림 손자·김지영 아들’ 배우 집안 비주얼 공개됐다…“연기자 꿈 꿔”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/ZnMfGN71rz"
+      }
+    },
+    {
+      "keyword": "어선",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"고등어 걸린 그물째 산더미처럼 쌓아\"…제주 어선전복 원인은",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261006153903560"
+      }
+    },
+    {
+      "keyword": "키드냅게임",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘키드냅 게임’ 인물관계도 공개",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261006000239242"
+      }
     }
   ]
 }
