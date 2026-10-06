@@ -1,102 +1,102 @@
 {
-  "timestamp": "2026-10-06T07:59:42.552633+09:00",
-  "label": "07:59",
+  "timestamp": "2026-10-06T11:44:45.124564+09:00",
+  "label": "11:44",
   "items": [
     {
-      "keyword": "중앙일보",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "클로드",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[핀포인트] [오리온] 미디어 팔아 식품 키운 오리온…중앙일보 M&A전 참전 배경은",
-        "source": "DealSite경제TV",
-        "url": "https://news.dealsitetv.com/articles/176393"
-      }
-    },
-    {
-      "keyword": "남편",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'결혼지옥' 이혼 7년차인데 한집살이..\"생활은 따로, 장사는 함께\"",
+        "title": "클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261005231411950"
+        "url": "https://v.daum.net/v/20261006050146626"
       }
     },
     {
-      "keyword": "생선",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "이자",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“썩은 생선 맛있대”…한국 손님 조롱 영상 발칵 [잇슈#태그]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8677941"
-      }
-    },
-    {
-      "keyword": "spcx",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "SpaceX Wins Starship Gamble, Despite DNA Clash With NASA",
-        "source": "Seoul Economic Daily",
-        "url": "https://en.sedaily.com/finance/2026/10/03/spacex-wins-starship-gamble-as-nasa-clash-deepens"
-      }
-    },
-    {
-      "keyword": "은행",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "AI 공격 시작됐는데…신한 15시간-KB 68시간 동안 몰랐다",
+        "title": "은행보다 1~2%P 높다…‘5% 이자’ 증권사 특판 러시",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261005172958367"
+        "url": "https://v.daum.net/v/F9DQIau5vx"
       }
     },
     {
-      "keyword": "청라하늘대교",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "성현주",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "청라하늘대교 통행량 1천만대 돌파…손실보상금 '눈덩이' 우려",
+        "title": "성현주, 8살 아들상 비보..\"천일간 의식 無→마지막 눈 직접 감겨줘\" 눈물[짠한형]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/BGOjYopXYk?f=p"
+        "url": "https://v.daum.net/v/20261005195211851"
       }
     },
     {
-      "keyword": "nvda",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[New York Stock Exchange] Nvidia Hits Record High for Second Day... Indices Close Higher Despite Rate Concerns (Comprehensive)",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/en/article/2026100606485404234"
-      }
-    },
-    {
-      "keyword": "강명구",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "강명구 의원, 경찰 과태료 절반 가까이 못 걷어…미수납 1조 원",
-        "source": "경북구미신문",
-        "url": "https://www.guminews.net/news/articleView.html?idxno=16941"
-      }
-    },
-    {
-      "keyword": "mu",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "SA analyst upgrades/downgrades: MU, NOW, SNDK, ACN",
-        "source": "TradingView",
-        "url": "https://www.tradingview.com/news/seekingalpha:12f2debf4094b:0-sa-analyst-upgrades-downgrades-mu-now-sndk-acn/"
-      }
-    },
-    {
-      "keyword": "금연",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "조세",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": null
+    },
+    {
+      "keyword": "우리은행",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261004021100002"
+      }
+    },
+    {
+      "keyword": "엔화",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/finance/2026/10/04/2026092915563875663"
+      }
+    },
+    {
+      "keyword": "하나은행",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "서울 달빛야장 소상공인에 687억 특별보증",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20261005/134789320/2"
+      }
+    },
+    {
+      "keyword": "송강",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "송강 옆에서 '쩍벌'한 태국 배우…\"미안해, 다음엔 내 다리 쳐도 돼\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261006022611075"
+      }
+    },
+    {
+      "keyword": "1박 2일",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'1박2일' 문세윤 거짓말 논란 일파만파..KBS 출연 정지·하차 요구 빗발 '웃음'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WhgPNn3GTN"
+      }
+    },
+    {
+      "keyword": "유승민",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "유승민 “162조 미래대응기금으로 현금 살포…반도체에서 번 돈으로 선거용 매표행위”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261005120645326?f=p"
+      }
     }
   ]
 }

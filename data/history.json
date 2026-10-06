@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-04T23:37:53.134309+09:00",
-    "label": "23:37",
-    "items": [
-      {
-        "keyword": "내일 날씨",
-        "traffic_raw": "100000+",
-        "traffic": 100000,
-        "news": {
-          "title": "[날씨] 연휴 둘째 날 가을비…내일 낮부터 찬바람",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261004160848nX0"
-        }
-      },
-      {
-        "keyword": "넷플릭스",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "'화제성 88.3% 급상승→넷플릭스 1위'…글로벌 인기 쌍끌이 중인 韓 예능 ('기안장2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004180052410"
-        }
-      },
-      {
-        "keyword": "김희애",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "59세 김희애, 자연스러운 주름 공개 속 여전한 미모 과시",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261004/134781753/1"
-        }
-      },
-      {
-        "keyword": "기능사",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“돈 되는 자격증 이것뿐” 前트럭기사가 찾은 ‘월 400 직장’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Kt4GQZgRvM"
-        }
-      },
-      {
-        "keyword": "정년",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[fn이사람] \"50대에 정년 걱정 덜어주니… 고난도 연구 온전히 집중\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zkIGCyx2Nc?f=p"
-        }
-      },
-      {
-        "keyword": "과즙세연",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'마약 혐의' 과즙세연, 하루 만에 돈방석 앉았다..엑셀 방송 '1억' 잭팟 [Oh!쎈 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8XrFCkb0TD"
-        }
-      },
-      {
-        "keyword": "허미미",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YGAWKbrNUB"
-        }
-      },
-      {
-        "keyword": "thời tiết ngày mai",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Thời tiết tuần 5/10 – 11/10: Không khí lạnh tràn về, nhiều khu vực mưa lớn",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/thoi-tiet-tuan-5-10-11-10-khong-khi-lanh-tran-ve-nhieu-khu-vuc-mua-lon"
-        }
-      },
-      {
-        "keyword": "머스캣",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004071059165"
-        }
-      },
-      {
-        "keyword": "이희진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“이희진과 100일” 임원희, 과감한 스킨십→마음 고백 (미우새)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5Vblb3cnUQ"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-05T03:27:41.033507+09:00",
     "label": "03:27",
     "items": [
@@ -734,6 +628,108 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-06T11:44:45.124564+09:00",
+    "label": "11:44",
+    "items": [
+      {
+        "keyword": "클로드",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006050146626"
+        }
+      },
+      {
+        "keyword": "이자",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "은행보다 1~2%P 높다…‘5% 이자’ 증권사 특판 러시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/F9DQIau5vx"
+        }
+      },
+      {
+        "keyword": "성현주",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "성현주, 8살 아들상 비보..\"천일간 의식 無→마지막 눈 직접 감겨줘\" 눈물[짠한형]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005195211851"
+        }
+      },
+      {
+        "keyword": "조세",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "우리은행",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261004021100002"
+        }
+      },
+      {
+        "keyword": "엔화",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/10/04/2026092915563875663"
+        }
+      },
+      {
+        "keyword": "하나은행",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "서울 달빛야장 소상공인에 687억 특별보증",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261005/134789320/2"
+        }
+      },
+      {
+        "keyword": "송강",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "송강 옆에서 '쩍벌'한 태국 배우…\"미안해, 다음엔 내 다리 쳐도 돼\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006022611075"
+        }
+      },
+      {
+        "keyword": "1박 2일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'1박2일' 문세윤 거짓말 논란 일파만파..KBS 출연 정지·하차 요구 빗발 '웃음'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WhgPNn3GTN"
+        }
+      },
+      {
+        "keyword": "유승민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "유승민 “162조 미래대응기금으로 현금 살포…반도체에서 번 돈으로 선거용 매표행위”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005120645326?f=p"
+        }
       }
     ]
   }
