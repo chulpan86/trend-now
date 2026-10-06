@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-05T16:55:07.179481+09:00",
-    "label": "16:55",
-    "items": [
-      {
-        "keyword": "kia 대 lg",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "LG 이러다 가을 최약체 전락하나, 2연패 전선 비상등… KIA-두산은 있는데 LG는 없다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005011159395"
-        }
-      },
-      {
-        "keyword": "두산 대 삼성",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[프로야구 대구전적] 두산 12-0 삼성",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261001196659007"
-        }
-      },
-      {
-        "keyword": "키움 대 한화",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "[프로야구 대전전적] 키움 9-3 한화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261001196660007"
-        }
-      },
-      {
-        "keyword": "티빙",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "걸핏하면 ‘회사 떠나라’던 오피스물… 이제 직장서 ‘나’를 찾는 주인공들 그려",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/k-culture/2026/10/05/FIAZ4VH53BHS5IXLUVQKBZQ4HA/"
-        }
-      },
-      {
-        "keyword": "폭격기",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "미 폭격기 12대 영국서 긴급 철수 \"극히 이례적 대피\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610051213293463"
-        }
-      },
-      {
-        "keyword": "한동훈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보]한동훈 “노무현이 아니라 이용해 먹는 민주당 비판한 것”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11621344"
-        }
-      },
-      {
-        "keyword": "개인종합자산관리계좌",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "이자·배당 비과세에 건보료 부담까지 줄인다… 은퇴자 새 절세 통장",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/05/JAK6XUTNMRC65MUN6ATHZHVXPM/"
-        }
-      },
-      {
-        "keyword": "서경환",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "서경환 대법관 자녀 김앤장 근무에…지난해 사건 35건 주심 변경",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005070201309"
-        }
-      },
-      {
-        "keyword": "울산 현대모비스 대 부산 kcc",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“몸은 뜨겁게 머리는 차갑게”…선수들 스스로 깨어나길 강조한 양동근 감독 [SD 울산 브리핑]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261005/134786399/1"
-        }
-      },
-      {
-        "keyword": "매운탕",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"어차피 한국인들이 먹는 거니까\"…일주일 된 생선 끓이며 '낄낄'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261004191457750"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-06T01:36:12.321089+09:00",
     "label": "01:36",
     "items": [
@@ -619,6 +513,112 @@
           "title": "‘키드냅 게임’ 인물관계도 공개",
           "source": "Daum",
           "url": "https://v.daum.net/v/20261006000239242"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-07T06:23:01.851214+09:00",
+    "label": "06:23",
+    "items": [
+      {
+        "keyword": "퇴직",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "믿었던 채권에 발등…퇴직연금 TDF 열에 아홉 '마이너스'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610066021i"
+        }
+      },
+      {
+        "keyword": "도경완",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[방송소식] 도경완, KBS 퇴사 5년 8개월 만에 '편스토랑' 출연",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261006126100005"
+        }
+      },
+      {
+        "keyword": "영탁",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "영탁, 독보적인 콘서트 선물상자…3일간 특별한 ‘영블스데이’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006225011978"
+        }
+      },
+      {
+        "keyword": "진주남강유등축제",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "가을밤 물들이는 7만개 빛…진주 '남강유등축제'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006161501464"
+        }
+      },
+      {
+        "keyword": "england vs czechia",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "England vs Czech Republic LIVE: Nations League score, team news, commentary, updates & stats",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm0qxqyp35jyt"
+        }
+      },
+      {
+        "keyword": "강훈식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[정치 인사이드] 청와대 비서실장 인선 3대 조건…‘3선·원외·관리형’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/policy/politics/2026/10/06/HOIF7PZKR5CS5P75V73N7NQ4B4/"
+        }
+      },
+      {
+        "keyword": "스페이스x",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "스페이스X 주가 폭등에…머스크, 석달만에 '조만장자' 복귀",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1EuWt4TsH1"
+        }
+      },
+      {
+        "keyword": "베트남 축구 국가대표팀",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "'김상식호' 베트남, 동남아 정상 수성 뒤 '흔들'... 말레이전 패배에 여론도 '냉랭'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006100646613"
+        }
+      },
+      {
+        "keyword": "lg이노텍",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "누리호 타고 우주 간다…주가 12% 치솟은 이 종목",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610065633i"
+        }
+      },
+      {
+        "keyword": "พยากรณ์อากาศ",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "⚠️ คำเตือน | อัปเดตประกาศ ฉ.11 วันที่ 6 ต.ค. 69 เวลา 17.00 น. ไทยตอนบนยังมีอากาศแปรปรวน ฝนฟ้าคะนอง ลมกระโชกแรง ลูกเห็บ และฝนหนักถึงหนักมาก รอบนี้มีพื้นที่ฝนสีส้มในภาคใต้ เพิ่มขึ้นมาให้จับตาเป็นพิเศษ 🔴 ฝนหนักมาก: สุราษฎร์ธานี นครศรีธรรมราช 🟡 ฝนหนัก แม่ฮ่องสอน เชียงใ",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%EF%B8%8F-%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99-%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8-%E0%B8%8911-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-6-%E0%B8%95%E0%B8%84-69-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1700-%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%A7%E0%B8%99-%E0%B8%9D/1570755238429939/"
         }
       }
     ]

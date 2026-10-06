@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-07T01:23:29.147675+09:00",
-  "label": "01:23",
+  "timestamp": "2026-10-07T06:23:01.851214+09:00",
+  "label": "06:23",
   "items": [
     {
-      "keyword": "장동윤",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "퇴직",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "배우 이유진·차경은 결혼…\"첫눈에 반해 교제 5개월 만에\"",
+        "title": "믿었던 채권에 발등…퇴직연금 TDF 열에 아홉 '마이너스'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610066021i"
+      }
+    },
+    {
+      "keyword": "도경완",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[방송소식] 도경완, KBS 퇴사 5년 8개월 만에 '편스토랑' 출연",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261006064700005"
+        "url": "https://www.yna.co.kr/view/AKR20261006126100005"
       }
     },
     {
-      "keyword": "박지선",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "故박지선, 떠난 뒤 발견된 동기 20명 사진..\"서랍에 모두 간직해\"[짠한형]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261005201913210?f=m"
-      }
-    },
-    {
-      "keyword": "보이스 피싱",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "보안 '사각지대' 뚫리자 속수무책‥올 초 인터넷은행들도 노렸다",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856118_37004.html"
-      }
-    },
-    {
-      "keyword": "world space week 2026",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "World Space Week: Which countries have sent people to space?",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space"
-      }
-    },
-    {
-      "keyword": "투수",
+      "keyword": "영탁",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "프로야구 KIA, 투수 이준혁·최승혁 등 육성선수 7명 영입",
+        "title": "영탁, 독보적인 콘서트 선물상자…3일간 특별한 ‘영블스데이’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261006154257760"
+        "url": "https://v.daum.net/v/20261006225011978"
       }
     },
     {
-      "keyword": "전력",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "AI 전력난에 기존 원전 영끌…구글, 전력 3.6GW 확보",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=07094646645610296"
-      }
-    },
-    {
-      "keyword": "이정재",
+      "keyword": "진주남강유등축제",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이정재, 최근 부친상…“가족장으로 조용히 치러”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20261006/134792815/2"
+        "title": "가을밤 물들이는 7만개 빛…진주 '남강유등축제'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261006161501464"
       }
     },
     {
-      "keyword": "남성진",
+      "keyword": "england vs czechia",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘김용림 손자·김지영 아들’ 배우 집안 비주얼 공개됐다…“연기자 꿈 꿔”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZnMfGN71rz"
+        "title": "England vs Czech Republic LIVE: Nations League score, team news, commentary, updates & stats",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cm0qxqyp35jyt"
       }
     },
     {
-      "keyword": "어선",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "강훈식",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "\"고등어 걸린 그물째 산더미처럼 쌓아\"…제주 어선전복 원인은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261006153903560"
+        "title": "[정치 인사이드] 청와대 비서실장 인선 3대 조건…‘3선·원외·관리형’ - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/policy/politics/2026/10/06/HOIF7PZKR5CS5P75V73N7NQ4B4/"
       }
     },
     {
-      "keyword": "키드냅게임",
+      "keyword": "스페이스x",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘키드냅 게임’ 인물관계도 공개",
+        "title": "스페이스X 주가 폭등에…머스크, 석달만에 '조만장자' 복귀",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261006000239242"
+        "url": "https://v.daum.net/v/1EuWt4TsH1"
+      }
+    },
+    {
+      "keyword": "베트남 축구 국가대표팀",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'김상식호' 베트남, 동남아 정상 수성 뒤 '흔들'... 말레이전 패배에 여론도 '냉랭'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261006100646613"
+      }
+    },
+    {
+      "keyword": "lg이노텍",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "누리호 타고 우주 간다…주가 12% 치솟은 이 종목",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610065633i"
+      }
+    },
+    {
+      "keyword": "พยากรณ์อากาศ",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "⚠️ คำเตือน | อัปเดตประกาศ ฉ.11 วันที่ 6 ต.ค. 69 เวลา 17.00 น. ไทยตอนบนยังมีอากาศแปรปรวน ฝนฟ้าคะนอง ลมกระโชกแรง ลูกเห็บ และฝนหนักถึงหนักมาก รอบนี้มีพื้นที่ฝนสีส้มในภาคใต้ เพิ่มขึ้นมาให้จับตาเป็นพิเศษ 🔴 ฝนหนักมาก: สุราษฎร์ธานี นครศรีธรรมราช 🟡 ฝนหนัก แม่ฮ่องสอน เชียงใ",
+        "source": "Facebook",
+        "url": "https://www.facebook.com/tmd.go.th/posts/%EF%B8%8F-%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99-%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8-%E0%B8%8911-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-6-%E0%B8%95%E0%B8%84-69-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1700-%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%A7%E0%B8%99-%E0%B8%9D/1570755238429939/"
       }
     }
   ]
