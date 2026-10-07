@@ -622,5 +622,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-07T10:07:41.020361+09:00",
+    "label": "10:07",
+    "items": [
+      {
+        "keyword": "김혜자",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "85세 김혜자, 부축·기침...걱정스러운 레드카펫 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/07/2026100708112250424"
+        }
+      },
+      {
+        "keyword": "논쟁",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"군대 안 간다\" '삐딱' 전역모‥병역특례 개선안 초읽기",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6856159_36989.html"
+        }
+      },
+      {
+        "keyword": "연차",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "유니포스트, '1시간 단위 연차 시대의 HR 리스크와 대응 전략' e북 발간…노무 리스크 분석·업종별 해결 사례 수록",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261007000017"
+        }
+      },
+      {
+        "keyword": "백종원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"입만 열면 말실수\" 논란 자초 스타, 2위 백종원·3위 전현무…1위는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261007053150951"
+        }
+      },
+      {
+        "keyword": "롤 패치 노트",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "리그 오브 레전드 26.20 패치 노트",
+          "source": "League of Legends",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-20-notes/"
+        }
+      },
+      {
+        "keyword": "부산은행",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "BNK부산은행, 신보와 지역 문화콘텐츠기업에 100억원 보증 지원",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006150314659"
+        }
+      },
+      {
+        "keyword": "미래에셋증권",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"미래에셋증권, 스페이스X 평가손실로 3분기 적자전환 불가피\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438011"
+        }
+      },
+      {
+        "keyword": "코리아 드라마 어워즈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'사랑이 온다' 류승수·박유나, 부녀에서 MC로…하도권과 '코리아드라마어워즈' 이끈다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006174315662"
+        }
+      },
+      {
+        "keyword": "소방",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "울산소방 차경근 소방령, 봄철 산불 방지 국무총리 표창",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261007090456248"
+        }
+      },
+      {
+        "keyword": "키움증권",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "키움증권, 연말 절세 시즌 맞이 중개형 ISA 이벤트 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/07/2026100709054862495"
+        }
+      }
+    ]
   }
 ]
