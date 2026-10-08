@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-10-06T18:36:00.770835+09:00",
-    "label": "18:36",
-    "items": [
-      {
-        "keyword": "코스피",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "코스피 다시 7,000선 아래로…코스닥은 3% 가까이 상승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678689"
-        }
-      },
-      {
-        "keyword": "비상사태",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261006093605841"
-        }
-      },
-      {
-        "keyword": "전원주",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'자산 40억' 전원주, 자식에 절반 증여…\"다 주면 효도 못 받아\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100614502975896"
-        }
-      },
-      {
-        "keyword": "사기",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "전세사기 피해자, 정부가 '보증금 3분의 1' 보장‥다음 달부터 시행",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6856067_36932.html"
-        }
-      },
-      {
-        "keyword": "태양광 발전",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 李 “묵히는 밭에 태양광 깔자”는데… 농식품부 “태양광만 노린 형식적 영농 우려” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/10/06/DOFTFRPUARBVREVID2WIYVV6KA/"
-        }
-      },
-      {
-        "keyword": "이서진",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"돈이 다야\" 주 40개 스케줄·섭외만 하루 100통…이서진, 인생 역전한 걸그룹에 조언 ('비서진')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005163113011"
-        }
-      },
-      {
-        "keyword": "흑상어",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘부캉이’는 무태상어 아닌 흑상어였다···“고등어·전갱이 잘 먹어”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610061621001"
-        }
-      },
-      {
-        "keyword": "위원장",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "경찰, 삼성전자 노조위원장 '장인 회사 계약 논란' 수사 착수",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6855993_36918.html"
-        }
-      },
-      {
-        "keyword": "엑스포츠뉴스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "8세 日 아이돌 연습생, 무대 선 지 5일 만에…'독감 합병증' 사망 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/05/2026100510044671636"
-        }
-      },
-      {
-        "keyword": "두산그룹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-07T01:23:29.147675+09:00",
     "label": "01:23",
     "items": [
@@ -733,6 +631,112 @@
           "title": "'환승연애4' 박지현-정원규 결별 \"만남이 있으면 이별이 있어\"",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/520493"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-08T09:34:03.895192+09:00",
+    "label": "09:34",
+    "items": [
+      {
+        "keyword": "삼성전자 실적",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6856509_36932.html"
+        }
+      },
+      {
+        "keyword": "성심당",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=795750"
+        }
+      },
+      {
+        "keyword": "10 월 9 일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국군의 날과 개천절의 연원을 아시나요?",
+          "source": "OhmyNews",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272575"
+        }
+      },
+      {
+        "keyword": "최순실",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "5년 넘게 회수 못한 최서원 병원비 3천900만원…15일 선고",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610080811446857_005.html"
+        }
+      },
+      {
+        "keyword": "트로트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "트로트 가수 김다현, 조부모 사랑담은 '광양에서 만난 사랑' 발표",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6312986"
+        }
+      },
+      {
+        "keyword": "한글날",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이디야커피, 한글날 제정 100주년 기념 고객 참여형 캠페인",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261008035000030"
+        }
+      },
+      {
+        "keyword": "임윤찬",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "임윤찬, 영국 그라모폰 어워즈 수상 불발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261008004700085"
+        }
+      },
+      {
+        "keyword": "금양",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261007173900002"
+        }
+      },
+      {
+        "keyword": "에페",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "돌아온 신약, 끝내 살아남았다… 한미약품 에페가 견딘 침묵의 시간",
+          "source": "히트뉴스",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79739"
+        }
+      },
+      {
+        "keyword": "전북경찰청",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "금융권 해킹에 보이스피싱 우려 커지는데…'무과실 배상책임제' 도입은 언제?",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261007_0003817799"
         }
       }
     ]
