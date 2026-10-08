@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-07T16:55:16.090111+09:00",
-    "label": "16:55",
-    "items": [
-      {
-        "keyword": "장 이머우",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "中 영화 거장, '암살자(들)' 논란에…\"사실에 기반하지 않는 창작도 있어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261007110313936"
-        }
-      },
-      {
-        "keyword": "윤석열 무죄",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "윤석열 ‘명태균 여론조사’ 2심 무죄…1심 징역형 뒤집혔다",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1281280.html"
-        }
-      },
-      {
-        "keyword": "대한민국 국세청",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'선박왕' 권혁 회장, 15년 만에 '체납액' 4천억 원 완납하기로",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6856293_36918.html"
-        }
-      },
-      {
-        "keyword": "폴더블 스마트폰",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "고윤정, 광고모델도 아닌데 갈아탔다…손에 든 '이것' 뭐길래 [테크로그]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610078190g"
-        }
-      },
-      {
-        "keyword": "쓰레기 봉투",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“미화원 허리 나갈 듯“…테이프로 칭칭 묶은 ’3단 쓰레기봉투’",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261006112529CEY"
-        }
-      },
-      {
-        "keyword": "역사 왜곡",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "최교진, 암살자(들) 단체관람에 \"교육부가 일일이 간섭하긴 한계\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261007153847703"
-        }
-      },
-      {
-        "keyword": "수도권전철",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "태그 한 번에 수도권 전철 무료 이용…충북 시니어패스 출시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261007112811634"
-        }
-      },
-      {
-        "keyword": "줍줍",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'10억 로또' 강변역 아이파크 '줍줍' 1가구에 6.7만명 몰렸다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6312054"
-        }
-      },
-      {
-        "keyword": "골 때리는 그녀들",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "GIFA컵 시작됐다‥이현이도 깜짝 “지금까지 우승 베네핏 중 최고”(골때녀)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202610061552201910"
-        }
-      },
-      {
-        "keyword": "콜롬비아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Colombia shares higher at close of trade; COLCAP up 0.25% By Investing.com",
-          "source": "Investing.com UK",
-          "url": "https://uk.investing.com/news/stock-market-news/colombia-shares-higher-at-close-of-trade-colcap-up-025-4898105"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-07T23:54:18.071217+09:00",
     "label": "23:54",
     "items": [
@@ -628,6 +522,108 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-09T05:21:00.912429+09:00",
+    "label": "05:21",
+    "items": [
+      {
+        "keyword": "쿠팡",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "쿠팡·쿠팡이츠·라이더 앱 접속 오류…쿠팡 \"원인 파악 중\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261009014240gb5"
+        }
+      },
+      {
+        "keyword": "고석정 꽃밭",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "철원군, 고석정 꽃밭서 '2026 철원쌀 밥맛 평가회' 개최",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261008174000062"
+        }
+      },
+      {
+        "keyword": "마이클 버리",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438387"
+        }
+      },
+      {
+        "keyword": "병목",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "학교 급식 안전의 병목 현상 제거.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/thao-go-diem-nghen-an-toan-thuc-pham-hoc-duong"
+        }
+      },
+      {
+        "keyword": "식중독",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "축제장 김밥 사 먹고 복통‥집단 식중독",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856671_37004.html"
+        }
+      },
+      {
+        "keyword": "ps",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware",
+          "source": "Road to VR",
+          "url": "https://roadtovr.com/sony-sells-xr-headset-patents-meta/"
+        }
+      },
+      {
+        "keyword": "채널a",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "로맥",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KBO 레전드들 '승리 징크스'는?…\"29일간 짜장면만 먹어\" (어서와)",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/520359"
+        }
+      },
+      {
+        "keyword": "아리엘 후라도",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "프로야구 삼성, 신인 선수 계약 완료…김민훈 계약금 2억5천만원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261008119700007"
+        }
+      },
+      {
+        "keyword": "수면제",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"매일 6~8알 먹었더니 통잠 자\"…백지연, '천연수면제' 극찬한 '이것' [헬스톡]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610070901105472"
+        }
       }
     ]
   }
