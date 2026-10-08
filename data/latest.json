@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-08T09:34:03.895192+09:00",
-  "label": "09:34",
+  "timestamp": "2026-10-08T15:49:04.341622+09:00",
+  "label": "15:49",
   "items": [
     {
-      "keyword": "삼성전자 실적",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "육아",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
+        "title": "“육아휴직? 신청서 내면 찢어 버리겠다”…일, 직장인 아빠 괴롭히는 ‘파타하라’",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/international/international_general/1281493.html"
+      }
+    },
+    {
+      "keyword": "중국",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "금융권 해커 단서 포착‥\"中 광둥성 26세 추정\"",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6856509_36932.html"
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6856559_36967.html"
       }
     },
     {
-      "keyword": "성심당",
+      "keyword": "피싱",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "이억원 \"보이스피싱 무과실배상 도입 고민…금융·통신사 책임 강화\"",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438370"
+      }
+    },
+    {
+      "keyword": "t.o.p",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
-        "source": "일간투데이",
-        "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=795750"
+        "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska"
       }
     },
     {
-      "keyword": "10 월 9 일",
+      "keyword": "전투기",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "국군의 날과 개천절의 연원을 아시나요?",
-        "source": "OhmyNews",
-        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272575"
+        "title": "120만원짜리 전투기 위조 부품 ‘1억 정품’ 둔갑···공군 정비대금 128억 가로챈 일당 기소",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610081216011"
       }
     },
     {
-      "keyword": "최순실",
+      "keyword": "도쿄도",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "도쿄도 밀어낸 ‘여행하기 좋은 세계 최고 대도시’ 1위 정체는 서울···“서로 다른 매력 누릴 수 있는 곳”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610080923001"
+      }
+    },
+    {
+      "keyword": "압구정동",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"20억은 부담\" 싼 집 찾았더니…서울 아파트도 '상향 키맞추기' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/estate/2026/10/08/2026100722530251867"
+      }
+    },
+    {
+      "keyword": "김영옥",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "5년 넘게 회수 못한 최서원 병원비 3천900만원…15일 선고",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610080811446857_005.html"
+        "title": "김영옥, 며느리 제사 음식 준비 만류 “고급 인력인데…”",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12171125"
       }
     },
     {
-      "keyword": "트로트",
+      "keyword": "김선영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "트로트 가수 김다현, 조부모 사랑담은 '광양에서 만난 사랑' 발표",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/gwangju-jeonnam/6312986"
+        "title": "배우 김선영, 지난 4일 부친상…슬픔 속 장례 엄수",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202610071601013"
       }
     },
     {
-      "keyword": "한글날",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "이디야커피, 한글날 제정 100주년 기념 고객 참여형 캠페인",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261008035000030"
-      }
-    },
-    {
-      "keyword": "임윤찬",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "임윤찬, 영국 그라모폰 어워즈 수상 불발",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261008004700085"
-      }
-    },
-    {
-      "keyword": "금양",
+      "keyword": "1기 신도시",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261007173900002"
-      }
-    },
-    {
-      "keyword": "에페",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "돌아온 신약, 끝내 살아남았다… 한미약품 에페가 견딘 침묵의 시간",
-        "source": "히트뉴스",
-        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79739"
-      }
-    },
-    {
-      "keyword": "전북경찰청",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "금융권 해킹에 보이스피싱 우려 커지는데…'무과실 배상책임제' 도입은 언제?",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261007_0003817799"
+        "title": "1기 신도시 중동 정비사업 가시화…부천시, 5개 마을 특별정비 궤도 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/policy/2026/10/07/2026100710283512891"
       }
     }
   ]

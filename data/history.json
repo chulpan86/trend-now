@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-07T01:23:29.147675+09:00",
-    "label": "01:23",
-    "items": [
-      {
-        "keyword": "장동윤",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "배우 이유진·차경은 결혼…\"첫눈에 반해 교제 5개월 만에\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261006064700005"
-        }
-      },
-      {
-        "keyword": "박지선",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "故박지선, 떠난 뒤 발견된 동기 20명 사진..\"서랍에 모두 간직해\"[짠한형]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005201913210?f=m"
-        }
-      },
-      {
-        "keyword": "보이스 피싱",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "보안 '사각지대' 뚫리자 속수무책‥올 초 인터넷은행들도 노렸다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856118_37004.html"
-        }
-      },
-      {
-        "keyword": "world space week 2026",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "World Space Week: Which countries have sent people to space?",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space"
-        }
-      },
-      {
-        "keyword": "투수",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "프로야구 KIA, 투수 이준혁·최승혁 등 육성선수 7명 영입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261006154257760"
-        }
-      },
-      {
-        "keyword": "전력",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "AI 전력난에 기존 원전 영끌…구글, 전력 3.6GW 확보",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=07094646645610296"
-        }
-      },
-      {
-        "keyword": "이정재",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이정재, 최근 부친상…“가족장으로 조용히 치러”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261006/134792815/2"
-        }
-      },
-      {
-        "keyword": "남성진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘김용림 손자·김지영 아들’ 배우 집안 비주얼 공개됐다…“연기자 꿈 꿔”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ZnMfGN71rz"
-        }
-      },
-      {
-        "keyword": "어선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"고등어 걸린 그물째 산더미처럼 쌓아\"…제주 어선전복 원인은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261006153903560"
-        }
-      },
-      {
-        "keyword": "키드냅게임",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘키드냅 게임’ 인물관계도 공개",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261006000239242"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-07T06:23:01.851214+09:00",
     "label": "06:23",
     "items": [
@@ -737,6 +631,112 @@
           "title": "금융권 해킹에 보이스피싱 우려 커지는데…'무과실 배상책임제' 도입은 언제?",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20261007_0003817799"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-08T15:49:04.341622+09:00",
+    "label": "15:49",
+    "items": [
+      {
+        "keyword": "육아",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“육아휴직? 신청서 내면 찢어 버리겠다”…일, 직장인 아빠 괴롭히는 ‘파타하라’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1281493.html"
+        }
+      },
+      {
+        "keyword": "중국",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "금융권 해커 단서 포착‥\"中 광둥성 26세 추정\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6856559_36967.html"
+        }
+      },
+      {
+        "keyword": "피싱",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "이억원 \"보이스피싱 무과실배상 도입 고민…금융·통신사 책임 강화\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438370"
+        }
+      },
+      {
+        "keyword": "t.o.p",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska"
+        }
+      },
+      {
+        "keyword": "전투기",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "120만원짜리 전투기 위조 부품 ‘1억 정품’ 둔갑···공군 정비대금 128억 가로챈 일당 기소",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610081216011"
+        }
+      },
+      {
+        "keyword": "도쿄도",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "도쿄도 밀어낸 ‘여행하기 좋은 세계 최고 대도시’ 1위 정체는 서울···“서로 다른 매력 누릴 수 있는 곳”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610080923001"
+        }
+      },
+      {
+        "keyword": "압구정동",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"20억은 부담\" 싼 집 찾았더니…서울 아파트도 '상향 키맞추기' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/08/2026100722530251867"
+        }
+      },
+      {
+        "keyword": "김영옥",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김영옥, 며느리 제사 음식 준비 만류 “고급 인력인데…”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12171125"
+        }
+      },
+      {
+        "keyword": "김선영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "배우 김선영, 지난 4일 부친상…슬픔 속 장례 엄수",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610071601013"
+        }
+      },
+      {
+        "keyword": "1기 신도시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "1기 신도시 중동 정비사업 가시화…부천시, 5개 마을 특별정비 궤도 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/10/07/2026100710283512891"
         }
       }
     ]
