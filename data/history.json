@@ -614,5 +614,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-10T08:41:42.000802+09:00",
+    "label": "08:41",
+    "items": [
+      {
+        "keyword": "축구",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "대충격 '은퇴 소동' 아시아 올스타에 3명이나 있는데…태극마크 볼모로 거래, 몇 년째 하나로 뭉치지 못한다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012213"
+        }
+      },
+      {
+        "keyword": "아침",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "아침에 마시면 건강?…속았다, 달콤한 살인마",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/visual-news/article/2026100715525660149"
+        }
+      },
+      {
+        "keyword": "대한민국 축구 국가대표팀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘모레노호 2승 1무 1패’ 한국 축구, FIFA 랭킹 32위 그대로",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8680926"
+        }
+      },
+      {
+        "keyword": "황정음",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'30㎏ 감량' 황정음 \"드라마 때문에 미친 듯이 살 뺐는데…'훈남정음' 잘 안돼\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6314880"
+        }
+      },
+      {
+        "keyword": "한혜연",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘20kg 감량’ 한혜연, 과감한 레깅스 패션..납작배 뽐내며 “연휴 시작” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/09/MIZTGZBQHBRWKZDCMQ2WEOJWHE/"
+        }
+      },
+      {
+        "keyword": "노윤서",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'산지직송3' 노윤서, 모두가 뺏고 싶어할 다 잘하는 '황금 막내' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/09/2026100907007296379"
+        }
+      },
+      {
+        "keyword": "홍혜걸",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "여에스더, 홍혜걸 '암살자들' 저격 후폭풍에 분노 \"회사 안 해야겠다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261009_0003820338"
+        }
+      },
+      {
+        "keyword": "조선민주주의인민공화국",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“지뢰 사과하라” 면전에서 요구하자, 北대사 “정동영도…”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261009/134815008/1"
+        }
+      },
+      {
+        "keyword": "다우 존스 산업평균지수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "유가·금리 상승에도 기술주 실적 기대감…증시 반등[뉴욕마감] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/10/2026101008054812965"
+        }
+      },
+      {
+        "keyword": "포스코",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한국형 녹색대전환 본격 추진… “국가경쟁력 키우는 확실한 전략”",
+          "source": "K-공감",
+          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10201000000&section_id=NCCD_POLICY&news_id=beba9431-603f-4410-9a56-08a3b6519bbe"
+        }
+      }
+    ]
   }
 ]
