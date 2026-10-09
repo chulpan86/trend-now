@@ -1,25 +1,35 @@
 {
-  "timestamp": "2026-10-09T23:06:28.461144+09:00",
-  "label": "23:06",
+  "timestamp": "2026-10-10T04:53:52.039661+09:00",
+  "label": "04:53",
   "items": [
     {
-      "keyword": "주식",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "오라클 주가 5%대 급락…오픈AI 매출 우려에 AI 인프라 투자 부담 부각",
-        "source": "제민일보",
-        "url": "https://www.jemin.com/news/articleView.html?idxno=844095"
-      }
-    },
-    {
-      "keyword": "패션",
+      "keyword": "부유세",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'부잣집 딸'처럼 입는다더니…2030 女 난리 난 패션",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026100928931"
+        "title": "헝가리 내년부터 부유세 도입…41억원 넘는 자산에 1% 세금",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261009049800109"
+      }
+    },
+    {
+      "keyword": "암호화폐",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "한은·IMF \"토큰화, 중개 통합해 효율 높이지만 유동성·레버리지 리스크 키울 수도\"…4대 제약 완화가 관건",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=351730"
+      }
+    },
+    {
+      "keyword": "제니",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "8년만에 韓돌아온 위켄드… 5만 명 ‘떼창’ 울려 퍼졌다",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Culture/article/all/20261009/134812392/2"
       }
     },
     {
@@ -33,69 +43,59 @@
       }
     },
     {
-      "keyword": "양향자",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "김현",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "국힘 ‘비당권파’ 양향자 지역위원장 낙선…‘장동혁발’ 당원직선제 영향?",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1281692.html"
+        "title": "김현 국회의원 민주당 세월호특위 위원장 연임",
+        "source": "반월신문",
+        "url": "https://www.banwol.net/news/articleView.html?idxno=69972"
       }
     },
     {
-      "keyword": "김가영",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "sl vs pak",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "“실수연발에 불운까지 겹쳤다” 김가영, 히다 오리에에게 0-3 완패 4강 진출 실패[크라운해태LPBA]",
-        "source": "mkbn.mk.co.kr",
-        "url": "https://mkbn.mk.co.kr/news/sports/12172488"
+        "title": "Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-t20i-1550708/match-preview"
       }
     },
     {
-      "keyword": "지스타",
+      "keyword": "판결",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘전기차는 게임기다’…현대차·BMW가 게임쇼로 간 까닭은",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=373196"
+        "title": "[대법원 판결] 공소장에 기재 공소제기 취지가 불명확한 경우, 법원은 석명권 행사했어야",
+        "source": "법조신문",
+        "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36192"
       }
     },
     {
-      "keyword": "김시아",
+      "keyword": "광주광역시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": null
     },
     {
-      "keyword": "sbs",
+      "keyword": "김신영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Preview of SBS 8 News (October 9)",
-        "source": "news.sbs.co.kr",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008790685"
+        "title": "'나 혼자 산다' 김신영, 무지개 첫 손님 '류혜영' 초대한 뭉클한 사연은? - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/09/2026100914177235560"
       }
     },
     {
-      "keyword": "주차",
+      "keyword": "구창모",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "주차장 빈자리 AI가 찾아준다…파킹고, 주차 관제 솔루션 선봬",
-        "source": "산업일보",
-        "url": "https://kidd.co.kr/news/247669"
-      }
-    },
-    {
-      "keyword": "필즈상",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "수학 난제 풀이 쏟아낸 AI... 필즈상 수상자 \"깊은 좌절\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/10/09/DSB2IGMUX5AYTOVJR63O5DQQVY/"
+        "title": "구창모와 6번째 대결, 3위 지킬까...홈런 때린 한준수 박민 김호령 선발라인업 포진 [오!쎈 창원]",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112890385"
       }
     }
   ]
