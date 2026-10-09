@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-10-08T05:18:55.419856+09:00",
-    "label": "05:18",
-    "items": [
-      {
-        "keyword": "대학",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "대학생 전공 관계없이 AI 기초교육 받는다··· 'AI 중심대학·AX대학원 공동 출범식'",
-          "source": "Naver Blog",
-          "url": "https://blog.naver.com/PostView.naver?blogId=mcst_pr&logNo=224433091265&redirect=Dlog"
-        }
-      },
-      {
-        "keyword": "주차공간",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "아파트 주차장 196칸 사들여 “200만원에 사라”…주민 분노 폭발",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20261007/134805973/2"
-        }
-      },
-      {
-        "keyword": "world space week 2026",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘Rocket revolution’ opens access to space",
-          "source": "UN News",
-          "url": "https://news.un.org/en/story/2026/10/1168538"
-        }
-      },
-      {
-        "keyword": "67",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Caught on Camera | Woman accused of drunk driving after wild drive on Jennings County Courthouse lawn",
-          "source": "WTHR",
-          "url": "https://www.wthr.com/article/news/local/indiana/jennings-county-courthouse-driver-owi-donuts-on-lawn/531-19cd9670-0daf-4b09-b4db-b226904f82b4"
-        }
-      },
-      {
-        "keyword": "로또 1등도 출근합니다",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이미 선공개 됐는데…최고 시청률 7.1% 기록하며 흥행가도 달리는 작품 ('로또 1등')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261006151410256"
-        }
-      },
-      {
-        "keyword": "숙행",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"숙행, 속았단 증거 없어\"...상간 소송 3000만원 배상 확정 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/06/2026100615044340942"
-        }
-      },
-      {
-        "keyword": "박지원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"사퇴와 탄핵의 길뿐\" 격앙‥\"탄핵 왜 망설이나\" 맞불",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856400_37004.html"
-        }
-      },
-      {
-        "keyword": "송승기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[속보] 'LG 부상 날벼락' 고우석도 못 던지는데, '가을야구' 초비상...송승기-김진성 시즌아웃, \"수술 받을 수 있다\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/07/202610071623774146O"
-        }
-      },
-      {
-        "keyword": "백령도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "그물 끊고 도주했지만…백령도 해상서 NLL 침범 中어선 2척 나포",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261007113047841"
-        }
-      },
-      {
-        "keyword": "지현 원규",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'환승연애4' 박지현-정원규 결별 \"만남이 있으면 이별이 있어\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/520493"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-08T09:34:03.895192+09:00",
-    "label": "09:34",
-    "items": [
-      {
-        "keyword": "삼성전자 실적",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[속보] 삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6856509_36932.html"
-        }
-      },
-      {
-        "keyword": "성심당",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=795750"
-        }
-      },
-      {
-        "keyword": "10 월 9 일",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "국군의 날과 개천절의 연원을 아시나요?",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272575"
-        }
-      },
-      {
-        "keyword": "최순실",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "5년 넘게 회수 못한 최서원 병원비 3천900만원…15일 선고",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610080811446857_005.html"
-        }
-      },
-      {
-        "keyword": "트로트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "트로트 가수 김다현, 조부모 사랑담은 '광양에서 만난 사랑' 발표",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6312986"
-        }
-      },
-      {
-        "keyword": "한글날",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이디야커피, 한글날 제정 100주년 기념 고객 참여형 캠페인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008035000030"
-        }
-      },
-      {
-        "keyword": "임윤찬",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "임윤찬, 영국 그라모폰 어워즈 수상 불발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008004700085"
-        }
-      },
-      {
-        "keyword": "금양",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261007173900002"
-        }
-      },
-      {
-        "keyword": "에페",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "돌아온 신약, 끝내 살아남았다… 한미약품 에페가 견딘 침묵의 시간",
-          "source": "히트뉴스",
-          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79739"
-        }
-      },
-      {
-        "keyword": "전북경찰청",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "금융권 해킹에 보이스피싱 우려 커지는데…'무과실 배상책임제' 도입은 언제?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261007_0003817799"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-08T15:49:04.341622+09:00",
     "label": "15:49",
     "items": [
@@ -725,6 +513,108 @@
           "title": "KAI, 모로코 에어쇼 참가…FA-50 앞세워 아프리카 공략",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261008069400003"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-09T23:06:28.461144+09:00",
+    "label": "23:06",
+    "items": [
+      {
+        "keyword": "주식",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "오라클 주가 5%대 급락…오픈AI 매출 우려에 AI 인프라 투자 부담 부각",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844095"
+        }
+      },
+      {
+        "keyword": "패션",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'부잣집 딸'처럼 입는다더니…2030 女 난리 난 패션",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100928931"
+        }
+      },
+      {
+        "keyword": "sri lanka vs pakistan",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-t20i-1550708/match-preview"
+        }
+      },
+      {
+        "keyword": "양향자",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국힘 ‘비당권파’ 양향자 지역위원장 낙선…‘장동혁발’ 당원직선제 영향?",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1281692.html"
+        }
+      },
+      {
+        "keyword": "김가영",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“실수연발에 불운까지 겹쳤다” 김가영, 히다 오리에에게 0-3 완패 4강 진출 실패[크라운해태LPBA]",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12172488"
+        }
+      },
+      {
+        "keyword": "지스타",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘전기차는 게임기다’…현대차·BMW가 게임쇼로 간 까닭은",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373196"
+        }
+      },
+      {
+        "keyword": "김시아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "sbs",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Preview of SBS 8 News (October 9)",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008790685"
+        }
+      },
+      {
+        "keyword": "주차",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "주차장 빈자리 AI가 찾아준다…파킹고, 주차 관제 솔루션 선봬",
+          "source": "산업일보",
+          "url": "https://kidd.co.kr/news/247669"
+        }
+      },
+      {
+        "keyword": "필즈상",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "수학 난제 풀이 쏟아낸 AI... 필즈상 수상자 \"깊은 좌절\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/09/DSB2IGMUX5AYTOVJR63O5DQQVY/"
         }
       }
     ]
