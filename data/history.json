@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-10-08T23:11:50.298890+09:00",
-    "label": "23:11",
-    "items": [
-      {
-        "keyword": "앤 카슨",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "한강, 노벨문학상 앤 카슨 ‘녹스’에 “사무치게 진실한 것” 추천사",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/book/1281596.html"
-        }
-      },
-      {
-        "keyword": "범죄",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김지용 중수청장 후보자 \"내란 범죄 척결‥국가 기강 바로잡을 것\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6856601_36918.html"
-        }
-      },
-      {
-        "keyword": "식중독",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "김제지평선축제서 김밥 먹은 260명 집단 식중독 의심 증상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008105200055"
-        }
-      },
-      {
-        "keyword": "로맥",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "KBO 레전드들 '승리 징크스'는?…\"29일간 짜장면만 먹어\" (어서와)",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/520359"
-        }
-      },
-      {
-        "keyword": "김영광",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘39세’ 김영광도 피해갈 수 없는 세월..“먹는 족족 살쪄, 1일 2운동” [순간포착] - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/08/HAYDMODBMUYGEZLDMUYDOMJWGA/"
-        }
-      },
-      {
-        "keyword": "anne carson",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Canadian Poet Anne Carson Is Awarded Nobel Prize in Literature",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html"
-        }
-      },
-      {
-        "keyword": "차량 화재",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "부천 상동 서울외곽순환선서 차량 화재…인명피해 없어",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363738785"
-        }
-      },
-      {
-        "keyword": "박지훈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "유해진, '암살자(들)' 논란 속 '왕사남'으로 부일영화상 남우주연상",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610080902467073"
-        }
-      },
-      {
-        "keyword": "이데일리",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“집값 비싸다고 포기 안 한다”…2030세대, AI로 ‘월급 밖 소득’ 키운다",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04621526645610952&mediaCodeNo=257"
-        }
-      },
-      {
-        "keyword": "하이마트",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-09T05:21:00.912429+09:00",
     "label": "05:21",
     "items": [
@@ -717,6 +615,112 @@
           "title": "한국형 녹색대전환 본격 추진… “국가경쟁력 키우는 확실한 전략”",
           "source": "K-공감",
           "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10201000000&section_id=NCCD_POLICY&news_id=beba9431-603f-4410-9a56-08a3b6519bbe"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-10T12:20:45.763620+09:00",
+    "label": "12:20",
+    "items": [
+      {
+        "keyword": "고영욱",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'유재석 저격' 고영욱, 차태현에게 \"거만하게 굴고 있어\" 30년 전 일화 소환",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6315300"
+        }
+      },
+      {
+        "keyword": "재산",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "저소득층은 96% 쓰고 고소득층은 47% 남긴다…벌어지는 재산 격차",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819382"
+        }
+      },
+      {
+        "keyword": "이태성",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘41세 돌싱’ 이태성, ‘187㎝’ 아들 근황 “전교 1등 놓친 적 없다”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261010/134817060/1"
+        }
+      },
+      {
+        "keyword": "매일경제신문",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "日·대만 달리는데…3대 걸림돌에 막힌 코스피",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1172216"
+        }
+      },
+      {
+        "keyword": "어린이대공원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "인도 돌진한 택시에 부부 참변‥\"졸음운전 했다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6856907_37012.html"
+        }
+      },
+      {
+        "keyword": "2026",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Iran Update, October 8, 2026",
+          "source": "Institute for the Study of War",
+          "url": "https://understandingwar.org/research/middle-east/iran-update-october-8-2026/"
+        }
+      },
+      {
+        "keyword": "동맹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美 “한국, 정보·방첩서 ‘동맹 기준’ 지켜야”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/10/10/BCYCLB5UQRCTFK4S5YPEILIICM/"
+        }
+      },
+      {
+        "keyword": "관광지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "도심 공원 메운 인파…‘부캉이’ 120만 명 모았다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8682037"
+        }
+      },
+      {
+        "keyword": "롯데온",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "쌀쌀해진 날씨, 가을옷 살 때…할인 행사 풍성[주말e커머스]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819792"
+        }
+      },
+      {
+        "keyword": "al nassr",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Ronaldo, Embroiled in National Team Departure Controversy, Returns to Club and Scores 980th Career Goal",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008791057"
         }
       }
     ]
