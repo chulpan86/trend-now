@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-10-09T05:21:00.912429+09:00",
-    "label": "05:21",
-    "items": [
-      {
-        "keyword": "쿠팡",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "쿠팡·쿠팡이츠·라이더 앱 접속 오류…쿠팡 \"원인 파악 중\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261009014240gb5"
-        }
-      },
-      {
-        "keyword": "고석정 꽃밭",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "철원군, 고석정 꽃밭서 '2026 철원쌀 밥맛 평가회' 개최",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008174000062"
-        }
-      },
-      {
-        "keyword": "마이클 버리",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438387"
-        }
-      },
-      {
-        "keyword": "병목",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "학교 급식 안전의 병목 현상 제거.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thao-go-diem-nghen-an-toan-thuc-pham-hoc-duong"
-        }
-      },
-      {
-        "keyword": "식중독",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "축제장 김밥 사 먹고 복통‥집단 식중독",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856671_37004.html"
-        }
-      },
-      {
-        "keyword": "ps",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware",
-          "source": "Road to VR",
-          "url": "https://roadtovr.com/sony-sells-xr-headset-patents-meta/"
-        }
-      },
-      {
-        "keyword": "채널a",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "로맥",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "KBO 레전드들 '승리 징크스'는?…\"29일간 짜장면만 먹어\" (어서와)",
-          "source": "MBC",
-          "url": "https://m.imbc.com/enews/view/520359"
-        }
-      },
-      {
-        "keyword": "아리엘 후라도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "프로야구 삼성, 신인 선수 계약 완료…김민훈 계약금 2억5천만원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261008119700007"
-        }
-      },
-      {
-        "keyword": "수면제",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"매일 6~8알 먹었더니 통잠 자\"…백지연, '천연수면제' 극찬한 '이것' [헬스톡]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610070901105472"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-09T09:49:04.273223+09:00",
     "label": "09:49",
     "items": [
@@ -721,6 +619,112 @@
           "title": "Ronaldo, Embroiled in National Team Departure Controversy, Returns to Club and Scores 980th Career Goal",
           "source": "news.sbs.co.kr",
           "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008791057"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-10T19:14:24.261909+09:00",
+    "label": "19:14",
+    "items": [
+      {
+        "keyword": "ssg 대 kia",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "뒤집힌 3위 경쟁…KIA 자력 확정 눈앞, LG는 기적 바라야",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261010019000007"
+        }
+      },
+      {
+        "keyword": "중앙일보",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "파격 제안했던 태광그룹, 형평성 논란에 중앙일보 인수 의사 철회 … “추가 절차 진행 어렵다고 판단”",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800281.html"
+        }
+      },
+      {
+        "keyword": "외야수",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"연봉 일부 부담해도 이정후 보내라?\" 美 매체가 꺼낸 트레이드 카드…SF 외야에 무슨 일이",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/08/GY2TGZJSMVQTSNBTME4TKMRZG4/"
+        }
+      },
+      {
+        "keyword": "하원미",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“♥추신수, 집안 발자국에 바로 총 구입” (하원미)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610101225003"
+        }
+      },
+      {
+        "keyword": "재정신청",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[단독] “혐의없다”던 검찰, 재정신청 거치자 유죄…5년 반 동안 560명 재판에",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021401&code=61111111"
+        }
+      },
+      {
+        "keyword": "이창용",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이창용 전 총재 \"반도체발 착시 경계⋯양극화·수퍼사이클 중단 대비해야\"",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2634235?trc=right_categori_news"
+        }
+      },
+      {
+        "keyword": "lg그룹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LG그룹, 현대차 제치고 그룹 시총 3위 탈환…325일 만에 ’역전’ By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2121455"
+        }
+      },
+      {
+        "keyword": "레이예스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "롯데 레이예스, 205번째 안타…최원준 제치고 단독 선두",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261010037000007"
+        }
+      },
+      {
+        "keyword": "구준엽",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'서희원과 사별' 구준엽, 한국 돌아갈 생각 묻자 \"없다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261008_0003819347"
+        }
+      },
+      {
+        "keyword": "테일러 프리츠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Hot Shot: Fritz finds 'incredible' dig to repel Arnaldi's Shanghai 2026 charge",
+          "source": "ATP Tour",
+          "url": "https://www.atptour.com/en/video/hot-shot-fritz-finds-incredible-dig-to-repel-arnaldis-shanghai-2026-charge"
         }
       }
     ]
