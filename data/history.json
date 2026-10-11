@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-10-10T08:41:42.000802+09:00",
-    "label": "08:41",
-    "items": [
-      {
-        "keyword": "축구",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "대충격 '은퇴 소동' 아시아 올스타에 3명이나 있는데…태극마크 볼모로 거래, 몇 년째 하나로 뭉치지 못한다",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012213"
-        }
-      },
-      {
-        "keyword": "아침",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "아침에 마시면 건강?…속았다, 달콤한 살인마",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/visual-news/article/2026100715525660149"
-        }
-      },
-      {
-        "keyword": "대한민국 축구 국가대표팀",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘모레노호 2승 1무 1패’ 한국 축구, FIFA 랭킹 32위 그대로",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8680926"
-        }
-      },
-      {
-        "keyword": "황정음",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'30㎏ 감량' 황정음 \"드라마 때문에 미친 듯이 살 뺐는데…'훈남정음' 잘 안돼\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6314880"
-        }
-      },
-      {
-        "keyword": "한혜연",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘20kg 감량’ 한혜연, 과감한 레깅스 패션..납작배 뽐내며 “연휴 시작” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/09/MIZTGZBQHBRWKZDCMQ2WEOJWHE/"
-        }
-      },
-      {
-        "keyword": "노윤서",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'산지직송3' 노윤서, 모두가 뺏고 싶어할 다 잘하는 '황금 막내' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/09/2026100907007296379"
-        }
-      },
-      {
-        "keyword": "홍혜걸",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "여에스더, 홍혜걸 '암살자들' 저격 후폭풍에 분노 \"회사 안 해야겠다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261009_0003820338"
-        }
-      },
-      {
-        "keyword": "조선민주주의인민공화국",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“지뢰 사과하라” 면전에서 요구하자, 北대사 “정동영도…”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261009/134815008/1"
-        }
-      },
-      {
-        "keyword": "다우 존스 산업평균지수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "유가·금리 상승에도 기술주 실적 기대감…증시 반등[뉴욕마감] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/10/2026101008054812965"
-        }
-      },
-      {
-        "keyword": "포스코",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한국형 녹색대전환 본격 추진… “국가경쟁력 키우는 확실한 전략”",
-          "source": "K-공감",
-          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10201000000&section_id=NCCD_POLICY&news_id=beba9431-603f-4410-9a56-08a3b6519bbe"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-10T12:20:45.763620+09:00",
-    "label": "12:20",
-    "items": [
-      {
-        "keyword": "고영욱",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'유재석 저격' 고영욱, 차태현에게 \"거만하게 굴고 있어\" 30년 전 일화 소환",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6315300"
-        }
-      },
-      {
-        "keyword": "재산",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "저소득층은 96% 쓰고 고소득층은 47% 남긴다…벌어지는 재산 격차",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261008_0003819382"
-        }
-      },
-      {
-        "keyword": "이태성",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘41세 돌싱’ 이태성, ‘187㎝’ 아들 근황 “전교 1등 놓친 적 없다”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261010/134817060/1"
-        }
-      },
-      {
-        "keyword": "매일경제신문",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "日·대만 달리는데…3대 걸림돌에 막힌 코스피",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1172216"
-        }
-      },
-      {
-        "keyword": "어린이대공원",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "인도 돌진한 택시에 부부 참변‥\"졸음운전 했다\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6856907_37012.html"
-        }
-      },
-      {
-        "keyword": "2026",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Iran Update, October 8, 2026",
-          "source": "Institute for the Study of War",
-          "url": "https://understandingwar.org/research/middle-east/iran-update-october-8-2026/"
-        }
-      },
-      {
-        "keyword": "동맹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "美 “한국, 정보·방첩서 ‘동맹 기준’ 지켜야”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/us/2026/10/10/BCYCLB5UQRCTFK4S5YPEILIICM/"
-        }
-      },
-      {
-        "keyword": "관광지",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "도심 공원 메운 인파…‘부캉이’ 120만 명 모았다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8682037"
-        }
-      },
-      {
-        "keyword": "롯데온",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "쌀쌀해진 날씨, 가을옷 살 때…할인 행사 풍성[주말e커머스]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261008_0003819792"
-        }
-      },
-      {
-        "keyword": "al nassr",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Ronaldo, Embroiled in National Team Departure Controversy, Returns to Club and Scores 980th Career Goal",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008791057"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-10T19:14:24.261909+09:00",
     "label": "19:14",
     "items": [
@@ -835,6 +623,112 @@
           "title": "트럼프 \"민주당이 중간선거 이기면 1929년 대공황 올 것\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261011007000071"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-12T01:27:13.822585+09:00",
+    "label": "01:27",
+    "items": [
+      {
+        "keyword": "청년",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "정부는 안정적인 계란 공급을 위해 신선란 수입선을 다변화해 왔습니다.",
+          "source": "정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973280"
+        }
+      },
+      {
+        "keyword": "리버풀 맨시티",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이사크·각포 맨시티전 결장 확정…홀란 막을 리버풀의 선택은?",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16243025"
+        }
+      },
+      {
+        "keyword": "liverpool vs man city",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Premier League: Man City under way at Liverpool in first game since guilty verdict",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cr3el8xwnnxkt"
+        }
+      },
+      {
+        "keyword": "f1",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "2026 Singapore Grand Prix: Verstappen fends off Leclerc to keep the lead on the race start",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/video/2026-singapore-grand-prix-verstappen-fends-off-leclerc-to-keep-the-lead-on-the-race-start.1878756016831821689"
+        }
+      },
+      {
+        "keyword": "정수빈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "정수빈 첫 타이틀이냐, 이미래 6번째 트로피냐…LPBA 결승 격돌",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261011009700007"
+        }
+      },
+      {
+        "keyword": "레알 소시에다드 대 데포르티보",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "레알 소시에다드 대 데포르티보 라 코루나 예측: 방문객들은 하락세를 멈추기로 결정했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-sociedad-vs-deportivo-la-coruna-khach-quyet-chan-da-sa-sut"
+        }
+      },
+      {
+        "keyword": "india vs west indies",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Windies overhaul India’s 249 in record-breaking Ranchi run fest",
+          "source": "Caribbean National Weekly",
+          "url": "https://www.caribbeannationalweekly.com/posts/windies-overhaul-indias-249-in-record-breaking-ranchi-run-fest"
+        }
+      },
+      {
+        "keyword": "liverpool đấu với man city",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Trận đại chiến Man City có thể là bước ngoặt cho Barcola",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/tran-dai-chien-man-city-co-the-la-buoc-ngoat-cho-barcola-d898214.html"
+        }
+      },
+      {
+        "keyword": "김성한",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "차에서 내린 취객이 ‘빠직’···또 파손된 김성한 전 해태 타이거즈 선수 조형물, 이번엔 발목만 남았다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610111919001"
+        }
+      },
+      {
+        "keyword": "ind vs wi",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "India and West Indies head to Indore for potential run-fest with series level",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-3rd-t20i-1529232/match-preview"
         }
       }
     ]
