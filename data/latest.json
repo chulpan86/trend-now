@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-11T12:59:59.571031+09:00",
-  "label": "12:59",
+  "timestamp": "2026-10-11T19:40:32.296941+09:00",
+  "label": "19:40",
   "items": [
     {
-      "keyword": "하리수",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "주식",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "\"성생활 어떻게?\"...하리수가 들었던 무례한 질문 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/10/2026101019552266411"
-      }
-    },
-    {
-      "keyword": "고소",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "나흘 만에 퇴사하더니 \"고소할게요\"…꼼짝없이 당한 사장님 [사장님 고충백서]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202610042851i"
-      }
-    },
-    {
-      "keyword": "사랑 이 온다",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘사랑이 온다’ 하석진, 얼어붙은 한가네 녹이는 ‘인간 난로'..안방극장이 훈훈해져 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/10/2026101015397226339"
-      }
-    },
-    {
-      "keyword": "조선일보",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "기업은 1000석 이상은 못지어… 지자체 독점에 ‘꿈의 구장’ 엄두 못낸다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_general/2026/10/09/Q3PFDIET5FG75N457Q3UB4ASWE/"
-      }
-    },
-    {
-      "keyword": "골프",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘강호동 아들’ 강시후, 188cm 훈남 고교생 골퍼됐다",
+        "title": "개미들, 3분기 코스피 5.6조 팔고 美주식 10.2조 샀다",
         "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20261010/134817317/1"
+        "url": "https://www.donga.com/news/Economy/article/all/20261011/134819787/1"
       }
     },
     {
-      "keyword": "일용직",
+      "keyword": "뉴스1",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "행안장관 \"임은정 광주중수청장 감찰 지시…중수청 정치기관 착각\"",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261011140945pZJ"
+      }
+    },
+    {
+      "keyword": "한국경제",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "[단독] SK스퀘어, 日 피지컬AI 스타트업 무진 투자... AI·반도체 밸류체인 확장",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610114219i"
+      }
+    },
+    {
+      "keyword": "단풍",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "경남도, `걸으면서 느끼는 단풍 여행지` 4곳 소개",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261011.99099002735"
+      }
+    },
+    {
+      "keyword": "한국경제신문",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "소득 4만달러 시대, 우리는 그에 걸맞은 품격 갖췄나",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026101145301"
+      }
+    },
+    {
+      "keyword": "소방관",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "30만명 건설 현장에서 밀려났다... 98%는 임시·일용직",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/economy_general/2026/10/11/5SY36OVJNND7LBNWX3JXNTRKCA/"
+        "title": "“아저씨 덕분에”…12년 전 불길서 구조된 소녀, 결혼 소식 들고 소방관 찾아",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/area/capital/1281786.html"
       }
     },
     {
-      "keyword": "화이트삭스 대 가디언즈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "2연패 뒤 3연승…MLB 클리블랜드, 화이트삭스 잡고 ALCS 진출",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8682509"
-      }
-    },
-    {
-      "keyword": "톱스타뉴스",
+      "keyword": "캐나다",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "BTS 정국, 페루 일상 담은 사진에 현지 언론까지 반응",
-        "source": "톱스타뉴스",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242199"
+        "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html"
       }
     },
     {
-      "keyword": "사형",
+      "keyword": "기금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "미군 총살형 생중계 예고에 부통령도 \"안 본다\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856987_37004.html"
+        "title": "새출발기금, 빚 안갚는 게 더 유리한 구조…‘도덕적 해이’ 우려",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20261011/134820249/1"
       }
     },
     {
-      "keyword": "박군",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "신진 서",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "박군, ‘한잔해’ 잇는 ‘땡잡았다’ 무대로 팬심 사로잡았다 (트롯챔피언)",
-        "source": "iMBC 연예",
-        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/520713"
+        "title": "한국 4강 싹쓸이 ‘신진서·신민준·변상일·이지현’",
+        "source": "사이버오로",
+        "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532861"
+      }
+    },
+    {
+      "keyword": "중간 선거",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "트럼프 \"민주당이 중간선거 이기면 1929년 대공황 올 것\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261011007000071"
       }
     }
   ]

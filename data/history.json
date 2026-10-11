@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-10-10T04:53:52.039661+09:00",
-    "label": "04:53",
-    "items": [
-      {
-        "keyword": "부유세",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "헝가리 내년부터 부유세 도입…41억원 넘는 자산에 1% 세금",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261009049800109"
-        }
-      },
-      {
-        "keyword": "암호화폐",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "한은·IMF \"토큰화, 중개 통합해 효율 높이지만 유동성·레버리지 리스크 키울 수도\"…4대 제약 완화가 관건",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=351730"
-        }
-      },
-      {
-        "keyword": "제니",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "8년만에 韓돌아온 위켄드… 5만 명 ‘떼창’ 울려 퍼졌다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261009/134812392/2"
-        }
-      },
-      {
-        "keyword": "sri lanka vs pakistan",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-t20i-1550708/match-preview"
-        }
-      },
-      {
-        "keyword": "김현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "김현 국회의원 민주당 세월호특위 위원장 연임",
-          "source": "반월신문",
-          "url": "https://www.banwol.net/news/articleView.html?idxno=69972"
-        }
-      },
-      {
-        "keyword": "sl vs pak",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Experimental Pakistan host transitional Sri Lanka in rare home T20Is this season",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-t20i-1550708/match-preview"
-        }
-      },
-      {
-        "keyword": "판결",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[대법원 판결] 공소장에 기재 공소제기 취지가 불명확한 경우, 법원은 석명권 행사했어야",
-          "source": "법조신문",
-          "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=36192"
-        }
-      },
-      {
-        "keyword": "광주광역시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "김신영",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'나 혼자 산다' 김신영, 무지개 첫 손님 '류혜영' 초대한 뭉클한 사연은? - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/09/2026100914177235560"
-        }
-      },
-      {
-        "keyword": "구창모",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "구창모와 6번째 대결, 3위 지킬까...홈런 때린 한준수 박민 김호령 선발라인업 포진 [오!쎈 창원]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112890385"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-10T08:41:42.000802+09:00",
     "label": "08:41",
     "items": [
@@ -831,6 +729,112 @@
           "title": "박군, ‘한잔해’ 잇는 ‘땡잡았다’ 무대로 팬심 사로잡았다 (트롯챔피언)",
           "source": "iMBC 연예",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/520713"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-11T19:40:32.296941+09:00",
+    "label": "19:40",
+    "items": [
+      {
+        "keyword": "주식",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "개미들, 3분기 코스피 5.6조 팔고 美주식 10.2조 샀다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261011/134819787/1"
+        }
+      },
+      {
+        "keyword": "뉴스1",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "행안장관 \"임은정 광주중수청장 감찰 지시…중수청 정치기관 착각\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261011140945pZJ"
+        }
+      },
+      {
+        "keyword": "한국경제",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독] SK스퀘어, 日 피지컬AI 스타트업 무진 투자... AI·반도체 밸류체인 확장",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610114219i"
+        }
+      },
+      {
+        "keyword": "단풍",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "경남도, `걸으면서 느끼는 단풍 여행지` 4곳 소개",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261011.99099002735"
+        }
+      },
+      {
+        "keyword": "한국경제신문",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "소득 4만달러 시대, 우리는 그에 걸맞은 품격 갖췄나",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026101145301"
+        }
+      },
+      {
+        "keyword": "소방관",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“아저씨 덕분에”…12년 전 불길서 구조된 소녀, 결혼 소식 들고 소방관 찾아",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/capital/1281786.html"
+        }
+      },
+      {
+        "keyword": "캐나다",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html"
+        }
+      },
+      {
+        "keyword": "기금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "새출발기금, 빚 안갚는 게 더 유리한 구조…‘도덕적 해이’ 우려",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261011/134820249/1"
+        }
+      },
+      {
+        "keyword": "신진 서",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한국 4강 싹쓸이 ‘신진서·신민준·변상일·이지현’",
+          "source": "사이버오로",
+          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532861"
+        }
+      },
+      {
+        "keyword": "중간 선거",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "트럼프 \"민주당이 중간선거 이기면 1929년 대공황 올 것\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261011007000071"
         }
       }
     ]
