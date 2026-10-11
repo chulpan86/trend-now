@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-11T08:57:52.329328+09:00",
-  "label": "08:57",
+  "timestamp": "2026-10-11T12:59:59.571031+09:00",
+  "label": "12:59",
   "items": [
     {
-      "keyword": "김사랑",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": null
+      "keyword": "하리수",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "\"성생활 어떻게?\"...하리수가 들었던 무례한 질문 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/10/2026101019552266411"
+      }
     },
     {
-      "keyword": "몽산포해수욕장",
+      "keyword": "고소",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "나흘 만에 퇴사하더니 \"고소할게요\"…꼼짝없이 당한 사장님 [사장님 고충백서]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610042851i"
+      }
+    },
+    {
+      "keyword": "사랑 이 온다",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘사랑이 온다’ 하석진, 얼어붙은 한가네 녹이는 ‘인간 난로'..안방극장이 훈훈해져 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/10/2026101015397226339"
+      }
+    },
+    {
+      "keyword": "조선일보",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[속보]해수욕장 산책하러 나간 30대, 바다서 숨진 채 발견",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11622521"
+        "title": "기업은 1000석 이상은 못지어… 지자체 독점에 ‘꿈의 구장’ 엄두 못낸다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/10/09/Q3PFDIET5FG75N457Q3UB4ASWE/"
       }
     },
     {
-      "keyword": "사관학교",
+      "keyword": "골프",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘강호동 아들’ 강시후, 188cm 훈남 고교생 골퍼됐다",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20261010/134817317/1"
+      }
+    },
+    {
+      "keyword": "일용직",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "30만명 건설 현장에서 밀려났다... 98%는 임시·일용직",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/10/11/5SY36OVJNND7LBNWX3JXNTRKCA/"
+      }
+    },
+    {
+      "keyword": "화이트삭스 대 가디언즈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "2연패 뒤 3연승…MLB 클리블랜드, 화이트삭스 잡고 ALCS 진출",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8682509"
+      }
+    },
+    {
+      "keyword": "톱스타뉴스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[기고]北 MDL 지뢰도발로 안보가 매우 위중한데, 사관학교 통폐합이 그리도 급한가?",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11622518"
+        "title": "BTS 정국, 페루 일상 담은 사진에 현지 언론까지 반응",
+        "source": "톱스타뉴스",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242199"
       }
     },
     {
-      "keyword": "fc barcelona vs getafe cf standings",
+      "keyword": "사형",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Barcelona 3-0 Getafe: Anthony Gordon scores first Barca goal as Catalan club equal best start to La Liga season",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cm87zxxd55r3t"
+        "title": "미군 총살형 생중계 예고에 부통령도 \"안 본다\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856987_37004.html"
       }
     },
     {
-      "keyword": "고양이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“길고양이 밥 주면 불법?”…국회까지 간 논쟁, 정부 해법은 [댕냥구조대]",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=01731846645611280&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "mls",
+      "keyword": "박군",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Breaking News, World News and Video from Al Jazeera",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sitemap.xml%3Fyyyy=2026/page/28217?dd=26&mm=02%3Fgb%3Dtrue%3Fgb%3Dtrue%3Fgb%3Dtrue"
-      }
-    },
-    {
-      "keyword": "hd현대",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "HD현대마린솔루션, 글로벌 엔진 MRO '골텐스' 3315억원에 인수",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/10/08/2026100880198.html"
-      }
-    },
-    {
-      "keyword": "lafc",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Son Heung-min faces Müller as LAFC seeks rebound against Vancouver - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/10/10/GOZ47BGCG5CEDP4P4O73LJRH7A/"
-      }
-    },
-    {
-      "keyword": "박유나",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "‘사랑이 온다’ 박유나, 시부 불륜→남편 불륜 충격 이어… 시모는 ‘호빠’까지?",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202610102134003"
-      }
-    },
-    {
-      "keyword": "성리",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "나주 천년목사 부임행차 부활…시민 300명 대행렬 첫 선",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261010_0003820515"
+        "title": "박군, ‘한잔해’ 잇는 ‘땡잡았다’ 무대로 팬심 사로잡았다 (트롯챔피언)",
+        "source": "iMBC 연예",
+        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/520713"
       }
     }
   ]
