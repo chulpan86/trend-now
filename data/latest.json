@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-12T09:06:18.395363+09:00",
-  "label": "09:06",
+  "timestamp": "2026-10-12T15:45:35.230590+09:00",
+  "label": "15:45",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "500000+",
-      "traffic": 500000,
-      "news": {
-        "title": "13일 전국 가을비… 그친 뒤 아침 기온 ‘뚝’",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/10/11/PYWGNHCFENBLJMJDZUXGKIZXMM/"
-      }
-    },
-    {
-      "keyword": "이수만",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "‘다들 헐값에 팔 때 사들였다’…이수만이 20억 던진 압구정 땅 1000억 반전",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260811520510"
-      }
-    },
-    {
-      "keyword": "세인트루이스 시티 sc 대 la 갤럭시",
+      "keyword": "리플",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "세인트루이스 시티 vs 로스앤젤레스 갤럭시 예측: 선두 자리를 노릴 기회",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-st-louis-city-vs-los-angeles-galaxy-co-hoi-bam-duoi-ngoi-dau"
+        "title": "XRP 운용사 에버노스, 12일 'XRPN'으로 나스닥 첫 거래",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Securities/2026/10/202610111242533745e250e8e188_1"
       }
     },
     {
-      "keyword": "젠데이아",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "마누엘 노이어",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "브리지트 영부인 왔는데 앉은 채 악수? 젠데이아 때 아닌 태도 논란 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/11/2026101113463769309"
-      }
-    },
-    {
-      "keyword": "이란",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "사우디 리야드공항 피격에 수백명 사상…美 \"개입 검토\"",
+        "title": "’설영우 첫 선발’…아우크스부르크, ’김민재 결장’ 뮌헨과 비겨",
         "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH202610120529171DV"
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012053233x8N"
       }
     },
     {
-      "keyword": "국제선",
+      "keyword": "돈 스파이크",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"대박 사건\"…'마약 출소' 돈스파이크, 로또 당첨 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/12/2026101209225269351"
+      }
+    },
+    {
+      "keyword": "병역",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[단독]아시안게임 후폭풍?…올해 병역특례 민원, 5년치 훌쩍 넘어",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6589835"
+      }
+    },
+    {
+      "keyword": "박경혜",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "박경혜, 강남 6평 원룸 살더니…\"장기미임대아파트 신청\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/12/2026101208540859218"
+      }
+    },
+    {
+      "keyword": "조선인민군",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "수도권서 백주대낮 北 인민군 추모제 … 6·25 남침을 '자주권 수호'로",
+        "source": "뉴데일리",
+        "url": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200146.html"
+      }
+    },
+    {
+      "keyword": "이더 리움",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독]대한항공, 국제선 26개 노선중 20곳서 점유율 50% 훌쩍",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20261011/134821457/2"
+        "title": "이더리움 2500달러선 회복…국내 340만원대, 급락 이후 반등 이어질까",
+        "source": "제민일보",
+        "url": "https://www.jemin.com/news/articleView.html?idxno=844228"
       }
     },
     {
-      "keyword": "네팔",
+      "keyword": "지구마불 세계여행",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "네팔, 또 다시 산사태로 홍수 발생···최소 5명 실종",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610112146001"
+        "title": "원지, 촬영 중 \"기분 너무 안 좋다..뒤집어엎어요? 엎어봐요?\" ('지구마불4') - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/12/MMZTGYLCGEZDAYJYMZRWGNDGGM/"
       }
     },
     {
-      "keyword": "uae vs usa",
+      "keyword": "수미 테리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "USA vs UAE, 134th Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
-        "source": "Cricbuzz",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/174083/uae-vs-usa-134th-match-icc-cricket-world-cup-league-two-2023-27"
+        "title": "美검찰 \"수미 테리가 받은 돈, '국정원 최고위층'에서 나와\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261012062800072"
       }
     },
     {
-      "keyword": "조지 클루니",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "kb금융그룹",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Cindy Crawford and Rande Gerber Hold Hands During First Public Outing Since Son Presley’s Death",
-        "source": "People.com",
-        "url": "https://people.com/cindy-crawford-and-rande-gerber-hold-hands-in-first-public-outing-since-son-presley-s-death-12169188"
-      }
-    },
-    {
-      "keyword": "klasemen liverpool vs man city",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Here are 13 statistics to know before Liverpool's Premier",
-        "source": "Liverpool FC",
-        "url": "https://www.liverpoolfc.com/id/news/liverpool-v-man-city-stats-preview-tactics-goals-and-potential-iraola-feat"
+        "title": "KB, 12만명에 박물관 무료관람 혜택",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20100140"
       }
     }
   ]
