@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-13T01:18:05.381814+09:00",
-  "label": "01:18",
+  "timestamp": "2026-10-13T08:21:17.753879+09:00",
+  "label": "08:21",
   "items": [
     {
-      "keyword": "주식시장",
+      "keyword": "날씨",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
+      "news": {
+        "title": "서울 ‘30.1도’ 역대 10월 최고… 오늘 낮까지 비 온 뒤 기온 급락",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/transport-environment/2026/10/12/LRVQUFQYCZEC7BKJ7LWJAKAJBU/"
+      }
+    },
+    {
+      "keyword": "현대 투싼",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "로빈후드, 블록체인 거래량 40%↓…흥행 '실패' 경고등",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438646"
+        "title": "[시승기] 현대차, 신형 투싼 1.6 터보 \"부드러운 변속 아쉬운 실주행 연비\"",
+        "source": "다나와 자동차",
+        "url": "https://auto.danawa.com/news/?Work=detail&no=6068946&NewsGroup=M"
       }
     },
     {
-      "keyword": "비타민",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘비타민 주사’라며 ‘납 배출 주사’ 투약…이 대통령 \"용납 못 해\" 엄중 조치 지시",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12322525"
-      }
-    },
-    {
-      "keyword": "차준환",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "피겨 차준환, 선수 활동 중단 선언…대중문화 활동에 전념할 듯",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683754"
-      }
-    },
-    {
-      "keyword": "김혜수",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"미인 둘에 잠이 깬다\"…김혜수, 송선미와 뜻밖의 투샷 \"멀리 찾아와\"",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012610"
-      }
-    },
-    {
-      "keyword": "챔스",
+      "keyword": "백지영",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[이원홍의 스포트라이트]철없는 언행, 자중지란… 혼돈의 한국 축구",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Opinion/article/all/20261011/134822048/2"
+        "title": "백지영, 9세 딸 샤넬백 관심에 난감 …\"내 옷도 자꾸 입어\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/broadcast-tv/6315688"
       }
     },
     {
-      "keyword": "제주시민회관",
+      "keyword": "rj mitte",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "420억원 투입된 제주시민회관도 \"공사 멈췄다\"",
-        "source": "제주일보",
-        "url": "https://www.jejunews.com/news/articleView.html?idxno=2228188"
+        "title": "RJ Mitte, Who Played Walter White’s Son on ‘Breaking Bad,’ Dies at 34",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html"
       }
     },
     {
-      "keyword": "알 테오 젠",
+      "keyword": "ionq",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "IonQ to Acquire Elisity for $1.3B to Advance Quantum Security",
+        "source": "IonQ",
+        "url": "https://www.ionq.com/news/ionq-to-acquire-elisity-to-accelerate-zero-trust-for-the-quantum-era"
+      }
+    },
+    {
+      "keyword": "새만금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "알테오젠 \"실탄 6300억, 새 기술 도입에 투자\"",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026101268781"
-      }
-    },
-    {
-      "keyword": "박항서",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "태국 팬들은 박항서 감독의 능력에 의문을 품고 있다. 언론은 이를 어떻게 해석하고 있는가?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/cdv-thai-lan-nghi-ngo-nang-luc-cua-hlv-park-hang-seo-truyen-thong-ly-giai-ra-sao"
-      }
-    },
-    {
-      "keyword": "한국수력원자력",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "합천, 청년의 활력으로 물든 사흘…'우(牛)리들의 청춘마켓' 성공적 마무리",
+        "title": "군산 새만금 수산식품단지 투자 순항…가동 공장 3곳으로 늘어",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20261012004300353"
+        "url": "https://www.yna.co.kr/view/AKR20261012055400055"
       }
     },
     {
-      "keyword": "이주연",
+      "keyword": "schd",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "SCHD Is Down 6% From Its Peak. Here's Why History Says It's Still a Buy.",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/schd-down-6-peak-heres-160500748.html"
+      }
+    },
+    {
+      "keyword": "天気",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "連休最終日 九州などで真夏日に 14日以降は北日本などで荒天も",
+        "source": "NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261011de58040"
+      }
+    },
+    {
+      "keyword": "손해율",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "이주연, 남돌 대시 많이 받았다더니 “애프터스쿨 때 한강 데이트 많이 해”(이주의주연) - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/12/GMZWGM3DGQZTMZRTGY3GCN3FGI/"
+        "title": "보험사 '이익 부풀리기'에 칼 빼든 금감원",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026101269081"
+      }
+    },
+    {
+      "keyword": "아이폰 듀오",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"15분 충전하면 하루 쓴다\"…영국이 반한 '삼성 갤폴드8'",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261012_0003822511"
       }
     }
   ]

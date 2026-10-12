@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-11T19:40:32.296941+09:00",
-    "label": "19:40",
-    "items": [
-      {
-        "keyword": "주식",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "개미들, 3분기 코스피 5.6조 팔고 美주식 10.2조 샀다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261011/134819787/1"
-        }
-      },
-      {
-        "keyword": "뉴스1",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "행안장관 \"임은정 광주중수청장 감찰 지시…중수청 정치기관 착각\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261011140945pZJ"
-        }
-      },
-      {
-        "keyword": "한국경제",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독] SK스퀘어, 日 피지컬AI 스타트업 무진 투자... AI·반도체 밸류체인 확장",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610114219i"
-        }
-      },
-      {
-        "keyword": "단풍",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "경남도, `걸으면서 느끼는 단풍 여행지` 4곳 소개",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261011.99099002735"
-        }
-      },
-      {
-        "keyword": "한국경제신문",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "소득 4만달러 시대, 우리는 그에 걸맞은 품격 갖췄나",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026101145301"
-        }
-      },
-      {
-        "keyword": "소방관",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“아저씨 덕분에”…12년 전 불길서 구조된 소녀, 결혼 소식 들고 소방관 찾아",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/capital/1281786.html"
-        }
-      },
-      {
-        "keyword": "캐나다",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html"
-        }
-      },
-      {
-        "keyword": "기금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "새출발기금, 빚 안갚는 게 더 유리한 구조…‘도덕적 해이’ 우려",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261011/134820249/1"
-        }
-      },
-      {
-        "keyword": "신진 서",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "한국 4강 싹쓸이 ‘신진서·신민준·변상일·이지현’",
-          "source": "사이버오로",
-          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532861"
-        }
-      },
-      {
-        "keyword": "중간 선거",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "트럼프 \"민주당이 중간선거 이기면 1929년 대공황 올 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261011007000071"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-12T01:27:13.822585+09:00",
     "label": "01:27",
     "items": [
@@ -631,6 +525,112 @@
           "title": "이주연, 남돌 대시 많이 받았다더니 “애프터스쿨 때 한강 데이트 많이 해”(이주의주연) - 조선비즈",
           "source": "Chosunbiz",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/12/GMZWGM3DGQZTMZRTGY3GCN3FGI/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T08:21:17.753879+09:00",
+    "label": "08:21",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "서울 ‘30.1도’ 역대 10월 최고… 오늘 낮까지 비 온 뒤 기온 급락",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/10/12/LRVQUFQYCZEC7BKJ7LWJAKAJBU/"
+        }
+      },
+      {
+        "keyword": "현대 투싼",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[시승기] 현대차, 신형 투싼 1.6 터보 \"부드러운 변속 아쉬운 실주행 연비\"",
+          "source": "다나와 자동차",
+          "url": "https://auto.danawa.com/news/?Work=detail&no=6068946&NewsGroup=M"
+        }
+      },
+      {
+        "keyword": "백지영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "백지영, 9세 딸 샤넬백 관심에 난감 …\"내 옷도 자꾸 입어\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6315688"
+        }
+      },
+      {
+        "keyword": "rj mitte",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "RJ Mitte, Who Played Walter White’s Son on ‘Breaking Bad,’ Dies at 34",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "IonQ to Acquire Elisity for $1.3B to Advance Quantum Security",
+          "source": "IonQ",
+          "url": "https://www.ionq.com/news/ionq-to-acquire-elisity-to-accelerate-zero-trust-for-the-quantum-era"
+        }
+      },
+      {
+        "keyword": "새만금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "군산 새만금 수산식품단지 투자 순항…가동 공장 3곳으로 늘어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261012055400055"
+        }
+      },
+      {
+        "keyword": "schd",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SCHD Is Down 6% From Its Peak. Here's Why History Says It's Still a Buy.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/schd-down-6-peak-heres-160500748.html"
+        }
+      },
+      {
+        "keyword": "天気",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "連休最終日 九州などで真夏日に 14日以降は北日本などで荒天も",
+          "source": "NHKニュース",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261011de58040"
+        }
+      },
+      {
+        "keyword": "손해율",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "보험사 '이익 부풀리기'에 칼 빼든 금감원",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026101269081"
+        }
+      },
+      {
+        "keyword": "아이폰 듀오",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"15분 충전하면 하루 쓴다\"…영국이 반한 '삼성 갤폴드8'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261012_0003822511"
         }
       }
     ]
