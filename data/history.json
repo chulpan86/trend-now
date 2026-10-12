@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-10T19:14:24.261909+09:00",
-    "label": "19:14",
-    "items": [
-      {
-        "keyword": "ssg 대 kia",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "뒤집힌 3위 경쟁…KIA 자력 확정 눈앞, LG는 기적 바라야",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261010019000007"
-        }
-      },
-      {
-        "keyword": "중앙일보",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "파격 제안했던 태광그룹, 형평성 논란에 중앙일보 인수 의사 철회 … “추가 절차 진행 어렵다고 판단”",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800281.html"
-        }
-      },
-      {
-        "keyword": "외야수",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"연봉 일부 부담해도 이정후 보내라?\" 美 매체가 꺼낸 트레이드 카드…SF 외야에 무슨 일이",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/08/GY2TGZJSMVQTSNBTME4TKMRZG4/"
-        }
-      },
-      {
-        "keyword": "하원미",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“♥추신수, 집안 발자국에 바로 총 구입” (하원미)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610101225003"
-        }
-      },
-      {
-        "keyword": "재정신청",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[단독] “혐의없다”던 검찰, 재정신청 거치자 유죄…5년 반 동안 560명 재판에",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021401&code=61111111"
-        }
-      },
-      {
-        "keyword": "이창용",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이창용 전 총재 \"반도체발 착시 경계⋯양극화·수퍼사이클 중단 대비해야\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2634235?trc=right_categori_news"
-        }
-      },
-      {
-        "keyword": "lg그룹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "LG그룹, 현대차 제치고 그룹 시총 3위 탈환…325일 만에 ’역전’ By EBN",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2121455"
-        }
-      },
-      {
-        "keyword": "레이예스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "롯데 레이예스, 205번째 안타…최원준 제치고 단독 선두",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261010037000007"
-        }
-      },
-      {
-        "keyword": "구준엽",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'서희원과 사별' 구준엽, 한국 돌아갈 생각 묻자 \"없다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261008_0003819347"
-        }
-      },
-      {
-        "keyword": "테일러 프리츠",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Hot Shot: Fritz finds 'incredible' dig to repel Arnaldi's Shanghai 2026 charge",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/video/hot-shot-fritz-finds-incredible-dig-to-repel-arnaldis-shanghai-2026-charge"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-11T01:00:11.822272+09:00",
     "label": "01:00",
     "items": [
@@ -835,6 +729,112 @@
           "title": "Nỗi tiếc nuối của Liverpool trong ngày để thua Man City",
           "source": "yeuthethao.net.vn",
           "url": "https://yeuthethao.net.vn/noi-tiec-nuoi-cua-liverpool-trong-ngay-de-thua-man-city-d898238.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-12T09:06:18.395363+09:00",
+    "label": "09:06",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "500000+",
+        "traffic": 500000,
+        "news": {
+          "title": "13일 전국 가을비… 그친 뒤 아침 기온 ‘뚝’",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/10/11/PYWGNHCFENBLJMJDZUXGKIZXMM/"
+        }
+      },
+      {
+        "keyword": "이수만",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘다들 헐값에 팔 때 사들였다’…이수만이 20억 던진 압구정 땅 1000억 반전",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260811520510"
+        }
+      },
+      {
+        "keyword": "세인트루이스 시티 sc 대 la 갤럭시",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "세인트루이스 시티 vs 로스앤젤레스 갤럭시 예측: 선두 자리를 노릴 기회",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-st-louis-city-vs-los-angeles-galaxy-co-hoi-bam-duoi-ngoi-dau"
+        }
+      },
+      {
+        "keyword": "젠데이아",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "브리지트 영부인 왔는데 앉은 채 악수? 젠데이아 때 아닌 태도 논란 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/11/2026101113463769309"
+        }
+      },
+      {
+        "keyword": "이란",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "사우디 리야드공항 피격에 수백명 사상…美 \"개입 검토\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610120529171DV"
+        }
+      },
+      {
+        "keyword": "국제선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독]대한항공, 국제선 26개 노선중 20곳서 점유율 50% 훌쩍",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261011/134821457/2"
+        }
+      },
+      {
+        "keyword": "네팔",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "네팔, 또 다시 산사태로 홍수 발생···최소 5명 실종",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610112146001"
+        }
+      },
+      {
+        "keyword": "uae vs usa",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "USA vs UAE, 134th Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/174083/uae-vs-usa-134th-match-icc-cricket-world-cup-league-two-2023-27"
+        }
+      },
+      {
+        "keyword": "조지 클루니",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Cindy Crawford and Rande Gerber Hold Hands During First Public Outing Since Son Presley’s Death",
+          "source": "People.com",
+          "url": "https://people.com/cindy-crawford-and-rande-gerber-hold-hands-in-first-public-outing-since-son-presley-s-death-12169188"
+        }
+      },
+      {
+        "keyword": "klasemen liverpool vs man city",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Here are 13 statistics to know before Liverpool's Premier",
+          "source": "Liverpool FC",
+          "url": "https://www.liverpoolfc.com/id/news/liverpool-v-man-city-stats-preview-tactics-goals-and-potential-iraola-feat"
         }
       }
     ]
