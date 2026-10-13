@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-13T13:32:04.830241+09:00",
-  "label": "13:32",
+  "timestamp": "2026-10-13T21:19:29.705538+09:00",
+  "label": "21:19",
   "items": [
     {
-      "keyword": "심정지",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "뷰노, 유럽중환자의학회 참가…DeepCARS 유럽 레퍼런스 확보 총력",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718344"
-      }
-    },
-    {
-      "keyword": "석장현",
+      "keyword": "장생포고래문화특구",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "프로야구 한화, 15대 신임 사령탑에 류지현 국가대표 감독 선임",
+        "title": "'제30회 울산고래축제' 15일 개막…300인 대합창에 퍼레이드까지",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261013088400007"
+        "url": "https://www.yna.co.kr/view/AKR20261013125000057"
       }
     },
     {
-      "keyword": "농협",
+      "keyword": "국민연금공단",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "국민연금 10년 붓고도 한 푼 못 받고 숨진 장애인 6천100명",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261012151800530"
+      }
+    },
+    {
+      "keyword": "돌잔치",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "\"셋째 돌잔치에 지인 싹 불러 2부까지 하겠다는 동생…대체 무슨 민폐냐\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6317247"
+      }
+    },
+    {
+      "keyword": "알렉산더 즈베레프",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "임실군·농협, 기본소득 상생 맞손…하나로마트서 사용 가능",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261013088800055"
+        "title": "츠베레프, 독일선수 최초 남자프로테니스 연말 랭킹 1위 확정",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11623042"
       }
     },
     {
-      "keyword": "손아섭",
+      "keyword": "안양 정관장 대 고양 소노",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "아리엘 후라도",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[포토] '1회말 안타출루' 손아섭 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/10/12/2026101219333575892"
-      }
-    },
-    {
-      "keyword": "헌법재판소",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "업무보고 하는 김인숙 헌법재판연구원장",
+        "title": "'볼넷도 아쉬운' KT 힐리어드",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20261013_0021486843"
+        "url": "https://www.newsis.com/view/NISI20261012_0021486018"
       }
     },
     {
-      "keyword": "건설업",
+      "keyword": "대구백화점",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "30만명 건설 현장서 밀려나... 98%는 임시·일용직",
+        "title": "대구백화점 동성로 본점 1300억원에 팔린다 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/distribution/food/2026/10/13/NRQSR65IWRAL7LZUXMLE7HA2JM/"
+      }
+    },
+    {
+      "keyword": "스마트안경",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "연세대·서울시립대 논술서 ‘스마트 안경’ 적발…시립대 “3년간 응시 금지” [지금뉴스]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8684243"
+      }
+    },
+    {
+      "keyword": "리센느 앨범",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[단독] 배민에서 아이돌 앨범까지...‘리센느’ 컴백 앨범 사전 예약 받는다",
         "source": "조선일보",
-        "url": "https://www.chosun.com/economy/economy_general/2026/10/11/5SY36OVJNND7LBNWX3JXNTRKCA/"
+        "url": "https://www.chosun.com/economy/industry-company/2026/10/13/BL3EENHBY5GRXDINRQSDED4B4Y/"
       }
     },
     {
-      "keyword": "agf",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Danish champions AGF cruise past Sonderjyske to get first win of the season",
-        "source": "Flashscore.co.za",
-        "url": "https://www.flashscore.co.za/news/soccer-superliga-danish-champions-agf-cruise-past-sonderjyske-to-get-first-win-of-the-season/j7O8Fq0B/"
-      }
-    },
-    {
-      "keyword": "수술",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "제대병원, 다빈치 3기종 완성…암 수술·지역완결형 의료 선도",
-        "source": "제민일보",
-        "url": "https://www.jemin.com/news/articleView.html?idxno=844298"
-      }
-    },
-    {
-      "keyword": "파주시",
+      "keyword": "손열음",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "파주시, 해오름마을~운정역 마을버스 079번 신설",
-        "source": "인천일보",
-        "url": "http://incheonilbo.com/news/articleView.html?idxno=1333973"
-      }
-    },
-    {
-      "keyword": "펄어비스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "AMD 경영진, 펄어비스 방문... '붉은사막' 기술 협력 확대 논의",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261012000365"
+        "title": "손열음도 독주자 아닌 100명 중 한 명…지휘자 없는 공연, 스크린으로 만난다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610122025015"
       }
     }
   ]
