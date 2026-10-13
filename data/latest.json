@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-13T08:21:17.753879+09:00",
-  "label": "08:21",
+  "timestamp": "2026-10-13T13:32:04.830241+09:00",
+  "label": "13:32",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "심정지",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "서울 ‘30.1도’ 역대 10월 최고… 오늘 낮까지 비 온 뒤 기온 급락",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/10/12/LRVQUFQYCZEC7BKJ7LWJAKAJBU/"
+        "title": "뷰노, 유럽중환자의학회 참가…DeepCARS 유럽 레퍼런스 확보 총력",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718344"
       }
     },
     {
-      "keyword": "현대 투싼",
+      "keyword": "석장현",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[시승기] 현대차, 신형 투싼 1.6 터보 \"부드러운 변속 아쉬운 실주행 연비\"",
-        "source": "다나와 자동차",
-        "url": "https://auto.danawa.com/news/?Work=detail&no=6068946&NewsGroup=M"
-      }
-    },
-    {
-      "keyword": "백지영",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "백지영, 9세 딸 샤넬백 관심에 난감 …\"내 옷도 자꾸 입어\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/6315688"
-      }
-    },
-    {
-      "keyword": "rj mitte",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "RJ Mitte, Who Played Walter White’s Son on ‘Breaking Bad,’ Dies at 34",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html"
-      }
-    },
-    {
-      "keyword": "ionq",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "IonQ to Acquire Elisity for $1.3B to Advance Quantum Security",
-        "source": "IonQ",
-        "url": "https://www.ionq.com/news/ionq-to-acquire-elisity-to-accelerate-zero-trust-for-the-quantum-era"
-      }
-    },
-    {
-      "keyword": "새만금",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "군산 새만금 수산식품단지 투자 순항…가동 공장 3곳으로 늘어",
+        "title": "프로야구 한화, 15대 신임 사령탑에 류지현 국가대표 감독 선임",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261012055400055"
+        "url": "https://www.yna.co.kr/view/AKR20261013088400007"
       }
     },
     {
-      "keyword": "schd",
+      "keyword": "농협",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "임실군·농협, 기본소득 상생 맞손…하나로마트서 사용 가능",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261013088800055"
+      }
+    },
+    {
+      "keyword": "손아섭",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[포토] '1회말 안타출루' 손아섭 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/10/12/2026101219333575892"
+      }
+    },
+    {
+      "keyword": "헌법재판소",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "SCHD Is Down 6% From Its Peak. Here's Why History Says It's Still a Buy.",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/schd-down-6-peak-heres-160500748.html"
-      }
-    },
-    {
-      "keyword": "天気",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "連休最終日 九州などで真夏日に 14日以降は北日本などで荒天も",
-        "source": "NHKニュース",
-        "url": "https://news.web.nhk/newsweb/na/nd-20261011de58040"
-      }
-    },
-    {
-      "keyword": "손해율",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "보험사 '이익 부풀리기'에 칼 빼든 금감원",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026101269081"
-      }
-    },
-    {
-      "keyword": "아이폰 듀오",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"15분 충전하면 하루 쓴다\"…영국이 반한 '삼성 갤폴드8'",
+        "title": "업무보고 하는 김인숙 헌법재판연구원장",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261012_0003822511"
+        "url": "https://www.newsis.com/view/NISI20261013_0021486843"
+      }
+    },
+    {
+      "keyword": "건설업",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "30만명 건설 현장서 밀려나... 98%는 임시·일용직",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/10/11/5SY36OVJNND7LBNWX3JXNTRKCA/"
+      }
+    },
+    {
+      "keyword": "agf",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Danish champions AGF cruise past Sonderjyske to get first win of the season",
+        "source": "Flashscore.co.za",
+        "url": "https://www.flashscore.co.za/news/soccer-superliga-danish-champions-agf-cruise-past-sonderjyske-to-get-first-win-of-the-season/j7O8Fq0B/"
+      }
+    },
+    {
+      "keyword": "수술",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "제대병원, 다빈치 3기종 완성…암 수술·지역완결형 의료 선도",
+        "source": "제민일보",
+        "url": "https://www.jemin.com/news/articleView.html?idxno=844298"
+      }
+    },
+    {
+      "keyword": "파주시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "파주시, 해오름마을~운정역 마을버스 079번 신설",
+        "source": "인천일보",
+        "url": "http://incheonilbo.com/news/articleView.html?idxno=1333973"
+      }
+    },
+    {
+      "keyword": "펄어비스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "AMD 경영진, 펄어비스 방문... '붉은사막' 기술 협력 확대 논의",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261012000365"
       }
     }
   ]
