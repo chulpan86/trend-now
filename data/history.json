@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-13T01:18:05.381814+09:00",
-    "label": "01:18",
-    "items": [
-      {
-        "keyword": "주식시장",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "로빈후드, 블록체인 거래량 40%↓…흥행 '실패' 경고등",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438646"
-        }
-      },
-      {
-        "keyword": "비타민",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘비타민 주사’라며 ‘납 배출 주사’ 투약…이 대통령 \"용납 못 해\" 엄중 조치 지시",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12322525"
-        }
-      },
-      {
-        "keyword": "차준환",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "피겨 차준환, 선수 활동 중단 선언…대중문화 활동에 전념할 듯",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683754"
-        }
-      },
-      {
-        "keyword": "김혜수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"미인 둘에 잠이 깬다\"…김혜수, 송선미와 뜻밖의 투샷 \"멀리 찾아와\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012610"
-        }
-      },
-      {
-        "keyword": "챔스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[이원홍의 스포트라이트]철없는 언행, 자중지란… 혼돈의 한국 축구",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261011/134822048/2"
-        }
-      },
-      {
-        "keyword": "제주시민회관",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "420억원 투입된 제주시민회관도 \"공사 멈췄다\"",
-          "source": "제주일보",
-          "url": "https://www.jejunews.com/news/articleView.html?idxno=2228188"
-        }
-      },
-      {
-        "keyword": "알 테오 젠",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "알테오젠 \"실탄 6300억, 새 기술 도입에 투자\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026101268781"
-        }
-      },
-      {
-        "keyword": "박항서",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "태국 팬들은 박항서 감독의 능력에 의문을 품고 있다. 언론은 이를 어떻게 해석하고 있는가?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/cdv-thai-lan-nghi-ngo-nang-luc-cua-hlv-park-hang-seo-truyen-thong-ly-giai-ra-sao"
-        }
-      },
-      {
-        "keyword": "한국수력원자력",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "합천, 청년의 활력으로 물든 사흘…'우(牛)리들의 청춘마켓' 성공적 마무리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261012004300353"
-        }
-      },
-      {
-        "keyword": "이주연",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이주연, 남돌 대시 많이 받았다더니 “애프터스쿨 때 한강 데이트 많이 해”(이주의주연) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/12/GMZWGM3DGQZTMZRTGY3GCN3FGI/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-13T08:21:17.753879+09:00",
     "label": "08:21",
     "items": [
@@ -729,6 +623,112 @@
           "title": "Gemini 4 Argon: Built to solve your hardest problems",
           "source": "blog.google",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-14T17:10:39.699801+09:00",
+    "label": "17:10",
+    "items": [
+      {
+        "keyword": "패밀리 카",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"연비는 아쉬운데 가족은 만족\".. 평점 7.8점, SUV 대체 만능 패밀리카는?",
+          "source": "오토트리뷴",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=46448"
+        }
+      },
+      {
+        "keyword": "안성훈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "송가인·안성훈 15년간 무슨 사이? 현실 남매 케미 (편스토랑)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261014/134838657/1"
+        }
+      },
+      {
+        "keyword": "가스관",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'설리번 구하기' 나선 백악관 \"한국, 알래스카 72조 5천억 투자\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610141153458012_005.html"
+        }
+      },
+      {
+        "keyword": "이혜성",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이혜성, 결혼관 고백…\"죽을 때까지 경제활동 하며 자기계발할 것\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6319068"
+        }
+      },
+      {
+        "keyword": "우선주",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성전자 우선주 소각 압박 확산…해외선 ADR 발행까지 제안",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439200"
+        }
+      },
+      {
+        "keyword": "안지만",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "전직 삼성라이온즈 투수 안지만, 지인 사기 혐의 징역 1년 8개월 선고",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8685535"
+        }
+      },
+      {
+        "keyword": "kbo mvp",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Tigers slugger Kim Do-yeong up for 2nd career KBO MVP award",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261013008900315"
+        }
+      },
+      {
+        "keyword": "gs25",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "GS25 Game IP Collaboration Products Surpass 23 Million in Cumulative Sales",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026101408062279687"
+        }
+      },
+      {
+        "keyword": "sk 아이젠",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SK, 청년 50명에 7200만원 지원 AI인재 육성 나서",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261012/134828695/2"
+        }
+      },
+      {
+        "keyword": "도지코인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "3.88달러 대박이냐 롱 청산이냐…도지코인 운명 가를 지지선",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/10/202610140317413523e7e8286d56_1"
         }
       }
     ]
