@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-13T13:32:04.830241+09:00",
-    "label": "13:32",
-    "items": [
-      {
-        "keyword": "심정지",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "뷰노, 유럽중환자의학회 참가…DeepCARS 유럽 레퍼런스 확보 총력",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718344"
-        }
-      },
-      {
-        "keyword": "석장현",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "프로야구 한화, 15대 신임 사령탑에 류지현 국가대표 감독 선임",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261013088400007"
-        }
-      },
-      {
-        "keyword": "농협",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "임실군·농협, 기본소득 상생 맞손…하나로마트서 사용 가능",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261013088800055"
-        }
-      },
-      {
-        "keyword": "손아섭",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[포토] '1회말 안타출루' 손아섭 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/12/2026101219333575892"
-        }
-      },
-      {
-        "keyword": "헌법재판소",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "업무보고 하는 김인숙 헌법재판연구원장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261013_0021486843"
-        }
-      },
-      {
-        "keyword": "건설업",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "30만명 건설 현장서 밀려나... 98%는 임시·일용직",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/10/11/5SY36OVJNND7LBNWX3JXNTRKCA/"
-        }
-      },
-      {
-        "keyword": "agf",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Danish champions AGF cruise past Sonderjyske to get first win of the season",
-          "source": "Flashscore.co.za",
-          "url": "https://www.flashscore.co.za/news/soccer-superliga-danish-champions-agf-cruise-past-sonderjyske-to-get-first-win-of-the-season/j7O8Fq0B/"
-        }
-      },
-      {
-        "keyword": "수술",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "제대병원, 다빈치 3기종 완성…암 수술·지역완결형 의료 선도",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=844298"
-        }
-      },
-      {
-        "keyword": "파주시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "파주시, 해오름마을~운정역 마을버스 079번 신설",
-          "source": "인천일보",
-          "url": "http://incheonilbo.com/news/articleView.html?idxno=1333973"
-        }
-      },
-      {
-        "keyword": "펄어비스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "AMD 경영진, 펄어비스 방문... '붉은사막' 기술 협력 확대 논의",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261012000365"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-13T21:19:29.705538+09:00",
     "label": "21:19",
     "items": [
@@ -729,6 +623,112 @@
           "title": "고리원자력본부 고리2호기 첫 사고관리 훈련 추진 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/policy/2026/10/14/2026101417275933272"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-15T04:03:05.428841+09:00",
+    "label": "04:03",
+    "items": [
+      {
+        "keyword": "리버풀",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "역시 ‘큰 ’선수는 달랐다···제라드 “우승 소급 메달? 관심없다···맨시티가 누린, 우리가 빼앗긴 추억은 어떡하나”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610140846001"
+        }
+      },
+      {
+        "keyword": "멜론",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"아이찡 부모, 직원 월급 안 줘\"…이수만 걸그룹 데뷔 하루 만에 '시끌' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/14/2026101418181195915"
+        }
+      },
+      {
+        "keyword": "기온",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[날씨] 오늘(수) 대체로 맑고, 쌀쌀해…큰 일교차 유의",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610140639070001"
+        }
+      },
+      {
+        "keyword": "sk그룹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "SK·삼성물산·현대건설·두산, 웨스팅하우스 지분 인수 검토",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373424"
+        }
+      },
+      {
+        "keyword": "lask vs liverpool",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LASK Linz vs Liverpool: Lineups, Prediction, Odds & Bet Builder Tip",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/articles/l3uzIgbkj0aL1mQ6lJNXJw/show/cng111-20261014-lask-linz-vs-liverpool-prediction-1791968232"
+        }
+      },
+      {
+        "keyword": "lask",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[[[Fox^Sports]] Liverpool and LASK Linz Live",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2NpbWFuZ28uZ2l0aHViLmlvL3NhbmkvdG50dHYueG1sIi8+PC9rcnBhbm8+&id=liverpool-and-lask-linz-liv-str-today-match-tvd1-588"
+        }
+      },
+      {
+        "keyword": "west indies vs india",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Another batting paradise greets India and West Indies in Hyderabad",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-4th-t20i-1529233/match-preview"
+        }
+      },
+      {
+        "keyword": "앤트로픽",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "앤트로픽, 가전기기에 바이러스처럼 자가 복제되는 'AI 웜' 경고",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261014000313"
+        }
+      },
+      {
+        "keyword": "약",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"약가 우대 인센티브 안돼\"…억울한 한국산 원료",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261013_0003824504"
+        }
+      },
+      {
+        "keyword": "박성현",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김효주 '3연패 무산 시킨' 日 야마시타에 세계 4위 내줬다... 유해란 3위-'시즌 2승' 유현조 42위 도약 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/10/13/2026101308374136120"
         }
       }
     ]

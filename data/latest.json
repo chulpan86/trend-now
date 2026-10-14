@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-14T23:10:48.522630+09:00",
-  "label": "23:10",
+  "timestamp": "2026-10-15T04:03:05.428841+09:00",
+  "label": "04:03",
   "items": [
     {
-      "keyword": "열차",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "'지옥철' 서울 9호선, 급행열차 늘린다",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6857890_36918.html"
-      }
-    },
-    {
-      "keyword": "kbo",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "LG Twins overcome Doosan Bears in Wild Card Series as KBO season starts in Seoul",
-        "source": "World Baseball Softball Confederation (WBSC)",
-        "url": "https://www.wbsc.org/en/news/kbo-2026-postseason-preview"
-      }
-    },
-    {
-      "keyword": "크보",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "KBO, 9∼10월 MVP 후보 발표…kt 최원준·SSG 아빌라 등 6명",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261014065500007"
-      }
-    },
-    {
-      "keyword": "이영하",
+      "keyword": "리버풀",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "득점하는 세베리노",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20261014_0021489303"
+        "title": "역시 ‘큰 ’선수는 달랐다···제라드 “우승 소급 메달? 관심없다···맨시티가 누린, 우리가 빼앗긴 추억은 어떡하나”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610140846001"
       }
     },
     {
-      "keyword": "준플레이오프 일정",
+      "keyword": "멜론",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"아이찡 부모, 직원 월급 안 줘\"…이수만 걸그룹 데뷔 하루 만에 '시끌' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/14/2026101418181195915"
+      }
+    },
+    {
+      "keyword": "기온",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[날씨] 오늘(수) 대체로 맑고, 쌀쌀해…큰 일교차 유의",
+        "source": "YTN 사이언스",
+        "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610140639070001"
+      }
+    },
+    {
+      "keyword": "sk그룹",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘슈퍼스타’ 김도영의 완벽한 피날레…프로야구는 올해도 ‘대흥행’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8685436"
+        "title": "SK·삼성물산·현대건설·두산, 웨스팅하우스 지분 인수 검토",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=373424"
       }
     },
     {
-      "keyword": "김택연",
+      "keyword": "lask vs liverpool",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[포토] 김택연 '내일도 마운드 오르리' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/10/14/2026101421130051974"
+        "title": "LASK Linz vs Liverpool: Lineups, Prediction, Odds & Bet Builder Tip",
+        "source": "WhoScored.com",
+        "url": "https://www.whoscored.com/articles/l3uzIgbkj0aL1mQ6lJNXJw/show/cng111-20261014-lask-linz-vs-liverpool-prediction-1791968232"
       }
     },
     {
-      "keyword": "허정한",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "lask",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'최강 조명우 32강 충격 탈락' 베테랑 허정한이 韓 4관왕 이뤘다",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6589631"
+        "title": "[[[Fox^Sports]] Liverpool and LASK Linz Live",
+        "source": "Universidad de Córdoba (UCO)",
+        "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2NpbWFuZ28uZ2l0aHViLmlvL3NhbmkvdG50dHYueG1sIi8+PC9rcnBhbm8+&id=liverpool-and-lask-linz-liv-str-today-match-tvd1-588"
       }
     },
     {
-      "keyword": "스마트폰",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "west indies vs india",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "\"14년 만에 최악 상황\"…세계 1위 왕좌 지킨 삼성도 '직격탄' [테크로그]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202610140514g"
+        "title": "Another batting paradise greets India and West Indies in Hyderabad",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-4th-t20i-1529233/match-preview"
       }
     },
     {
-      "keyword": "포스트시즌 일정",
+      "keyword": "앤트로픽",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "앤트로픽, 가전기기에 바이러스처럼 자가 복제되는 'AI 웜' 경고",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261014000313"
+      }
+    },
+    {
+      "keyword": "약",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[그래픽] 2026 KBO 포스트 시즌 경기 일정",
+        "title": "\"약가 우대 인센티브 안돼\"…억울한 한국산 원료",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20261013_0002261427"
+        "url": "https://www.newsis.com/view/NISX20261013_0003824504"
       }
     },
     {
-      "keyword": "원자로",
+      "keyword": "박성현",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "고리원자력본부 고리2호기 첫 사고관리 훈련 추진 - 머니투데이",
+        "title": "김효주 '3연패 무산 시킨' 日 야마시타에 세계 4위 내줬다... 유해란 3위-'시즌 2승' 유현조 42위 도약 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/policy/2026/10/14/2026101417275933272"
+        "url": "https://www.mt.co.kr/culture/2026/10/13/2026101308374136120"
       }
     }
   ]
