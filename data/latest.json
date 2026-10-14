@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-14T08:30:45.324869+09:00",
-  "label": "08:30",
+  "timestamp": "2026-10-14T11:41:51.269396+09:00",
+  "label": "11:41",
   "items": [
     {
-      "keyword": "여행",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "민희진",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "함양군, 지역사랑 휴가지원 ‘웰·컴 함양 반값여행’ 3차 참가자 모집",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20261013500618"
+        "title": "\"아일릿이 뉴진스 표절\" 민희진, 명예훼손·업무방해 혐의로 송치",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6857797_36918.html"
       }
     },
     {
-      "keyword": "thứ hạng của atlético madrid gặp man utd",
+      "keyword": "농민",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "꽝닌 지역 농민들의 부에 대한 열망을 불러일으키다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/khoi-day-khat-vong-lam-giau-cua-nong-dan-quang-ninh"
+      }
+    },
+    {
+      "keyword": "며느리",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Video bóng đá Atletico Madrid - MU: Sụp đổ vì thẻ đỏ nghiệt ngã (Cúp C1)",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/video-bong-da-atletico-madrid-mu-sup-do-vi-the-do-nghiet-nga-cup-c1-c48a1802519.html"
+        "title": "\"잠자리 따로 마련해 줬는데\"…며느리 침대에 누운 시아버지 뭐죠?",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6318676"
       }
     },
     {
-      "keyword": "집",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"5억대에 새 집 줍줍할 기회\"…'애물단지' 아파트의 반전",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026101394771"
-      }
-    },
-    {
-      "keyword": "김성주",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "이동환",
+      "keyword": "그랜드 테 프트 오토 vi",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이재준 전 고양시장, 이동환 전 시장 상대 손배소 승소",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261013108600060"
+        "title": "GTA6, 'NPC 대사를 위한 작가 팀'이 별도 존재한다",
+        "source": "인벤",
+        "url": "https://www.inven.co.kr/webzine/news/?news=321986"
       }
     },
     {
-      "keyword": "법관",
+      "keyword": "파라타항공",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신임법관 146명 임명…로스쿨 출신 신임 법관 138명 '역대 최다'",
-        "source": "로스쿨타임즈",
-        "url": "https://www.lawschooltimes.com/news/articleView.html?idxno=12035"
+        "title": "파라타항공, 6호기 A320-200 도입 계약 체결 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/industry/company/2026/10/14/LCZ2BCRABZFXVFXDS43UZRRVIE/"
       }
     },
     {
-      "keyword": "지민",
+      "keyword": "agf 2026",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "BTS Community Post - 찾느라 수고했다. 이쁨받는 지민이~❤️ 헵뻘떼 - V",
-        "source": "Weverse",
-        "url": "https://weverse.io/bts/artist/4-242595179"
+        "title": "This Week in Mobile Games - Battle of the Blue Archives",
+        "source": "Anime News Network",
+        "url": "https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-10-05/.242399"
       }
     },
     {
-      "keyword": "루원시티",
+      "keyword": "모두의 ai",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"상상이 현실로…모두를 위한 AI\" 코엑스에서 만난 'AI FESTA 26'",
+        "source": "정책브리핑",
+        "url": "https://www.korea.kr/news/reporterView.do?newsId=148973176"
+      }
+    },
+    {
+      "keyword": "h&m",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "인천 공공기관 8곳 ‘대이동’ 시작…루원복합청사 입주로 청사 재배치",
-        "source": "기호일보",
-        "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037480"
+        "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/cwly38gjkejko"
       }
     },
     {
-      "keyword": "spcx",
+      "keyword": "카드뉴스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "We Investigated Starlink. The Corruption We Found Will Shock You",
-        "source": "More Perfect Union | Substack",
-        "url": "https://substack.perfectunion.us/p/we-investigated-starlink-the-corruption"
+        "title": "하루 늦게 태어났는데 3400만원 차이…양육지원급여 소급 검토",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20261014580009"
       }
     },
     {
-      "keyword": "barcelona",
+      "keyword": "gemini 4",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "¿Cómo ver el partido Galatasaray vs Barcelona en TV y streaming?",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/es-us/como-ver-el-partido-galatasaray-vs-barcelona-en-tv-y-streaming-13-10-2026"
+        "title": "Gemini 4 Argon: Built to solve your hardest problems",
+        "source": "blog.google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
       }
     }
   ]
