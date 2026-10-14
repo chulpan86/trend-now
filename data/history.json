@@ -732,5 +732,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-15T07:50:05.708033+09:00",
+    "label": "07:50",
+    "items": [
+      {
+        "keyword": "weather",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Gradually Drying Out Today... Sunshine Returns Thursday",
+          "source": "WABI",
+          "url": "https://www.wabi.tv/2026/10/14/gradually-drying-out-today-sunshine-returns-thursday/"
+        }
+      },
+      {
+        "keyword": "as roma vs real madrid standings",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Roma 3-4 Real Madrid: Los Blancos win after stunning late fightback",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmwyqp5q1lypt"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Advancing subseasonal forecasting with machine learning",
+          "source": "Nature",
+          "url": "https://www.nature.com/articles/s41586-026-11126-x"
+        }
+      },
+      {
+        "keyword": "충주시",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "погода",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "В Израиль придут дожди вслед за потеплением: прогноз погоды до конца недели",
+          "source": "Vesty.co.il",
+          "url": "https://www.vesty.co.il/main/article/b1e116thjfx"
+        }
+      },
+      {
+        "keyword": "스마트 폰",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"14년 만에 최악 상황\"…세계 1위 왕좌 지킨 삼성도 '직격탄' [테크로그]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610140514g"
+        }
+      },
+      {
+        "keyword": "skhy",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "SK Hynix Plunges 10% to Close at '1.43 Million Hynix,' Samsung Electronics Down 7.4%",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008795608"
+        }
+      },
+      {
+        "keyword": "vix",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "A Major Volatility Regime Shift May Be Coming",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/analysis/a-major-volatility-regime-shift-may-be-coming-200689525"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Innodata vs. IONQ: A Look at Revenue Trends Between Artificial Intelligence and Quantum Computing Innovators",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/innodata-vs-ionq-look-revenue-183040299.html"
+        }
+      },
+      {
+        "keyword": "한미약품",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "국산 비만약 '에페' 첫 달 13만원 전망…마운자로 반값",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261014164800017"
+        }
+      }
+    ]
   }
 ]

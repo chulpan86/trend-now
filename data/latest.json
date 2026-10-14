@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-15T04:03:05.428841+09:00",
-  "label": "04:03",
+  "timestamp": "2026-10-15T07:50:05.708033+09:00",
+  "label": "07:50",
   "items": [
     {
-      "keyword": "리버풀",
+      "keyword": "weather",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Gradually Drying Out Today... Sunshine Returns Thursday",
+        "source": "WABI",
+        "url": "https://www.wabi.tv/2026/10/14/gradually-drying-out-today-sunshine-returns-thursday/"
+      }
+    },
+    {
+      "keyword": "as roma vs real madrid standings",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Roma 3-4 Real Madrid: Los Blancos win after stunning late fightback",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cmwyqp5q1lypt"
+      }
+    },
+    {
+      "keyword": "天气",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "역시 ‘큰 ’선수는 달랐다···제라드 “우승 소급 메달? 관심없다···맨시티가 누린, 우리가 빼앗긴 추억은 어떡하나”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610140846001"
+        "title": "Advancing subseasonal forecasting with machine learning",
+        "source": "Nature",
+        "url": "https://www.nature.com/articles/s41586-026-11126-x"
       }
     },
     {
-      "keyword": "멜론",
+      "keyword": "충주시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "погода",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"아이찡 부모, 직원 월급 안 줘\"…이수만 걸그룹 데뷔 하루 만에 '시끌' - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/14/2026101418181195915"
+        "title": "В Израиль придут дожди вслед за потеплением: прогноз погоды до конца недели",
+        "source": "Vesty.co.il",
+        "url": "https://www.vesty.co.il/main/article/b1e116thjfx"
       }
     },
     {
-      "keyword": "기온",
+      "keyword": "스마트 폰",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[날씨] 오늘(수) 대체로 맑고, 쌀쌀해…큰 일교차 유의",
-        "source": "YTN 사이언스",
-        "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610140639070001"
+        "title": "\"14년 만에 최악 상황\"…세계 1위 왕좌 지킨 삼성도 '직격탄' [테크로그]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610140514g"
       }
     },
     {
-      "keyword": "sk그룹",
+      "keyword": "skhy",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "SK Hynix Plunges 10% to Close at '1.43 Million Hynix,' Samsung Electronics Down 7.4%",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008795608"
+      }
+    },
+    {
+      "keyword": "vix",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "SK·삼성물산·현대건설·두산, 웨스팅하우스 지분 인수 검토",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=373424"
+        "title": "A Major Volatility Regime Shift May Be Coming",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/analysis/a-major-volatility-regime-shift-may-be-coming-200689525"
       }
     },
     {
-      "keyword": "lask vs liverpool",
+      "keyword": "ionq",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "LASK Linz vs Liverpool: Lineups, Prediction, Odds & Bet Builder Tip",
-        "source": "WhoScored.com",
-        "url": "https://www.whoscored.com/articles/l3uzIgbkj0aL1mQ6lJNXJw/show/cng111-20261014-lask-linz-vs-liverpool-prediction-1791968232"
+        "title": "Innodata vs. IONQ: A Look at Revenue Trends Between Artificial Intelligence and Quantum Computing Innovators",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/innodata-vs-ionq-look-revenue-183040299.html"
       }
     },
     {
-      "keyword": "lask",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[[[Fox^Sports]] Liverpool and LASK Linz Live",
-        "source": "Universidad de Córdoba (UCO)",
-        "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2NpbWFuZ28uZ2l0aHViLmlvL3NhbmkvdG50dHYueG1sIi8+PC9rcnBhbm8+&id=liverpool-and-lask-linz-liv-str-today-match-tvd1-588"
-      }
-    },
-    {
-      "keyword": "west indies vs india",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Another batting paradise greets India and West Indies in Hyderabad",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-4th-t20i-1529233/match-preview"
-      }
-    },
-    {
-      "keyword": "앤트로픽",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "앤트로픽, 가전기기에 바이러스처럼 자가 복제되는 'AI 웜' 경고",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261014000313"
-      }
-    },
-    {
-      "keyword": "약",
+      "keyword": "한미약품",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"약가 우대 인센티브 안돼\"…억울한 한국산 원료",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261013_0003824504"
-      }
-    },
-    {
-      "keyword": "박성현",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김효주 '3연패 무산 시킨' 日 야마시타에 세계 4위 내줬다... 유해란 3위-'시즌 2승' 유현조 42위 도약 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/culture/2026/10/13/2026101308374136120"
+        "title": "국산 비만약 '에페' 첫 달 13만원 전망…마운자로 반값",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261014164800017"
       }
     }
   ]
