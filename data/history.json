@@ -842,5 +842,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-16T08:25:19.535893+09:00",
+    "label": "08:25",
+    "items": [
+      {
+        "keyword": "신지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "신지, 40㎏ 초반 몸매 유지…체크 원피스 소화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261015_0003827825"
+        }
+      },
+      {
+        "keyword": "xsmb",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Tỷ lệ kèo chấp bóng đá hôm nay mới nhất",
+          "source": "HOA BINH CONSTRUCTION GROUP",
+          "url": "https://hbcg.vn/hot/T%E1%BB%B7-l%E1%BB%87-k%C3%A8o-ch%E1%BA%A5p-b%C3%B3ng-%C4%91%C3%A1-h%C3%B4m-nay-m%E1%BB%9Bi-nh%E1%BA%A5t"
+        }
+      },
+      {
+        "keyword": "다우 존스 산업평균지수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美 국채금리 하락에 3대 지수 반등…다우 1.08% 상승 [뉴욕증시 브리핑]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026101652966"
+        }
+      },
+      {
+        "keyword": "극초음속 활공체",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "北 \"韓극초음속, 비행 못했을수도\" 주장에 군 \"기술력\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610160555283r9"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Rosenblatt cuts IonQ stock price target on dilution concerns",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/analyst-ratings/rosenblatt-cuts-ionq-stock-price-target-on-dilution-concerns-93CH-4951468"
+        }
+      },
+      {
+        "keyword": "의약품",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“데이터 쥐고도 깜깜이 행정”… 수술대 위 필수 의료기기, ‘공급중단’ 경고등",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261015500625"
+        }
+      },
+      {
+        "keyword": "압수수색",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "선관위 특검 \"전국 30곳 투표자 수 허위입력\"...독점계약 수사도 '속도'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610152150018415"
+        }
+      },
+      {
+        "keyword": "수도권 광역급행철도 b노선",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "차예련",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[사진]최명길, 가을 분위기",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/15/GA2TMYJXGY2DCYRUMNTGIMLBGI/"
+        }
+      },
+      {
+        "keyword": "현대",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "현대해상, '월별 안전운전점수 할인 특약' 특허 취득 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/10/15/2026101513545478139"
+        }
+      }
+    ]
   }
 ]
