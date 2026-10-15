@@ -838,5 +838,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-15T15:42:29.394124+09:00",
+    "label": "15:42",
+    "items": [
+      {
+        "keyword": "부모",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“우리 부모님 돈 떼먹은 초등 동창이 유명 연애예능에…” 폭로글 올라와 갑론을박",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11623541"
+        }
+      },
+      {
+        "keyword": "서장훈의 이웃집 백만장자",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국민차 만든 박종서 “뇌종양으로 57세 은퇴…후배 양성에 100억 투자”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261015/134845605/1"
+        }
+      },
+      {
+        "keyword": "초소형군집위성",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "누리호 타고 우주 간 위성 5기... ‘車 식별’ 지구 사진 보내왔다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/science/2026/10/15/5DQKNJU475FNZNECUKEYGI3JYA/"
+        }
+      },
+      {
+        "keyword": "포스코노동조합",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "한달 만에 마주 앉은 포스코 노사…잠정 합의안 도출에는 실패",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261014167900053"
+        }
+      },
+      {
+        "keyword": "기상",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "기상청-한전, 기상·전력 융합기술 협력 본격화",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373479"
+        }
+      },
+      {
+        "keyword": "병역면제",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"군대 안 가요\" 후폭풍, 심상찮다…8년 전 살아 남은 병역특례, 이번엔? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/15/2026101316502487886"
+        }
+      },
+      {
+        "keyword": "경향신문",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[인사] 경향신문",
+          "source": "이뉴스투데이",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479278"
+        }
+      },
+      {
+        "keyword": "tsmc 실적 발표",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "TSMC, 3분기 순이익 68.7% 늘어…6분기 연속 신기록",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261015124300089"
+        }
+      },
+      {
+        "keyword": "박문성",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“왜 너같은 거랑 사귀는지” 이강인 악플에 ‘좋아요’ 누른 두산家 5세",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10902030"
+        }
+      },
+      {
+        "keyword": "사교육",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박종혁 인천시의회 의장 ‘영유아 사교육 인식 개선 릴레이 챌린지’ 동참",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334083"
+        }
+      }
+    ]
   }
 ]
