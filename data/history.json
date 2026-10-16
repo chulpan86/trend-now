@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-14T23:10:48.522630+09:00",
-    "label": "23:10",
-    "items": [
-      {
-        "keyword": "열차",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'지옥철' 서울 9호선, 급행열차 늘린다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6857890_36918.html"
-        }
-      },
-      {
-        "keyword": "kbo",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "LG Twins overcome Doosan Bears in Wild Card Series as KBO season starts in Seoul",
-          "source": "World Baseball Softball Confederation (WBSC)",
-          "url": "https://www.wbsc.org/en/news/kbo-2026-postseason-preview"
-        }
-      },
-      {
-        "keyword": "크보",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "KBO, 9∼10월 MVP 후보 발표…kt 최원준·SSG 아빌라 등 6명",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261014065500007"
-        }
-      },
-      {
-        "keyword": "이영하",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "득점하는 세베리노",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261014_0021489303"
-        }
-      },
-      {
-        "keyword": "준플레이오프 일정",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘슈퍼스타’ 김도영의 완벽한 피날레…프로야구는 올해도 ‘대흥행’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8685436"
-        }
-      },
-      {
-        "keyword": "김택연",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[포토] 김택연 '내일도 마운드 오르리' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/14/2026101421130051974"
-        }
-      },
-      {
-        "keyword": "허정한",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "'최강 조명우 32강 충격 탈락' 베테랑 허정한이 韓 4관왕 이뤘다",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6589631"
-        }
-      },
-      {
-        "keyword": "스마트폰",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"14년 만에 최악 상황\"…세계 1위 왕좌 지킨 삼성도 '직격탄' [테크로그]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610140514g"
-        }
-      },
-      {
-        "keyword": "포스트시즌 일정",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[그래픽] 2026 KBO 포스트 시즌 경기 일정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261013_0002261427"
-        }
-      },
-      {
-        "keyword": "원자로",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "고리원자력본부 고리2호기 첫 사고관리 훈련 추진 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/14/2026101417275933272"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-15T04:03:05.428841+09:00",
     "label": "04:03",
     "items": [
@@ -941,6 +835,108 @@
           "title": "현대해상, '월별 안전운전점수 할인 특약' 특허 취득 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/finance/2026/10/15/2026101513545478139"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-16T11:14:18.178246+09:00",
+    "label": "11:14",
+    "items": [
+      {
+        "keyword": "항공모함",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "중동 파견 美항모에 대형 무인수상함 배치…美해군 사상 처음",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016004100071"
+        }
+      },
+      {
+        "keyword": "오타니 쇼헤이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "100타석 넘도록 '0홈런'‥오타니, 부진의 이유는?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858300_37004.html"
+        }
+      },
+      {
+        "keyword": "토스증권",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "토스증권 “대만, AI 반도체 공급망 허브”…탐방 리포트 발간",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1175085"
+        }
+      },
+      {
+        "keyword": "황성빈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "tesla",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html"
+        }
+      },
+      {
+        "keyword": "박정",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박정 의원, \"산재 재심, 처리기간 길어지고, 패소율 증가\"",
+          "source": "경기종합뉴스",
+          "url": "https://www.ggoverallnews.co.kr/news/articleView.html?idxno=125768"
+        }
+      },
+      {
+        "keyword": "독도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘독도의 날’ 온라인 축제…사진·숏폼·메타버스로 만난다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261016_0003828563"
+        }
+      },
+      {
+        "keyword": "카드뉴스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[카드뉴스] 건강한 디지털 세상, 미디어 시민과 함께",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037690"
+        }
+      },
+      {
+        "keyword": "수질오염",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "화성시, 관계기관과 해안방제 능력 '시험대'",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334173"
+        }
+      },
+      {
+        "keyword": "brewers vs dodgers",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Brewers vs. Dodgers (Oct 15, 2026) Live Score",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mlb/game/_/gameId/401908033/brewers-dodgers"
         }
       }
     ]
