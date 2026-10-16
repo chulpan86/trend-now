@@ -932,5 +932,111 @@
         "news": null
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-17T08:07:22.583343+09:00",
+    "label": "08:07",
+    "items": [
+      {
+        "keyword": "삼전 닉스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973648"
+        }
+      },
+      {
+        "keyword": "두산에너 빌리티",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=373545"
+        }
+      },
+      {
+        "keyword": "kia 타이거즈",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "프로야구 준PO 1,2차전 시구자에 데이식스 원필·배우 김의성",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016119400007"
+        }
+      },
+      {
+        "keyword": "홍윤화",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "린, '슬로우 조깅' 유행 탑승 완료",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261016_0003828734"
+        }
+      },
+      {
+        "keyword": "심형탁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "심형탁♥사야, 훌쩍 큰 ‘19개월 子’ 하루에 깜짝..“꿈만 같아” (형탁사야의하루) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/MEYDENJVGYZDENZWMY2TQMLFME/"
+        }
+      },
+      {
+        "keyword": "류필립",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'17세 연상 아내' 미나 두고 미국 간 류필립…\"살려주세요\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101618580681293"
+        }
+      },
+      {
+        "keyword": "soxl",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html"
+        }
+      },
+      {
+        "keyword": "나스닥 100",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美 대표지수 90%·금 현물 10%...증시 하락대비 위험 분산 설계 [ETF줌인]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20102667"
+        }
+      },
+      {
+        "keyword": "장인화",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "글로벌 ‘철강 심장’에 미래를 심다…장인화와 포스코의 ‘꿈’",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004480"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip.",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/10/15/ionq-is-following-nvidias-playbook-why-the-stock-c/"
+        }
+      }
+    ]
   }
 ]
