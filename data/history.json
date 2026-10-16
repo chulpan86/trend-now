@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-10-15T07:50:05.708033+09:00",
-    "label": "07:50",
-    "items": [
-      {
-        "keyword": "weather",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Gradually Drying Out Today... Sunshine Returns Thursday",
-          "source": "WABI",
-          "url": "https://www.wabi.tv/2026/10/14/gradually-drying-out-today-sunshine-returns-thursday/"
-        }
-      },
-      {
-        "keyword": "as roma vs real madrid standings",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Roma 3-4 Real Madrid: Los Blancos win after stunning late fightback",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmwyqp5q1lypt"
-        }
-      },
-      {
-        "keyword": "天气",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Advancing subseasonal forecasting with machine learning",
-          "source": "Nature",
-          "url": "https://www.nature.com/articles/s41586-026-11126-x"
-        }
-      },
-      {
-        "keyword": "충주시",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "погода",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "В Израиль придут дожди вслед за потеплением: прогноз погоды до конца недели",
-          "source": "Vesty.co.il",
-          "url": "https://www.vesty.co.il/main/article/b1e116thjfx"
-        }
-      },
-      {
-        "keyword": "스마트 폰",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"14년 만에 최악 상황\"…세계 1위 왕좌 지킨 삼성도 '직격탄' [테크로그]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610140514g"
-        }
-      },
-      {
-        "keyword": "skhy",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "SK Hynix Plunges 10% to Close at '1.43 Million Hynix,' Samsung Electronics Down 7.4%",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008795608"
-        }
-      },
-      {
-        "keyword": "vix",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "A Major Volatility Regime Shift May Be Coming",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/a-major-volatility-regime-shift-may-be-coming-200689525"
-        }
-      },
-      {
-        "keyword": "ionq",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Innodata vs. IONQ: A Look at Revenue Trends Between Artificial Intelligence and Quantum Computing Innovators",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/innodata-vs-ionq-look-revenue-183040299.html"
-        }
-      },
-      {
-        "keyword": "한미약품",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "국산 비만약 '에페' 첫 달 13만원 전망…마운자로 반값",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261014164800017"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-15T10:05:28.308913+09:00",
     "label": "10:05",
     "items": [
@@ -937,6 +835,112 @@
           "title": "'와' 오지환 미친 투혼 \"마지막 잠실인데 뛰어야죠\"... '무릎 인대 손상'에도 훈련이라니 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/15/2026101514162990704"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-16T21:50:13.698840+09:00",
+    "label": "21:50",
+    "items": [
+      {
+        "keyword": "애플",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'출시 코앞' 아이폰 듀오, 닛토보 'T-글래스' 확보 변수 부상",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261016163400"
+        }
+      },
+      {
+        "keyword": "lg에너지솔루션",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "LG엔솔, 이모 전 사장 고발 “오너家 분쟁 개입 변호사법 위반”",
+          "source": "법률신문",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227857"
+        }
+      },
+      {
+        "keyword": "kf-21 보라매",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "공중전 전용 꼬리표 뗀 보라매, 7000억 싣고 지상 타격 날개 편다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101607532769fbbec65dfb_1"
+        }
+      },
+      {
+        "keyword": "apple store",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "iPhone Duo sells out moments after pre-orders begin",
+          "source": "AppleInsider",
+          "url": "https://appleinsider.com/articles/26/10/16/iphone-duo-sells-out-moments-after-pre-orders-begin"
+        }
+      },
+      {
+        "keyword": "이승기",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이승기, 기름값 절약 발언 화제되자 “찾아가다 기름 더 든다고 하더라”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261016/134853372/2"
+        }
+      },
+      {
+        "keyword": "학살",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "가자지구 전쟁 3년, 2만명 넘는 아동 숨져…휴전도 소용 없었다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261015/134845513/2"
+        }
+      },
+      {
+        "keyword": "와일드카드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "두산, FA 186억 쓰고도 와일드카드 탈락... 또 100억 푼다고?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/16/GZQTEOLEMVSGEYRVMFRDEZJRGQ/"
+        }
+      },
+      {
+        "keyword": "에이피알",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12177923"
+        }
+      },
+      {
+        "keyword": "강원도민일보",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "평창읍 주민총회·소통한마당 개최…오늘 오후 1시부터 8시까지 진행",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720986"
+        }
+      },
+      {
+        "keyword": "선박",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "센카쿠 인근에 가짜 선박 신호…中 군항서 발신 추정",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016062500009"
         }
       }
     ]
