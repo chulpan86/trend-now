@@ -1,105 +1,97 @@
 {
-  "timestamp": "2026-10-16T21:50:13.698840+09:00",
-  "label": "21:50",
+  "timestamp": "2026-10-17T02:04:08.663778+09:00",
+  "label": "02:04",
   "items": [
     {
-      "keyword": "애플",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "장승조",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'출시 코앞' 아이폰 듀오, 닛토보 'T-글래스' 확보 변수 부상",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20261016163400"
+        "title": "[방송소식] 스튜디오드래곤, 넷플릭스 글로벌 1위 10편 배출",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261016149400005"
       }
     },
     {
-      "keyword": "lg에너지솔루션",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "대만",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "LG엔솔, 이모 전 사장 고발 “오너家 분쟁 개입 변호사법 위반”",
-        "source": "법률신문",
-        "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227857"
+        "title": "대만 당국 '베이징서 열리는 쑨원 기념식 행사 참석 말아야\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261016086700009"
       }
     },
     {
-      "keyword": "kf-21 보라매",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "콜오브듀티 모던워페어4",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "공중전 전용 꼬리표 뗀 보라매, 7000억 싣고 지상 타격 날개 편다",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101607532769fbbec65dfb_1"
+        "title": "콜 오브 듀티: 모던 워페어 4가 묘사한 한반도 전면전",
+        "source": "게임메카",
+        "url": "https://www.gamemeca.com/view.php?gid=1781767"
       }
     },
     {
-      "keyword": "apple store",
+      "keyword": "대한민국 군의 극초음속 활공비행체 시험 발사 성공 뉴스와 국방부 발표 내용 알려줘",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "北, 'HGV 고도화' 韓입장에 \"우리 국방력강화 명분\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261016173600504"
+      }
+    },
+    {
+      "keyword": "지예은",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "iPhone Duo sells out moments after pre-orders begin",
-        "source": "AppleInsider",
-        "url": "https://appleinsider.com/articles/26/10/16/iphone-duo-sells-out-moments-after-pre-orders-begin"
+        "title": "“잘 모르시네” 지석진×지예은, 심상치 않은 한산한 팬 사인회 현장에 위축↘",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482525627"
       }
     },
     {
-      "keyword": "이승기",
+      "keyword": "최예나",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "기업은행 채용",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "축의금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "이승기, 기름값 절약 발언 화제되자 “찾아가다 기름 더 든다고 하더라”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20261016/134853372/2"
+        "title": "“하객이 왜 식대까지 고려” vs “원래 축의금은 품앗이” SNS 갑론을박 [당신의견은]",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11624090"
       }
     },
     {
-      "keyword": "학살",
+      "keyword": "고민시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "가자지구 전쟁 3년, 2만명 넘는 아동 숨져…휴전도 소용 없었다",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20261015/134845513/2"
+        "title": "시급 50배의 유혹 '꿀알바', '오겜' 맞먹을 세계관이 열린다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101609517297805"
       }
     },
     {
-      "keyword": "와일드카드",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "두산, FA 186억 쓰고도 와일드카드 탈락... 또 100억 푼다고?",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/10/16/GZQTEOLEMVSGEYRVMFRDEZJRGQ/"
-      }
-    },
-    {
-      "keyword": "에이피알",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12177923"
-      }
-    },
-    {
-      "keyword": "강원도민일보",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "평창읍 주민총회·소통한마당 개최…오늘 오후 1시부터 8시까지 진행",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720986"
-      }
-    },
-    {
-      "keyword": "선박",
+      "keyword": "유실물",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "센카쿠 인근에 가짜 선박 신호…中 군항서 발신 추정",
+        "title": "서울 지하철 유실물 1위는 '지갑'…6년간 접수된 현금만 30억원",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261016062500009"
+        "url": "https://www.yna.co.kr/view/AKR20261015162500004"
       }
     }
   ]
