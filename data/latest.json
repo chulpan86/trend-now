@@ -1,11 +1,51 @@
 {
-  "timestamp": "2026-10-17T02:04:08.663778+09:00",
-  "label": "02:04",
+  "timestamp": "2026-10-17T05:14:28.123406+09:00",
+  "label": "05:14",
   "items": [
     {
+      "keyword": "l g 에너지 솔루션",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "LG엔솔, 이모 전 사장 고발 “오너家 분쟁 개입 변호사법 위반”",
+        "source": "법률신문",
+        "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227857"
+      }
+    },
+    {
+      "keyword": "유실물",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "서울 지하철 유실물 1위는 '지갑'…6년간 접수된 현금만 30억원",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261015162500004"
+      }
+    },
+    {
+      "keyword": "이효리",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이효리, 이상순 닮아가네…곱슬머리에 선글라스 셀카",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261016_0003829561"
+      }
+    },
+    {
+      "keyword": "뱀",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“큰 뱀 있어요”…인천 천마산 등산로서 외래종 비단뱀 포획",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20261016/134856098/1"
+      }
+    },
+    {
       "keyword": "장승조",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
         "title": "[방송소식] 스튜디오드래곤, 넷플릭스 글로벌 1위 10편 배출",
         "source": "연합뉴스",
@@ -13,33 +53,33 @@
       }
     },
     {
-      "keyword": "대만",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "삼성",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "대만 당국 '베이징서 열리는 쑨원 기념식 행사 참석 말아야\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261016086700009"
+        "title": "삼성전자 또 일냈다…\"올해 최고의 발명품\" 극찬 쏟아진 정체",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610166024g"
       }
     },
     {
-      "keyword": "콜오브듀티 모던워페어4",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "lcp",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "콜 오브 듀티: 모던 워페어 4가 묘사한 한반도 전면전",
-        "source": "게임메카",
-        "url": "https://www.gamemeca.com/view.php?gid=1781767"
+        "title": "MVK Gury: \"I'll show Tatu who's the real Ronaldo\"",
+        "source": "Sheep Esports",
+        "url": "https://www.sheepesports.com/en/articles/mvk-gury-i-ll-show-tatu-who-s-the-real-ronaldo-worlds-2026/en"
       }
     },
     {
-      "keyword": "대한민국 군의 극초음속 활공비행체 시험 발사 성공 뉴스와 국방부 발표 내용 알려줘",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "박준금",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "北, 'HGV 고도화' 韓입장에 \"우리 국방력강화 명분\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261016173600504"
+        "title": "술 따르라는 PD 뺨 때렸다?…박준금, '출연 정지' 루머 해명 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/15/2026101508530773927"
       }
     },
     {
@@ -47,9 +87,9 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“잘 모르시네” 지석진×지예은, 심상치 않은 한산한 팬 사인회 현장에 위축↘",
+        "title": "‘my스타’ 지예은, 이서진의 노련한 케어 덕분에 첫 사인 무사히 완료★",
         "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482525627"
+        "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482525656"
       }
     },
     {
@@ -57,42 +97,6 @@
       "traffic_raw": "200+",
       "traffic": 200,
       "news": null
-    },
-    {
-      "keyword": "기업은행 채용",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "축의금",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“하객이 왜 식대까지 고려” vs “원래 축의금은 품앗이” SNS 갑론을박 [당신의견은]",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11624090"
-      }
-    },
-    {
-      "keyword": "고민시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "시급 50배의 유혹 '꿀알바', '오겜' 맞먹을 세계관이 열린다 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101609517297805"
-      }
-    },
-    {
-      "keyword": "유실물",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "서울 지하철 유실물 1위는 '지갑'…6년간 접수된 현금만 30억원",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261015162500004"
-      }
     }
   ]
 }
