@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-16T11:14:18.178246+09:00",
-  "label": "11:14",
+  "timestamp": "2026-10-16T16:39:51.146191+09:00",
+  "label": "16:39",
   "items": [
     {
-      "keyword": "항공모함",
+      "keyword": "소방",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "‘재정 빨대’ 발언 추미애, 부천 화재 현장 찾아 “소방관 헌신 감사”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/area/capital/1282742.html"
+      }
+    },
+    {
+      "keyword": "여당",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "중동 파견 美항모에 대형 무인수상함 배치…美해군 사상 처음",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261016004100071"
+        "title": "\"다음 총선서 야당 당선돼야\" 47%… 여당보다 13%p 앞서",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/assembly/2026/10/16/AYI5HTKY7ZF2JKW2VRHVIUESGU/"
       }
     },
     {
-      "keyword": "오타니 쇼헤이",
+      "keyword": "남보라",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "남보라, 금손 인증? \"엔비디아 수익률 300%\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261016_0003828798"
+      }
+    },
+    {
+      "keyword": "맞벌이",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "100타석 넘도록 '0홈런'‥오타니, 부진의 이유는?",
+        "title": "제물포구가족센터, 맞벌이 가정 일·가정 양립 지원 프로그램 운영",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=718754"
+      }
+    },
+    {
+      "keyword": "탄핵",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"조희대 탄핵 논의 시작\"‥\"자신 있으면 하라\"",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858300_37004.html"
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6858460_36967.html"
       }
     },
     {
-      "keyword": "토스증권",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "토스증권 “대만, AI 반도체 공급망 허브”…탐방 리포트 발간",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1175085"
-      }
-    },
-    {
-      "keyword": "황성빈",
+      "keyword": "송민호",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "tesla",
-      "traffic_raw": "200+",
-      "traffic": 200,
       "news": {
-        "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html"
+        "title": "‘102일 결근’ 송민호, 군대 두 번 간다…병무청 “절차 검토”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11624078"
       }
     },
     {
-      "keyword": "박정",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "진지희",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "박정 의원, \"산재 재심, 처리기간 길어지고, 패소율 증가\"",
-        "source": "경기종합뉴스",
-        "url": "https://www.ggoverallnews.co.kr/news/articleView.html?idxno=125768"
-      }
-    },
-    {
-      "keyword": "독도",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘독도의 날’ 온라인 축제…사진·숏폼·메타버스로 만난다",
+        "title": "'빵꾸똥꾸' 진지희, 몰라보게 달라진 근황…반전 매력",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261016_0003828563"
+        "url": "https://www.newsis.com/view/NISX20261016_0003828697"
       }
     },
     {
-      "keyword": "카드뉴스",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "송치",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "[카드뉴스] 건강한 디지털 세상, 미디어 시민과 함께",
-        "source": "기호일보",
-        "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037690"
+        "title": "유승민 '딸 교수 임용 의혹' 송치에 \"모욕주기 정치수사\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6858494_36911.html"
       }
     },
     {
-      "keyword": "수질오염",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "셔틀버스",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "화성시, 관계기관과 해안방제 능력 '시험대'",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334173"
+        "title": "인천공항 심야버스, 빈차로 달린다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610082135005"
       }
     },
     {
-      "keyword": "brewers vs dodgers",
+      "keyword": "오지환",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Brewers vs. Dodgers (Oct 15, 2026) Live Score",
-        "source": "ESPN",
-        "url": "https://www.espn.com/mlb/game/_/gameId/401908033/brewers-dodgers"
+        "title": "'와' 오지환 미친 투혼 \"마지막 잠실인데 뛰어야죠\"... '무릎 인대 손상'에도 훈련이라니 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/10/15/2026101514162990704"
       }
     }
   ]
