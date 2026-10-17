@@ -1,25 +1,15 @@
 {
-  "timestamp": "2026-10-18T02:37:09.919004+09:00",
-  "label": "02:37",
+  "timestamp": "2026-10-18T04:50:08.882400+09:00",
+  "label": "04:50",
   "items": [
     {
       "keyword": "레알 베티스 대 바르셀로나",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "라리가 레알 베티스 대 바르셀로나 경기 예측",
-        "source": "Laodong.vn",
-        "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-real-betis-vs-barcelona-tai-la-liga-1784720.ldo"
-      }
-    },
-    {
-      "keyword": "바이에른 대 라이프치히",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "바이에른 뮌헨과 라이프치히의 맞대결, 맨시티는 7연승을 노린다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/bayern-dai-chien-leipzig-man-city-huong-toi-tran-thang-thu-bay"
+        "title": "[바르셀로나 베티스] 멋쩍은 미소 야말",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724627"
       }
     },
     {
@@ -27,19 +17,9 @@
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "¿Cómo ver el partido Betis vs Barcelona en TV y streaming?",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/es-us/como-ver-el-partido-betis-vs-barcelona-en-tv-y-streaming-17-10-2026"
-      }
-    },
-    {
-      "keyword": "황희찬",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“이제 황희찬의 시간이 오는가?” 대표팀 은퇴 논란 빚은 황희찬, 샬케서 주전 기회 잡을까",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202610161918003"
+        "title": "«Carta de presentación para el Balón de Oro»: Lamine Yamal hace enloquecer a Hansi Flick con un gol increíble para el FC Barcelona",
+        "source": "Yahoo",
+        "url": "https://es-us.noticias.yahoo.com/deportes/carta-presentaci%C3%B3n-bal%C3%B3n-oro-lamine-153610164.html"
       }
     },
     {
@@ -47,9 +27,39 @@
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘오히려 좋아’ 맨시티 ‘유죄 판결’ 긍정 포인트 있나, 마레스카 감독 “소음이 구단과 팬들을 하나로 뭉치게 했...",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202610170808003"
+        "title": "마레스카, 기록적인 출발에 기쁨 드러내",
+        "source": "Manchester City FC",
+        "url": "https://kr.mancity.com/news/mens/maresca-ipswich-postmatch-written-presser-63927854"
+      }
+    },
+    {
+      "keyword": "김정은",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[클로즈업 북한] 살 쪄도 빠져도 관심…‘김정은 체중’에 담긴 의미는",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688133"
+      }
+    },
+    {
+      "keyword": "la liga",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Former Barcelona director backs Deco's work but warns of Real Betis' star-studded squad: 'A team to beat right now'",
+        "source": "Barca Universal",
+        "url": "https://barcauniversal.com/former-barcelona-director-backs-decos-work-but-warns-of-real-betis-star-studded-squad-a-team-to-beat-right-now/"
+      }
+    },
+    {
+      "keyword": "분데스리가",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "분데스리가 2위 에네르기, 코트부스서 뉘른베르크와 맞대결",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724612"
       }
     },
     {
@@ -73,33 +83,23 @@
       }
     },
     {
-      "keyword": "strasbourg vs psg",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Strasbourg vs Paris Saint-Germain: French Ligue 1 stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cmy83qp9z99dt"
-      }
-    },
-    {
-      "keyword": "liverpool",
+      "keyword": "라민 야말",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Liverpool set to raid Aston Villa for Johan Manzambi as Arsenal eye move for Bayern Munich defender - Paper Talk",
-        "source": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk"
+        "title": "한시 플릭 감독은 바르셀로나가 단 한 번도 승리를 놓치는 것을 원하지 않는다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/hansi-flick-khong-muon-barcelona-danh-roi-bat-ky-chien-thang-nao"
       }
     },
     {
-      "keyword": "조국",
+      "keyword": "바이에른 뮌헨",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘딸 의혹 재수사’ 재촉하는 한동훈 입…김건희도 못 누린 ‘역대급 봐주기’ [논썰]",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1282836.html"
+        "title": "축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261017_0003829958"
       }
     }
   ]
