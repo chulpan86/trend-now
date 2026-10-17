@@ -932,5 +932,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-18T02:37:09.919004+09:00",
+    "label": "02:37",
+    "items": [
+      {
+        "keyword": "레알 베티스 대 바르셀로나",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "라리가 레알 베티스 대 바르셀로나 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-real-betis-vs-barcelona-tai-la-liga-1784720.ldo"
+        }
+      },
+      {
+        "keyword": "바이에른 대 라이프치히",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "바이에른 뮌헨과 라이프치히의 맞대결, 맨시티는 7연승을 노린다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bayern-dai-chien-leipzig-man-city-huong-toi-tran-thang-thu-bay"
+        }
+      },
+      {
+        "keyword": "betis vs barcelona",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "¿Cómo ver el partido Betis vs Barcelona en TV y streaming?",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/como-ver-el-partido-betis-vs-barcelona-en-tv-y-streaming-17-10-2026"
+        }
+      },
+      {
+        "keyword": "황희찬",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“이제 황희찬의 시간이 오는가?” 대표팀 은퇴 논란 빚은 황희찬, 샬케서 주전 기회 잡을까",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610161918003"
+        }
+      },
+      {
+        "keyword": "맨시티",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘오히려 좋아’ 맨시티 ‘유죄 판결’ 긍정 포인트 있나, 마레스카 감독 “소음이 구단과 팬들을 하나로 뭉치게 했...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610170808003"
+        }
+      },
+      {
+        "keyword": "psg",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Le résumé : City 2-4 PSG",
+          "source": "Manchester City FC",
+          "url": "https://fr.mancity.com/citytv/mens/le-resume-city-2-4-psg-63927754"
+        }
+      },
+      {
+        "keyword": "이재성",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026101800373651193"
+        }
+      },
+      {
+        "keyword": "strasbourg vs psg",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Strasbourg vs Paris Saint-Germain: French Ligue 1 stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmy83qp9z99dt"
+        }
+      },
+      {
+        "keyword": "liverpool",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Liverpool set to raid Aston Villa for Johan Manzambi as Arsenal eye move for Bayern Munich defender - Paper Talk",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk"
+        }
+      },
+      {
+        "keyword": "조국",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘딸 의혹 재수사’ 재촉하는 한동훈 입…김건희도 못 누린 ‘역대급 봐주기’ [논썰]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1282836.html"
+        }
+      }
+    ]
   }
 ]
