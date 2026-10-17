@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-10-18T06:51:56.119573+09:00",
-  "label": "06:51",
+  "timestamp": "2026-10-18T08:37:33.066642+09:00",
+  "label": "08:37",
   "items": [
     {
-      "keyword": "태풍",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "날씨",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
       "news": {
-        "title": "30호 태풍 ’참피’ 북상 중…“경로 유동적“",
+        "title": "[날씨] 휴일 전국 세찬 가을비…강풍 동반 집중호우",
         "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261016045146uca"
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261017192625b49"
       }
     },
     {
-      "keyword": "김민재",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261017_0003829958"
-      }
-    },
-    {
-      "keyword": "손아섭",
+      "keyword": "음식",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "‘FA 1억→트레이드’ 지난해 KS 뛰었던 2655안타 베테랑, 가을야구 대타 기회도 없이 벤치에서 끝나다",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112893089"
+        "title": "\"아, 단 게 당긴다!\"… 스트레스받은 날 먹기 좋은 건강한 음식 5가지",
+        "source": "하이닥",
+        "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=68779"
       }
     },
     {
-      "keyword": "편의점",
+      "keyword": "погода",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Прогноз погоды на 10 дней, с ночи 17 октября 2026 года по 27 октября 2026 года: в Южном Вьетнаме ожидаются локальные сильные дожди, грозы и молнии.",
+        "source": "Báo Nghệ An",
+        "url": "https://baonghean.vn/ru/du-bao-thoi-tiet-10-ngay-tu-dem-17102026-den-27102026-nam-bo-cuc-bo-mua-to-dong-set-10353708.html"
+      }
+    },
+    {
+      "keyword": "전투기",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "“구형 장비 비싸게 후려치는 미국”…대만 F-16 조종사들 ‘눈물 흘리는’ 이유 [밀리터리+]",
+        "source": "나우뉴스",
+        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261016601013"
+      }
+    },
+    {
+      "keyword": "날씨예보",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "아이스크림 냉동고가 안방?…3시간 드러누운 취객에 편의점 ‘발칵’",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20261017/134858642/1"
+        "title": "베트남 북부 맑고 남부 늦은 오후 뇌우 : 날씨",
+        "source": "재경일보",
+        "url": "https://news.jkn.co.kr/post/1030346"
       }
     },
     {
-      "keyword": "파운드리",
+      "keyword": "thứ hạng của man city gặp ipswich town",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "TSMC2나노 돌풍에 파운드리 요동… 삼성 ‘추격’, SK ‘수혜’",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610171414437887fbbec65dfb_1"
+        "title": "Man City tách tốp, Liverpool - Chelsea hâm nóng cục diện bảng xếp hạng NHA",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/man-city-tach-top-liverpool-chelsea-ham-nong-cuc-dien-bang-xep-hang-nha-c48a1803604.html"
       }
     },
     {
-      "keyword": "김정은",
+      "keyword": "한윤서",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[클로즈업 북한] 살 쪄도 빠져도 관심…‘김정은 체중’에 담긴 의미는",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688133"
+        "title": "\"예비 시부 사업실패→암투병\"...한윤서, 상견례 중 오열 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/15/2026101508260844876"
       }
     },
     {
-      "keyword": "wnba finals",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "롯데 자이언츠",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Angel Reese rocks Barbie x Reebok collab for WNBA Finals debut",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/angel-reese-rocks-barbie-x-195611459.html"
+        "title": "'대체 왜?' 소문만 무성한데 아무 발표도 없는 롯데, 한화는 취임식까지 끝냈다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/10/17/GBRGIZDDMM2DKMLGMQZDCMZUMM/"
       }
     },
     {
-      "keyword": "엄경철",
+      "keyword": "아시아 축구 연맹",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "KBS 사장 후보 김영삼·엄경철·이태현 압축…20일 최종 면접",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261017045700005"
+        "title": "AFC가 주목한 아시안컵 스타 \"34세 손흥민, 마지막 정상 도전\"",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6592902"
       }
     },
     {
-      "keyword": "카카오뱅크 점검",
+      "keyword": "klasemen real betis vs fc barcelona",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "카카오·케이뱅크, 18일 새벽 전산 점검…금융거래 일시 중단",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02033606645613904"
-      }
-    },
-    {
-      "keyword": "라민 야말",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "한시 플릭 감독은 바르셀로나가 단 한 번도 승리를 놓치는 것을 원하지 않는다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/hansi-flick-khong-muon-barcelona-danh-roi-bat-ky-chien-thang-nao"
-      }
+      "news": null
     }
   ]
 }
