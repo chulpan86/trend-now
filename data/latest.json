@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-17T08:07:22.583343+09:00",
-  "label": "08:07",
+  "timestamp": "2026-10-17T11:07:15.127950+09:00",
+  "label": "11:07",
   "items": [
     {
-      "keyword": "삼전 닉스",
+      "keyword": "메이저 리그 사커",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973648"
+        "title": "손흥민, 'LAFC 동료' 부앙가와 함께 MLS 이주의 팀 선정",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261017_0003829858"
       }
     },
     {
-      "keyword": "두산에너 빌리티",
+      "keyword": "레이스 대 가디언즈",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=373545"
+        "title": "MLB 클리블랜드, ALCS서 탬파베이 꺾고 2승 1패로 앞서가",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261016021000007"
       }
     },
     {
-      "keyword": "kia 타이거즈",
+      "keyword": "조세",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "증여세",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "프로야구 준PO 1,2차전 시구자에 데이식스 원필·배우 김의성",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261016119400007"
+        "title": "삼성전자 급락에 증여세도 뚝?…‘절묘한 증여 타이밍’ [재계톡톡]",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12177911"
       }
     },
     {
-      "keyword": "홍윤화",
+      "keyword": "서효림",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "린, '슬로우 조깅' 유행 탑승 완료",
+        "title": "\"'故김수미 팔아 김치 판다' 시선 두려웠다\"…서효림, 2주기 맞춰 김치 론칭",
+        "source": "스포츠조선",
+        "url": "https://www.sportschosun.com/entertainment/2026-10-16/202610160100105130006791"
+      }
+    },
+    {
+      "keyword": "신승태",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김용빈, 라이벌 신승태와 재대결…100점으로 승리",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261016_0003828734"
+        "url": "https://www.newsis.com/view/NISX20261017_0003829873"
       }
     },
     {
-      "keyword": "심형탁",
+      "keyword": "라면",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "심형탁♥사야, 훌쩍 큰 ‘19개월 子’ 하루에 깜짝..“꿈만 같아” (형탁사야의하루) - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/MEYDENJVGYZDENZWMY2TQMLFME/"
+        "title": "라면까지 제쳤다…미국인들 환장한다는 '한국 밥도둑' [권용훈의 트렌드워치]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610165778i"
       }
     },
     {
-      "keyword": "류필립",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'17세 연상 아내' 미나 두고 미국 간 류필립…\"살려주세요\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101618580681293"
-      }
-    },
-    {
-      "keyword": "soxl",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html"
-      }
-    },
-    {
-      "keyword": "나스닥 100",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "美 대표지수 90%·금 현물 10%...증시 하락대비 위험 분산 설계 [ETF줌인]",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20102667"
-      }
-    },
-    {
-      "keyword": "장인화",
+      "keyword": "제이비어 브런슨",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "글로벌 ‘철강 심장’에 미래를 심다…장인화와 포스코의 ‘꿈’",
-        "source": "아시아투데이",
-        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004480"
+        "title": "[단독] 브런슨 사령관, 선 넘으면…\"정부, 여러 채널 경고 검토\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12323405"
       }
     },
     {
-      "keyword": "ionq",
+      "keyword": "차량 화재",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip.",
-        "source": "The Motley Fool",
-        "url": "https://www.fool.com/investing/2026/10/15/ionq-is-following-nvidias-playbook-why-the-stock-c/"
+        "title": "경주 남산동서 한밤 농가 주차 SUV에 불…인명 피해 없어",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261015_0003826648"
+      }
+    },
+    {
+      "keyword": "대전 빵축제",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"'천안도 하는데 왜 대전?'에 답해야\"…빵축제 전날 쏟아진 쓴소리",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261016154800063"
       }
     }
   ]
