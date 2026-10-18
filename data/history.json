@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-10-17T05:14:28.123406+09:00",
-    "label": "05:14",
-    "items": [
-      {
-        "keyword": "l g 에너지 솔루션",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "LG엔솔, 이모 전 사장 고발 “오너家 분쟁 개입 변호사법 위반”",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227857"
-        }
-      },
-      {
-        "keyword": "유실물",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "서울 지하철 유실물 1위는 '지갑'…6년간 접수된 현금만 30억원",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261015162500004"
-        }
-      },
-      {
-        "keyword": "이효리",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이효리, 이상순 닮아가네…곱슬머리에 선글라스 셀카",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261016_0003829561"
-        }
-      },
-      {
-        "keyword": "뱀",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“큰 뱀 있어요”…인천 천마산 등산로서 외래종 비단뱀 포획",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261016/134856098/1"
-        }
-      },
-      {
-        "keyword": "장승조",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[방송소식] 스튜디오드래곤, 넷플릭스 글로벌 1위 10편 배출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261016149400005"
-        }
-      },
-      {
-        "keyword": "삼성",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼성전자 또 일냈다…\"올해 최고의 발명품\" 극찬 쏟아진 정체",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610166024g"
-        }
-      },
-      {
-        "keyword": "lcp",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "MVK Gury: \"I'll show Tatu who's the real Ronaldo\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/mvk-gury-i-ll-show-tatu-who-s-the-real-ronaldo-worlds-2026/en"
-        }
-      },
-      {
-        "keyword": "박준금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "술 따르라는 PD 뺨 때렸다?…박준금, '출연 정지' 루머 해명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/15/2026101508530773927"
-        }
-      },
-      {
-        "keyword": "지예은",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘my스타’ 지예은, 이서진의 노련한 케어 덕분에 첫 사인 무사히 완료★",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482525656"
-        }
-      },
-      {
-        "keyword": "최예나",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-17T08:07:22.583343+09:00",
-    "label": "08:07",
-    "items": [
-      {
-        "keyword": "삼전 닉스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973648"
-        }
-      },
-      {
-        "keyword": "두산에너 빌리티",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "두산에너빌리티, 박상현 부회장 승진·송용진 COO 선임",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=373545"
-        }
-      },
-      {
-        "keyword": "kia 타이거즈",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "프로야구 준PO 1,2차전 시구자에 데이식스 원필·배우 김의성",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261016119400007"
-        }
-      },
-      {
-        "keyword": "홍윤화",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "린, '슬로우 조깅' 유행 탑승 완료",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261016_0003828734"
-        }
-      },
-      {
-        "keyword": "심형탁",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "심형탁♥사야, 훌쩍 큰 ‘19개월 子’ 하루에 깜짝..“꿈만 같아” (형탁사야의하루) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/MEYDENJVGYZDENZWMY2TQMLFME/"
-        }
-      },
-      {
-        "keyword": "류필립",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'17세 연상 아내' 미나 두고 미국 간 류필립…\"살려주세요\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101618580681293"
-        }
-      },
-      {
-        "keyword": "soxl",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html"
-        }
-      },
-      {
-        "keyword": "나스닥 100",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "美 대표지수 90%·금 현물 10%...증시 하락대비 위험 분산 설계 [ETF줌인]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20102667"
-        }
-      },
-      {
-        "keyword": "장인화",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "글로벌 ‘철강 심장’에 미래를 심다…장인화와 포스코의 ‘꿈’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004480"
-        }
-      },
-      {
-        "keyword": "ionq",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip.",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/10/15/ionq-is-following-nvidias-playbook-why-the-stock-c/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-17T11:07:15.127950+09:00",
     "label": "11:07",
     "items": [
@@ -1251,6 +1043,108 @@
           "title": "현대엘리베이터, 현대무벡스 지분 1천160억 매각…\"자산 효율화\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261016144800003"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-18T21:16:35.238384+09:00",
+    "label": "21:16",
+    "items": [
+      {
+        "keyword": "우크라이나",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "소환된 주우크라 대사 국정감사 불참…차석이 대리출석",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261018044100082"
+        }
+      },
+      {
+        "keyword": "인천광역시",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": null
+      },
+      {
+        "keyword": "경제성장",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261018015900011"
+        }
+      },
+      {
+        "keyword": "금",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "지금이라도 금 사둘까?…\"2년 내 사상 최고치\" 전망 나왔다",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02335366645613576&mediaCodeNo=257"
+        }
+      },
+      {
+        "keyword": "사형",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이슬람 성지서 ‘부적절한 행위’…사우디, 외국인 남녀 2명 사형 집행",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261018/134859568/1"
+        }
+      },
+      {
+        "keyword": "렉서스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[타보고서] 전기차 지각생에서 모범생으로...렉서스 '올 뉴 ES350e'",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261016170947"
+        }
+      },
+      {
+        "keyword": "무기",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[반도 앨리스] ‘지뢰 사고’ 없도록…육군, 가상공간 DMZ서 로봇개 수색·정찰 훈련",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610170600111"
+        }
+      },
+      {
+        "keyword": "암표",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "광주경찰 ‘암표 거래’ 단속…위법 적발은 없어",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688340"
+        }
+      },
+      {
+        "keyword": "최혜진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "최혜진, 이번에도 ‘한 끗’ 모자랐다…LPGA 첫 우승 1타차로 불발",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261018/134862645/1"
+        }
+      },
+      {
+        "keyword": "상장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[해외 자회사 IPO①] 솔리다임 美 상장…SK하이닉스 이사회 책임은",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439764"
         }
       }
     ]

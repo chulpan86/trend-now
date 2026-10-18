@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-18T16:32:21.972204+09:00",
-  "label": "16:32",
+  "timestamp": "2026-10-18T21:16:35.238384+09:00",
+  "label": "21:16",
   "items": [
     {
-      "keyword": "뉴스",
+      "keyword": "우크라이나",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "부캉이의 부산살이 한 달···식을 줄 모르는 인기에 북항 방문객 150만명 돌파",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610171930001"
+        "title": "소환된 주우크라 대사 국정감사 불참…차석이 대리출석",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261018044100082"
       }
     },
     {
-      "keyword": "우강훈",
+      "keyword": "인천광역시",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": null
+    },
+    {
+      "keyword": "경제성장",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'김도영 홈런 2방 원맨쇼' KIA, LG에 기선제압",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0107_202610171912503457"
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261018015900011"
       }
     },
     {
-      "keyword": "기상청",
+      "keyword": "금",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "지금이라도 금 사둘까?…\"2년 내 사상 최고치\" 전망 나왔다",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02335366645613576&mediaCodeNo=257"
+      }
+    },
+    {
+      "keyword": "사형",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "이슬람 성지서 ‘부적절한 행위’…사우디, 외국인 남녀 2명 사형 집행",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20261018/134859568/1"
+      }
+    },
+    {
+      "keyword": "렉서스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[속보] 서울 호우주의보...인천·고양 등 중부 곳곳 호우주의보",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0108_202610181504317670_005.html"
-      }
-    },
-    {
-      "keyword": "노화",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "운동하면 근육 속 노화 유전자 '멈칫' 한다",
+        "title": "[타보고서] 전기차 지각생에서 모범생으로...렉서스 '올 뉴 ES350e'",
         "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20261016225609"
+        "url": "https://zdnet.co.kr/view/?no=20261016170947"
       }
     },
     {
-      "keyword": "심이영",
+      "keyword": "무기",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[반도 앨리스] ‘지뢰 사고’ 없도록…육군, 가상공간 DMZ서 로봇개 수색·정찰 훈련",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610170600111"
+      }
+    },
+    {
+      "keyword": "암표",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "심이영, 안희연 가족 전 재산 들고 튄 인물로 '사랑이 온다' 합류 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/16/2026101617157242341"
+        "title": "광주경찰 ‘암표 거래’ 단속…위법 적발은 없어",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688340"
       }
     },
     {
-      "keyword": "송가인",
+      "keyword": "최혜진",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“첫 정산 받자마자”... ‘미스터트롯2′ 안성훈이 챙긴 15년 은인",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/10/15/GI3TAZTDGAYDSNRRHA3GGYLGG4/"
+        "title": "최혜진, 이번에도 ‘한 끗’ 모자랐다…LPGA 첫 우승 1타차로 불발",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20261018/134862645/1"
       }
     },
     {
-      "keyword": "오상욱",
+      "keyword": "상장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "아시안게임 MVP 오상욱 제주서 ‘영광의 순간’",
-        "source": "제민일보",
-        "url": "http://www.jemin.com/news/articleView.html?idxno=844740"
-      }
-    },
-    {
-      "keyword": "하주석",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "병살시키는 하주석",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20261017041300054"
-      }
-    },
-    {
-      "keyword": "엘지 기아",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[Photo] Kennedy, who entered as a relief pitcher in the top of the first inning after Im Chan-gyu's early exit",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/en/sports/2026/10/18/2026101815044892154"
-      }
-    },
-    {
-      "keyword": "자기주식",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "현대엘리베이터, 현대무벡스 지분 1천160억 매각…\"자산 효율화\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261016144800003"
+        "title": "[해외 자회사 IPO①] 솔리다임 美 상장…SK하이닉스 이사회 책임은",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439764"
       }
     }
   ]
