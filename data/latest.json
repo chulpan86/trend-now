@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-18T21:16:35.238384+09:00",
-  "label": "21:16",
+  "timestamp": "2026-10-19T01:13:04.128174+09:00",
+  "label": "01:13",
   "items": [
     {
-      "keyword": "우크라이나",
+      "keyword": "신세계백화점 강남점",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "소환된 주우크라 대사 국정감사 불참…차석이 대리출석",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261018044100082"
-      }
-    },
-    {
-      "keyword": "인천광역시",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": null
-    },
-    {
-      "keyword": "경제성장",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261018015900011"
-      }
-    },
-    {
-      "keyword": "금",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "지금이라도 금 사둘까?…\"2년 내 사상 최고치\" 전망 나왔다",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=02335366645613576&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "사형",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "이슬람 성지서 ‘부적절한 행위’…사우디, 외국인 남녀 2명 사형 집행",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Inter/article/all/20261018/134859568/1"
-      }
-    },
-    {
-      "keyword": "렉서스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[타보고서] 전기차 지각생에서 모범생으로...렉서스 '올 뉴 ES350e'",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20261016170947"
-      }
-    },
-    {
-      "keyword": "무기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[반도 앨리스] ‘지뢰 사고’ 없도록…육군, 가상공간 DMZ서 로봇개 수색·정찰 훈련",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610170600111"
-      }
-    },
-    {
-      "keyword": "암표",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "광주경찰 ‘암표 거래’ 단속…위법 적발은 없어",
+        "title": "강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688340"
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688463"
       }
     },
     {
-      "keyword": "최혜진",
+      "keyword": "노팅엄 포레스트 대 아스널",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "실시간 축구 경기: 노팅엄 포레스트 vs 아스널: 프리미어 리그 7라운드",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-nottingham-forest-vs-arsenal-vong-7-ngoai-hang-anh"
+      }
+    },
+    {
+      "keyword": "박위",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441"
+      }
+    },
+    {
+      "keyword": "최준용",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "문유현 '역전 3점포'‥'AG 금메달' 주역들 앞에서 '펄펄'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858820_37004.html"
+      }
+    },
+    {
+      "keyword": "fotmob",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Yamal Leads Barcelona to 9th Straight Win, Equalling La Liga Record",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008802774"
+      }
+    },
+    {
+      "keyword": "붕 은 우",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘붕어빵 파는 차은우’?…“광명 ‘붕은우’ 만나러 2시간 줄 서”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20261018/134860504/1"
+      }
+    },
+    {
+      "keyword": "nottm forest vs arsenal",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "최혜진, 이번에도 ‘한 끗’ 모자랐다…LPGA 첫 우승 1타차로 불발",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20261018/134862645/1"
+        "title": "Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt"
       }
     },
     {
-      "keyword": "상장",
+      "keyword": "premier league",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Leeds 1-1 Man Utd: Dominic Calvert-Lewin equaliser denies Michael Carrick's side",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cwzrdvx44pkpt"
+      }
+    },
+    {
+      "keyword": "pl",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[해외 자회사 IPO①] 솔리다임 美 상장…SK하이닉스 이사회 책임은",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439764"
+        "title": "Coś nietypowego dzieje się u wybrzeży Kalifornii. Powodem El Niño",
+        "source": "o2",
+        "url": "https://www.o2.pl/informacje/cos-nietypowego-dzieje-sie-u-wybrzezy-kalifornii-powodem-el-nino-7341374919034912a"
+      }
+    },
+    {
+      "keyword": "사업",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "케이블카 사업 재검증 노선·예산 해법‘열쇠’",
+        "source": "강원도민일보",
+        "url": "https://www.kado.net/news/curationView.html?idxno=2078872"
       }
     }
   ]
