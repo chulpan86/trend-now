@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-16T21:50:13.698840+09:00",
-    "label": "21:50",
-    "items": [
-      {
-        "keyword": "애플",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'출시 코앞' 아이폰 듀오, 닛토보 'T-글래스' 확보 변수 부상",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261016163400"
-        }
-      },
-      {
-        "keyword": "lg에너지솔루션",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "LG엔솔, 이모 전 사장 고발 “오너家 분쟁 개입 변호사법 위반”",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=227857"
-        }
-      },
-      {
-        "keyword": "kf-21 보라매",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "공중전 전용 꼬리표 뗀 보라매, 7000억 싣고 지상 타격 날개 편다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026101607532769fbbec65dfb_1"
-        }
-      },
-      {
-        "keyword": "apple store",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "iPhone Duo sells out moments after pre-orders begin",
-          "source": "AppleInsider",
-          "url": "https://appleinsider.com/articles/26/10/16/iphone-duo-sells-out-moments-after-pre-orders-begin"
-        }
-      },
-      {
-        "keyword": "이승기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "이승기, 기름값 절약 발언 화제되자 “찾아가다 기름 더 든다고 하더라”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261016/134853372/2"
-        }
-      },
-      {
-        "keyword": "학살",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "가자지구 전쟁 3년, 2만명 넘는 아동 숨져…휴전도 소용 없었다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261015/134845513/2"
-        }
-      },
-      {
-        "keyword": "와일드카드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "두산, FA 186억 쓰고도 와일드카드 탈락... 또 100억 푼다고?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/16/GZQTEOLEMVSGEYRVMFRDEZJRGQ/"
-        }
-      },
-      {
-        "keyword": "에이피알",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12177923"
-        }
-      },
-      {
-        "keyword": "강원도민일보",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "평창읍 주민총회·소통한마당 개최…오늘 오후 1시부터 8시까지 진행",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3720986"
-        }
-      },
-      {
-        "keyword": "선박",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "센카쿠 인근에 가짜 선박 신호…中 군항서 발신 추정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261016062500009"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-17T02:04:08.663778+09:00",
     "label": "02:04",
     "items": [
@@ -1244,6 +1138,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-18T11:07:00.585241+09:00",
+    "label": "11:07",
+    "items": [
+      {
+        "keyword": "고독 사",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "무전동, 고독사 위험가구에 ‘천사꾸러미’ 전달",
+          "source": "한산신문",
+          "url": "https://www.hansannews.com/news/articleView.html?idxno=107448"
+        }
+      },
+      {
+        "keyword": "왕즈이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘승률 98.4％’ 안세영, 덴마크오픈 결승행…야마구치와 맞대결",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688366"
+        }
+      },
+      {
+        "keyword": "mls",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "@~!!【LIVESTREAMS】FREE] Atlanta United FC vs Inter Miami LIVE Coverage ON TV Channel 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3BhcnQyLXRlY2guZ2l0aHViLmlvL1hxWjAxL01UNTAueG1sIi8+PC9rcnBhbm8+&id=video-livestreamsfree-atlanta-unit-zjqxy0c3"
+        }
+      },
+      {
+        "keyword": "투자",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688261"
+        }
+      },
+      {
+        "keyword": "lafc",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Cruel Goalpost Denies Son as LAFC Draw 1-1 with New York City FC",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/18/XOKSAAN4HJHQLHBSUD26RYPE3M/"
+        }
+      },
+      {
+        "keyword": "정기예금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "예금 금리 드디어 4%대…“대출자는 웁니다”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12176896"
+        }
+      },
+      {
+        "keyword": "2026",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘Wait Wait’ for October 17, 2026: We celebrate fall with our coziest guests!",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/10/17/g-s1-148411/wait-wait-for-october-17-2026-we-celebrate-fall-with-our-coziest-guests"
+        }
+      },
+      {
+        "keyword": "반도체 메모리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"중국이 D램 쏟아낼 것\"…머스크는 왜 2028년을 콕 집었나",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261016074300003"
+        }
+      },
+      {
+        "keyword": "양치승",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"피해액 20억 넘어\" 양치승, 차 팔아 회원 환불…\"아직도 갚는 중\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101809024333809"
+        }
+      },
+      {
+        "keyword": "김천시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "2만 시민의 함성, 김천의 가을을 뜨겁게 달구다 김천시민체육대회, 22개 읍면동 하나 된 화합의 대축제",
+          "source": "꽁지환경늬우스",
+          "url": "http://www.kkongjinews.com/news/view.php?idx=260225"
+        }
       }
     ]
   }

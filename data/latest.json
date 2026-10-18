@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-10-18T08:37:33.066642+09:00",
-  "label": "08:37",
+  "timestamp": "2026-10-18T11:07:00.585241+09:00",
+  "label": "11:07",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "200000+",
-      "traffic": 200000,
+      "keyword": "고독 사",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "[날씨] 휴일 전국 세찬 가을비…강풍 동반 집중호우",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261017192625b49"
+        "title": "무전동, 고독사 위험가구에 ‘천사꾸러미’ 전달",
+        "source": "한산신문",
+        "url": "https://www.hansannews.com/news/articleView.html?idxno=107448"
       }
     },
     {
-      "keyword": "음식",
+      "keyword": "왕즈이",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "‘승률 98.4％’ 안세영, 덴마크오픈 결승행…야마구치와 맞대결",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688366"
+      }
+    },
+    {
+      "keyword": "mls",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "@~!!【LIVESTREAMS】FREE] Atlanta United FC vs Inter Miami LIVE Coverage ON TV Channel 18 October 2026",
+        "source": "Universidad de Córdoba (UCO)",
+        "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3BhcnQyLXRlY2guZ2l0aHViLmlvL1hxWjAxL01UNTAueG1sIi8+PC9rcnBhbm8+&id=video-livestreamsfree-atlanta-unit-zjqxy0c3"
+      }
+    },
+    {
+      "keyword": "투자",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "\"아, 단 게 당긴다!\"… 스트레스받은 날 먹기 좋은 건강한 음식 5가지",
-        "source": "하이닥",
-        "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=68779"
+        "title": "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688261"
       }
     },
     {
-      "keyword": "погода",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Прогноз погоды на 10 дней, с ночи 17 октября 2026 года по 27 октября 2026 года: в Южном Вьетнаме ожидаются локальные сильные дожди, грозы и молнии.",
-        "source": "Báo Nghệ An",
-        "url": "https://baonghean.vn/ru/du-bao-thoi-tiet-10-ngay-tu-dem-17102026-den-27102026-nam-bo-cuc-bo-mua-to-dong-set-10353708.html"
-      }
-    },
-    {
-      "keyword": "전투기",
+      "keyword": "lafc",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“구형 장비 비싸게 후려치는 미국”…대만 F-16 조종사들 ‘눈물 흘리는’ 이유 [밀리터리+]",
-        "source": "나우뉴스",
-        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261016601013"
-      }
-    },
-    {
-      "keyword": "날씨예보",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "베트남 북부 맑고 남부 늦은 오후 뇌우 : 날씨",
-        "source": "재경일보",
-        "url": "https://news.jkn.co.kr/post/1030346"
-      }
-    },
-    {
-      "keyword": "thứ hạng của man city gặp ipswich town",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Man City tách tốp, Liverpool - Chelsea hâm nóng cục diện bảng xếp hạng NHA",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/man-city-tach-top-liverpool-chelsea-ham-nong-cuc-dien-bang-xep-hang-nha-c48a1803604.html"
-      }
-    },
-    {
-      "keyword": "한윤서",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"예비 시부 사업실패→암투병\"...한윤서, 상견례 중 오열 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/15/2026101508260844876"
-      }
-    },
-    {
-      "keyword": "롯데 자이언츠",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'대체 왜?' 소문만 무성한데 아무 발표도 없는 롯데, 한화는 취임식까지 끝냈다",
+        "title": "Cruel Goalpost Denies Son as LAFC Draw 1-1 with New York City FC",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/10/17/GBRGIZDDMM2DKMLGMQZDCMZUMM/"
+        "url": "https://www.chosun.com/english/sports-en/2026/10/18/XOKSAAN4HJHQLHBSUD26RYPE3M/"
       }
     },
     {
-      "keyword": "아시아 축구 연맹",
+      "keyword": "정기예금",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "예금 금리 드디어 4%대…“대출자는 웁니다”",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12176896"
+      }
+    },
+    {
+      "keyword": "2026",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "‘Wait Wait’ for October 17, 2026: We celebrate fall with our coziest guests!",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/17/g-s1-148411/wait-wait-for-october-17-2026-we-celebrate-fall-with-our-coziest-guests"
+      }
+    },
+    {
+      "keyword": "반도체 메모리",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "AFC가 주목한 아시안컵 스타 \"34세 손흥민, 마지막 정상 도전\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6592902"
+        "title": "\"중국이 D램 쏟아낼 것\"…머스크는 왜 2028년을 콕 집었나",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261016074300003"
       }
     },
     {
-      "keyword": "klasemen real betis vs fc barcelona",
+      "keyword": "양치승",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "\"피해액 20억 넘어\" 양치승, 차 팔아 회원 환불…\"아직도 갚는 중\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101809024333809"
+      }
+    },
+    {
+      "keyword": "김천시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "2만 시민의 함성, 김천의 가을을 뜨겁게 달구다 김천시민체육대회, 22개 읍면동 하나 된 화합의 대축제",
+        "source": "꽁지환경늬우스",
+        "url": "http://www.kkongjinews.com/news/view.php?idx=260225"
+      }
     }
   ]
 }
