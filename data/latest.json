@@ -1,7 +1,37 @@
 {
-  "timestamp": "2026-10-19T01:13:04.128174+09:00",
-  "label": "01:13",
+  "timestamp": "2026-10-19T04:04:48.033201+09:00",
+  "label": "04:04",
   "items": [
+    {
+      "keyword": "노팅엄 포레스트 대 아스널",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "노팅엄 포레스트 vs 아스널 경기 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-arsenal-ban-linh-san-khach-duoc-thu-lua"
+      }
+    },
+    {
+      "keyword": "박위",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441"
+      }
+    },
+    {
+      "keyword": "구성환",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'나혼산' 또 시끌...구성환 번지점프, 뭐가 문제였나 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101822193675760"
+      }
+    },
     {
       "keyword": "신세계백화점 강남점",
       "traffic_raw": "2000+",
@@ -13,49 +43,9 @@
       }
     },
     {
-      "keyword": "노팅엄 포레스트 대 아스널",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "실시간 축구 경기: 노팅엄 포레스트 vs 아스널: 프리미어 리그 7라운드",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-nottingham-forest-vs-arsenal-vong-7-ngoai-hang-anh"
-      }
-    },
-    {
-      "keyword": "박위",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441"
-      }
-    },
-    {
-      "keyword": "최준용",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "문유현 '역전 3점포'‥'AG 금메달' 주역들 앞에서 '펄펄'",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858820_37004.html"
-      }
-    },
-    {
-      "keyword": "fotmob",
+      "keyword": "붕 은 우",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "Yamal Leads Barcelona to 9th Straight Win, Equalling La Liga Record",
-        "source": "news.sbs.co.kr",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008802774"
-      }
-    },
-    {
-      "keyword": "붕 은 우",
-      "traffic_raw": "500+",
-      "traffic": 500,
       "news": {
         "title": "‘붕어빵 파는 차은우’?…“광명 ‘붕은우’ 만나러 2시간 줄 서”",
         "source": "동아일보",
@@ -64,22 +54,42 @@
     },
     {
       "keyword": "nottm forest vs arsenal",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head",
+        "title": "Premier League LIVE: Arsenal beat Forest after Man Utd & Leeds draw, Brighton and Bournemouth win",
         "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt"
+        "url": "https://www.bbc.com/sport/football/live/cq62j1yn44jxt"
       }
     },
     {
-      "keyword": "premier league",
+      "keyword": "사업",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Leeds 1-1 Man Utd: Dominic Calvert-Lewin equaliser denies Michael Carrick's side",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cwzrdvx44pkpt"
+        "title": "청양 농업용수 공급체계 ‘대전환’…472억원 투입, 논에서 다양한 작물 재배 기반 구축",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=352334"
+      }
+    },
+    {
+      "keyword": "김건희",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[단독] '김건희 황제조사' 검사, 조서엔 이름도 없었다‥수사팀과는 '3천 번' 연락",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6858789_36918.html"
+      }
+    },
+    {
+      "keyword": "빗썸",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“또 욕받이 되겠네”…정보유출 사태에 멍드는 콜센터 상담사들",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20261017140035515"
       }
     },
     {
@@ -87,19 +97,9 @@
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Coś nietypowego dzieje się u wybrzeży Kalifornii. Powodem El Niño",
-        "source": "o2",
-        "url": "https://www.o2.pl/informacje/cos-nietypowego-dzieje-sie-u-wybrzezy-kalifornii-powodem-el-nino-7341374919034912a"
-      }
-    },
-    {
-      "keyword": "사업",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "케이블카 사업 재검증 노선·예산 해법‘열쇠’",
-        "source": "강원도민일보",
-        "url": "https://www.kado.net/news/curationView.html?idxno=2078872"
+        "title": "Tylko u nas! Prezes PSE: Polska potrzebuje energetycznego SAFE",
+        "source": "GospodarkaMorska.pl",
+        "url": "https://www.gospodarkamorska.pl/tylko-u-nas-prezes-polskich-sieci-elektroenergetycznych-polska-potrzebuje-energetycznego-safe-95764"
       }
     }
   ]
