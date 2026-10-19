@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-19T20:33:10.262917+09:00",
-  "label": "20:33",
+  "timestamp": "2026-10-20T02:56:51.132837+09:00",
+  "label": "02:56",
   "items": [
     {
-      "keyword": "핵무기",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "[속보]李 “전작권 맡겨놓고 방치할 상황 아냐… 반드시 조기 환수”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20261019/134868857/1"
-      }
-    },
-    {
-      "keyword": "주주",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "이찬진 \"솔리다임 중복 상장 우려…하이닉스에도 전달하겠다\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439917"
-      }
-    },
-    {
-      "keyword": "에코프로비엠",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "에코프로비엠, 유증 구주주 청약률 103%...일반공모 미실시",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/10/19/2026101980173.html"
-      }
-    },
-    {
-      "keyword": "미스터트롯",
+      "keyword": "김정은",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "이찬원·안성훈·박지현·김용빈 트로트 스타, ‘미스터트롯4’ 마스터로 뜬다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/10/19/P5IZDIN2NJHGRGGX2NJAHQXW6A/"
+        "title": "“북한 원산 앞바다 호화유람선 포착…김정은 여름휴가용 추정”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688519"
       }
     },
     {
-      "keyword": "온통대전",
+      "keyword": "수영",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "대전시 \"온통대전 혜택 확대\"…충전한도 70만원·캐시백 13％",
+        "title": "[전국체전] 6관왕 도전 황선우, 연이틀 '금빛 물살'…육상 조엘진도 2관왕(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261019137800063"
+        "url": "https://www.yna.co.kr/view/AKR20261019168251007"
       }
     },
     {
-      "keyword": "노량진",
+      "keyword": "시험",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "서울 도심서 '생참치 해체쇼'를…이틀간 '노량진 바다축제'",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803271"
+        "title": "윤건영 교육감,“수능은 수험생의 눈으로, 수업은 학생의 성장으로” : 네이버 블로그",
+        "source": "Naver Blog",
+        "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224446781419&redirect=Dlog"
       }
     },
     {
-      "keyword": "김성우",
+      "keyword": "블리치",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "송파 장모 살해·아내 납치 혐의 피의자는 26살 김성우",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6859076_36918.html"
+        "title": "‘Bleach: Thousand-Year Blood War – The Calamity’ Drops Its Final Trailer",
+        "source": "Hypebeast",
+        "url": "https://hypebeast.com/2026/10/bleach-thousand-year-blood-war-the-calamity-last-teaser-trailer-final-two-episodes-release-info"
       }
     },
     {
-      "keyword": "현숙",
+      "keyword": "우유",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'나는 솔로' 14기 현숙, 54kg 근황 공개…한 달 4kg 감량 목표",
-        "source": "스페셜타임스",
-        "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=475473"
+        "title": "\"흰우유 대신 가공우유로 연명?\"⋯벼랑 끝 유업계, '맛'만으론 못 버틴다",
+        "source": "아이뉴스24",
+        "url": "http://www.inews24.com/view/2016244"
       }
     },
     {
-      "keyword": "마이데일리",
+      "keyword": "사이버펑크",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "메디쏠라, 국제 식품 박람회 'SIAL Innovation'서 특별상 수상",
-        "source": "데일리안",
-        "url": "https://www.dailian.co.kr/news/view/1703291/%EB%A9%94%EB%94%94%EC%8F%A0%EB%9D%BC-%EA%B5%AD%EC%A0%9C-%EC%8B%9D%ED%92%88-%EB%B0%95%EB%9E%8C%ED%9A%8C-SIAL-2026"
+        "title": "바르토시 슈티보르, 팬들에게 ‘사이버펑크: 엣지러너 2’의 인물들에게 너무 정붙이지 말라고 경고하다",
+        "source": "Hypebeast.KR",
+        "url": "https://hypebeast.kr/2026/10/cyberpunk-edgerunners-2-cd-projekt-red-bartosz-sztybor-showrunner-interview"
       }
     },
     {
-      "keyword": "양산 도시철도",
+      "keyword": "바바라 팔빈",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "중",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[동정] 박완수 경남지사, 통도사 창건 1381주년 개산대재 참석",
+        "title": "13명 사상 통영대전 추돌 사고…크루즈 주행 조사",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261019164942y7p"
+      }
+    },
+    {
+      "keyword": "로이킴",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'막걸리 수저' 로이킴 \"고교 졸업 선물로 엄마가 ○렉스는 어떻냐…\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261019_0003832322"
+      }
+    },
+    {
+      "keyword": "이종혁",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'내 새끼의 연애' 시즌3…이종혁 아들 이준수 출연",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261019106200052"
+        "url": "https://www.yna.co.kr/view/AKR20261019104000005"
       }
     }
   ]
