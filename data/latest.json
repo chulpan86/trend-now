@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-20T02:56:51.132837+09:00",
-  "label": "02:56",
+  "timestamp": "2026-10-20T06:56:03.194914+09:00",
+  "label": "06:56",
   "items": [
     {
-      "keyword": "김정은",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "연금",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "“북한 원산 앞바다 호화유람선 포착…김정은 여름휴가용 추정”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8688519"
+        "title": "\"노후자금 어쩌나\"‥국민연금, 100일 만에 보유주식 182조 원 손실",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858808_37004.html"
       }
     },
     {
-      "keyword": "수영",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "반도체",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[전국체전] 6관왕 도전 황선우, 연이틀 '금빛 물살'…육상 조엘진도 2관왕(종합)",
+        "title": "뉴욕증시, 반도체·AI주 반등 속 혼조…나스닥 1.11%↑(종합)",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261019168251007"
+        "url": "https://www.yna.co.kr/view/AKR20261020006051072"
       }
     },
     {
-      "keyword": "시험",
+      "keyword": "삼성sdi",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "윤건영 교육감,“수능은 수험생의 눈으로, 수업은 학생의 성장으로” : 네이버 블로그",
-        "source": "Naver Blog",
-        "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224446781419&redirect=Dlog"
+        "title": "\"미국 사업 사실상 포기\" 백기 든 중국 ESS 기업들...2차전지주 '불기둥' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/10/19/2026101911111211909"
       }
     },
     {
-      "keyword": "블리치",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "spurs vs coventry",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "‘Bleach: Thousand-Year Blood War – The Calamity’ Drops Its Final Trailer",
-        "source": "Hypebeast",
-        "url": "https://hypebeast.com/2026/10/bleach-thousand-year-blood-war-the-calamity-last-teaser-trailer-final-two-episodes-release-info"
+        "title": "Spurs vs Coventry LIVE: Premier League score, team news, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cq99z1401xljt"
       }
     },
     {
-      "keyword": "우유",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "당구",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "\"흰우유 대신 가공우유로 연명?\"⋯벼랑 끝 유업계, '맛'만으론 못 버틴다",
-        "source": "아이뉴스24",
-        "url": "http://www.inews24.com/view/2016244"
+        "title": "PBA 2차 투어 우승 후 내리막…스롱, 128강전서 조기 탈락",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261019018900007"
       }
     },
     {
-      "keyword": "사이버펑크",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "바르토시 슈티보르, 팬들에게 ‘사이버펑크: 엣지러너 2’의 인물들에게 너무 정붙이지 말라고 경고하다",
-        "source": "Hypebeast.KR",
-        "url": "https://hypebeast.kr/2026/10/cyberpunk-edgerunners-2-cd-projekt-red-bartosz-sztybor-showrunner-interview"
-      }
-    },
-    {
-      "keyword": "바바라 팔빈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "중",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "13명 사상 통영대전 추돌 사고…크루즈 주행 조사",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261019164942y7p"
-      }
-    },
-    {
-      "keyword": "로이킴",
+      "keyword": "폴더블 스마트폰",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'막걸리 수저' 로이킴 \"고교 졸업 선물로 엄마가 ○렉스는 어떻냐…\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261019_0003832322"
+        "title": "‘아이폰 듀오’ 공급난 심각…\"애플, 알면서 서둘러 출시\"",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20261019081149"
       }
     },
     {
-      "keyword": "이종혁",
+      "keyword": "프리미어리그 순위",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'내 새끼의 연애' 시즌3…이종혁 아들 이준수 출연",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261019104000005"
+        "title": "최신 프리미어 리그 순위: 1위 3팀의 이변, 토트넘 최하위.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/bang-xep-hang-ngoai-hang-anh-moi-nhat-top-3-co-bat-ngo-tottenham-dung-duoi-day"
+      }
+    },
+    {
+      "keyword": "kim jong un",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Trump signals uncertainty about meeting N. Korean leader in China next month",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20261020000400315"
+      }
+    },
+    {
+      "keyword": "헤타페 대 라요",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "헤타페 vs 라요 바예카노 경기 예측: 예측하기 어려운 경기",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-getafe-vs-rayo-vallecano-cuoc-doi-dau-kho-phan-dinh"
+      }
+    },
+    {
+      "keyword": "พยากรณ์อากาศ",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "สภาพอากาศวันนี้ -25 ต.ค.อีสาน กลาง-กทม ตะวันออก ใต้ฝนเพิ่ม-ฝนหนักบางแห่ง",
+        "source": "thansettakij",
+        "url": "https://www.thansettakij.com/general-news/671799"
       }
     }
   ]
