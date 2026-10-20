@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-21T04:44:01.959358+09:00",
-  "label": "04:44",
+  "timestamp": "2026-10-21T07:48:46.805878+09:00",
+  "label": "07:48",
   "items": [
     {
-      "keyword": "슈투트가르트 대 아틀레티코",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"알바레스 최전방 짝꿍은 이강인\" 西 매체 전망, 또 \"UCL 선발 유력\"... 슈투트가르트 '폭격 준비' 완료 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/10/20/2026102018261974182"
-      }
-    },
-    {
-      "keyword": "잠실종합운동장 잠실야구장",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "수퍼스타 김도영 만루포... 잠실의 마지막 영웅 됐다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/10/20/BDYTRLXSB5HCHNGRCM4BIYYDTM/"
-      }
-    },
-    {
-      "keyword": "psg 대 바르셀로나",
+      "keyword": "thời tiết",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“야말 막는 법? 간단하다. 볼 주지 않는 것” 엔리케 PSG 감독이 꺼낸 ‘야말 봉쇄법’",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202610201643003"
+        "title": "Không khí lạnh ảnh hưởng, miền Bắc và miền Trung giảm nhiệt nhẹ",
+        "source": "Báo Dân trí",
+        "url": "https://dantri.com.vn/thoi-tiet/khong-khi-lanh-anh-huong-mien-bac-va-mien-trung-giam-nhiet-nhe-20261020184002494.htm"
       }
     },
     {
-      "keyword": "pakistan national cricket team vs england cricket team standings",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad75b198f08ed94496495e5"
-      }
-    },
-    {
-      "keyword": "리버풀 대 비야레알",
+      "keyword": "погода",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "리버풀, 챔피언스 리그 비야레알전 앞두고 선수단 걱정",
-        "source": "Laodong.vn",
-        "url": "https://ko.laodong.vn/the-thao/liverpool-lo-nhan-su-truoc-tran-gap-villarreal-tai-champions-league-1786393.ldo"
+        "title": "Россию охватывают заморозки: где похолодает до минус 5 и чего ждать дальше",
+        "source": "Росбалт",
+        "url": "https://www.rosbalt.ru/news/2026-10-20/rossiyu-ohvatyvayut-zamorozki-gde-poholodaet-do-minus-5-i-chego-zhdat-dalshe-5711644"
       }
     },
     {
-      "keyword": "psg vs barcelona",
+      "keyword": "psg vs fc barcelona standings",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Champions League: Desire Doue stars as PSG beat Barcelona in thriller",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c3dxwk1qrw9nt"
+      }
+    },
+    {
+      "keyword": "thứ hạng của psg gặp barcelona",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "¿Cómo ver el partido PSG vs Barcelona en TV y streaming?",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/es-us/como-ver-el-partido-psg-vs-barcelona-en-tv-y-streaming-20-10-2026"
+        "title": "Video bóng đá PSG - Barcelona: Đỉnh cao châu Âu, 6 bàn ngoạn mục (Cúp C1)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/video-bong-da-psg-barcelona-dinh-cao-chau-au-cup-c1-c48a1804361.html"
       }
     },
     {
-      "keyword": "뉴데일리",
+      "keyword": "สภาพอากาศ",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "대통령 지지율 46.4%…호남서만 긍정평가 더 높아-여론조사꽃",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11624578"
+        "title": "กรมอุตุนิยมวิทยา ประกาศฉบับ 8 เตือนฝนตกหนักอีก 5 วัน เปิดจังหวัดได้รับผลกระทบ",
+        "source": "ข่าวสด",
+        "url": "https://www.khaosod.co.th/breaking-news/news_10444548"
       }
     },
     {
-      "keyword": "스디파",
+      "keyword": "다우 존스 산업평균지수",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "뉴욕증시, 실적 호조·유가 하락에 투자심리 개선…다우 1%↑",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261021006700072"
+      }
+    },
+    {
+      "keyword": "klasemen psg vs fc barcelona",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "후티",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'스디파', 8억 뷰 터진 레전드 무대 총출동…오늘(13일) 스페셜 방송",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_sn/0117_202610131018120500"
+        "title": "후티, 예멘·사우디 잇따라 공격… 정부군 훈련소서 53명 사망, 리야드 공항 폐쇄",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/"
       }
     },
     {
-      "keyword": "친문",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "박홍근",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "'문 전 대통령 수사는 절제' 발언에…친문계 의원들 공소청 성토",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020141400055"
+        "title": "박홍근 “생중계 국무회의, 오늘도 열띤 토론”…李 “너무 잘하고 계셔”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20261020/134878320/2"
       }
     },
     {
-      "keyword": "도르트문트",
+      "keyword": "天気",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "챔피언스 리그 사바 대 도르트문트 경기 예측",
-        "source": "Laodong.vn",
-        "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-sabah-vs-dortmund-tai-champions-league-1785972.ldo"
+        "title": "台風30号 本州付近に来週接近恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6599518"
       }
     }
   ]
