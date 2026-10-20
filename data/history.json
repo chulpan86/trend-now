@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-19T01:13:04.128174+09:00",
-    "label": "01:13",
-    "items": [
-      {
-        "keyword": "신세계백화점 강남점",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "강풍에 뜯겨 날아간 아파트 지붕…도로를 막은 쓰러진 나무",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8688463"
-        }
-      },
-      {
-        "keyword": "노팅엄 포레스트 대 아스널",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "실시간 축구 경기: 노팅엄 포레스트 vs 아스널: 프리미어 리그 7라운드",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-nottingham-forest-vs-arsenal-vong-7-ngoai-hang-anh"
-        }
-      },
-      {
-        "keyword": "박위",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441"
-        }
-      },
-      {
-        "keyword": "최준용",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "문유현 '역전 3점포'‥'AG 금메달' 주역들 앞에서 '펄펄'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858820_37004.html"
-        }
-      },
-      {
-        "keyword": "fotmob",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Yamal Leads Barcelona to 9th Straight Win, Equalling La Liga Record",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008802774"
-        }
-      },
-      {
-        "keyword": "붕 은 우",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘붕어빵 파는 차은우’?…“광명 ‘붕은우’ 만나러 2시간 줄 서”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261018/134860504/1"
-        }
-      },
-      {
-        "keyword": "nottm forest vs arsenal",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt"
-        }
-      },
-      {
-        "keyword": "premier league",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Leeds 1-1 Man Utd: Dominic Calvert-Lewin equaliser denies Michael Carrick's side",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwzrdvx44pkpt"
-        }
-      },
-      {
-        "keyword": "pl",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Coś nietypowego dzieje się u wybrzeży Kalifornii. Powodem El Niño",
-          "source": "o2",
-          "url": "https://www.o2.pl/informacje/cos-nietypowego-dzieje-sie-u-wybrzezy-kalifornii-powodem-el-nino-7341374919034912a"
-        }
-      },
-      {
-        "keyword": "사업",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "케이블카 사업 재검증 노선·예산 해법‘열쇠’",
-          "source": "강원도민일보",
-          "url": "https://www.kado.net/news/curationView.html?idxno=2078872"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-19T04:04:48.033201+09:00",
     "label": "04:04",
     "items": [
@@ -938,6 +832,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-20T14:32:00.243740+09:00",
+    "label": "14:32",
+    "items": [
+      {
+        "keyword": "슈퍼태풍",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html"
+        }
+      },
+      {
+        "keyword": "혼인",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "‘돌싱글즈’ 유현철♥‘나는솔로’ 김슬기, 혼인신고 3년 만에 결혼식",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12180290"
+        }
+      },
+      {
+        "keyword": "아리 셀",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "아리셀 대표 ‘징역 15년→4년 감형’ 확정…\"23명 죽었는데\" 유족 눈물",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323841"
+        }
+      },
+      {
+        "keyword": "맨체스터 시티 fc",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[속보] 결국 전례없는 중징계 ‘오피셜’ 공식발표 나오나…英 매체 “유죄 판결받은 맨체스터 시티, 승점 대폭 삭감→2부 강등 불가피”",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%89%E1%85%A9%E1%86%A8%E1%84%87%E1%85%A9-%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AE%E1%86%A8-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%85%E1%85%A8%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A8-%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD-%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%82%E1%85%A1--%E8%8B%B1-%E1%84%86%E1%85%A2%E1%84%8E%E1%85%A6-%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%AC-%E1%84%91%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A7%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AE%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%86%E1%85%A2%E1%86%AB%E1%84%8E%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5-%E1%84%89%E1%85%B5%E1%84%90%E1%85%B5-%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%B7-%E1%84%83%E1%85%A2%E1%84%91%E1%85%A9%E1%86%A8-%E1%84%89%E1%85%A1%E1%86%A8%E1%84%80%E1%85%A1%E1%86%B7%E2%86%922%E1%84%87%E1%85%AE-%E1%84%80%E1%85%A1%E1%86%BC%E1%84%83%E1%85%B3%E1%86%BC-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A1%E1%84%91%E1%85%B5/blte0de5a912f2c838d"
+        }
+      },
+      {
+        "keyword": "역삼동 화재",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[속보] 서울 역삼동 상가 건물에서 큰불…대응 1단계 발령",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020133149wyi"
+        }
+      },
+      {
+        "keyword": "음주 운전",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "개그맨 이혁재, 음주운전하다 오토바이 들이받아···공소청 송치",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610201029001"
+        }
+      },
+      {
+        "keyword": "하이닉스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "반도체 소부장기업에 2조 원 지원…상생 무역금융 출범",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973781"
+        }
+      },
+      {
+        "keyword": "김정은 속보",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "속보 트럼프, 다음달 김정은과 회담 여부에 \"모르겠다\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610200457253889"
+        }
+      },
+      {
+        "keyword": "황산공원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "경남 청년들 양산에 모인다, 황산공원서 청년축제 공동 개최",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719062"
+        }
+      },
+      {
+        "keyword": "cnn",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Christiane Amanpour announces she will leave CNN next June",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/10/19/media/christiane-amanpour-leaving-cnn-june-2027"
+        }
       }
     ]
   }
