@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-20T06:56:03.194914+09:00",
-    "label": "06:56",
-    "items": [
-      {
-        "keyword": "연금",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"노후자금 어쩌나\"‥국민연금, 100일 만에 보유주식 182조 원 손실",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858808_37004.html"
-        }
-      },
-      {
-        "keyword": "반도체",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "뉴욕증시, 반도체·AI주 반등 속 혼조…나스닥 1.11%↑(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020006051072"
-        }
-      },
-      {
-        "keyword": "삼성sdi",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"미국 사업 사실상 포기\" 백기 든 중국 ESS 기업들...2차전지주 '불기둥' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/19/2026101911111211909"
-        }
-      },
-      {
-        "keyword": "spurs vs coventry",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Spurs vs Coventry LIVE: Premier League score, team news, commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq99z1401xljt"
-        }
-      },
-      {
-        "keyword": "당구",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "PBA 2차 투어 우승 후 내리막…스롱, 128강전서 조기 탈락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261019018900007"
-        }
-      },
-      {
-        "keyword": "폴더블 스마트폰",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘아이폰 듀오’ 공급난 심각…\"애플, 알면서 서둘러 출시\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261019081149"
-        }
-      },
-      {
-        "keyword": "프리미어리그 순위",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "최신 프리미어 리그 순위: 1위 3팀의 이변, 토트넘 최하위.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/bang-xep-hang-ngoai-hang-anh-moi-nhat-top-3-co-bat-ngo-tottenham-dung-duoi-day"
-        }
-      },
-      {
-        "keyword": "kim jong un",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Trump signals uncertainty about meeting N. Korean leader in China next month",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261020000400315"
-        }
-      },
-      {
-        "keyword": "헤타페 대 라요",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "헤타페 vs 라요 바예카노 경기 예측: 예측하기 어려운 경기",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-getafe-vs-rayo-vallecano-cuoc-doi-dau-kho-phan-dinh"
-        }
-      },
-      {
-        "keyword": "พยากรณ์อากาศ",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "สภาพอากาศวันนี้ -25 ต.ค.อีสาน กลาง-กทม ตะวันออก ใต้ฝนเพิ่ม-ฝนหนักบางแห่ง",
-          "source": "thansettakij",
-          "url": "https://www.thansettakij.com/general-news/671799"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-20T09:50:54.784295+09:00",
     "label": "09:50",
     "items": [
@@ -929,6 +823,112 @@
           "title": "터치드 \"5년9개월 만에 첫 정규, 감추고 싶었던 내면 꺼냈죠\"",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261020139200005"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-21T21:33:59.742836+09:00",
+    "label": "21:33",
+    "items": [
+      {
+        "keyword": "삼성전기",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "삼성전기, 엔비디아 핵심 공급사 됐다…AI 기판 장기 공급",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021170900003"
+        }
+      },
+      {
+        "keyword": "천궁",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“패트리엇 10년 어떻게 기다려요?”…천궁-Ⅱ 중동 넘어 스위스까지? [경제한방]",
+          "source": "KBS 뉴스",
+          "url": "https://mobile.kbs.co.kr/news/view.do?ncd=8691327"
+        }
+      },
+      {
+        "keyword": "안용준",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'주몽' 안용준, 약 5억원 사기 혐의 피소…\"연락두절\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003835263"
+        }
+      },
+      {
+        "keyword": "대한광통신",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "대만 시장조사업체 \"광섬유 부족 2028년까지 지속 가능성\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020132400009"
+        }
+      },
+      {
+        "keyword": "걸 그룹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼성증권 AI 걸그룹 '루미나' 인기…데뷔곡 뮤비 250만뷰",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021054800008"
+        }
+      },
+      {
+        "keyword": "동구",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[대구소식] 동촌유원지서 23∼24일 '막창축제'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021057900053"
+        }
+      },
+      {
+        "keyword": "php 취약점",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "EU, 범용 프로그래밍 언어 PHP 보안 경계령…\"심각도 9.2\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261021154600098"
+        }
+      },
+      {
+        "keyword": "dem",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Vivek Ramaswamy Campaign Will Spend $4 Million To Air Amy Acton Mother Attack Ad",
+          "source": "Forbes",
+          "url": "https://www.forbes.com/sites/saradorn/2026/10/21/ramaswamys-campaign-admits-making-controversial-ad-featuring-amy-actons-mother-will-spend-4-million-airing-it/"
+        }
+      },
+      {
+        "keyword": "말왕",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "육준서, 특수부대 UDT 나왔는데..예능 촬영중 눈물 \"나 진짜 X신이다\"(술래게임) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MMYDGMLEME2TKMBZGU3GEYRTHA/"
+        }
+      },
+      {
+        "keyword": "m",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "New Food Lion opens in Greenville",
+          "source": "WCAX",
+          "url": "https://www.wcax.com/video/2026/10/21/new-food-lion-opens-greenville/"
         }
       }
     ]
