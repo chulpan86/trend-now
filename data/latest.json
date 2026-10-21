@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-21T10:07:25.186446+09:00",
-  "label": "10:07",
+  "timestamp": "2026-10-21T15:46:50.855582+09:00",
+  "label": "15:46",
   "items": [
     {
-      "keyword": "아들",
+      "keyword": "대형주",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "\"엄마 걱정할까 봐\"…새벽에 사라진 중3 아들이 남긴 카톡",
+        "title": "AI 기업 호실적에 삼전닉스 7% 급등…코스피 '매수 사이드카'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026102155386"
+      }
+    },
+    {
+      "keyword": "음문석",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[공식] ‘호프’ 음문석 측 “♥여친과 내년 1월 결혼”",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261021/134881108/1"
+      }
+    },
+    {
+      "keyword": "김호중",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'음주 뺑소니' 김호중, 가석방 후 수술…\"현재 뛰기 어려운 상황\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102111163245326"
+      }
+    },
+    {
+      "keyword": "뷔",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "BTS 뷔, 바지 엉덩이 부분에 뭐 묻었나…\"원래 이런 것, 충분히 오해할만해\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6326798"
+      }
+    },
+    {
+      "keyword": "농협은행",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "NH농협은행, 'AI데이터 콘테스트' 개최…데이터 경영 강화",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261021000229"
+      }
+    },
+    {
+      "keyword": "노태문",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "성과급 넘어 교섭권까지…\"우리가 대표\" 노노 갈등",
         "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020133453owB"
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020200105mZA"
       }
     },
     {
-      "keyword": "육군사관학교",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "knicks vs 76ers",
+      "keyword": "한파주의보",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "The Knicks aren’t scared of LeBron James — or a brewing rivalry with superteam 76ers",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/18/sports/the-knicks-arent-scared-of-lebron-james-or-a-brewing-rivalry-with-superteam-76ers/"
+        "title": "[날씨] 찬바람 불며 쌀쌀해...내륙 곳곳 올가을 첫 '한파주의보'",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0108_202610211453017644"
       }
     },
     {
-      "keyword": "seoul weather",
+      "keyword": "사형",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Chilly Autumn Weather All Day; Seoul to Drop to 5°C Tomorrow Morning",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008807212"
+        "title": "“성지서 부도덕 행위” 외국인 남녀 사형 집행한 사우디 논란 [잇슈 SNS]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8690916"
       }
     },
     {
-      "keyword": "황선우",
+      "keyword": "역사 왜곡",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[전국체전] 수영 황선우, 6관왕 무산…개인혼영 200ｍ 실격",
+        "title": "[단독]\"6·25전쟁, 미국이 일으킨 전쟁\" 역사왜곡 논란 유튜버 초청한 경기교육청",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/education/2026/10/21/SIPHS3VXSVDURL6SRADVWXSSHU/"
+      }
+    },
+    {
+      "keyword": "터치드",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "터치드 \"5년9개월 만에 첫 정규, 감추고 싶었던 내면 꺼냈죠\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020167200007"
-      }
-    },
-    {
-      "keyword": "외환시장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "원/달러 환율 1,325원 연저점 또 경신…원/엔 환율도",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020131100002"
-      }
-    },
-    {
-      "keyword": "제너럴 모터스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "GM beats on Q3 results, tightens profit outlook, unveils new $20 billion buyback",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/article/gm-beats-on-q3-results-tightens-profit-outlook-unveils-new-20-billion-buyback-134307573.html"
-      }
-    },
-    {
-      "keyword": "lucero acosta",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "MMA fighter receives big bonus on OnlyFans after suffering a wardrobe malfunction during loss",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/outkick-sports/mma-fighter-receives-big-bonus-onlyfans-after-suffering-wardrobe-malfunction-during-loss"
-      }
-    },
-    {
-      "keyword": "문재인",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "문재인 전 대통령, 내년 1월 국민참여재판…딸·전 사위 등 18명 증인 출석",
-        "source": "주간조선",
-        "url": "http://weekly.chosun.com/news/articleView.html?idxno=56373"
-      }
-    },
-    {
-      "keyword": "최혁진",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "최혁진 의원, 체육계 혐오·차별 발언 제재 법안 발의",
-        "source": "원주신문",
-        "url": "http://www.iwjnews.com/news/articleView.html?idxno=72434"
+        "url": "https://www.yna.co.kr/view/AKR20261020139200005"
       }
     }
   ]
