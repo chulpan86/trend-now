@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-21T21:33:59.742836+09:00",
-  "label": "21:33",
+  "timestamp": "2026-10-22T02:46:20.921481+09:00",
+  "label": "02:46",
   "items": [
     {
-      "keyword": "삼성전기",
+      "keyword": "코모 대 맨유",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "'팀이 어쩌다 이 지경까지' 최근 6경기 3무3패→'부상 병동' 전락 맨체스터 유나이티드, 코모와의 UCL 원정 '언더독' 신세..'무려 8명 마지막 팀 훈련 제외'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/10/21/HBRTSMJVMYYTMNRVG5RTANZTGE/"
+      }
+    },
+    {
+      "keyword": "김밥",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "김천 김밥부터 익산 국화까지···가을축제 앞두고 지자체 '식중독 경계령'",
+        "source": "전북일보 인터넷신문",
+        "url": "https://www.jjan.kr/article/20261021500026"
+      }
+    },
+    {
+      "keyword": "학교 폭력",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "삼성전기, 엔비디아 핵심 공급사 됐다…AI 기판 장기 공급",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261021170900003"
+        "title": "세종학교지원본부, 학교폭력 조사·갈등 중재 전문성 강화",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20261021001217"
       }
     },
     {
-      "keyword": "천궁",
+      "keyword": "샘 김",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "“패트리엇 10년 어떻게 기다려요?”…천궁-Ⅱ 중동 넘어 스위스까지? [경제한방]",
-        "source": "KBS 뉴스",
-        "url": "https://mobile.kbs.co.kr/news/view.do?ncd=8691327"
+        "title": "'케데헌' 이재, 연인 샘킴과 한 달 앞당겨 한국서 깜짝 결혼",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6594018"
       }
     },
     {
-      "keyword": "안용준",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "como vs man utd",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'주몽' 안용준, 약 5억원 사기 혐의 피소…\"연락두절\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261021_0003835263"
+        "title": "El Como, de la Serie D, se enfrentará al Manchester United en la Liga de Campeones.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/es/como-tu-serie-d-den-cham-tran-man-united-o-champions-league"
       }
     },
     {
-      "keyword": "대한광통신",
+      "keyword": "calcio como đấu với man utd",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "대만 시장조사업체 \"광섬유 부족 2028년까지 지속 가능성\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020132400009"
+        "title": "Como v Manchester United: Champions League – live",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live"
       }
     },
     {
-      "keyword": "걸 그룹",
+      "keyword": "카일 프랜시스 케네디",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "삼성증권 AI 걸그룹 '루미나' 인기…데뷔곡 뮤비 250만뷰",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261021054800008"
+        "title": "케네디家 또 비극…로버트의 손녀 카일, 42세로 사망",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20261021/134881751/1"
       }
     },
     {
-      "keyword": "동구",
+      "keyword": "明天的天氣",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[대구소식] 동촌유원지서 23∼24일 '막창축제'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261021057900053"
+        "title": "颱風薔琵暴風侵襲率最新預估：北北基桃等10縣市突破八成 基隆、宜蘭99%",
+        "source": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E4%BE%B5%E8%A5%B2%E7%8E%87%E6%9C%80%E6%96%B0%E9%A0%90%E4%BC%B0%EF%BC%9A%E5%8C%97%E5%8C%97%E5%9F%BA%E6%A1%83%E7%AD%8910%E7%B8%A3%E5%B8%82%E7%AA%81%E7%A0%B4%E5%85%AB%E6%88%90-%E5%9F%BA%E9%9A%86%E3%80%81%E5%AE%9C%E8%98%AD99-140043411.html"
       }
     },
     {
-      "keyword": "php 취약점",
+      "keyword": "국유장기",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "EU, 범용 프로그래밍 언어 PHP 보안 경계령…\"심각도 9.2\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261021154600098"
+        "title": "[야고부-석민] 국유장기와 암살자(들)",
+        "source": "매일신문",
+        "url": "https://www.imaeil.com/page/view/2026102017351827211"
       }
     },
     {
-      "keyword": "dem",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Vivek Ramaswamy Campaign Will Spend $4 Million To Air Amy Acton Mother Attack Ad",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/saradorn/2026/10/21/ramaswamys-campaign-admits-making-controversial-ad-featuring-amy-actons-mother-will-spend-4-million-airing-it/"
-      }
-    },
-    {
-      "keyword": "말왕",
+      "keyword": "나성범",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "육준서, 특수부대 UDT 나왔는데..예능 촬영중 눈물 \"나 진짜 X신이다\"(술래게임) - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MMYDGMLEME2TKMBZGU3GEYRTHA/"
-      }
-    },
-    {
-      "keyword": "m",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "New Food Lion opens in Greenville",
-        "source": "WCAX",
-        "url": "https://www.wcax.com/video/2026/10/21/new-food-lion-opens-greenville/"
+        "title": "KIA 나성범 \"최형우 선배? 이제는 적…승부의 세계는 냉정\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261021028700007"
       }
     }
   ]
