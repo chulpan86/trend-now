@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-22T19:50:31.591922+09:00",
-  "label": "19:50",
+  "timestamp": "2026-10-23T00:43:37.011847+09:00",
+  "label": "00:43",
   "items": [
     {
-      "keyword": "안성훈",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20261021/134881885/1"
-      }
-    },
-    {
-      "keyword": "삼전닉스",
+      "keyword": "박항서",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610221022001"
+        "title": "\"내가 사퇴하면 끝이야!\" 박항서 감독, 태국서 폭탄발언→경찰까지 투입...\"절대 경질하지 않을 것\" 구단주가 직접 나섰다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/football/2026/10/22/GI4WGODDGUZTAN3CHFRTINZQGQ/"
       }
     },
     {
-      "keyword": "울산 현대모비스 대 창원 lg",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
+      "keyword": "나는 solo",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "나는 SOLO",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638563"
+      }
     },
     {
-      "keyword": "kt wiz",
+      "keyword": "기수",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Veteran pitcher Choi Dong-hwan released by KT after failed comeback attempt - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/10/22/YPQPZXXFOBDKFASR5TMH5F7JEQ/"
+        "title": "'경마 통산 1천승' 서승운 기수 \"처음부터 다시 시작\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261022125600007"
       }
     },
     {
-      "keyword": "hd현대",
+      "keyword": "페이커",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "HD현대중공업, 세계 최대 암모니아 추진선 건조…11월 인도",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20261022/134892162/1"
+        "title": "우정사업본부, 페이커 기념 우표 출시 맞아 '굿즈'도 선보인다 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/tech/2026/10/22/2026102209111048608"
       }
     },
     {
-      "keyword": "대형주",
+      "keyword": "에릭 남",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"내년은 삼전닉스보다 소부장…'대형주 7·소부장 3' 담아라\"",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202610228673i"
+        "title": "'은퇴설' 에릭남, 이런 일이...\"배신 당하고 억대 돈 뜯겨\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102120571684556"
       }
     },
     {
-      "keyword": "저작권",
+      "keyword": "박찬호",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "함께하는음악저작권협회, '매장 음악 이용내역 확인 서비스' 정식 개시",
-        "source": "비즈니스포스트",
-        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450016"
+        "title": "‘제24회 박찬호기 전국초등학교 야구대회’ 10월 26일 공주서 개막... 13일간 대장정",
+        "source": "중도일보",
+        "url": "https://m.joongdo.co.kr/view.php?key=20261022010006287"
       }
     },
     {
-      "keyword": "빈곤",
+      "keyword": "이혼",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "LF 킨, '옥스팜 트레일워커' 동참…임직원 320㎞ 걷고 기부",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261022_0003836008"
+        "title": "김정은, 결혼 20년 만에 파경 “협의이혼”",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12183042"
       }
     },
     {
-      "keyword": "철도",
+      "keyword": "천천히 강렬하게",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "김태호 부산교통공사 사장 취임…파업 대응·교섭 타결에 집중",
-        "source": "전기신문",
-        "url": "http://www.electimes.com/news/articleView.html?idxno=373762"
-      }
-    },
-    {
-      "keyword": "김한솔",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "북한 매체 홈페이지 '먹통'...'김정은 사망설'과 관계 있나? [앵커리포트]",
+        "title": "송혜교·공유 주연 넷플릭스 시리즈 '천천히 강렬하게' 12월 공개",
         "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0104_202610220831313775"
+        "url": "https://www.ytn.co.kr/_ln/0106_202610221401480285"
+      }
+    },
+    {
+      "keyword": "축구 선수",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "베트남을 상대로 비신사적인 골을 넣은 선수는 선수 생활을 끝내는 타격을 입었다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/cau-thu-ghi-ban-thieu-fair-play-vao-luoi-viet-nam-gap-cu-soc-su-nghiep"
+      }
+    },
+    {
+      "keyword": "박철순",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "다음달 14일 잠실야구장 기념 이벤트 경기...은퇴 스타 58명 총출동",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0107_202610221404576407"
       }
     }
   ]
