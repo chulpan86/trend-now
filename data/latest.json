@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-22T06:01:08.905008+09:00",
-  "label": "06:01",
+  "timestamp": "2026-10-22T09:18:36.148360+09:00",
+  "label": "09:18",
   "items": [
     {
-      "keyword": "바이에른 대 아스널",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "감독이 부상으로 결장한다고? 뮌헨 콩파니 감독, 아스널전 결장 유력",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6594590?utm_source=naver&utm_medium=navernewsstand&utm_campaign=20261021100242"
-      }
-    },
-    {
-      "keyword": "챔스",
+      "keyword": "미스터트롯",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "황인범 32분 포르투, 에인트호번에 0-1 패배",
+        "title": "[미스터트롯4] 이찬원, 스페셜 마스터 합류! 역대 ′미스터트롯′ 선배들 총출동",
+        "source": "프레스뉴스",
+        "url": "https://www.pressna.com/news/newsview.php?ncode=1065591978043965"
+      }
+    },
+    {
+      "keyword": "한혜진",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "풍자, 한혜진 옆 '이쁜척'…37㎏ 감량의 힘",
         "source": "뉴시스",
-        "url": "https://mobile.newsis.com/photo/NISI20261021_0002269240"
+        "url": "https://www.newsis.com/view/NISX20261021_0003835400"
       }
     },
     {
-      "keyword": "삼성",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘이게 소리다’… 오디오의 명가 대표작들 한자리에",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20261021/134885043/2"
-      }
-    },
-    {
-      "keyword": "황희찬",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"황희찬 슈퍼카 42대 요구하곤 홍보 불이행\" 사기 혐의 피소",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=03493206645615216&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "자녀",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "늦은 취업 반영…자녀공제 기준 26세로 늘린다",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20104475"
-      }
-    },
-    {
-      "keyword": "bayern vs arsenal",
+      "keyword": "thứ hạng của real madrid gặp rb leipzig",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Bayern Munich vs Arsenal: UEFA Champions League stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c98rzp066dd8t"
+        "title": "Video bóng đá Real Madrid - Leipzig: Mbappe - Diomande rực rỡ (Cúp C1)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-leipzig-mbappe-diomande-ruc-ro-cup-c1-c48a1804646.html"
       }
     },
     {
-      "keyword": "real madrid vs rb leipzig",
+      "keyword": "thứ hạng của bayern gặp arsenal",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Between Mbappé and Güler: who scored Real Madrid's second goal against Leipzig?",
-        "source": "Goal.com",
-        "url": "https://www.goal.com/en/news/between-mbappe-and-gueler-who-scored-real-madrid-s-second-goal-against-leipzig/bltfbc3a24e17977227"
+        "title": "Video bóng đá Bayern Munich - Arsenal: Đôi công ngang ngửa (Cúp C1)",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/video-bong-da-bayern-munich-arsenal-doi-cong-ngang-ngua-cup-c1-c48a1804643.html"
       }
     },
     {
-      "keyword": "엔화 환율",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "떨어지는 원/달러 환율, 환전소 앞 북적북적",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20261021163500013"
-      }
-    },
-    {
-      "keyword": "real madrid",
+      "keyword": "빨대",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Video | Gol de Bernardo Silva en el 1-0 de Real Madrid contra RB Leipzig en la Champions",
-        "source": "Minuto60",
-        "url": "https://www.minuto60.com/deportes/video-gol-bernardo-silva-real-madrid-leipzig-champions/17521"
+        "title": "진중권 “추미애, 말실수 아냐…소방 공무원을 흡혈충으로 본 것”",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11625037"
       }
     },
     {
-      "keyword": "현대 아이오닉",
+      "keyword": "颱風",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "현대차 中 전략형 전기차 아이오닉 V '초라한' 성적…첫달 판매 '28대'",
-        "source": "더구루",
-        "url": "https://www.theguru.co.kr/news/article.html?no=108575"
+        "title": "颱風薔琵暴風侵襲率最新預估：北北基桃等10縣市突破八成 基隆、宜蘭99%",
+        "source": "Yahoo新聞",
+        "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E4%BE%B5%E8%A5%B2%E7%8E%87%E6%9C%80%E6%96%B0%E9%A0%90%E4%BC%B0%EF%BC%9A%E5%8C%97%E5%8C%97%E5%9F%BA%E6%A1%83%E7%AD%8910%E7%B8%A3%E5%B8%82%E7%AA%81%E7%A0%B4%E5%85%AB%E6%88%90-%E5%9F%BA%E9%9A%86%E3%80%81%E5%AE%9C%E8%98%AD99-140043411.html"
+      }
+    },
+    {
+      "keyword": "klasemen real madrid vs rb leipzig",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "nvda",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up",
+        "source": "Bloomberg.com",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-10-21/nvidia-is-ai-s-central-bank-now-jensen-huang-must-step-up"
+      }
+    },
+    {
+      "keyword": "xrpn",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "XRP Treasury Wins Key SEC Approval to Raise New Capital: Main Crypto News This Morning",
+        "source": "U.Today",
+        "url": "https://u.today/xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning"
+      }
+    },
+    {
+      "keyword": "spch",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "SSPC Leverage Shares 2X Short SPCX Daily Draws Active Traders After Sharp Swing",
+        "source": "StocksToTrade",
+        "url": "https://stockstotrade.com/news/leverage-shares-2x-short-spcx-daily-sspc-news-2026_10_21/"
       }
     }
   ]
