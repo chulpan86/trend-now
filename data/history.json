@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-21T00:27:53.050290+09:00",
-    "label": "00:27",
-    "items": [
-      {
-        "keyword": "погода завтра",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Приятная осень: какая погода ждет казанцев до конца октября",
-          "source": "Inkazan.ru",
-          "url": "https://inkazan.ru/news/2026-10-20/priyatnaya-osen-kakaya-pogoda-zhdet-kazantsev-do-kontsa-oktyabrya-5711823"
-        }
-      },
-      {
-        "keyword": "전지현",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "가장 클래식하고 현대적인, 전지현",
-          "source": "Vogue korea",
-          "url": "https://www.vogue.co.kr/2026/10/20/%EA%B0%80%EC%9E%A5-%ED%81%B4%EB%9E%98%EC%8B%9D%ED%95%98%EA%B3%A0-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%A0%84%EC%A7%80%ED%98%84/"
-        }
-      },
-      {
-        "keyword": "아나운서",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "KBS 아나운서 그만뒀다가 빚 1억…새벽 배송까지 뛰었다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610203818H"
-        }
-      },
-      {
-        "keyword": "선박",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"美-이란, 이번 주 내 합의 돌파구 발표 예상\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440020"
-        }
-      },
-      {
-        "keyword": "임시완",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "임시완·설인아 주연 '나의 유죄인간' 5.6％ 출발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020035800005"
-        }
-      },
-      {
-        "keyword": "류현진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "류현진 최초! 아내 배지현과 대전서 나눔 플리마켓 연다, 수익금 전액 기부 결단 \"많은 분들 방문해주시길\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/20/GBSDGYJZGM4WKZTEGA2DEZRZMM/"
-        }
-      },
-      {
-        "keyword": "ai 버블",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money",
-          "source": "NPR",
-          "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses"
-        }
-      },
-      {
-        "keyword": "김천상무프로축구단",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "우승도, 꼴찌도 확정될까…24일 K리그1 운명의 33라운드",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020076800007"
-        }
-      },
-      {
-        "keyword": "남현종",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "남현종 KBS 아나운서, 11월 결혼한다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833613"
-        }
-      },
-      {
-        "keyword": "한준수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[사진]한준수, '준PO 3차전 두 자릿수 득점 완성시키는 솔로포' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/20/G42WCZTFHFSGEZTBGYYGEZDGGU/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-21T04:44:01.959358+09:00",
     "label": "04:44",
     "items": [
@@ -938,6 +832,108 @@
           "source": "StocksToTrade",
           "url": "https://stockstotrade.com/news/leverage-shares-2x-short-spcx-daily-sspc-news-2026_10_21/"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-22T14:35:44.574626+09:00",
+    "label": "14:35",
+    "items": [
+      {
+        "keyword": "장기 기증",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“19살 아들 가슴에 귀 대고 듣던 심장소리, 누군가의 몸에서 뛴다면…”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1283606.html"
+        }
+      },
+      {
+        "keyword": "음주 운전",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"자녀 학교 데려다주던 길\"‥등굣길 스쿨존 음주 단속에 2건 적발",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859874_36918.html"
+        }
+      },
+      {
+        "keyword": "김혜성",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"다저스 선택 후회한 적 없다\" 했지만, 경쟁자 또 생기나...김혜성 거론도 안한 日 매체, \"센터 내야수 보강해야\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/22/GI4DQYTGGEZTGMJWGFQTAYTCGI/"
+        }
+      },
+      {
+        "keyword": "북항친수공원",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "수로 밖 나간 상어 '부캉이' 다시 돌아왔다…외해 복귀 못 해",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261022023800051"
+        }
+      },
+      {
+        "keyword": "nba",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Timberwolves' Backcourt Duo Edwards, Ball Lead 131-106 Win Over Heat",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/22/BLEWEQ2R4NHKRHQZZNILIBYRDY/"
+        }
+      },
+      {
+        "keyword": "장시환",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "찬란했던 현대 왕조, 마지막 선수 떠난다…LG 장시환 현역 은퇴",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692433"
+        }
+      },
+      {
+        "keyword": "정지선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘흑백요리사’ 정지선, 돌연 유튜브 중단…“언제 돌아올지 약속 못 해”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261021162801439"
+        }
+      },
+      {
+        "keyword": "소송",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "영풍, 고려아연 이사진 상대 주주대표소송 1심 패소...\"항소할 것\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221129330535_005.html"
+        }
+      },
+      {
+        "keyword": "분당신도시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“천당 위 분당? 7억은 번다” 지금 사도 돈 되는 ‘로또 재건축’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25471562"
+        }
+      },
+      {
+        "keyword": "짱구",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
       }
     ]
   }
