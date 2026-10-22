@@ -1,102 +1,102 @@
 {
-  "timestamp": "2026-10-22T14:35:44.574626+09:00",
-  "label": "14:35",
+  "timestamp": "2026-10-22T19:50:31.591922+09:00",
+  "label": "19:50",
   "items": [
     {
-      "keyword": "장기 기증",
+      "keyword": "안성훈",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261021/134881885/1"
+      }
+    },
+    {
+      "keyword": "삼전닉스",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "“19살 아들 가슴에 귀 대고 듣던 심장소리, 누군가의 몸에서 뛴다면…”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1283606.html"
+        "title": "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610221022001"
       }
     },
     {
-      "keyword": "음주 운전",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"자녀 학교 데려다주던 길\"‥등굣길 스쿨존 음주 단속에 2건 적발",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6859874_36918.html"
-      }
-    },
-    {
-      "keyword": "김혜성",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"다저스 선택 후회한 적 없다\" 했지만, 경쟁자 또 생기나...김혜성 거론도 안한 日 매체, \"센터 내야수 보강해야\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-baseball/2026/10/22/GI4DQYTGGEZTGMJWGFQTAYTCGI/"
-      }
-    },
-    {
-      "keyword": "북항친수공원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "수로 밖 나간 상어 '부캉이' 다시 돌아왔다…외해 복귀 못 해",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261022023800051"
-      }
-    },
-    {
-      "keyword": "nba",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Timberwolves' Backcourt Duo Edwards, Ball Lead 131-106 Win Over Heat",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/10/22/BLEWEQ2R4NHKRHQZZNILIBYRDY/"
-      }
-    },
-    {
-      "keyword": "장시환",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "찬란했던 현대 왕조, 마지막 선수 떠난다…LG 장시환 현역 은퇴",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692433"
-      }
-    },
-    {
-      "keyword": "정지선",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘흑백요리사’ 정지선, 돌연 유튜브 중단…“언제 돌아올지 약속 못 해”",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20261021162801439"
-      }
-    },
-    {
-      "keyword": "소송",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "영풍, 고려아연 이사진 상대 주주대표소송 1심 패소...\"항소할 것\"",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610221129330535_005.html"
-      }
-    },
-    {
-      "keyword": "분당신도시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“천당 위 분당? 7억은 번다” 지금 사도 돈 되는 ‘로또 재건축’",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/article/25471562"
-      }
-    },
-    {
-      "keyword": "짱구",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "울산 현대모비스 대 창원 lg",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": null
+    },
+    {
+      "keyword": "kt wiz",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Veteran pitcher Choi Dong-hwan released by KT after failed comeback attempt - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/10/22/YPQPZXXFOBDKFASR5TMH5F7JEQ/"
+      }
+    },
+    {
+      "keyword": "hd현대",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "HD현대중공업, 세계 최대 암모니아 추진선 건조…11월 인도",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20261022/134892162/1"
+      }
+    },
+    {
+      "keyword": "대형주",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"내년은 삼전닉스보다 소부장…'대형주 7·소부장 3' 담아라\"",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610228673i"
+      }
+    },
+    {
+      "keyword": "저작권",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "함께하는음악저작권협회, '매장 음악 이용내역 확인 서비스' 정식 개시",
+        "source": "비즈니스포스트",
+        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450016"
+      }
+    },
+    {
+      "keyword": "빈곤",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "LF 킨, '옥스팜 트레일워커' 동참…임직원 320㎞ 걷고 기부",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261022_0003836008"
+      }
+    },
+    {
+      "keyword": "철도",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김태호 부산교통공사 사장 취임…파업 대응·교섭 타결에 집중",
+        "source": "전기신문",
+        "url": "http://www.electimes.com/news/articleView.html?idxno=373762"
+      }
+    },
+    {
+      "keyword": "김한솔",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "북한 매체 홈페이지 '먹통'...'김정은 사망설'과 관계 있나? [앵커리포트]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202610220831313775"
+      }
     }
   ]
 }
