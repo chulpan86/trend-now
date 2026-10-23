@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-23T07:51:34.646955+09:00",
-  "label": "07:51",
+  "timestamp": "2026-10-23T10:05:20.343013+09:00",
+  "label": "10:05",
   "items": [
     {
-      "keyword": "weather",
+      "keyword": "포수",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "‘준PO 탈락’ LG, 칼 빼들었다, 11명 방출...유니콘스 마지막 유산, 0경기 등판→은퇴하다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/10/22/G43WCZBSME2GKNTDHE4TEM3FG4/"
+      }
+    },
+    {
+      "keyword": "다음",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "스테이블코인 다음은 토큰화이다[MT시평/정구태] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/opinion/2026/10/23/2026102113195832864"
+      }
+    },
+    {
+      "keyword": "필라데피아 대 클리블랜드",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Denver weather: Warm midweek ahead of weekend showers",
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/denver-weather-warm-midweek-ahead-230820085.html"
+        "title": "Cleveland Cavaliers vs. Philadelphia 76ers Live NBA Updates, Scores and Highlights",
+        "source": "Bleacher Report",
+        "url": "https://bleacherreport.com/liveblogs/25519170-cleveland-cavaliers-vs-philadelphia-76ers-live-nba-updates-scores-and-highlights"
       }
     },
     {
-      "keyword": "погода",
+      "keyword": "우리은행",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "«Последний день этого великолепного периода». Когда погода в Петербурге начнет портиться",
-        "source": "ФОНТАНКА.ру",
-        "url": "https://www.fontanka.ru/2026/10/22/76717836/"
+        "title": "우리은행, 모바일 신분증 발급 고객에 최대 10만원 쏜다",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20261023000266"
       }
     },
     {
-      "keyword": "로스앤젤레스 다저스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "MLB 다저스 오타니, 수술 안 하고 2027년 투타 겸업 준비",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261022138800007"
-      }
-    },
-    {
-      "keyword": "สภาพอากาศ",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "วิกฤต! น้ำในเขื่อนพุ่ง 83% จ่อล้นตลิ่ง กทม. - ภาคใต้ ระวังฝนตกหนัก",
-        "source": "bangkokbiznews",
-        "url": "https://www.bangkokbiznews.com/news/news-update/1257559"
-      }
-    },
-    {
-      "keyword": "김가영",
+      "keyword": "페이커 우표",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘퍼펙트큐’ 김가영은 한지은 꺾고 ‘원조퀸’ 임정숙은 정수빈에 0:2→3:2 대역전승 8강행[NH농협카드LPBA]",
-        "source": "mkbn.mk.co.kr",
-        "url": "https://mkbn.mk.co.kr/news/sports/12183564"
+        "title": "새벽부터 기다렸다…'페이커' 기념우표 사러 모인 시민들",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/IPT20261023000002365?section=gallery/index"
       }
     },
     {
-      "keyword": "skhy",
+      "keyword": "록히드 마틴",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "록히드마틴, 美와 F-35 전투기 850대 공급 합의…최소 103조원 규모",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02988086645615872"
+      }
+    },
+    {
+      "keyword": "디티에스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Apple vs. SK hynix: Which Tech Stock Is a Better Buy in 2026?",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-sk-hynix-tech-165302345.html"
+        "title": "[특징주] 디티에스, 코스닥 상장 첫날 장초반 '따블'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261023040100008"
       }
     },
     {
-      "keyword": "나스닥 100",
+      "keyword": "독도의 날",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "나스닥100 2% 반등…美 국채값은 하락｜Global Money Club",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/gmc/article/25471113"
+        "title": "울릉도에 '독도교육원' 짓는다…현장 체험형 독도교육 거점 조성",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6595522"
       }
     },
     {
-      "keyword": "vix",
+      "keyword": "파리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Wall Street’s Fear Gauge Flashes Red as Stocks Tumble, Oil Surges, and Tech Reels",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-101626/card/wall-street-s-fear-gauge-flashes-red-as-stocks-tumble-oil-surges-and-tech-reels-fixHy5gPLAzio74MriHe"
+        "title": "[동서남북] 프랑스 청년시위가 한국에 던진 ‘폭탄’",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/opinion/dongseonambuk/2026/10/22/MTIE3JTIINFABI5LX5ZHPXT7CE/"
       }
     },
     {
-      "keyword": "김도영",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"김도영, 힘차게 날려라~\"…CGV서 가을야구 응원해보니",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20261022145033"
-      }
-    },
-    {
-      "keyword": "중앙그룹",
+      "keyword": "줌",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[단독] ‘골프 중계 강자’ JTBC골프도 매물로… 중앙그룹 쪼개 팔기 가속 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/stock/market_trend/2026/10/22/J5POP66CTZA6DM4UCYN7ES55MY/"
+        "title": "줌 \"회의 넘어 업무 실행까지\"…아태 기업용 AI 강화",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20261022130731"
       }
     }
   ]
