@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-23T15:43:27.095571+09:00",
-  "label": "15:43",
+  "timestamp": "2026-10-23T21:16:23.675883+09:00",
+  "label": "21:16",
   "items": [
     {
-      "keyword": "김광삼",
+      "keyword": "홍명보",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "김민재 5위! 그리고 홍명보 6위…한국 역대 최고 선수 TOP6 눈에 띄네→KIM 새로 진입",
+        "source": "엑스포츠뉴스",
+        "url": "https://www.xportsnews.com/article/2210691"
+      }
+    },
+    {
+      "keyword": "사고",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "프로야구 한화, 김광삼 투수·진종길 수비 코치 영입",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693628"
+        "title": "가을 나들이철 교통사고 하루 평균 8.1% 증가…'졸리면 쉬세요'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261023066600062"
       }
     },
     {
-      "keyword": "한고은",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "전지현",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "“내 재산 모두 남편에게” 한고은♥신영수, 유언장 쓰며 전한 눈물의 진심",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202610231146003"
+        "title": "전지현, 세월 거스르는 미모",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20261023000709"
       }
     },
     {
-      "keyword": "드론 항공모함",
+      "keyword": "수원 kt 대 원주 db",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[포토] 이규섭 감독 '빈곳을 찔러야지' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/10/23/2026102319273226286"
+      }
+    },
+    {
+      "keyword": "데일리nk",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"잘못 알고 계신 사항 있다\"... 물러서지 않은 해병대사령관",
-        "source": "OhmyNews",
-        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276917"
+        "title": "北, 지뢰 폭발 사건 명분으로 소년근위대 훈련·사상교육 강화",
+        "source": "데일리NK",
+        "url": "https://www.dailynk.com/20261023-5/"
       }
     },
     {
-      "keyword": "인공위성",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[단독] 100억 투입 인공위성 사업, 실패하고도 발표 안 해",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/science/2026/10/23/SEGBPDOD2RAJ3LR4KPKXKYGOHM/"
-      }
-    },
-    {
-      "keyword": "기호일보",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[긴급점검] 인천 영종 시내버스 운행 ‘개악’",
-        "source": "기호일보",
-        "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038424"
-      }
-    },
-    {
-      "keyword": "인플루언서",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"35층 추락, 생존\"…오른쪽 다리 잃은 27세 인플루언서 17개월 만에 컴백",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/world/general-world/6328661"
-      }
-    },
-    {
-      "keyword": "김영희",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "경기도의회 김영희 부위원장, “유보통합. 소극적 행정에서 벗어나 현장 문제 해결에 적극 나서야”",
-        "source": "일간투데이",
-        "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=798841"
-      }
-    },
-    {
-      "keyword": "김태욱",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/economy_general/2026/10/23/DEQUPOIAENF3HOFQHT7REY4WAI/"
-      }
-    },
-    {
-      "keyword": "구축함",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "北, 5000톤급 구축함 진수 시한 넘겼다…1만톤급 순양함 건조 정황",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/nk/military/6326908"
-      }
-    },
-    {
-      "keyword": "콜옵4",
+      "keyword": "카를로스 카라스코",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "與, 장동혁 명예훼손 혐의 고발 …\"北공작금, 금도 넘은 거짓주장\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261022176500001"
+        "title": "KIA는 김도영 잃고 8등했다 → 만신창이 LG의 4등은 기적 아닌가. 디펜딩챔피언의 착시현상",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/10/23/MUZTAOLEMEZTCMJTGIZDSZJRHA/"
+      }
+    },
+    {
+      "keyword": "청년문화예술패스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "배종옥",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "’30년차' 싱글맘 배종옥, 딸 결혼 뒤늦게 알려졌다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/celebrity/2026/10/22/GJTGMMTEMMZWIOLFGUZDQYJVGI/"
+      }
+    },
+    {
+      "keyword": "고양시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "부전1동 찾아가는 보건복지 상담소 ‘우리동네 수다방, 건강톡! 복지톡!’ 운영",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261022.99099006624"
+      }
+    },
+    {
+      "keyword": "나의 유죄인간",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "말투 독특 임시완 “사람 죽여봤어요?”…‘나의 유죄인간’ 미스터리",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261023/134894497/1"
       }
     }
   ]
