@@ -1,31 +1,61 @@
 {
-  "timestamp": "2026-10-24T02:35:41.314808+09:00",
-  "label": "02:35",
+  "timestamp": "2026-10-24T05:47:30.591925+09:00",
+  "label": "05:47",
   "items": [
     {
-      "keyword": "함소원",
+      "keyword": "페이커",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "함소원, 5년 만에 ♥전남편 진화와 재혼? “서로 진지하게 바라보는 중”",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202610230039003"
+        "title": "'페이커' 기념우표 구매 기다리는 시민들",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20261023012900013"
       }
     },
     {
-      "keyword": "롤드컵",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "입스위치 대 노팅엄 포레스트",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[롤드컵] '버서커' 김민철, \"한화생명 상대 복수 원한다\"",
-        "source": "데일리e스포츠",
-        "url": "https://www.dailyesports.com/view.php?ud=202610230507146296b91e133c1f_27"
+        "title": "Ipswich vs. Nottm Forest (Oct 23, 2026) Team Stats",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879253/league/eng.1"
       }
     },
     {
-      "keyword": "월즈",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "슈투트가르트 대 묀헨글라트바흐",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "German Bundesliga LIVE: Stuttgart v Borussia M'gladbach - watch, text coverage, scores, stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/ck1wv842335et"
+      }
+    },
+    {
+      "keyword": "tes",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"Business as usual\": The mindset of Hanwha Life Esports' 'Gumayusi' Lee Min-hyeong",
+        "source": "Inven Global",
+        "url": "https://www.invenglobal.com/articles/27641/business-as-usual-the-mindset-of-hanwha-life-esports-gumayusi-lee-min-hyeong"
+      }
+    },
+    {
+      "keyword": "로보택시",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "2028년 광주서 로보택시 상용화…자율주행 서비스 사업자 도입",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261023096800003"
+      }
+    },
+    {
+      "keyword": "2026 월즈",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
         "title": "카카오프렌즈 X 라이엇 게임즈, 월즈 시즌을 함께 즐기는 특별한 콜라보 진행",
         "source": "카카오",
@@ -33,67 +63,33 @@
       }
     },
     {
-      "keyword": "lck",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Sources: Cloud9 parts ways with APA and Zven",
-        "source": "Sheep Esports",
-        "url": "https://www.sheepesports.com/en/articles/sources-apa-and-zven-set-to-depart-cloud9/en"
-      }
-    },
-    {
-      "keyword": "도호쿠 라쿠텐 골든 이글스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "AG서 한국 야구 울린 日 사회인투수, 프로 진출…라쿠텐 지명",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20261023/134897112/1"
-      }
-    },
-    {
-      "keyword": "주우재",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "장원영, 신조어 '장원영이다' 알고 있어..\"지인이 알려줘\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MEZTQNRZGEYWMZJYGUZTQMJRGI/"
-      }
-    },
-    {
-      "keyword": "젠지",
+      "keyword": "승리",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "LCK 4개팀, 24일부터 롤드컵 스위스 스테이지 출격…젠지·한화생명은 중국과 격돌",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_general/2026/10/22/G4ZWCMRXMVTDMYZSMJSDON3EGA/"
+        "title": "'소주병 위협 피소' 빅뱅 출신 승리 \"허위 사실로 합의 못 해\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261023_0003839266"
       }
     },
     {
-      "keyword": "렌트 푸어",
+      "keyword": "al",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "전세살이 설움 터졌다...\"한방에 2억 올려달래요\" \"월세도 낸다\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/estate/2026/10/23/2026102016445065255"
+        "title": "Tuberville boots reporter from Mobile campaign event",
+        "source": "Lagniappe Daily",
+        "url": "https://www.lagniappemobile.com/news/mobileal/tuberville-boots-reporter-from-mobile-campaign-event/article_74a2f3f9-2ad7-4db5-b846-7546cd9d1b97.html"
       }
     },
     {
-      "keyword": "이선민",
+      "keyword": "월즈 2026",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "이선민, ‘모태 마름’ 코쿤 벌크업 나섰다…‘밥도둑 식단’ 도전",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134896492/1"
-      }
+      "news": null
     },
     {
-      "keyword": "교통량",
+      "keyword": "t1",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": null
