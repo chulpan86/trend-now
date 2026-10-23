@@ -1,98 +1,106 @@
 {
-  "timestamp": "2026-10-24T05:47:30.591925+09:00",
-  "label": "05:47",
+  "timestamp": "2026-10-24T08:39:36.429845+09:00",
+  "label": "08:39",
   "items": [
     {
-      "keyword": "페이커",
+      "keyword": "스마트 폰",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "'페이커' 기념우표 구매 기다리는 시민들",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20261023012900013"
+        "title": "1분 만에 품절된 아이폰 듀오, 지금 주문해도 내년에 받는다고?",
+        "source": "네이버페이 머니스토리",
+        "url": "https://story.pay.naver.com/content/3775_3_C1"
       }
     },
     {
-      "keyword": "입스위치 대 노팅엄 포레스트",
+      "keyword": "당구",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "조재호도 64강 문턱서 고배…PBA 5차 투어, 강호들 잇단 탈락에 이변 확산",
+        "source": "제민일보",
+        "url": "https://www.jemin.com/news/articleView.html?idxno=845158"
+      }
+    },
+    {
+      "keyword": "태풍 경로",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Ipswich vs. Nottm Forest (Oct 23, 2026) Team Stats",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879253/league/eng.1"
+        "title": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974197&pWise=sub&pWiseSub=R1"
       }
     },
     {
-      "keyword": "슈투트가르트 대 묀헨글라트바흐",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "신애라",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "German Bundesliga LIVE: Stuttgart v Borussia M'gladbach - watch, text coverage, scores, stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/ck1wv842335et"
+        "title": "\"새 식구 생겨\"' 신애라♥차인표, 며느리 언급…\"가족 모습 달라져\" ('애라네')",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20261023091808265"
       }
     },
     {
-      "keyword": "tes",
+      "keyword": "선수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"Business as usual\": The mindset of Hanwha Life Esports' 'Gumayusi' Lee Min-hyeong",
-        "source": "Inven Global",
-        "url": "https://www.invenglobal.com/articles/27641/business-as-usual-the-mindset-of-hanwha-life-esports-gumayusi-lee-min-hyeong"
+        "title": "“돌연 생리 터졌는데도 완주”…쉬쉬하던 女선수들 달라진 이유",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25471632"
       }
     },
     {
-      "keyword": "로보택시",
+      "keyword": "강예원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "2028년 광주서 로보택시 상용화…자율주행 서비스 사업자 도입",
+        "title": "강예원, 부친 빚 10억에 눈물…\"집 내놓고 엄마 집으로\"",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026102319377"
+      }
+    },
+    {
+      "keyword": "코어장전",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[롤드컵] '코어장전' 조용인, \"스위스 스테이지 벽 부수고 싶다\"",
+        "source": "데일리e스포츠",
+        "url": "https://www.dailyesports.com/view.php?ud=20261023014102731b91e133c1f_27"
+      }
+    },
+    {
+      "keyword": "대전날씨",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "대전·세종·충남 곳에 따라 비…낮 최고 20도",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261023096800003"
+        "url": "https://www.yna.co.kr/view/AKR20261024007000063"
       }
     },
     {
-      "keyword": "2026 월즈",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "카카오프렌즈 X 라이엇 게임즈, 월즈 시즌을 함께 즐기는 특별한 콜라보 진행",
-        "source": "카카오",
-        "url": "https://www.kakaocorp.com/page/detail/12176"
-      }
-    },
-    {
-      "keyword": "승리",
+      "keyword": "다우 존스 산업평균지수",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'소주병 위협 피소' 빅뱅 출신 승리 \"허위 사실로 합의 못 해\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261023_0003839266"
+        "title": "나스닥 급락했지만…위기의 코스피, 솔리다임이 살렸다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610231404i"
       }
     },
     {
-      "keyword": "al",
+      "keyword": "국제선",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Tuberville boots reporter from Mobile campaign event",
-        "source": "Lagniappe Daily",
-        "url": "https://www.lagniappemobile.com/news/mobileal/tuberville-boots-reporter-from-mobile-campaign-event/article_74a2f3f9-2ad7-4db5-b846-7546cd9d1b97.html"
+        "title": "[단독] 10년 묵은 국제선 유류할증료 산정 기준 내년 3월부터 바뀐다",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8693778"
       }
-    },
-    {
-      "keyword": "월즈 2026",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "t1",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }
