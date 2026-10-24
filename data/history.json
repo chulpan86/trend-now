@@ -936,5 +936,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-24T11:30:31.369173+09:00",
+    "label": "11:30",
+    "items": [
+      {
+        "keyword": "서울 날씨",
+        "traffic_raw": "100000+",
+        "traffic": 100000,
+        "news": {
+          "title": "[뉴스9 날씨] 주말, 남부·제주 비바람…제주 최대 250mm↑",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694004"
+        }
+      },
+      {
+        "keyword": "김수미",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“인생 한 번뿐이야” 故 김수미가 세상에 남긴 마지막 독설",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261023508517"
+        }
+      },
+      {
+        "keyword": "매일경제신문",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[매경춘추] 네 번째 엑스",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/contributors/12184317"
+        }
+      },
+      {
+        "keyword": "미사일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "사우디, 미사일 생산시설 확장…중국 기술 가능성",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023182900009"
+        }
+      },
+      {
+        "keyword": "연합인포맥스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "금감원, '해외주식 현금성 마케팅' 원천 금지 추진",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440870"
+        }
+      },
+      {
+        "keyword": "운전",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "운전대 놨더니 슥~ 얌체운전…테슬라X FSD 타보니[시승기] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/24/2026102313074374810"
+        }
+      },
+      {
+        "keyword": "삼성 갤럭시 s26",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼성 '갤럭시 M47·A26·A17' One UI 9 업데이트 배포…안드로이드 17 적용",
+          "source": "케이벤치",
+          "url": "https://kbench.com/?q=node/282738"
+        }
+      },
+      {
+        "keyword": "lcs",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "L.C.S. Hosts 3rd Annual Anti-Bullying Color Run",
+          "source": "WAGM",
+          "url": "https://www.wagmtv.com/2026/10/23/lcs-hosts-3rd-annual-anti-bullying-color-run/"
+        }
+      },
+      {
+        "keyword": "lcp",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\"",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en"
+        }
+      },
+      {
+        "keyword": "김밥축제",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력",
+          "source": "롱블랙 LongBlack",
+          "url": "https://longblack.co/note/2153"
+        }
+      }
+    ]
   }
 ]
