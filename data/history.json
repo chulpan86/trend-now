@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-23T07:51:34.646955+09:00",
-    "label": "07:51",
-    "items": [
-      {
-        "keyword": "weather",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Denver weather: Warm midweek ahead of weekend showers",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/articles/denver-weather-warm-midweek-ahead-230820085.html"
-        }
-      },
-      {
-        "keyword": "погода",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "«Последний день этого великолепного периода». Когда погода в Петербурге начнет портиться",
-          "source": "ФОНТАНКА.ру",
-          "url": "https://www.fontanka.ru/2026/10/22/76717836/"
-        }
-      },
-      {
-        "keyword": "로스앤젤레스 다저스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "MLB 다저스 오타니, 수술 안 하고 2027년 투타 겸업 준비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261022138800007"
-        }
-      },
-      {
-        "keyword": "สภาพอากาศ",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "วิกฤต! น้ำในเขื่อนพุ่ง 83% จ่อล้นตลิ่ง กทม. - ภาคใต้ ระวังฝนตกหนัก",
-          "source": "bangkokbiznews",
-          "url": "https://www.bangkokbiznews.com/news/news-update/1257559"
-        }
-      },
-      {
-        "keyword": "김가영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘퍼펙트큐’ 김가영은 한지은 꺾고 ‘원조퀸’ 임정숙은 정수빈에 0:2→3:2 대역전승 8강행[NH농협카드LPBA]",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12183564"
-        }
-      },
-      {
-        "keyword": "skhy",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Apple vs. SK hynix: Which Tech Stock Is a Better Buy in 2026?",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-sk-hynix-tech-165302345.html"
-        }
-      },
-      {
-        "keyword": "나스닥 100",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "나스닥100 2% 반등…美 국채값은 하락｜Global Money Club",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/gmc/article/25471113"
-        }
-      },
-      {
-        "keyword": "vix",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Wall Street’s Fear Gauge Flashes Red as Stocks Tumble, Oil Surges, and Tech Reels",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-101626/card/wall-street-s-fear-gauge-flashes-red-as-stocks-tumble-oil-surges-and-tech-reels-fixHy5gPLAzio74MriHe"
-        }
-      },
-      {
-        "keyword": "김도영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"김도영, 힘차게 날려라~\"…CGV서 가을야구 응원해보니",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261022145033"
-        }
-      },
-      {
-        "keyword": "중앙그룹",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독] ‘골프 중계 강자’ JTBC골프도 매물로… 중앙그룹 쪼개 팔기 가속 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/market_trend/2026/10/22/J5POP66CTZA6DM4UCYN7ES55MY/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-23T10:05:20.343013+09:00",
     "label": "10:05",
     "items": [
@@ -929,6 +823,108 @@
           "title": "우리도 2위 후보다! '세라핌 10-10 클럽 달성' 대구, 전남전 4-2 승리[K리그2 리뷰]",
           "source": "스포츠조선",
           "url": "https://www.sportschosun.com/football/2026-10-24/202610240100152180009930"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-24T21:20:08.689179+09:00",
+    "label": "21:20",
+    "items": [
+      {
+        "keyword": "애스턴 빌라 대 맨 시티",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cj62ynzwg4pet"
+        }
+      },
+      {
+        "keyword": "교통 사고",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "김종철 경찰청장 대행 \"고속도로 사고수습 중 다친 경찰관 지원 총력\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6860446_36918.html"
+        }
+      },
+      {
+        "keyword": "hd현대중공업",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "HD현대중 노사, 올해 임단협 2차 잠정 합의…기본급 12만원 인상",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261023076300057"
+        }
+      },
+      {
+        "keyword": "서식스 공작 해리",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "แอสตันวิลลา พบ แมนซิตี",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "การทำนายผลการแข่งขันระหว่างแอสตันวิลล่ากับแมนเชสเตอร์ซิตี้: การปะทะกันระหว่างสองทีมที่อยู่ในฟอร์มที่ดี",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-aston-villa-vs-manchester-city-man-so-tai-cua-hai-doi-vao-phom"
+        }
+      },
+      {
+        "keyword": "aston villa đấu với man city",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Trực tiếp bóng đá Aston Villa - Man City: \"Man xanh\" dốc toàn lực tấn công (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-aston-villa-man-city-sau-pep-emery-bat-nat-tiep-maresca-ngoai-hang-anh-c48a1805204.html"
+        }
+      },
+      {
+        "keyword": "닷컴 버블",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "나스닥 2.6% 급락한 날, 버크셔는 사상 최고가 썼다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/10/23/CK4MPWSPN5CAPHOA2FUNJUCAUI/"
+        }
+      },
+      {
+        "keyword": "파업",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "포스코노사 임금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261024019100053"
+        }
+      },
+      {
+        "keyword": "고우림",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고우림♥김연아 결혼 4주년…日 여행 사진 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839589"
+        }
+      },
+      {
+        "keyword": "상동광산",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1180548"
         }
       }
     ]
