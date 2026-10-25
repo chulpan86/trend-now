@@ -936,5 +936,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-26T02:58:08.286160+09:00",
+    "label": "02:58",
+    "items": [
+      {
+        "keyword": "sc 프라이부르크 대 바이에른",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "부상 김민재, 프라이부르크전 못 뛴다…뮌헨 \"큰 문제 아니지만\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261025030800007"
+        }
+      },
+      {
+        "keyword": "30호 태풍 참피",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "역대 가장 늦은 태풍 특보…‘참피’ 비는 약해졌지만 강풍이 마지막 고비",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694569"
+        }
+      },
+      {
+        "keyword": "김치",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"과자 끊고 안심했는데\"…사 먹는 김치에 '숨은 함정' 깜짝 [건강!톡]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026102534267"
+        }
+      },
+      {
+        "keyword": "epl",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ck62yqmle02mt"
+        }
+      },
+      {
+        "keyword": "리버풀",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "프리미어 리그 리버풀 대 브라이튼 축구 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-brighton-tai-premier-league-1788808.ldo"
+        }
+      },
+      {
+        "keyword": "분만",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "고위험 산모 치료 정부 지원에도…응급시 정작 받아줄 병원·의사는 부족",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740344"
+        }
+      },
+      {
+        "keyword": "셀타 비고 대 레알 베티스",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Celta - Betis LIVE. LALIGA EA Sports latest updates",
+          "source": "MARCA",
+          "url": "https://www.marca.com/en/soccer/laliga-ea-sports/celta-betis/2026/10/25/01_0101_20261025_176_185-live.html"
+        }
+      },
+      {
+        "keyword": "pl",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Polexit kosztowałby Polskę 90 mld euro rocznie. Nowe szacunki",
+          "source": "Rzeczpospolita",
+          "url": "https://www.rp.pl/gospodarka/art45392301-zpp-to-mit-ze-polska-jest-platnikiem-netto-ue-bilans-wynosi-58-7-mld-euro-na-plusie"
+        }
+      },
+      {
+        "keyword": "남양주시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "가을 수놓은 남양주 '주민 화합의 장'…문화·체육으로 묶인 ‘이웃의 정’",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026102517265611415"
+        }
+      },
+      {
+        "keyword": "ngoại hạng anh",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Kết quả bóng đá Liverpool - Brighton: Choáng váng 4 phút 2 bàn (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-liverpool-brighton-choang-vang-4-phut-2-ban-ngoai-hang-anh-c48a1805546.html"
+        }
+      }
+    ]
   }
 ]
