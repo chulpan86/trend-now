@@ -1038,5 +1038,111 @@
         "news": null
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-26T07:55:14.807091+09:00",
+    "label": "07:55",
+    "items": [
+      {
+        "keyword": "이다해",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261024_0003839708"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "US south-west braces for more storms after enduring days of rain and flooding",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms"
+        }
+      },
+      {
+        "keyword": "이시영",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이시영, 수영복 입고 수유…\"제일 중요한 일과\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840220"
+        }
+      },
+      {
+        "keyword": "손지창",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "손지창, 26년째 이벤트 회사 운영…\"최대 연 매출 60억\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261025_0003840218"
+        }
+      },
+      {
+        "keyword": "장례",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“지금 여야는 원수 중의 원수”…故최형우 빈소서 나온 정치권 자성",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02368166645616528&mediaCodeNo=257"
+        }
+      },
+      {
+        "keyword": "lcs",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "BB to run alternative to SWIFT for local LCs",
+          "source": "New Age BD",
+          "url": "https://www.newagebd.net/post/banking/319567/bb-to-run-alternative-to-swift-for-local-lcs"
+        }
+      },
+      {
+        "keyword": "บาร์ซา พบ เรอัลมาดริด",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[สตรมความคมชดสง (HD)] บารเซโลนา พบ เรอล มาดรด",
+          "source": "FC東京オフィシャルホームページ",
+          "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-hd-newtv-03"
+        }
+      },
+      {
+        "keyword": "lyon",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Lorenzo Musetti, vainqueur de l'ATP 250 de Lyon après une belle semaine : « L'esprit de combat a été la clef »",
+          "source": "L'Équipe",
+          "url": "https://www.lequipe.fr/Tennis/Actualites/Lorenzo-musetti-vainqueur-de-l-atp-250-de-lyon-apres-une-belle-semaine-l-esprit-de-combat-a-ete-la-clef/1738545"
+        }
+      },
+      {
+        "keyword": "barca",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Partita di calcio in diretta: Barcellona 0-0 Real Madrid: Occhio per occhio (Primo tempo)",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/it/truc-tiep-bong-da-barca-0-0-real-madrid-an-mieng-tra-mieng-h1"
+        }
+      },
+      {
+        "keyword": "퇴직",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "입사 후도 퇴직 후도 차별? 도로공사 현장지원직 ‘이중고’",
+          "source": "매일노동뉴스",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237388"
+        }
+      }
+    ]
   }
 ]

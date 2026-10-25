@@ -1,98 +1,106 @@
 {
-  "timestamp": "2026-10-26T05:23:17.833206+09:00",
-  "label": "05:23",
+  "timestamp": "2026-10-26T07:55:14.807091+09:00",
+  "label": "07:55",
   "items": [
     {
-      "keyword": "바르셀로나 대 레알 마드리드",
+      "keyword": "이다해",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "레알 '비상'···비니시우스에 이어 '쿠르투아' 엘 클라시코 결장",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732043"
+        "title": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261024_0003839708"
       }
     },
     {
-      "keyword": "앙투안 그리즈만",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "손흥민도 뛰어넘다니...\"유럽 최고 팀 갈 선수\" 그리즈만마저 푹 빠졌다, MLS에 나타난 19세 드리블 천재",
-        "source": "포포투",
-        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99794"
-      }
-    },
-    {
-      "keyword": "barcelona vs real madrid",
+      "keyword": "天气",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "¿Cómo ver el partido Barcelona vs Real Madrid en TV y streaming?",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/es-us/como-ver-el-partido-barcelona-vs-real-madrid-en-tv-y-streaming-25-10-2026"
+        "title": "US south-west braces for more storms after enduring days of rain and flooding",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms"
       }
     },
     {
-      "keyword": "thứ hạng của man utd gặp bournemouth",
+      "keyword": "이시영",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Kết quả bóng đá MU - Bournemouth: Thảm họa hàng thủ (Ngoại hạng Anh)",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-mu-bournemouth-tham-hoa-hang-thu-ngoai-hang-anh-c48a1805604.html"
+        "title": "이시영, 수영복 입고 수유…\"제일 중요한 일과\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261025_0003840220"
       }
     },
     {
-      "keyword": "롤드컵 2026",
+      "keyword": "손지창",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\"",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112898121"
+        "title": "손지창, 26년째 이벤트 회사 운영…\"최대 연 매출 60억\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261025_0003840218"
       }
     },
     {
-      "keyword": "루키",
+      "keyword": "장례",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "“지금 여야는 원수 중의 원수”…故최형우 빈소서 나온 정치권 자성",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02368166645616528&mediaCodeNo=257"
+      }
     },
     {
-      "keyword": "정년",
+      "keyword": "lcs",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "(28) 정년연장",
-        "source": "기계설비신문",
-        "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52415"
+        "title": "BB to run alternative to SWIFT for local LCs",
+        "source": "New Age BD",
+        "url": "https://www.newagebd.net/post/banking/319567/bb-to-run-alternative-to-swift-for-local-lcs"
       }
     },
     {
-      "keyword": "전국노래자랑",
+      "keyword": "บาร์ซา พบ เรอัลมาดริด",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "장한별, ‘전국노래자랑’ 첫 출연부터 엔딩 장식…‘그대는 나의 별이오’ 열창",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20261025/134903735/1"
+        "title": "[สตรมความคมชดสง (HD)] บารเซโลนา พบ เรอล มาดรด",
+        "source": "FC東京オフィシャルホームページ",
+        "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-hd-newtv-03"
       }
     },
     {
-      "keyword": "tes",
+      "keyword": "lyon",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "TES 369: \"I will get to experience if Zeus or that Emerald player gives me more pressure\"",
-        "source": "Sheep Esports",
-        "url": "https://www.sheepesports.com/en/articles/tes-369-i-will-get-to-experience-if-zeus-or-that-emerald-player-gives-me-more-pressure/en"
+        "title": "Lorenzo Musetti, vainqueur de l'ATP 250 de Lyon après une belle semaine : « L'esprit de combat a été la clef »",
+        "source": "L'Équipe",
+        "url": "https://www.lequipe.fr/Tennis/Actualites/Lorenzo-musetti-vainqueur-de-l-atp-250-de-lyon-apres-une-belle-semaine-l-esprit-de-combat-a-ete-la-clef/1738545"
       }
     },
     {
-      "keyword": "2026 월즈",
+      "keyword": "barca",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "Partita di calcio in diretta: Barcellona 0-0 Real Madrid: Occhio per occhio (Primo tempo)",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/it/truc-tiep-bong-da-barca-0-0-real-madrid-an-mieng-tra-mieng-h1"
+      }
+    },
+    {
+      "keyword": "퇴직",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "입사 후도 퇴직 후도 차별? 도로공사 현장지원직 ‘이중고’",
+        "source": "매일노동뉴스",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237388"
+      }
     }
   ]
 }
