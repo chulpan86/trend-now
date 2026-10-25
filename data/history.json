@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-10-24T08:39:36.429845+09:00",
-    "label": "08:39",
-    "items": [
-      {
-        "keyword": "스마트 폰",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "1분 만에 품절된 아이폰 듀오, 지금 주문해도 내년에 받는다고?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3775_3_C1"
-        }
-      },
-      {
-        "keyword": "당구",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "조재호도 64강 문턱서 고배…PBA 5차 투어, 강호들 잇단 탈락에 이변 확산",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845158"
-        }
-      },
-      {
-        "keyword": "태풍 경로",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974197&pWise=sub&pWiseSub=R1"
-        }
-      },
-      {
-        "keyword": "신애라",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"새 식구 생겨\"' 신애라♥차인표, 며느리 언급…\"가족 모습 달라져\" ('애라네')",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261023091808265"
-        }
-      },
-      {
-        "keyword": "선수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“돌연 생리 터졌는데도 완주”…쉬쉬하던 女선수들 달라진 이유",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25471632"
-        }
-      },
-      {
-        "keyword": "강예원",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "강예원, 부친 빚 10억에 눈물…\"집 내놓고 엄마 집으로\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026102319377"
-        }
-      },
-      {
-        "keyword": "코어장전",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[롤드컵] '코어장전' 조용인, \"스위스 스테이지 벽 부수고 싶다\"",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=20261023014102731b91e133c1f_27"
-        }
-      },
-      {
-        "keyword": "대전날씨",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대전·세종·충남 곳에 따라 비…낮 최고 20도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024007000063"
-        }
-      },
-      {
-        "keyword": "다우 존스 산업평균지수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "나스닥 급락했지만…위기의 코스피, 솔리다임이 살렸다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610231404i"
-        }
-      },
-      {
-        "keyword": "국제선",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독] 10년 묵은 국제선 유류할증료 산정 기준 내년 3월부터 바뀐다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8693778"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-24T11:30:31.369173+09:00",
-    "label": "11:30",
-    "items": [
-      {
-        "keyword": "서울 날씨",
-        "traffic_raw": "100000+",
-        "traffic": 100000,
-        "news": {
-          "title": "[뉴스9 날씨] 주말, 남부·제주 비바람…제주 최대 250mm↑",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694004"
-        }
-      },
-      {
-        "keyword": "김수미",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“인생 한 번뿐이야” 故 김수미가 세상에 남긴 마지막 독설",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261023508517"
-        }
-      },
-      {
-        "keyword": "매일경제신문",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[매경춘추] 네 번째 엑스",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/contributors/12184317"
-        }
-      },
-      {
-        "keyword": "미사일",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "사우디, 미사일 생산시설 확장…중국 기술 가능성",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023182900009"
-        }
-      },
-      {
-        "keyword": "연합인포맥스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "금감원, '해외주식 현금성 마케팅' 원천 금지 추진",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440870"
-        }
-      },
-      {
-        "keyword": "운전",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "운전대 놨더니 슥~ 얌체운전…테슬라X FSD 타보니[시승기] - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/24/2026102313074374810"
-        }
-      },
-      {
-        "keyword": "삼성 갤럭시 s26",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼성 '갤럭시 M47·A26·A17' One UI 9 업데이트 배포…안드로이드 17 적용",
-          "source": "케이벤치",
-          "url": "https://kbench.com/?q=node/282738"
-        }
-      },
-      {
-        "keyword": "lcs",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "L.C.S. Hosts 3rd Annual Anti-Bullying Color Run",
-          "source": "WAGM",
-          "url": "https://www.wagmtv.com/2026/10/23/lcs-hosts-3rd-annual-anti-bullying-color-run/"
-        }
-      },
-      {
-        "keyword": "lcp",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\"",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en"
-        }
-      },
-      {
-        "keyword": "김밥축제",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력",
-          "source": "롱블랙 LongBlack",
-          "url": "https://longblack.co/note/2153"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-24T16:44:01.990480+09:00",
     "label": "16:44",
     "items": [
@@ -1039,6 +827,112 @@
           "title": "원화 스테이블코인 도입론 뜨거운데…사업성은?",
           "source": "데일리안",
           "url": "https://www.dailian.co.kr/news/view/1705470/%EC%9B%90%ED%99%94-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8F%84%EC%9E%85%EB%A1%A0-%EB%9C%A8%EA%B1%B0%EC%9A%B4%EB%8D%B0%EC%82%AC%EC%97%85-2026"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-25T23:40:25.898150+09:00",
+    "label": "23:40",
+    "items": [
+      {
+        "keyword": "맨유 대 본머스",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "맨유 대 본머스 축구 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-man-united-vs-bournemouth-1789070.ldo"
+        }
+      },
+      {
+        "keyword": "한국경제",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "삼전닉스 빈자리 채울 종목 없다…한국 증시 발목 잡은 쏠림",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610191229i"
+        }
+      },
+      {
+        "keyword": "철도",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "용인시 곳곳에서 온정의 손길 답지",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334976"
+        }
+      },
+      {
+        "keyword": "man utd vs bournemouth",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Manchester United vs Bournemouth: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/ck62yqmle02mt"
+        }
+      },
+      {
+        "keyword": "노태 문",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[사설] 재계 인사, '시계제로' 뚫고 활로 찾기를",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261023000318"
+        }
+      },
+      {
+        "keyword": "헐 시티 대 브렌트퍼드",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Hull City vs Brentford: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cxly4950egynt"
+        }
+      },
+      {
+        "keyword": "벙커버스터",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“미 항공모함, 벙커버스터 보충”…이란 재타격 ‘카운트다운?’ [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694539"
+        }
+      },
+      {
+        "keyword": "man utd đấu với bournemouth",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Trực tiếp bóng đá MU - Bournemouth: Fernandes ngồi dự bị (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-bournemouth-ap-luc-de-nangcarrick-ngoai-hang-anh-c48a1805543.html"
+        }
+      },
+      {
+        "keyword": "감우성",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/opinion/specialist_column/2026/10/23/XSRR7XTILNHZ7PEXWPPLQ6KEQA/"
+        }
+      },
+      {
+        "keyword": "관광",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "라디오 방송으로 일본에 충남 관광 매력 알린다···특별 방송 제작",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610251216001"
         }
       }
     ]
