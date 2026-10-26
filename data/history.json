@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-10-25T09:40:35.825479+09:00",
-    "label": "09:40",
-    "items": [
-      {
-        "keyword": "배당",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "삼성전자, 내년 역대급 배당 준다는데…주당 1만2000원 받을 수 있을까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261024_0003839410"
-        }
-      },
-      {
-        "keyword": "세균",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "“손 씻다가 슈퍼박테리아 퍼진다?”…병원 세면대의 뜻밖의 위험",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/It/article/all/20261023/134897068/2"
-        }
-      },
-      {
-        "keyword": "김태형",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "김태형 감독, 롯데와 3년 동행 마침표…재계약 불발로 새 출발 불가피",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845202"
-        }
-      },
-      {
-        "keyword": "필라데피아 대 밀워키",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Sixers-Bucks by the numbers: New faces, paint points and opposite halves",
-          "source": "NBC Sports Philadelphia",
-          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-bucks-by-the-numbers-paint-points/761131/"
-        }
-      },
-      {
-        "keyword": "군수산업",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "천천히 강렬하게",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "송혜교 \"'천천히 강렬하게' 꿈 향한 치열한 이야기에 공감할 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261024052600005"
-        }
-      },
-      {
-        "keyword": "rbny vs inter miami",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Jung Sang-bin's team, St. Louis City SC, won the US Open Cup, the FA Cup of the United States.St. Lo..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12182718"
-        }
-      },
-      {
-        "keyword": "하이브리드 전기 자동차",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"전기차는 잘 나가는데\"…中BYD 첫 PHEV '씨라이언 6'는 주춤 왜?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261022_0003836822"
-        }
-      },
-      {
-        "keyword": "대전광역시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "젠지",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[롤드컵] 'LCK 최강' 젠지, 내전서 29분만에 한화생명 압도… 파죽의 2연승 질주",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112897866"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-25T14:29:54.111049+09:00",
-    "label": "14:29",
-    "items": [
-      {
-        "keyword": "kia 대 삼성",
-        "traffic_raw": "100000+",
-        "traffic": 100000,
-        "news": {
-          "title": "태풍 ‘참피’에 프로야구 플레이오프 1차전 취소…26일 재개",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694496"
-        }
-      },
-      {
-        "keyword": "사고",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "인천서 노루 잡으려다 밭일하던 할아버지 쏜 60대 남성 조사",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6860424_36918.html"
-        }
-      },
-      {
-        "keyword": "땅집고",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"목에 칼 들어와도 안 사\" 다주택자 개그맨, 3개월 뒤 '코스피' 보니",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/10/23/2026102301872.html"
-        }
-      },
-      {
-        "keyword": "저수지",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[속보]심야 저수지 낚시터서 초등학생 물에 빠져 숨져",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625965"
-        }
-      },
-      {
-        "keyword": "대나무",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“대나무 푹 끓였더니 석유가 나왔다!”…이게 말이 된다고?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610250900011"
-        }
-      },
-      {
-        "keyword": "kbo",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Tigers manager predicts low-scoring KBO postseason battle vs. Lions",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261025003400315"
-        }
-      },
-      {
-        "keyword": "즉석밥",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[산업X파일] \"밥은 직접 해야\" 통념 깬 서른살 햇반, 미국인 식탁도 바꿀까",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/market_trend/2026/10/25/OOLGODML2ZBDLCBKYPE3DCZELQ/"
-        }
-      },
-      {
-        "keyword": "자산",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "靑, 가상자산 과세 재유예 결론…청년 여론·美 카프 등 고려",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105730"
-        }
-      },
-      {
-        "keyword": "소나무재선충",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "지난해 감염목 4주→올해 74주···서울도 소나무재선충병 대응 강화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610251329001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news"
-        }
-      },
-      {
-        "keyword": "이세돌",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "이세돌, 20kg 맥주통 메고 야구장 누벼",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261024501646"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-25T19:23:01.812223+09:00",
     "label": "19:23",
     "items": [
@@ -1039,6 +835,112 @@
           "title": "제주SK, 포항 원정서 파이널B 생존 승부 돌입",
           "source": "제민일보",
           "url": "https://www.jemin.com/news/articleView.html?idxno=845354"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-27T02:53:44.843307+09:00",
+    "label": "02:53",
+    "items": [
+      {
+        "keyword": "베식타시 대 이스탄불 바샥셰히르",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl"
+        }
+      },
+      {
+        "keyword": "손아섭",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "NC 우승 이끈 이동욱, 친정 롯데 사령탑으로… 단장엔 이택근",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/26/JISKW5I2JJCMJJJFBCSUXEBHWA/"
+        }
+      },
+      {
+        "keyword": "cfo",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "FedEx appoints Jamere Jackson as chief financial officer By Reuters",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/fedex-appoints-jamere-jackson-as-chief-financial-officer-4972213"
+        }
+      },
+      {
+        "keyword": "범죄",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[이슈K] 보호막 뚫린 관계성 범죄…피해자 안전망, 어디에",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8695447"
+        }
+      },
+      {
+        "keyword": "블리치",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Bleach: Popular anime series officially ends as fans say goodbye",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c8p3g73ep520o"
+        }
+      },
+      {
+        "keyword": "마린 칠리치",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "2014년 US오픈 우승자 마린 칠리치, ATP 125 서울오픈 1회전 탈락",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335178"
+        }
+      },
+      {
+        "keyword": "apple",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Apple gives iPad mini its biggest update ever",
+          "source": "Apple",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
+        }
+      },
+      {
+        "keyword": "시효",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "응우옌 두이 응옥 씨는 행정 위반 사항을 처리하는 데 과학 기술을 적용하는 것에 대해 이야기했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ong-nguyen-duy-ngoc-noi-ve-ap-dung-khoa-hoc-ky-thuat-de-xu-ly-vi-pham-hanh-chinh"
+        }
+      },
+      {
+        "keyword": "냉장고를 부탁해",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘냉부’, 팬 초대한다면서 사진·방송 경력 내라니...난데없는 자격 논란",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/26/MYYTMYRTGIZDSNZTGRRTKOLGHE/"
+        }
+      },
+      {
+        "keyword": "학습",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "남양주시 유튜브 학습동아리 ‘N크레인’, 전국 평생학습 경연 최우수상",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719765"
         }
       }
     ]
