@@ -732,5 +732,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-28T08:20:08.776896+09:00",
+    "label": "08:20",
+    "items": [
+      {
+        "keyword": "기온",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "내일 아침 출근길 곳곳 영하권‥올가을 들어 가장 춥다",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861152_37004.html"
+        }
+      },
+      {
+        "keyword": "압수수색",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "압색 받은 소아응급 교수 7명 사직 의사…정은경 \"경찰과 협의\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027166051530"
+        }
+      },
+      {
+        "keyword": "한화 이글스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'슈퍼스타 다 됐네' 왕옌청, 대만서 대규모 기자회견…그런데 또 눈물 펑펑 터뜨렸다, 무슨 사연이길래? - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/28/202610271801771021O"
+        }
+      },
+      {
+        "keyword": "수험",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "용인특례시, 수능 마친 수험생 위한 특별 프로그램 운영",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335097"
+        }
+      },
+      {
+        "keyword": "묀헨글라트바흐 대 카를스루에",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "DFB-Pokal: Ten-man Gladbach advance after efficient performance against Karlsruhe",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/dfb-pokal-ten-man-gladbach-214100742.html"
+        }
+      },
+      {
+        "keyword": "창신메모리테크놀로지",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12187432"
+        }
+      },
+      {
+        "keyword": "정준하",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정형돈, 돈가스집 '바지사장' 의심받자…\"지분 25%\" 해명 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102720555639903"
+        }
+      },
+      {
+        "keyword": "박성현",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LPGA 7승 박성현, 11월 KLPGA 투어 시드전 예선 도전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261027170200007"
+        }
+      },
+      {
+        "keyword": "토리노 대 코모",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "세리에 A 토리노 대 코모 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-torino-vs-como-tai-serie-a-1790125.ldo"
+        }
+      },
+      {
+        "keyword": "fm",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "S. Korea withdraws 8 diplomatic personnel from Ukraine: FM Cho",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20261027010000315"
+        }
+      }
+    ]
   }
 ]
