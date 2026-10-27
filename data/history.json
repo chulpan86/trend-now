@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-25T19:23:01.812223+09:00",
-    "label": "19:23",
-    "items": [
-      {
-        "keyword": "투자",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "솔리다임 IPO 중단 파장...주주 보호 VS 투자 딜레마 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/25/2026102514593855645"
-        }
-      },
-      {
-        "keyword": "채무",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"대신 갚아\" 조카 돈 안갚는 채무자 모친 위협…40대 벌금형",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261023070500064"
-        }
-      },
-      {
-        "keyword": "록히드 마틴 f-35 라이트닝 ii",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "록히드마틴, 美 국방부와 F-35 850대 10년 공급 기본합의",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105458"
-        }
-      },
-      {
-        "keyword": "택시",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "12시간 운전해도 월 200만원…대구 택시업계 짓누르는 ‘빈차’ 공포",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261024022594665"
-        }
-      },
-      {
-        "keyword": "지진",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'경주 강진' 10년...지진 원리부터 대처법까지 '한눈에'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202610250611190022"
-        }
-      },
-      {
-        "keyword": "전현무",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"유두에 점퍼 걸겠다\" 조롱에…전현무, 수술까지 고민 '고백' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102511232730654"
-        }
-      },
-      {
-        "keyword": "lig 디펜스&에어로스페이스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "방사청, LIG D&A 방산업체 지정 취소 요청…무인기 대응 사업 수의계약도 막는다",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12324714"
-        }
-      },
-      {
-        "keyword": "셰프",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "익숙한 재료도 낯설게… 셰프들이 그린 식탁 위 철학 [김동기 셰프의 한그릇]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261019525821"
-        }
-      },
-      {
-        "keyword": "훈련기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "공중서 ‘쾅’…군용기 2대 충돌, 조종사 4명 전원 사망[아하필리핀]",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11625928"
-        }
-      },
-      {
-        "keyword": "스테이블코인",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "원화 스테이블코인 도입론 뜨거운데…사업성은?",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1705470/%EC%9B%90%ED%99%94-%EC%8A%A4%ED%85%8C%EC%9D%B4%EB%B8%94%EC%BD%94%EC%9D%B8-%EB%8F%84%EC%9E%85%EB%A1%A0-%EB%9C%A8%EA%B1%B0%EC%9A%B4%EB%8D%B0%EC%82%AC%EC%97%85-2026"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-25T23:40:25.898150+09:00",
     "label": "23:40",
     "items": [
@@ -1047,6 +941,108 @@
           "title": "Kukdo Chemical to Buy LG Chem's Daesan BPA Business for 78.4 Billion Won",
           "source": "THE ELEC, Korea Electronics Industry Media",
           "url": "https://www.thelec.net/news/articleView.html?idxno=14931"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-27T10:42:45.449841+09:00",
+    "label": "10:42",
+    "items": [
+      {
+        "keyword": "배드민턴",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "배드민턴 세계 최강 안세영 50연승 대기록 시즌 10번째 우승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694595"
+        }
+      },
+      {
+        "keyword": "브루어스 대 레이스",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "‘역전의 명수’ 밀워키, WS 2연승",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261025509438"
+        }
+      },
+      {
+        "keyword": "삼성역",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "군의관",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“36개월 군의관보단 18개월 현역병”…의대생 현역병 입영 4년새 13배로 증가",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20105888"
+        }
+      },
+      {
+        "keyword": "이지훈",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'이지훈♥' 아야네, 둘째 만삭 화보 공개…딸 루희까지 '비주얼가족'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GZSDGMJVGBSDSNDEG4ZTSN3EHA/"
+        }
+      },
+      {
+        "keyword": "연비",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "年 연료비 60만원 이상 절감… KGM 뉴 토레스·액티언 HEV - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/car/2026/10/23/BZFXJTCUXJHIFNG7ZUWAZ2WQVM/"
+        }
+      },
+      {
+        "keyword": "월즈 2026",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610252053045"
+        }
+      },
+      {
+        "keyword": "더존비즈온",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "토종 1위 ERP 더존비즈온 해킹…\"고객사 민감정보 유출 가능성\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/it-science/security-hacking/6331870"
+        }
+      },
+      {
+        "keyword": "특수부대",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "레쑤언 티엔, 마란도, 꾸옥안은 모두 \"삭숲 특수부대\"에 출연했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/le-xuan-tien-ma-ran-do-va-quoc-anh-cung-gop-mat-trong-dac-cong-rung-sac"
+        }
+      },
+      {
+        "keyword": "경남도민일보",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "굴 제철 맞았지만 소비 위축에 애타는 양식업계",
+          "source": "경남도민일보",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2017792"
         }
       }
     ]
