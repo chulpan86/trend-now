@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-27T16:01:20.309506+09:00",
-  "label": "16:01",
+  "timestamp": "2026-10-27T22:44:50.899556+09:00",
+  "label": "22:44",
   "items": [
     {
-      "keyword": "우천취소",
+      "keyword": "대전 하나 시티즌 대 비셀 고베 순위",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
+        "title": "[AFC축구 전적] 고베 1-0 대전",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261026172600007"
+        "url": "https://www.yna.co.kr/view/AKR20261027184200007"
       }
     },
     {
-      "keyword": "김새론",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "송가인",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "김수현 측 \"故김새론 모친 등 범죄 혐의 인정…검찰 송치\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6597037"
+        "title": "“묶어불기 전에 가만히 있어”…송가인, 공연 방해 관객에 호통",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12186914"
       }
     },
     {
-      "keyword": "nh농협은행",
+      "keyword": "이재명",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "이 대통령 \"지속가능한 성장 중요…내수 활성화에 정부 역량 모아야\"",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974358"
+      }
+    },
+    {
+      "keyword": "잇섭",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "광주은행, 곡성·구례·진도지점 개설 올해 사실상 무산",
+        "title": "“접었더니 화면 쩍” 아이폰 듀오 파손 확산에···‘결함’ 인정한 애플, 무상교체 밝혔지만 재고 부족",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610271351001"
+      }
+    },
+    {
+      "keyword": "파주시",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "구례군, 2년 연속 대한민국 SNS대상 최우수상",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261027047800054"
+        "url": "https://www.yna.co.kr/view/RPR20261027005600353"
       }
     },
     {
-      "keyword": "안민석",
+      "keyword": "단발",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "안민석 경기도교육감, 평택·안성서 교육 현안 논의",
-        "source": "더팩트",
-        "url": "https://news.tf.co.kr/read/national/2380960.htm"
+        "title": "‘우아’ 김지원 vs ‘러블리’ 장원영, 같은 옷 다른 매력 ‘미모 쌍벽’",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202610261216003"
       }
     },
     {
-      "keyword": "정유경",
+      "keyword": "서울 지하철 7호선",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일",
-        "source": "뉴스타파",
-        "url": "https://newstapa.org/article/eiU83"
+        "title": "지하철 7호선, 의정부·양주를 지나 포천까지! 도봉산-옥정 연장선",
+        "source": "서울특별시",
+        "url": "https://mediahub.seoul.go.kr/archives/2019857"
       }
     },
     {
-      "keyword": "손혁",
+      "keyword": "afc 챔스",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/baseball/2026/10/27/HA4TONBWGI2GIOLEGUZDMY3CGY/"
-      }
+      "news": null
     },
     {
-      "keyword": "야마모토 요시노부",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"야마모토 몸값 8500억까지 치솟는다\" 다저스 초비상, 12년 계약했는데 결별 걱정…샐러리캡 도입 최대 변수",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015595"
-      }
-    },
-    {
-      "keyword": "부산광역시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "대덕구, 체납액 1억 7천만원 징수… 생계곤란 주민 복지 연계도",
-        "source": "뉴스프리존",
-        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715536"
-      }
-    },
-    {
-      "keyword": "강진군",
+      "keyword": "충주시장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "AI로 농·축산·관광 바꾼다…강진군, 4차산업혁명 전략위 '재부팅'",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261027_0003842587"
+        "title": "“충북도청 충주로” 도보 행진까지…충북도·타 시군 ‘난색’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696011"
       }
     },
     {
-      "keyword": "일교차",
+      "keyword": "강지영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "일교차 15도, 출근길 아우터 대체 뭐 입냐면요",
-        "source": "엘르 코리아 │ ELLE KOREA",
-        "url": "https://www.elle.co.kr/article/1911965"
+        "title": "강지영, 파격 등 노출에 볼륨감까지…팬심 설레게 하는 섹시 미모",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Entertainment/article/all/20261027/134914114/1"
       }
     }
   ]
