@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-27T10:42:45.449841+09:00",
-  "label": "10:42",
+  "timestamp": "2026-10-27T16:01:20.309506+09:00",
+  "label": "16:01",
   "items": [
     {
-      "keyword": "배드민턴",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "우천취소",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "배드민턴 세계 최강 안세영 50연승 대기록 시즌 10번째 우승",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8694595"
+        "title": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261026172600007"
       }
     },
     {
-      "keyword": "브루어스 대 레이스",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "김새론",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "‘역전의 명수’ 밀워키, WS 2연승",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261025509438"
+        "title": "김수현 측 \"故김새론 모친 등 범죄 혐의 인정…검찰 송치\"",
+        "source": "노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6597037"
       }
     },
     {
-      "keyword": "삼성역",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
+      "keyword": "nh농협은행",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "광주은행, 곡성·구례·진도지점 개설 올해 사실상 무산",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261027047800054"
+      }
     },
     {
-      "keyword": "군의관",
+      "keyword": "안민석",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“36개월 군의관보단 18개월 현역병”…의대생 현역병 입영 4년새 13배로 증가",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20105888"
+        "title": "안민석 경기도교육감, 평택·안성서 교육 현안 논의",
+        "source": "더팩트",
+        "url": "https://news.tf.co.kr/read/national/2380960.htm"
       }
     },
     {
-      "keyword": "이지훈",
+      "keyword": "정유경",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'이지훈♥' 아야네, 둘째 만삭 화보 공개…딸 루희까지 '비주얼가족'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GZSDGMJVGBSDSNDEG4ZTSN3EHA/"
+        "title": "[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일",
+        "source": "뉴스타파",
+        "url": "https://newstapa.org/article/eiU83"
       }
     },
     {
-      "keyword": "연비",
+      "keyword": "손혁",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "年 연료비 60만원 이상 절감… KGM 뉴 토레스·액티언 HEV - 조선비즈",
+        "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"",
         "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/industry/car/2026/10/23/BZFXJTCUXJHIFNG7ZUWAZ2WQVM/"
+        "url": "https://biz.chosun.com/sports/baseball/2026/10/27/HA4TONBWGI2GIOLEGUZDMY3CGY/"
       }
     },
     {
-      "keyword": "월즈 2026",
+      "keyword": "야마모토 요시노부",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610252053045"
+        "title": "\"야마모토 몸값 8500억까지 치솟는다\" 다저스 초비상, 12년 계약했는데 결별 걱정…샐러리캡 도입 최대 변수",
+        "source": "SPOTV NEWS",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015595"
       }
     },
     {
-      "keyword": "더존비즈온",
+      "keyword": "부산광역시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "토종 1위 ERP 더존비즈온 해킹…\"고객사 민감정보 유출 가능성\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/it-science/security-hacking/6331870"
+        "title": "대덕구, 체납액 1억 7천만원 징수… 생계곤란 주민 복지 연계도",
+        "source": "뉴스프리존",
+        "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715536"
       }
     },
     {
-      "keyword": "특수부대",
+      "keyword": "강진군",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "레쑤언 티엔, 마란도, 꾸옥안은 모두 \"삭숲 특수부대\"에 출연했습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/le-xuan-tien-ma-ran-do-va-quoc-anh-cung-gop-mat-trong-dac-cong-rung-sac"
+        "title": "AI로 농·축산·관광 바꾼다…강진군, 4차산업혁명 전략위 '재부팅'",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261027_0003842587"
       }
     },
     {
-      "keyword": "경남도민일보",
+      "keyword": "일교차",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "굴 제철 맞았지만 소비 위축에 애타는 양식업계",
-        "source": "경남도민일보",
-        "url": "https://www.idomin.com/news/articleView.html?idxno=2017792"
+        "title": "일교차 15도, 출근길 아우터 대체 뭐 입냐면요",
+        "source": "엘르 코리아 │ ELLE KOREA",
+        "url": "https://www.elle.co.kr/article/1911965"
       }
     }
   ]
