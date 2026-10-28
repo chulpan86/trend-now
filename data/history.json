@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-10-27T10:42:45.449841+09:00",
-    "label": "10:42",
-    "items": [
-      {
-        "keyword": "배드민턴",
-        "traffic_raw": "20000+",
-        "traffic": 20000,
-        "news": {
-          "title": "배드민턴 세계 최강 안세영 50연승 대기록 시즌 10번째 우승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694595"
-        }
-      },
-      {
-        "keyword": "브루어스 대 레이스",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "‘역전의 명수’ 밀워키, WS 2연승",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261025509438"
-        }
-      },
-      {
-        "keyword": "삼성역",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "군의관",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“36개월 군의관보단 18개월 현역병”…의대생 현역병 입영 4년새 13배로 증가",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20105888"
-        }
-      },
-      {
-        "keyword": "이지훈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'이지훈♥' 아야네, 둘째 만삭 화보 공개…딸 루희까지 '비주얼가족'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/25/GZSDGMJVGBSDSNDEG4ZTSN3EHA/"
-        }
-      },
-      {
-        "keyword": "연비",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "年 연료비 60만원 이상 절감… KGM 뉴 토레스·액티언 HEV - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/car/2026/10/23/BZFXJTCUXJHIFNG7ZUWAZ2WQVM/"
-        }
-      },
-      {
-        "keyword": "월즈 2026",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "게임·음악·굿즈…‘LoL 세상’ 열린다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610252053045"
-        }
-      },
-      {
-        "keyword": "더존비즈온",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "토종 1위 ERP 더존비즈온 해킹…\"고객사 민감정보 유출 가능성\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/security-hacking/6331870"
-        }
-      },
-      {
-        "keyword": "특수부대",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "레쑤언 티엔, 마란도, 꾸옥안은 모두 \"삭숲 특수부대\"에 출연했습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/le-xuan-tien-ma-ran-do-va-quoc-anh-cung-gop-mat-trong-dac-cong-rung-sac"
-        }
-      },
-      {
-        "keyword": "경남도민일보",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "굴 제철 맞았지만 소비 위축에 애타는 양식업계",
-          "source": "경남도민일보",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2017792"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-27T16:01:20.309506+09:00",
     "label": "16:01",
     "items": [
@@ -729,6 +627,108 @@
           "title": "[기고] 송도 세브란스병원, 더 이상 기다릴 수 없다",
           "source": "경인일보",
           "url": "https://www.kyeongin.com/article/1773526"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-29T01:52:42.164070+09:00",
+    "label": "01:52",
+    "items": [
+      {
+        "keyword": "이계인",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“50억원 줘도 안 팔아”…이계인이 31년째 남양주 주택 지키는 이유",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261028510953"
+        }
+      },
+      {
+        "keyword": "노바크 조코비치",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "크랙",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“혁신은 멈췄고 완성도는 깨졌다”…애플 ‘완벽주의’가 무너진다 [핫클립]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697648"
+        }
+      },
+      {
+        "keyword": "lg에너지솔루션",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880148.html"
+        }
+      },
+      {
+        "keyword": "일본 지진",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "일본 지바현 지바시 동쪽서 규모 5.4 지진 발생",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029001000530"
+        }
+      },
+      {
+        "keyword": "올림픽파크 포레온",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"집주인 온다\"… 떨고 있는 올파포 세입자",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12188624"
+        }
+      },
+      {
+        "keyword": "한겨레",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/10/28/N3OFGB6CWNEWNBD7Y4MOKKWWEQ/"
+        }
+      },
+      {
+        "keyword": "서울반도체",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“희토류 필요없다”…서울반도체, LED 판도 바꿀 신기술 개발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610281580i"
+        }
+      },
+      {
+        "keyword": "김민",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김민, ‘나혼산’ 출연 후 아찔한 사생활 고충...\"사람들이 집에 너무 찾아온다\" ('라스')",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/G44TQNBVMFRGCMBVMI2DINBWMI/"
+        }
+      },
+      {
+        "keyword": "메달",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘은퇴 예고’ 쇼트트랙 최민정, 월드투어 첫 대회에서 금메달",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694518"
         }
       }
     ]

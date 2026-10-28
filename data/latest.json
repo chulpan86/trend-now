@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-10-28T19:08:22.881253+09:00",
-  "label": "19:08",
+  "timestamp": "2026-10-29T01:52:42.164070+09:00",
+  "label": "01:52",
   "items": [
     {
-      "keyword": "레버리지",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "이계인",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "국장 급등락에 곱버스·레버리지 ETF 쏠림…7개 상품이 거래량 91%",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05454646645617512"
-      }
-    },
-    {
-      "keyword": "김연경",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "‘신인감독2’ 김연경 “다시는 안 해, 시즌3 거부 …속지 말자”…좌중 폭소",
+        "title": "“50억원 줘도 안 팔아”…이계인이 31년째 남양주 주택 지키는 이유",
         "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261026504919"
+        "url": "https://www.segye.com/newsView/20261028510953"
       }
     },
     {
-      "keyword": "lg이노텍",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "김정관 산업장관, 구미서 25조원 투자·제조 AX 확산 속도 낸다",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=373990"
-      }
+      "keyword": "노바크 조코비치",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
     },
     {
-      "keyword": "재산",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "대법, 최태원-노소영 재산분할 재상고심 본격 심리…주심 김성수",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610281203001"
-      }
-    },
-    {
-      "keyword": "보안",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "대신증권 서버 뚫렸다…고객 3만 8490명 개인정보 유출",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20261028100120"
-      }
-    },
-    {
-      "keyword": "한우",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“삼겹살 1㎏ 1만7000원”···홍성 바비큐축제, 최대 34.6% 할인",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610281056001"
-      }
-    },
-    {
-      "keyword": "최원태",
+      "keyword": "크랙",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'1승 1패 원점' 삼성 vs 기아 3차전 승부처는? [이슈ON]",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0107_202610281710026569"
+        "title": "“혁신은 멈췄고 완성도는 깨졌다”…애플 ‘완벽주의’가 무너진다 [핫클립]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8697648"
       }
     },
     {
-      "keyword": "태양광 발전",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "재생에너지 투자 플랫폼 모햇, 누적 매출 1000억…출시 6년 만",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04624806645617512"
-      }
-    },
-    {
-      "keyword": "구미시",
+      "keyword": "lg에너지솔루션",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "진천군, 제47회 흰지팡이의 날 기념행사 개최",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733508"
+        "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
+        "source": "인베스트조선",
+        "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880148.html"
       }
     },
     {
-      "keyword": "송도세브란스병원",
+      "keyword": "일본 지진",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[기고] 송도 세브란스병원, 더 이상 기다릴 수 없다",
-        "source": "경인일보",
-        "url": "https://www.kyeongin.com/article/1773526"
+        "title": "일본 지바현 지바시 동쪽서 규모 5.4 지진 발생",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261029001000530"
+      }
+    },
+    {
+      "keyword": "올림픽파크 포레온",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"집주인 온다\"… 떨고 있는 올파포 세입자",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/12188624"
+      }
+    },
+    {
+      "keyword": "한겨레",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/assembly/2026/10/28/N3OFGB6CWNEWNBD7Y4MOKKWWEQ/"
+      }
+    },
+    {
+      "keyword": "서울반도체",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "“희토류 필요없다”…서울반도체, LED 판도 바꿀 신기술 개발",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610281580i"
+      }
+    },
+    {
+      "keyword": "김민",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "김민, ‘나혼산’ 출연 후 아찔한 사생활 고충...\"사람들이 집에 너무 찾아온다\" ('라스')",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/G44TQNBVMFRGCMBVMI2DINBWMI/"
+      }
+    },
+    {
+      "keyword": "메달",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘은퇴 예고’ 쇼트트랙 최민정, 월드투어 첫 대회에서 금메달",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8694518"
       }
     }
   ]
