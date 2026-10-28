@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-10-27T16:01:20.309506+09:00",
-    "label": "16:01",
-    "items": [
-      {
-        "keyword": "우천취소",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "박진만 삼성 감독 \"페덱이 KIA 중심타선 못 잡은 게 아쉽다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261026172600007"
-        }
-      },
-      {
-        "keyword": "김새론",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "김수현 측 \"故김새론 모친 등 범죄 혐의 인정…검찰 송치\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6597037"
-        }
-      },
-      {
-        "keyword": "nh농협은행",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "광주은행, 곡성·구례·진도지점 개설 올해 사실상 무산",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261027047800054"
-        }
-      },
-      {
-        "keyword": "안민석",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "안민석 경기도교육감, 평택·안성서 교육 현안 논의",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/national/2380960.htm"
-        }
-      },
-      {
-        "keyword": "정유경",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[현장에서] '애니 엄마' 정유경 회장에게 지난 한 주간 벌어진 일",
-          "source": "뉴스타파",
-          "url": "https://newstapa.org/article/eiU83"
-        }
-      },
-      {
-        "keyword": "손혁",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\"",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/10/27/HA4TONBWGI2GIOLEGUZDMY3CGY/"
-        }
-      },
-      {
-        "keyword": "야마모토 요시노부",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"야마모토 몸값 8500억까지 치솟는다\" 다저스 초비상, 12년 계약했는데 결별 걱정…샐러리캡 도입 최대 변수",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015595"
-        }
-      },
-      {
-        "keyword": "부산광역시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "대덕구, 체납액 1억 7천만원 징수… 생계곤란 주민 복지 연계도",
-          "source": "뉴스프리존",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715536"
-        }
-      },
-      {
-        "keyword": "강진군",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "AI로 농·축산·관광 바꾼다…강진군, 4차산업혁명 전략위 '재부팅'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842587"
-        }
-      },
-      {
-        "keyword": "일교차",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "일교차 15도, 출근길 아우터 대체 뭐 입냐면요",
-          "source": "엘르 코리아 │ ELLE KOREA",
-          "url": "https://www.elle.co.kr/article/1911965"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-27T22:44:50.899556+09:00",
     "label": "22:44",
     "items": [
@@ -729,6 +623,108 @@
           "title": "‘은퇴 예고’ 쇼트트랙 최민정, 월드투어 첫 대회에서 금메달",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8694518"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-29T06:25:14.018481+09:00",
+    "label": "06:25",
+    "items": [
+      {
+        "keyword": "농지",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "李, ‘농지조사는 장관 제안’ 논란에 “칭찬 삼아 한 말, 언론이 문제”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/10/28/DECDHIIKVZHU7BD4F3UBILLGW4/"
+        }
+      },
+      {
+        "keyword": "단풍",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "숲길 따라 꽃길 따라, 율곡수목원과 율곡습지공원에서 만나는 가을",
+          "source": "경기도뉴스포털",
+          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202610270030483807C056&s_code=C056"
+        }
+      },
+      {
+        "keyword": "숲",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "가스공사, 대구 달산초에 '생태숲' 조성…임직원·학생 탄소중립 실천",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261028009400353"
+        }
+      },
+      {
+        "keyword": "liverpool vs chelsea",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "FPL: Can clubs stop players' friends and family leaking Premier League team news?",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cwly0myd08reo"
+        }
+      },
+      {
+        "keyword": "ลิเวอร์พูล พบ เชลซี",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "ทำนายผลการแข่งขันลิเวอร์พูล vs เชลซี: ชนะเพื่อผ่านเข้ารอบ",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-liverpool-vs-chelsea-thang-de-di-tiep"
+        }
+      },
+      {
+        "keyword": "맨시티",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "마레스카 감독, 브라이튼과의 카라바오컵 경기 앞두고 선수단 소식 전해",
+          "source": "Manchester City FC",
+          "url": "https://kr.mancity.com/news/mens/enzo-maresca-manchester-city-v-brighton-team-news-63928720"
+        }
+      },
+      {
+        "keyword": "efl cup",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Fleetwood stuns Arsenal, beats champions on penalties to reach Carabao Cup quarters",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/28/VUCCPN3JFNFLNPK6BQNSYPIJPM/"
+        }
+      },
+      {
+        "keyword": "t1",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "구글 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "알파벳, 3분기 매출 171조원…시장 전망치 하회",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029010600091"
+        }
+      },
+      {
+        "keyword": "카카오뱅크",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[게시판] 카카오뱅크·토스뱅크, '제11회 금융의 날' 금융위원장 표창",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261028084000002"
         }
       }
     ]
