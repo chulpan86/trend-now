@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-28T08:20:08.776896+09:00",
-  "label": "08:20",
+  "timestamp": "2026-10-28T12:02:22.390903+09:00",
+  "label": "12:02",
   "items": [
     {
-      "keyword": "기온",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "아주대 소아 응급실",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "내일 아침 출근길 곳곳 영하권‥올가을 들어 가장 춥다",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861152_37004.html"
+        "title": "\"손 떨려서 진료 못 해\"...압색 받은 소아응급 교수 7명 사직 결정",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12325204"
       }
     },
     {
-      "keyword": "압수수색",
+      "keyword": "돈",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "압색 받은 소아응급 교수 7명 사직 의사…정은경 \"경찰과 협의\"(종합)",
+        "title": "10월27일 캐시워크 돈버는퀴즈 정답과 문제는?",
+        "source": "CBC뉴스",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619282"
+      }
+    },
+    {
+      "keyword": "국민연금",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "복지장관, 10대 마약 병상 부족 문제에 \"치료 인프라 확충 추진\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261027166051530"
+        "url": "https://www.yna.co.kr/view/AKR20261027191900004"
       }
     },
     {
-      "keyword": "한화 이글스",
+      "keyword": "이스라엘 총선 결과",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'슈퍼스타 다 됐네' 왕옌청, 대만서 대규모 기자회견…그런데 또 눈물 펑펑 터뜨렸다, 무슨 사연이길래? - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/10/28/202610271801771021O"
+        "title": "이스라엘 총선 초박빙…反네타냐후 진영 출구조사서 근소하게 앞서(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261028007551099"
       }
     },
     {
-      "keyword": "수험",
+      "keyword": "그랜드 테프트 오토 vi",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "용인특례시, 수능 마친 수험생 위한 특별 프로그램 운영",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335097"
+        "title": "“게임 하나 때문에 150만명 결근?”…1조원 손실 전망까지 나온 美, 무슨 일",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20106659"
       }
     },
     {
-      "keyword": "묀헨글라트바흐 대 카를스루에",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "대신증권",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "DFB-Pokal: Ten-man Gladbach advance after efficient performance against Karlsruhe",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/dfb-pokal-ten-man-gladbach-214100742.html"
+        "title": "빗썸, 사내 모바일 그룹웨어 해킹으로 개인정보 유출‥\"범위 파악 중\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6861293_36932.html"
       }
     },
     {
-      "keyword": "창신메모리테크놀로지",
+      "keyword": "팔란티어 테크놀로지",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12187432"
-      }
-    },
-    {
-      "keyword": "정준하",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "정형돈, 돈가스집 '바지사장' 의심받자…\"지분 25%\" 해명 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/27/2026102720555639903"
-      }
-    },
-    {
-      "keyword": "박성현",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "LPGA 7승 박성현, 11월 KLPGA 투어 시드전 예선 도전",
+        "title": "브이아이운용, 스페이스X·우주산업 밸류체인 투자 ETF 출시",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261027170200007"
+        "url": "https://www.yna.co.kr/view/AKR20261027085300008"
       }
     },
     {
-      "keyword": "토리노 대 코모",
+      "keyword": "도박",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "세리에 A 토리노 대 코모 경기 예측",
-        "source": "Laodong.vn",
-        "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-torino-vs-como-tai-serie-a-1790125.ldo"
+        "title": "4900억 불법도박사이트 운영진 단합대회 사진",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11626691"
       }
     },
     {
-      "keyword": "fm",
+      "keyword": "디에이치 반포124",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "S. Korea withdraws 8 diplomatic personnel from Ukraine: FM Cho",
-        "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20261027010000315"
+        "title": "반포에서 검단까지… 지금 청약통장을 꺼내 볼 곳들",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/real_estate/2026/10/28/PFCRWZL3XNF6NBOAD3UWGXGR3Y/"
+      }
+    },
+    {
+      "keyword": "골든 조이스틱 어워드",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[공지사항] 붉은사막을 Golden Joystick Awards 2026의 Ultimate Game of the Year로 투표해 주세요! | 붉은사막",
+        "source": "펄어비스 공식 홈페이지",
+        "url": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice/Detail?_boardNo=139"
       }
     }
   ]
