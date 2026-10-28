@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-10-28T12:02:22.390903+09:00",
-  "label": "12:02",
+  "timestamp": "2026-10-28T19:08:22.881253+09:00",
+  "label": "19:08",
   "items": [
     {
-      "keyword": "아주대 소아 응급실",
+      "keyword": "레버리지",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "\"손 떨려서 진료 못 해\"...압색 받은 소아응급 교수 7명 사직 결정",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12325204"
+        "title": "국장 급등락에 곱버스·레버리지 ETF 쏠림…7개 상품이 거래량 91%",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05454646645617512"
       }
     },
     {
-      "keyword": "돈",
+      "keyword": "김연경",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "‘신인감독2’ 김연경 “다시는 안 해, 시즌3 거부 …속지 말자”…좌중 폭소",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20261026504919"
+      }
+    },
+    {
+      "keyword": "lg이노텍",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "김정관 산업장관, 구미서 25조원 투자·제조 AX 확산 속도 낸다",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=373990"
+      }
+    },
+    {
+      "keyword": "재산",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "10월27일 캐시워크 돈버는퀴즈 정답과 문제는?",
-        "source": "CBC뉴스",
-        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619282"
+        "title": "대법, 최태원-노소영 재산분할 재상고심 본격 심리…주심 김성수",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610281203001"
       }
     },
     {
-      "keyword": "국민연금",
+      "keyword": "보안",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "복지장관, 10대 마약 병상 부족 문제에 \"치료 인프라 확충 추진\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261027191900004"
+        "title": "대신증권 서버 뚫렸다…고객 3만 8490명 개인정보 유출",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20261028100120"
       }
     },
     {
-      "keyword": "이스라엘 총선 결과",
+      "keyword": "한우",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "이스라엘 총선 초박빙…反네타냐후 진영 출구조사서 근소하게 앞서(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261028007551099"
+        "title": "“삼겹살 1㎏ 1만7000원”···홍성 바비큐축제, 최대 34.6% 할인",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610281056001"
       }
     },
     {
-      "keyword": "그랜드 테프트 오토 vi",
+      "keyword": "최원태",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“게임 하나 때문에 150만명 결근?”…1조원 손실 전망까지 나온 美, 무슨 일",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20106659"
+        "title": "'1승 1패 원점' 삼성 vs 기아 3차전 승부처는? [이슈ON]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0107_202610281710026569"
       }
     },
     {
-      "keyword": "대신증권",
+      "keyword": "태양광 발전",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "빗썸, 사내 모바일 그룹웨어 해킹으로 개인정보 유출‥\"범위 파악 중\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6861293_36932.html"
+        "title": "재생에너지 투자 플랫폼 모햇, 누적 매출 1000억…출시 6년 만",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04624806645617512"
       }
     },
     {
-      "keyword": "팔란티어 테크놀로지",
+      "keyword": "구미시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "브이아이운용, 스페이스X·우주산업 밸류체인 투자 ETF 출시",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261027085300008"
+        "title": "진천군, 제47회 흰지팡이의 날 기념행사 개최",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733508"
       }
     },
     {
-      "keyword": "도박",
+      "keyword": "송도세브란스병원",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "4900억 불법도박사이트 운영진 단합대회 사진",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11626691"
-      }
-    },
-    {
-      "keyword": "디에이치 반포124",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "반포에서 검단까지… 지금 청약통장을 꺼내 볼 곳들",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/real_estate/2026/10/28/PFCRWZL3XNF6NBOAD3UWGXGR3Y/"
-      }
-    },
-    {
-      "keyword": "골든 조이스틱 어워드",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[공지사항] 붉은사막을 Golden Joystick Awards 2026의 Ultimate Game of the Year로 투표해 주세요! | 붉은사막",
-        "source": "펄어비스 공식 홈페이지",
-        "url": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice/Detail?_boardNo=139"
+        "title": "[기고] 송도 세브란스병원, 더 이상 기다릴 수 없다",
+        "source": "경인일보",
+        "url": "https://www.kyeongin.com/article/1773526"
       }
     }
   ]
