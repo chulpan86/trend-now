@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-29T06:25:14.018481+09:00",
-  "label": "06:25",
+  "timestamp": "2026-10-29T10:22:59.766097+09:00",
+  "label": "10:22",
   "items": [
     {
-      "keyword": "농지",
+      "keyword": "호텔",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "李, ‘농지조사는 장관 제안’ 논란에 “칭찬 삼아 한 말, 언론이 문제”",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/politics_general/2026/10/28/DECDHIIKVZHU7BD4F3UBILLGW4/"
+        "title": "“호텔신라, 면세 업황 개선 못 해”…한투, 목표가 하향",
+        "source": "매일경제 마켓",
+        "url": "https://stock.mk.co.kr/news/view/1183912"
       }
     },
     {
-      "keyword": "단풍",
+      "keyword": "자산",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "“돈과 마음 안정은 별개”...‘90억 자산’ 삼전 직원의 하소연",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12188549"
+      }
+    },
+    {
+      "keyword": "김영옥",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "숲길 따라 꽃길 따라, 율곡수목원과 율곡습지공원에서 만나는 가을",
-        "source": "경기도뉴스포털",
-        "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202610270030483807C056&s_code=C056"
+        "title": "‘88세’ 김영옥, 하루·이루네에 “나 죽을 때까지 활동해 줘, 난 잊을까 겁나”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/MI3GEOJSHFTDSOJYGQZTKYLFGA/"
       }
     },
     {
-      "keyword": "숲",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "우서윤",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "가스공사, 대구 달산초에 '생태숲' 조성…임직원·학생 탄소중립 실천",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20261028009400353"
+        "title": "우지윤 딸 우서윤, 미스코리아 진 이후 \"아빠 이겼다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261028_0003845283"
       }
     },
     {
-      "keyword": "liverpool vs chelsea",
+      "keyword": "이기혁",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"너무 죄송하다\" 이기혁, 고개 숙이며 재차 사과…\"그런 발언 하면 안 됐다→국가대표 무게감과 책임감 없는 것 NO\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/football/2026/10/28/MFRGCMZYMUZTEMRQGQ2DEZRXG4/"
+      }
+    },
+    {
+      "keyword": "inter miami vs cincinnati",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "FPL: Can clubs stop players' friends and family leaking Premier League team news?",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/articles/cwly0myd08reo"
+        "title": "MLS sprint season to kick off on Feb. 19 in Miami",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50311129/mls-sprint-season-kick-feb-19-miami"
       }
     },
     {
-      "keyword": "ลิเวอร์พูล พบ เชลซี",
+      "keyword": "충청권 광역철도",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "ทำนายผลการแข่งขันลิเวอร์พูล vs เชลซี: ชนะเพื่อผ่านเข้ารอบ",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/th/nhan-dinh-liverpool-vs-chelsea-thang-de-di-tiep"
+        "title": "충청권 광역철도 1단계 총사업비 5716억 확정",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=374048"
       }
     },
     {
-      "keyword": "맨시티",
+      "keyword": "신현송",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "마레스카 감독, 브라이튼과의 카라바오컵 경기 앞두고 선수단 소식 전해",
-        "source": "Manchester City FC",
-        "url": "https://kr.mancity.com/news/mens/enzo-maresca-manchester-city-v-brighton-team-news-63928720"
+        "title": "워시 Fed 의장 \"한국 경제 주시…신현송 총재와 20년 지기\" [Fed워치]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610291911i"
       }
     },
     {
-      "keyword": "efl cup",
+      "keyword": "성리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Fleetwood stuns Arsenal, beats champions on penalties to reach Carabao Cup quarters",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/10/28/VUCCPN3JFNFLNPK6BQNSYPIJPM/"
+        "title": "장한별, ‘환희’ 무대로 정수라·조항조 일으켜 세웠다…기립 환호",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261029/134929800/1"
       }
     },
     {
-      "keyword": "t1",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
-    },
-    {
-      "keyword": "구글 주가",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "알파벳, 3분기 매출 171조원…시장 전망치 하회",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261029010600091"
-      }
-    },
-    {
-      "keyword": "카카오뱅크",
+      "keyword": "sk텔레콤",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[게시판] 카카오뱅크·토스뱅크, '제11회 금융의 날' 금융위원장 표창",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261028084000002"
+        "title": "SKT, 부서별 AI 에이전트 옥석 가린다…'토성비' 중심으로 통합",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261029000060"
       }
     }
   ]
