@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-10-30T19:33:49.902202+09:00",
-  "label": "19:33",
+  "timestamp": "2026-10-31T01:51:45.575329+09:00",
+  "label": "01:51",
   "items": [
     {
-      "keyword": "이호선",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "김혜자",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "“엄마처럼 늙겠습니다”…이호선, 어머니와 이별하며 남긴 마지막 인사",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20261030/134939454/2"
+        "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html"
       }
     },
     {
-      "keyword": "야구중계",
+      "keyword": "원자력",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'꼬꼬무' 결방, 야구 중계→'거장항준' 편성",
-        "source": "비즈엔터",
-        "url": "https://enter.etoday.co.kr/news/view/304472"
+        "title": "한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최",
+        "source": "전기저널",
+        "url": "https://www.keaj.kr/news/articleView.html?idxno=6424"
       }
     },
     {
-      "keyword": "이택근",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "포수 출신 감독 ‘0명’시대…류지현-이동욱 선임으로 ‘내야수 감독 전성시대’ 활짝",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20261030/134939694/1"
-      }
-    },
-    {
-      "keyword": "야구 생중계",
+      "keyword": "카를로스 알카라스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "“KIA가 KS 올라왔으면” 1위팀 감독 솔직 속내 공개, PO 3경기 현미경 분석→왜 KIA보다 삼성 경계했나 [오!쎈 수원]",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112901218"
+        "title": "[비엔나 오픈] 알카라스 '좋았어!'",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138"
       }
     },
     {
-      "keyword": "스타 벅스 광주 지산 유원지 입구 점",
+      "keyword": "핼러윈",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261030074300054"
+        "title": "핼러윈 하루 전 이태원...경찰, 특공대·장갑차 투입",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0103_202610301956051826"
       }
     },
     {
-      "keyword": "경상남도",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "크랙",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이통 3사, 아이폰듀오 추가 물량 '깜깜'...크랙게이트에 고객 불편↑",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20261030144302"
+      }
     },
     {
-      "keyword": "1인당 국민소득",
+      "keyword": "김민",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "김민, '나혼산' 조작 의혹 이어 사생활 침해 피해…집 공개 후폭풍 [N이슈]",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/broadcast-tv/6335823"
+      }
+    },
+    {
+      "keyword": "한화시스템",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "국민소득 5만 달러 바라보는 韓…세계 20위권 근접",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261030_0003847477"
+        "title": "\"K-위성 경쟁력 높인다\"…한화, 초소형 군집위성 수주",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610306396i"
       }
     },
     {
-      "keyword": "속초시",
+      "keyword": "intc",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[포토뉴스]속초소방서, 제10회 속초의용소방대 소방기술경연·체육행사 개최",
-        "source": "강원일보",
-        "url": "https://www.kwnews.co.kr/article/20261026501084"
+        "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html"
       }
     },
     {
-      "keyword": "남대문 스카프 아저씨",
+      "keyword": "trick or treat",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "손님 폭증에 “내 말 좀 들어“…’남대문 스카프 아저씨’, 방문 자제 요청",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030120726aJy"
+        "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html"
       }
     },
     {
-      "keyword": "휴게소",
+      "keyword": "경기도교육감",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "고속도 휴게소 직계약 시범사업 착수…음식·편의 '가성비' 기대",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974638&pWise=main&pWiseMain=R6"
+        "title": "안민석 교육감, 동두천·양주서 교육현안 청취…지역별 해법 모색",
+        "source": "인천일보",
+        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335549"
       }
     }
   ]
