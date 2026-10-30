@@ -724,5 +724,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-30T12:31:17.777892+09:00",
+    "label": "12:31",
+    "items": [
+      {
+        "keyword": "강균성",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'혼전순결' 강균성, 오늘 14세 연하 유하진과 '속전속결' 결혼",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847490"
+        }
+      },
+      {
+        "keyword": "중공업",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "HD현대중공업, AI 선박 도장 검사시스템 개발…품질 경쟁력 강화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261029160400057"
+        }
+      },
+      {
+        "keyword": "삼성그룹",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "57주년 맞은 삼성전자, \"지금은 자축보다 경쟁력 냉정하게 돌아볼 때\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/30/7PVGJEAKKBF7HBJVSFWCFY4GXE/"
+        }
+      },
+      {
+        "keyword": "재판",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "與, ‘조희대 국조’에 李 파기환송 사건 포함 시사… 재판 개입 논란",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261030/134936135/2"
+        }
+      },
+      {
+        "keyword": "한국장학재단",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "생활비가 돌려막기로…고금리·다중채무 악순환",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697950"
+        }
+      },
+      {
+        "keyword": "어쌔신 크리드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[해외 캠페인] 유비소프트, ‘블랙 플래그 리싱크드’ 뉴 게임 플러스 추가",
+          "source": "캠페인 인사이트",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=6784"
+        }
+      },
+      {
+        "keyword": "대전 화재",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "속보 대전 갈마동 타이어판매점 큰불...대응 1단계 발령",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610301112249698"
+        }
+      },
+      {
+        "keyword": "k패스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "기후동행카드 종료, 기후동행패스 전환 방법은?",
+          "source": "KB Think",
+          "url": "https://kbthink.com/life/card/climate-pass.html"
+        }
+      },
+      {
+        "keyword": "비트코인 시세",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "비트코인 3.7% 하락해 7만8000달러대…이더리움·리플도 급락",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/finance/2026/10/30/ERCU7FYMIJBJVBETZDU7M326SQ/"
+        }
+      },
+      {
+        "keyword": "네이버 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘90억 달러 동맹’ 완성한 네이버…AI 팩토리로 ‘빅점프’ 성공할까",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610305262i"
+        }
+      }
+    ]
   }
 ]
