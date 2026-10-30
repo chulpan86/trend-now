@@ -1,209 +1,5 @@
 [
   {
-    "timestamp": "2026-10-29T01:52:42.164070+09:00",
-    "label": "01:52",
-    "items": [
-      {
-        "keyword": "이계인",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“50억원 줘도 안 팔아”…이계인이 31년째 남양주 주택 지키는 이유",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261028510953"
-        }
-      },
-      {
-        "keyword": "노바크 조코비치",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "크랙",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“혁신은 멈췄고 완성도는 깨졌다”…애플 ‘완벽주의’가 무너진다 [핫클립]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697648"
-        }
-      },
-      {
-        "keyword": "lg에너지솔루션",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880148.html"
-        }
-      },
-      {
-        "keyword": "일본 지진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "일본 지바현 지바시 동쪽서 규모 5.4 지진 발생",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029001000530"
-        }
-      },
-      {
-        "keyword": "올림픽파크 포레온",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"집주인 온다\"… 떨고 있는 올파포 세입자",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12188624"
-        }
-      },
-      {
-        "keyword": "한겨레",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/10/28/N3OFGB6CWNEWNBD7Y4MOKKWWEQ/"
-        }
-      },
-      {
-        "keyword": "서울반도체",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“희토류 필요없다”…서울반도체, LED 판도 바꿀 신기술 개발",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610281580i"
-        }
-      },
-      {
-        "keyword": "김민",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "김민, ‘나혼산’ 출연 후 아찔한 사생활 고충...\"사람들이 집에 너무 찾아온다\" ('라스')",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/28/G44TQNBVMFRGCMBVMI2DINBWMI/"
-        }
-      },
-      {
-        "keyword": "메달",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘은퇴 예고’ 쇼트트랙 최민정, 월드투어 첫 대회에서 금메달",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8694518"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-29T06:25:14.018481+09:00",
-    "label": "06:25",
-    "items": [
-      {
-        "keyword": "농지",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "李, ‘농지조사는 장관 제안’ 논란에 “칭찬 삼아 한 말, 언론이 문제”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/10/28/DECDHIIKVZHU7BD4F3UBILLGW4/"
-        }
-      },
-      {
-        "keyword": "단풍",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "숲길 따라 꽃길 따라, 율곡수목원과 율곡습지공원에서 만나는 가을",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202610270030483807C056&s_code=C056"
-        }
-      },
-      {
-        "keyword": "숲",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "가스공사, 대구 달산초에 '생태숲' 조성…임직원·학생 탄소중립 실천",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261028009400353"
-        }
-      },
-      {
-        "keyword": "liverpool vs chelsea",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "FPL: Can clubs stop players' friends and family leaking Premier League team news?",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cwly0myd08reo"
-        }
-      },
-      {
-        "keyword": "ลิเวอร์พูล พบ เชลซี",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "ทำนายผลการแข่งขันลิเวอร์พูล vs เชลซี: ชนะเพื่อผ่านเข้ารอบ",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-liverpool-vs-chelsea-thang-de-di-tiep"
-        }
-      },
-      {
-        "keyword": "맨시티",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "마레스카 감독, 브라이튼과의 카라바오컵 경기 앞두고 선수단 소식 전해",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/enzo-maresca-manchester-city-v-brighton-team-news-63928720"
-        }
-      },
-      {
-        "keyword": "efl cup",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Fleetwood stuns Arsenal, beats champions on penalties to reach Carabao Cup quarters",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/10/28/VUCCPN3JFNFLNPK6BQNSYPIJPM/"
-        }
-      },
-      {
-        "keyword": "t1",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "구글 주가",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "알파벳, 3분기 매출 171조원…시장 전망치 하회",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261029010600091"
-        }
-      },
-      {
-        "keyword": "카카오뱅크",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[게시판] 카카오뱅크·토스뱅크, '제11회 금융의 날' 금융위원장 표창",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261028084000002"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-29T10:22:59.766097+09:00",
     "label": "10:22",
     "items": [
@@ -827,6 +623,108 @@
           "title": "‘90억 달러 동맹’ 완성한 네이버…AI 팩토리로 ‘빅점프’ 성공할까",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/202610305262i"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-30T19:33:49.902202+09:00",
+    "label": "19:33",
+    "items": [
+      {
+        "keyword": "이호선",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“엄마처럼 늙겠습니다”…이호선, 어머니와 이별하며 남긴 마지막 인사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20261030/134939454/2"
+        }
+      },
+      {
+        "keyword": "야구중계",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'꼬꼬무' 결방, 야구 중계→'거장항준' 편성",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/304472"
+        }
+      },
+      {
+        "keyword": "이택근",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "포수 출신 감독 ‘0명’시대…류지현-이동욱 선임으로 ‘내야수 감독 전성시대’ 활짝",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261030/134939694/1"
+        }
+      },
+      {
+        "keyword": "야구 생중계",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“KIA가 KS 올라왔으면” 1위팀 감독 솔직 속내 공개, PO 3경기 현미경 분석→왜 KIA보다 삼성 경계했나 [오!쎈 수원]",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901218"
+        }
+      },
+      {
+        "keyword": "스타 벅스 광주 지산 유원지 입구 점",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261030074300054"
+        }
+      },
+      {
+        "keyword": "경상남도",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "1인당 국민소득",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "국민소득 5만 달러 바라보는 韓…세계 20위권 근접",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847477"
+        }
+      },
+      {
+        "keyword": "속초시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[포토뉴스]속초소방서, 제10회 속초의용소방대 소방기술경연·체육행사 개최",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20261026501084"
+        }
+      },
+      {
+        "keyword": "남대문 스카프 아저씨",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "손님 폭증에 “내 말 좀 들어“…’남대문 스카프 아저씨’, 방문 자제 요청",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030120726aJy"
+        }
+      },
+      {
+        "keyword": "휴게소",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "고속도 휴게소 직계약 시범사업 착수…음식·편의 '가성비' 기대",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974638&pWise=main&pWiseMain=R6"
         }
       }
     ]
