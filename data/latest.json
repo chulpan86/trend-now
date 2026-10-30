@@ -1,25 +1,35 @@
 {
-  "timestamp": "2026-10-31T01:51:45.575329+09:00",
-  "label": "01:51",
+  "timestamp": "2026-10-31T06:14:18.009542+09:00",
+  "label": "06:14",
   "items": [
     {
-      "keyword": "김혜자",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "르아브르 ac 대 psg",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html"
+        "title": "Achraf Hakimi scores 1st career hat trick as Luis Enrique makes PSG history",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre"
       }
     },
     {
-      "keyword": "원자력",
+      "keyword": "핼러윈",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최",
-        "source": "전기저널",
-        "url": "https://www.keaj.kr/news/articleView.html?idxno=6424"
+        "title": "[르포] 핼러윈 전야 이태원 시끌벅적…추모의 길엔 침묵(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261030171051004"
+      }
+    },
+    {
+      "keyword": "엘버스베르크 대 마인츠 05",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Elversberg vs Mainz 05: German Bundesliga stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cv62yw1ln38gt"
       }
     },
     {
@@ -33,73 +43,63 @@
       }
     },
     {
-      "keyword": "핼러윈",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "핼러윈 하루 전 이태원...경찰, 특공대·장갑차 투입",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0103_202610301956051826"
-      }
-    },
-    {
-      "keyword": "크랙",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이통 3사, 아이폰듀오 추가 물량 '깜깜'...크랙게이트에 고객 불편↑",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20261030144302"
-      }
-    },
-    {
-      "keyword": "김민",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "김민, '나혼산' 조작 의혹 이어 사생활 침해 피해…집 공개 후폭풍 [N이슈]",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/broadcast-tv/6335823"
-      }
-    },
-    {
-      "keyword": "한화시스템",
+      "keyword": "le havre vs psg",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"K-위성 경쟁력 높인다\"…한화, 초소형 군집위성 수주",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202610306396i"
+        "title": "Le Havre-PSG : la composition probable des Parisiens avec Digne, Torres et Mayulu titulaires",
+        "source": "Le Parisien",
+        "url": "https://www.leparisien.fr/sports/football/ligue-1/le-havre-psg-la-composition-probable-des-parisiens-avec-digne-torres-et-mayulu-titulaires-29-10-2026-HLYZKQX435D5RGSB7QWBWCTI2A.php"
       }
     },
     {
-      "keyword": "intc",
+      "keyword": "트위치",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html"
+        "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1"
       }
     },
     {
-      "keyword": "trick or treat",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "중간선거",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html"
+        "title": "미국 중간선거 앞두고 사전투표 열기 ‘후끈’…역대최다 4천800만명 사전투표",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8700370"
       }
     },
     {
-      "keyword": "경기도교육감",
+      "keyword": "파업",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "안민석 교육감, 동두천·양주서 교육현안 청취…지역별 해법 모색",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335549"
+        "title": "포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261030171151053"
+      }
+    },
+    {
+      "keyword": "나스닥",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "알파벳 시총 5,000억 달러 증발, 뉴욕증시 일제히 하락",
+        "source": "네이버페이 머니스토리",
+        "url": "https://story.pay.naver.com/content/3824_2_C1"
+      }
+    },
+    {
+      "keyword": "강남 이상화",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "강남, 다시 태어나도 이상화와 결혼? \"로또 같은 사람, 안 맞아\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/ME2DIZTGHEYDONDEMRRTCOBWGA/"
       }
     }
   ]
