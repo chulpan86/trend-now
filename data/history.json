@@ -732,5 +732,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-01T07:02:33.750406+09:00",
+    "label": "07:02",
+    "items": [
+      {
+        "keyword": "삼성전자",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261031/134942839/2"
+        }
+      },
+      {
+        "keyword": "김민재",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112901786"
+        }
+      },
+      {
+        "keyword": "바르셀로나 대 알라베스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "바르셀로나 vs 알라베스 예측: 원정팀은 부진을 끝내기 위해 필사적으로 노력할 것이다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-alaves-khach-quyet-chan-da-sa-sut"
+        }
+      },
+      {
+        "keyword": "토트넘",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘주먹 불끈!’ 손흥민 떠난 후 이런 경우 처음이다, 토트넘 ‘PL 20→8위’ 수직 상승, 2시즌 만에 ‘리그...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611010606003"
+        }
+      },
+      {
+        "keyword": "barcelona vs alavés",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Barcelona - Alavés en directo | Gordon marca el sexto para el Barça",
+          "source": "EL PAÍS",
+          "url": "https://elpais.com/deportes/futbol/2026-10-31/barcelona-alaves-en-directo-el-partido-de-la-liga-en-vivo.html"
+        }
+      },
+      {
+        "keyword": "레알 베티스 대 말라가",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Real Betis vs Málaga: Spanish La Liga stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cr78pxn97j46t"
+        }
+      },
+      {
+        "keyword": "spurs vs palace",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Tottenham 2-0 Crystal Palace: Spurs pile pressure on Sage as 10-man Palace are beaten",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c9gkv231djj2t"
+        }
+      },
+      {
+        "keyword": "알렉산더 즈베레프",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "아트망 vs 웡, 서울오픈 챌린저 테니스 결승 대결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031044900007"
+        }
+      },
+      {
+        "keyword": "sports",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "#√☯️[[ESPN!!FREE+!]] Minnesota vs Sporting 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 29 October 2026",
+          "source": "Vantage Data Centers",
+          "url": "https://vantage-dc.com/virtual-tour-montreal-data-center/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvb2EueG1sIi8+PC9rcnBhbm8+&id=video-espnfree-minnesota-vs-sporti-4h48df8d"
+        }
+      },
+      {
+        "keyword": "mkoi",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "CTBC Flying Oyster vs. Karmine Corp: Game 2 Winner",
+          "source": "Coinbase",
+          "url": "https://www.coinbase.com/predictions/event/KXLOLMAP-26OCT291900CFOKC-2"
+        }
+      }
+    ]
   }
 ]
