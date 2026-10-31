@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-10-31T10:13:52.293445+09:00",
-  "label": "10:13",
+  "timestamp": "2026-10-31T16:43:46.961947+09:00",
+  "label": "16:43",
   "items": [
     {
-      "keyword": "주식",
+      "keyword": "일본",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/10/30/2026103011255523599"
+        "title": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202610317202i"
       }
     },
     {
-      "keyword": "테슬라",
+      "keyword": "이순 실",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "102kg였던 이순실 \"10개월 동안 43kg 감량, 시니어 모델 도전\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/broadcast-tv/6338531"
+      }
+    },
+    {
+      "keyword": "라이언 와이스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "'67억 옵션 거부' 와이스 자유의 몸 됐다, 그런데 한화 말고도 탐내는 구단이 있다? \"신속하게 영입해야 해\"",
+        "source": "SPOTV NEWS",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016679"
+      }
+    },
+    {
+      "keyword": "패딩",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'고래' 스페이스X-테슬라 합병 추진에 부담 커진 '새우' 미래에셋",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/10/27/2026102780135.html"
+        "title": "“비싸고 칙칙한 롱패딩 누가 입어요?”…10대들, 스파오로 갈아탄 이유는? [잇슈#태그]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8700466"
       }
     },
     {
-      "keyword": "증여",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“내 아들 대신 네 딸에게”…수상한 증여의 반전[세금, 그 후]",
-        "source": "이데일리",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645618496&mediaCodeNo=257"
-      }
-    },
-    {
-      "keyword": "필라데피아 대 뉴욕",
+      "keyword": "앤트로픽",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Live updates: Sixers kick off NBA Cup play at home against the Knicks",
-        "source": "NBC Sports Philadelphia",
-        "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-knicks-nba-cup-lebron-james-joel-embiid-tyrese-maxey-live-updates/762913/"
+        "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216846"
       }
     },
     {
-      "keyword": "sk 사장단 인사",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "르윈 디아즈",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "SK, 에너지 수장 교체…빨라진 재계 인사 시계",
+        "title": "\"위선적인 사람들, 어떤 것도 요구하지 말라\" 디아즈, 도 넘은 악플 테러에 또 폭발했다",
+        "source": "OSEN",
+        "url": "https://www.osen.co.kr/article/G1112901726"
+      }
+    },
+    {
+      "keyword": "원자력 발전소",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "아프리카 48개국 러시아로 부른 푸틴…영향력 확대 나서",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20261030015100038"
+        "url": "https://www.yna.co.kr/view/AKR20261029211800099"
       }
     },
     {
-      "keyword": "우주선",
+      "keyword": "정유시설",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261030000200071"
+        "title": "“사람들이 가게에 가고, 커피를 마시고, 거리를 걷는다”···러·우 국지 휴전으로 5년 만에 찾아온 일상",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610301651001"
       }
     },
     {
-      "keyword": "샌디스크",
+      "keyword": "고발",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "샌디스크, 분기 영업이익 49배 급증",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261030030500009"
+        "title": "‘8차 소환’ 김병기 “악의와 거짓으로 점철된 고발…수사 신속히 마무리해달라”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610311111001"
       }
     },
     {
-      "keyword": "직장폐쇄",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11627545"
-      }
-    },
-    {
-      "keyword": "미세먼지",
+      "keyword": "상장",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "오늘 밤 서쪽 지방 미세먼지 주의…한낮에 포근",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8699807"
+        "title": "“상장 첫날 던지라는 말이 맞나요”…한국증시 암울하게 하는 새내기주",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/stock/12192354"
       }
-    },
-    {
-      "keyword": "lcs",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": null
     }
   ]
 }
