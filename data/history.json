@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-10-30T19:33:49.902202+09:00",
-    "label": "19:33",
-    "items": [
-      {
-        "keyword": "이호선",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“엄마처럼 늙겠습니다”…이호선, 어머니와 이별하며 남긴 마지막 인사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261030/134939454/2"
-        }
-      },
-      {
-        "keyword": "야구중계",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'꼬꼬무' 결방, 야구 중계→'거장항준' 편성",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/304472"
-        }
-      },
-      {
-        "keyword": "이택근",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "포수 출신 감독 ‘0명’시대…류지현-이동욱 선임으로 ‘내야수 감독 전성시대’ 활짝",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261030/134939694/1"
-        }
-      },
-      {
-        "keyword": "야구 생중계",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“KIA가 KS 올라왔으면” 1위팀 감독 솔직 속내 공개, PO 3경기 현미경 분석→왜 KIA보다 삼성 경계했나 [오!쎈 수원]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112901218"
-        }
-      },
-      {
-        "keyword": "스타 벅스 광주 지산 유원지 입구 점",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261030074300054"
-        }
-      },
-      {
-        "keyword": "경상남도",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "1인당 국민소득",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "국민소득 5만 달러 바라보는 韓…세계 20위권 근접",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847477"
-        }
-      },
-      {
-        "keyword": "속초시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[포토뉴스]속초소방서, 제10회 속초의용소방대 소방기술경연·체육행사 개최",
-          "source": "강원일보",
-          "url": "https://www.kwnews.co.kr/article/20261026501084"
-        }
-      },
-      {
-        "keyword": "남대문 스카프 아저씨",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "손님 폭증에 “내 말 좀 들어“…’남대문 스카프 아저씨’, 방문 자제 요청",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030120726aJy"
-        }
-      },
-      {
-        "keyword": "휴게소",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "고속도 휴게소 직계약 시범사업 착수…음식·편의 '가성비' 기대",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974638&pWise=main&pWiseMain=R6"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-31T01:51:45.575329+09:00",
     "label": "01:51",
     "items": [
@@ -835,6 +733,112 @@
           "title": "CTBC Flying Oyster vs. Karmine Corp: Game 2 Winner",
           "source": "Coinbase",
           "url": "https://www.coinbase.com/predictions/event/KXLOLMAP-26OCT291900CFOKC-2"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-01T10:39:14.580162+09:00",
+    "label": "10:39",
+    "items": [
+      {
+        "keyword": "메이저 리그 베이스볼",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "KBO, 프로야구 한화 내야수 노시환 MLB에 포스팅 요청",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031042600007"
+        }
+      },
+      {
+        "keyword": "한화생명 e스포츠",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[롤드컵] '운명의 멸망전' 첫 세트부터 대접전… 한화생명, 中 BLG에 아쉬운 1세트 덜미",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112902078"
+        }
+      },
+      {
+        "keyword": "화재",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "울산소방본부, 겨울철 화재예방대책 추진…취약시설 안전관리 강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849162"
+        }
+      },
+      {
+        "keyword": "이찬원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이찬원 팬클럽, 생일 맞아 청각장애인 위해 3,445만원 후원",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737647"
+        }
+      },
+      {
+        "keyword": "골키퍼",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘한국은 AG 금메달로 병역 혜택 받는데…’ 아시아 최고 GK는 군대 간다 ‘10경기 2실점’ 기록하던 중 이란군 입대",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100108"
+        }
+      },
+      {
+        "keyword": "정전",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "거제서 전신주 파손…아파트 1천200여세대 한때 정전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031039100052"
+        }
+      },
+      {
+        "keyword": "자폭형 무인 항공기",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "북한 무인기 공개‥남북 드론 전력차 해법은?",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862218_37004.html"
+        }
+      },
+      {
+        "keyword": "lyon",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"On a le sentiment que nos leaders grandissent\", retient Dumortier",
+          "source": "Rugbyrama",
+          "url": "https://www.rugbyrama.fr/2026/10/31/top-14-on-a-le-sentiment-que-nos-leaders-grandissent-ethan-dumortier-lyon-revient-sur-la-victoire-du-lou-qui-a-pris-du-temps-a-se-dessiner-13630025.php"
+        }
+      },
+      {
+        "keyword": "gs건설",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "건설사 해킹에 부각된 입주민 정보보안…아파트 첨단화의 그늘",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261031047400003"
+        }
+      },
+      {
+        "keyword": "테일러 프리츠",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Olivia Jade Reportedly Has a New Man in the Picture, & It’s Not Taylor Fritz",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-jade-reportedly-man-picture-190624887.html"
         }
       }
     ]
