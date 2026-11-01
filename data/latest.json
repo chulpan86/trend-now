@@ -1,106 +1,98 @@
 {
-  "timestamp": "2026-11-02T04:57:48.841410+09:00",
-  "label": "04:57",
+  "timestamp": "2026-11-02T08:21:32.738370+09:00",
+  "label": "08:21",
   "items": [
     {
-      "keyword": "리버풀 대 아스널",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "김호령",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "'맨시티 제치고 선두 탈환' 디펜딩 챔피언 위엄 증명했다! 아스날, 하베르츠 결승골→리버풀 1-0 격파...14년 만에 안필드 원정 승리",
-        "source": "MHN스포츠",
-        "url": "https://mhnse.com/news/articleView.html?idxno=1660457"
+        "title": "KIA 가을 최악 악몽 주인공… FA 가치 시험대 오른다, 설마 이렇게 KIA 떠날까",
+        "source": "SPOTV NEWS",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016924"
       }
     },
     {
-      "keyword": "뱀",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "휴고 칼데라노",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "운전대서 뱀이 ‘불쑥’…고속도로 달리던 운전자 ‘깜짝’",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20261101/134945969/1"
-      }
-    },
-    {
-      "keyword": "liverpool vs arsenal",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Liverpool 0-1 Arsenal LIVE: Kai Havertz scores winner in rare Anfield win for Gunners",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cqev37r8jvvxt"
-      }
-    },
-    {
-      "keyword": "창신메모리테크놀로지",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "中CXMT \"4F²기반 6세대 D램 시제품 검증 완료…점진적 양산\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261101023300089"
-      }
-    },
-    {
-      "keyword": "레알마드리드",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'무리뉴는 해냈다' 레알 마드리드에서 벌어진 놀라운 변화...레알 5연승에 엘 클라시코 승리까지 '완벽한 변신' - 머니투데이",
+        "title": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/10/31/202610311210771338O"
+        "url": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O"
       }
     },
     {
-      "keyword": "킬리안 음바페",
+      "keyword": "비트코인",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[특파원 칼럼/김철중]음바페가 마주한 中 ‘소비자 민족주의’",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Opinion/article/all/20261101/134946791/2"
+        "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6862373_36925.html"
       }
     },
     {
-      "keyword": "ลิเวอร์พูล พบ อาร์เซนอล",
+      "keyword": "구미시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ อาร์เซนอล บอลวันนี้ (1 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
-        "source": "Thairath.co.th",
-        "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2968279"
+        "title": "창업안착 100개사·미래기술 60개사…구미시, 4대 성과목표·6대 추진 전략 완성",
+        "source": "아주경제",
+        "url": "https://www.ajunews.com/view/20261101203439139"
       }
     },
     {
-      "keyword": "스타링크",
+      "keyword": "사학연금",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "파업",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "아시아 각국 국방 당국, 스타링크 통신 제한 전례에 상업 위성 계약 재검토 착수",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261102030820200420990b2dc5_1"
+        "title": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261101014100053"
       }
     },
     {
-      "keyword": "프리미어리그 순위",
+      "keyword": "미국 중간선거",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "美, 5200만명 사전투표 역대 최대… 민주당원 비율이 11%p 더 높아",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/11/02/J7MG2TX5ABG4DKTJFURO3HROLQ/"
+      }
+    },
+    {
+      "keyword": "신인감독 김연경",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "김연경 큰 실망…자존심 다 걸고 핑크스파이더스 맞대결",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261101/134944838/1"
+      }
+    },
+    {
+      "keyword": "지소연",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "유럽 ​​축구 경기 일정: 리버풀 vs. 아스널, 유벤투스 vs. 나폴리",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/lich-thi-dau-bong-da-chau-au-liverpool-dai-chien-arsenal-juventus-doi-dau-napoli"
+        "title": "지소연 소신 발언! \"손흥민 선수가 안쓰럽다…고참들 단합 중요해, 후배들이 똑같이 보고 배운다\"→정답 내놨다",
+        "source": "엑스포츠뉴스",
+        "url": "https://www.xportsnews.com/article/2213907"
       }
     },
     {
-      "keyword": "라치오",
+      "keyword": "klasemen liverpool vs arsenal",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": {
-        "title": "세리에 A 라치오 대 칼리아리 경기 예측",
-        "source": "Laodong.vn",
-        "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-lazio-vs-cagliari-tai-serie-a-1792912.ldo"
-      }
+      "news": null
     }
   ]
 }

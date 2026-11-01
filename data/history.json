@@ -728,5 +728,103 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-02T08:21:32.738370+09:00",
+    "label": "08:21",
+    "items": [
+      {
+        "keyword": "김호령",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "KIA 가을 최악 악몽 주인공… FA 가치 시험대 오른다, 설마 이렇게 KIA 떠날까",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016924"
+        }
+      },
+      {
+        "keyword": "휴고 칼데라노",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O"
+        }
+      },
+      {
+        "keyword": "비트코인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862373_36925.html"
+        }
+      },
+      {
+        "keyword": "구미시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "창업안착 100개사·미래기술 60개사…구미시, 4대 성과목표·6대 추진 전략 완성",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261101203439139"
+        }
+      },
+      {
+        "keyword": "사학연금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "파업",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261101014100053"
+        }
+      },
+      {
+        "keyword": "미국 중간선거",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美, 5200만명 사전투표 역대 최대… 민주당원 비율이 11%p 더 높아",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/11/02/J7MG2TX5ABG4DKTJFURO3HROLQ/"
+        }
+      },
+      {
+        "keyword": "신인감독 김연경",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김연경 큰 실망…자존심 다 걸고 핑크스파이더스 맞대결",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134944838/1"
+        }
+      },
+      {
+        "keyword": "지소연",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "지소연 소신 발언! \"손흥민 선수가 안쓰럽다…고참들 단합 중요해, 후배들이 똑같이 보고 배운다\"→정답 내놨다",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2213907"
+        }
+      },
+      {
+        "keyword": "klasemen liverpool vs arsenal",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      }
+    ]
   }
 ]
