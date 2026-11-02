@@ -1,101 +1,97 @@
 {
-  "timestamp": "2026-11-02T12:23:31.245508+09:00",
-  "label": "12:23",
+  "timestamp": "2026-11-02T20:49:33.401046+09:00",
+  "label": "20:49",
   "items": [
     {
-      "keyword": "골든 스테이트 대 la 클리퍼스",
+      "keyword": "은마아파트",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Clippers vs. Warriors (Nov 1, 2026) Live Odds, Player Props, and more",
-        "source": "ESPN",
-        "url": "https://www.espn.com/nba/odds/_/gameId/401909905"
+        "title": "'대치동 은마' 100억대 펜트하우스 경쟁률 0.18대 1…조합원들 뜻밖의 선택",
+        "source": "땅집고",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/11/02/2026110201698.html"
       }
     },
     {
-      "keyword": "휴고 칼데라 노",
+      "keyword": "민호",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "남자탁구 에이스 장우진, 한국 탁구 사상 첫 WTT 챔피언스 우승",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6862453_36946.html"
+        "title": "[DM왔어요] 샤이니 민호 마라톤 완주에 ‘반칙 논란’…\"뒤에서 누가 밀어줬다?\" 外",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH2026110218475879P"
       }
     },
     {
-      "keyword": "한남더힐 아파트",
+      "keyword": "이미숙",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'190억' 한남더힐 산 옥주현, 빚은 300억?…변호사가 본 '경매' 이유 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/estate/2026/11/02/2026110207514776285"
+        "title": "\"집 다 날아갔다\"…이미숙, 주식 손실 얼마길래",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611020422H"
       }
     },
     {
-      "keyword": "계주",
+      "keyword": "대구 한국가스공사 대 안양 정관장",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "한학자",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"계주 위험하다\" 학부모 민원에 운동회 경기 취소…아이들 울상",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6338961"
+        "title": "[단독] ‘병 보석’ 한학자, 수시로 병원 빠져나와 ‘통일교 궁전행’",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12326043"
       }
     },
     {
-      "keyword": "리노베이션",
+      "keyword": "rashid khan",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Provo Community Church gathering funds for renovation, restoration",
-        "source": "KSL News",
-        "url": "https://www.ksl.com/article/51638767/provo-community-church-gathering-funds-for-renovation-restoration"
+        "title": "Kathmandu Gorkhas chase down 181-run target with two balls to spare",
+        "source": "Nepalnews.com",
+        "url": "https://english.nepalnews.com/s/sports/kathmandu-gorkhas-chase-down-181-run-target-with-two-balls-to-spare/"
       }
     },
     {
-      "keyword": "정의선",
+      "keyword": "하이브",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "174만대 테슬라 잡는다…현대차·GM, '2028년 자율주행 대전'",
-        "source": "IT조선",
-        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173081"
+        "title": "하이브, 사원 여권·카드번호 등 개인정보 유출‥\"깊이 사과\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6862537_36932.html"
       }
     },
     {
-      "keyword": "가덕도",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "하남시",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합)",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22003000232"
+        "title": "2018년 불소 검출 8년 공방…하남시, 한강 폐천부지 소송 1심 승소",
+        "source": "인천일보",
+        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335720"
       }
     },
     {
-      "keyword": "트리니티 항공",
+      "keyword": "연구",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": null
     },
     {
-      "keyword": "lg화학",
+      "keyword": "김경란",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fvafoGLxon"
-      }
-    },
-    {
-      "keyword": "영광",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "한우·자동차 50% 할인한다고? 소비 대축제 '코그페' 시작!",
-        "source": "네이버페이 머니스토리",
-        "url": "https://story.pay.naver.com/content/3834"
+        "title": "\"나 가거든 꼭 재단 들러줘\" 도열한 직원들 '오열' 배웅 [현장영상]",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6862567_36918.html"
       }
     }
   ]
