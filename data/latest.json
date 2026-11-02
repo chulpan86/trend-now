@@ -1,98 +1,102 @@
 {
-  "timestamp": "2026-11-02T08:21:32.738370+09:00",
-  "label": "08:21",
+  "timestamp": "2026-11-02T12:23:31.245508+09:00",
+  "label": "12:23",
   "items": [
     {
-      "keyword": "김호령",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "골든 스테이트 대 la 클리퍼스",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "KIA 가을 최악 악몽 주인공… FA 가치 시험대 오른다, 설마 이렇게 KIA 떠날까",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016924"
+        "title": "Clippers vs. Warriors (Nov 1, 2026) Live Odds, Player Props, and more",
+        "source": "ESPN",
+        "url": "https://www.espn.com/nba/odds/_/gameId/401909905"
       }
     },
     {
-      "keyword": "휴고 칼데라노",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "휴고 칼데라 노",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O"
-      }
-    },
-    {
-      "keyword": "비트코인",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
+        "title": "남자탁구 에이스 장우진, 한국 탁구 사상 첫 WTT 챔피언스 우승",
         "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6862373_36925.html"
+        "url": "https://imnews.imbc.com/news/2026/sports/article/6862453_36946.html"
       }
     },
     {
-      "keyword": "구미시",
+      "keyword": "한남더힐 아파트",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'190억' 한남더힐 산 옥주현, 빚은 300억?…변호사가 본 '경매' 이유 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/estate/2026/11/02/2026110207514776285"
+      }
+    },
+    {
+      "keyword": "계주",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"계주 위험하다\" 학부모 민원에 운동회 경기 취소…아이들 울상",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6338961"
+      }
+    },
+    {
+      "keyword": "리노베이션",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "창업안착 100개사·미래기술 60개사…구미시, 4대 성과목표·6대 추진 전략 완성",
-        "source": "아주경제",
-        "url": "https://www.ajunews.com/view/20261101203439139"
+        "title": "Provo Community Church gathering funds for renovation, restoration",
+        "source": "KSL News",
+        "url": "https://www.ksl.com/article/51638767/provo-community-church-gathering-funds-for-renovation-restoration"
       }
     },
     {
-      "keyword": "사학연금",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "파업",
+      "keyword": "정의선",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261101014100053"
+        "title": "174만대 테슬라 잡는다…현대차·GM, '2028년 자율주행 대전'",
+        "source": "IT조선",
+        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173081"
       }
     },
     {
-      "keyword": "미국 중간선거",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "美, 5200만명 사전투표 역대 최대… 민주당원 비율이 11%p 더 높아",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/11/02/J7MG2TX5ABG4DKTJFURO3HROLQ/"
-      }
-    },
-    {
-      "keyword": "신인감독 김연경",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김연경 큰 실망…자존심 다 걸고 핑크스파이더스 맞대결",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20261101/134944838/1"
-      }
-    },
-    {
-      "keyword": "지소연",
+      "keyword": "가덕도",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "지소연 소신 발언! \"손흥민 선수가 안쓰럽다…고참들 단합 중요해, 후배들이 똑같이 보고 배운다\"→정답 내놨다",
-        "source": "엑스포츠뉴스",
-        "url": "https://www.xportsnews.com/article/2213907"
+        "title": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합)",
+        "source": "국제신문",
+        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22003000232"
       }
     },
     {
-      "keyword": "klasemen liverpool vs arsenal",
+      "keyword": "트리니티 항공",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": null
+    },
+    {
+      "keyword": "lg화학",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/fvafoGLxon"
+      }
+    },
+    {
+      "keyword": "영광",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "한우·자동차 50% 할인한다고? 소비 대축제 '코그페' 시작!",
+        "source": "네이버페이 머니스토리",
+        "url": "https://story.pay.naver.com/content/3834"
+      }
     }
   ]
 }
