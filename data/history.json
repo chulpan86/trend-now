@@ -606,5 +606,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-03T12:09:28.147989+09:00",
+    "label": "12:09",
+    "items": [
+      {
+        "keyword": "비야 디",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110210431"
+        }
+      },
+      {
+        "keyword": "상속세",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "상속세 아끼려면? “집 팔아서 현금으로 주세요”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628181"
+        }
+      },
+      {
+        "keyword": "지밀 레니 얼",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1"
+        }
+      },
+      {
+        "keyword": "저기압",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "제31호 태풍 '인파' 심상찮은 진로 변화…한반도 영향 미칠까",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261101580312"
+        }
+      },
+      {
+        "keyword": "띠별 운세",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[오늘의 운세] 2026년 11월 03일 별자리 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611030000000002"
+        }
+      },
+      {
+        "keyword": "춘천 마라톤",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "금주·노카페인·턱걸이… 노력했지만 서브스리 실패",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/GHA2PLGXTJHPBD7EVL6LCGBOM4/"
+        }
+      },
+      {
+        "keyword": "박지선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "故박지선, 6주기에 동기들 모였다... 양상국 \"잘하고 있으니 응원 많이해줘\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/02/HA2WMZJZG44WGNTGMUYGCODEMM/"
+        }
+      },
+      {
+        "keyword": "말자쇼",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김원효♥심진화, 영화관서 결혼한 이유…“아내 한마디 듣고 바로 전화”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1"
+        }
+      },
+      {
+        "keyword": "lg디스플레이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "LG디스플레이, DMZ 두루미 서식지 조성 나선다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611031059001"
+        }
+      },
+      {
+        "keyword": "양주시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "양주시, 안전한 통학로 조성사업 추진",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261103000425"
+        }
+      }
+    ]
   }
 ]
