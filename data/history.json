@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-11-02T12:23:31.245508+09:00",
-    "label": "12:23",
-    "items": [
-      {
-        "keyword": "골든 스테이트 대 la 클리퍼스",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Clippers vs. Warriors (Nov 1, 2026) Live Odds, Player Props, and more",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/odds/_/gameId/401909905"
-        }
-      },
-      {
-        "keyword": "휴고 칼데라 노",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "남자탁구 에이스 장우진, 한국 탁구 사상 첫 WTT 챔피언스 우승",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6862453_36946.html"
-        }
-      },
-      {
-        "keyword": "한남더힐 아파트",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'190억' 한남더힐 산 옥주현, 빚은 300억?…변호사가 본 '경매' 이유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/11/02/2026110207514776285"
-        }
-      },
-      {
-        "keyword": "계주",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"계주 위험하다\" 학부모 민원에 운동회 경기 취소…아이들 울상",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6338961"
-        }
-      },
-      {
-        "keyword": "리노베이션",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Provo Community Church gathering funds for renovation, restoration",
-          "source": "KSL News",
-          "url": "https://www.ksl.com/article/51638767/provo-community-church-gathering-funds-for-renovation-restoration"
-        }
-      },
-      {
-        "keyword": "정의선",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "174만대 테슬라 잡는다…현대차·GM, '2028년 자율주행 대전'",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173081"
-        }
-      },
-      {
-        "keyword": "가덕도",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22003000232"
-        }
-      },
-      {
-        "keyword": "트리니티 항공",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "lg화학",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fvafoGLxon"
-        }
-      },
-      {
-        "keyword": "영광",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "한우·자동차 50% 할인한다고? 소비 대축제 '코그페' 시작!",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3834"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-02T20:49:33.401046+09:00",
     "label": "20:49",
     "items": [
@@ -513,6 +411,104 @@
           "title": "남편 약상자서 현금 3000만원…모르고 버렸다가 되찾아",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20261103/134956777/2"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-04T03:48:33.424636+09:00",
+    "label": "03:48",
+    "items": [
+      {
+        "keyword": "코너 맥그리거",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/"
+        }
+      },
+      {
+        "keyword": "종합부동산세",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112"
+        }
+      },
+      {
+        "keyword": "대리기사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "한국항공우주산업",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "KAI, 수출 호조에 3분기 매출 52% 증가…영업익도 32% 증가",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261103148500003"
+        }
+      },
+      {
+        "keyword": "폰지 사기",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992"
+        }
+      },
+      {
+        "keyword": "midterm elections 2026",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "How to watch live 2026 midterm election results on CBS News",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/"
+        }
+      },
+      {
+        "keyword": "small business",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race"
+        }
+      },
+      {
+        "keyword": "사토시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
+        }
+      },
+      {
+        "keyword": "최미나수",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "이재현",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[포토] 김성윤 '다 잡았다' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321404496971"
         }
       }
     ]

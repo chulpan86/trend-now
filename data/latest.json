@@ -1,105 +1,97 @@
 {
-  "timestamp": "2026-11-03T20:28:07.699358+09:00",
-  "label": "20:28",
+  "timestamp": "2026-11-04T03:48:33.424636+09:00",
+  "label": "03:48",
   "items": [
     {
-      "keyword": "가시와 레이솔 대 대전",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "코너 맥그리거",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'친정팀' 가시와 상대하는 황선홍 감독 로테이션 '승부수', 박규현-김진야-김준범-주앙빅토르 '출격'[ACLE 현장 라인업]",
+        "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/11/03/HFQTSMRVGVSDQNRYGFRTIOBZMM/"
+        "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/"
       }
     },
     {
-      "keyword": "부산 kcc 대 고양 소노",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[사진] 켐바오, 과감한 3점슛 시도",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/sports_photo/2026/11/03/ME3GMMRZMVRWGYZYMQ4WMMLGHE/"
-      }
-    },
-    {
-      "keyword": "jesus de miguel",
+      "keyword": "종합부동산세",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Tenerife striker De Miguel dies after on-field collision",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/articles/ck62yvz046pjo"
+        "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112"
       }
     },
     {
-      "keyword": "야구중계",
+      "keyword": "대리기사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": null
+    },
+    {
+      "keyword": "한국항공우주산업",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20261103/134957943/1"
+        "title": "KAI, 수출 호조에 3분기 매출 52% 증가…영업익도 32% 증가",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261103148500003"
       }
     },
     {
-      "keyword": "김현수",
+      "keyword": "폰지 사기",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992"
+      }
+    },
+    {
+      "keyword": "midterm elections 2026",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[사진]KT 김현수, '포스트시즌 통산 최다 루타 신기록'",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/sports_photo/2026/11/03/GA4WINJVMJSDINZQGBTGIZJZMI/"
+        "title": "How to watch live 2026 midterm election results on CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/"
       }
     },
     {
-      "keyword": "보증금",
+      "keyword": "small business",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "경기도의회, 청년 주거지원 100억 삭감…조례로 되살리나",
-        "source": "서울경제TV",
-        "url": "https://www.sentv.co.kr/article/view/sentv202611030191"
+        "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race"
       }
     },
     {
-      "keyword": "samsung vs kt",
+      "keyword": "사토시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[Photo] Samsung manager Park Jin-man trusts Choi Hyoung-woo",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/DOQ6XFFF6FCILIDP65GIIUIVJE/"
+        "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
       }
     },
     {
-      "keyword": "시사회",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘변이’ 4일 개봉…시사회 호평",
-        "source": "BNT뉴스",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202611030092"
-      }
+      "keyword": "최미나수",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
     },
     {
-      "keyword": "박세리",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "박세리 \"첫째 주 숨막혀…1번 월급, 2번 세금\" 은퇴 후 '이것' 못 피해",
-        "source": "이코노미스트",
-        "url": "https://economist.co.kr/article/view/ecn202611030026"
-      }
-    },
-    {
-      "keyword": "약",
+      "keyword": "이재현",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "남편 약상자서 현금 3000만원…모르고 버렸다가 되찾아",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20261103/134956777/2"
+        "title": "[포토] 김성윤 '다 잡았다' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321404496971"
       }
     }
   ]
