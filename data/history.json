@@ -512,5 +512,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-04T08:46:29.584807+09:00",
+    "label": "08:46",
+    "items": [
+      {
+        "keyword": "국민연금공단",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "공무원연금·국민연금·사학연금, 국제협력 강화한다",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026110315233502886"
+        }
+      },
+      {
+        "keyword": "더중앙플러스",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"회사 다닐 때 어떻게 살았나\"…14억 모아 은퇴한 삼성맨의 일상 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/04/2026110314162668750"
+        }
+      },
+      {
+        "keyword": "오현규",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "韓 축구 최고 희소식! '국가대표 공격수' 오현규, 한국인 21호 프리미어리거 가능성…\"중앙 공격진 보강 위한 계획의 일환\"",
+          "source": "Nate News",
+          "url": "https://m.news.nate.com/view/20261103n10622"
+        }
+      },
+      {
+        "keyword": "xrp 레저",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "스테이블코인을 허락 없이 발행?...XRP 레저, 권한 허점 긴급 봉쇄",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/267059"
+        }
+      },
+      {
+        "keyword": "박성현",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "박성현, KLPGA 시드순위전 첫날 75위…안소현·유효주는?",
+          "source": "골프한국",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022538"
+        }
+      },
+      {
+        "keyword": "파운드리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=64709"
+        }
+      },
+      {
+        "keyword": "안젤리나 졸리",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "안젤리나 졸리가 11월이 되자마자 꺼내입은 검정 코트",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/11/03/%EC%95%88%EC%A0%A4%EB%A6%AC%EB%82%98-%EC%A1%B8%EB%A6%AC-%EB%B0%94%EB%A1%9C-%EC%96%B4%EC%A0%9C-%EC%9E%85%EC%9D%80-%EA%B2%80%EC%A0%95-%EC%BD%94%ED%8A%B8-%EB%A3%A9/"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "IonQ Just Dropped 32% In a Month: Is IONQ Stock Hopeless or Ready for a Rebound?",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-just-dropped-32-month-200534270.html"
+        }
+      },
+      {
+        "keyword": "나스닥 지수",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "기술주 반등에 나스닥 0.83%↑…중간선거 앞두고 혼조 [뉴욕증시 브리핑]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026110442136"
+        }
+      },
+      {
+        "keyword": "욕망의 덫",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“ 내가 궁금해? ” 장서희를 찾아간 전혜원 [욕망의 덫] | KBS 261103 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026179150-01-000_MFSC4&program_code=T2026-0209&program_id=PS-2026179150-01-000&section_code=03&broadcast_complete_yn=N&section_id=27853"
+        }
+      }
+    ]
   }
 ]
