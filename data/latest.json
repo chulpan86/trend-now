@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-06T00:55:22.213926+09:00",
-  "label": "00:55",
+  "timestamp": "2026-11-06T06:41:33.597144+09:00",
+  "label": "06:41",
   "items": [
     {
-      "keyword": "나스닥",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "주식",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "30조 발전소·36조 수주잔고…대미 AI 인프라, 美 의회 변수 노출",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/11/05/2026110580127.html"
+        "title": "데이터센터 변동성 속 약세 시 매수할 IT 서비스 주식",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-2162087"
       }
     },
     {
-      "keyword": "상장지수펀드",
+      "keyword": "김혜수",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "ETF 왕좌 지킨 KODEX200…개미는 TIGER 미국S&P500에 ‘우르르’",
-        "source": "쿠키뉴스",
-        "url": "https://www.kukinews.com/article/view/kuk202611030175"
+        "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20261105580023"
       }
     },
     {
-      "keyword": "제니",
+      "keyword": "뉴스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "‘분노의 질주’ 속 수키로 변신한 제니, 붉은색 차량 앞 파격적인 레트로 룩",
-        "source": "스포츠서울",
-        "url": "https://www.sportsseoul.com/news/read/1646060"
+        "title": "이문섭 전 광주시의장, 경기 광주시자원봉사센터 첫 민간 이사장 선임",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20261105580320"
       }
     },
     {
-      "keyword": "퍽즈",
+      "keyword": "두산에너 빌리티",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "두산에너빌리티 SMR 핵심 기기 수주 본격화, 미국 '블루웨이브'에도 원전 지원 지속 기대",
+        "source": "비즈니스포스트",
+        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451277"
+      }
+    },
+    {
+      "keyword": "lg에너지솔루션",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[단독] LG에너지솔루션, 3차 ESS 중앙계약입찰 불참...‘삼성SDI·SK온’ 2파전 압축",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=374420"
+      }
+    },
+    {
+      "keyword": "1기 신도시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "'롤드컵 탈락' G2, 정글러 '스큐몬드' 결별하나",
-        "source": "데일리e스포츠",
-        "url": "https://www.dailyesports.com/view.php?ud=202611050654018539b91e133c1f_27"
+        "title": "샛별·양지·더시범 시공사 입찰 채비…분당 선도지구 수주전 초읽기",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20110022"
       }
     },
     {
-      "keyword": "soxx",
+      "keyword": "현대자동차",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Why is Direxion Daily Semiconductor Bear 3X Shares surging today?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bear-3x-shares-surging-today-93CH-5005043"
+        "title": "[포토] 수소연료전지 기반 개방형 플랫폼",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261104000396"
       }
     },
     {
-      "keyword": "서정진",
+      "keyword": "농장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "서정진 셀트리온 회장, 인공장기 전망 물었더니 “전공 바꿔라”",
-        "source": "비즈한국",
-        "url": "https://bizhankook.com/articles/celltrion-chairman-ai-organ-research.html"
+        "title": "연천 산란계 농장서 올겨울 첫 고병원성 AI...전국 방역 강화",
+        "source": "YTN 사이언스",
+        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611051103342160"
       }
     },
     {
-      "keyword": "인천 유나이티드 fc",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘3년 만의 ACL 도전’ 이겨도 웃지 못하는 인천유나이티드…대표 리스크에 흔들리는 2027 시즌",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336054"
-      }
-    },
-    {
-      "keyword": "유현주",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "미녀 골퍼 유현주, 강호동 전현무와 한식구 되나 [공식입장]",
-        "source": "뉴스엔",
-        "url": "https://www.newsen.com/news_view.php?uid=202611050859555710"
-      }
-    },
-    {
-      "keyword": "허태정",
+      "keyword": "장동현",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "대전 시내버스, 공사에 밀리고 대책 없고…허태정표 교통행정 '갈팡질팡'",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20261105000749"
+        "title": "SK㈜, SK에코플랜트 완전 자회사화 추진… IPO 접고 반도체·AI 사업 통합 속도",
+        "source": "제민일보",
+        "url": "https://www.jemin.com/news/articleView.html?idxno=846213"
       }
     },
     {
-      "keyword": "쿠칭시티",
+      "keyword": "매일노동뉴스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "강원FC, 말레이시아 쿠칭에 0-2 패배…조 최하위로 추락",
+        "title": "HD현대중공업, 하청노조와 첫 상견례…노란봉투법 시행 8개월만",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261105185300007"
+        "url": "https://www.yna.co.kr/view/AKR20261104165700057"
       }
     }
   ]
