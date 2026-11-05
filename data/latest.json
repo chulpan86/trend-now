@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-11-05T09:37:36.860016+09:00",
-  "label": "09:37",
+  "timestamp": "2026-11-05T16:32:32.193506+09:00",
+  "label": "16:32",
   "items": [
     {
-      "keyword": "kia 타이거즈",
+      "keyword": "경제",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "[속보] 코스피, 5.28% 하락 마감...삼성전자 7%,SK하이닉스 9% 폭락",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/money/2026/11/05/6PD2KSQWWRGY7HF4YPOBLTDFLA/"
+      }
+    },
+    {
+      "keyword": "양민혁",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "\"4선발 가능\", \"40도루 예상\" 김도영만 보는 게 아니었다…美가 주목한 KBO 스타, 대체 누구길래",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/11/03/GEYWKNRSGA4GKMJQMVRDKMZZHE/"
+        "title": "이기혁·양민혁·박승수...태극마크를 잃은 자의 그라운드 [이영규의 비욘더매치]",
+        "source": "더팩트",
+        "url": "https://news.tf.co.kr/read/soccer/2384237.htm"
       }
     },
     {
-      "keyword": "젤다 의 전설 시간 의 오카리나",
+      "keyword": "제네시스 g90",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Why Nintendo is betting on a nearly 30-year-old game remake to win the holiday",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/04/tech/nintendo-link-legend-of-zelda-ocarina-gta"
+        "title": "\"9,000만 원 싸게 산다고?\"... 1억 9,360만 원→‘4천만 원대’로 뚝 떨어진 프리미엄 세단",
+        "source": "토픽트리",
+        "url": "https://topictree.co.kr/automobiles/news/2020-bmw-730d-used-luxury-sedan/"
       }
     },
     {
-      "keyword": "매일경제신문",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "매경이 전하는 세상의 지식 (매-세-지, 11월 5일)",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/society/12196696"
-      }
-    },
-    {
-      "keyword": "매일경제",
+      "keyword": "박유천",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "서울 이어 분당 국평도 30억 턱밑…포모 확산 속 청약쏠림 뚜렷",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/12197870"
+        "title": "박유천, 日 고가 디너쇼 논란… 1인 45만원",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/KRDBP62XCBDDXIGPEBOKWD3ZW4/"
       }
     },
     {
-      "keyword": "이혼 소송",
+      "keyword": "롯데몰 벨리타운 청량리",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "장모 퇴직금 보태서 산 6억 집, 18억 되자…이혼 소송 남편 \"'옛 공시가'로 나누자\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6342295"
+        "title": "\"크다고 다 잘되나\"…알짜만 모은 '컴팩트몰' 짓는 이유",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261103_0003852474"
       }
     },
     {
-      "keyword": "hd현대중공업",
+      "keyword": "기뢰",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "HD현대중공업, 하청노조와 첫 상견례…노란봉투법 시행 8개월만",
+        "title": "청해부대, 美 파병 요구에 화답…호르무즈 작전영역 2배로 확대",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11629041"
+      }
+    },
+    {
+      "keyword": "jtbc",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "데블스플랜3",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "6번째 우승 도전 장동민 \"살아있는 한 서바이벌 은퇴는 없죠\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261104165700057"
+        "url": "https://www.yna.co.kr/view/AKR20261105097500005"
       }
     },
     {
-      "keyword": "이자",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"우대금리 낮춰 이자장사\" 지적에…먼저 움직인 우리은행 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/finance/2026/11/04/2026110415495567234"
-      }
-    },
-    {
-      "keyword": "김포시",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "시민이 바꾸는 김포, 자원봉사자대학 6기 졸업식 성료",
-        "source": "일간투데이",
-        "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=801496"
-      }
-    },
-    {
-      "keyword": "dl이앤씨",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[DL이앤씨 인사 줌인] '허수은' 토목 첫 여성 임원, 선별수주 시험대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VNgBjPGhQz"
-      }
-    },
-    {
-      "keyword": "엔씨",
+      "keyword": "진쓰레블 사망",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "엔씨, '길드워' 20년 만의 신규 콘텐츠 '애프터라이프' 내년 1월 출시",
-        "source": "비즈니스포스트",
-        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451198"
+        "title": "“진짜 힐링 유튜버였는데 안 믿겨”…자전거 세계일주 한국인, 볼리비아 도로서 참변",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/society/12198309"
+      }
+    },
+    {
+      "keyword": "west indies vs bangladesh",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Jangoo, Wickham soften blow of Taskin's early strikes",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-2nd-test-1553296/match-report-1"
       }
     }
   ]

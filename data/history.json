@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-11-04T03:48:33.424636+09:00",
-    "label": "03:48",
-    "items": [
-      {
-        "keyword": "코너 맥그리거",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/"
-        }
-      },
-      {
-        "keyword": "종합부동산세",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112"
-        }
-      },
-      {
-        "keyword": "대리기사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "한국항공우주산업",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "KAI, 수출 호조에 3분기 매출 52% 증가…영업익도 32% 증가",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261103148500003"
-        }
-      },
-      {
-        "keyword": "폰지 사기",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992"
-        }
-      },
-      {
-        "keyword": "midterm elections 2026",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "How to watch live 2026 midterm election results on CBS News",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/"
-        }
-      },
-      {
-        "keyword": "small business",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race"
-        }
-      },
-      {
-        "keyword": "사토시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
-        }
-      },
-      {
-        "keyword": "최미나수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      },
-      {
-        "keyword": "이재현",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[포토] 김성윤 '다 잡았다' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321404496971"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-04T08:46:29.584807+09:00",
     "label": "08:46",
     "items": [
@@ -623,6 +525,108 @@
           "title": "엔씨, '길드워' 20년 만의 신규 콘텐츠 '애프터라이프' 내년 1월 출시",
           "source": "비즈니스포스트",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451198"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-05T16:32:32.193506+09:00",
+    "label": "16:32",
+    "items": [
+      {
+        "keyword": "경제",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[속보] 코스피, 5.28% 하락 마감...삼성전자 7%,SK하이닉스 9% 폭락",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/money/2026/11/05/6PD2KSQWWRGY7HF4YPOBLTDFLA/"
+        }
+      },
+      {
+        "keyword": "양민혁",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "이기혁·양민혁·박승수...태극마크를 잃은 자의 그라운드 [이영규의 비욘더매치]",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/soccer/2384237.htm"
+        }
+      },
+      {
+        "keyword": "제네시스 g90",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"9,000만 원 싸게 산다고?\"... 1억 9,360만 원→‘4천만 원대’로 뚝 떨어진 프리미엄 세단",
+          "source": "토픽트리",
+          "url": "https://topictree.co.kr/automobiles/news/2020-bmw-730d-used-luxury-sedan/"
+        }
+      },
+      {
+        "keyword": "박유천",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "박유천, 日 고가 디너쇼 논란… 1인 45만원",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/KRDBP62XCBDDXIGPEBOKWD3ZW4/"
+        }
+      },
+      {
+        "keyword": "롯데몰 벨리타운 청량리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"크다고 다 잘되나\"…알짜만 모은 '컴팩트몰' 짓는 이유",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852474"
+        }
+      },
+      {
+        "keyword": "기뢰",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "청해부대, 美 파병 요구에 화답…호르무즈 작전영역 2배로 확대",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629041"
+        }
+      },
+      {
+        "keyword": "jtbc",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "데블스플랜3",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "6번째 우승 도전 장동민 \"살아있는 한 서바이벌 은퇴는 없죠\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261105097500005"
+        }
+      },
+      {
+        "keyword": "진쓰레블 사망",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“진짜 힐링 유튜버였는데 안 믿겨”…자전거 세계일주 한국인, 볼리비아 도로서 참변",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12198309"
+        }
+      },
+      {
+        "keyword": "west indies vs bangladesh",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Jangoo, Wickham soften blow of Taskin's early strikes",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-2nd-test-1553296/match-report-1"
         }
       }
     ]
