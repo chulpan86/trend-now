@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-11-05T16:32:32.193506+09:00",
-    "label": "16:32",
-    "items": [
-      {
-        "keyword": "경제",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[속보] 코스피, 5.28% 하락 마감...삼성전자 7%,SK하이닉스 9% 폭락",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/11/05/6PD2KSQWWRGY7HF4YPOBLTDFLA/"
-        }
-      },
-      {
-        "keyword": "양민혁",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "이기혁·양민혁·박승수...태극마크를 잃은 자의 그라운드 [이영규의 비욘더매치]",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/soccer/2384237.htm"
-        }
-      },
-      {
-        "keyword": "제네시스 g90",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"9,000만 원 싸게 산다고?\"... 1억 9,360만 원→‘4천만 원대’로 뚝 떨어진 프리미엄 세단",
-          "source": "토픽트리",
-          "url": "https://topictree.co.kr/automobiles/news/2020-bmw-730d-used-luxury-sedan/"
-        }
-      },
-      {
-        "keyword": "박유천",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "박유천, 日 고가 디너쇼 논란… 1인 45만원",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/KRDBP62XCBDDXIGPEBOKWD3ZW4/"
-        }
-      },
-      {
-        "keyword": "롯데몰 벨리타운 청량리",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"크다고 다 잘되나\"…알짜만 모은 '컴팩트몰' 짓는 이유",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852474"
-        }
-      },
-      {
-        "keyword": "기뢰",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "청해부대, 美 파병 요구에 화답…호르무즈 작전영역 2배로 확대",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11629041"
-        }
-      },
-      {
-        "keyword": "jtbc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "데블스플랜3",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "6번째 우승 도전 장동민 \"살아있는 한 서바이벌 은퇴는 없죠\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105097500005"
-        }
-      },
-      {
-        "keyword": "진쓰레블 사망",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“진짜 힐링 유튜버였는데 안 믿겨”…자전거 세계일주 한국인, 볼리비아 도로서 참변",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12198309"
-        }
-      },
-      {
-        "keyword": "west indies vs bangladesh",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Jangoo, Wickham soften blow of Taskin's early strikes",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-2nd-test-1553296/match-report-1"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-06T00:55:22.213926+09:00",
     "label": "00:55",
     "items": [
@@ -624,6 +522,108 @@
           "source": "뉴스타운",
           "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721088"
         }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-07T06:52:15.470620+09:00",
+    "label": "06:52",
+    "items": [
+      {
+        "keyword": "황인범",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "투입 2분 만에 도움…황인범, 모레노 앞 매력 발산",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261105233057CdZ"
+        }
+      },
+      {
+        "keyword": "카를로스 알카라스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "알카라스, 베레티니 부상 기권으로 파리 마스터스 8강…프리츠와 격돌",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2644971?trc=main_list_news"
+        }
+      },
+      {
+        "keyword": "두산에너빌리티",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[리포트 브리핑]두산에너빌리티, '미국 신규 원전 건설 가속화 수혜주' 목표가 120,000원 - KB증권",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261105000927"
+        }
+      },
+      {
+        "keyword": "젠슨 황",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“술자리 옆 여성과 무슨 사이냐”…젠슨 황, ‘소환장’ 받았다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261106/134978932/1"
+        }
+      },
+      {
+        "keyword": "하지원",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“잘 먹었다, 강남아” 이서진, 같은 팀도 놀라게 만든 찍신 강림★",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482986026?div=live_end"
+        }
+      },
+      {
+        "keyword": "송미령",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "햇빛 모아 부자 될 거야! 농사도 짓고 돈도 버는 영농형 태양광의 모든 것 - 영상 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975227&pWise=sub&pWiseSub=C2"
+        }
+      },
+      {
+        "keyword": "어 도어",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611061631011"
+        }
+      },
+      {
+        "keyword": "염경엽",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“감독 하면서 제일 좋은 투수\" 염경엽 극찬...12승 톨허스트 교체 승부수도 있다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611042246775040O"
+        }
+      },
+      {
+        "keyword": "twitch",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Georgia football injury report vs. Ole Miss",
+          "source": "247Sports",
+          "url": "https://247sports.com/college/georgia/longformarticle/georgia-bulldogs-football-injury-report-update-ole-miss-rebels-292240149/"
+        }
+      },
+      {
+        "keyword": "주가 대폭락",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
       }
     ]
   }
