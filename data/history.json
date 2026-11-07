@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-11-06T06:41:33.597144+09:00",
-    "label": "06:41",
-    "items": [
-      {
-        "keyword": "주식",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "데이터센터 변동성 속 약세 시 매수할 IT 서비스 주식",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2162087"
-        }
-      },
-      {
-        "keyword": "김혜수",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261105580023"
-        }
-      },
-      {
-        "keyword": "뉴스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이문섭 전 광주시의장, 경기 광주시자원봉사센터 첫 민간 이사장 선임",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261105580320"
-        }
-      },
-      {
-        "keyword": "두산에너 빌리티",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "두산에너빌리티 SMR 핵심 기기 수주 본격화, 미국 '블루웨이브'에도 원전 지원 지속 기대",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451277"
-        }
-      },
-      {
-        "keyword": "lg에너지솔루션",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[단독] LG에너지솔루션, 3차 ESS 중앙계약입찰 불참...‘삼성SDI·SK온’ 2파전 압축",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374420"
-        }
-      },
-      {
-        "keyword": "1기 신도시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "샛별·양지·더시범 시공사 입찰 채비…분당 선도지구 수주전 초읽기",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20110022"
-        }
-      },
-      {
-        "keyword": "현대자동차",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[포토] 수소연료전지 기반 개방형 플랫폼",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261104000396"
-        }
-      },
-      {
-        "keyword": "농장",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "연천 산란계 농장서 올겨울 첫 고병원성 AI...전국 방역 강화",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611051103342160"
-        }
-      },
-      {
-        "keyword": "장동현",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "SK㈜, SK에코플랜트 완전 자회사화 추진… IPO 접고 반도체·AI 사업 통합 속도",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846213"
-        }
-      },
-      {
-        "keyword": "매일노동뉴스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "HD현대중공업, 하청노조와 첫 상견례…노란봉투법 시행 8개월만",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261104165700057"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-06T10:54:44.853547+09:00",
-    "label": "10:54",
-    "items": [
-      {
-        "keyword": "장윤정",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“벌써 이렇게 컸어” 장윤정, 연우·하영 남매 자랑에 ‘광대 승천’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611052015013"
-        }
-      },
-      {
-        "keyword": "창신동",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "여의도 목화아파트 416세대로…창신동 정비사업도 통과",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105162800004"
-        }
-      },
-      {
-        "keyword": "amd",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "AMD Data Center Revenue Surges 97% as Intel Stumbles",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/finance/2026/11/06/amd-data-center-revenue-surges-97-percent-as-intel-stumbles"
-        }
-      },
-      {
-        "keyword": "토스",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "달러 환율",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'블루쓰나미'에 외환시장도 요동…원/달러 환율, 15원가량 급등 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/11/06/2026110608332315358"
-        }
-      },
-      {
-        "keyword": "금값",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'블루웨이브'에 금·은 가격 회복세…구리는 ‘AI 우려'에 주춤",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03575206645643096"
-        }
-      },
-      {
-        "keyword": "쇼메이커",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "라이엇게임즈, '와일드 리프트' 글로벌 커뮤니티 행사 21일 개최",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261105182032"
-        }
-      },
-      {
-        "keyword": "삼성전기 주가",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[특징주] 삼성전기, 美 AI 투자 둔화 우려에 12%대 급락",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261106500162"
-        }
-      },
-      {
-        "keyword": "현대차 주가",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[리포트 브리핑]현대차, '투자기 진입' 목표가 380,000원 - 메리츠증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261105000955"
-        }
-      },
-      {
-        "keyword": "서초구",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“가구당 평균 2.2억”…서초구, 내주 반포현대 재초환 사전통지",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12200143"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-06T17:44:33.935670+09:00",
     "label": "17:44",
     "items": [
@@ -717,6 +509,108 @@
           "title": "It was Luca Doncic's day.LA Lakers guard Doncic played in a home game against the Portland Trail Bla..",
           "source": "매일경제",
           "url": "https://www.mk.co.kr/en/sports/12201471"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-07T23:43:30.865901+09:00",
+    "label": "23:43",
+    "items": [
+      {
+        "keyword": "내일 날씨",
+        "traffic_raw": "200000+",
+        "traffic": 200000,
+        "news": {
+          "title": "[날씨] '입동 추위' 서울 첫 얼음...내일 중부 중심 비",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611072259352322"
+        }
+      },
+      {
+        "keyword": "마인츠 05 대 바이에른",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "“국가대표 은퇴해라!” 논란의 김민재, 마인츠전 예상 선발 명단 포함…이재성은 벤치 출발 전망, 코리안 더비 성사될까 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/202611072058773969O"
+        }
+      },
+      {
+        "keyword": "닥터x 하얀 마피아의 시대",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611070054003"
+        }
+      },
+      {
+        "keyword": "페드로 포로",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1647554"
+        }
+      },
+      {
+        "keyword": "검사",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html"
+        }
+      },
+      {
+        "keyword": "sbs",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Cha Cheong-hwa joins SBS drama 9 to 6 as corporate support head",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/11/05/5HE6SVDTEVGWTOJWGZ4ORT5ECI/"
+        }
+      },
+      {
+        "keyword": "agf",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "The Fed in Uncharted Territory with New Communication Policy",
+          "source": "AGF Perspectives",
+          "url": "https://perspectives.agf.com/the-fed-in-uncharted-territory-with-new-communication-policy/"
+        }
+      },
+      {
+        "keyword": "leeds vs spurs",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
+        }
+      },
+      {
+        "keyword": "persija jakarta vs persebaya",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "ลีดส์ พบ สเปอร์ส",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก ลีดส์ พบ สเปอร์ส 7 พ.ย.69",
+          "source": "pptvhd36.com",
+          "url": "https://www.pptvhd36.com/sport/news/286664"
         }
       }
     ]

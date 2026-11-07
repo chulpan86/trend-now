@@ -1,97 +1,101 @@
 {
-  "timestamp": "2026-11-07T16:59:11.275245+09:00",
-  "label": "16:59",
+  "timestamp": "2026-11-07T23:43:30.865901+09:00",
+  "label": "23:43",
   "items": [
     {
-      "keyword": "롯데 자이언츠",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "내일 날씨",
+      "traffic_raw": "200000+",
+      "traffic": 200000,
       "news": {
-        "title": "\"내가 하고 싶은 야구 찾았다\" 전미르의 '이도류' 2년 종료 → 롯데에선 어떨까 [인터뷰]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/11/06/MYYWGYLFMQYTONZWMVTDIYZZGM/"
+        "title": "[날씨] '입동 추위' 서울 첫 얼음...내일 중부 중심 비",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0108_202611072259352322"
       }
     },
     {
-      "keyword": "이재희",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "마인츠 05 대 바이에른",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "삼성 배찬승, 첫 PS 세이브에 포효 \"좀 더 멋있게 해보겠다\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261106137800007"
-      }
-    },
-    {
-      "keyword": "통장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261106070100002"
-      }
-    },
-    {
-      "keyword": "최일언",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[포토] 이재희 '언터쳐블 씽씽투' - 머니투데이",
+        "title": "“국가대표 은퇴해라!” 논란의 김민재, 마인츠전 예상 선발 명단 포함…이재성은 벤치 출발 전망, 코리안 더비 성사될까 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716242082748"
+        "url": "https://www.mt.co.kr/sports/2026/11/07/202611072058773969O"
       }
     },
     {
-      "keyword": "창원 lg 대 고양 소노",
+      "keyword": "닥터x 하얀 마피아의 시대",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202611070054003"
+      }
+    },
+    {
+      "keyword": "페드로 포로",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
+        "source": "스포츠서울",
+        "url": "https://www.sportsseoul.com/news/read/1647554"
+      }
     },
     {
-      "keyword": "tving",
+      "keyword": "검사",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html"
+      }
+    },
+    {
+      "keyword": "sbs",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Cha Cheong-hwa joins SBS drama 9 to 6 as corporate support head",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-entertainment/2026/11/05/5HE6SVDTEVGWTOJWGZ4ORT5ECI/"
+      }
+    },
+    {
+      "keyword": "agf",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "The Fed in Uncharted Territory with New Communication Policy",
+        "source": "AGF Perspectives",
+        "url": "https://perspectives.agf.com/the-fed-in-uncharted-territory-with-new-communication-policy/"
+      }
+    },
+    {
+      "keyword": "leeds vs spurs",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
+      }
+    },
+    {
+      "keyword": "persija jakarta vs persebaya",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": null
     },
     {
-      "keyword": "장진혁",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "kt 장진혁, 첫 KS 선발 타석서 선제포…이강철 기대에 화답",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261107033200007"
-      }
-    },
-    {
-      "keyword": "kt vs samsung",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/"
-      }
-    },
-    {
-      "keyword": "미야지",
+      "keyword": "ลีดส์ พบ สเปอร์ส",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"이겨야 빨리 빼준다\" 박진만 감독이 공개한 '투덜이' 최형우 조기 퇴근 조건[KS]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/11/07/GQ4TGYLDHFRTIZLBG4YDEZJRG4/"
-      }
-    },
-    {
-      "keyword": "lakers vs trail blazers",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "It was Luca Doncic's day.LA Lakers guard Doncic played in a home game against the Portland Trail Bla..",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/en/sports/12201471"
+        "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก ลีดส์ พบ สเปอร์ส 7 พ.ย.69",
+        "source": "pptvhd36.com",
+        "url": "https://www.pptvhd36.com/sport/news/286664"
       }
     }
   ]
