@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-06T00:55:22.213926+09:00",
-    "label": "00:55",
-    "items": [
-      {
-        "keyword": "나스닥",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "30조 발전소·36조 수주잔고…대미 AI 인프라, 美 의회 변수 노출",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/05/2026110580127.html"
-        }
-      },
-      {
-        "keyword": "상장지수펀드",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "ETF 왕좌 지킨 KODEX200…개미는 TIGER 미국S&P500에 ‘우르르’",
-          "source": "쿠키뉴스",
-          "url": "https://www.kukinews.com/article/view/kuk202611030175"
-        }
-      },
-      {
-        "keyword": "제니",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘분노의 질주’ 속 수키로 변신한 제니, 붉은색 차량 앞 파격적인 레트로 룩",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1646060"
-        }
-      },
-      {
-        "keyword": "퍽즈",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'롤드컵 탈락' G2, 정글러 '스큐몬드' 결별하나",
-          "source": "데일리e스포츠",
-          "url": "https://www.dailyesports.com/view.php?ud=202611050654018539b91e133c1f_27"
-        }
-      },
-      {
-        "keyword": "soxx",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Why is Direxion Daily Semiconductor Bear 3X Shares surging today?",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bear-3x-shares-surging-today-93CH-5005043"
-        }
-      },
-      {
-        "keyword": "서정진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "서정진 셀트리온 회장, 인공장기 전망 물었더니 “전공 바꿔라”",
-          "source": "비즈한국",
-          "url": "https://bizhankook.com/articles/celltrion-chairman-ai-organ-research.html"
-        }
-      },
-      {
-        "keyword": "인천 유나이티드 fc",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘3년 만의 ACL 도전’ 이겨도 웃지 못하는 인천유나이티드…대표 리스크에 흔들리는 2027 시즌",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336054"
-        }
-      },
-      {
-        "keyword": "유현주",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "미녀 골퍼 유현주, 강호동 전현무와 한식구 되나 [공식입장]",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202611050859555710"
-        }
-      },
-      {
-        "keyword": "허태정",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "대전 시내버스, 공사에 밀리고 대책 없고…허태정표 교통행정 '갈팡질팡'",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261105000749"
-        }
-      },
-      {
-        "keyword": "쿠칭시티",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "강원FC, 말레이시아 쿠칭에 0-2 패배…조 최하위로 추락",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261105185300007"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-06T06:41:33.597144+09:00",
     "label": "06:41",
     "items": [
@@ -725,6 +619,104 @@
           "title": "여객기 다음은 방송국?…연쇄 폭탄 협박에 유럽 언론사까지 대피",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8706563"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-07T16:59:11.275245+09:00",
+    "label": "16:59",
+    "items": [
+      {
+        "keyword": "롯데 자이언츠",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"내가 하고 싶은 야구 찾았다\" 전미르의 '이도류' 2년 종료 → 롯데에선 어떨까 [인터뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MYYWGYLFMQYTONZWMVTDIYZZGM/"
+        }
+      },
+      {
+        "keyword": "이재희",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "삼성 배찬승, 첫 PS 세이브에 포효 \"좀 더 멋있게 해보겠다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106137800007"
+        }
+      },
+      {
+        "keyword": "통장",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261106070100002"
+        }
+      },
+      {
+        "keyword": "최일언",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[포토] 이재희 '언터쳐블 씽씽투' - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716242082748"
+        }
+      },
+      {
+        "keyword": "창원 lg 대 고양 소노",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "tving",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "장진혁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "kt 장진혁, 첫 KS 선발 타석서 선제포…이강철 기대에 화답",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261107033200007"
+        }
+      },
+      {
+        "keyword": "kt vs samsung",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/"
+        }
+      },
+      {
+        "keyword": "미야지",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "\"이겨야 빨리 빼준다\" 박진만 감독이 공개한 '투덜이' 최형우 조기 퇴근 조건[KS]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/07/GQ4TGYLDHFRTIZLBG4YDEZJRG4/"
+        }
+      },
+      {
+        "keyword": "lakers vs trail blazers",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "It was Luca Doncic's day.LA Lakers guard Doncic played in a home game against the Portland Trail Bla..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12201471"
         }
       }
     ]
