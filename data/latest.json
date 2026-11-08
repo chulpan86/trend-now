@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-11-08T19:52:56.512698+09:00",
-  "label": "19:52",
+  "timestamp": "2026-11-09T01:50:43.833228+09:00",
+  "label": "01:50",
   "items": [
     {
-      "keyword": "기아",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최",
-        "source": "Genesis Newsroom",
-        "url": "https://newsroom.genesis.com/ko-ko/%ED%98%84%EB%8C%80%EC%B0%A8-%C2%B7%EA%B8%B0%EC%95%84-%252C-%EB%A3%A8%ED%81%AC-%EB%8F%99%EC%BB%A4%EB%B3%BC%EC%BC%80-CCO-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%84%EC%8B%9C-%EA%B0%9C%EC%B5%9C/"
-      }
-    },
-    {
-      "keyword": "최태원",
+      "keyword": "맨유 대 애스턴 빌라",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20110913"
+        "title": "“최악 성적 기록한 맨유… 캐릭 감독의 전술 실패가 주원인”",
+        "source": "주간동아",
+        "url": "https://weekly.donga.com/sports/article/all/11/6438610/1"
       }
     },
     {
-      "keyword": "난방",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "sbs",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "양평, 난방 취약계층 위한 '사랑의 연탄' 모금 시작",
-        "source": "팔당유역신문",
-        "url": "http://www.hanaronews.kr/news/articleView.html?idxno=111198"
+        "title": "Today's SBS 8 News Preview (November 8)",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836221"
       }
     },
     {
-      "keyword": "생계",
+      "keyword": "원더독스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "기초연금 올려봤자 생계급여 삭감…빈곤노인 78만명 '제자리'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261106131200530"
+        "title": "'신인감독 김연경2', 역전할 수 있을까…황연주 체력 빨간불",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02282886645643424&mediaCodeNo=257"
       }
     },
     {
-      "keyword": "수능",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
-        "source": "제민일보",
-        "url": "https://www.jemin.com/news/articleView.html?idxno=846466"
-      }
-    },
-    {
-      "keyword": "천안 시티 fc 대 부산 아이파크 순위",
+      "keyword": "man utd vs aston villa",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261108_0003859426"
+        "title": "Manchester United v Aston Villa: Premier League – live",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live"
       }
     },
     {
-      "keyword": "광안리해수욕장",
+      "keyword": "올리브영",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘올리브영 쿠폰’으로 고객 잡기 나선 네카오 [정지은의 테크킥]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611082799i"
+      }
+    },
+    {
+      "keyword": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "광안리 해변에 돗자리 깔아두고 ‘10만 원’…중학생까지 자릿세 장사",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261108507475"
+        "title": "การทำนายผลการแข่งขันรอบที่ 10 โดยคอมพิวเตอร์: การล่าแต้มของลิเวอร์พูล แมนเชสเตอร์ ยูไนเต็ด และเชลซี",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/th/may-tinh-du-doan-vong-10-cuoc-san-diem-so-cua-liverpool-man-united-va-chelsea"
       }
     },
     {
-      "keyword": "파주 대 충남 아산 fc",
+      "keyword": "인도네시아",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
-        "source": "충청매일",
-        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109709"
+        "title": "인도네시아에서 소방 헬리콥터가 추락해 1명이 실종됐다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/truc-thang-chua-chay-rung-gap-nan-tai-indonesia-mot-nguoi-mat-tich"
       }
     },
     {
-      "keyword": "스포츠",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "snow",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "세종시 생활체육야구대회. 8일 개막 3주간 열전 돌입",
-        "source": "세종의소리",
-        "url": "https://www.sjsori.com/news/articleView.html?idxno=89577"
+        "title": "Seoul Sees First Snow 12 Days Earlier Than Average Amid Early Cold Snap",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836268"
       }
     },
     {
-      "keyword": "서울교통공사 채용",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "elche vs betis",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Elche vs Real Betis: Lineups, Prediction, Odds & Bet Builder Tip",
+        "source": "WhoScored.com",
+        "url": "https://www.whoscored.com/articles/8QuZRsskSEGTgxuE7av-9g/show/cng111-20261108-elche-vs-real-betis-prediction-1794114324"
+      }
+    },
+    {
+      "keyword": "와이스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[단독] '대전 예수' 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
+        "source": "더게이트",
+        "url": "http://www.spochoo.com/news/articleView.html?idxno=131892"
+      }
     }
   ]
 }
