@@ -1,106 +1,102 @@
 {
-  "timestamp": "2026-11-08T12:21:39.763206+09:00",
-  "label": "12:21",
+  "timestamp": "2026-11-08T19:52:56.512698+09:00",
+  "label": "19:52",
   "items": [
     {
-      "keyword": "자산",
+      "keyword": "기아",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최",
+        "source": "Genesis Newsroom",
+        "url": "https://newsroom.genesis.com/ko-ko/%ED%98%84%EB%8C%80%EC%B0%A8-%C2%B7%EA%B8%B0%EC%95%84-%252C-%EB%A3%A8%ED%81%AC-%EB%8F%99%EC%BB%A4%EB%B3%BC%EC%BC%80-CCO-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%84%EC%8B%9C-%EA%B0%9C%EC%B5%9C/"
+      }
+    },
+    {
+      "keyword": "최태원",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "금융당국, 가상자산업계 잇단 해킹에 보안 책임자 소집",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH202611081126524B0"
+        "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20110913"
       }
     },
     {
-      "keyword": "미스 베트남",
+      "keyword": "난방",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "양평, 난방 취약계층 위한 '사랑의 연탄' 모금 시작",
+        "source": "팔당유역신문",
+        "url": "http://www.hanaronews.kr/news/articleView.html?idxno=111198"
+      }
+    },
+    {
+      "keyword": "생계",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "2026년 미스 베트남에 하노이 소녀 Nguyen Yen Trang이 선정되었습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/co-gai-ha-noi-nguyen-yen-trang-dang-quang-hoa-hau-viet-nam-2026"
+        "title": "기초연금 올려봤자 생계급여 삭감…빈곤노인 78만명 '제자리'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261106131200530"
       }
     },
     {
-      "keyword": "이다현",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "수능",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/volleyball/2026/11/08/MVSGKNBYMFRTGNRTHFQTIMJQGY/"
+        "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
+        "source": "제민일보",
+        "url": "https://www.jemin.com/news/articleView.html?idxno=846466"
       }
     },
     {
-      "keyword": "장재인",
+      "keyword": "천안 시티 fc 대 부산 아이파크 순위",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "장재인, 22세에 반신마비 진단…\"하루 2시간 자며 행사 뛰어\"",
+        "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261107_0003858922"
+        "url": "https://www.newsis.com/view/NISX20261108_0003859426"
       }
     },
     {
-      "keyword": "인구감소지역",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "경남 인구감소지역 11곳, 등록 인구↓·체류 인구↑",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8706757"
-      }
-    },
-    {
-      "keyword": "액화천연가스",
+      "keyword": "광안리해수욕장",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261107049200003"
+        "title": "광안리 해변에 돗자리 깔아두고 ‘10만 원’…중학생까지 자릿세 장사",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20261108507475"
       }
     },
     {
-      "keyword": "코리안투어",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "파주 대 충남 아산 fc",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "Hwang Jae-min Maintains Lead on Day Two of KPGA Tour Championship, Pursuing First Win at Age 40",
-        "source": "news.sbs.co.kr",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835433"
+        "title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
+        "source": "충청매일",
+        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109709"
       }
     },
     {
-      "keyword": "미디어오늘",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "스포츠",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "[주간政談] '올공' 집회 마무리…\"장동혁, 제도권 안으로\" - 정치 | 기사",
-        "source": "더팩트",
-        "url": "https://news.tf.co.kr/read/ptoday/2386011.htm"
+        "title": "세종시 생활체육야구대회. 8일 개막 3주간 열전 돌입",
+        "source": "세종의소리",
+        "url": "https://www.sjsori.com/news/articleView.html?idxno=89577"
       }
     },
     {
-      "keyword": "루이바오",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20261106580394"
-      }
-    },
-    {
-      "keyword": "blg t1",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "T1 Doran: “What Makes You A Great Player Is How You Get Through The Pressure”",
-        "source": "Hotspawn",
-        "url": "https://www.hotspawn.com/league-of-legends/news/t1-doran-worlds-2026-interview"
-      }
+      "keyword": "서울교통공사 채용",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
     }
   ]
 }
