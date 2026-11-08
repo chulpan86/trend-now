@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-11-08T08:14:38.018419+09:00",
-  "label": "08:14",
+  "timestamp": "2026-11-08T12:21:39.763206+09:00",
+  "label": "12:21",
   "items": [
     {
-      "keyword": "삼성 라이온즈",
+      "keyword": "자산",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "최대 미스터리! 107억 다승왕까지 대기했는데, 5회 만루 찬스→왜 대타 안 썼나 \"김상수 연습 때는 잘 쳤는데…\" [KS4]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/11/08/MZRTIZRQMU4TSODFGU3TAMZTGI/"
+        "title": "금융당국, 가상자산업계 잇단 해킹에 보안 책임자 소집",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH202611081126524B0"
       }
     },
     {
-      "keyword": "치지직",
+      "keyword": "미스 베트남",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": null
+      "news": {
+        "title": "2026년 미스 베트남에 하노이 소녀 Nguyen Yen Trang이 선정되었습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/co-gai-ha-noi-nguyen-yen-trang-dang-quang-hoa-hau-viet-nam-2026"
+      }
     },
     {
-      "keyword": "노시환",
+      "keyword": "이다현",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"난 영원한 한화맨이야!\" 눈물로 떠났는데…뉴욕서 깜짝 재회하나, 노시환 잠재력 깨운 '타격 일타강사' 메츠행 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/11/07/202611061754778235O"
+        "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/volleyball/2026/11/08/MVSGKNBYMFRTGNRTHFQTIMJQGY/"
       }
     },
     {
-      "keyword": "숲",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "장재인",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "스트리머 IP가 게임으로… 숲-컴투스홀딩스, 손잡고 실사 인터랙티브(FMV) 게임 사업 협력",
-        "source": "OSEN",
-        "url": "http://www.osen.co.kr/article/G1112906185"
+        "title": "장재인, 22세에 반신마비 진단…\"하루 2시간 자며 행사 뛰어\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261107_0003858922"
       }
     },
     {
-      "keyword": "순위",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "인구감소지역",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "탄화성은 전국 예산 수입 순위에서 9위를 차지하고 있습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/thanh-hoa-thu-ngan-sach-dung-thu-9-toan-quoc"
+        "title": "경남 인구감소지역 11곳, 등록 인구↓·체류 인구↑",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8706757"
       }
     },
     {
-      "keyword": "하이닉스",
+      "keyword": "액화천연가스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저",
+        "title": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261107026400008"
+        "url": "https://www.yna.co.kr/view/AKR20261107049200003"
       }
     },
     {
-      "keyword": "몽레알 대 화이트캡스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Dayton 31-20 Valparaiso (Nov 7, 2026) Box Score",
-        "source": "ESPN",
-        "url": "https://www.espn.com/college-football/boxscore/_/gameId/401868232"
-      }
-    },
-    {
-      "keyword": "하석진",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "＂우리 레스토랑 문 안 닫아도 되겠다!＂예약이 가득 찬 가게에 기뻐하는 민진웅&하석진! [사랑이 온다] | KBS 261107 방송",
-        "source": "대한민국 대표 공영미디어 KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026191030-01-000_MFSC5&program_code=T2026-0039&program_id=PS-2026191030-01-000&section_code=03&broadcast_complete_yn=N&section_id=27798"
-      }
-    },
-    {
-      "keyword": "정승제",
+      "keyword": "코리안투어",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘수학 일타’ 정승제 “3살, 4살 의대반···진짜 완전 미친 나라”",
-        "source": "주간경향",
-        "url": "https://weekly.khan.co.kr/article/202611071318001"
+        "title": "Hwang Jae-min Maintains Lead on Day Two of KPGA Tour Championship, Pursuing First Win at Age 40",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835433"
       }
     },
     {
-      "keyword": "天氣",
+      "keyword": "미디어오늘",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "今立冬北部降溫有雨 下週更強東北季風下探16℃",
-        "source": "公視新聞",
-        "url": "https://news.pts.org.tw/article/834733"
+        "title": "[주간政談] '올공' 집회 마무리…\"장동혁, 제도권 안으로\" - 정치 | 기사",
+        "source": "더팩트",
+        "url": "https://news.tf.co.kr/read/ptoday/2386011.htm"
+      }
+    },
+    {
+      "keyword": "루이바오",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20261106580394"
+      }
+    },
+    {
+      "keyword": "blg t1",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "T1 Doran: “What Makes You A Great Player Is How You Get Through The Pressure”",
+        "source": "Hotspawn",
+        "url": "https://www.hotspawn.com/league-of-legends/news/t1-doran-worlds-2026-interview"
       }
     }
   ]
