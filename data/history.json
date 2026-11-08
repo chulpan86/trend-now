@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-11-07T16:59:11.275245+09:00",
-    "label": "16:59",
-    "items": [
-      {
-        "keyword": "롯데 자이언츠",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"내가 하고 싶은 야구 찾았다\" 전미르의 '이도류' 2년 종료 → 롯데에선 어떨까 [인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MYYWGYLFMQYTONZWMVTDIYZZGM/"
-        }
-      },
-      {
-        "keyword": "이재희",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "삼성 배찬승, 첫 PS 세이브에 포효 \"좀 더 멋있게 해보겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106137800007"
-        }
-      },
-      {
-        "keyword": "통장",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261106070100002"
-        }
-      },
-      {
-        "keyword": "최일언",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[포토] 이재희 '언터쳐블 씽씽투' - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716242082748"
-        }
-      },
-      {
-        "keyword": "창원 lg 대 고양 소노",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "tving",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "장진혁",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "kt 장진혁, 첫 KS 선발 타석서 선제포…이강철 기대에 화답",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261107033200007"
-        }
-      },
-      {
-        "keyword": "kt vs samsung",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/"
-        }
-      },
-      {
-        "keyword": "미야지",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"이겨야 빨리 빼준다\" 박진만 감독이 공개한 '투덜이' 최형우 조기 퇴근 조건[KS]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/07/GQ4TGYLDHFRTIZLBG4YDEZJRG4/"
-        }
-      },
-      {
-        "keyword": "lakers vs trail blazers",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "It was Luca Doncic's day.LA Lakers guard Doncic played in a home game against the Portland Trail Bla..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12201471"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-07T23:43:30.865901+09:00",
     "label": "23:43",
     "items": [
@@ -717,6 +619,112 @@
           "title": "[단독] '대전 예수' 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
           "source": "더게이트",
           "url": "http://www.spochoo.com/news/articleView.html?idxno=131892"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-09T05:52:34.703685+09:00",
+    "label": "05:52",
+    "items": [
+      {
+        "keyword": "아틀레티코 대 바르셀로나",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[엠빅뉴스] ‘이강인 질문’에 발끈한 시메오네 감독? 기자가 안절부절못하자..",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/original/mbig/6864035_29041.html"
+        }
+      },
+      {
+        "keyword": "베식타시 대 겐칠레르빌리이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Beşiktaş vs Gençlerbirliği: Turkish Süper Lig stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c674pkj0n28wt"
+        }
+      },
+      {
+        "keyword": "잠수함",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "“한국 역대 최강 잠수함”…美 매체가 서희함에 주목한 이유 [밀리터리+]",
+          "source": "나우뉴스",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261106601014"
+        }
+      },
+      {
+        "keyword": "압구정동",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "좀만 참을 걸…김동현 100억에 산 압구정현대, 80억대로",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11628648"
+        }
+      },
+      {
+        "keyword": "프리미어리그 순위",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'7연승→3연패' 맨시티의 믿기 힘든 몰락...홈에서 골도 못 넣던 19위 노팅엄에 3실점 굴욕",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112906227"
+        }
+      },
+      {
+        "keyword": "사랑이 온다",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[솔직 엔딩] ＂우리 그냥 의절하면 안 돼?＂안희연 앞에서 속마음을 토로하는 배윤규 [사랑이 온다] | KBS 261108 방송",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026191031-01-000_MFSC13&program_code=T2026-0039&program_id=PS-2026191031-01-000&section_code=03&broadcast_complete_yn=N&section_id=27798"
+        }
+      },
+      {
+        "keyword": "f1",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "F1 LIVE: Sao Paulo Grand Prix 2026 reaction & result as Norris wins in Interlagos",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/formula1/live/ckge0zygre7t"
+        }
+      },
+      {
+        "keyword": "닥터x 10화",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[다시보기] 닥터X : 하얀 마피아의 시대 10회",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000639451"
+        }
+      },
+      {
+        "keyword": "sc 프라이부르크 대 우니온 베를린",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Freiburg vs Union Berlin: German Bundesliga stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cwdd8v7renyqt"
+        }
+      },
+      {
+        "keyword": "빗썸",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[금주의 빗썸 투자자 픽] 임파서블클라우드네트워크 52.19% 상승",
+          "source": "경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310132"
         }
       }
     ]
