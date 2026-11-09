@@ -1,105 +1,97 @@
 {
-  "timestamp": "2026-11-09T16:25:32.347422+09:00",
-  "label": "16:25",
+  "timestamp": "2026-11-10T02:58:05.391107+09:00",
+  "label": "02:58",
   "items": [
     {
-      "keyword": "정지선",
+      "keyword": "신인감독 김연경 시즌2",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728"
+      }
+    },
+    {
+      "keyword": "빅테크",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "한국 AI 생태계의 에이전틱 AI 고도화하고 보안 강화하는 NVIDIA - NVIDIA Blog Korea",
+        "source": "NVIDIA",
+        "url": "https://blogs.nvidia.co.kr/blog/korea-secure-agentic-ai/"
+      }
+    },
+    {
+      "keyword": "kf-21 보라매",
       "traffic_raw": "2000+",
       "traffic": 2000,
-      "news": {
-        "title": "정지선, 대만 매장서 직원 10명 퇴사…“한 달 반 만에 다 나갔다”",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261109502858"
-      }
+      "news": null
     },
     {
-      "keyword": "논문",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "황우석 전 서울대 교수, UAE 국적 취득해 한국 국적 상실",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611091126001"
-      }
-    },
-    {
-      "keyword": "윤여정",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "80세 윤여정, 연예계 최고령 공항패션…백발에 화이트코트 ‘우아 그 자체’[Oh!쎈 이슈]",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/ME4DMYLFHAZTEYJRMMYWMZBZGA/"
-      }
-    },
-    {
-      "keyword": "실업",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'자발적 퇴사' 청년에 月100만원 검토…\"도덕적 해이 우려 적어\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261109_0003859821"
-      }
-    },
-    {
-      "keyword": "상장지수 펀드",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "삼성운용, 'KODEX 미국나스닥100미국채혼합50' ETF 내일 상장",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261109_0003860477"
-      }
-    },
-    {
-      "keyword": "lg전자",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[기업] LG전자, 차량 통신 모듈 안전 최고등급...\"중대 사고 방지\"",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0102_202611091433199410"
-      }
-    },
-    {
-      "keyword": "이규한",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이규한, 예비신부 솔비 향한 남다른 사랑…“분리수거도 안 시킬 것”",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261109502020"
-      }
-    },
-    {
-      "keyword": "catl",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range?",
-        "source": "CarNewsChina.com",
-        "url": "https://carnewschina.com/2026/11/07/catl-is-exploring-an-air-breathing-battery-could-it-give-evs-2000-km-of-range/"
-      }
-    },
-    {
-      "keyword": "금융감독원",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"AI 사이버 공격 일상화\"...대응 시스템 재설계 절실",
-        "source": "YTN 사이언스",
-        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611091141375284"
-      }
-    },
-    {
-      "keyword": "박진혁",
+      "keyword": "신애",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11629685"
+        "title": "'17년째 활동 중단' 신애, 깜짝 근황…여전한 미모 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917541840072"
+      }
+    },
+    {
+      "keyword": "gta6",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "GTA6 Release Triggers 1.5M U.S. Absences",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/industry-en/2026/11/10/SGZQM3ZS6NBEPE7EBXVFVCBDTE/"
+      }
+    },
+    {
+      "keyword": "버거킹",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"소방관 응원해요\"…유통가, 소방의 날 맞이 캠페인",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109133837fmD"
+      }
+    },
+    {
+      "keyword": "안드레이 알롭스키",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "사망 조롱 논란에 “죄송합니다”…UFC 전 챔피언 “영어는 제2외국어” 해명",
+        "source": "일간스포츠",
+        "url": "https://isplus.com/article/view/isp202611090129"
+      }
+    },
+    {
+      "keyword": "안랩",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "티머니",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "티머니, '모두의카드' 편의점 판매 시작",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261109000258"
+      }
+    },
+    {
+      "keyword": "캐시워크 정답",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "국민건강보험 건강보험료 캐시워크 돈 버는 퀴즈, 정답은?",
+        "source": "아주경제",
+        "url": "https://www.ajunews.com/view/20261109155345023"
       }
     }
   ]
