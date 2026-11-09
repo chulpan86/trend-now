@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-11-09T09:18:38.093230+09:00",
-  "label": "09:18",
+  "timestamp": "2026-11-09T16:25:32.347422+09:00",
+  "label": "16:25",
   "items": [
     {
-      "keyword": "할증",
+      "keyword": "정지선",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/11/09/S4OFKKJL6JCMVC6T75PFLXXBQQ/"
+        "title": "정지선, 대만 매장서 직원 10명 퇴사…“한 달 반 만에 다 나갔다”",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20261109502858"
       }
     },
     {
-      "keyword": "노동법",
+      "keyword": "논문",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "황우석 전 서울대 교수, UAE 국적 취득해 한국 국적 상실",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202611091126001"
+      }
+    },
+    {
+      "keyword": "윤여정",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "80세 윤여정, 연예계 최고령 공항패션…백발에 화이트코트 ‘우아 그 자체’[Oh!쎈 이슈]",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/ME4DMYLFHAZTEYJRMMYWMZBZGA/"
+      }
+    },
+    {
+      "keyword": "실업",
       "traffic_raw": "500+",
       "traffic": 500,
-      "news": null
+      "news": {
+        "title": "'자발적 퇴사' 청년에 月100만원 검토…\"도덕적 해이 우려 적어\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261109_0003859821"
+      }
     },
     {
-      "keyword": "t1",
+      "keyword": "상장지수 펀드",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[롤드컵] '첫 걸음부터 꼬인 T1' BLG 맞춤 설계에 4강 서전 30분만에 참패",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112907031"
+        "title": "삼성운용, 'KODEX 미국나스닥100미국채혼합50' ETF 내일 상장",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261109_0003860477"
       }
     },
     {
-      "keyword": "의약품",
+      "keyword": "lg전자",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
-        "source": "헬스코리아뉴스",
-        "url": "https://www.hkn24.com/news/articleView.html?idxno=351602"
+        "title": "[기업] LG전자, 차량 통신 모듈 안전 최고등급...\"중대 사고 방지\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0102_202611091433199410"
       }
     },
     {
-      "keyword": "황유민",
+      "keyword": "이규한",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이규한, 예비신부 솔비 향한 남다른 사랑…“분리수거도 안 시킬 것”",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20261109502020"
+      }
+    },
+    {
+      "keyword": "catl",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range?",
+        "source": "CarNewsChina.com",
+        "url": "https://carnewschina.com/2026/11/07/catl-is-exploring-an-air-breathing-battery-could-it-give-evs-2000-km-of-range/"
+      }
+    },
+    {
+      "keyword": "금융감독원",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"AI 사이버 공격 일상화\"...대응 시스템 재설계 절실",
+        "source": "YTN 사이언스",
+        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611091141375284"
+      }
+    },
+    {
+      "keyword": "박진혁",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261108030300007"
-      }
-    },
-    {
-      "keyword": "기영식",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘나솔사계’ 14기 광수 독주에 7기 영식·영호 질투 폭발",
-        "source": "데일리스포츠한국",
-        "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435261"
-      }
-    },
-    {
-      "keyword": "수능날",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "“수능날, 오답노트 대신 챙겨라”…불수능 만점자의 비밀무기",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20261106130050591"
-      }
-    },
-    {
-      "keyword": "lck",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Gen.G Reaches Worlds Finals; Chovy Aims for First Title",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/11/08/FVLDQDSLPFEPPKMIHASQTVYA74/"
-      }
-    },
-    {
-      "keyword": "마린 올솝",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "지휘자 마린 알솝 \"임윤찬은 우리 세기의 위대한 피아니스트 될 것\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/culture-life/culture_general/2026/11/09/3KYP7RTFZBFRRBFPBVQIYBSZYE/"
-      }
-    },
-    {
-      "keyword": "bulls vs 76ers",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Sixers starters put on a show in Chicago (Short Mix)",
-        "source": "NBA.com",
-        "url": "https://www.nba.com/watch/video/sixers-starters-put-on-a-show-in-chicago"
+        "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11629685"
       }
     }
   ]

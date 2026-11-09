@@ -1,213 +1,5 @@
 [
   {
-    "timestamp": "2026-11-07T23:43:30.865901+09:00",
-    "label": "23:43",
-    "items": [
-      {
-        "keyword": "내일 날씨",
-        "traffic_raw": "200000+",
-        "traffic": 200000,
-        "news": {
-          "title": "[날씨] '입동 추위' 서울 첫 얼음...내일 중부 중심 비",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611072259352322"
-        }
-      },
-      {
-        "keyword": "마인츠 05 대 바이에른",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“국가대표 은퇴해라!” 논란의 김민재, 마인츠전 예상 선발 명단 포함…이재성은 벤치 출발 전망, 코리안 더비 성사될까 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/202611072058773969O"
-        }
-      },
-      {
-        "keyword": "닥터x 하얀 마피아의 시대",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611070054003"
-        }
-      },
-      {
-        "keyword": "페드로 포로",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1647554"
-        }
-      },
-      {
-        "keyword": "검사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html"
-        }
-      },
-      {
-        "keyword": "sbs",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Cha Cheong-hwa joins SBS drama 9 to 6 as corporate support head",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/11/05/5HE6SVDTEVGWTOJWGZ4ORT5ECI/"
-        }
-      },
-      {
-        "keyword": "agf",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "The Fed in Uncharted Territory with New Communication Policy",
-          "source": "AGF Perspectives",
-          "url": "https://perspectives.agf.com/the-fed-in-uncharted-territory-with-new-communication-policy/"
-        }
-      },
-      {
-        "keyword": "leeds vs spurs",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
-        }
-      },
-      {
-        "keyword": "persija jakarta vs persebaya",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "ลีดส์ พบ สเปอร์ส",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก ลีดส์ พบ สเปอร์ส 7 พ.ย.69",
-          "source": "pptvhd36.com",
-          "url": "https://www.pptvhd36.com/sport/news/286664"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-08T04:11:28.843645+09:00",
-    "label": "04:11",
-    "items": [
-      {
-        "keyword": "노팅엄 포레스트 대 맨 시티",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t"
-        }
-      },
-      {
-        "keyword": "복권",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611072132001"
-        }
-      },
-      {
-        "keyword": "하정우",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "하정우, 12월 결혼 앞두고...확 달라진 비주얼 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110716222760934"
-        }
-      },
-      {
-        "keyword": "버밍엄 대 스완지 시티",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Birmingham City 2-1 Swansea City: Stansfield double sends Blues top of the Championship",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cvlyd97z1k92t"
-        }
-      },
-      {
-        "keyword": "일본 지진",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "일본 시즈오카현 하마마쓰시 북쪽 21km 지역 규모 5.7 지진",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706831"
-        }
-      },
-      {
-        "keyword": "mainz vs bayern",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "BILD-Einzelkritik: Note 4 für zwei Bayern-Stars",
-          "source": "BILD",
-          "url": "https://www.bild.de/sport/fussball/bild-einzelkritik-note-4-fuer-zwei-bayern-stars-6aef2caaa389bc337cfc9214"
-        }
-      },
-      {
-        "keyword": "김성우",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852"
-        }
-      },
-      {
-        "keyword": "gta6",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI",
-          "source": "Forbes",
-          "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/"
-        }
-      },
-      {
-        "keyword": "이천수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1"
-        }
-      },
-      {
-        "keyword": "nepal premier league",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Match Predictions: Nepal Premier League 2026 - 18th Match - Kathmandu Gorkhas vs Lumbini Lions - 7th November",
-          "source": "Cricket World",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-18th-match-kathmandu-gorkhas-vs-lumbini-lions-7th-november/114221.htm"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-08T08:14:38.018419+09:00",
     "label": "08:14",
     "items": [
@@ -827,6 +619,112 @@
           "title": "Sixers starters put on a show in Chicago (Short Mix)",
           "source": "NBA.com",
           "url": "https://www.nba.com/watch/video/sixers-starters-put-on-a-show-in-chicago"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-09T16:25:32.347422+09:00",
+    "label": "16:25",
+    "items": [
+      {
+        "keyword": "정지선",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "정지선, 대만 매장서 직원 10명 퇴사…“한 달 반 만에 다 나갔다”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261109502858"
+        }
+      },
+      {
+        "keyword": "논문",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "황우석 전 서울대 교수, UAE 국적 취득해 한국 국적 상실",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611091126001"
+        }
+      },
+      {
+        "keyword": "윤여정",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "80세 윤여정, 연예계 최고령 공항패션…백발에 화이트코트 ‘우아 그 자체’[Oh!쎈 이슈]",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/ME4DMYLFHAZTEYJRMMYWMZBZGA/"
+        }
+      },
+      {
+        "keyword": "실업",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'자발적 퇴사' 청년에 月100만원 검토…\"도덕적 해이 우려 적어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859821"
+        }
+      },
+      {
+        "keyword": "상장지수 펀드",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성운용, 'KODEX 미국나스닥100미국채혼합50' ETF 내일 상장",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860477"
+        }
+      },
+      {
+        "keyword": "lg전자",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[기업] LG전자, 차량 통신 모듈 안전 최고등급...\"중대 사고 방지\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611091433199410"
+        }
+      },
+      {
+        "keyword": "이규한",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이규한, 예비신부 솔비 향한 남다른 사랑…“분리수거도 안 시킬 것”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20261109502020"
+        }
+      },
+      {
+        "keyword": "catl",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range?",
+          "source": "CarNewsChina.com",
+          "url": "https://carnewschina.com/2026/11/07/catl-is-exploring-an-air-breathing-battery-could-it-give-evs-2000-km-of-range/"
+        }
+      },
+      {
+        "keyword": "금융감독원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"AI 사이버 공격 일상화\"...대응 시스템 재설계 절실",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611091141375284"
+        }
+      },
+      {
+        "keyword": "박진혁",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11629685"
         }
       }
     ]
