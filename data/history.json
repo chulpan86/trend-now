@@ -728,5 +728,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-09T09:18:38.093230+09:00",
+    "label": "09:18",
+    "items": [
+      {
+        "keyword": "할증",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/11/09/S4OFKKJL6JCMVC6T75PFLXXBQQ/"
+        }
+      },
+      {
+        "keyword": "노동법",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "t1",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[롤드컵] '첫 걸음부터 꼬인 T1' BLG 맞춤 설계에 4강 서전 30분만에 참패",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112907031"
+        }
+      },
+      {
+        "keyword": "의약품",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
+          "source": "헬스코리아뉴스",
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=351602"
+        }
+      },
+      {
+        "keyword": "황유민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261108030300007"
+        }
+      },
+      {
+        "keyword": "기영식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘나솔사계’ 14기 광수 독주에 7기 영식·영호 질투 폭발",
+          "source": "데일리스포츠한국",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435261"
+        }
+      },
+      {
+        "keyword": "수능날",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“수능날, 오답노트 대신 챙겨라”…불수능 만점자의 비밀무기",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261106130050591"
+        }
+      },
+      {
+        "keyword": "lck",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Gen.G Reaches Worlds Finals; Chovy Aims for First Title",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/08/FVLDQDSLPFEPPKMIHASQTVYA74/"
+        }
+      },
+      {
+        "keyword": "마린 올솝",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "지휘자 마린 알솝 \"임윤찬은 우리 세기의 위대한 피아니스트 될 것\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/09/3KYP7RTFZBFRRBFPBVQIYBSZYE/"
+        }
+      },
+      {
+        "keyword": "bulls vs 76ers",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Sixers starters put on a show in Chicago (Short Mix)",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/watch/video/sixers-starters-put-on-a-show-in-chicago"
+        }
+      }
+    ]
   }
 ]
