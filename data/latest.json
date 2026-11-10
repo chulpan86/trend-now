@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-11-10T10:11:29.404615+09:00",
-  "label": "10:11",
+  "timestamp": "2026-11-10T17:57:00.773050+09:00",
+  "label": "17:57",
   "items": [
     {
-      "keyword": "재혼 황후",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "신랑",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "'재혼 황후', '100일의 거짓말'·'닥터X' 제쳤다...화제성 1위 등극 [iZE 포커스] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111007007295399"
+        "title": "신부 가슴에 얼굴 파묻고 흔들흔들…신랑 돌발 행동에 하객들 당혹",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/world/global-topic/6347972"
       }
     },
     {
-      "keyword": "구자욱",
+      "keyword": "kbo 리그",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "삼성 야구 12년 만의 우승... 이재용, 직관 왜 안 했을까",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/11/09/II2BVSPQTVE2FDCU4SATXPEV3M/"
+        "title": "\"100만 달러면 돼\" KBO 가고 싶다고 애원했는데 모두가 외면→3년 뒤 4년 538억 잭팟 터졌다",
+        "source": "SPOTV NEWS",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018990"
       }
     },
     {
-      "keyword": "치어리더",
+      "keyword": "공포탄",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘삐끼삐끼’ 이주은 여전히 핫하네, 이번엔 대만 농구행",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/sports/article/all/20261108/134985735/1"
+        "title": "중대장에 공포탄 맞은 대대장…발끈해 2발로 되갚았다가 결국",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12327297"
       }
     },
     {
-      "keyword": "3기신도시 남양주 왕숙지구",
+      "keyword": "백용환",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "“이범호가 부르자 고민도 없었다”…롯데 떠난 백용환, 5년 만에 KIA 귀환",
+        "source": "FT스포츠",
+        "url": "http://www.ftimes.kr/news/articleView.html?idxno=40989"
+      }
+    },
+    {
+      "keyword": "대만 해협",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "30~40대 남성 절반 비만...성인 비만율 10년 새 26%↑",
+        "source": "YTN 사이언스",
+        "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611091632358497&s_hcd="
+      }
+    },
+    {
+      "keyword": "골프존카운티",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": null
+    },
+    {
+      "keyword": "안영명",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'류지현 감독 새 출발' 한화이글스, 김강·안영명 코치 영입",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=04513286645644408&mediaCodeNo=257"
+      }
+    },
+    {
+      "keyword": "담보 대출",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "정부는 ‘앞당긴다’ 했는데… 3기 신도시 최대 사업지 또 입주 지연",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/real_estate/2026/11/10/HUUAKXSW6JEJ5JRRV3GTRG5UDY/"
+        "title": "광주은행, 기업여신 잠재·기존 부실 동반 확대...건전성 관리 '시험대'",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=354176"
       }
     },
     {
-      "keyword": "페이블 5.2",
+      "keyword": "이세계아이돌",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "앤스로픽, AI 에이전트 1000개 지휘하는 신모델 공개",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/11/10/HQ2SHN3DB5GF7OKHCLBYYLIOWA/"
+        "title": "게임 ‘대어’들, AGF 집결… ‘서브컬처 격전’ 예고",
+        "source": "천지일보",
+        "url": "https://www.newscj.com/news/articleView.html?idxno=3447190"
       }
     },
     {
-      "keyword": "로켓",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "우주 다녀온 ‘2단 로켓’도 ‘젓가락 팔’ 회수 성공할까···스페이스X, 14일 스타십 15차 시험발사",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611091437001"
-      }
-    },
-    {
-      "keyword": "둠스데이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "KFC, 마블 영화 협업 메뉴 5종 운영",
-        "source": "로이슈",
-        "url": "https://www.lawissue.co.kr/view.php?ud=202611100826387033204ead0791_12"
-      }
-    },
-    {
-      "keyword": "버스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "오송역 버스환승센터~인천공항 시외버스 개통…하루 왕복 2회 운행",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/topics/topics_social/2026/11/10/D2KI5RJBCNDGFCMGFRJ6U2HK7A/"
-      }
-    },
-    {
-      "keyword": "삼성증권",
+      "keyword": "재활용",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "삼성증권, 신규고객에게 투자지원금 2만원 지원",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261110000057"
-      }
-    },
-    {
-      "keyword": "송지효",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "송지효, 속옷 모델까지 했는데 '적자'...유재석도 걱정 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110920491280966"
+        "title": "“생활폐기물 감량부터 재활용까지”…안산시, 자원순환 정책 본격 추진",
+        "source": "인천일보",
+        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336429"
       }
     }
   ]

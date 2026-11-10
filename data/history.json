@@ -1,217 +1,5 @@
 [
   {
-    "timestamp": "2026-11-09T01:50:43.833228+09:00",
-    "label": "01:50",
-    "items": [
-      {
-        "keyword": "맨유 대 애스턴 빌라",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“최악 성적 기록한 맨유… 캐릭 감독의 전술 실패가 주원인”",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/sports/article/all/11/6438610/1"
-        }
-      },
-      {
-        "keyword": "sbs",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "Today's SBS 8 News Preview (November 8)",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836221"
-        }
-      },
-      {
-        "keyword": "원더독스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'신인감독 김연경2', 역전할 수 있을까…황연주 체력 빨간불",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02282886645643424&mediaCodeNo=257"
-        }
-      },
-      {
-        "keyword": "man utd vs aston villa",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Manchester United v Aston Villa: Premier League – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live"
-        }
-      },
-      {
-        "keyword": "올리브영",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘올리브영 쿠폰’으로 고객 잡기 나선 네카오 [정지은의 테크킥]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611082799i"
-        }
-      },
-      {
-        "keyword": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "การทำนายผลการแข่งขันรอบที่ 10 โดยคอมพิวเตอร์: การล่าแต้มของลิเวอร์พูล แมนเชสเตอร์ ยูไนเต็ด และเชลซี",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/may-tinh-du-doan-vong-10-cuoc-san-diem-so-cua-liverpool-man-united-va-chelsea"
-        }
-      },
-      {
-        "keyword": "인도네시아",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "인도네시아에서 소방 헬리콥터가 추락해 1명이 실종됐다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/truc-thang-chua-chay-rung-gap-nan-tai-indonesia-mot-nguoi-mat-tich"
-        }
-      },
-      {
-        "keyword": "snow",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Seoul Sees First Snow 12 Days Earlier Than Average Amid Early Cold Snap",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836268"
-        }
-      },
-      {
-        "keyword": "elche vs betis",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Elche vs Real Betis: Lineups, Prediction, Odds & Bet Builder Tip",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/articles/8QuZRsskSEGTgxuE7av-9g/show/cng111-20261108-elche-vs-real-betis-prediction-1794114324"
-        }
-      },
-      {
-        "keyword": "와이스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독] '대전 예수' 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
-          "source": "더게이트",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=131892"
-        }
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-09T05:52:34.703685+09:00",
-    "label": "05:52",
-    "items": [
-      {
-        "keyword": "아틀레티코 대 바르셀로나",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "[엠빅뉴스] ‘이강인 질문’에 발끈한 시메오네 감독? 기자가 안절부절못하자..",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6864035_29041.html"
-        }
-      },
-      {
-        "keyword": "베식타시 대 겐칠레르빌리이",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Beşiktaş vs Gençlerbirliği: Turkish Süper Lig stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c674pkj0n28wt"
-        }
-      },
-      {
-        "keyword": "잠수함",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "“한국 역대 최강 잠수함”…美 매체가 서희함에 주목한 이유 [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261106601014"
-        }
-      },
-      {
-        "keyword": "압구정동",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "좀만 참을 걸…김동현 100억에 산 압구정현대, 80억대로",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11628648"
-        }
-      },
-      {
-        "keyword": "프리미어리그 순위",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'7연승→3연패' 맨시티의 믿기 힘든 몰락...홈에서 골도 못 넣던 19위 노팅엄에 3실점 굴욕",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112906227"
-        }
-      },
-      {
-        "keyword": "사랑이 온다",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[솔직 엔딩] ＂우리 그냥 의절하면 안 돼?＂안희연 앞에서 속마음을 토로하는 배윤규 [사랑이 온다] | KBS 261108 방송",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026191031-01-000_MFSC13&program_code=T2026-0039&program_id=PS-2026191031-01-000&section_code=03&broadcast_complete_yn=N&section_id=27798"
-        }
-      },
-      {
-        "keyword": "f1",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "F1 LIVE: Sao Paulo Grand Prix 2026 reaction & result as Norris wins in Interlagos",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/formula1/live/ckge0zygre7t"
-        }
-      },
-      {
-        "keyword": "닥터x 10화",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[다시보기] 닥터X : 하얀 마피아의 시대 10회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000639451"
-        }
-      },
-      {
-        "keyword": "sc 프라이부르크 대 우니온 베를린",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Freiburg vs Union Berlin: German Bundesliga stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwdd8v7renyqt"
-        }
-      },
-      {
-        "keyword": "빗썸",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[금주의 빗썸 투자자 픽] 임파서블클라우드네트워크 52.19% 상승",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310132"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-09T09:18:38.093230+09:00",
     "label": "09:18",
     "items": [
@@ -619,6 +407,108 @@
           "title": "송지효, 속옷 모델까지 했는데 '적자'...유재석도 걱정 - 머니투데이",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110920491280966"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-10T17:57:00.773050+09:00",
+    "label": "17:57",
+    "items": [
+      {
+        "keyword": "신랑",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "신부 가슴에 얼굴 파묻고 흔들흔들…신랑 돌발 행동에 하객들 당혹",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/global-topic/6347972"
+        }
+      },
+      {
+        "keyword": "kbo 리그",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"100만 달러면 돼\" KBO 가고 싶다고 애원했는데 모두가 외면→3년 뒤 4년 538억 잭팟 터졌다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018990"
+        }
+      },
+      {
+        "keyword": "공포탄",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "중대장에 공포탄 맞은 대대장…발끈해 2발로 되갚았다가 결국",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327297"
+        }
+      },
+      {
+        "keyword": "백용환",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“이범호가 부르자 고민도 없었다”…롯데 떠난 백용환, 5년 만에 KIA 귀환",
+          "source": "FT스포츠",
+          "url": "http://www.ftimes.kr/news/articleView.html?idxno=40989"
+        }
+      },
+      {
+        "keyword": "대만 해협",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "30~40대 남성 절반 비만...성인 비만율 10년 새 26%↑",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611091632358497&s_hcd="
+        }
+      },
+      {
+        "keyword": "골프존카운티",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": null
+      },
+      {
+        "keyword": "안영명",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'류지현 감독 새 출발' 한화이글스, 김강·안영명 코치 영입",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04513286645644408&mediaCodeNo=257"
+        }
+      },
+      {
+        "keyword": "담보 대출",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "광주은행, 기업여신 잠재·기존 부실 동반 확대...건전성 관리 '시험대'",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354176"
+        }
+      },
+      {
+        "keyword": "이세계아이돌",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "게임 ‘대어’들, AGF 집결… ‘서브컬처 격전’ 예고",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447190"
+        }
+      },
+      {
+        "keyword": "재활용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "“생활폐기물 감량부터 재활용까지”…안산시, 자원순환 정책 본격 추진",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336429"
         }
       }
     ]
