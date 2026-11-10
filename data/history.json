@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-11-09T09:18:38.093230+09:00",
-    "label": "09:18",
-    "items": [
-      {
-        "keyword": "할증",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/11/09/S4OFKKJL6JCMVC6T75PFLXXBQQ/"
-        }
-      },
-      {
-        "keyword": "노동법",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "t1",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[롤드컵] '첫 걸음부터 꼬인 T1' BLG 맞춤 설계에 4강 서전 30분만에 참패",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112907031"
-        }
-      },
-      {
-        "keyword": "의약품",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
-          "source": "헬스코리아뉴스",
-          "url": "https://www.hkn24.com/news/articleView.html?idxno=351602"
-        }
-      },
-      {
-        "keyword": "황유민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261108030300007"
-        }
-      },
-      {
-        "keyword": "기영식",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘나솔사계’ 14기 광수 독주에 7기 영식·영호 질투 폭발",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435261"
-        }
-      },
-      {
-        "keyword": "수능날",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“수능날, 오답노트 대신 챙겨라”…불수능 만점자의 비밀무기",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261106130050591"
-        }
-      },
-      {
-        "keyword": "lck",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Gen.G Reaches Worlds Finals; Chovy Aims for First Title",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/08/FVLDQDSLPFEPPKMIHASQTVYA74/"
-        }
-      },
-      {
-        "keyword": "마린 올솝",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "지휘자 마린 알솝 \"임윤찬은 우리 세기의 위대한 피아니스트 될 것\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/09/3KYP7RTFZBFRRBFPBVQIYBSZYE/"
-        }
-      },
-      {
-        "keyword": "bulls vs 76ers",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Sixers starters put on a show in Chicago (Short Mix)",
-          "source": "NBA.com",
-          "url": "https://www.nba.com/watch/video/sixers-starters-put-on-a-show-in-chicago"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-09T16:25:32.347422+09:00",
     "label": "16:25",
     "items": [
@@ -509,6 +407,112 @@
           "title": "“생활폐기물 감량부터 재활용까지”…안산시, 자원순환 정책 본격 추진",
           "source": "인천일보",
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336429"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-11T01:44:12.375423+09:00",
+    "label": "01:44",
+    "items": [
+      {
+        "keyword": "뉴데일리",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "\"젠슨황 외도 상대, 홍콩 영주권 42세 中사업가\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611102036062iy"
+        }
+      },
+      {
+        "keyword": "jtbc",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "JTBC launches sale, to pick preferred buyer in January",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-finance/2026/11/09/I67ZL7I37VCOJOM7A6MXFLPHRM/"
+        }
+      },
+      {
+        "keyword": "공공",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "이 대통령, 공공기관 개혁 협조 당부‥전국 불법행위 실태 보고 지시",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6864586_36911.html"
+        }
+      },
+      {
+        "keyword": "철도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "앞으로의 철도, 어떤 모습이면 좋을까요? - 전체 | 카드/한컷 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975355&pWise=sub&pWiseSub=C1"
+        }
+      },
+      {
+        "keyword": "추위",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "수요일 아침 영하권 추위·낮엔 포근…일교차 15도 안팎",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110156300530"
+        }
+      },
+      {
+        "keyword": "장동윤",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“햇살 같은 아이라서” 이유진, 첫 만남에 생각한 ‘아내’ 차경은의 첫인상♥",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483091950"
+        }
+      },
+      {
+        "keyword": "코어위브",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/company-news/article-93CH-2166112"
+        }
+      },
+      {
+        "keyword": "고발",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"낑낑\" 묶인 채 봉투 속에‥'이거 심상치 않다' 주변 뒤졌더니‥",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864656_37004.html"
+        }
+      },
+      {
+        "keyword": "한수아",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "한수아, 카리나와 절친 된 사연 \"먼저 번호 물어보더라…거의 매일 집에서 만나\" (우사편)",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2218053"
+        }
+      },
+      {
+        "keyword": "정승제",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정승제 \"아이돌처럼 대학 때부터 키운다\"…스타 강사도 '연습생' 시대",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862893"
         }
       }
     ]
