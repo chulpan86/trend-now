@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-11T01:44:12.375423+09:00",
-  "label": "01:44",
+  "timestamp": "2026-11-11T07:01:52.358835+09:00",
+  "label": "07:01",
   "items": [
     {
-      "keyword": "뉴데일리",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "\"젠슨황 외도 상대, 홍콩 영주권 42세 中사업가\"",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH202611102036062iy"
-      }
-    },
-    {
-      "keyword": "jtbc",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "JTBC launches sale, to pick preferred buyer in January",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-finance/2026/11/09/I67ZL7I37VCOJOM7A6MXFLPHRM/"
-      }
-    },
-    {
-      "keyword": "공공",
+      "keyword": "샤워",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "이 대통령, 공공기관 개혁 협조 당부‥전국 불법행위 실태 보고 지시",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6864586_36911.html"
+        "title": "[친절한 변호사K] 층간소음 피해, 현명한 대처법은?",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8707943"
       }
     },
     {
-      "keyword": "철도",
+      "keyword": "투자",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Marsh, 투자자문사 Wilshire 인수 합의",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/company-news/article-93CH-2169358"
+      }
+    },
+    {
+      "keyword": "안세영",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"아버지는 복싱 국가대표\"...'55연승' 안세영의 특별한 가족사에 해외 언론도 주목",
+        "source": "KBC광주방송",
+        "url": "https://www.ikbc.co.kr/article/view/kbc202611100031"
+      }
+    },
+    {
+      "keyword": "atp 파이널스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "앞으로의 철도, 어떤 모습이면 좋을까요? - 전체 | 카드/한컷 | 멀티미디어",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975355&pWise=sub&pWiseSub=C1"
+        "title": "스페인 신성 호다르, ATP 역사상 최초로 투어 데뷔 시즌에 파이널스 진출 성공",
+        "source": "테니스코리아",
+        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54281"
       }
     },
     {
-      "keyword": "추위",
+      "keyword": "농지",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘재개발 알박기’ 지적했던 李 “불법행위 방치 전수조사하라”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20261111/135002707/2"
+      }
+    },
+    {
+      "keyword": "항공기",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "수요일 아침 영하권 추위·낮엔 포근…일교차 15도 안팎",
+        "title": "‘닭장’ 항공기는 옛말… 좌석 간격 넓히는 LCC",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/11/10/25QH3ZRFFFGQBEJZUJWEXJKUSQ/"
+      }
+    },
+    {
+      "keyword": "헤지펀드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"월가가 亞 낮 시간대 들어온다\"… 나스닥 '23시간 거래' 도입에 홍콩 방어전 돌입",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111022120915720c8c1c064d_1"
+      }
+    },
+    {
+      "keyword": "한진칼",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "열흘새 두 배 뛴 한진칼 주가…현 시점 투자 전략은?",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611107815i"
+      }
+    },
+    {
+      "keyword": "스페이스x",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "스페이스X, 텍사스에 32조원 가스발전·AI센터 추진",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261110156300530"
+        "url": "https://www.yna.co.kr/view/AKR20261110011500009"
       }
     },
     {
-      "keyword": "장동윤",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "새마을금고",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "“햇살 같은 아이라서” 이유진, 첫 만남에 생각한 ‘아내’ 차경은의 첫인상♥",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483091950"
-      }
-    },
-    {
-      "keyword": "코어위브",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/company-news/article-93CH-2166112"
-      }
-    },
-    {
-      "keyword": "고발",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"낑낑\" 묶인 채 봉투 속에‥'이거 심상치 않다' 주변 뒤졌더니‥",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864656_37004.html"
-      }
-    },
-    {
-      "keyword": "한수아",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "한수아, 카리나와 절친 된 사연 \"먼저 번호 물어보더라…거의 매일 집에서 만나\" (우사편)",
-        "source": "엑스포츠뉴스",
-        "url": "https://www.xportsnews.com/article/2218053"
-      }
-    },
-    {
-      "keyword": "정승제",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "정승제 \"아이돌처럼 대학 때부터 키운다\"…스타 강사도 '연습생' 시대",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261110_0003862893"
+        "title": "240만원 넣으면 500만원으로 돌려받는다…충북도, 새마을금고와 ‘청년 두배 적금’ 추진",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202611101306001"
       }
     }
   ]
