@@ -516,5 +516,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-11T11:22:33.004426+09:00",
+    "label": "11:22",
+    "items": [
+      {
+        "keyword": "기사",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "사진으로 보는 일상의 풍경 /홍봉기 기자",
+          "source": "광양경제신문",
+          "url": "https://www.genews.co.kr/news/articleView.html?idxno=501443"
+        }
+      },
+      {
+        "keyword": "필라데피아 대 보스턴",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "76ers' Brown gives Tatum frosty reception early in 1st post-trade matchup",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/50447991/76ers-jaylen-brown-gives-jayson-tatum-frosty-reception-early-1st-post-trade-matchup"
+        }
+      },
+      {
+        "keyword": "솔비",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘이규한♥’ 솔비, 내년 결혼 앞두고 열일…갤러리 개관전 초청",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261110/135002266/1"
+        }
+      },
+      {
+        "keyword": "이형범",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"팬들에게 떳떳해지고 싶다\" KIA→한화 트레이드 이적생의 확신, 대전에서의 가을 꿈꾼다 [오!쎈 미야자키] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/202611102317770507O"
+        }
+      },
+      {
+        "keyword": "육군특수전사령부",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "군, 특전사 침투물자 구매물량 16배 확대…“전작권 전환 대비”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708268"
+        }
+      },
+      {
+        "keyword": "수원 fc",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "K리그2 수원FC, 32라운드 베스트팀 선정",
+          "source": "기호일보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040424"
+        }
+      },
+      {
+        "keyword": "트립닷컴 메가세일",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "제주 왕복 1100원부터…트립닷컴, 11일 오전 11시 특가전",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/hotel-tourism/6347319"
+        }
+      },
+      {
+        "keyword": "엽떡 11 월 11 일",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "오늘부터 '엽떡데이' 쿠폰 발급... 언제까지?",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192376"
+        }
+      },
+      {
+        "keyword": "미라 안드레예바",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261110138000007"
+        }
+      },
+      {
+        "keyword": "피클 ai",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261110014040989"
+        }
+      }
+    ]
   }
 ]

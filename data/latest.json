@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-11T07:01:52.358835+09:00",
-  "label": "07:01",
+  "timestamp": "2026-11-11T11:22:33.004426+09:00",
+  "label": "11:22",
   "items": [
     {
-      "keyword": "샤워",
+      "keyword": "기사",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "사진으로 보는 일상의 풍경 /홍봉기 기자",
+        "source": "광양경제신문",
+        "url": "https://www.genews.co.kr/news/articleView.html?idxno=501443"
+      }
+    },
+    {
+      "keyword": "필라데피아 대 보스턴",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[친절한 변호사K] 층간소음 피해, 현명한 대처법은?",
+        "title": "76ers' Brown gives Tatum frosty reception early in 1st post-trade matchup",
+        "source": "ESPN",
+        "url": "https://www.espn.com/nba/story/_/id/50447991/76ers-jaylen-brown-gives-jayson-tatum-frosty-reception-early-1st-post-trade-matchup"
+      }
+    },
+    {
+      "keyword": "솔비",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘이규한♥’ 솔비, 내년 결혼 앞두고 열일…갤러리 개관전 초청",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261110/135002266/1"
+      }
+    },
+    {
+      "keyword": "이형범",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "\"팬들에게 떳떳해지고 싶다\" KIA→한화 트레이드 이적생의 확신, 대전에서의 가을 꿈꾼다 [오!쎈 미야자키] - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/11/11/202611102317770507O"
+      }
+    },
+    {
+      "keyword": "육군특수전사령부",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "군, 특전사 침투물자 구매물량 16배 확대…“전작권 전환 대비”",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8707943"
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8708268"
       }
     },
     {
-      "keyword": "투자",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Marsh, 투자자문사 Wilshire 인수 합의",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/company-news/article-93CH-2169358"
-      }
-    },
-    {
-      "keyword": "안세영",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"아버지는 복싱 국가대표\"...'55연승' 안세영의 특별한 가족사에 해외 언론도 주목",
-        "source": "KBC광주방송",
-        "url": "https://www.ikbc.co.kr/article/view/kbc202611100031"
-      }
-    },
-    {
-      "keyword": "atp 파이널스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "스페인 신성 호다르, ATP 역사상 최초로 투어 데뷔 시즌에 파이널스 진출 성공",
-        "source": "테니스코리아",
-        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54281"
-      }
-    },
-    {
-      "keyword": "농지",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "‘재개발 알박기’ 지적했던 李 “불법행위 방치 전수조사하라”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20261111/135002707/2"
-      }
-    },
-    {
-      "keyword": "항공기",
+      "keyword": "수원 fc",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘닭장’ 항공기는 옛말… 좌석 간격 넓히는 LCC",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/11/10/25QH3ZRFFFGQBEJZUJWEXJKUSQ/"
+        "title": "K리그2 수원FC, 32라운드 베스트팀 선정",
+        "source": "기호일보",
+        "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040424"
       }
     },
     {
-      "keyword": "헤지펀드",
+      "keyword": "트립닷컴 메가세일",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"월가가 亞 낮 시간대 들어온다\"… 나스닥 '23시간 거래' 도입에 홍콩 방어전 돌입",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111022120915720c8c1c064d_1"
+        "title": "제주 왕복 1100원부터…트립닷컴, 11일 오전 11시 특가전",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/industry/hotel-tourism/6347319"
       }
     },
     {
-      "keyword": "한진칼",
+      "keyword": "엽떡 11 월 11 일",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "열흘새 두 배 뛴 한진칼 주가…현 시점 투자 전략은?",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202611107815i"
+        "title": "오늘부터 '엽떡데이' 쿠폰 발급... 언제까지?",
+        "source": "금강일보",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192376"
       }
     },
     {
-      "keyword": "스페이스x",
+      "keyword": "미라 안드레예바",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "스페이스X, 텍사스에 32조원 가스발전·AI센터 추진",
+        "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261110011500009"
+        "url": "https://www.yna.co.kr/view/AKR20261110138000007"
       }
     },
     {
-      "keyword": "새마을금고",
+      "keyword": "피클 ai",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "240만원 넣으면 500만원으로 돌려받는다…충북도, 새마을금고와 ‘청년 두배 적금’ 추진",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611101306001"
+        "title": "‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20261110014040989"
       }
     }
   ]
