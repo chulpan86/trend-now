@@ -1,11 +1,21 @@
 {
-  "timestamp": "2026-11-12T22:27:11.583613+09:00",
-  "label": "22:27",
+  "timestamp": "2026-11-13T06:14:53.232182+09:00",
+  "label": "06:14",
   "items": [
     {
-      "keyword": "원태인",
+      "keyword": "잉글랜드 대 크로아티아",
       "traffic_raw": "2000+",
       "traffic": 2000,
+      "news": {
+        "title": "잉글랜드 대 크로아티아 경기 예측, 11월 13일 오전 2시 45분: 잉글랜드, 8강 진출 확정",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-anh-vs-croatia-02h45-ngay-13-11-ve-tu-ket-cho-tam-su"
+      }
+    },
+    {
+      "keyword": "삼성 우승 할인",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
         "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
         "source": "뉴스1",
@@ -13,93 +23,83 @@
       }
     },
     {
-      "keyword": "천위페이",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "시청률",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
+        "title": "\"40시간 밤샘 촬영에 주먹다짐?\"…김윤석, 나홍진 감독과 불화설 해명 - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O"
+        "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111206010266536"
       }
     },
     {
-      "keyword": "공항철도",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
-        "source": "국민일보",
-        "url": "https://www.kmib.co.kr/article/20261112501567"
-      }
-    },
-    {
-      "keyword": "조희대",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12327837"
-      }
-    },
-    {
-      "keyword": "원자력 잠수함",
+      "keyword": "김하성",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261111130751073"
-      }
-    },
-    {
-      "keyword": "nol",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
-        "source": "Khaleej Times",
-        "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment"
-      }
-    },
-    {
-      "keyword": "신안산선",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "태백시, 철도망 국가계획 반영 총력…시민 설문 참여 요청",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261112171600062"
-      }
-    },
-    {
-      "keyword": "항공사",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112180246PVF"
-      }
-    },
-    {
-      "keyword": "두산 베어스",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "두산 신인 김지우, 이진영 코치도 칭찬…“파워·기술 겸비”",
+        "title": "“필라델피아, FA 김하성 영입 검토…단기 계약 내야수 찾는다”",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711118"
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8708449"
       }
     },
     {
-      "keyword": "신주아",
+      "keyword": "조선민주주의인민공화국",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "신주아, 남편 재벌설엔 선 그었는데…류화영 결혼식 참석 후 ‘사모님 화보’ [Oh!쎈 이슈]",
+        "title": "北 “핵보유국 지위, 서방 논의 대상 될수없어”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20261113/135017602/2"
+      }
+    },
+    {
+      "keyword": "돔 경기장",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "정명근, 화성 미래 담을 5만석 ‘K-MARS’ 돔 유치 승부수",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20261112/135016534/1"
+      }
+    },
+    {
+      "keyword": "물류",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "물류-기술 기업 매칭의 장 열린다…13일 밋업 개최",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261112_0003864804"
+      }
+    },
+    {
+      "keyword": "디에고 시메오네",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "'이강인 포함 18명 이탈' ATM 또 대형악재! '훈련 정상진행 불가' 긴급 수혈…시메오네 한숨 깊어진다",
         "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GI2TAM3CG5QTKN3BGQZDSMLFMQ/"
+        "url": "https://www.chosun.com/sports/world-football/2026/11/10/GM2WIMBUMFRGCZTEGBTDGNDFHA/"
+      }
+    },
+    {
+      "keyword": "김상식",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "딘 박은 호날두를 우상으로 여기기 때문에 7번 유니폼을 입는 것을 좋아하며, 호날두가 국가대표팀에서 8골을 넣었다는 사실에 '놀랍다'고 말합니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/dinh-bac-thich-mac-ao-so-7-vi-than-tuong-ronaldo-ngo-ngang-vi-da-ghi-8-ban-cho-doi-tuyen"
+      }
+    },
+    {
+      "keyword": "구미시",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "구미시, 공공시설은 더 쾌적하게...공공건축 품질은 더 꼼꼼하게",
+        "source": "프레시안",
+        "url": "https://www.pressian.com/pages/articles/2026111209230530983"
       }
     }
   ]
