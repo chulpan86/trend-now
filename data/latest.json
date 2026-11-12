@@ -1,102 +1,106 @@
 {
-  "timestamp": "2026-11-12T13:53:43.820014+09:00",
-  "label": "13:53",
+  "timestamp": "2026-11-12T22:27:11.583613+09:00",
+  "label": "22:27",
   "items": [
     {
-      "keyword": "장례",
+      "keyword": "원태인",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "가스공사, 대구파티마병원과 장례식장 다회용기 사용 본격 추진",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20261112004100353"
+        "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/industry/general-industry/6352149"
       }
     },
     {
-      "keyword": "소방",
+      "keyword": "천위페이",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "동두천소방서 30년 이상 장기근속 소방공무원 공로패 수여",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336637"
+        "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O"
       }
     },
     {
-      "keyword": "apbc 중계",
+      "keyword": "공항철도",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "'김주원 1번·김도영 2번'…최원호호, APBC 호주전 정예 선발 라인업 구축",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261112_0003865250"
+        "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
+        "source": "국민일보",
+        "url": "https://www.kmib.co.kr/article/20261112501567"
       }
     },
     {
-      "keyword": "포틀랜드 대 오클라호마시티",
+      "keyword": "조희대",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12327837"
+      }
+    },
+    {
+      "keyword": "원자력 잠수함",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261111130751073"
+      }
+    },
+    {
+      "keyword": "nol",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
+        "source": "Khaleej Times",
+        "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment"
+      }
+    },
+    {
+      "keyword": "신안산선",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[오클라호마시티 포틀랜드] 코트 떠나는 길저스-알렉산더",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749104"
+        "title": "태백시, 철도망 국가계획 반영 총력…시민 설문 참여 요청",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261112171600062"
       }
     },
     {
-      "keyword": "이건희",
+      "keyword": "항공사",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
-        "source": "신동아",
-        "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1"
+        "title": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112180246PVF"
       }
     },
     {
-      "keyword": "200만달러",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "프로야구 LG, 오스틴 딘과 재계약‥역대 외국인 타자 최고 연봉",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6865096_36946.html"
-      }
-    },
-    {
-      "keyword": "ssg 랜더스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823"
-      }
-    },
-    {
-      "keyword": "교장",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "교장 신분으로 정책국장에 부교육감 대리까지…장연국 도의원 “법적 근거 뭐냐”",
-        "source": "전북일보 인터넷신문",
-        "url": "https://www.jjan.kr/article/20261111500426"
-      }
-    },
-    {
-      "keyword": "김현지",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "장동혁, 이용철에 이념 공세 \"이석기와 연결‥등골이 오싹\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6865105_36911.html"
-      }
-    },
-    {
-      "keyword": "담배값 인상",
+      "keyword": "두산 베어스",
       "traffic_raw": "100+",
       "traffic": 100,
-      "news": null
+      "news": {
+        "title": "두산 신인 김지우, 이진영 코치도 칭찬…“파워·기술 겸비”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711118"
+      }
+    },
+    {
+      "keyword": "신주아",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "신주아, 남편 재벌설엔 선 그었는데…류화영 결혼식 참석 후 ‘사모님 화보’ [Oh!쎈 이슈]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GI2TAM3CG5QTKN3BGQZDSMLFMQ/"
+      }
     }
   ]
 }

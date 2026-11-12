@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-11T07:01:52.358835+09:00",
-    "label": "07:01",
-    "items": [
-      {
-        "keyword": "샤워",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[친절한 변호사K] 층간소음 피해, 현명한 대처법은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707943"
-        }
-      },
-      {
-        "keyword": "투자",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Marsh, 투자자문사 Wilshire 인수 합의",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/company-news/article-93CH-2169358"
-        }
-      },
-      {
-        "keyword": "안세영",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"아버지는 복싱 국가대표\"...'55연승' 안세영의 특별한 가족사에 해외 언론도 주목",
-          "source": "KBC광주방송",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202611100031"
-        }
-      },
-      {
-        "keyword": "atp 파이널스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "스페인 신성 호다르, ATP 역사상 최초로 투어 데뷔 시즌에 파이널스 진출 성공",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54281"
-        }
-      },
-      {
-        "keyword": "농지",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘재개발 알박기’ 지적했던 李 “불법행위 방치 전수조사하라”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261111/135002707/2"
-        }
-      },
-      {
-        "keyword": "항공기",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘닭장’ 항공기는 옛말… 좌석 간격 넓히는 LCC",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/10/25QH3ZRFFFGQBEJZUJWEXJKUSQ/"
-        }
-      },
-      {
-        "keyword": "헤지펀드",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"월가가 亞 낮 시간대 들어온다\"… 나스닥 '23시간 거래' 도입에 홍콩 방어전 돌입",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111022120915720c8c1c064d_1"
-        }
-      },
-      {
-        "keyword": "한진칼",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "열흘새 두 배 뛴 한진칼 주가…현 시점 투자 전략은?",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611107815i"
-        }
-      },
-      {
-        "keyword": "스페이스x",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "스페이스X, 텍사스에 32조원 가스발전·AI센터 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110011500009"
-        }
-      },
-      {
-        "keyword": "새마을금고",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "240만원 넣으면 500만원으로 돌려받는다…충북도, 새마을금고와 ‘청년 두배 적금’ 추진",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611101306001"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-11T11:22:33.004426+09:00",
     "label": "11:22",
     "items": [
@@ -624,6 +518,112 @@
         "traffic_raw": "100+",
         "traffic": 100,
         "news": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-12T22:27:11.583613+09:00",
+    "label": "22:27",
+    "items": [
+      {
+        "keyword": "원태인",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6352149"
+        }
+      },
+      {
+        "keyword": "천위페이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O"
+        }
+      },
+      {
+        "keyword": "공항철도",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261112501567"
+        }
+      },
+      {
+        "keyword": "조희대",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12327837"
+        }
+      },
+      {
+        "keyword": "원자력 잠수함",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111130751073"
+        }
+      },
+      {
+        "keyword": "nol",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
+          "source": "Khaleej Times",
+          "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment"
+        }
+      },
+      {
+        "keyword": "신안산선",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "태백시, 철도망 국가계획 반영 총력…시민 설문 참여 요청",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261112171600062"
+        }
+      },
+      {
+        "keyword": "항공사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112180246PVF"
+        }
+      },
+      {
+        "keyword": "두산 베어스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "두산 신인 김지우, 이진영 코치도 칭찬…“파워·기술 겸비”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711118"
+        }
+      },
+      {
+        "keyword": "신주아",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "신주아, 남편 재벌설엔 선 그었는데…류화영 결혼식 참석 후 ‘사모님 화보’ [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GI2TAM3CG5QTKN3BGQZDSMLFMQ/"
+        }
       }
     ]
   }
