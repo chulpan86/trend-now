@@ -520,5 +520,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-14T09:01:58.990773+09:00",
+    "label": "09:01",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "500000+",
+        "traffic": 500000,
+        "news": {
+          "title": "은행나무 ‘노란 단풍’ 절정…토요일 전국에 비",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712490"
+        }
+      },
+      {
+        "keyword": "참교육",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "아동학대 논란 휩싸인 민속촌 귀신…“웃는다고 괜찮은 건 아냐” 세계의 ‘공포 훈육’ 돌아보니 [이윤정 기자의 소소월드]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611121023001"
+        }
+      },
+      {
+        "keyword": "돈",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "\"돈 펑펑 쓸 때 아니다\"…AI 호황 누리는 한국에 날린 경고",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026111236311"
+        }
+      },
+      {
+        "keyword": "아르헨티나 대 우루과이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "한국 4-1로 무너뜨리더니 자신감 제대로 붙었다…포를란 감독, 모레노호 상대 대승에 만족 “수준 높은 한국 상대로 매우 좋은 경기력 보여줬다”",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698363"
+        }
+      },
+      {
+        "keyword": "명태균",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "명태균 '정자법 위반' 2심서 김한정 \"여론조사업체 명씨가 운영\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261113132700052"
+        }
+      },
+      {
+        "keyword": "argentina vs uruguay",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Licensable picture: International Friendly - Argentina v Uruguay",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/international-friendly-argentina-v-uruguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkQxUDNJUlg"
+        }
+      },
+      {
+        "keyword": "집",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "탕웨이가 2년 만에 손절한 '분당 신혼집' 땅, 그때 안 팔았더라면…",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/10/2026111002798.html"
+        }
+      },
+      {
+        "keyword": "faa",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Live updates: FAA issues nationwide ground stop for all flights",
+          "source": "CNN",
+          "url": "https://edition.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa"
+        }
+      },
+      {
+        "keyword": "보안",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘플라이빗’ 개인정보 40건 유출... 다우기술 그룹웨어 해킹 3번째 피해",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147241"
+        }
+      },
+      {
+        "keyword": "ionq",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "IonQ Names Gary Merrill CFO and Thomas Austin CAO",
+          "source": "IonQ",
+          "url": "https://www.ionq.com/news/ionq-announces-executive-leadership-evolution"
+        }
+      }
+    ]
   }
 ]
