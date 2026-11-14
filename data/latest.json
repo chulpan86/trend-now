@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-14T09:01:58.990773+09:00",
-  "label": "09:01",
+  "timestamp": "2026-11-14T16:10:50.691055+09:00",
+  "label": "16:10",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "500000+",
-      "traffic": 500000,
-      "news": {
-        "title": "은행나무 ‘노란 단풍’ 절정…토요일 전국에 비",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8712490"
-      }
-    },
-    {
-      "keyword": "참교육",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "아동학대 논란 휩싸인 민속촌 귀신…“웃는다고 괜찮은 건 아냐” 세계의 ‘공포 훈육’ 돌아보니 [이윤정 기자의 소소월드]",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611121023001"
-      }
-    },
-    {
-      "keyword": "돈",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "\"돈 펑펑 쓸 때 아니다\"…AI 호황 누리는 한국에 날린 경고",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026111236311"
-      }
-    },
-    {
-      "keyword": "아르헨티나 대 우루과이",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "한국 4-1로 무너뜨리더니 자신감 제대로 붙었다…포를란 감독, 모레노호 상대 대승에 만족 “수준 높은 한국 상대로 매우 좋은 경기력 보여줬다”",
-        "source": "인터풋볼",
-        "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698363"
-      }
-    },
-    {
-      "keyword": "명태균",
+      "keyword": "부산 kcc 대 서울 sk",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "명태균 '정자법 위반' 2심서 김한정 \"여론조사업체 명씨가 운영\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261113132700052"
+        "title": "[사진] 허훈, 우리 잘 하고 있어",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MMYGIMBRGAYDINJYGUZDKODGMU/"
       }
     },
     {
-      "keyword": "argentina vs uruguay",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Licensable picture: International Friendly - Argentina v Uruguay",
-        "source": "Reuters Connect",
-        "url": "https://www.reutersconnect.com/item/international-friendly-argentina-v-uruguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkQxUDNJUlg"
-      }
-    },
-    {
-      "keyword": "집",
+      "keyword": "감스트",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "탕웨이가 2년 만에 손절한 '분당 신혼집' 땅, 그때 안 팔았더라면…",
-        "source": "땅집고",
-        "url": "https://realty.chosun.com/site/data/html_dir/2026/11/10/2026111002798.html"
+        "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
+        "source": "Daily NTN",
+        "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154"
       }
     },
     {
-      "keyword": "faa",
+      "keyword": "이유진",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이유진♥차경은, 오늘 결혼…임신 겹경사",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261114_0003867991"
+      }
+    },
+    {
+      "keyword": "화장품",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Live updates: FAA issues nationwide ground stop for all flights",
-        "source": "CNN",
-        "url": "https://edition.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa"
+        "title": "영국, 안티에이징 광고 입증 기준 강화... 사우디 주사기형 화장품 포장 용기 금지",
+        "source": "CNC NEWS",
+        "url": "https://www.cncnews.co.kr/news/article.html?no=11401"
       }
     },
     {
-      "keyword": "보안",
+      "keyword": "피트 헤그세스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "‘플라이빗’ 개인정보 40건 유출... 다우기술 그룹웨어 해킹 3번째 피해",
-        "source": "보안뉴스",
-        "url": "https://www.boannews.com/news/articleView.html?idxno=147241"
+        "title": "국립묘지서 웃고 떠들다 경비병에 ‘정숙하라’ 경고받은 미 국방장관 일행",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202611121113001"
       }
     },
     {
-      "keyword": "ionq",
+      "keyword": "광교신도시",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "IonQ Names Gary Merrill CFO and Thomas Austin CAO",
-        "source": "IonQ",
-        "url": "https://www.ionq.com/news/ionq-announces-executive-leadership-evolution"
+        "title": "시세차익 따라 갈린 수도권 청약…5241가구 정당계약 시험대",
+        "source": "글로벌이코노믹",
+        "url": "https://www.g-enews.com/article/Real-Estate/2026/11/2026111310100171412aa6f4cdad_1"
+      }
+    },
+    {
+      "keyword": "로켓",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "지구 14바퀴 ‘코끼리코’ 돌고 ‘젓가락 잡기’ 2단 회수…머스크의 ‘무한도전’",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/science/technology/1287313.html"
+      }
+    },
+    {
+      "keyword": "장동윤",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "장동윤, 인도 마사지에 혼절 직전…곽튜브는 비명 (지구마불4)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261114/135024272/1"
+      }
+    },
+    {
+      "keyword": "elle",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "Laurence Haïm a 60 ans, elle a longtemps été proche de cet animateur à la tête d’une émission culte du PAF : “Je passais toutes mes vacances d’été avec lui”",
+        "source": "Gala",
+        "url": "https://www.gala.fr/l_actu/news_de_stars/laurence-haim-a-60-ans-elle-a-longtemps-ete-proche-de-cet-animateur-a-la-tete-d-une-emission-culte-du-paf-je-passais-toutes-mes-vacances-d-ete-avec-lui-20261114"
+      }
+    },
+    {
+      "keyword": "이현중",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘NBA 도전’ 이현중, G리그서 개인 최다 21점 폭발…3점포 4방",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712896"
       }
     }
   ]

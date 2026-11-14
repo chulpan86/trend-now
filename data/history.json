@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-12T22:27:11.583613+09:00",
-    "label": "22:27",
-    "items": [
-      {
-        "keyword": "원태인",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/general-industry/6352149"
-        }
-      },
-      {
-        "keyword": "천위페이",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O"
-        }
-      },
-      {
-        "keyword": "공항철도",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261112501567"
-        }
-      },
-      {
-        "keyword": "조희대",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12327837"
-        }
-      },
-      {
-        "keyword": "원자력 잠수함",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111130751073"
-        }
-      },
-      {
-        "keyword": "nol",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
-          "source": "Khaleej Times",
-          "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment"
-        }
-      },
-      {
-        "keyword": "신안산선",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "태백시, 철도망 국가계획 반영 총력…시민 설문 참여 요청",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112171600062"
-        }
-      },
-      {
-        "keyword": "항공사",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112180246PVF"
-        }
-      },
-      {
-        "keyword": "두산 베어스",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "두산 신인 김지우, 이진영 코치도 칭찬…“파워·기술 겸비”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711118"
-        }
-      },
-      {
-        "keyword": "신주아",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "신주아, 남편 재벌설엔 선 그었는데…류화영 결혼식 참석 후 ‘사모님 화보’ [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GI2TAM3CG5QTKN3BGQZDSMLFMQ/"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-13T06:14:53.232182+09:00",
     "label": "06:14",
     "items": [
@@ -623,6 +517,112 @@
           "title": "IonQ Names Gary Merrill CFO and Thomas Austin CAO",
           "source": "IonQ",
           "url": "https://www.ionq.com/news/ionq-announces-executive-leadership-evolution"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-14T16:10:50.691055+09:00",
+    "label": "16:10",
+    "items": [
+      {
+        "keyword": "부산 kcc 대 서울 sk",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[사진] 허훈, 우리 잘 하고 있어",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MMYGIMBRGAYDINJYGUZDKODGMU/"
+        }
+      },
+      {
+        "keyword": "감스트",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
+          "source": "Daily NTN",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154"
+        }
+      },
+      {
+        "keyword": "이유진",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "이유진♥차경은, 오늘 결혼…임신 겹경사",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261114_0003867991"
+        }
+      },
+      {
+        "keyword": "화장품",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "영국, 안티에이징 광고 입증 기준 강화... 사우디 주사기형 화장품 포장 용기 금지",
+          "source": "CNC NEWS",
+          "url": "https://www.cncnews.co.kr/news/article.html?no=11401"
+        }
+      },
+      {
+        "keyword": "피트 헤그세스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "국립묘지서 웃고 떠들다 경비병에 ‘정숙하라’ 경고받은 미 국방장관 일행",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611121113001"
+        }
+      },
+      {
+        "keyword": "광교신도시",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "시세차익 따라 갈린 수도권 청약…5241가구 정당계약 시험대",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Real-Estate/2026/11/2026111310100171412aa6f4cdad_1"
+        }
+      },
+      {
+        "keyword": "로켓",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "지구 14바퀴 ‘코끼리코’ 돌고 ‘젓가락 잡기’ 2단 회수…머스크의 ‘무한도전’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/science/technology/1287313.html"
+        }
+      },
+      {
+        "keyword": "장동윤",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "장동윤, 인도 마사지에 혼절 직전…곽튜브는 비명 (지구마불4)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261114/135024272/1"
+        }
+      },
+      {
+        "keyword": "elle",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Laurence Haïm a 60 ans, elle a longtemps été proche de cet animateur à la tête d’une émission culte du PAF : “Je passais toutes mes vacances d’été avec lui”",
+          "source": "Gala",
+          "url": "https://www.gala.fr/l_actu/news_de_stars/laurence-haim-a-60-ans-elle-a-longtemps-ete-proche-de-cet-animateur-a-la-tete-d-une-emission-culte-du-paf-je-passais-toutes-mes-vacances-d-ete-avec-lui-20261114"
+        }
+      },
+      {
+        "keyword": "이현중",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘NBA 도전’ 이현중, G리그서 개인 최다 21점 폭발…3점포 4방",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712896"
         }
       }
     ]
