@@ -516,5 +516,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-15T04:35:10.517675+09:00",
+    "label": "04:35",
+    "items": [
+      {
+        "keyword": "강신철",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "미 전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865577_36925.html"
+        }
+      },
+      {
+        "keyword": "치지직",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261113000071"
+        }
+      },
+      {
+        "keyword": "숲",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "\"10만 평 숲이 통째로 붉은빛으로 물들었다니\"… 입장료 한 푼 안 받는 늦가을 단풍 정원",
+          "source": "아던트뉴스",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21579"
+        }
+      },
+      {
+        "keyword": "젠지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114020600017"
+        }
+      },
+      {
+        "keyword": "blg",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Worlds Final Is First Without T1 Since 2021 After 3.6M Semi Peak",
+          "source": "RG.org",
+          "url": "https://rg.org/news/esports/worlds-2026-final-first-without-t1-since-2021-viewership"
+        }
+      },
+      {
+        "keyword": "lck",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Sources: Noah set to join BNK FEARX ahead of 2027 LCK Season",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/articles/sources-noah-set-to-join-bnk-fearx-ahead-of-2027-lck-season/en"
+        }
+      },
+      {
+        "keyword": "norway vs wales",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Norway vs Wales: Lineups, Prediction, Odds & Bet Builder Tip",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/articles/kqOJt_4WBU6ACNPJGYVACg/show/cng111-20261114-norway-vs-wales-prediction-1794649062"
+        }
+      },
+      {
+        "keyword": "천준호",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865696_36911.html"
+        }
+      },
+      {
+        "keyword": "음식 배달",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "전배모 \"배달 라이더 84%, 수익감소 우려…수수료 규제 반대\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/13/2026111314260557793"
+        }
+      },
+      {
+        "keyword": "raf",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "RAF Abu Dhabi: Khamzat Chimaev vs. Chris Weidman Live Updates, Highlights, Results",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/liveblogs/25532850-raf-abu-dhabi-khamzat-chimaev-vs-chris-weidman-live-updates-highlights-results"
+        }
+      }
+    ]
   }
 ]

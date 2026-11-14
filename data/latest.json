@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-11-14T23:37:44.969190+09:00",
-  "label": "23:37",
+  "timestamp": "2026-11-15T04:35:10.517675+09:00",
+  "label": "04:35",
   "items": [
     {
-      "keyword": "문무",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "강신철",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[2화 예고] 너도 이제 나라를 위해 칼을 들어야 한다 [문무] | KBS 방송",
-        "source": "대한민국 대표 공영미디어 KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2025206252-01-000_20261114_TECH002&program_code=T2025-0499&program_id=PS-2025206252-01-000&section_code=03&broadcast_complete_yn=N&section_id=28257"
+        "title": "미 전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6865577_36925.html"
       }
     },
     {
-      "keyword": "천천히 강렬하게",
+      "keyword": "치지직",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261113000071"
+      }
+    },
+    {
+      "keyword": "숲",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/"
+        "title": "\"10만 평 숲이 통째로 붉은빛으로 물들었다니\"… 입장료 한 푼 안 받는 늦가을 단풍 정원",
+        "source": "아던트뉴스",
+        "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21579"
       }
     },
     {
-      "keyword": "갈비뼈",
+      "keyword": "젠지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261114020600017"
+      }
+    },
+    {
+      "keyword": "blg",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "멀쩡한 갈비뼈 6개 부러뜨린 30대 여성...이유는?",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114141351tED"
+        "title": "Worlds Final Is First Without T1 Since 2021 After 3.6M Semi Peak",
+        "source": "RG.org",
+        "url": "https://rg.org/news/esports/worlds-2026-final-first-without-t1-since-2021-viewership"
       }
     },
     {
-      "keyword": "맥도날드 세종dt점",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "새벽 2시부터 줄 섰다…‘인구 40만’ 세종시 첫 맥도날드, 오픈런에 경찰까지 출동",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261114502699"
-      }
-    },
-    {
-      "keyword": "버거킹",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "욕심껏 ‘꽉꽉’ 채운 내 버거가 신메뉴로?…버거킹 플레임 랩 가보니 [현장]",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12205410"
-      }
-    },
-    {
-      "keyword": "로또1250",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "제1250회 로또 1등 9명···당첨금 31억원",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611142052001"
-      }
-    },
-    {
-      "keyword": "데블스 플랜",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "딜라이브",
+      "keyword": "lck",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "LG헬로 시청자 투니버스 못 보게 된다?… 시청자는 무슨 죄",
-        "source": "미디어오늘",
-        "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338414"
+        "title": "Sources: Noah set to join BNK FEARX ahead of 2027 LCK Season",
+        "source": "Sheep Esports",
+        "url": "https://www.sheepesports.com/en/articles/sources-noah-set-to-join-bnk-fearx-ahead-of-2027-lck-season/en"
       }
     },
     {
-      "keyword": "아이오아이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[ET포토] 라이즈, '여심 헌터들'",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261114000050"
-      }
-    },
-    {
-      "keyword": "nhật bản đấu với brasil",
+      "keyword": "norway vs wales",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Ancelotti and Raphinha sent off as Japan beat Brazil",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t"
+        "title": "Norway vs Wales: Lineups, Prediction, Odds & Bet Builder Tip",
+        "source": "WhoScored.com",
+        "url": "https://www.whoscored.com/articles/kqOJt_4WBU6ACNPJGYVACg/show/cng111-20261114-norway-vs-wales-prediction-1794649062"
+      }
+    },
+    {
+      "keyword": "천준호",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6865696_36911.html"
+      }
+    },
+    {
+      "keyword": "음식 배달",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "전배모 \"배달 라이더 84%, 수익감소 우려…수수료 규제 반대\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/industry/2026/11/13/2026111314260557793"
+      }
+    },
+    {
+      "keyword": "raf",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "RAF Abu Dhabi: Khamzat Chimaev vs. Chris Weidman Live Updates, Highlights, Results",
+        "source": "Bleacher Report",
+        "url": "https://bleacherreport.com/liveblogs/25532850-raf-abu-dhabi-khamzat-chimaev-vs-chris-weidman-live-updates-highlights-results"
       }
     }
   ]
