@@ -1,103 +1,5 @@
 [
   {
-    "timestamp": "2026-11-14T03:17:02.030643+09:00",
-    "label": "03:17",
-    "items": [
-      {
-        "keyword": "김수현",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611131959001"
-        }
-      },
-      {
-        "keyword": "대한민국",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261113129300030"
-        }
-      },
-      {
-        "keyword": "쿠플",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "월즈 결승",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "[롤드컵]쵸비·기인·듀로의 첫 우승 꿈…룰러·캐니언과 이룰까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864630"
-        }
-      },
-      {
-        "keyword": "인벤",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "박지현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "나 혼자 산다",
-          "source": "MBC",
-          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100000&type=Prevod"
-        }
-      },
-      {
-        "keyword": "구성환",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "\"초콜릿에 러브레터 많이 받아\" 구성환, 4대 천왕 비주얼 공개 ('나혼산')",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MU3DAZJUMIZGCM3CMIYWMNZYGI/"
-        }
-      },
-      {
-        "keyword": "오세훈",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독] \"배현진 1년\"·\"제명\"‥장동혁 측 외부 인사가 징계 수위 전달",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865535_36911.html"
-        }
-      },
-      {
-        "keyword": "포수",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285"
-        }
-      },
-      {
-        "keyword": "광천동주택재개발",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "광천동 재개발 철거 착수…교통망 확충은 ‘난항’",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082235"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-14T09:01:58.990773+09:00",
     "label": "09:01",
     "items": [
@@ -725,6 +627,112 @@
           "title": "비트코인 6만7033달러·8956만원, 하이퍼리퀴드 거래자 순롱 전환",
           "source": "토큰포스트",
           "url": "https://www.tokenpost.kr/news/cryptocurrency/438331"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-15T20:38:33.215745+09:00",
+    "label": "20:38",
+    "items": [
+      {
+        "keyword": "전국노래자랑",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'전국노래자랑' 영광에 박서진·박군·김혜연 초대가수 총출동",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752338"
+        }
+      },
+      {
+        "keyword": "apbc 중계",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261115011300007"
+        }
+      },
+      {
+        "keyword": "임창정",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'열린음악회' 초호화 라인업… 임창정·장기하·김나영·TWS(투어스)·잭킹콩 총출동",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752492"
+        }
+      },
+      {
+        "keyword": "웨이브",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "노정의 '우아한 여인'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/photo/202611151951172214"
+        }
+      },
+      {
+        "keyword": "bangladesh vs south africa",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Shanto: 'Very important for the whole batting unit to perform'",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/sa-vs-ban-najmul-hossain-shanto-very-important-for-the-whole-batting-unit-to-perform-1562662"
+        }
+      },
+      {
+        "keyword": "백신",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "생후 6개월 영아에 하루 지난 백신 투여한 의사…대법 “면허정지는 과도해”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611151323001"
+        }
+      },
+      {
+        "keyword": "로봇",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261115000075"
+        }
+      },
+      {
+        "keyword": "멜론 뮤직 어워드",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "힐링 아일릿",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261115_0021533394"
+        }
+      },
+      {
+        "keyword": "화물기",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "미국, 이틀째 항공 대란 와중에 화물기·여객기 충돌",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865783_36925.html"
+        }
+      },
+      {
+        "keyword": "sk하이닉스 채용",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111061700003"
         }
       }
     ]
