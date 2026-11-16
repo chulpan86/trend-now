@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-15T12:48:35.757044+09:00",
-    "label": "12:48",
-    "items": [
-      {
-        "keyword": "투자",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "美연준, AI발 금융위험 경고…자산가치 고평가·부채급증 우려",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261115011000072"
-        }
-      },
-      {
-        "keyword": "골프",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "유메노 마사다, 이토엔 레이디스 2라운드 6번 홀 티샷",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752333"
-        }
-      },
-      {
-        "keyword": "항공모함",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "한국 해군, F-35B 항모 접고 무인기 20대 탑재 270m 대형 모함 택했다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611150721222083fbbec65dfb_1"
-        }
-      },
-      {
-        "keyword": "india vs new zealand",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Streak broken, New Zealand hope to prevent rare overseas ODI series win for India",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-preview"
-        }
-      },
-      {
-        "keyword": "김지찬",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710671"
-        }
-      },
-      {
-        "keyword": "ufc 중계",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'첫 헤비급 방어전' 시릴 간, 호킷과 맞대결 \"마음가짐 늘 똑같아... 반드시 승리할 것\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111410412252637"
-        }
-      },
-      {
-        "keyword": "임예진",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "15년 전 5천만원 주고 산 제주땅이 고작 82만원…충격 받은 임예진, 무슨 사연",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12208840"
-        }
-      },
-      {
-        "keyword": "박지현",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "나 혼자 산다",
-          "source": "MBC",
-          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100005&type=Clip"
-        }
-      },
-      {
-        "keyword": "jamaica vs mexico",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Jamaica vence 3-2 a México en la ida de cuartos de final de Liga de Naciones de Concacaf",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/jamaica-vence-3-2-m%C3%A9xico-031901407.html"
-        }
-      },
-      {
-        "keyword": "비트코인 시세",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "비트코인 6만7033달러·8956만원, 하이퍼리퀴드 거래자 순롱 전환",
-          "source": "토큰포스트",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/438331"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-15T20:38:33.215745+09:00",
     "label": "20:38",
     "items": [
@@ -631,6 +525,112 @@
           "title": "지스타 2026, 제2전시장에 글로벌·인디 쇼케이스... 150대 시연대 운영",
           "source": "전자신문",
           "url": "https://www.etnews.com/20261116000232"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T07:38:16.281914+09:00",
+    "label": "07:38",
+    "items": [
+      {
+        "keyword": "weather",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "From snowplows to salt; How county crews and businesses are gearing up for winter",
+          "source": "TMJ4 News",
+          "url": "https://www.tmj4.com/news/local-news/county-reporting/waukesha-county/from-snowplows-to-salt-how-county-crews-and-businesses-are-gearing-up-for-winter"
+        }
+      },
+      {
+        "keyword": "погода",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
+          "source": "Т—Ж",
+          "url": "https://t-j.ru/weather-msc-16-22nov/"
+        }
+      },
+      {
+        "keyword": "thời tiết",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
+          "source": "Báo Bắc Ninh",
+          "url": "https://baobacninhtv.vn/xuat-hien-khong-khi-lanh-gay-ret-bac-bo-va-bac-trung-bo-tu-ngay-18-11-postid458462.bbg"
+        }
+      },
+      {
+        "keyword": "สภาพอากาศ",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
+          "source": "Thansettakij",
+          "url": "https://www.thansettakij.com/general-news/673912"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "暴雪、大暴雪，来了",
+          "source": "凤凰网",
+          "url": "https://feng.ifeng.com/c/8y4ajundHQh"
+        }
+      },
+      {
+        "keyword": "germany vs netherlands",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Klopp’s Germany humiliate Netherlands in historic 69-year first after explosive call for FIFA president to quit",
+          "source": "football360.com.au",
+          "url": "https://football360.com.au/germany-netherlands-5-0-klopp-xavi-nations-league/"
+        }
+      },
+      {
+        "keyword": "코트",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "겨울에 '이것' 없으면 코트 잘못 입는 거예요",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "url": "https://www.elle.co.kr/article/1912922"
+        }
+      },
+      {
+        "keyword": "황보라",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/"
+        }
+      },
+      {
+        "keyword": "범죄",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "靑 “사회적 약자 대상 범죄 강력대응… ‘가석방 없는 무기형’ 도입 등 논의”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20261116/135028762/2"
+        }
+      },
+      {
+        "keyword": "아리바이오",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[속보] 아리바이오 AR1001, AD 3상 전체 환자선 '부족'…단독투여군서 1차 지표 '충족'",
+          "source": "히트뉴스",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80835"
         }
       }
     ]

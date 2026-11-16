@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-16T21:14:49.728928+09:00",
-  "label": "21:14",
+  "timestamp": "2026-11-17T07:38:16.281914+09:00",
+  "label": "07:38",
   "items": [
     {
-      "keyword": "서울 sk 대 울산 현대모비스",
+      "keyword": "weather",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "From snowplows to salt; How county crews and businesses are gearing up for winter",
+        "source": "TMJ4 News",
+        "url": "https://www.tmj4.com/news/local-news/county-reporting/waukesha-county/from-snowplows-to-salt-how-county-crews-and-businesses-are-gearing-up-for-winter"
+      }
+    },
+    {
+      "keyword": "погода",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
+        "source": "Т—Ж",
+        "url": "https://t-j.ru/weather-msc-16-22nov/"
+      }
+    },
+    {
+      "keyword": "thời tiết",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
+        "source": "Báo Bắc Ninh",
+        "url": "https://baobacninhtv.vn/xuat-hien-khong-khi-lanh-gay-ret-bac-bo-va-bac-trung-bo-tu-ngay-18-11-postid458462.bbg"
+      }
+    },
+    {
+      "keyword": "สภาพอากาศ",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
+      "news": {
+        "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
+        "source": "Thansettakij",
+        "url": "https://www.thansettakij.com/general-news/673912"
+      }
+    },
+    {
+      "keyword": "天气",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[사진]전희철 감독, 워니와 즐거운 대화",
+        "title": "暴雪、大暴雪，来了",
+        "source": "凤凰网",
+        "url": "https://feng.ifeng.com/c/8y4ajundHQh"
+      }
+    },
+    {
+      "keyword": "germany vs netherlands",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Klopp’s Germany humiliate Netherlands in historic 69-year first after explosive call for FIFA president to quit",
+        "source": "football360.com.au",
+        "url": "https://football360.com.au/germany-netherlands-5-0-klopp-xavi-nations-league/"
+      }
+    },
+    {
+      "keyword": "코트",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "겨울에 '이것' 없으면 코트 잘못 입는 거예요",
+        "source": "엘르 코리아 │ ELLE KOREA",
+        "url": "https://www.elle.co.kr/article/1912922"
+      }
+    },
+    {
+      "keyword": "황보라",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/11/16/GZRTGZBRHE2DOZLDGY3TOY3EME/"
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/"
       }
     },
     {
-      "keyword": "빙부상",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘한동훈 장인’ 진형구 별세…생전 “검찰이 파업 유도” 폭탄발언도",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1287380.html"
-      }
-    },
-    {
-      "keyword": "간호",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "작은 산부인과에서 AI 첨단병원까지, 70년 역사의 병원이 미래 의료를 여는 법",
-        "source": "YTN 사이언스",
-        "url": "https://science.ytn.co.kr/program/view.php?mcd=1753&key=202611160918175563"
-      }
-    },
-    {
-      "keyword": "인사청문회",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "이 대통령, 법무장관·국세청장 후보자 인사청문요청안 재가",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611161657584232_005.html"
-      }
-    },
-    {
-      "keyword": "보안",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "금보원, 해킹 공격 246개 IP 주소 차단 완료... ‘유동 IP 접속 허용’ 원인 지목",
-        "source": "보안뉴스",
-        "url": "https://www.boannews.com/news/articleView.html?idxno=147263"
-      }
-    },
-    {
-      "keyword": "두두",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "[오피셜] '두두' 이동주, DN 수퍼스와 28년까지 동행… \"보답하고 싶다\"",
-        "source": "데일리e스포츠",
-        "url": "https://www.dailyesports.com/view.php?ud=20261116201733393074bcc1e038_27"
-      }
-    },
-    {
-      "keyword": "나솔",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'나솔' 31기 옥순 \"'취집' 오해 억울\"…영호와 재결합설 일축 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111519355822809"
-      }
-    },
-    {
-      "keyword": "김강우",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김강우, 아내 몰래 1년간 활동 중단…\"일 안 들어온다고 거짓말\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111609332944832"
-      }
-    },
-    {
-      "keyword": "결승전",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "스마일게이트 '에픽세븐', E7WC 2026 결승전 티켓 예매 시작",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20261116180636"
-      }
-    },
-    {
-      "keyword": "구글플레이",
+      "keyword": "범죄",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "지스타 2026, 제2전시장에 글로벌·인디 쇼케이스... 150대 시연대 운영",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261116000232"
+        "title": "靑 “사회적 약자 대상 범죄 강력대응… ‘가석방 없는 무기형’ 도입 등 논의”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20261116/135028762/2"
+      }
+    },
+    {
+      "keyword": "아리바이오",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[속보] 아리바이오 AR1001, AD 3상 전체 환자선 '부족'…단독투여군서 1차 지표 '충족'",
+        "source": "히트뉴스",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80835"
       }
     }
   ]
