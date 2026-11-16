@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-16T08:14:33.043390+09:00",
-  "label": "08:14",
+  "timestamp": "2026-11-16T12:49:06.737161+09:00",
+  "label": "12:49",
   "items": [
     {
-      "keyword": "운세",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "담합",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "오늘의 운세 - 2026년 11월 16일 월요일(음력 10월 8일)",
-        "source": "울산종합일보",
-        "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065592381451362"
+        "title": "美법원, D램 담합 소송 허용…삼성·SK하이닉스 'HBM 생산' 영향주나",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20261116000287"
       }
     },
     {
-      "keyword": "해리 케인",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "주가조작",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "‘126경기 대기록’ 자축 결승골까지…발롱도르 품은 해리 케인, 잉글랜드 축구 역사 새로 쓰다",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261113509399"
-      }
-    },
-    {
-      "keyword": "김정은",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "미 국무, 김정은 거론하며 \"정권 생존 원할 뿐 팽창주의자 아냐\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6865858_36925.html"
-      }
-    },
-    {
-      "keyword": "통근",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘수도권∼세종청사 통근버스’ 5년 만에 부활",
+        "title": "[속보] 대법, 한덕수 ‘내란 혐의’ 19일 선고…구속 만료 하루 전 결론",
         "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611152055045"
+        "url": "https://www.khan.co.kr/article/202611161012021"
       }
     },
     {
-      "keyword": "spanyol vs inggris",
+      "keyword": "무역",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026111575161"
+      }
+    },
+    {
+      "keyword": "즉석밥",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "CJ제일제당, 햇반 30주년 기념 한정판 신제품 ‘햇반 30곡밥’ 출시 – CJ 뉴스룸",
+        "source": "CJ 뉴스룸",
+        "url": "https://cjnews.cj.net/cj%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9-%ED%96%87%EB%B0%98-30%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%ED%95%9C%EC%A0%95%ED%8C%90-%EC%8B%A0%EC%A0%9C%ED%92%88-%ED%96%87%EB%B0%98-30%EA%B3%A1/"
+      }
+    },
+    {
+      "keyword": "이재명",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 카드/한컷 | 멀티미디어",
+        "source": "대한민국 정책브리핑",
+        "url": "https://m.korea.kr/multi/visualNewsView.do?newsId=148975751&pWise=mSub&pWiseSub=I1"
+      }
+    },
+    {
+      "keyword": "우주",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "‘우주의 새벽’은 어떻게 열렸나…슈퍼컴이 재현한 빅뱅 후 20억년",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/science/science_general/1287480.html"
+      }
+    },
+    {
+      "keyword": "한화그룹",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Hasil UEFA Nations League: 10 Pemain Inggris Hajar Spanyol di Madrid",
-        "source": "CNN Indonesia",
-        "url": "https://www.cnnindonesia.com/olahraga/20261116050255-142-1427464/hasil-uefa-nations-league-10-pemain-inggris-hajar-spanyol-di-madrid"
+        "title": "삼성·SK·네이버가 샀지만…한화 100억대 초호화 레지던스 절반 미분양",
+        "source": "땅집고",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/11/13/2026111301362.html"
       }
     },
     {
-      "keyword": "테니스",
+      "keyword": "예멘",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "프리츠, 스톡홀름오픈 우승으로 시즌 마무리… 개인 첫 실내 타이틀",
-        "source": "테니스코리아",
-        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54303"
+        "title": "“후티 공세에 예멘 정부군, 바브엘만데브 해협서 사실상 철수”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8713291"
       }
     },
     {
-      "keyword": "tây ban nha đấu với anh",
+      "keyword": "청주시",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Rực lửa Tây Ban Nha đấu ĐT Anh: Kane \"tự làm tự ăn\" đẳng cấp",
-        "source": "Tin tức 24h",
-        "url": "https://www.24h.com.vn/bong-da/ruc-lua-tay-ban-nha-dau-dt-anh-the-tran-mot-chieu-c48a1811394.html"
+        "title": "청주 김장재료 28개 품목 구입비 34만3천원…작년보다 3.4%↑",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261116037300064"
       }
     },
     {
-      "keyword": "สเปน พบ อังกฤษ",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "조선민주주의인민공화국",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "ยูฟ่า เนชั่นส์ ลีก: สี่แมตช์จะเริ่มแข่งขันพร้อมกันในเวลา 02:45 น. ของวันที่ 16 พฤศจิกายน",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/th/uefa-nations-league-4-tran-dau-cung-khoi-tranh-luc-2h45-ngay-16-11"
-      }
-    },
-    {
-      "keyword": "испания – англия",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Сборная Англии прервала рекордную беспроигрышную серию Испании",
-        "source": "https://www.championat.ru/",
-        "url": "https://www.championat.ru/football/news-6701028-sbornaya-anglii-prervala-rekordnuyu-besproigryshnuyu-seriyu-ispanii.html"
-      }
-    },
-    {
-      "keyword": "미나미",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "“많아야 1시간 잔다”더니…‘리센느’ 미나미, 건강 이유로 스케줄 불참",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20261115/135027925/2"
+        "title": "통일부 “북한 조용원, 미중러회담 앞두고 방러…관련 동향 주시”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8713693"
       }
     }
   ]
