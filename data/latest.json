@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-11-17T13:52:29.536510+09:00",
-  "label": "13:52",
+  "timestamp": "2026-11-17T22:58:17.252404+09:00",
+  "label": "22:58",
   "items": [
     {
-      "keyword": "김선태",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
+      "keyword": "최희",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026111708667"
+        "title": "“아이들 두고 어떻게 떠나나”…최희 장기기증 결심, 무슨 일?",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/culture/12211368"
       }
     },
     {
-      "keyword": "장동혁",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "미스터트롯",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "장동혁, 한동훈 장인상 조문…한 “대표님 잠깐” 짧은 대화도",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611171042001"
+        "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/musics/12211506"
       }
     },
     {
-      "keyword": "장민기",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'9위 추락' KIA 마운드의 희망이었는데…방출 칼바람에 야구공 놓는다 \"인생에서 가장 빛나는 추억\"",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019982"
-      }
-    },
-    {
-      "keyword": "담보 대출",
+      "keyword": "배정혜",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611161646001"
+        "title": "원로 무용가 배정혜 리틀엔젤스예술단 명예예술감독 별세",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/People/article/all/20261117/135040268/1"
       }
     },
     {
-      "keyword": "면세점",
+      "keyword": "가덕도신공항",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 단독 출시",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261117000220"
+        "title": "국힘 부산시당, 내일 가덕도신공항 공사비 현실화 간담회",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261116121000051"
       }
     },
     {
-      "keyword": "embassy",
+      "keyword": "최저임금",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "(LEAD) S. Korea seeks to reconstruct aging embassy in U.S. amid uncertainty over funding",
-        "source": "Yonhap News Agency",
-        "url": "https://en.yna.co.kr/view/AEN20261116007951315"
+        "title": "간호조무사 임금 \"수가 체계와 연동해야\"",
+        "source": "의협신문",
+        "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200078"
       }
     },
     {
-      "keyword": "마이클 버리",
+      "keyword": "디지털 자산",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "빗썸 매출 99.99%가 수수료 수입…두나무와 격차 확대",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261117085400002"
+      }
+    },
+    {
+      "keyword": "gta6 출시일",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "출시 이틀 앞둔 ‘GTA6’, 사전예약 1500만장 육박…매출 2조원 달해",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/it-science/ict/2026/11/17/Y2MS2PYBSVAT7KRSMUY6X7BCSI/"
+      }
+    },
+    {
+      "keyword": "엔비디아 우회 수출 의혹 및 젠슨 황 복귀 논의에 대한 최신 뉴스 알려줘",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "비니시우스 주니오르",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "'빅쇼트' 버리 \"나스닥 약세 베팅 확대…내년 반도체주 하락 전망\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444844"
+        "title": "'레알서 12경기 1골 극도의 부진' 비니시우스 또 핑계 댄다 \"아스날 이적설 때문에 부담감 컸다\" - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/11/17/202611171835775620O"
       }
     },
     {
-      "keyword": "자오창펑",
+      "keyword": "mbk 파트너스",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "자오창펑 바이낸스 CEO \"우린 비트코인 안 팔았다\"",
+        "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
         "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03581766645646376"
-      }
-    },
-    {
-      "keyword": "김준호",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'만삭' 김지민, 장롱면허 김준호 대신해 운전대 잡았다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261116_0003868998"
-      }
-    },
-    {
-      "keyword": "예비소집일",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450"
+        "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704"
       }
     }
   ]
