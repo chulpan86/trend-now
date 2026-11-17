@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-16T12:49:06.737161+09:00",
-    "label": "12:49",
-    "items": [
-      {
-        "keyword": "담합",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "美법원, D램 담합 소송 허용…삼성·SK하이닉스 'HBM 생산' 영향주나",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261116000287"
-        }
-      },
-      {
-        "keyword": "주가조작",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[속보] 대법, 한덕수 ‘내란 혐의’ 19일 선고…구속 만료 하루 전 결론",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611161012021"
-        }
-      },
-      {
-        "keyword": "무역",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111575161"
-        }
-      },
-      {
-        "keyword": "즉석밥",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "CJ제일제당, 햇반 30주년 기념 한정판 신제품 ‘햇반 30곡밥’ 출시 – CJ 뉴스룸",
-          "source": "CJ 뉴스룸",
-          "url": "https://cjnews.cj.net/cj%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9-%ED%96%87%EB%B0%98-30%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%ED%95%9C%EC%A0%95%ED%8C%90-%EC%8B%A0%EC%A0%9C%ED%92%88-%ED%96%87%EB%B0%98-30%EA%B3%A1/"
-        }
-      },
-      {
-        "keyword": "이재명",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 카드/한컷 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://m.korea.kr/multi/visualNewsView.do?newsId=148975751&pWise=mSub&pWiseSub=I1"
-        }
-      },
-      {
-        "keyword": "우주",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘우주의 새벽’은 어떻게 열렸나…슈퍼컴이 재현한 빅뱅 후 20억년",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1287480.html"
-        }
-      },
-      {
-        "keyword": "한화그룹",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "삼성·SK·네이버가 샀지만…한화 100억대 초호화 레지던스 절반 미분양",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/13/2026111301362.html"
-        }
-      },
-      {
-        "keyword": "예멘",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“후티 공세에 예멘 정부군, 바브엘만데브 해협서 사실상 철수”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713291"
-        }
-      },
-      {
-        "keyword": "청주시",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "청주 김장재료 28개 품목 구입비 34만3천원…작년보다 3.4%↑",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116037300064"
-        }
-      },
-      {
-        "keyword": "조선민주주의인민공화국",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "통일부 “북한 조용원, 미중러회담 앞두고 방러…관련 동향 주시”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713693"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-16T21:14:49.728928+09:00",
     "label": "21:14",
     "items": [
@@ -521,6 +415,112 @@
           "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
           "source": "마켓인",
           "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-18T07:01:11.998705+09:00",
+    "label": "07:01",
+    "items": [
+      {
+        "keyword": "안세영",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "[뉴스9 강원 클로징]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713273"
+        }
+      },
+      {
+        "keyword": "배당",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "미래에셋자산운용, TIGER 액티브 커버드콜 ETF 순자산 4조원 돌파",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261117000070"
+        }
+      },
+      {
+        "keyword": "뉴스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "“임원들에 고성·압박, 12명 줄퇴사···엔비디아 경영진도 꼼짝 못 한 젠슨 황 딸은 사실상 ‘아버지 비서실장’”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611171508001"
+        }
+      },
+      {
+        "keyword": "wales đấu với bồ đào nha",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "HLV Bồ Đào Nha tiếp tục mâu thuẫn với học trò",
+          "source": "Znews",
+          "url": "https://znews.vn/hlv-bo-dao-nha-tiep-tuc-mau-thuan-voi-hoc-tro-post1696902.html"
+        }
+      },
+      {
+        "keyword": "롤 점검",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "리그 오브 레전드 26.23 패치 노트",
+          "source": "League of Legends",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-23-notes/"
+        }
+      },
+      {
+        "keyword": "수출",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "수출 1조 달러 시대, 세계가 찾는 기술에서 세계인의 일상 속 제품까지 - 영상 | 멀티미디어",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975889"
+        }
+      },
+      {
+        "keyword": "수사",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘조작기소 특검법’ 국무회의 통과, 최장 200일 수사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261118/135043027/2"
+        }
+      },
+      {
+        "keyword": "정웅인",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "정웅인, 전 매니저 사기 피해→소속사 대표 사망…\"또 위기\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111706401419953"
+        }
+      },
+      {
+        "keyword": "노동자",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "얼굴 파랗게 질려 숨진 27살…HD현대삼호 하청 ‘장례도 못 치른 보름’",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/honam/1287732.html"
+        }
+      },
+      {
+        "keyword": "훈련",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "러 외무 “한·미·일 군사훈련 목적은 북한 억제” 비난",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715580"
         }
       }
     ]
