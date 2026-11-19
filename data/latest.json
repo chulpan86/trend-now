@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-19T11:18:58.640904+09:00",
-  "label": "11:18",
+  "timestamp": "2026-11-19T19:54:40.621056+09:00",
+  "label": "19:54",
   "items": [
     {
-      "keyword": "시즌2",
+      "keyword": "사건",
       "traffic_raw": "10000+",
       "traffic": 10000,
       "news": {
-        "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+        "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/"
+      }
+    },
+    {
+      "keyword": "수능 답지 공개 시간",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "교문 밖에서부터 단추 떼고 휴대전화 반납...\"민무늬 옷 입었다\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611191528151372_005.html"
+      }
+    },
+    {
+      "keyword": "시험장",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "따뜻한 응원 속 수험생들 입실...경찰·소방 구조도",
+        "source": "YTN 사이언스",
+        "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611191600559677&s_hcd="
+      }
+    },
+    {
+      "keyword": "안양 정관장 대 부산 kcc",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "[핌in안양] KCC전 홈 8연승 도전, 정관장 유도훈 감독 \"변준형 발목, 박지훈 허리 부담\"",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20261119001422"
+      }
+    },
+    {
+      "keyword": "국어 시험지",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "\"이게 오늘 수능 국어야, 풀어봐\" 시켰더니…AI, 2분 만에 100점",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12328837"
+      }
+    },
+    {
+      "keyword": "셀트리온",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\"",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261119043100005"
+        "url": "https://www.yna.co.kr/view/AKR20261119039100017"
       }
     },
     {
-      "keyword": "정치",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
+      "keyword": "fifa 랭킹",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "‘우왕좌왕’을 내란으로… 법원서 무너진 특검 주장",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/court_law/2026/11/19/CTKLYAU7K5GXFHZCCBBRQRGWGA/"
-      }
-    },
-    {
-      "keyword": "이혼",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
+        "title": "'사우디전 42년만 3실점 충격에도...' 한국, FIFA 랭킹 2계단 깜짝 상승 30위 \"아시아 4위 유지\" - 머니투데이",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948"
+        "url": "https://www.mt.co.kr/sports/2026/11/19/2026111913460673471"
       }
     },
     {
-      "keyword": "한국교육과정평가원",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "sri lanka vs pakistan",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "수능출제위원장 \"고교 공교육 내용만으로 변별력 확보토록 출제\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6866839_36918.html"
+        "title": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi",
+        "source": "Cricbuzz",
+        "url": "https://www.cricbuzz.com/cricket-news/140960/ghori-razaullah-push-pakistan-to-commanding-position-in-rawalpindi-cricbuzzcom"
       }
     },
     {
-      "keyword": "nginx",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
-        "source": "wiz.io",
-        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
-      }
-    },
-    {
-      "keyword": "이적 시장",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "축구의 묘미는 역시 ‘바이시클킥’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627"
-      }
-    },
-    {
-      "keyword": "네이버뉴스",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
-        "source": "한국기자협회",
-        "url": "https://www.journalist.or.kr/news/article.html?no=62103"
-      }
-    },
-    {
-      "keyword": "전도연",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/"
-      }
-    },
-    {
-      "keyword": "올랜도 대 필라데피아",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
-        "source": "NBA.com",
-        "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026"
-      }
-    },
-    {
-      "keyword": "금융투자협회",
+      "keyword": "수험표 할인",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "[게시판] 금투협, 증권사 CEO와 日자본시장 탐방",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261118073700008"
+        "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202611191716001"
+      }
+    },
+    {
+      "keyword": "lg디스플레이",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03926166645647360"
       }
     }
   ]

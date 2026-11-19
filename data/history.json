@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-18T07:01:11.998705+09:00",
-    "label": "07:01",
-    "items": [
-      {
-        "keyword": "안세영",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "[뉴스9 강원 클로징]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713273"
-        }
-      },
-      {
-        "keyword": "배당",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "미래에셋자산운용, TIGER 액티브 커버드콜 ETF 순자산 4조원 돌파",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261117000070"
-        }
-      },
-      {
-        "keyword": "뉴스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "“임원들에 고성·압박, 12명 줄퇴사···엔비디아 경영진도 꼼짝 못 한 젠슨 황 딸은 사실상 ‘아버지 비서실장’”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611171508001"
-        }
-      },
-      {
-        "keyword": "wales đấu với bồ đào nha",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "HLV Bồ Đào Nha tiếp tục mâu thuẫn với học trò",
-          "source": "Znews",
-          "url": "https://znews.vn/hlv-bo-dao-nha-tiep-tuc-mau-thuan-voi-hoc-tro-post1696902.html"
-        }
-      },
-      {
-        "keyword": "롤 점검",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "리그 오브 레전드 26.23 패치 노트",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-23-notes/"
-        }
-      },
-      {
-        "keyword": "수출",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "수출 1조 달러 시대, 세계가 찾는 기술에서 세계인의 일상 속 제품까지 - 영상 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975889"
-        }
-      },
-      {
-        "keyword": "수사",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "‘조작기소 특검법’ 국무회의 통과, 최장 200일 수사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261118/135043027/2"
-        }
-      },
-      {
-        "keyword": "정웅인",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "정웅인, 전 매니저 사기 피해→소속사 대표 사망…\"또 위기\" - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111706401419953"
-        }
-      },
-      {
-        "keyword": "노동자",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "얼굴 파랗게 질려 숨진 27살…HD현대삼호 하청 ‘장례도 못 치른 보름’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/honam/1287732.html"
-        }
-      },
-      {
-        "keyword": "훈련",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "러 외무 “한·미·일 군사훈련 목적은 북한 억제” 비난",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715580"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-18T12:56:42.704965+09:00",
     "label": "12:56",
     "items": [
@@ -525,6 +419,112 @@
           "title": "[게시판] 금투협, 증권사 CEO와 日자본시장 탐방",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20261118073700008"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-19T19:54:40.621056+09:00",
+    "label": "19:54",
+    "items": [
+      {
+        "keyword": "사건",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/"
+        }
+      },
+      {
+        "keyword": "수능 답지 공개 시간",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "교문 밖에서부터 단추 떼고 휴대전화 반납...\"민무늬 옷 입었다\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611191528151372_005.html"
+        }
+      },
+      {
+        "keyword": "시험장",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "따뜻한 응원 속 수험생들 입실...경찰·소방 구조도",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611191600559677&s_hcd="
+        }
+      },
+      {
+        "keyword": "안양 정관장 대 부산 kcc",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[핌in안양] KCC전 홈 8연승 도전, 정관장 유도훈 감독 \"변준형 발목, 박지훈 허리 부담\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261119001422"
+        }
+      },
+      {
+        "keyword": "국어 시험지",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "\"이게 오늘 수능 국어야, 풀어봐\" 시켰더니…AI, 2분 만에 100점",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12328837"
+        }
+      },
+      {
+        "keyword": "셀트리온",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261119039100017"
+        }
+      },
+      {
+        "keyword": "fifa 랭킹",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'사우디전 42년만 3실점 충격에도...' 한국, FIFA 랭킹 2계단 깜짝 상승 30위 \"아시아 4위 유지\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111913460673471"
+        }
+      },
+      {
+        "keyword": "sri lanka vs pakistan",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi",
+          "source": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/cricket-news/140960/ghori-razaullah-push-pakistan-to-commanding-position-in-rawalpindi-cricbuzzcom"
+        }
+      },
+      {
+        "keyword": "수험표 할인",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611191716001"
+        }
+      },
+      {
+        "keyword": "lg디스플레이",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03926166645647360"
         }
       }
     ]
