@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-18T12:56:42.704965+09:00",
-    "label": "12:56",
-    "items": [
-      {
-        "keyword": "혈당",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "\"갑자기 혈당 확 오르다면\"…생존율 최악 '이 암'?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003871362"
-        }
-      },
-      {
-        "keyword": "10억",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "'아빠, 이 집 나 줄 거지?'…10억 있는 3040 부모들 '뜻밖의 대답'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111727421"
-        }
-      },
-      {
-        "keyword": "선수",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "러시아 피겨 선수 7명, 핀란드 입국 금지로 그랑프리 출전 무산",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118082900007"
-        }
-      },
-      {
-        "keyword": "잠실래미안아이파크",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "\"당첨되면 20억\"…잠실 아파트 '줍줍' 3가구 나온다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003872071"
-        }
-      },
-      {
-        "keyword": "고발",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[단독] 리트 만점자 \"AI 안 썼지만 확률 희박은 인정\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6866434_36989.html"
-        }
-      },
-      {
-        "keyword": "삼성바이오로직스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "삼성바이오 노조, 한국노총 가입…노사 교섭 갈등 ‘평행선’",
-          "source": "뉴스토마토",
-          "url": "https://www.newstomato.com/ReadNews.aspx?no=1320885"
-        }
-      },
-      {
-        "keyword": "기예르모 에레디아",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "‘홈런왕’ 김도영, 2026 일구대상 수상…하현승은 고교야구 MVP상",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715939"
-        }
-      },
-      {
-        "keyword": "폭설",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "눈을 믿지 마세요",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261117/135042453/2"
-        }
-      },
-      {
-        "keyword": "롤 패치노트",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "리그 오브 레전드 26.23 패치 노트",
-          "source": "League of Legends",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-23-notes/"
-        }
-      },
-      {
-        "keyword": "양주시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "양주시, 버스노선 체계 개선 설문… 30일까지 시민 의견 수렴",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11632083"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-18T21:33:34.366569+09:00",
     "label": "21:33",
     "items": [
@@ -525,6 +419,112 @@
           "title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
           "source": "마켓인",
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03926166645647360"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-20T04:15:07.386935+09:00",
+    "label": "04:15",
+    "items": [
+      {
+        "keyword": "천위페이",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "'안세영만 없으면 우승하겠다더니?' 2번 시드 천위페이, 세계랭킹 47위에게 충격적인 역전패…홍콩오픈 16강 어이없는 탈락",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/19/MVQTCNTDGYYDOYZSME2DONDDGA/"
+        }
+      },
+      {
+        "keyword": "앤트로픽 주가",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/int_economy/2026/11/19/727FDBQ3VRCT7DRNM5EJFH4MWM/"
+        }
+      },
+      {
+        "keyword": "습관",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "연천군, 스마트경로당 112개소서 어르신 건강 강좌…수분 섭취 강조",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757520"
+        }
+      },
+      {
+        "keyword": "kt wiz",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "KT Wiz's 4.8 Billion Choi Bet Pays Off",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/19/57E6VCLU5RFXBCPGTF3JHMIOAE/"
+        }
+      },
+      {
+        "keyword": "웹툰",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[기획] “이혼을 받아들입니다. 그리고 재혼 승인을 요구합니다” - 의상·VFX·미술·음악으로 보는 제작기",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=111294"
+        }
+      },
+      {
+        "keyword": "amd",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Problems at AMD (AMD)",
+          "source": "Hunterbrook",
+          "url": "https://hntrbrk.com/investigations/bank-of-amd"
+        }
+      },
+      {
+        "keyword": "플라비오 코볼리",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "티아포, ATP 파이널서 코볼리와 경기 중 반응",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757758"
+        }
+      },
+      {
+        "keyword": "엔화",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445573"
+        }
+      },
+      {
+        "keyword": "프로게이머",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399"
+        }
+      },
+      {
+        "keyword": "박하나",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261119154100005"
         }
       }
     ]
