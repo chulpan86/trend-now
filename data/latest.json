@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-19T05:59:11.244294+09:00",
-  "label": "05:59",
+  "timestamp": "2026-11-19T11:18:58.640904+09:00",
+  "label": "11:18",
   "items": [
     {
-      "keyword": "삼전 닉스",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
+      "keyword": "시즌2",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
-        "source": "네이버 프리미엄콘텐츠",
-        "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih"
+        "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261119043100005"
       }
     },
     {
-      "keyword": "한화오션",
+      "keyword": "정치",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "‘우왕좌왕’을 내란으로… 법원서 무너진 특검 주장",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/court_law/2026/11/19/CTKLYAU7K5GXFHZCCBBRQRGWGA/"
+      }
+    },
+    {
+      "keyword": "이혼",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261118170400704"
+        "title": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948"
       }
     },
     {
-      "keyword": "기인",
+      "keyword": "한국교육과정평가원",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
-        "source": "국민일보",
-        "url": "https://www.kmib.co.kr/article/20261119500020"
+        "title": "수능출제위원장 \"고교 공교육 내용만으로 변별력 확보토록 출제\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6866839_36918.html"
       }
     },
     {
-      "keyword": "김정은",
+      "keyword": "nginx",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+        "source": "wiz.io",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+      }
+    },
+    {
+      "keyword": "이적 시장",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "축구의 묘미는 역시 ‘바이시클킥’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627"
+      }
+    },
+    {
+      "keyword": "네이버뉴스",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
+        "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
+        "source": "한국기자협회",
+        "url": "https://www.journalist.or.kr/news/article.html?no=62103"
+      }
+    },
+    {
+      "keyword": "전도연",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/"
+      }
+    },
+    {
+      "keyword": "올랜도 대 필라데피아",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
+        "source": "NBA.com",
+        "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026"
+      }
+    },
+    {
+      "keyword": "금융투자협회",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[게시판] 금투협, 증권사 CEO와 日자본시장 탐방",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261118159000083"
-      }
-    },
-    {
-      "keyword": "자영업",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
-        "source": "울산종합일보",
-        "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808"
-      }
-    },
-    {
-      "keyword": "김해국제공항",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "김해공항에서 가덕도 신공항까지…정영수 \"통합 LCC 본사는 강서구로\"",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756073"
-      }
-    },
-    {
-      "keyword": "gta6 프레임",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979"
-      }
-    },
-    {
-      "keyword": "승리",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
-        "source": "TV조선뉴스",
-        "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html"
-      }
-    },
-    {
-      "keyword": "한화생명",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "'350조 운용' KIC 차기 CIO에 신민식…다음주 초 인사 발표",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/Read?newsId=03178326645647032"
-      }
-    },
-    {
-      "keyword": "한화",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1WNhADiPof"
+        "url": "https://www.yna.co.kr/view/AKR20261118073700008"
       }
     }
   ]
