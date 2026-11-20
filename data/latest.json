@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-20T18:24:47.543441+09:00",
-  "label": "18:24",
+  "timestamp": "2026-11-21T03:07:40.722415+09:00",
+  "label": "03:07",
   "items": [
     {
-      "keyword": "005930",
+      "keyword": "엔비디아",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261120000030"
+      }
+    },
+    {
+      "keyword": "india a cricket team vs nepal national cricket team standings",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "Samsung Electronics (KOSE:A005930) Stock Still Looks Undervalued on Earnings",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-kose-a005930-stock-161427305.html"
+        "title": "Prince, Rana rout Nepal for 26 after Tilak, Kushagra tons",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-nepal-4th-match-group-b-1562345/match-report"
       }
     },
     {
-      "keyword": "황재균",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "부동산",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
       "news": {
-        "title": "전현무, 마당발인 줄 알았더니 “사적으로 만나는 사람 5명도 안돼”(‘현무로드’)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/G4ZWCOJUGVTGEYTFME3DMZBQME/"
-      }
-    },
-    {
-      "keyword": "이지영",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "“얘들아, 큰일 났다”…‘일타강사’ 이지영의 예측 등급 컷은? [잇슈#태그]",
+        "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718540"
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593"
       }
     },
     {
-      "keyword": "푸른길",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "펍지",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "[문화연예 플러스] 손석구, '푸른길'서 또 형사 역할 도전",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866494_37012.html"
+        "title": "[G-STAR 26] Sega, CDPR, Capcom and more global game companies to gather in one place",
+        "source": "게임메카",
+        "url": "https://www.gamemeca.com/en/view.php?gid=1783551"
       }
     },
     {
-      "keyword": "정유라",
+      "keyword": "공포지수",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"장기라도 팔고 싶어\" 무릎 꿇었던 정유라…최순실 병원비 재차 호소 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/11/19/2026111823270936147"
+        "title": "엔비디아 호실적도 못 넘은 금리 인상 우려, 뉴욕증시 혼조",
+        "source": "네이버페이 머니스토리",
+        "url": "https://story.pay.naver.com/content/3999_2_C1"
       }
     },
     {
-      "keyword": "조국",
+      "keyword": "연준",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "민주, 의총서 ‘조희대 대법원장 탄핵 추진’ 당론 결정",
+        "title": "美 국채가, 안전 선호 쏠림에 강세 지속…10년물 6bp↓",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445824"
+      }
+    },
+    {
+      "keyword": "u17 việt nam",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi"
+      }
+    },
+    {
+      "keyword": "오현민",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'데블스 플랜3' 오현민, 장동민 옆 눈물.. 탈락 심경 \"많이 부족했다\" [전문]",
         "source": "조선일보",
-        "url": "https://www.chosun.com/politics/assembly/2026/11/20/JCC32DKLRFDENO4HJG7UKCNCHM/"
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRTDKZJYMQZWIM3EHFTDCODCMQ/"
       }
     },
     {
-      "keyword": "디플러스기아",
+      "keyword": "류효영",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[단독] T1 떠난 '도란' 최현준, 차기 행선지는 디플러스 기아 유력",
-        "source": "www.xportsnews.com",
-        "url": "https://www.xportsnews.com/article/2221545"
+        "title": "“오빠한테 관심 있어” 고백한 류효영, 이태성과 첫 키스 장소 방문 (신랑수업2)",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/broadcasting-service/12213967"
       }
     },
     {
-      "keyword": "닛케이 평균주가",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "세계사 2 번",
+      "traffic_raw": "100+",
+      "traffic": 100,
       "news": {
-        "title": "[기획] 손정의도 “그때 투자할 걸”… 앤트로픽 IPO 흥행 신기록",
-        "source": "www.dt.co.kr",
-        "url": "https://www.dt.co.kr/article/12096157"
-      }
-    },
-    {
-      "keyword": "교수",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "엄애선 한양대 교수팀, 딸기 독소 생성 미생물 규명…농산물 위생관리 연구",
-        "source": "한국영농신문",
-        "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=72114"
-      }
-    },
-    {
-      "keyword": "приговор",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Рязанский областной суд оставил в силе приговор экс-главе Алёшинского поселения Исаеву, который насмерть сбил подростка",
-        "source": "Рязанские Новости",
-        "url": "https://ryazannews.ru/fn_1998733.html"
+        "title": "수험생 90% 틀린 세계사 2번…“진시황이 아니라고?”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20261120/135061386/1"
       }
     }
   ]

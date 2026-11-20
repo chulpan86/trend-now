@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-19T11:18:58.640904+09:00",
-    "label": "11:18",
-    "items": [
-      {
-        "keyword": "시즌2",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261119043100005"
-        }
-      },
-      {
-        "keyword": "정치",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "‘우왕좌왕’을 내란으로… 법원서 무너진 특검 주장",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/19/CTKLYAU7K5GXFHZCCBBRQRGWGA/"
-        }
-      },
-      {
-        "keyword": "이혼",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948"
-        }
-      },
-      {
-        "keyword": "한국교육과정평가원",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "수능출제위원장 \"고교 공교육 내용만으로 변별력 확보토록 출제\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866839_36918.html"
-        }
-      },
-      {
-        "keyword": "nginx",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
-          "source": "wiz.io",
-          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
-        }
-      },
-      {
-        "keyword": "이적 시장",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "축구의 묘미는 역시 ‘바이시클킥’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627"
-        }
-      },
-      {
-        "keyword": "네이버뉴스",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
-          "source": "한국기자협회",
-          "url": "https://www.journalist.or.kr/news/article.html?no=62103"
-        }
-      },
-      {
-        "keyword": "전도연",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/"
-        }
-      },
-      {
-        "keyword": "올랜도 대 필라데피아",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
-          "source": "NBA.com",
-          "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026"
-        }
-      },
-      {
-        "keyword": "금융투자협회",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[게시판] 금투협, 증권사 CEO와 日자본시장 탐방",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261118073700008"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-19T19:54:40.621056+09:00",
     "label": "19:54",
     "items": [
@@ -525,6 +419,112 @@
           "title": "Рязанский областной суд оставил в силе приговор экс-главе Алёшинского поселения Исаеву, который насмерть сбил подростка",
           "source": "Рязанские Новости",
           "url": "https://ryazannews.ru/fn_1998733.html"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-21T03:07:40.722415+09:00",
+    "label": "03:07",
+    "items": [
+      {
+        "keyword": "엔비디아",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261120000030"
+        }
+      },
+      {
+        "keyword": "india a cricket team vs nepal national cricket team standings",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "Prince, Rana rout Nepal for 26 after Tilak, Kushagra tons",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-nepal-4th-match-group-b-1562345/match-report"
+        }
+      },
+      {
+        "keyword": "부동산",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593"
+        }
+      },
+      {
+        "keyword": "펍지",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "[G-STAR 26] Sega, CDPR, Capcom and more global game companies to gather in one place",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1783551"
+        }
+      },
+      {
+        "keyword": "공포지수",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "엔비디아 호실적도 못 넘은 금리 인상 우려, 뉴욕증시 혼조",
+          "source": "네이버페이 머니스토리",
+          "url": "https://story.pay.naver.com/content/3999_2_C1"
+        }
+      },
+      {
+        "keyword": "연준",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "美 국채가, 안전 선호 쏠림에 강세 지속…10년물 6bp↓",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445824"
+        }
+      },
+      {
+        "keyword": "u17 việt nam",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi"
+        }
+      },
+      {
+        "keyword": "오현민",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'데블스 플랜3' 오현민, 장동민 옆 눈물.. 탈락 심경 \"많이 부족했다\" [전문]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRTDKZJYMQZWIM3EHFTDCODCMQ/"
+        }
+      },
+      {
+        "keyword": "류효영",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "“오빠한테 관심 있어” 고백한 류효영, 이태성과 첫 키스 장소 방문 (신랑수업2)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12213967"
+        }
+      },
+      {
+        "keyword": "세계사 2 번",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "수험생 90% 틀린 세계사 2번…“진시황이 아니라고?”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135061386/1"
         }
       }
     ]
