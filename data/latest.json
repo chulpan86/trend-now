@@ -1,102 +1,102 @@
 {
-  "timestamp": "2026-11-21T09:29:29.804561+09:00",
-  "label": "09:29",
+  "timestamp": "2026-11-21T16:51:02.842476+09:00",
+  "label": "16:51",
   "items": [
     {
-      "keyword": "연예인",
+      "keyword": "손정의",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202611211309001"
+      }
+    },
+    {
+      "keyword": "리야드",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20261120/135063902/1"
+        "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995"
       }
     },
     {
-      "keyword": "추성훈",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "마피아42",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "야노시호, ♥추성훈 패배에 죄책감까지…\"내 탓 아닌가, 우울했다\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/MMZDKNDCMY4GEZDGMYZDAZJZHA/"
+        "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261121029700017"
       }
     },
     {
-      "keyword": "nvda",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
-      }
-    },
-    {
-      "keyword": "경기남부",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감",
-        "source": "파이낸셜뉴스",
-        "url": "https://www.fnnews.com/news/202611201430139857"
-      }
-    },
-    {
-      "keyword": "경찰관",
+      "keyword": "부산 대 충북청주",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": {
-        "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html"
-      }
-    },
-    {
-      "keyword": "나스닥 100",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "나스닥 100, 사상 최고치 대비 약 20% 하락: 과거 데이터상 60거래일 후 상승 확률 80%",
-        "source": "TradingKey",
-        "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262316128-nasdaq-100-drawdown-20-percent-intraday-15-percent-backtest-tradingkey"
-      }
-    },
-    {
-      "keyword": "베냐민 네타냐후",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"한번 더 이란 공격\" 美 설득나선 네타냐후",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/mideast-africa-latin/2026/11/21/EVQQJ6DDLNBHXF57ORXIRF6RHY/"
-      }
-    },
-    {
-      "keyword": "로보택시",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[Why&Next] 웨이모엔 차 공급, 모셔널엔 투자…현대차 '투트랙' 승부수",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026111909131263385"
-      }
-    },
-    {
-      "keyword": "mu",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734"
-      }
-    },
-    {
-      "keyword": "한국항공우주산업",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": null
+    },
+    {
+      "keyword": "주거",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "미추홀구 주거복지센터, 주민 대상 주거복지·임대주택 교육",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758672"
+      }
+    },
+    {
+      "keyword": "김연정",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "실바 22득점 맹활약…GS칼텍스, 3연승 질주하며 단독 선두",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717851"
+      }
+    },
+    {
+      "keyword": "카타르 축구 국가대표팀",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8715445"
+      }
+    },
+    {
+      "keyword": "수원삼성",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "수원삼성, 4년 만의 K리그1 복귀 이어 K리그2 우승…경남전 3-1 완승",
+        "source": "경인일보",
+        "url": "https://www.kyeongin.com/article/1775165"
+      }
+    },
+    {
+      "keyword": "컬리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "컬리 \"큐레이터 1만699명 개인정보 유출‥일부 주민번호 포함\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6867349_36932.html"
+      }
+    },
+    {
+      "keyword": "콜레라",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718881"
+      }
     }
   ]
 }
