@@ -520,5 +520,111 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-22T06:19:11.341499+09:00",
+    "label": "06:19",
+    "items": [
+      {
+        "keyword": "뉴캐슬 대 아스널",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "‘아스널 희소식’ 살리바 복귀 임박! ‘英 대표’ 콘사로 유지한 방패, 더 단단해진다",
+          "source": "풋볼리스트",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=217112"
+        }
+      },
+      {
+        "keyword": "레알 마드리드 대 셀타 비고",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Real Madrid legend spotted in attendance at Celta Vigo clash",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/real-madrid-legend-spotted-attendance-202500077.html"
+        }
+      },
+      {
+        "keyword": "왕즈이",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "안세영 꺾고 우승한 게 유일했다... 결승만 7번째 오른 中 왕즈이, 홍콩서 8개월 만에 두 번째 우승 도전 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/22/2026112205191066525"
+        }
+      },
+      {
+        "keyword": "아스날",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211124779349O"
+        }
+      },
+      {
+        "keyword": "arsenal",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt"
+        }
+      },
+      {
+        "keyword": "위기",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261122002700099"
+        }
+      },
+      {
+        "keyword": "샬케 대 슈투트가르트",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "샬케, 슈투트가르트와 0-0 무승부…황희찬 선발 출전 : 해외축구",
+          "source": "재경일보",
+          "url": "https://news.jkn.co.kr/post/1113280"
+        }
+      },
+      {
+        "keyword": "nice vs psg",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Nice - PSG : les compositions officielles",
+          "source": "Foot Mercato",
+          "url": "https://www.footmercato.net/a4542289172314082946-nice-psg-les-compositions-officielles"
+        }
+      },
+      {
+        "keyword": "입양",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[김봉섭 칼럼] 해외입양, 한국 현대사의 ‘아픈 손가락’-3",
+          "source": "월드코리안뉴스",
+          "url": "https://www.worldkorean.net/news/articleView.html?idxno=58274"
+        }
+      },
+      {
+        "keyword": "psg",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Nice 2-3 PSG : rapport de match de Ligue 1 et histoire des xG",
+          "source": "Sofascore",
+          "url": "https://www.sofascore.com/fr/news/nice-2-3-psg-rapport-de-match-de-ligue-1-et-histoire-des-xg"
+        }
+      }
+    ]
   }
 ]
