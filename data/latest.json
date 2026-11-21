@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-11-21T16:51:02.842476+09:00",
-  "label": "16:51",
+  "timestamp": "2026-11-22T00:46:09.189213+09:00",
+  "label": "00:46",
   "items": [
     {
-      "keyword": "손정의",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611211309001"
-      }
-    },
-    {
-      "keyword": "리야드",
+      "keyword": "첼시 대 리즈 유나이티드",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995"
+        "title": "첼시 대 리즈: 상대 전적 통계 및 역사적 이정표",
+        "source": "Laodong.vn",
+        "url": "https://ko.laodong.vn/bong-da-quoc-te/chelsea-vs-leeds-thong-ke-doi-dau-va-nhung-cot-moc-lich-su-1803727.ldo"
       }
     },
     {
-      "keyword": "마피아42",
+      "keyword": "ai 버블",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261121029700017"
+        "title": "개미들 덮친 170조 폭탄…패닉셀 부른 '숨은 리스크' 있었다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611211559i"
       }
     },
     {
-      "keyword": "부산 대 충북청주",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": null
+      "keyword": "george munsey",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "George Munsey: NPL final ticket rush shows how much demand can stretch a 10,000-seat venue",
+        "source": "شبكة تواصل الإخبارية",
+        "url": "https://twaslnews1.twaslnews.com/8072840/"
+      }
     },
     {
-      "keyword": "주거",
+      "keyword": "코번트리 대 크리스털 팰리스",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Coventry City vs Crystal Palace: Premier League preview, team news, stats & head-to-head",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c6pw42nwwgvjt"
+      }
+    },
+    {
+      "keyword": "묀헨글라트바흐 대 도르트문트",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "'독일 무대에서 사라졌던 태극전사, 마침내 돌아왔다' 옌스 카스트로프, 시즌 22분 출전 설움 딛고 BVB전 선발 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/11/21/202611212319775906O"
+      }
+    },
+    {
+      "keyword": "쇼메이커",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "미추홀구 주거복지센터, 주민 대상 주거복지·임대주택 교육",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758672"
+        "title": "[오피셜] T1 떠난 ‘도란’ 최현준, DK 유니폼 입는다… ‘카나비’와 함께 상체 구축",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20261120154610301"
       }
     },
     {
-      "keyword": "김연정",
+      "keyword": "우니온 베를린 대 라이프치히",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "실바 22득점 맹활약…GS칼텍스, 3연승 질주하며 단독 선두",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717851"
+        "title": "Confirmed lineups: 1.FC Union Berlin vs. RB Leipzig",
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/confirmed-lineups-1-fc-union-133000412.html"
       }
     },
     {
-      "keyword": "카타르 축구 국가대표팀",
+      "keyword": "그것이 알고싶다",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8715445"
+        "title": "성노예→학대 사이버 룸살롱 ‘엑셀’ 파헤친다 (그것이 알고싶다)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20261120/135062142/1"
       }
     },
     {
-      "keyword": "수원삼성",
+      "keyword": "장동민",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "수원삼성, 4년 만의 K리그1 복귀 이어 K리그2 우승…경남전 3-1 완승",
-        "source": "경인일보",
-        "url": "https://www.kyeongin.com/article/1775165"
+        "title": "‘독박투어’ 김재원 “역사 잘 알면 사람이 삐딱해져”",
+        "source": "iMBC 연예",
+        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525580"
       }
     },
     {
-      "keyword": "컬리",
+      "keyword": "tvn",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "컬리 \"큐레이터 1만699명 개인정보 유출‥일부 주민번호 포함\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6867349_36932.html"
-      }
-    },
-    {
-      "keyword": "콜레라",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718881"
+        "title": "Podejście do fontanny di Trevi kosztuje turystów 2 euro. Turyści rzadziej wrzucają monety",
+        "source": "Rzeczpospolita",
+        "url": "https://www.rp.pl/spoleczenstwo/art45523031-turysci-wrzucali-do-fontanny-di-trevi-fortune-teraz-zebrano-o-200-tys-euro-mniej"
       }
     }
   ]
