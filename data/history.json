@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-11-21T16:51:02.842476+09:00",
-    "label": "16:51",
-    "items": [
-      {
-        "keyword": "손정의",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611211309001"
-        }
-      },
-      {
-        "keyword": "리야드",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995"
-        }
-      },
-      {
-        "keyword": "마피아42",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261121029700017"
-        }
-      },
-      {
-        "keyword": "부산 대 충북청주",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": null
-      },
-      {
-        "keyword": "주거",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "미추홀구 주거복지센터, 주민 대상 주거복지·임대주택 교육",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758672"
-        }
-      },
-      {
-        "keyword": "김연정",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "실바 22득점 맹활약…GS칼텍스, 3연승 질주하며 단독 선두",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717851"
-        }
-      },
-      {
-        "keyword": "카타르 축구 국가대표팀",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715445"
-        }
-      },
-      {
-        "keyword": "수원삼성",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "수원삼성, 4년 만의 K리그1 복귀 이어 K리그2 우승…경남전 3-1 완승",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1775165"
-        }
-      },
-      {
-        "keyword": "컬리",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "컬리 \"큐레이터 1만699명 개인정보 유출‥일부 주민번호 포함\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6867349_36932.html"
-        }
-      },
-      {
-        "keyword": "콜레라",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718881"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-22T00:46:09.189213+09:00",
     "label": "00:46",
     "items": [
@@ -619,6 +517,108 @@
           "title": "베트남 U-17 대 뉴질랜드 U-17 경기를 주재한 카메룬 심판의 신원이 밝혀졌습니다.",
           "source": "Vietnam.vn",
           "url": "https://www.vietnam.vn/ko/lo-danh-tinh-trong-tai-nguoi-cameroon-bat-chinh-tran-u-17-viet-nam-vs-u-17-new-zealand"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-23T07:57:32.818581+09:00",
+    "label": "07:57",
+    "items": [
+      {
+        "keyword": "날씨",
+        "traffic_raw": "500000+",
+        "traffic": 500000,
+        "news": {
+          "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261122040000004"
+        }
+      },
+      {
+        "keyword": "weather",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "Break out the winter coat: Highs only hitting the 30s much of this week",
+          "source": "WSAW",
+          "url": "https://www.wsaw.com/2026/11/22/break-out-winter-coat-highs-only-hitting-30s-much-this-week/"
+        }
+      },
+      {
+        "keyword": "치매",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
+          "source": "People.com",
+          "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959"
+        }
+      },
+      {
+        "keyword": "погода",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Прогноз погоды в Хабаровске и крае на субботу, 21 ноября",
+          "source": "Новости Хабаровска",
+          "url": "https://www.dvnovosti.ru/khab/2026/11/21/199580/"
+        }
+      },
+      {
+        "keyword": "天气",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending"
+        }
+      },
+      {
+        "keyword": "สภาพอากาศ",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "❄️ 21–22 พ.ย. มวลอากาศเย็นจากจีนปกคลุมไทยตอนบน อากาศเย็นลงและมีลมแรง แต่ภาคเหนือตอนบนยังมีฝนบางแห่ง 🌡️ ประเทศไทยตอนบน อุณหภูมิลดลงอีก 1–3°C ⛈️ ภาคใต้ระวังฝนตกหนักถึงหนักมาก ฝนสะสมต่อเนื่องอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเล",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/photos/2122-%E0%B8%9E%E0%B8%A2-%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99-%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%A5%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%A5%E0%B8%A1%E0%B9%81%E0%B8%A3%E0%B8%87-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%A2/1620123060159823/"
+        }
+      },
+      {
+        "keyword": "콜레트 크레스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611185671i"
+        }
+      },
+      {
+        "keyword": "레임덕",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261123001000071"
+        }
+      },
+      {
+        "keyword": "klasemen liverpool vs manchester united f.c.",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "getafe vs atlético",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "Yassir Zabiri pide paso y Baena rehace al Atlético",
+          "source": "HolaNews",
+          "url": "https://holanews.com/yassir-zabiri-pide-paso-y-baena-rehace-al-atletico/"
         }
       }
     ]
