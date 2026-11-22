@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-21T03:07:40.722415+09:00",
-    "label": "03:07",
-    "items": [
-      {
-        "keyword": "엔비디아",
-        "traffic_raw": "10000+",
-        "traffic": 10000,
-        "news": {
-          "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261120000030"
-        }
-      },
-      {
-        "keyword": "india a cricket team vs nepal national cricket team standings",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "Prince, Rana rout Nepal for 26 after Tilak, Kushagra tons",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-nepal-4th-match-group-b-1562345/match-report"
-        }
-      },
-      {
-        "keyword": "부동산",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593"
-        }
-      },
-      {
-        "keyword": "펍지",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[G-STAR 26] Sega, CDPR, Capcom and more global game companies to gather in one place",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1783551"
-        }
-      },
-      {
-        "keyword": "공포지수",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "엔비디아 호실적도 못 넘은 금리 인상 우려, 뉴욕증시 혼조",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3999_2_C1"
-        }
-      },
-      {
-        "keyword": "연준",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "美 국채가, 안전 선호 쏠림에 강세 지속…10년물 6bp↓",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445824"
-        }
-      },
-      {
-        "keyword": "u17 việt nam",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi"
-        }
-      },
-      {
-        "keyword": "오현민",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'데블스 플랜3' 오현민, 장동민 옆 눈물.. 탈락 심경 \"많이 부족했다\" [전문]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRTDKZJYMQZWIM3EHFTDCODCMQ/"
-        }
-      },
-      {
-        "keyword": "류효영",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "“오빠한테 관심 있어” 고백한 류효영, 이태성과 첫 키스 장소 방문 (신랑수업2)",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12213967"
-        }
-      },
-      {
-        "keyword": "세계사 2 번",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "수험생 90% 틀린 세계사 2번…“진시황이 아니라고?”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261120/135061386/1"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-21T09:29:29.804561+09:00",
     "label": "09:29",
     "items": [
@@ -623,6 +517,112 @@
           "title": "관객이 던진 털모자 삼킨 뒤 끝내 숨진 ‘기적의 하마’ 피오나···전 세계 팬들 애도",
           "source": "경향신문",
           "url": "https://www.khan.co.kr/article/202611202127001"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-22T18:01:47.173418+09:00",
+    "label": "18:01",
+    "items": [
+      {
+        "keyword": "김정은",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "“트럼프, 김정은 만나기 위해 ‘종전선언’ ‘북핵폐기 미요구 성명’까지 검토했다”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/11/22/RWKEIN6GM5EBHAGVL4MYRNCWEQ/"
+        }
+      },
+      {
+        "keyword": "검은 월요일",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html"
+        }
+      },
+      {
+        "keyword": "해저",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "태안 서격렬비열도 인근서 선박 추정 물체 발견···실종 ‘해광호’ 여부 확인 중",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611221013001"
+        }
+      },
+      {
+        "keyword": "노동자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "추위가 재해 되기 전에…노동부, 겨울철 한랭질환 예방 점검",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375082"
+        }
+      },
+      {
+        "keyword": "정부",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343"
+        }
+      },
+      {
+        "keyword": "인수 합병",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1203777"
+        }
+      },
+      {
+        "keyword": "이대호",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "‘이대호 3구 삼진’ 삼성 1R 출신 이호범, 팔꿈치 수술 딛고 다시 시작된 도전…“공 던질 생각에 설렌다” [오!쎈 경산] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/22/202611220131775873O"
+        }
+      },
+      {
+        "keyword": "코스닥",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "엠비디 코스닥 데뷔…수요예측 흥행 실패한 아델은 공모 철회 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/22/2026112015454779704"
+        }
+      },
+      {
+        "keyword": "류효영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "이러다 결혼하나…류효영, 이태성에 직진 \"요리 해줄게\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261121_0003877731"
+        }
+      },
+      {
+        "keyword": "소년 소녀 가장",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "100만원 든 봉투 겉엔…‘소년 소녀 가장을 위해 써주세요’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135062120/2"
         }
       }
     ]
