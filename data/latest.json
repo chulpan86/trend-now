@@ -1,105 +1,97 @@
 {
-  "timestamp": "2026-11-22T18:01:47.173418+09:00",
-  "label": "18:01",
+  "timestamp": "2026-11-23T02:29:03.590043+09:00",
+  "label": "02:29",
   "items": [
     {
-      "keyword": "김정은",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
+      "keyword": "리버풀 대 맨유",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
       "news": {
-        "title": "“트럼프, 김정은 만나기 위해 ‘종전선언’ ‘북핵폐기 미요구 성명’까지 검토했다”",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/11/22/RWKEIN6GM5EBHAGVL4MYRNCWEQ/"
+        "title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
+        "source": "베스트일레븐",
+        "url": "https://www.besteleven.com/news/articleView.html?idxno=314241"
       }
     },
     {
-      "keyword": "검은 월요일",
+      "keyword": "liverpool vs man utd",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html"
+        "title": "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t"
       }
     },
     {
-      "keyword": "해저",
+      "keyword": "ลิเวอร์พูล พบ แมนยู",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "태안 서격렬비열도 인근서 선박 추정 물체 발견···실종 ‘해광호’ 여부 확인 중",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611221013001"
+        "title": "การถ่ายทอดสดการแข่งขันระหว่างลิเวอร์พูลกับแมนยูฯ 2-0 (ครึ่งแรก): ลิเวอร์พูลยิงสองประตูอย่างรวดเร็ว",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/th/truc-tiep-liverpool-vs-mu-2-0-hiep-1-liverpool-ghi-2-ban-chong-vanh"
       }
     },
     {
-      "keyword": "노동자",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "리버풀 맨유",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": {
-        "title": "추위가 재해 되기 전에…노동부, 겨울철 한랭질환 예방 점검",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=375082"
-      }
-    },
-    {
-      "keyword": "정부",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343"
-      }
-    },
-    {
-      "keyword": "인수 합병",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1203777"
-      }
-    },
-    {
-      "keyword": "이대호",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "‘이대호 3구 삼진’ 삼성 1R 출신 이호범, 팔꿈치 수술 딛고 다시 시작된 도전…“공 던질 생각에 설렌다” [오!쎈 경산] - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/11/22/202611220131775873O"
-      }
-    },
-    {
-      "keyword": "코스닥",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "엠비디 코스닥 데뷔…수요예측 흥행 실패한 아델은 공모 철회 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/11/22/2026112015454779704"
-      }
-    },
-    {
-      "keyword": "류효영",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "이러다 결혼하나…류효영, 이태성에 직진 \"요리 해줄게\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261121_0003877731"
-      }
-    },
-    {
-      "keyword": "소년 소녀 가장",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "100만원 든 봉투 겉엔…‘소년 소녀 가장을 위해 써주세요’",
+        "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…“샤워할 시간도 없었어”",
         "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20261120/135062120/2"
+        "url": "https://www.donga.com/news/Sports/article/all/20261121/135064952/1"
+      }
+    },
+    {
+      "keyword": "fc barcelona vs villarreal cf standings",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "Barcelona vs Villarreal Confirmed Lineups",
+        "source": "WhoScored.com",
+        "url": "https://www.whoscored.com/news/UYwB3kUYiU2gZN87H5q8SA/show/cng112-20261122-barcelona-vs-villarreal-confirmed-lineup-1795348094"
+      }
+    },
+    {
+      "keyword": "브라이튼",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "헐 시티 vs 브라이튼 경기 프리뷰 및 예측: 브라이튼은 여전히 ​​높이 비상한다",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-du-doan-tran-dau-hull-city-vs-brighton-bay-chim-tiep-tuc-bay-cao"
+      }
+    },
+    {
+      "keyword": "백종헌",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": null
+    },
+    {
+      "keyword": "청년문화예술패스",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": null
+    },
+    {
+      "keyword": "라민 야말",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "페이호 \"라민 야말의 활약은 특별하다\", 스페인이 2030 월드컵 결승전 개최해야",
+        "source": "AllFootball",
+        "url": "https://www.allfootballapp.com/ko/articles/6037663-2030"
+      }
+    },
+    {
+      "keyword": "u17 월드컵",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "베트남 U-17 대 뉴질랜드 U-17 경기를 주재한 카메룬 심판의 신원이 밝혀졌습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/lo-danh-tinh-trong-tai-nguoi-cameroon-bat-chinh-tran-u-17-viet-nam-vs-u-17-new-zealand"
       }
     }
   ]

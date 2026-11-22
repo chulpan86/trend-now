@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-11-21T09:29:29.804561+09:00",
-    "label": "09:29",
-    "items": [
-      {
-        "keyword": "연예인",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261120/135063902/1"
-        }
-      },
-      {
-        "keyword": "추성훈",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "야노시호, ♥추성훈 패배에 죄책감까지…\"내 탓 아닌가, 우울했다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/MMZDKNDCMY4GEZDGMYZDAZJZHA/"
-        }
-      },
-      {
-        "keyword": "nvda",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
-        }
-      },
-      {
-        "keyword": "경기남부",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611201430139857"
-        }
-      },
-      {
-        "keyword": "경찰관",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html"
-        }
-      },
-      {
-        "keyword": "나스닥 100",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "나스닥 100, 사상 최고치 대비 약 20% 하락: 과거 데이터상 60거래일 후 상승 확률 80%",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262316128-nasdaq-100-drawdown-20-percent-intraday-15-percent-backtest-tradingkey"
-        }
-      },
-      {
-        "keyword": "베냐민 네타냐후",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"한번 더 이란 공격\" 美 설득나선 네타냐후",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/mideast-africa-latin/2026/11/21/EVQQJ6DDLNBHXF57ORXIRF6RHY/"
-        }
-      },
-      {
-        "keyword": "로보택시",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[Why&Next] 웨이모엔 차 공급, 모셔널엔 투자…현대차 '투트랙' 승부수",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026111909131263385"
-        }
-      },
-      {
-        "keyword": "mu",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734"
-        }
-      },
-      {
-        "keyword": "한국항공우주산업",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-21T16:51:02.842476+09:00",
     "label": "16:51",
     "items": [
@@ -623,6 +521,104 @@
           "title": "100만원 든 봉투 겉엔…‘소년 소녀 가장을 위해 써주세요’",
           "source": "동아일보",
           "url": "https://www.donga.com/news/Society/article/all/20261120/135062120/2"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-23T02:29:03.590043+09:00",
+    "label": "02:29",
+    "items": [
+      {
+        "keyword": "리버풀 대 맨유",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
+          "source": "베스트일레븐",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=314241"
+        }
+      },
+      {
+        "keyword": "liverpool vs man utd",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t"
+        }
+      },
+      {
+        "keyword": "ลิเวอร์พูล พบ แมนยู",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "การถ่ายทอดสดการแข่งขันระหว่างลิเวอร์พูลกับแมนยูฯ 2-0 (ครึ่งแรก): ลิเวอร์พูลยิงสองประตูอย่างรวดเร็ว",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/truc-tiep-liverpool-vs-mu-2-0-hiep-1-liverpool-ghi-2-ban-chong-vanh"
+        }
+      },
+      {
+        "keyword": "리버풀 맨유",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…“샤워할 시간도 없었어”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261121/135064952/1"
+        }
+      },
+      {
+        "keyword": "fc barcelona vs villarreal cf standings",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Barcelona vs Villarreal Confirmed Lineups",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/news/UYwB3kUYiU2gZN87H5q8SA/show/cng112-20261122-barcelona-vs-villarreal-confirmed-lineup-1795348094"
+        }
+      },
+      {
+        "keyword": "브라이튼",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "헐 시티 vs 브라이튼 경기 프리뷰 및 예측: 브라이튼은 여전히 ​​높이 비상한다",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-du-doan-tran-dau-hull-city-vs-brighton-bay-chim-tiep-tuc-bay-cao"
+        }
+      },
+      {
+        "keyword": "백종헌",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "청년문화예술패스",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": null
+      },
+      {
+        "keyword": "라민 야말",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "페이호 \"라민 야말의 활약은 특별하다\", 스페인이 2030 월드컵 결승전 개최해야",
+          "source": "AllFootball",
+          "url": "https://www.allfootballapp.com/ko/articles/6037663-2030"
+        }
+      },
+      {
+        "keyword": "u17 월드컵",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "베트남 U-17 대 뉴질랜드 U-17 경기를 주재한 카메룬 심판의 신원이 밝혀졌습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/lo-danh-tinh-trong-tai-nguoi-cameroon-bat-chinh-tran-u-17-viet-nam-vs-u-17-new-zealand"
         }
       }
     ]
