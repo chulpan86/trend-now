@@ -622,5 +622,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-23T12:28:48.815729+09:00",
+    "label": "12:28",
+    "items": [
+      {
+        "keyword": "lpga",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul Wins for 3rd Straight Year",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858116"
+        }
+      },
+      {
+        "keyword": "화이트캡스 대 솔트레이크",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "NSHvsCIN 11-22-2026 | MLS Match Recap",
+          "source": "MLSsoccer.com",
+          "url": "https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvscin-11-22-2026/"
+        }
+      },
+      {
+        "keyword": "ssg 랜더스",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "'원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261122016900007"
+        }
+      },
+      {
+        "keyword": "구조조정",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/22/2026112280034.html"
+        }
+      },
+      {
+        "keyword": "부산항",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "부산항만공사, 중기 우수기술 판로 확대 '기술마켓데이' 개최",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611231019057668"
+        }
+      },
+      {
+        "keyword": "제주특별자치도",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "삼성증권",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147441"
+        }
+      },
+      {
+        "keyword": "국가장학금",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261123047100530"
+        }
+      },
+      {
+        "keyword": "네이버 주가",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452626"
+        }
+      },
+      {
+        "keyword": "리비아",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "‘우크라 공격 추정’ 리비아항 러 군함 피격…러, 키이우 공습",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719534"
+        }
+      }
+    ]
   }
 ]

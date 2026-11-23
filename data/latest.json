@@ -1,101 +1,101 @@
 {
-  "timestamp": "2026-11-23T07:57:32.818581+09:00",
-  "label": "07:57",
+  "timestamp": "2026-11-23T12:28:48.815729+09:00",
+  "label": "12:28",
   "items": [
     {
-      "keyword": "날씨",
-      "traffic_raw": "500000+",
-      "traffic": 500000,
-      "news": {
-        "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261122040000004"
-      }
-    },
-    {
-      "keyword": "weather",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "Break out the winter coat: Highs only hitting the 30s much of this week",
-        "source": "WSAW",
-        "url": "https://www.wsaw.com/2026/11/22/break-out-winter-coat-highs-only-hitting-30s-much-this-week/"
-      }
-    },
-    {
-      "keyword": "치매",
+      "keyword": "lpga",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
-        "source": "People.com",
-        "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959"
+        "title": "Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul Wins for 3rd Straight Year",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858116"
       }
     },
     {
-      "keyword": "погода",
+      "keyword": "화이트캡스 대 솔트레이크",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Прогноз погоды в Хабаровске и крае на субботу, 21 ноября",
-        "source": "Новости Хабаровска",
-        "url": "https://www.dvnovosti.ru/khab/2026/11/21/199580/"
+        "title": "NSHvsCIN 11-22-2026 | MLS Match Recap",
+        "source": "MLSsoccer.com",
+        "url": "https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvscin-11-22-2026/"
       }
     },
     {
-      "keyword": "天气",
+      "keyword": "ssg 랜더스",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
-        "source": "Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending"
-      }
-    },
-    {
-      "keyword": "สภาพอากาศ",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "❄️ 21–22 พ.ย. มวลอากาศเย็นจากจีนปกคลุมไทยตอนบน อากาศเย็นลงและมีลมแรง แต่ภาคเหนือตอนบนยังมีฝนบางแห่ง 🌡️ ประเทศไทยตอนบน อุณหภูมิลดลงอีก 1–3°C ⛈️ ภาคใต้ระวังฝนตกหนักถึงหนักมาก ฝนสะสมต่อเนื่องอาจทำให้เกิดน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 🌊 คลื่นลมทะเล",
-        "source": "Facebook",
-        "url": "https://www.facebook.com/tmd.go.th/photos/2122-%E0%B8%9E%E0%B8%A2-%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99-%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%A5%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%A5%E0%B8%A1%E0%B9%81%E0%B8%A3%E0%B8%87-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%A2/1620123060159823/"
-      }
-    },
-    {
-      "keyword": "콜레트 크레스",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202611185671i"
-      }
-    },
-    {
-      "keyword": "레임덕",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동",
+        "title": "'원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261123001000071"
+        "url": "https://www.yna.co.kr/view/AKR20261122016900007"
       }
     },
     {
-      "keyword": "klasemen liverpool vs manchester united f.c.",
-      "traffic_raw": "200+",
-      "traffic": 200,
+      "keyword": "구조조정",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
+        "source": "인베스트조선",
+        "url": "https://www.investchosun.com/site/data/html_dir/2026/11/22/2026112280034.html"
+      }
+    },
+    {
+      "keyword": "부산항",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "부산항만공사, 중기 우수기술 판로 확대 '기술마켓데이' 개최",
+        "source": "파이낸셜뉴스",
+        "url": "https://www.fnnews.com/news/202611231019057668"
+      }
+    },
+    {
+      "keyword": "제주특별자치도",
+      "traffic_raw": "500+",
+      "traffic": 500,
       "news": null
     },
     {
-      "keyword": "getafe vs atlético",
+      "keyword": "삼성증권",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
+        "source": "보안뉴스",
+        "url": "https://www.boannews.com/news/articleView.html?idxno=147441"
+      }
+    },
+    {
+      "keyword": "국가장학금",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261123047100530"
+      }
+    },
+    {
+      "keyword": "네이버 주가",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Yassir Zabiri pide paso y Baena rehace al Atlético",
-        "source": "HolaNews",
-        "url": "https://holanews.com/yassir-zabiri-pide-paso-y-baena-rehace-al-atletico/"
+        "title": "네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세",
+        "source": "비즈니스포스트",
+        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452626"
+      }
+    },
+    {
+      "keyword": "리비아",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "‘우크라 공격 추정’ 리비아항 러 군함 피격…러, 키이우 공습",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8719534"
       }
     }
   ]
