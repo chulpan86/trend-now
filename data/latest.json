@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-11-23T12:28:48.815729+09:00",
-  "label": "12:28",
+  "timestamp": "2026-11-23T22:51:24.128662+09:00",
+  "label": "22:51",
   "items": [
     {
-      "keyword": "lpga",
+      "keyword": "상장",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul Wins for 3rd Straight Year",
-        "source": "news.sbs.co.kr",
-        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858116"
-      }
-    },
-    {
-      "keyword": "화이트캡스 대 솔트레이크",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "NSHvsCIN 11-22-2026 | MLS Match Recap",
-        "source": "MLSsoccer.com",
-        "url": "https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvscin-11-22-2026/"
-      }
-    },
-    {
-      "keyword": "ssg 랜더스",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "'원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류",
+        "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261122016900007"
+        "url": "https://www.yna.co.kr/view/AKR20261123100000017"
       }
     },
     {
-      "keyword": "구조조정",
+      "keyword": "중위소득",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/11/22/2026112280034.html"
+        "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1"
       }
     },
     {
-      "keyword": "부산항",
+      "keyword": "브레인악셀",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "부산항만공사, 중기 우수기술 판로 확대 '기술마켓데이' 개최",
-        "source": "파이낸셜뉴스",
-        "url": "https://www.fnnews.com/news/202611231019057668"
+        "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html"
       }
     },
     {
-      "keyword": "제주특별자치도",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": null
-    },
-    {
-      "keyword": "삼성증권",
-      "traffic_raw": "500+",
-      "traffic": 500,
+      "keyword": "이진관 판사",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
       "news": {
-        "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
-        "source": "보안뉴스",
-        "url": "https://www.boannews.com/news/articleView.html?idxno=147441"
+        "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12329370"
       }
     },
     {
-      "keyword": "국가장학금",
+      "keyword": "혼다",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261123047100530"
+        "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk"
       }
     },
     {
-      "keyword": "네이버 주가",
-      "traffic_raw": "100+",
-      "traffic": 100,
+      "keyword": "반도체 메모리",
+      "traffic_raw": "200+",
+      "traffic": 200,
       "news": {
-        "title": "네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세",
-        "source": "비즈니스포스트",
-        "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452626"
+        "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026112330656"
       }
     },
     {
-      "keyword": "리비아",
+      "keyword": "가석방",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6867785_36911.html"
+      }
+    },
+    {
+      "keyword": "m",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘우크라 공격 추정’ 리비아항 러 군함 피격…러, 키이우 공습",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8719534"
+        "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
+        "source": "ESPN",
+        "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract"
+      }
+    },
+    {
+      "keyword": "공항",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=375139"
+      }
+    },
+    {
+      "keyword": "일론 머스크",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026112340657"
       }
     }
   ]
