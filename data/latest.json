@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-23T22:51:24.128662+09:00",
-  "label": "22:51",
+  "timestamp": "2026-11-24T10:22:28.342437+09:00",
+  "label": "10:22",
   "items": [
     {
-      "keyword": "상장",
+      "keyword": "아버지",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
+        "title": "격투기 인생 마친 추성훈…아내 야노 시호 \"감동과 배움 끊이지 않아\"(종합)",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/sports/general-sport/6363162"
+      }
+    },
+    {
+      "keyword": "청약홈",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "종로 '경희궁 에피트'·영등포 '해링턴 문래' 등 이번주 6295가구 청약",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261122_0003877941"
+      }
+    },
+    {
+      "keyword": "한국장학재단",
+      "traffic_raw": "500+",
+      "traffic": 500,
+      "news": {
+        "title": "한국우편사업진흥원, 지역사회공헌 인정 4년 연속 획득",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20261123105237"
+      }
+    },
+    {
+      "keyword": "필라데피아 대 포틀랜드",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "Sixers vs. Trail Blazers: Game Preview, Injury Report and How to Watch 11/23/2026",
+        "source": "NBA.com",
+        "url": "https://sixers.com/news/sixers-vs-trail-blazers-game-preview-injury-report-and-how-to-watch-11-23-2026"
+      }
+    },
+    {
+      "keyword": "사이드카",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[속보] 급등장에 코스피 이어 코스닥도 '매수 사이드카'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6868050_36932.html"
+      }
+    },
+    {
+      "keyword": "경마",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "화천군, 마사회 본부·경마공원 유치 나서…간척리 제안",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261123100000017"
+        "url": "https://www.yna.co.kr/view/AKR20261123148500062"
       }
     },
     {
-      "keyword": "중위소득",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1"
-      }
-    },
-    {
-      "keyword": "브레인악셀",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html"
-      }
-    },
-    {
-      "keyword": "이진관 판사",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12329370"
-      }
-    },
-    {
-      "keyword": "혼다",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk"
-      }
-    },
-    {
-      "keyword": "반도체 메모리",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026112330656"
-      }
-    },
-    {
-      "keyword": "가석방",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6867785_36911.html"
-      }
-    },
-    {
-      "keyword": "m",
+      "keyword": "cj그룹",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
-        "source": "ESPN",
-        "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract"
+        "title": "CJ문화재단, '유재하 음악경연대회' 개최…역대 최다 지원",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261123022600030"
       }
     },
     {
-      "keyword": "공항",
+      "keyword": "차두리",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=375139"
+        "title": "화성FC, 최종전 남기고 첫 플레이오프행 확정",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723065"
       }
     },
     {
-      "keyword": "일론 머스크",
+      "keyword": "박윤영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026112340657"
+        "title": "“골목상권 살리고 돌봄 기록도 AI로”…KT·행안부, 지역문제 해결 맞손",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202611231500001"
+      }
+    },
+    {
+      "keyword": "공무원연금공단",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "공무원연금공단, 꿈오름 도서관 2호점 개관…독서 공간 넘어 문화 활동까지 운영",
+        "source": "팝콘뉴스",
+        "url": "https://www.popcornnews.net/news/articleView.html?idxno=141210"
       }
     }
   ]
