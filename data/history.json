@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-11-23T12:28:48.815729+09:00",
-    "label": "12:28",
-    "items": [
-      {
-        "keyword": "lpga",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul Wins for 3rd Straight Year",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858116"
-        }
-      },
-      {
-        "keyword": "화이트캡스 대 솔트레이크",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "NSHvsCIN 11-22-2026 | MLS Match Recap",
-          "source": "MLSsoccer.com",
-          "url": "https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvscin-11-22-2026/"
-        }
-      },
-      {
-        "keyword": "ssg 랜더스",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "'원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261122016900007"
-        }
-      },
-      {
-        "keyword": "구조조정",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/22/2026112280034.html"
-        }
-      },
-      {
-        "keyword": "부산항",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "부산항만공사, 중기 우수기술 판로 확대 '기술마켓데이' 개최",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611231019057668"
-        }
-      },
-      {
-        "keyword": "제주특별자치도",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": null
-      },
-      {
-        "keyword": "삼성증권",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
-          "source": "보안뉴스",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147441"
-        }
-      },
-      {
-        "keyword": "국가장학금",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261123047100530"
-        }
-      },
-      {
-        "keyword": "네이버 주가",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452626"
-        }
-      },
-      {
-        "keyword": "리비아",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "‘우크라 공격 추정’ 리비아항 러 군함 피격…러, 키이우 공습",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719534"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-23T22:51:24.128662+09:00",
     "label": "22:51",
     "items": [
@@ -415,6 +313,112 @@
           "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-25T06:42:48.909527+09:00",
+    "label": "06:42",
+    "items": [
+      {
+        "keyword": "원자력 잠수함",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "핵잠 수주 관건은 '원자로 연계-모함·도크 정비인프라'",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611201621574680"
+        }
+      },
+      {
+        "keyword": "배당",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "한국투자저축, 지주에 1800억 배당…투자 위축에 '자생력' 흔들리나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8ynXX4UZsc"
+        }
+      },
+      {
+        "keyword": "real madrid vs psv",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "Real Madrid vs PSV Eindhoven Confirmed Lineups",
+          "source": "WhoScored.com",
+          "url": "https://www.whoscored.com/news/TfaadpG4Mk6Gvf__1ya9sQ/show/cng112-20261124-real-madrid-vs-psv-eindhoven-confirmed-lineup-1795546605"
+        }
+      },
+      {
+        "keyword": "로스앤젤레스 다저스",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "Might LA deal Teo to give De Paula a longer look in '27?",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez"
+        }
+      },
+      {
+        "keyword": "건설",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "반도체·주택 건설 인력난 대응…민관 전문인력 협의체 구성",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375208"
+        }
+      },
+      {
+        "keyword": "노소영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "최태원 “재산분할금 9440억원 내겠다”…9년 법정다툼 종료 임박",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12216253"
+        }
+      },
+      {
+        "keyword": "한진그룹",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[한진-호반 경영권 분쟁] '단순투자' 유지하는 호반, 지분 경쟁서 실리 챙겨 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224490004802&redirect=Dlog"
+        }
+      },
+      {
+        "keyword": "한동훈",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html"
+        }
+      },
+      {
+        "keyword": "국가기술자격",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "죽었는데 회사에 새로 등록됐다?…정부가 칼 빼든 이유",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611222136i"
+        }
+      },
+      {
+        "keyword": "수성구",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[대구소식]수성구민참여단, 여성의 시선으로 본 공공건축 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261124_0003881379"
         }
       }
     ]

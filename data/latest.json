@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-24T20:48:13.718681+09:00",
-  "label": "20:48",
+  "timestamp": "2026-11-25T06:42:48.909527+09:00",
+  "label": "06:42",
   "items": [
     {
-      "keyword": "프로포폴",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
+      "keyword": "원자력 잠수함",
+      "traffic_raw": "2000+",
+      "traffic": 2000,
       "news": {
-        "title": "‘반포대교 추락 포르쉐’ 약물 공급 혐의 병원장…1심서 징역형",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8721193"
+        "title": "핵잠 수주 관건은 '원자로 연계-모함·도크 정비인프라'",
+        "source": "파이낸셜뉴스",
+        "url": "https://www.fnnews.com/news/202611201621574680"
       }
     },
     {
-      "keyword": "배용준",
+      "keyword": "배당",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "배용준·박수진, 4년 하와이 생활 접고 한국행…반포 아파트 이사",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20261124/135082030/1"
+        "title": "한국투자저축, 지주에 1800억 배당…투자 위축에 '자생력' 흔들리나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/8ynXX4UZsc"
       }
     },
     {
-      "keyword": "스테이블코인",
-      "traffic_raw": "1000+",
-      "traffic": 1000,
-      "news": {
-        "title": "‘은행 주도’ 원화 코인 길 열렸다... 정부, 9년 만에 국내 발행 추진",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/economy_general/2026/11/24/PWWPU27V2VGUNPVBWFCWLDLNUY/"
-      }
-    },
-    {
-      "keyword": "pakistan a vs nepal",
+      "keyword": "real madrid vs psv",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Pakistan vs Nepal Live Score, Asia Cup Rising Stars Live Updates:Pakistan Shocked, 3-Down In 7 Overs vs Nepal",
-        "source": "NDTV Sports",
-        "url": "https://sports.ndtv.com/cricket/pakistan-vs-nepal-live-score-asia-cup-rising-stars-live-updates-12370170"
+        "title": "Real Madrid vs PSV Eindhoven Confirmed Lineups",
+        "source": "WhoScored.com",
+        "url": "https://www.whoscored.com/news/TfaadpG4Mk6Gvf__1ya9sQ/show/cng112-20261124-real-madrid-vs-psv-eindhoven-confirmed-lineup-1795546605"
       }
     },
     {
-      "keyword": "히잡",
+      "keyword": "로스앤젤레스 다저스",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "女가수 히잡 없이 노래했다고... 이란, 태형 74대 집행",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/11/24/QMYPD6IS55A5ND6CN6FHJPOMHE/"
+        "title": "Might LA deal Teo to give De Paula a longer look in '27?",
+        "source": "MLB.com",
+        "url": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez"
       }
     },
     {
-      "keyword": "한석준",
+      "keyword": "건설",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "한석준, 5년 갈아넣은 방송서 '강제 하차'...\"화나서 울었다\" - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112411215878301"
+        "title": "반도체·주택 건설 인력난 대응…민관 전문인력 협의체 구성",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=375208"
       }
     },
     {
-      "keyword": "캐니언",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202611222346i"
-      }
-    },
-    {
-      "keyword": "다리오 아모데이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "기대감의 시대 끝...AI, '수익성'으로 증명하라",
-        "source": "YTN 사이언스",
-        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231102465190"
-      }
-    },
-    {
-      "keyword": "지폐",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "화폐 부산물 활용한 '돈빛 조명' 출시…와디즈 펀딩 진행",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261124_0003881094"
-      }
-    },
-    {
-      "keyword": "무안국제공항",
+      "keyword": "노소영",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870"
+        "title": "최태원 “재산분할금 9440억원 내겠다”…9년 법정다툼 종료 임박",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12216253"
+      }
+    },
+    {
+      "keyword": "한진그룹",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[한진-호반 경영권 분쟁] '단순투자' 유지하는 호반, 지분 경쟁서 실리 챙겨 : 네이버 블로그",
+        "source": "Naver Blog",
+        "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224490004802&redirect=Dlog"
+      }
+    },
+    {
+      "keyword": "한동훈",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html"
+      }
+    },
+    {
+      "keyword": "국가기술자격",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "죽었는데 회사에 새로 등록됐다?…정부가 칼 빼든 이유",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611222136i"
+      }
+    },
+    {
+      "keyword": "수성구",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[대구소식]수성구민참여단, 여성의 시선으로 본 공공건축 등",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261124_0003881379"
       }
     }
   ]
