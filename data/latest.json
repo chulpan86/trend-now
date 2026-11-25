@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-11-25T13:41:18.603249+09:00",
-  "label": "13:41",
+  "timestamp": "2026-11-26T00:08:32.865877+09:00",
+  "label": "00:08",
   "items": [
     {
-      "keyword": "반도체",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "호남 반도체 용수 공급 덕남정수장 생산량 2배로 늘린다",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261125072000054"
-      }
-    },
-    {
-      "keyword": "연금 개혁",
-      "traffic_raw": "10000+",
-      "traffic": 10000,
-      "news": {
-        "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
-        "source": "주간경향",
-        "url": "https://weekly.khan.co.kr/article/202611250802011"
-      }
-    },
-    {
-      "keyword": "공휴일",
-      "traffic_raw": "5000+",
-      "traffic": 5000,
-      "news": {
-        "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html"
-      }
-    },
-    {
-      "keyword": "서훈",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12329695"
-      }
-    },
-    {
-      "keyword": "대전광역시",
+      "keyword": "세계의 주인",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": null
+      "news": {
+        "title": "박지현,’뉴욕에서 날아온 도미’ [O! STAR 숏폼]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G5STSOJQGEZWCZJUGY3DSMBRGM/"
+      }
     },
     {
-      "keyword": "홍익표",
+      "keyword": "존리",
+      "traffic_raw": "1000+",
+      "traffic": 1000,
+      "news": {
+        "title": "\"삼전 반값 됐다\" 울상인데…존 리가 콕 집은 '뜻밖의 희소식'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026112599427"
+      }
+    },
+    {
+      "keyword": "추미애",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/"
+        "title": "추미애 \"공직자의 판단 기준은 상부 지시 아닌 헌법\"... 새내기 공무원에 강조",
+        "source": "OhmyNews",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288477"
       }
     },
     {
-      "keyword": "에디차",
+      "keyword": "유은성",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "정찬성 지도했던 한국계 UFC 코치 별세 비보…UFC 파이터도 해설위원도 애도",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021708"
+        "title": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일 - 머니투데이",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727"
       }
     },
     {
-      "keyword": "제강",
+      "keyword": "acl two",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "[게시판] 동국제강그룹, 아름다운가게와 20번째 '아름다운하루' 행사",
+        "title": "Group D: East Bengal FC (IND) 1-0 Al Hussein (JOR)",
+        "source": "The AFC",
+        "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-1-0-al-hussein-jor"
+      }
+    },
+    {
+      "keyword": "일조권",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "[단독] 한강 품고 햇볕 놓친 압구정 … 분양가 또 다른 변수된 '일조권'",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/12218429"
+      }
+    },
+    {
+      "keyword": "청룡영화상 2026",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "청룡영화제 별들의 레드카펫…시상식 MC는 이제훈·한지민",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261124145500003"
+        "url": "https://www.yna.co.kr/view/IPT20261125000013365?section=gallery/index"
       }
     },
     {
-      "keyword": "채권",
+      "keyword": "박보검",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261125_0003882422"
+        "title": "사라진 고경표, 나타난 조진웅...연예인 직업의식은 어디에 [자막뉴스]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0134_202611251034284891"
       }
     },
     {
-      "keyword": "한국대학신문",
+      "keyword": "금연",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
-        "source": "새전북신문",
-        "url": "https://sjbnews.com/news/news.php?number=893393&year=2026"
+        "title": "\"술은 관계와 관계없다\"…음주폐해 예방의 달 기념식",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261125054000530"
+      }
+    },
+    {
+      "keyword": "fc서울",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[AFC축구 전적] 반둥 3-1 서울",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261125186800007"
       }
     }
   ]
