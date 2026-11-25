@@ -1,105 +1,101 @@
 {
-  "timestamp": "2026-11-25T06:42:48.909527+09:00",
-  "label": "06:42",
+  "timestamp": "2026-11-25T13:41:18.603249+09:00",
+  "label": "13:41",
   "items": [
     {
-      "keyword": "원자력 잠수함",
+      "keyword": "반도체",
+      "traffic_raw": "20000+",
+      "traffic": 20000,
+      "news": {
+        "title": "호남 반도체 용수 공급 덕남정수장 생산량 2배로 늘린다",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261125072000054"
+      }
+    },
+    {
+      "keyword": "연금 개혁",
+      "traffic_raw": "10000+",
+      "traffic": 10000,
+      "news": {
+        "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
+        "source": "주간경향",
+        "url": "https://weekly.khan.co.kr/article/202611250802011"
+      }
+    },
+    {
+      "keyword": "공휴일",
+      "traffic_raw": "5000+",
+      "traffic": 5000,
+      "news": {
+        "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html"
+      }
+    },
+    {
+      "keyword": "서훈",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "핵잠 수주 관건은 '원자로 연계-모함·도크 정비인프라'",
-        "source": "파이낸셜뉴스",
-        "url": "https://www.fnnews.com/news/202611201621574680"
+        "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12329695"
       }
     },
     {
-      "keyword": "배당",
+      "keyword": "대전광역시",
       "traffic_raw": "1000+",
       "traffic": 1000,
-      "news": {
-        "title": "한국투자저축, 지주에 1800억 배당…투자 위축에 '자생력' 흔들리나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/8ynXX4UZsc"
-      }
+      "news": null
     },
     {
-      "keyword": "real madrid vs psv",
+      "keyword": "홍익표",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "Real Madrid vs PSV Eindhoven Confirmed Lineups",
-        "source": "WhoScored.com",
-        "url": "https://www.whoscored.com/news/TfaadpG4Mk6Gvf__1ya9sQ/show/cng112-20261124-real-madrid-vs-psv-eindhoven-confirmed-lineup-1795546605"
+        "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/"
       }
     },
     {
-      "keyword": "로스앤젤레스 다저스",
+      "keyword": "에디차",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "Might LA deal Teo to give De Paula a longer look in '27?",
-        "source": "MLB.com",
-        "url": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez"
+        "title": "정찬성 지도했던 한국계 UFC 코치 별세 비보…UFC 파이터도 해설위원도 애도",
+        "source": "SPOTV NEWS",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021708"
       }
     },
     {
-      "keyword": "건설",
+      "keyword": "제강",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "반도체·주택 건설 인력난 대응…민관 전문인력 협의체 구성",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=375208"
+        "title": "[게시판] 동국제강그룹, 아름다운가게와 20번째 '아름다운하루' 행사",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261124145500003"
       }
     },
     {
-      "keyword": "노소영",
+      "keyword": "채권",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "최태원 “재산분할금 9440억원 내겠다”…9년 법정다툼 종료 임박",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12216253"
-      }
-    },
-    {
-      "keyword": "한진그룹",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[한진-호반 경영권 분쟁] '단순투자' 유지하는 호반, 지분 경쟁서 실리 챙겨 : 네이버 블로그",
-        "source": "Naver Blog",
-        "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224490004802&redirect=Dlog"
-      }
-    },
-    {
-      "keyword": "한동훈",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html"
-      }
-    },
-    {
-      "keyword": "국가기술자격",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "죽었는데 회사에 새로 등록됐다?…정부가 칼 빼든 이유",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202611222136i"
-      }
-    },
-    {
-      "keyword": "수성구",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[대구소식]수성구민참여단, 여성의 시선으로 본 공공건축 등",
+        "title": "한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261124_0003881379"
+        "url": "https://www.newsis.com/view/NISX20261125_0003882422"
+      }
+    },
+    {
+      "keyword": "한국대학신문",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
+        "source": "새전북신문",
+        "url": "https://sjbnews.com/news/news.php?number=893393&year=2026"
       }
     }
   ]
