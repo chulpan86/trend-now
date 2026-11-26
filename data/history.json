@@ -418,5 +418,107 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-26T14:56:57.759713+09:00",
+    "label": "14:56",
+    "items": [
+      {
+        "keyword": "연금",
+        "traffic_raw": "20000+",
+        "traffic": 20000,
+        "news": {
+          "title": "\"천6백조 국민연금 곁으로\"...국내외 금융기관들 '전주 러시'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611261301320715"
+        }
+      },
+      {
+        "keyword": "경찰",
+        "traffic_raw": "5000+",
+        "traffic": 5000,
+        "news": {
+          "title": "[속보]경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611261111001"
+        }
+      },
+      {
+        "keyword": "윤석열 무죄",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131"
+        }
+      },
+      {
+        "keyword": "k-라면",
+        "traffic_raw": "1000+",
+        "traffic": 1000,
+        "news": {
+          "title": "세계가 눈 뜬 K라면 맛…“공장 모자랄 판” 난리에 결국",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25482068"
+        }
+      },
+      {
+        "keyword": "김용빈",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "황신혜·붐, 첫 녹화부터 오열…역대급 시즌 (미스터트롯4)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261126/135095296/1"
+        }
+      },
+      {
+        "keyword": "조국",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261126580059"
+        }
+      },
+      {
+        "keyword": "kbo 시상식",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "\"韓 경험, 평생 잊을 수 없어\" 소뱅 입단 스기모토, 상 받기 위해 日서 건너왔다 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/26/2026112613583731435"
+        }
+      },
+      {
+        "keyword": "부산일보",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": null
+      },
+      {
+        "keyword": "신동엽",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "[공식] 신동엽·성시경·나연, ‘2026 KBS 연예대상’ MC 확정",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135087899/1"
+        }
+      },
+      {
+        "keyword": "김희영",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "충남도의회 김희영 의원, 청소년활동시설 활성화 간담회 참석...감사패 수여",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723456"
+        }
+      }
+    ]
   }
 ]
