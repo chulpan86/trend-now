@@ -1,101 +1,105 @@
 {
-  "timestamp": "2026-11-26T14:56:57.759713+09:00",
-  "label": "14:56",
+  "timestamp": "2026-11-27T01:15:28.467580+09:00",
+  "label": "01:15",
   "items": [
     {
-      "keyword": "연금",
-      "traffic_raw": "20000+",
-      "traffic": 20000,
-      "news": {
-        "title": "\"천6백조 국민연금 곁으로\"...국내외 금융기관들 '전주 러시'",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0115_202611261301320715"
-      }
-    },
-    {
-      "keyword": "경찰",
+      "keyword": "송파구",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "[속보]경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611261111001"
+        "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/12219258"
       }
     },
     {
-      "keyword": "윤석열 무죄",
+      "keyword": "반도체 메모리",
       "traffic_raw": "2000+",
       "traffic": 2000,
       "news": {
-        "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131"
+        "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261126188000009"
       }
     },
     {
-      "keyword": "k-라면",
+      "keyword": "강소휘",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "세계가 눈 뜬 K라면 맛…“공장 모자랄 판” 난리에 결국",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/article/25482068"
+        "title": "[영상] 기업은행 노장의 분노, 그리고 이소영 딜레마?",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723375"
       }
     },
     {
-      "keyword": "김용빈",
+      "keyword": "회계사",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "황신혜·붐, 첫 녹화부터 오열…역대급 시즌 (미스터트롯4)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20261126/135095296/1"
+        "title": "전국 60개 대학 AI·SW 성과 한자리에",
+        "source": "YTN 사이언스",
+        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261108002181"
       }
     },
     {
-      "keyword": "조국",
+      "keyword": "올림픽선수기자촌",
       "traffic_raw": "500+",
       "traffic": 500,
       "news": {
-        "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20261126580059"
+        "title": "[현장] 올선 재건축, 구의회 문턱도 못 갔다…주민들 “10일 내 답변하라” 법적 대응 예고",
+        "source": "에너지경제신문",
+        "url": "https://m.ekn.kr/view.php?key=20261126024275133"
       }
     },
     {
-      "keyword": "kbo 시상식",
+      "keyword": "스파이",
       "traffic_raw": "200+",
       "traffic": 200,
       "news": {
-        "title": "\"韓 경험, 평생 잊을 수 없어\" 소뱅 입단 스기모토, 상 받기 위해 日서 건너왔다 - 머니투데이",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/11/26/2026112613583731435"
+        "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html"
       }
     },
     {
-      "keyword": "부산일보",
+      "keyword": "u17 việt nam",
       "traffic_raw": "200+",
       "traffic": 200,
-      "news": null
-    },
-    {
-      "keyword": "신동엽",
-      "traffic_raw": "100+",
-      "traffic": 100,
       "news": {
-        "title": "[공식] 신동엽·성시경·나연, ‘2026 KBS 연예대상’ MC 확정",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20261125/135087899/1"
+        "title": "Kết quả bóng đá U17 Việt Nam vs U17 Mali: Cái kết nghiệt ngã",
+        "source": "Thể Thao 247",
+        "url": "https://thethao247.vn/190556-ket-qua-bong-da-u17-viet-nam-vs-u17-mali-20h00-hom-nay-26-11-c1-d447313.html"
       }
     },
     {
-      "keyword": "김희영",
+      "keyword": "수디르만컵",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "'꿈은 이뤄졌다'배드민턴 메이저대회 '수디르만컵' 한국서 열린다…2029년 대회 개최 확정, 한국 셔틀콕 오랜 숙원 해결 '쾌거'",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/11/26/HBRTQZLFMY2WEZBTG5QTOYRTGU/"
+      }
+    },
+    {
+      "keyword": "크리스 리벤",
       "traffic_raw": "100+",
       "traffic": 100,
       "news": {
-        "title": "충남도의회 김희영 의원, 청소년활동시설 활성화 간담회 참석...감사패 수여",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723456"
+        "title": "\"맞자마자 반칙이라고 생각\" 추성훈에게 맞고 안와골절…'사커킥 맞은 순간' 떠올린 크리스 리벤",
+        "source": "SPOTV NEWS",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022153"
+      }
+    },
+    {
+      "keyword": "삼성반도체",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20261126000296"
       }
     }
   ]
