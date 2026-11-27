@@ -1,105 +1,105 @@
 {
-  "timestamp": "2026-11-27T01:15:28.467580+09:00",
-  "label": "01:15",
+  "timestamp": "2026-11-27T09:51:48.986020+09:00",
+  "label": "09:51",
   "items": [
     {
-      "keyword": "송파구",
+      "keyword": "김사윤",
       "traffic_raw": "5000+",
       "traffic": 5000,
       "news": {
-        "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/12219258"
+        "title": "KIA가 '우승포수' 내주며 트레이드로 영입했는데…끝내 은퇴선언 \"개명까지 했는데 수술만 2번, 정말 힘든 싸움이었다\"",
+        "source": "SPOTV NEWS",
+        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022182"
       }
     },
     {
-      "keyword": "반도체 메모리",
-      "traffic_raw": "2000+",
-      "traffic": 2000,
-      "news": {
-        "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261126188000009"
-      }
-    },
-    {
-      "keyword": "강소휘",
+      "keyword": "1호선",
       "traffic_raw": "1000+",
       "traffic": 1000,
       "news": {
-        "title": "[영상] 기업은행 노장의 분노, 그리고 이소영 딜레마?",
+        "title": "철도노조 투쟁 첫날...무궁화호 멈추고 전철 무더기 지연",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611270503025651_005.html"
+      }
+    },
+    {
+      "keyword": "보그",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "짙푸르고도 강렬한 여운, 정국",
+        "source": "Vogue korea",
+        "url": "https://www.vogue.co.kr/2026/11/26/%EC%A7%99%ED%91%B8%EB%A5%B4%EA%B3%A0%EB%8F%84-%EA%B0%95%EB%A0%AC%ED%95%9C-%EC%97%AC%EC%9A%B4-%EC%A0%95%EA%B5%AD/"
+      }
+    },
+    {
+      "keyword": "장한별",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "장한별, 명품 몸매 인증 …벌크업無 이두근·삼두근 윤곽 명확",
+        "source": "마이데일리",
+        "url": "https://mydaily.co.kr/page/view/2026112617115595952"
+      }
+    },
+    {
+      "keyword": "김용범",
+      "traffic_raw": "200+",
+      "traffic": 200,
+      "news": {
+        "title": "자본시장개혁기구 수장에 메리츠 김용범…민간에 전권 부여(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261126171651002"
+      }
+    },
+    {
+      "keyword": "대한민국 기후에너지환경부",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "SH, 기후부 장관상 수상…'환경 정보 공개 우수' 평가",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261126_0003885110"
+      }
+    },
+    {
+      "keyword": "에이피알",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "에이피알, 3900억에 '닥터멜락신' 품는다…브랜드501 지분 87% 확보",
+        "source": "인베스트조선",
+        "url": "https://www.investchosun.com/site/data/html_dir/2026/11/26/2026112680211.html"
+      }
+    },
+    {
+      "keyword": "래미안원베일리",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "서초구 래미안원베일리 53억 5천만원·52억원 거래… 서울 아파트 실거래가 [MAI부동산]",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/12219847"
+      }
+    },
+    {
+      "keyword": "빅뱅",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "빅뱅 신곡에 검색 급증…유튜브 타고 세계로 퍼진 MAMA 열기",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=01682646645649656&mediaCodeNo=257"
+      }
+    },
+    {
+      "keyword": "급식 파업",
+      "traffic_raw": "100+",
+      "traffic": 100,
+      "news": {
+        "title": "학교 비정규직 오늘 총파업…급식·돌봄 등 차질",
         "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723375"
-      }
-    },
-    {
-      "keyword": "회계사",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "전국 60개 대학 AI·SW 성과 한자리에",
-        "source": "YTN 사이언스",
-        "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261108002181"
-      }
-    },
-    {
-      "keyword": "올림픽선수기자촌",
-      "traffic_raw": "500+",
-      "traffic": 500,
-      "news": {
-        "title": "[현장] 올선 재건축, 구의회 문턱도 못 갔다…주민들 “10일 내 답변하라” 법적 대응 예고",
-        "source": "에너지경제신문",
-        "url": "https://m.ekn.kr/view.php?key=20261126024275133"
-      }
-    },
-    {
-      "keyword": "스파이",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html"
-      }
-    },
-    {
-      "keyword": "u17 việt nam",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "Kết quả bóng đá U17 Việt Nam vs U17 Mali: Cái kết nghiệt ngã",
-        "source": "Thể Thao 247",
-        "url": "https://thethao247.vn/190556-ket-qua-bong-da-u17-viet-nam-vs-u17-mali-20h00-hom-nay-26-11-c1-d447313.html"
-      }
-    },
-    {
-      "keyword": "수디르만컵",
-      "traffic_raw": "200+",
-      "traffic": 200,
-      "news": {
-        "title": "'꿈은 이뤄졌다'배드민턴 메이저대회 '수디르만컵' 한국서 열린다…2029년 대회 개최 확정, 한국 셔틀콕 오랜 숙원 해결 '쾌거'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_general/2026/11/26/HBRTQZLFMY2WEZBTG5QTOYRTGU/"
-      }
-    },
-    {
-      "keyword": "크리스 리벤",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "\"맞자마자 반칙이라고 생각\" 추성훈에게 맞고 안와골절…'사커킥 맞은 순간' 떠올린 크리스 리벤",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022153"
-      }
-    },
-    {
-      "keyword": "삼성반도체",
-      "traffic_raw": "100+",
-      "traffic": 100,
-      "news": {
-        "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261126000296"
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8724213"
       }
     }
   ]
