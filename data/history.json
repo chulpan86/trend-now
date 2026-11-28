@@ -1,111 +1,5 @@
 [
   {
-    "timestamp": "2026-11-27T01:15:28.467580+09:00",
-    "label": "01:15",
-    "items": [
-      {
-        "keyword": "송파구",
-        "traffic_raw": "5000+",
-        "traffic": 5000,
-        "news": {
-          "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12219258"
-        }
-      },
-      {
-        "keyword": "반도체 메모리",
-        "traffic_raw": "2000+",
-        "traffic": 2000,
-        "news": {
-          "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261126188000009"
-        }
-      },
-      {
-        "keyword": "강소휘",
-        "traffic_raw": "1000+",
-        "traffic": 1000,
-        "news": {
-          "title": "[영상] 기업은행 노장의 분노, 그리고 이소영 딜레마?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723375"
-        }
-      },
-      {
-        "keyword": "회계사",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "전국 60개 대학 AI·SW 성과 한자리에",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261108002181"
-        }
-      },
-      {
-        "keyword": "올림픽선수기자촌",
-        "traffic_raw": "500+",
-        "traffic": 500,
-        "news": {
-          "title": "[현장] 올선 재건축, 구의회 문턱도 못 갔다…주민들 “10일 내 답변하라” 법적 대응 예고",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20261126024275133"
-        }
-      },
-      {
-        "keyword": "스파이",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html"
-        }
-      },
-      {
-        "keyword": "u17 việt nam",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "Kết quả bóng đá U17 Việt Nam vs U17 Mali: Cái kết nghiệt ngã",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/190556-ket-qua-bong-da-u17-viet-nam-vs-u17-mali-20h00-hom-nay-26-11-c1-d447313.html"
-        }
-      },
-      {
-        "keyword": "수디르만컵",
-        "traffic_raw": "200+",
-        "traffic": 200,
-        "news": {
-          "title": "'꿈은 이뤄졌다'배드민턴 메이저대회 '수디르만컵' 한국서 열린다…2029년 대회 개최 확정, 한국 셔틀콕 오랜 숙원 해결 '쾌거'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/26/HBRTQZLFMY2WEZBTG5QTOYRTGU/"
-        }
-      },
-      {
-        "keyword": "크리스 리벤",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "\"맞자마자 반칙이라고 생각\" 추성훈에게 맞고 안와골절…'사커킥 맞은 순간' 떠올린 크리스 리벤",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022153"
-        }
-      },
-      {
-        "keyword": "삼성반도체",
-        "traffic_raw": "100+",
-        "traffic": 100,
-        "news": {
-          "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261126000296"
-        }
-      }
-    ]
-  },
-  {
     "timestamp": "2026-11-27T09:51:48.986020+09:00",
     "label": "09:51",
     "items": [
@@ -513,6 +407,108 @@
           "title": "갤럭시S27 울트라·프로 모형 나란히 포착…후면 디자인 보니",
           "source": "지디넷코리아",
           "url": "https://zdnet.co.kr/view/?no=20261127084258"
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-28T20:06:31.158112+09:00",
+    "label": "20:06",
+    "items": [
+      {
+        "keyword": "fc 서울 대 대전 하나 시티즌 순위",
+        "traffic_raw": "10000+",
+        "traffic": 10000,
+        "news": {
+          "title": "FC서울 우승 파티 빛낸 막내 손정범…\"대표팀서 배우고 왔어요\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261128048800007"
+        }
+      },
+      {
+        "keyword": "부천 fc 1995 대 김천상무 순위",
+        "traffic_raw": "2000+",
+        "traffic": 2000,
+        "news": {
+          "title": "\"반성도 많이 하게 되는 시즌\" 이영민 부천 감독이 돌아본 2026년...\"나부터 발전할 부분 찾아야\"[현장 인터뷰] - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/28/202611281836772253O"
+        }
+      },
+      {
+        "keyword": "서울역",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "[썰물밀물] 경인 철도 지하화와 인천 발전의 새로운 전환점",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337925"
+        }
+      },
+      {
+        "keyword": "開票",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": null
+      },
+      {
+        "keyword": "북항친수공원",
+        "traffic_raw": "500+",
+        "traffic": 500,
+        "news": {
+          "title": "‘부캉이’ 재진입 차단시설 12월1일 철거…“따뜻한 남쪽 바다서 잘 지내니”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611281006001"
+        }
+      },
+      {
+        "keyword": "울산광역시",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "영광군노인복지관 어르신 동아리, \"방한용품 등 560여 점\" 기탁",
+          "source": "전라일보",
+          "url": "http://www.jeollailbo.com/news/articleView.html?idxno=817658"
+        }
+      },
+      {
+        "keyword": "욕망의 덫",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "'욕망의 덫' 전혜원, 희귀 혈액형 Rh-A형으로 출생의 비밀 알았다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764239"
+        }
+      },
+      {
+        "keyword": "국가유공자",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "부산보훈청·한전 부울본부, 국가유공자 제146·147호 '보비하우스' 오픈",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765998"
+        }
+      },
+      {
+        "keyword": "박정우",
+        "traffic_raw": "200+",
+        "traffic": 200,
+        "news": {
+          "title": "KIA 내부 FA 초대형 변수 등장! 'MVP' 韓슈퍼스타 간절히 외쳤다 \"김태군-김호령 꼭 필요한 선배들, 계약해주세요\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/27/GQYDOMZTMQ4WEMRVHA4GCYLDMI/"
+        }
+      },
+      {
+        "keyword": "제주공항",
+        "traffic_raw": "100+",
+        "traffic": 100,
+        "news": {
+          "title": "제주 강풍에 피해 잇따라…하늘길·뱃길도 차질",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8725188"
         }
       }
     ]
